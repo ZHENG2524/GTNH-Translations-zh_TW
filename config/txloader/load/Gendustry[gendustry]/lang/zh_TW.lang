@@ -66,7 +66,7 @@ gendustry.upgrades.sky.name=露天環境升級
 gendustry.upgrades.hell.name=地獄環境升級
 gendustry.upgrades.winter.name=嚴寒環境升級
 gendustry.upgrades.auto.name=自動化升級
-gendustry.upgrades.humidifier.name=加溼器升級
+gendustry.upgrades.humidifier.name=加濕器升級
 gendustry.upgrades.dryer.name=乾燥器升級
 gendustry.upgrades.heater.name=加熱器升級
 gendustry.upgrades.sieve.name=篩濾升級
@@ -102,7 +102,7 @@ gendustry.label.breeding=飼育中
 gendustry.label.working=生產中
 gendustry.label.maxinstall=最大安裝量:
 gendustry.label.temperature=溫度: %s
-gendustry.label.humidity=溼度: %s
+gendustry.label.humidity=濕度: %s
 gendustry.label.energy=能量需求: %s %s/t
 gendustry.label.lifespan=壽命改變: %s
 gendustry.label.flowering=授粉機率: %s
@@ -129,7 +129,7 @@ gendustry.label.mod.production=* 產量
 gendustry.label.mod.territory=* 活動範圍
 gendustry.label.mod.sieve=* 花粉收集
 gendustry.label.mod.temperature=* 溫度
-gendustry.label.mod.humidity=* 溼度
+gendustry.label.mod.humidity=* 濕度
 
 gendustry.label.sample.rootBees=採集自蜜蜂
 gendustry.label.sample.rootTrees=採集自樹苗
@@ -174,11 +174,11 @@ gendustry.chromosome.LIFESPAN=壽命
 gendustry.chromosome.TERRITORY=活動範圍
 gendustry.chromosome.FERTILITY=生育能力
 gendustry.chromosome.SIZE=大小
-gendustry.chromosome.HUMIDITY=溼度
+gendustry.chromosome.HUMIDITY=濕度
 gendustry.chromosome.SPECIES=品種
 gendustry.chromosome.FIRE_RESIST=耐火性
 gendustry.chromosome.TEMPERATURE_TOLERANCE=耐溫性
-gendustry.chromosome.HUMIDITY_TOLERANCE=耐溼性
+gendustry.chromosome.HUMIDITY_TOLERANCE=耐濕性
 gendustry.chromosome.PLANT=植物
 gendustry.chromosome.EFFECT=特殊效果
 gendustry.chromosome.CAVE_DWELLING=穴居性
@@ -220,7 +220,7 @@ gendustry.givesample.success=基因樣本（品種=%s，染色體=%s。基因=%s
 
 # ==== MUTATION REQUIREMENTS ====
 gendustry.req.temperature=溫度需求: %s
-gendustry.req.humidity=溼度需求: %s
+gendustry.req.humidity=濕度需求: %s
 gendustry.req.biome=生態群系需求: %s
 gendustry.req.block=方塊需要: %s
 

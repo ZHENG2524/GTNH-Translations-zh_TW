@@ -190,7 +190,7 @@ ingameinfoxml.tag.xpuntilnext.desc=玩家升級所需經驗值.
 ingameinfoxml.tag.xpcap.desc=玩家到達當前等級總共所需經驗值.
 ingameinfoxml.tag.username.desc=玩家名稱.
 ingameinfoxml.tag.inwater.desc=如果玩家位於水下，返回§etrue§r，否則返回§efalse§r。
-ingameinfoxml.tag.wet.desc=如果玩家被水打溼，返回§etrue§r，否則返回§efalse§r。
+ingameinfoxml.tag.wet.desc=如果玩家被水打濕，返回§etrue§r，否則返回§efalse§r。
 ingameinfoxml.tag.alive.desc=如果玩家存活，返回§etrue§r，否則返回§efalse§r。
 ingameinfoxml.tag.burning.desc=如果玩家著火，返回§etrue§r，否則返回§efalse§r。
 ingameinfoxml.tag.riding.desc=如果玩家正在騎乘，返回§etrue§r，否則返回§efalse§r。
@@ -268,7 +268,7 @@ ingameinfoxml.tag.slimes.desc=如果當前區塊為史萊姆區塊，返回§etr
 ingameinfoxml.tag.hardcore.desc=如果該遊戲世界為極限模式，返回§etrue§r，否則返回§efalse§r。
 ingameinfoxml.tag.temperature.desc=生物群系溫度.
 ingameinfoxml.tag.localtemperature.desc=你當前位置的生物群系溫度.
-ingameinfoxml.tag.humidity.desc=生物群系溼度.
+ingameinfoxml.tag.humidity.desc=生物群系濕度.
 
 # gui - tag list - integration - blood magic
 ingameinfoxml.tag.bmlp.desc=當前§4LP§r.

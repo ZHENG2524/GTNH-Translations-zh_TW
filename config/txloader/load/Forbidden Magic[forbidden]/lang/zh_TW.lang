@@ -242,7 +242,7 @@ forbidden.research_page.ROD_witchwood_staff.1=巫魂木法杖要吞噬掉太多�
 #
 forbidden.research_name.ROD_livingwood=活木杖柄
 forbidden.research_text.ROD_livingwood=植物Vis容器
-forbidden.research_page.ROD_livingwood.1=活木擁有操縱魔力的非凡能力。當與合適的試劑結合時，它可以被製成能夠儲存%d點vis的魔杖核心，甚至能將魔力轉化為vis。<BR><BR>活木魔杖會迅速從你物品欄中的儲存物品或佩戴的飾品中汲取魔力，以進行自我充能。<BR><BR>遺憾的是，灌注過程會耗盡活木的生命力。一旦完成灌注，魔杖杖杆必須在魔力池中充能才能重新啟用。
+forbidden.research_page.ROD_livingwood.1=活木擁有操縱魔力的非凡能力。當與合適的試劑結合時，它可以被製成能夠儲存%d點vis的魔杖核心，甚至能將魔力轉化為vis。<BR><BR>活木魔杖會迅速從你物品欄中的儲存物品或佩戴的飾品中汲取魔力，以進行自我充能。<BR><BR>遺憾的是，灌注過程會耗盡活木的生命力。一旦完成灌注，魔杖杖桿必須在魔力池中充能才能重新啟用。
 #
 forbidden.research_name.ROD_dreamwood_staff=夢之木杖柄
 forbidden.research_text.ROD_dreamwood_staff=甜美之夢所締造
@@ -278,7 +278,7 @@ forbidden.research_page.TRANSEMERALD.1=你研究出一種將綠寶石碎片浸�
 #
 forbidden.research_name.BLACKFLOWER=暗影玫瑰
 forbidden.research_text.BLACKFLOWER=救救烏賊！
-forbidden.research_page.BLACKFLOWER.1=沒有比一個溼漉漉的神秘使還要更令人悲慼的畫面了。儘管你掌控著偉大而神奇的魔力，但每次需要補充墨水的時候，你仍然不得不跳進最近的湖裡去獵殺烏賊。<BR><BR>你殺烏賊真的殺得膩歪透了。向玫瑰注入tenebrae和victus源質，你創造出一種莖葉如雜草，花瓣可以磨漿成墨汁的花。
+forbidden.research_page.BLACKFLOWER.1=沒有比一個濕漉漉的神秘使還要更令人悲慼的畫面了。儘管你掌控著偉大而神奇的魔力，但每次需要補充墨水的時候，你仍然不得不跳進最近的湖裡去獵殺烏賊。<BR><BR>你殺烏賊真的殺得膩歪透了。向玫瑰注入tenebrae和victus源質，你創造出一種莖葉如雜草，花瓣可以磨漿成墨汁的花。
 #
 forbidden.research_name.WRATHCAGE=暴怒之籠
 forbidden.research_text.WRATHCAGE=戰無止境

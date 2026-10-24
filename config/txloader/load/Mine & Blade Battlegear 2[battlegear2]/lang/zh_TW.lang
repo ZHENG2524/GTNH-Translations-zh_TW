@@ -91,14 +91,14 @@ enchantment.shield.recover=護盾回覆
 enchantment.bow.loot=時運之矢
 enchantment.bow.charge=張弦
 
-tile.battlegear2:flagpole.name=旗杆
-tile.battlegear2:flagpole.oak.name=橡木旗杆
-tile.battlegear2:flagpole.spruce.name=雲杉旗杆
-tile.battlegear2:flagpole.birch.name=白樺木旗杆
-tile.battlegear2:flagpole.jungle.name=叢林木旗杆
-tile.battlegear2:flagpole.iron.name=鐵旗杆
-tile.battlegear2:flagpole.acacia.name=金合歡木旗杆
-tile.battlegear2:flagpole.big_oak.name=深色橡木旗杆
+tile.battlegear2:flagpole.name=旗桿
+tile.battlegear2:flagpole.oak.name=橡木旗桿
+tile.battlegear2:flagpole.spruce.name=雲杉旗桿
+tile.battlegear2:flagpole.birch.name=白樺木旗桿
+tile.battlegear2:flagpole.jungle.name=叢林木旗桿
+tile.battlegear2:flagpole.iron.name=鐵旗桿
+tile.battlegear2:flagpole.acacia.name=金合歡木旗桿
+tile.battlegear2:flagpole.big_oak.name=深色橡木旗桿
 
 sigil.pattern.title=圖案
 sigil.icon.title=印章

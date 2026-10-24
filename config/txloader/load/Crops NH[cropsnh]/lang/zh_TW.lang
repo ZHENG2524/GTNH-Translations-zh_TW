@@ -137,7 +137,7 @@ cropsnh_tooltip.biomeTag.HOT=炎熱
 cropsnh_tooltip.biomeTag.COLD=寒冷
 cropsnh_tooltip.biomeTag.SPARSE=稀疏
 cropsnh_tooltip.biomeTag.DENSE=茂密
-cropsnh_tooltip.biomeTag.WET=潮溼
+cropsnh_tooltip.biomeTag.WET=潮濕
 cropsnh_tooltip.biomeTag.DRY=乾燥
 cropsnh_tooltip.biomeTag.SAVANNA=熱帶草原
 cropsnh_tooltip.biomeTag.CONIFEROUS=針葉
@@ -578,7 +578,7 @@ cropsnh_crops.eyebulb=眼球花
 cropsnh_crops.floweringVine=開花藤蔓
 cropsnh_crops.glowflower=夜光花
 cropsnh_crops.glowingCoral=夜光珊瑚
-cropsnh_crops.glowshroom=熒光菇
+cropsnh_crops.glowshroom=螢光菇
 cropsnh_crops.ivy=常春藤
 # Bonsais Crop Names
 cropsnh_crops.bonsaiOak=盆栽橡樹
@@ -631,7 +631,7 @@ cropsnh_crops.fertilia=肥料草
 cropsnh_crops.flax=亞麻
 cropsnh_crops.galvania=鋅葉草
 cropsnh_crops.garnydinia=石榴石草
-cropsnh_crops.glowheat=熒石小麥
+cropsnh_crops.glowheat=螢光石小麥
 cropsnh_crops.godOfThunder=天罰之雷
 cropsnh_crops.hemp=漢麻
 cropsnh_crops.indigo=靛藍草
@@ -697,9 +697,9 @@ cropsnh_crops.duskberry=黃昏莓
 cropsnh_crops.skyberry=天莓
 cropsnh_crops.stingberry=刺莓
 # Natura Nether Glowshroom Names
-cropsnh_crops.blueGlowshroom=藍色熒光菇
-cropsnh_crops.greenGlowshroom=綠色熒光菇
-cropsnh_crops.purpleGlowshroom=紫色熒光菇
+cropsnh_crops.blueGlowshroom=藍色螢光菇
+cropsnh_crops.greenGlowshroom=綠色螢光菇
+cropsnh_crops.purpleGlowshroom=紫色螢光菇
 # Natura Nether Crop Names
 cropsnh_crops.thornvine=荊藤
 # Ore Berries
@@ -826,7 +826,7 @@ cropsnh_growthReq.subSoil.shadowmetal=需要在其下方放置暗影金屬才能
 # Misc Block Growth Requirement
 cropsnh_growthReq.subSoil.skull=需要在其下方放置頭顱才能生長
 cropsnh_growthReq.subSoil.snow=需要在其下方放置雪塊才能生長
-cropsnh_growthReq.subSoil.glowstone=需要在其下方放置熒石才能生長
+cropsnh_growthReq.subSoil.glowstone=需要在其下方放置螢光石才能生長
 cropsnh_growthReq.subSoil.blaze=需要在其下方放置烈焰塊才能生長
 cropsnh_growthReq.subSoil.quicksilver=需要在其下方放置水銀塊才能生長
 

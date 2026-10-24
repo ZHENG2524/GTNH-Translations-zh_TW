@@ -38,7 +38,7 @@ tile.rainbowCactus.name=彩虹仙人掌
 tile.redlonStem.name=紅石瓜
 tile.ashroom.name=始源蘑菇
 tile.flaxium.name=咒波花
-tile.glieonia.name=熒光花作物
+tile.glieonia.name=螢光花作物
 tile.briar.name=治癒草
 tile.tobacco.name=菸草作物
 tile.voidPlant.name=虛空植物作物
@@ -147,7 +147,7 @@ item.knoseFragment.tainted.name=腐化知識
 item.sweedSeeds.name=蘆葦種子
 item.lazulliaSeeds.name=青金種子
 item.redlonSeeds.name=紅石瓜種子
-item.glieoniaSeed.name=熒光種子
+item.glieoniaSeed.name=螢光種子
 item.rosehipSyrup.name=玫瑰果漿
 
 item.greatwoodPipe.name=宏偉之木菸鬥
@@ -319,9 +319,9 @@ tc.research_name.TB.Flaxium=咒波花
 tc.research_text.TB.Flaxium=太多的汙染！
 tb.rec.flaxium.page.0=這種植物十分有趣。你並沒有創造出這種植物的想法，然而它已經出現在你的手裡了。這種花會主動吸收周圍空氣中的咒波，一旦收集滿咒波，它就會在它自身上方釋放出一陣咒波瓦斯。你對於如何使用這種植物並沒有很好的想法，但是它能吸收周圍源質的能力看起來十分有趣，也許它能作為其他一些東西的基礎？
 
-tc.research_name.TB.Glieonia=熒光花
+tc.research_name.TB.Glieonia=螢光花
 tc.research_text.TB.Glieonia=如何拼寫這個名字？
-tb.rec.glieonia.page.0=神秘學中最炫的是什麼？飛行！好吧，那麼第二炫呢？法杖核心？WOW，那麼第三炫……挖掘核心？真的嗎？我們在討論閃耀之光好嗎？！不論如何，閃耀之光是如此令人驚訝，它能放出閃耀的光芒，製作神奇的物品！但是，有一點……它需要熒石來製作……一個睿智的神秘使能夠精妙的解決這個問題！你已經成功培育出一種植物，它在收穫時會掉落2份熒石粉。有趣的是這種花並不發出任何光芒，即便是成長完全之後……為什麼會這樣？
+tb.rec.glieonia.page.0=神秘學中最炫的是什麼？飛行！好吧，那麼第二炫呢？法杖核心？WOW，那麼第三炫……挖掘核心？真的嗎？我們在討論閃耀之光好嗎？！不論如何，閃耀之光是如此令人驚訝，它能放出閃耀的光芒，製作神奇的物品！但是，有一點……它需要螢光石來製作……一個睿智的神秘使能夠精妙的解決這個問題！你已經成功培育出一種植物，它在收穫時會掉落2份螢光石粉。有趣的是這種花並不發出任何光芒，即便是成長完全之後……為什麼會這樣？
 
 tc.research_name.TB.Briar=治癒草
 tc.research_text.TB.Briar=一位自然的藥劑師

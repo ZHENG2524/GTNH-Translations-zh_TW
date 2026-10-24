@@ -109,7 +109,7 @@ wp.hud.msg.charge=已充能: %s
 wp.hud.msg.needMeter=手持電錶
 
 wp.hud.msg.currentRate=當前速率：%d (%d L/s)
-wp.hud.msg.biomeHumidityRate=生物群系溼度係數: %d
+wp.hud.msg.biomeHumidityRate=生物群系濕度係數: %d
 wp.hud.msg.rainingRate=降雨係數: %d
 wp.hud.msg.snowingRate=降雪係數: %d
 wp.hud.msg.cantSeeTheSkyRate=遮擋天空係數: %d

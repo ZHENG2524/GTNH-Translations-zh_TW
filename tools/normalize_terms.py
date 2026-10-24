@@ -12,7 +12,25 @@ RULES = [
     ("反應堆", "反應爐"),
     ("巖", "岩"),
     ("吸 幹 抹 淨", "吸 乾 抹 淨"),
+    ("等離子體", "電漿"), ("等離子", "電漿"),
+    ("刻蝕", "蝕刻"),
+    ("溼", "濕"), ("杆", "桿"),
+    ("亞熒石", "亞螢石"), ("熒石", "螢光石"), ("熒光", "螢光"),
 ]
+
+# GregTech_zh_TW.lang 內逐 key 修正（材料名等，值完全取代）
+KEY_FIXES = {
+    "Material.silicon": "矽",
+    "fluid.molten.silicon": "熔融矽",
+    "fluid.plasma.silicon": "矽電漿",
+    "Material.nano": "奈米",
+    "Material.piko": "皮米",
+    "Material.hexachlorodisilane": "六氯二矽烷",
+    "Material.dimethyldichlorosilane": "二甲基二氯矽烷",
+    "Material.crudeoil": "原油",
+    "Material.endstone": "終界石",
+    "Material.hydrochloricacid_gt5u": "鹽酸",
+}
 
 def fix_value(v, stat):
     for a, b in RULES:
@@ -24,10 +42,16 @@ def fix_value(v, stat):
 
 def process(path, stat):
     out, changed = [], False
+    is_gt = path.name == "GregTech_zh_TW.lang"
     for line in path.read_text(encoding="utf-8").splitlines(keepends=True):
         if "=" in line and not line.lstrip().startswith("#"):
             k, v = line.split("=", 1)
             nv = fix_value(v, stat)
+            if is_gt:
+                key = k.strip().removeprefix("S:").strip('"')
+                if key in KEY_FIXES and v.rstrip("\n") != KEY_FIXES[key]:
+                    nv = KEY_FIXES[key] + ("\n" if v.endswith("\n") else "")
+                    stat["key:" + key] += 1
             if nv != v:
                 changed = True
             line = k + "=" + nv

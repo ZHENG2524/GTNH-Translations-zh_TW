@@ -65,7 +65,7 @@ block.log.fusewood.name=熔融樹原木
 item.natura.emptybowl.name=碗
 item.natura.stewbowl.name=燉湯
 item.bowl.mushroom.name=蘑菇煲
-item.bowl.glowshroom.name=熒光蘑菇燉
+item.bowl.glowshroom.name=螢光蘑菇燉
 
 tile.Darkleaves.name=樹葉
 block.leaves.darkwood.name=黑暗樹樹葉
@@ -255,10 +255,10 @@ tile.nether.glass.name=地獄玻璃
 tile.glass.soul.name=靈魂玻璃
 tile.glass.heat.name=灼熱玻璃
 
-tile.Glowshroom.name=熒光菇
-block.glowshroom.green.name=綠色熒光菇
-block.glowshroom.purple.name=紫色熒光菇
-block.glowshroom.blue.name=藍色熒光菇
+tile.Glowshroom.name=螢光菇
+block.glowshroom.green.name=綠色螢光菇
+block.glowshroom.purple.name=紫色螢光菇
+block.glowshroom.blue.name=藍色螢光菇
 
 tile.natura.leaves.name=樹葉
 tile.natura.leavesnocolor.name=樹葉
@@ -298,9 +298,9 @@ tile.bloodwood.name=血樹
 tile.saguaro.block.name=巨型仙人掌
 tile.bluebells.name=藍鈴草
 tile.natura.crops.name=作物
-tile.greenGlowshroom.name=綠色熒光菇
-tile.blueGlowshroom.name=藍色熒光菇
-tile.purpleGlowshroom.name=紫色熒光菇
+tile.greenGlowshroom.name=綠色螢光菇
+tile.blueGlowshroom.name=藍色螢光菇
+tile.purpleGlowshroom.name=紫色螢光菇
 
 tile.TaintedSoil.name=腐沙
 tile.HeatSand.name=熱沙
@@ -399,7 +399,7 @@ tooltip.berrybush2=生長在溫暖地區
 tooltip.berrybush3=又藍又酸
 tooltip.berrybush4=生長在溫帶
 tooltip.berrybush5=又黑又甜
-tooltip.berrybush6=生長在潮溼地區
+tooltip.berrybush6=生長在潮濕地區
 tooltip.berrybush7=橙黃美味
 tooltip.berrybush8=生長在寒冷地區
 tooltip.shroom=霓虹汁

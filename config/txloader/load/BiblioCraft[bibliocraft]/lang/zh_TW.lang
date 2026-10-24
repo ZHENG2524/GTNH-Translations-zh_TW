@@ -449,7 +449,7 @@ lock.unlocked=該方塊已解鎖
 
 // Blocks
 CookieJar.name=曲奇罐
-MarkerPole.name=標杆
+MarkerPole.name=標桿
 tile.BiblioType.name=排版臺
 tile.BiblioPress.name=拓印機
 tile.BiblioArmorStand.name=衣架

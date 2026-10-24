@@ -197,7 +197,7 @@ mm.enum.copyable.property.color=顏色
 mm.enum.copyable.property.rotation_state=rotation_state
 
 mm.enum.uplink_status.ok=良好
-mm.enum.uplink_status.no_plasma=等離子體不足
+mm.enum.uplink_status.no_plasma=電漿不足
 mm.enum.uplink_status.ae_offline=無法連線到ME系統
 mm.enum.uplink_status.no_hatch=缺少ME倉
 

@@ -12,9 +12,9 @@ tile.floodlights:carbonFloodlight.name=節能泛光燈
 tile.floodlights:electricFloodlight.name=電力泛光燈
 tile.floodlights:smallElectricFloodlight.name=小型電力泛光燈
 tile.floodlights:uvFloodlight.name=紫外線泛光燈
-tile.floodlights:smallElectricFloodlightMetaBlock.name=熒光燈
-tile.floodlights:smallElectricFloodlightMetaBlock_smallFluorescent.name=小型熒光燈
-tile.floodlights:smallElectricFloodlightMetaBlock_squareFluorescent.name=方形熒光燈
+tile.floodlights:smallElectricFloodlightMetaBlock.name=螢光燈
+tile.floodlights:smallElectricFloodlightMetaBlock_smallFluorescent.name=小型螢光燈
+tile.floodlights:smallElectricFloodlightMetaBlock_squareFluorescent.name=方形螢光燈
 tile.floodlights:growLight.name=催生燈
 
 tile.floodlights:tilePhantomLight.name=幻影燈

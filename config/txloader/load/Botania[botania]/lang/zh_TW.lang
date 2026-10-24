@@ -736,22 +736,22 @@ tile.botania:storage4.name=龍石塊
 tile.botania:forestDrum0.name=狂野之鼓
 tile.botania:forestDrum1.name=收集之鼓
 tile.botania:forestDrum2.name=林冠之鼓
-tile.botania:shinyFlower0.name=白色熒光花
-tile.botania:shinyFlower1.name=橙色熒光花
-tile.botania:shinyFlower2.name=品紅色熒光花
-tile.botania:shinyFlower3.name=淡藍色熒光花
-tile.botania:shinyFlower4.name=黃色熒光花
-tile.botania:shinyFlower5.name=黃綠色熒光花
-tile.botania:shinyFlower6.name=粉色熒光花
-tile.botania:shinyFlower7.name=灰色熒光花
-tile.botania:shinyFlower8.name=淡灰色熒光花
-tile.botania:shinyFlower9.name=青色熒光花
-tile.botania:shinyFlower10.name=紫色熒光花
-tile.botania:shinyFlower11.name=藍色熒光花
-tile.botania:shinyFlower12.name=棕色熒光花
-tile.botania:shinyFlower13.name=綠色熒光花
-tile.botania:shinyFlower14.name=紅色熒光花
-tile.botania:shinyFlower15.name=黑色熒光花
+tile.botania:shinyFlower0.name=白色螢光花
+tile.botania:shinyFlower1.name=橙色螢光花
+tile.botania:shinyFlower2.name=品紅色螢光花
+tile.botania:shinyFlower3.name=淡藍色螢光花
+tile.botania:shinyFlower4.name=黃色螢光花
+tile.botania:shinyFlower5.name=黃綠色螢光花
+tile.botania:shinyFlower6.name=粉色螢光花
+tile.botania:shinyFlower7.name=灰色螢光花
+tile.botania:shinyFlower8.name=淡灰色螢光花
+tile.botania:shinyFlower9.name=青色螢光花
+tile.botania:shinyFlower10.name=紫色螢光花
+tile.botania:shinyFlower11.name=藍色螢光花
+tile.botania:shinyFlower12.name=棕色螢光花
+tile.botania:shinyFlower13.name=綠色螢光花
+tile.botania:shinyFlower14.name=紅色螢光花
+tile.botania:shinyFlower15.name=黑色螢光花
 tile.botania:platform0.name=奧秘平臺
 tile.botania:platform1.name=幻影平臺
 tile.botania:platform2.name=不破平臺
@@ -1665,7 +1665,7 @@ item.botania:obedienceStick.name=植物遵從法杖
 item.botania:cacophonium.name=不和諧之音
 item.botania:slimeBottle.name=史萊姆罐子
 item.botania:starSword.name=召星者
-item.botania:exchangeRod.name=移殼杆 
+item.botania:exchangeRod.name=移殼桿 
 item.botania:magnetRingGreater.name=高階磁化指環
 item.botania:thunderSword.name=召雷者
 item.botania:manaweaveCloth.name=魔源布匹
@@ -2031,7 +2031,7 @@ item.elementiumShovel.name=源質鋼鏟
 item.elementiumSword.name=源質鋼劍
 item.enderDagger.name=靈魂匕首
 item.enderHand.name=終界之手
-item.exchangeRod.name=移殼杆
+item.exchangeRod.name=移殼桿
 item.fertilizer.name=花肥
 item.fireRod.name=地獄法杖
 item.flightTiara.name=天翼族之冠
@@ -2399,7 +2399,7 @@ tile.shimmerwoodPlanks.name=微光木板
 tile.shimmerwoodPlanks0Slab.name=微光木板臺階
 tile.shimmerwoodPlanks0SlabFull.name=微光木板臺階
 tile.shimmerwoodPlanks0Stairs.name=微光木板樓梯
-tile.shinyFlower.name=熒光花
+tile.shinyFlower.name=螢光花
 tile.solidVine.name=藤蔓
 tile.sparkChanger.name=火花工匠臺
 tile.spawnerClaw.name=生命灌注器
@@ -3133,7 +3133,7 @@ botania.page.manaAlchemy1=製作&1催化器&0
 botania.page.manaAlchemy2=&1腐肉&0變&1皮革&0
 botania.page.manaAlchemy3=各種型別的&1木頭&0
 botania.page.manaAlchemy4=各種型別的&1樹苗&0
-botania.page.manaAlchemy5=粉碎&1熒石&0
+botania.page.manaAlchemy5=粉碎&1螢光石&0
 botania.page.manaAlchemy6=粉碎&1石英塊&0
 botania.page.manaAlchemy7=製作&1鏨制石磚&0
 botania.page.manaAlchemy8=將&1雪塊&0完全凍結為&1冰&0
@@ -3147,7 +3147,7 @@ botania.page.manaAlchemy15=製造&1命名牌&0
 botania.page.manaAlchemy16=將&1羊毛&0變為&1線&0
 botania.page.manaAlchemy17=&1黏液球&0和&1仙人掌&0間轉化
 botania.page.manaAlchemy18=製造&1終界珍珠&0
-botania.page.manaAlchemy19=&1熒石粉&0和&1紅石&0間轉化
+botania.page.manaAlchemy19=&1螢光石粉&0和&1紅石&0間轉化
 botania.page.manaAlchemy20=將&1圓石&0粉碎成&1沙子&0
 botania.page.manaAlchemy21=將&1陶瓦&0變成&1紅沙&0
 botania.page.manaAlchemy22=粉碎&1黏土&0&1和磚塊&0
@@ -3260,7 +3260,7 @@ botania.tagline.manaConjuration=用魔力複製你的資源
 botania.page.manaConjuration0=類似&4魔力鍊金&0的能力，也存在著&4煉造&0的催化器，只利用魔法能量製作材料的魔法。工作的機制類似&1鍊金催化器&0，向下方有催化器的池子投擲物品。
 botania.page.manaConjuration1=製作催化器
 botania.page.manaConjuration2=煉造&1紅石&0
-botania.page.manaConjuration3=煉造&1熒石&0
+botania.page.manaConjuration3=煉造&1螢光石&0
 botania.page.manaConjuration4=煉造&1石英&0
 botania.page.manaConjuration5=煉造&1煤&0
 botania.page.manaConjuration6=煉造&1雪&0
@@ -3347,7 +3347,7 @@ botania.page.avatar2=但不是番劇嗎？
 # -- FEL PUMPKIN
 botania.entry.felPumpkin=惡魔頭南瓜
 botania.tagline.felPumpkin=生成烈焰人的南瓜
-botania.page.felPumpkin0=朝&1南瓜&0裡注入怪物瘋狂的精神就能製作&1惡魔頭南瓜&0。將這個邪惡南瓜放在兩個豎直放置的&1鐵欄杆&0上，這有點像製作&1雪傀儡&0，但它會生成烈焰人&0。<br>以這種方式生成的&1烈焰人&0顯然只能掉落合理數量的&1烈焰粉&0而不是一小撮&1烈焰棒&0。
+botania.page.felPumpkin0=朝&1南瓜&0裡注入怪物瘋狂的精神就能製作&1惡魔頭南瓜&0。將這個邪惡南瓜放在兩個豎直放置的&1鐵欄桿&0上，這有點像製作&1雪傀儡&0，但它會生成烈焰人&0。<br>以這種方式生成的&1烈焰人&0顯然只能掉落合理數量的&1烈焰粉&0而不是一小撮&1烈焰棒&0。
 botania.page.felPumpkin1=再次削弱魔法使們
 
 # - MYSTICAL INSTRUMENTS
@@ -3372,7 +3372,7 @@ botania.page.grassSeeds5=各種各樣的&1草地之種&0
 # -- ROD OF THE LANDS
 botania.entry.dirtRod=大地法杖
 botania.tagline.dirtRod=製造泥土的法杖
-botania.page.dirtRod0=&1土地之杖&0是一種相當簡單的工具；透過消耗玩家物品欄中的&4魔力&0（經由&1魔力石板&0或其他方式），它可以凝聚並放置一個&1泥土&0方塊。<br>付出相同的&4魔力&0消耗，該物品可以為&1移殼杆&0提供&1泥土&0。
+botania.page.dirtRod0=&1土地之杖&0是一種相當簡單的工具；透過消耗玩家物品欄中的&4魔力&0（經由&1魔力石板&0或其他方式），它可以凝聚並放置一個&1泥土&0方塊。<br>付出相同的&4魔力&0消耗，該物品可以為&1移殼桿&0提供&1泥土&0。
 botania.page.dirtRod1=髒髒的
 
 # -- TERRA FIRMA ROD
@@ -3570,7 +3570,7 @@ botania.page.clip2=透鏡太多？合而為一，自由切換吧!
 # -- ROD OF THE DEPTHS
 botania.entry.cobbleRod=深淵法杖
 botania.tagline.cobbleRod=製造圓石的法杖
-botania.page.cobbleRod0=&1深淵法杖&0的功能與&1大地之杖&0大致相同。它做的事情完全一樣，但使用的是&1圓石&0，價格略高一些。<br>在消耗相同&4魔力&0的情況下，此物品可為&1移殼杆&0提供&1圓石&0。
+botania.page.cobbleRod0=&1深淵法杖&0的功能與&1大地之杖&0大致相同。它做的事情完全一樣，但使用的是&1圓石&0，價格略高一些。<br>在消耗相同&4魔力&0的情況下，此物品可為&1移殼桿&0提供&1圓石&0。
 botania.page.cobbleRod1=圓石時間!
 
 # -- ROD OF THE MOLTEN CORE
@@ -3646,11 +3646,11 @@ botania.page.slimeBottle0=將一些史萊姆物質放入&1源質鋼錠容器&0�
 botania.page.slimeBottle1=跳娃娃
 
 # -- ROD OF THE SHIFTING CRUST
-botania.entry.exchangeRod=移殼杆
+botania.entry.exchangeRod=移殼桿
 botania.tagline.exchangeRod=改變方塊的法杖
-botania.page.exchangeRod0=&1移殼杆&0是一個能快速更替方塊的神奇裝置。為了做到這個，你必須先選擇一個目標方塊，潛行右擊放在地上的方塊即可。<br>選擇完以後，左擊另一個你想要替換的方塊，當然你的揹包必須有目標方塊。
+botania.page.exchangeRod0=&1移殼桿&0是一個能快速更替方塊的神奇裝置。為了做到這個，你必須先選擇一個目標方塊，潛行右擊放在地上的方塊即可。<br>選擇完以後，左擊另一個你想要替換的方塊，當然你的揹包必須有目標方塊。
 botania.page.exchangeRod1=右擊這個方塊會將你點選的方塊替換成你選擇的目標方塊。很顯然，這些方塊來自你的揹包。只有完整的方塊才能夠更替。花是不行的，火把及其他奇怪東西也是。使用這種力量自然需要揹包裡有&4魔力&0
-botania.page.exchangeRod2=其他一些裝置或法杖也能給&1移殼杆&0提供額外的能力。<br>例如&1大地法杖&0能給&1移殼杆&0無限的&1泥土&0，前提是你有供&1大地法杖&0消耗的額外&4魔力&0。
+botania.page.exchangeRod2=其他一些裝置或法杖也能給&1移殼桿&0提供額外的能力。<br>例如&1大地法杖&0能給&1移殼桿&0無限的&1泥土&0，前提是你有供&1大地法杖&0消耗的額外&4魔力&0。
 botania.page.exchangeRod3=私自公平貿易
 
 # -- MANAWEAVE CLOTH
@@ -3701,7 +3701,7 @@ botania.entry.enderHand=終界之手
 botania.tagline.enderHand=隨時隨地的終界箱
 botania.page.enderHand0=&1終界之手&0讓使用者能跨維度觸及末界，換言之就是&1終界箱&0的物品欄。無論何地只需用這個手右擊並消耗一些&4魔力&0。<br>若對其他玩家使用則會相應開啟&o他們的&r終界物品欄，消耗更多的&4魔力&0。
 botania.page.enderHand0a=&1終界之手&0讓使用者能跨維度觸及末界，換言之就是&1終界箱&0的物品欄。無論何地只需用這個手右擊並消耗一些&4魔力&0。
-botania.page.enderHand2=不僅如此，若玩家的揹包中有&1終界之手&0，那麼&1移殼杆&0就能使用玩家&1終界箱&0裡的方塊，這比起平時使用，要消耗更多的&4魔力&0。
+botania.page.enderHand2=不僅如此，若玩家的揹包中有&1終界之手&0，那麼&1移殼桿&0就能使用玩家&1終界箱&0裡的方塊，這比起平時使用，要消耗更多的&4魔力&0。
 botania.page.enderHand1=Zezima討厭他!
 botania.page.enderHand1a=就像是4G版的終界箱
 
@@ -4212,9 +4212,9 @@ botania.tagline.dispenserTweaks=讓你的發射器能做更多
 botania.page.dispenserTweaks0=&1發射器&0，在原有基礎上，也能種植作物，透過&1種子&0，&1馬鈴薯&0，&1胡蘿蔔&0甚至&1地獄疣&0。作物會種在發射器前方的方塊上。<br>&1發射器&0也能使用&1森林法杖&0做些特殊工作比如啟動&1符文祭&0&1壇&0。
 
 # -- GLIMMERING FLOWERS
-botania.entry.shinyFlowers=熒光花
+botania.entry.shinyFlowers=螢光花
 botania.tagline.shinyFlowers=浮空的發光花
-botania.page.shinyFlowers0=給你的&1神秘花&0加上點&1熒石粉&0，就能讓她們更閃耀，發出相當於&1熒石塊&0亮度的物理光。<br>加上一些&1泥土&0和&1草地之種&0就能將它們變為一塊小型空島，它不僅能發光，而且還很炫酷。
+botania.page.shinyFlowers0=給你的&1神秘花&0加上點&1螢光石粉&0，就能讓她們更閃耀，發出相當於&1螢光石塊&0亮度的物理光。<br>加上一些&1泥土&0和&1草地之種&0就能將它們變為一塊小型空島，它不僅能發光，而且還很炫酷。
 botania.page.shinyFlowers3=將任何顏色的&1浮空花朵&0與任何有效果的花朵，（任何&4功能性或產能花朵&0等）在工作臺裡相互結合，會得到擁有雙方屬性，效果及外觀的&1浮空花&0。
 botania.page.shinyFlowers1=一閃一閃
 botania.page.shinyFlowers2=就像拉普達（天空之城）但小多了
@@ -4324,7 +4324,7 @@ botania.page.tcIntegration1=首先，將任何一種&1魔力金屬&0頭盔和一
 botania.page.tcIntegration2=揭示之頭盔（植物魔法的頭盔都有效）
 botania.page.tcIntegration3=接下來，&4魔力&0也能作為一種特殊的墨水來使用。給&1筆與墨&0注入來自&1魔力池&0的&4魔力&0就能讓其將所提的&4魔力&0作為顏料源。<br>補充起來類似給&1魔力石板&0充能，直接扔到池子上面即可。
 botania.page.tcIntegration4=製作&1植物學家的筆墨&0
-botania.page.tcIntegration5=最後，還有一些對&1注魔祭壇&0有用的東西，能降低它的不穩定性。<br>它們是&1熒光花，浮空花和任意&0&1的水晶&0。
+botania.page.tcIntegration5=最後，還有一些對&1注魔祭壇&0有用的東西，能降低它的不穩定性。<br>它們是&1螢光花，浮空花和任意&0&1的水晶&0。
 botania.page.tcIntegration6a=也許精神錯亂不可能有什麼好的解決方法。在這種情況下，洗個澡會很有效。藥劑或許會成為更好的方法，但...
 botania.page.tcIntegration6b=a哥要不爽了
 

@@ -206,7 +206,7 @@ tooltip.mobhead.level=最高適用於：%s
 tooltip.uselessTool1=這個工具什麼都不能開採!
 tooltip.uselessTool2=它僅用於合成
 tooltip.uselessHoe1=這把鋤頭什麼都無法鋤動!
-tooltip.uselessWeapon1=這把武器就像溼麵條一樣無能!
+tooltip.uselessWeapon1=這把武器就像濕麵條一樣無能!
 tooltip.uselessBow1=這把弓的弦一拉就斷!
 
 tooltip.part.replaceable=可被替換

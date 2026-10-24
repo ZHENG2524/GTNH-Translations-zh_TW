@@ -89,7 +89,7 @@ tile.foliage.poisonivy.name=毒藤
 tile.foliage.berrybush.name=漿果灌木
 tile.foliage.shrub.name=灌木
 tile.foliage.wheatgrass.name=麥草
-tile.foliage.dampgrass.name=溼草
+tile.foliage.dampgrass.name=濕草
 tile.foliage.koru.name=銀蕨
 tile.foliage.cloverpatch.name=苜蓿地
 tile.foliage.leafpile.name=樹葉堆
@@ -405,7 +405,7 @@ item.scytheAmethyst.name=紫水晶鐮刀
 
 item.ancientStaff.ancientstaff.name=上古手仗
 item.ancientStaff.staffhandle.name=上古手杖手柄
-item.ancientStaff.staffpole.name=上古手杖仗杆
+item.ancientStaff.staffpole.name=上古手杖仗桿
 item.ancientStaff.stafftopper.name=上古手杖龍頭
 item.ancientStaff.ancientstaffbroken.name=廢棄上古手杖
 

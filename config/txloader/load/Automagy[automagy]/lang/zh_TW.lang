@@ -391,7 +391,7 @@ Automagy.research_page.NETHERRUNE_CRYSTAL.1=在地獄之核構造中放入這種
 
 Automagy.research_name.NETHERRUNE_LIGHT=符文黑曜石：光明
 Automagy.research_text.NETHERRUNE_LIGHT=黑暗中的光明
-Automagy.research_page.NETHERRUNE_LIGHT.1=在地獄之核構造中放入這種符文，就能生成熒石。至少安裝4個即可保證只生成熒石。<BR>每次生成消耗： %s。
+Automagy.research_page.NETHERRUNE_LIGHT.1=在地獄之核構造中放入這種符文，就能生成螢光石。至少安裝4個即可保證只生成螢光石。<BR>每次生成消耗： %s。
 
 Automagy.research_name.NETHERRUNE_SOUL=符文黑曜石：靈魂
 Automagy.research_text.NETHERRUNE_SOUL=哀嚎遍野

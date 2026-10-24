@@ -6,7 +6,7 @@ item.architecturecraft:largePulley.name=大輪
 item.architecturecraft:sawblade.name=圓鋸片
 item.architecturecraft:chisel.name=建築師鑿
 item.architecturecraft:hammer.name=建築師錘
-item.architecturecraft:glowbrush.name=建築師熒光刷
+item.architecturecraft:glowbrush.name=建築師螢光刷
 item.architecturecraft:cladding.name=覆蓋板
 
 # Container
@@ -23,7 +23,7 @@ gui.architecturecraft.Rounded=圓形
 gui.architecturecraft.Classical=古典
 gui.architecturecraft.Window=窗戶
 gui.architecturecraft.Arches=拱門
-gui.architecturecraft.Railings=欄杆
+gui.architecturecraft.Railings=欄桿
 gui.architecturecraft.Other=其他
 gui.architecturecraft.Glow=發光
 
@@ -47,7 +47,7 @@ gui.architecturecraft.CylinderLargeQuarter=外圓角
 gui.architecturecraft.AnticylinderLargeQuarter=內圓角
 gui.architecturecraft.Pillar=圓梁
 gui.architecturecraft.Post=圓柱
-gui.architecturecraft.Pole=圓杆
+gui.architecturecraft.Pole=圓桿
 
 gui.architecturecraft.BevelledOuterCorner=外斜角
 gui.architecturecraft.BevelledInnerCorner=內斜角
@@ -101,23 +101,23 @@ gui.architecturecraft.ArchD4C=拱頂直徑 4 部件 C
 
 gui.architecturecraft.BanisterPlainBottom=簡約扶手底部過渡段
 gui.architecturecraft.BanisterPlain=簡約扶手
-gui.architecturecraft.BanisterPlainTop=簡約欄杆頂部過渡段
+gui.architecturecraft.BanisterPlainTop=簡約欄桿頂部過渡段
 
-gui.architecturecraft.BalustradeFancy=精美欄杆
-gui.architecturecraft.BalustradeFancyCorner=精美欄杆拐角
-gui.architecturecraft.BalustradeFancyWithNewel=帶柱頭的精美欄杆
+gui.architecturecraft.BalustradeFancy=精美欄桿
+gui.architecturecraft.BalustradeFancyCorner=精美欄桿拐角
+gui.architecturecraft.BalustradeFancyWithNewel=帶柱頭的精美欄桿
 gui.architecturecraft.BalustradeFancyNewel=精美柱頭
 
-gui.architecturecraft.BalustradePlain=簡約欄杆
-gui.architecturecraft.BalustradePlainOuterCorner=簡約外角欄杆
-gui.architecturecraft.BalustradePlainWithNewel=帶柱頭的簡約欄杆
+gui.architecturecraft.BalustradePlain=簡約欄桿
+gui.architecturecraft.BalustradePlainOuterCorner=簡約外角欄桿
+gui.architecturecraft.BalustradePlainWithNewel=帶柱頭的簡約欄桿
 
 gui.architecturecraft.BanisterPlainEnd=簡約扶手末端
 
 gui.architecturecraft.BanisterFancyNewelTall=高聳精美柱頭
 
-gui.architecturecraft.BalustradePlainInnerCorner=簡約內角欄杆
-gui.architecturecraft.BalustradePlainEnd=簡約欄杆末端
+gui.architecturecraft.BalustradePlainInnerCorner=簡約內角欄桿
+gui.architecturecraft.BalustradePlainEnd=簡約欄桿末端
 
 gui.architecturecraft.BanisterFancyBottom=精美扶手底部過渡段
 gui.architecturecraft.BanisterFancy=精美扶手

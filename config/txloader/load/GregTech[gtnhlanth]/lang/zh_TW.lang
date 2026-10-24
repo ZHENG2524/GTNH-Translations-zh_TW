@@ -120,7 +120,7 @@ item.capillary_exchange.name=毛細管熱交換器
 item.mm_lattice.name=μ合金格柵
 item.iron_quartz_plate.name=鐵石英板
 item.mask_substrate.name=掩膜基板
-item.etched_mask1.name=刻蝕掩膜
+item.etched_mask1.name=蝕刻掩膜
 item.substrate_precursor.name=基板前驅體
 item.masked_mask_substrate.name=處理過的掩膜基板
 
@@ -209,7 +209,7 @@ item.photomask.cblank.name=掩膜（晶體）
 item.photomask.ccpu.name=掩膜（晶體CPU）
 item.photomask.cpu.name=掩膜（CPU）
 item.photomask.csoc.name=掩膜（晶體SoC）
-item.photomask.elc.name=掩膜（刻蝕蘭波頓晶片）
+item.photomask.elc.name=掩膜（蝕刻蘭波頓晶片）
 item.photomask.fpic.name=掩膜（飛米功率IC）
 item.photomask.hpic.name=掩膜（高功率IC）
 item.photomask.ilc.name=掩膜（邏輯積體電路）

@@ -23,7 +23,7 @@ string.naturescompass.cold=寒冷
 string.naturescompass.icy=酷寒
 
 # STRINGS - HUMIDITY
-string.naturescompass.damp=溼潤
+string.naturescompass.damp=濕潤
 string.naturescompass.arid=乾燥
 
 # STRINGS - RANGE
@@ -51,7 +51,7 @@ string.naturescompass.heightVariation=高度偏差
 string.naturescompass.name=名字
 string.naturescompass.precipitation=降水型別
 string.naturescompass.rainfall=降水量
-string.naturescompass.humidity=溼度
+string.naturescompass.humidity=濕度
 string.naturescompass.temperature=溫度
 string.naturescompass.tags=標籤
 

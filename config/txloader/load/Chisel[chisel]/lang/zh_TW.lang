@@ -913,7 +913,7 @@ tile.end_Stone.2.desc=棋盤格瓷磚
 tile.end_Stone.3.desc=終界電路
 tile.end_Stone.4.desc=精製磚
 tile.end_Stone.5.desc=豎紋末地石
-tile.end_Stone.6.desc=刻蝕末地石
+tile.end_Stone.6.desc=蝕刻末地石
 tile.end_Stone.7.desc=稜柱末地石
 tile.end_Stone.8.desc=末地石塊
 tile.end_Stone.9.desc=設計末地石塊
@@ -1408,22 +1408,22 @@ tile.gold.14.desc=普通金塊
 tile.gold.15.desc=現代金塊
 
 #Glowstone
-tile.chisel.glowstone.name=熒石
-tile.lightstone.1.desc=圓石紋熒石
-tile.lightstone.2.desc=被腐蝕的方磚熒石
-tile.lightstone.3.desc=玻璃方磚熒石
-tile.lightstone.4.desc=霓虹熒石
-tile.lightstone.5.desc=精雕方磚熒石
-tile.lightstone.6.desc=岩狀熒石
-tile.lightstone.7.desc=頁狀熒石
-tile.lightstone.8.desc=熒石瓷磚
-tile.lightstone.9.desc=精緻熒石燈籠
-tile.lightstone.10.desc=破碎的熒石
-tile.lightstone.11.desc=有機熒石
-tile.lightstone.12.desc=層狀熒石
-tile.lightstone.13.desc=被腐蝕的熒石瓷磚
-tile.lightstone.14.desc=鉍紋熒石
-tile.lightstone.15.desc=鉍紋鑲板熒石
+tile.chisel.glowstone.name=螢光石
+tile.lightstone.1.desc=圓石紋螢光石
+tile.lightstone.2.desc=被腐蝕的方磚螢光石
+tile.lightstone.3.desc=玻璃方磚螢光石
+tile.lightstone.4.desc=霓虹螢光石
+tile.lightstone.5.desc=精雕方磚螢光石
+tile.lightstone.6.desc=岩狀螢光石
+tile.lightstone.7.desc=頁狀螢光石
+tile.lightstone.8.desc=螢光石瓷磚
+tile.lightstone.9.desc=精緻螢光石燈籠
+tile.lightstone.10.desc=破碎的螢光石
+tile.lightstone.11.desc=有機螢光石
+tile.lightstone.12.desc=層狀螢光石
+tile.lightstone.13.desc=被腐蝕的螢光石瓷磚
+tile.lightstone.14.desc=鉍紋螢光石
+tile.lightstone.15.desc=鉍紋鑲板螢光石
 
 #Lapis blocks
 tile.chisel.lapis_block.name=青金石塊

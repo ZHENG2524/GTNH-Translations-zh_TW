@@ -259,7 +259,7 @@ enderio.darkGrindingBall.tooltip.detailed.line1=SAG磨粉機磨球
 enderio.darkGrindingBall.tooltip.detailed.line2=最大輸出
 enderio.darkGrindingBall.tooltip.detailed.line3=額外輸出
 enderio.darkGrindingBall.tooltip.detailed.line4=功率降低
-enderio.darkSteelRod.name=玄鋼杆
+enderio.darkSteelRod.name=玄鋼桿
 
 tile.blockReinforcedObsidian.name=強化黑曜石
 tile.blockReinforcedObsidian.tooltip.common.line1=能抵擋凋靈
@@ -793,14 +793,14 @@ tile.blockPaintedStair.name=噴塗樓梯
 tile.blockPaintedSlab.name=噴塗臺階
 tile.blockPaintedSlabDouble.name=噴塗臺階
 tile.blockPaintedDoubleSlab.name=噴塗臺階
-tile.blockPaintedGlowstone.name=噴塗熒石
+tile.blockPaintedGlowstone.name=噴塗螢光石
 tile.blockPaintedCarpet.name=噴塗地毯
 enderio.painter.tooltip.wasPainted=§o你認為這是幹嘛用的?
 
 tile.blockPainter.tooltip.detailed.line1=用於噴塗:
 tile.blockPainter.tooltip.detailed.line2=導管框架、樓梯、柵欄、
 tile.blockPainter.tooltip.detailed.line3=門、臺階、圓石牆、
-tile.blockPainter.tooltip.detailed.line4=玻璃框、熒石、地毯
+tile.blockPainter.tooltip.detailed.line4=玻璃框、螢光石、地毯
 tile.blockPainter.tooltip.detailed.line5=玄鋼壓力板
 tile.blockPainter.tooltip.detailed.line6=旅行錨
 
