@@ -65,4 +65,5 @@ GT: New Horizons 的 zh_TW 語言檔。涵蓋既有翻譯，加上補齊剩餘 7
 
 ### 授權狀態待辦
 - [ ] 處理整合包既有繁中（CC BY-NC-SA 4.0）與 GPL-3.0 內容混用的問題：向 GTNH 團隊或原作者詢問，或拆分、重寫、移除相關內容。
-- [ ] 逐一核對 `config/txloader/` 與 `config/amazingtrophies/` 底下各模組（如 Realistic World Gen、Amazing Trophies、InGameInfo、BetterQuesting、Biomes O' Plenty）的原始授權；部分可能為「保留所有權利」。
+- [x] 初步核對各模組授權：[tools/MOD_LICENSES.csv](tools/MOD_LICENSES.csv)（共 246 個模組資料夾）。其中 117 個以名稱比對到 GTNewHorizons 組織的倉庫並取得 GitHub 偵測授權（多為 MIT／LGPL／GPL，名稱比對可能有誤，需抽查），52 個無明確授權或為自訂條款，70 個未在該組織找到。這只是以倉庫授權檔做的初步整理，不是逐一確認，也不是法律結論。
+- [ ] 針對「無明確授權」與「未找到」的模組（含 Thaumcraft、Witchery、Applied Energistics 2、BiblioCraft、JourneyMap 等）人工確認原始授權；部分可能為「保留所有權利」。
