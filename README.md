@@ -11,6 +11,9 @@ GT: New Horizons 的 zh_TW 語言檔。涵蓋既有翻譯，加上補齊剩餘 7
 - 這些新增內容為機器轉換，譯名未逐條校對，歡迎 PR。
 - 少數提示（例如 Extra Utilities 的濾鏡說明）寫死在模組程式碼裡，無法用語言檔翻譯；可用 `tools/patch_extrautils.py <原jar> <輸出jar>` 產生修補後的 jar（僅適用 extrautilities-1.2.12，不會修改原檔，請先備份）。
 
+## 伺服器端訊息
+連線到伺服器時，歡迎訊息等是由伺服器用英文產生，客戶端改不了。伺服器管理員可用 `tools/patch_server_jars.py <伺服器 mods 資料夾> <輸出資料夾>` 產生修補後的 `GTNewHorizonsCoreMod`、`YAMCore` jar（原檔不會被修改，請先備份）。
+
 ## 已知限制
 - 部分字串刻意保留英文（指令、曲名、梗、Mod 名），或標為 TRUNCATED（原始字串被截斷，待從模組 jar 取完整字串）。
 - notes 標 `TERM?` 的譯名未經 GTNH 維基核對，歡迎 PR。
