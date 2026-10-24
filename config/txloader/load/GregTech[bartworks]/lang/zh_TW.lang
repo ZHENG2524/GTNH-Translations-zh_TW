@@ -292,7 +292,7 @@ BW.NEI.display.radhatch.0=輻射劑量: %s Sv
 BW.NEI.display.radhatch.1=質量: %s kg
 BW.NEI.display.radhatch.2=時間: %s s
 
-tooltip.cal.imprintedWith=已壓印：§e%s
+tooltip.cal.imprintedWith=已壓印：
 chat.cal.mode.0=電路裝配線模式
 chat.cal.mode.1=電路組裝機模式
 

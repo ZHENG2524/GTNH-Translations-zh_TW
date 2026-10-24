@@ -57,9 +57,9 @@ item.itemSandstoneHammer.name=圓石粉碎者
 
 # Tooltips
 GTPP.machines.chisel_slot.tooltip=在此處放置雕刻目標方塊
-GTPP.machines.chisel_slot.tooltip.1=$7放入已雕刻方塊以指定輸出
-GTPP.core.GT_Tooltip=新增者：%s §7- §c[GT++]
-GTPP.core.GT_Tooltip_Builder=%s §7- §c[GT++]
+GTPP.machines.chisel_slot.tooltip.1=§7放入已雕刻方塊以指定輸出
+GTPP.core.GT_Tooltip=新增者：§2Alkalus §7- §c[GT++]
+GTPP.core.GT_Tooltip_Builder=§2Alkalus §7- §c[GT++]
 GTPP.core.GT_Tooltip_Radioactive=§7警告: §a放射性物品! 
 GTPP.core.GT_Tooltip_Toxic=§7警告: §2有毒物品! 
 GTPP.core.GT_Tooltip_HazmatWarning=§6未裝備防護服之前避免接觸。
@@ -3813,7 +3813,7 @@ item.BasicGenericChemItem.14.name=固體酸催化劑
 item.BasicGenericChemItem.15.name=無盡突變催化劑
 
 # Added 23/10/22
-miscutils.machines.QFTFluidMode=量子操縱者流體輸出模式：%s
+miscutils.machines.QFTFluidMode=量子操縱者流體輸出模式
 
 # Added 16/11/22
 item.BasicGenericChemItem.16.name=鉑系金屬催化劑
@@ -3904,9 +3904,9 @@ gtpp.tooltip.tool.mining_speed=挖掘速度：
 
 gtpp.tooltip.wireless_charger.0=手持螺絲刀Shift+右鍵，以鎖定供給所有者
 gtpp.tooltip.wireless_charger.1=使用螺絲刀切換模式。
-gtpp.tooltip.wireless_charger.2=§a長距離模式§7：可以為最遠%s米內的每位玩家提供1A電力。
-gtpp.tooltip.wireless_charger.3=§a本地模式§7：可為%s米範圍內的每位玩家提供2A電力。
-gtpp.tooltip.wireless_charger.4=§a混合模式§7：可在%s米範圍內提供1A電力，並在%s米內額外提供1A。
+gtpp.tooltip.wireless_charger.2=§a長距離模式§7：可以為最遠%,d米內的每位玩家提供1A電力。
+gtpp.tooltip.wireless_charger.3=§a本地模式§7：可為%,d米範圍內的每位玩家提供2A電力。
+gtpp.tooltip.wireless_charger.4=§a混合模式§7：可在%,d米範圍內提供1A電力，並在%,d米內額外提供1A。
 
 #gtpp info data
 gtpp.infodata.tesseract_generator.name=超立方體發生器

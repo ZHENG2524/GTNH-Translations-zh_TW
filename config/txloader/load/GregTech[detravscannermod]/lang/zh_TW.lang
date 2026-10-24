@@ -26,14 +26,14 @@ detrav.scanner.fail=%badluck區塊勘探失敗，祝你下次好運！
 
 detrav.scanner.prospecting=正在勘探
 
-tooltip.detrav.scanner.durability=耐久：%s / %s
-tooltip.detrav.scanner.range=勘探範圍(區塊)：%s x %s
+tooltip.detrav.scanner.durability=耐久：
+tooltip.detrav.scanner.range=勘探範圍(區塊)：
 tooltip.detrav.scanner.usage.0=右鍵岩石方塊以勘探當前區塊!
 tooltip.detrav.scanner.usage.1=右鍵基岩以勘探地下流體!
 tooltip.detrav.scanner.usage.2=右鍵空氣進行全範圍掃描!
 tooltip.detrav.scanner.usage.3=Shift+右鍵空氣以切換模式
 tooltip.detrav.scanner.usage.4=雙擊任何條目以反轉背景顏色!
-tooltip.detrav.scanner.success.chance=掃描成功機率：§r%s%%
+tooltip.detrav.scanner.success.chance=掃描成功機率：
 tooltip.detrav.scanner.distance.0=在你旁邊(距離0區塊)，離你很近(1-2)
 tooltip.detrav.scanner.distance.1=中等距離(3-5)，長距離(6-8)，很遠(9+)
 
@@ -41,8 +41,8 @@ gui.detrav.scanner.pollution=汙染
 gui.detrav.scanner.gibbl=單位
 gui.detrav.scanner.unknown_fluid=未知流體!
 
-gui.detrav.scanner.tooltip.fluid_name=流體名：%s
-gui.detrav.scanner.tooltip.fluid_amount=流體儲量：%s L
+gui.detrav.scanner.tooltip.fluid_name=流體名：
+gui.detrav.scanner.tooltip.fluid_amount=流體儲量：
 gui.detrav.scanner.tooltip.no_fluid=空
 gui.detrav.scanner.tooltip.ore_pos=X：%d，Z：%d
 gui.detrav.scanner.tooltip.ore_depth=Y：%d

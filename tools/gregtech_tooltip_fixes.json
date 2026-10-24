@@ -1,0 +1,221 @@
+{
+  "gregtech_version": "5.09.51.482",
+  "fixes": [
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "domain": "gregtech",
+      "key": "gt.tileentity.eup_in",
+      "before": "電壓輸入：%s",
+      "after": "電壓輸入：§a%d（%s§a）§7",
+      "english": "Voltage IN: §a%d (%s§a)§7"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "domain": "gregtech",
+      "key": "gt.tileentity.eup_out",
+      "before": "電壓輸出：%s",
+      "after": "電壓輸出：§a%d（%s§a）§7",
+      "english": "Voltage OUT: §a%d (%s§a)§7"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "domain": "gregtech",
+      "key": "gt.tileentity.eup_store",
+      "before": "容量：%s",
+      "after": "容量：§9%d§7 EU",
+      "english": "Capacity: §9%d§7 EU"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "domain": "gregtech",
+      "key": "GT5U.hatch.fluid.filter.enable",
+      "before": "流體輸出過濾器設定為",
+      "after": "流體輸出過濾器設定為：%s",
+      "english": "Fluid output filter set to: %s"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "domain": "gregtech",
+      "key": "GT5U.hatch.item.filter.enable",
+      "before": "物品輸出過濾器設定為",
+      "after": "物品輸出過濾器設定為：%s",
+      "english": "Item output filter set to: %s"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "domain": "gregtech",
+      "key": "GT5U.nei.fuel",
+      "before": "燃料熱值：%s EU/%s",
+      "after": "燃料熱值：%s EU",
+      "english": "Fuel Value: %s EU"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "domain": "gregtech",
+      "key": "gt.coilheattooltip",
+      "before": "基礎爐溫：§c%s§7開爾文",
+      "after": "基礎爐溫：",
+      "english": "Base Heating Capacity ="
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "domain": "gregtech",
+      "key": "GT5U.infodata.wormhole_generator.transferred",
+      "before": "%s倉（%,dA %s）在最近%d秒內傳輸了§b%,d§fEU（相當於%,dA），效率為%.3f%%",
+      "after": "%1$s倉（%2$,dA/t %3$s）在最近%7$d秒內傳輸了§b%4$,d§f EU（相當於%5$,dA/t），效率為%6$.3f%%",
+      "english": "%s hatch (%,dA/t %s) transferred §b%,d§f EU (equivalent to %,dA/t) with an efficiency of %.3f%% in the last %d seconds"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "domain": "gregtech",
+      "key": "GT5U.infodata.wormhole_generator.received",
+      "before": "%s倉（%,dA %s）在最近%d秒內接收了§b%,d§fEU（相當於%,dA），效率為%.3f%%",
+      "after": "%1$s倉（%2$,dA/t %3$s）在最近%7$d秒內接收了§b%4$,d§f EU（相當於%5$,dA/t），效率為%6$.3f%%",
+      "english": "%s hatch (%,dA/t %s) received §b%,d§f EU (equivalent to %,dA/t) with an efficiency of %.3f%% in the last %d seconds"
+    },
+    {
+      "file": "config/txloader/load/GregTech[miscutils]/lang/zh_TW.lang",
+      "domain": "miscutils",
+      "key": "GTPP.core.GT_Tooltip",
+      "before": "新增者：%s §7- §c[GT++]",
+      "after": "新增者：§2Alkalus §7- §c[GT++]",
+      "english": "Added by: §2Alkalus §7- §c[GT++]"
+    },
+    {
+      "file": "config/txloader/load/GregTech[miscutils]/lang/zh_TW.lang",
+      "domain": "miscutils",
+      "key": "GTPP.core.GT_Tooltip_Builder",
+      "before": "%s §7- §c[GT++]",
+      "after": "§2Alkalus §7- §c[GT++]",
+      "english": "§2Alkalus §7- §c[GT++]"
+    },
+    {
+      "file": "config/txloader/load/GregTech[miscutils]/lang/zh_TW.lang",
+      "domain": "miscutils",
+      "key": "miscutils.machines.QFTFluidMode",
+      "before": "量子操縱者流體輸出模式：%s",
+      "after": "量子操縱者流體輸出模式",
+      "english": "Quantum Force Transformer Fluid Output Mode"
+    },
+    {
+      "file": "config/txloader/load/GregTech[miscutils]/lang/zh_TW.lang",
+      "domain": "miscutils",
+      "key": "gtpp.tooltip.wireless_charger.2",
+      "before": "§a長距離模式§7：可以為最遠%s米內的每位玩家提供1A電力。",
+      "after": "§a長距離模式§7：可以為最遠%,d米內的每位玩家提供1A電力。",
+      "english": "§aLong-Range Mode§7: Can supply 1A of power to each player up to %,dm away."
+    },
+    {
+      "file": "config/txloader/load/GregTech[miscutils]/lang/zh_TW.lang",
+      "domain": "miscutils",
+      "key": "gtpp.tooltip.wireless_charger.3",
+      "before": "§a本地模式§7：可為%s米範圍內的每位玩家提供2A電力。",
+      "after": "§a本地模式§7：可為%,d米範圍內的每位玩家提供2A電力。",
+      "english": "§aLocal Mode§7: Can supply 2A to each player within %,dm."
+    },
+    {
+      "file": "config/txloader/load/GregTech[miscutils]/lang/zh_TW.lang",
+      "domain": "miscutils",
+      "key": "gtpp.tooltip.wireless_charger.4",
+      "before": "§a混合模式§7：可在%s米範圍內提供1A電力，並在%s米內額外提供1A。",
+      "after": "§a混合模式§7：可在%,d米範圍內提供1A電力，並在%,d米內額外提供1A。",
+      "english": "§aMixed Mode§7: Can supply 1A up to %,dm away and more 1A within %,dm."
+    },
+    {
+      "file": "config/txloader/load/GregTech[miscutils]/lang/zh_TW.lang",
+      "domain": "miscutils",
+      "key": "GTPP.machines.chisel_slot.tooltip.1",
+      "before": "$7放入已雕刻方塊以指定輸出",
+      "after": "§7放入已雕刻方塊以指定輸出",
+      "english": "§7Put chiseled item to specify output"
+    },
+    {
+      "file": "config/txloader/load/GregTech[tectech]/lang/zh_TW.lang",
+      "domain": "tectech",
+      "key": "gt.blockmachines.multimachine.FOG.plasmarecipetier",
+      "before": "核融合等級：%s",
+      "after": "核融合等級",
+      "english": "Fusion Tier"
+    },
+    {
+      "file": "config/txloader/load/GregTech[goodgenerator]/lang/zh_TW.lang",
+      "domain": "goodgenerator",
+      "key": "scanner.info.CASS.tier",
+      "before": "外殼等級：%s",
+      "after": "外殼等級：",
+      "english": "Casing Tier:"
+    },
+    {
+      "file": "config/txloader/load/GregTech[bartworks]/lang/zh_TW.lang",
+      "domain": "bartworks",
+      "key": "tooltip.cal.imprintedWith",
+      "before": "已壓印：§e%s",
+      "after": "已壓印：",
+      "english": "Imprinted with:",
+      "call_mode": "literal"
+    },
+    {
+      "file": "config/txloader/load/GregTech[detravscannermod]/lang/zh_TW.lang",
+      "domain": "detravscannermod",
+      "key": "tooltip.detrav.scanner.durability",
+      "before": "耐久：%s / %s",
+      "after": "耐久：",
+      "english": "Durability:",
+      "call_mode": "literal"
+    },
+    {
+      "file": "config/txloader/load/GregTech[detravscannermod]/lang/zh_TW.lang",
+      "domain": "detravscannermod",
+      "key": "tooltip.detrav.scanner.range",
+      "before": "勘探範圍(區塊)：%s x %s",
+      "after": "勘探範圍(區塊)：",
+      "english": "Chunks:",
+      "call_mode": "literal"
+    },
+    {
+      "file": "config/txloader/load/GregTech[detravscannermod]/lang/zh_TW.lang",
+      "domain": "detravscannermod",
+      "key": "tooltip.detrav.scanner.success.chance",
+      "before": "掃描成功機率：§r%s%%",
+      "after": "掃描成功機率：",
+      "english": "Chance of a successful scan:",
+      "call_mode": "literal"
+    },
+    {
+      "file": "config/txloader/load/GregTech[detravscannermod]/lang/zh_TW.lang",
+      "domain": "detravscannermod",
+      "key": "gui.detrav.scanner.tooltip.fluid_name",
+      "before": "流體名：%s",
+      "after": "流體名：",
+      "english": "Fluid Name: ",
+      "call_mode": "literal"
+    },
+    {
+      "file": "config/txloader/load/GregTech[detravscannermod]/lang/zh_TW.lang",
+      "domain": "detravscannermod",
+      "key": "gui.detrav.scanner.tooltip.fluid_amount",
+      "before": "流體儲量：%s L",
+      "after": "流體儲量：",
+      "english": "Fluid Amount: ",
+      "call_mode": "literal"
+    },
+    {
+      "file": "config/txloader/load/GregTech[tectech]/lang/zh_TW.lang",
+      "domain": "tectech",
+      "key": "fog.upgrade.text.8",
+      "before": "解鎖最大電池容量的配置視窗，並將限制提高到整型的最大值（2147483647）。此外，解鎖一個與電池容量成比例的能量減免（上限為0.05，即5%%）。能量減免計算如下：能量減免=(1-1.05^(-0.05*最大電池容量))/20",
+      "after": "解鎖最大電池容量的配置視窗，並將限制提高到整型的最大值（2147483647）。此外，解鎖一個與電池容量成比例的能量減免（上限為0.05，即5%）。能量減免計算如下：能量減免=(1-1.05^(-0.05*最大電池容量))/20",
+      "english": "Unlocks a configuration window for maximum battery size and increases the limit to max int. Furthermore, an energy discount multiplier is unlocked that scales with battery size (capped to 0.05, or 5%). The discount is calculated as follows: Discount = (1 - 1.05^(-0.05 * Max Battery Capacity)) / 20",
+      "call_mode": "literal"
+    },
+    {
+      "file": "config/txloader/load/GregTech[tectech]/lang/zh_TW.lang",
+      "domain": "tectech",
+      "key": "fog.upgrade.text.19",
+      "before": "將工業高爐爐溫帶來的電力減免增益從5%%提升至8%%（譯註：變為每900K減少8%%的需求功率，相當於減少能耗，但會影響並行演算法），並根據內部電池的填充水平新增能量減免。此增益透過以下公式計算得出：減免=(當前填充水平/最大容量-0.5)^2*(-0.6)+0.15，對於除電漿製造器以外的模組乘以2/3",
+      "after": "將工業高爐爐溫帶來的電力減免增益從5%提升至8%（譯註：變為每900K減少8%的需求功率，相當於減少能耗，但會影響並行演算法），並根據內部電池的填充水平新增能量減免。此增益透過以下公式計算得出：減免=(當前填充水平/最大容量-0.5)^2*(-0.6)+0.15，對於除電漿製造器以外的模組乘以2/3",
+      "english": "Improves the EBF energy reduction heat bonus from 5% to 8% and adds an energy discount based on the fill level of the internal battery. This bonus is calculated via the formula: Discount = (Current fill level / Max Capacity - 0.5)^2 * (-0.6) + 0.15, multiplied by 2/3 for modules other than the Plasma Fabricator",
+      "call_mode": "literal"
+    }
+  ]
+}

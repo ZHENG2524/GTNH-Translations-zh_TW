@@ -740,7 +740,7 @@ fog.upgrade.text.4=透過以下公式增加所有模組的基礎處理電壓: (�
 fog.upgrade.text.5=解鎖“太陽射流融化核心”模組.
 fog.upgrade.text.6=解鎖一個根據燃料消耗速率改變最大並行的乘數. 此加成透過以下公式計算: 乘數=1+(星輝燃料單位/s)/15
 fog.upgrade.text.7=解鎖“太陽熱能電漿製造機”模組以及基本元素到電漿的處理 (最大為1步電漿,T3核融合).
-fog.upgrade.text.8=解鎖最大電池容量的配置視窗，並將限制提高到整型的最大值（2147483647）。此外，解鎖一個與電池容量成比例的能量減免（上限為0.05，即5%%）。能量減免計算如下：能量減免=(1-1.05^(-0.05*最大電池容量))/20
+fog.upgrade.text.8=解鎖最大電池容量的配置視窗，並將限制提高到整型的最大值（2147483647）。此外，解鎖一個與電池容量成比例的能量減免（上限為0.05，即5%）。能量減免計算如下：能量減免=(1-1.05^(-0.05*最大電池容量))/20
 fog.upgrade.text.9=每進行一次升級，最大星輝燃料消耗速率增加1星輝燃料單位/s.
 fog.upgrade.text.10=最大並行新增一個x2的乘數.
 fog.upgrade.text.11=解鎖“太陽核融合異化器”模組和夸克膠子電漿生成。此時，該模組不受其他乘數或升級帶來的加成影響。
@@ -751,7 +751,7 @@ fog.upgrade.text.15=允許“太陽熱能電漿製造機”處理多步驟電漿
 fog.upgrade.text.16=使“太陽烈焰能量鍛爐”獲得“太陽射流融化核心”升級路徑的全部收益.
 fog.upgrade.text.17=將高爐(EBF)爐溫增益上限提高到30,000K.
 fog.upgrade.text.18=解鎖一個根據當前熱量改變最大並行的乘數. 此增益透過以下公式計算得出: 乘數=1+溫度/15000
-fog.upgrade.text.19=將工業高爐爐溫帶來的電力減免增益從5%%提升至8%%（譯註：變為每900K減少8%%的需求功率，相當於減少能耗，但會影響並行演算法），並根據內部電池的填充水平新增能量減免。此增益透過以下公式計算得出：減免=(當前填充水平/最大容量-0.5)^2*(-0.6)+0.15，對於除電漿製造器以外的模組乘以2/3
+fog.upgrade.text.19=將工業高爐爐溫帶來的電力減免增益從5%提升至8%（譯註：變為每900K減少8%的需求功率，相當於減少能耗，但會影響並行演算法），並根據內部電池的填充水平新增能量減免。此增益透過以下公式計算得出：減免=(當前填充水平/最大容量-0.5)^2*(-0.6)+0.15，對於除電漿製造器以外的模組乘以2/3
 fog.upgrade.text.20=當溫度超過30,000K時，將提供工業高爐爐溫增益，由以下公式確定：能量鍛爐爐溫=30000+(當前爐溫-30000)^0.85，熔化核心爐溫=30000+(當前爐溫-30000)^0.8
 fog.upgrade.text.21=解鎖一個根據升級總數改變最大並行的乘數. 此增益透過以下公式計算得出: 乘數=1+升級數量/5
 fog.upgrade.text.22=根據當前最大並行改進減少配方時間的乘數 (改進的引力對流線圈,"引力渦旋"升級). 再改進後公式: 乘數=(1/溫度^0.01)/(並行^0.02)
@@ -847,7 +847,7 @@ gt.blockmachines.multimachine.FOG.fuelinfo.5=多方塊升級可能會影響這�
 gt.blockmachines.multimachine.FOG.fueltype=點選以選擇燃料類型
 gt.blockmachines.multimachine.FOG.fuelusage=燃料使用
 gt.blockmachines.multimachine.FOG.plasmamultistep=多步驟電漿：%s
-gt.blockmachines.multimachine.FOG.plasmarecipetier=核融合等級：%s
+gt.blockmachines.multimachine.FOG.plasmarecipetier=核融合等級
 gt.blockmachines.multimachine.FOG.storedfuel=現存燃料數量：
 gt.blockmachines.multimachine.FOG.storedstartupfuel=恆星燃料總量：
 gt.blockmachines.multimachine.FOG.batteryinfo=設定電池大小

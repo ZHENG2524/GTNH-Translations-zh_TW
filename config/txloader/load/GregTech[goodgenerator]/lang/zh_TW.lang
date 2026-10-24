@@ -301,7 +301,7 @@ scanner.info.YOTTank.next=無. 將鎖定為進入容器的下一種流體
 scanner.info.XHE.0=輸出蒸汽量：
 scanner.info.XHE.1=超臨界閾值：
 scanner.info.UX.0=並行執行：
-scanner.info.CASS.tier=外殼等級：%s
+scanner.info.CASS.tier=外殼等級：
 scanner.info.CASS.tier.none=無！
 
 gg.scanner.info.antimatter_forge=反物質熔爐

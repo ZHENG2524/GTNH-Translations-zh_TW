@@ -256,6 +256,37 @@ FILE_KEY_RULES.setdefault('config/txloader/load/minecraft/lang/zh_TW.lang', {}).
 FILE_KEY_RULES.setdefault('config/txloader/forceload/betterquesting/lang/zh_TW.lang', {}).update({'betterquesting.quest.LzCq9t0cT4-_TizIr_Iq_A.desc': [['滿溢的', '已吸附的'], ['將他們投入', '將它們投入'], ['迴圈往復', '循環往復']]})
 FILE_KEY_RULES.setdefault('config/txloader/load/betterquesting/lang/zh_TW.lang', {}).update({'betterquesting.quest.LzCq9t0cT4-_TizIr_Iq_A.desc': [['滿溢的', '已吸附的'], ['將他們投入', '將它們投入'], ['迴圈往復', '循環往復']]})
 
+# GregTech 5.09.51.482：依安裝 jar 核對的 Tooltip 格式修正。
+FILE_KEY_FIXES.setdefault('config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang', {}).update({'gt.tileentity.eup_in': '電壓輸入：§a%d（%s§a）§7',
+ 'gt.tileentity.eup_out': '電壓輸出：§a%d（%s§a）§7',
+ 'gt.tileentity.eup_store': '容量：§9%d§7 EU',
+ 'GT5U.hatch.fluid.filter.enable': '流體輸出過濾器設定為：%s',
+ 'GT5U.hatch.item.filter.enable': '物品輸出過濾器設定為：%s',
+ 'GT5U.nei.fuel': '燃料熱值：%s EU',
+ 'gt.coilheattooltip': '基礎爐溫：',
+ 'GT5U.infodata.wormhole_generator.transferred': '%1$s倉（%2$,dA/t %3$s）在最近%7$d秒內傳輸了§b%4$,d§f '
+                                                 'EU（相當於%5$,dA/t），效率為%6$.3f%%',
+ 'GT5U.infodata.wormhole_generator.received': '%1$s倉（%2$,dA/t %3$s）在最近%7$d秒內接收了§b%4$,d§f EU（相當於%5$,dA/t），效率為%6$.3f%%'})
+FILE_KEY_FIXES.setdefault('config/txloader/load/GregTech[miscutils]/lang/zh_TW.lang', {}).update({'GTPP.core.GT_Tooltip': '新增者：§2Alkalus §7- §c[GT++]',
+ 'GTPP.core.GT_Tooltip_Builder': '§2Alkalus §7- §c[GT++]',
+ 'miscutils.machines.QFTFluidMode': '量子操縱者流體輸出模式',
+ 'gtpp.tooltip.wireless_charger.2': '§a長距離模式§7：可以為最遠%,d米內的每位玩家提供1A電力。',
+ 'gtpp.tooltip.wireless_charger.3': '§a本地模式§7：可為%,d米範圍內的每位玩家提供2A電力。',
+ 'gtpp.tooltip.wireless_charger.4': '§a混合模式§7：可在%,d米範圍內提供1A電力，並在%,d米內額外提供1A。',
+ 'GTPP.machines.chisel_slot.tooltip.1': '§7放入已雕刻方塊以指定輸出'})
+FILE_KEY_FIXES.setdefault('config/txloader/load/GregTech[tectech]/lang/zh_TW.lang', {}).update({'gt.blockmachines.multimachine.FOG.plasmarecipetier': '核融合等級'})
+FILE_KEY_FIXES.setdefault('config/txloader/load/GregTech[goodgenerator]/lang/zh_TW.lang', {}).update({'scanner.info.CASS.tier': '外殼等級：'})
+
+# 同批核對：動態串接的機器／勘探提示與未格式化的百分比文字。
+FILE_KEY_FIXES.setdefault('config/txloader/load/GregTech[bartworks]/lang/zh_TW.lang', {}).update({'tooltip.cal.imprintedWith': '已壓印：'})
+FILE_KEY_FIXES.setdefault('config/txloader/load/GregTech[detravscannermod]/lang/zh_TW.lang', {}).update({'tooltip.detrav.scanner.durability': '耐久：',
+ 'tooltip.detrav.scanner.range': '勘探範圍(區塊)：',
+ 'tooltip.detrav.scanner.success.chance': '掃描成功機率：',
+ 'gui.detrav.scanner.tooltip.fluid_name': '流體名：',
+ 'gui.detrav.scanner.tooltip.fluid_amount': '流體儲量：'})
+FILE_KEY_FIXES.setdefault('config/txloader/load/GregTech[tectech]/lang/zh_TW.lang', {}).update({'fog.upgrade.text.8': '解鎖最大電池容量的配置視窗，並將限制提高到整型的最大值（2147483647）。此外，解鎖一個與電池容量成比例的能量減免（上限為0.05，即5%）。能量減免計算如下：能量減免=(1-1.05^(-0.05*最大電池容量))/20',
+ 'fog.upgrade.text.19': '將工業高爐爐溫帶來的電力減免增益從5%提升至8%（譯註：變為每900K減少8%的需求功率，相當於減少能耗，但會影響並行演算法），並根據內部電池的填充水平新增能量減免。此增益透過以下公式計算得出：減免=(當前填充水平/最大容量-0.5)^2*(-0.6)+0.15，對於除電漿製造器以外的模組乘以2/3'})
+
 def fix_value(v, stat, extra=()):
     for a, b in list(RULES) + list(extra):
         n = v.count(a)

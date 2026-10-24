@@ -1192,11 +1192,11 @@ gt.laserplate.name=雷射防護板
 gt.laserplatingtooltip=為承受極端溫度而設計
 
 # Tooltip info of tile-entities
-gt.tileentity.eup_in=電壓輸入：%s
-gt.tileentity.eup_out=電壓輸出：%s
+gt.tileentity.eup_in=電壓輸入：§a%d（%s§a）§7
+gt.tileentity.eup_out=電壓輸出：§a%d（%s§a）§7
 gt.tileentity.amperage=電流：%s 
 gt.tileentity.throughput=吞吐量：§e%s§r EU/t
-gt.tileentity.eup_store=容量：%s
+gt.tileentity.eup_store=容量：§9%d§7 EU
 gt.tileentity.tank_info=存有流體：§e%s§7
 gt.tileentity.tank_amount=流體數量: §a%s L§7
 gt.tileentity.chest_info=包含物品：§e%s§7
@@ -4467,8 +4467,8 @@ GT5U.hatch.infiniteCacheFluid.true=ME輸出倉將無限快取流體，直到連�
 GT5U.hatch.infiniteCacheFluid.false=ME輸出倉離線超過2秒後將停止接收流體
 GT5U.hatch.additionalConnection.true=ME網路可與任意麵連線
 GT5U.hatch.additionalConnection.false=ME網路僅與正面連線
-GT5U.hatch.fluid.filter.enable=流體輸出過濾器設定為
-GT5U.hatch.item.filter.enable=物品輸出過濾器設定為
+GT5U.hatch.fluid.filter.enable=流體輸出過濾器設定為：%s
+GT5U.hatch.item.filter.enable=物品輸出過濾器設定為：%s
 GT5U.hatch.fluid.filter.disable=流體輸出過濾已禁用
 GT5U.hatch.item.filter.disable=物品輸出過濾已禁用
 GT5U.hatch.filter.none=未指定
@@ -4555,7 +4555,7 @@ GT5U.nei.heat_capacity.material=線圈：%s
 GT5U.nei.tier=等級：%s
 GT5U.nei.start_eu=啟動能量：%s EU（Mk-%s）
 GT5U.nei.stages=階段：
-GT5U.nei.fuel=燃料熱值：%s EU/%s
+GT5U.nei.fuel=燃料熱值：%s EU
 GT5U.nei.qc.heating=加熱常數：%s
 GT5U.nei.qc.cooling=冷卻常數：%s
 GT5U.nei.qc.computation=算力：%s
@@ -8192,7 +8192,7 @@ GT5U.die.frozen=%s凍死了
 GT5U.die.boiled=%s被活活煮熟了
 GT5U.die.exploded=%s爆炸了
 
-gt.coilheattooltip=基礎爐溫：§c%s§7開爾文
+gt.coilheattooltip=基礎爐溫：
 
 GT5U.tootlip.tool.turbine.steam=蒸汽
 GT5U.tootlip.tool.turbine.loose=松
@@ -8450,8 +8450,8 @@ GT5U.infodata.wormhole_generator.status.inactive=蟲洞狀態：§7未啟用§f
 GT5U.infodata.wormhole_generator.status.no_energy=蟲洞狀態：§7輸入倉無能量§f
 GT5U.infodata.wormhole_generator.diameter=蟲洞直徑：§b%,d§r埃
 GT5U.infodata.wormhole_generator.optimal_transfer_speed=最大傳輸速度：§b%,.0f§rEU/t
-GT5U.infodata.wormhole_generator.transferred=%s倉（%,dA %s）在最近%d秒內傳輸了§b%,d§fEU（相當於%,dA），效率為%.3f%%
-GT5U.infodata.wormhole_generator.received=%s倉（%,dA %s）在最近%d秒內接收了§b%,d§fEU（相當於%,dA），效率為%.3f%%
+GT5U.infodata.wormhole_generator.transferred=%1$s倉（%2$,dA/t %3$s）在最近%7$d秒內傳輸了§b%4$,d§f EU（相當於%5$,dA/t），效率為%6$.3f%%
+GT5U.infodata.wormhole_generator.received=%1$s倉（%2$,dA/t %3$s）在最近%7$d秒內接收了§b%4$,d§f EU（相當於%5$,dA/t），效率為%6$.3f%%
 GT5U.infodata.wormhole_generator.not_present=%s倉不存在
 
 GT5U.infodata.wormhole_generator.hatch.top=頂面

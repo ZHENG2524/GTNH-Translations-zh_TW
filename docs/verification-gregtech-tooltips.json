@@ -1,0 +1,148 @@
+{
+  "jar_sha256": "4ab7ce174a8f6fb7a90d8d11d56056aab2de577c36c6084b37ce890d7b1d67bf",
+  "gregtech_version": "5.09.51.482",
+  "language_files_checked": 299,
+  "reviewed_repairs": 26,
+  "changed_values": 26,
+  "coverage": {
+    "gtneioreplugin": {
+      "english_keys": 81,
+      "comparisons": 81,
+      "related_comparisons": 0
+    },
+    "gtnhlanth": {
+      "english_keys": 145,
+      "comparisons": 145,
+      "related_comparisons": 27
+    },
+    "bartworks": {
+      "english_keys": 255,
+      "comparisons": 255,
+      "related_comparisons": 99
+    },
+    "kubatech": {
+      "english_keys": 211,
+      "comparisons": 211,
+      "related_comparisons": 15
+    },
+    "ic2": {
+      "english_keys": 27,
+      "comparisons": 27,
+      "related_comparisons": 0
+    },
+    "ggfab": {
+      "english_keys": 30,
+      "comparisons": 30,
+      "related_comparisons": 5
+    },
+    "stevescarts": {
+      "english_keys": 1,
+      "comparisons": 1,
+      "related_comparisons": 0
+    },
+    "tectech": {
+      "english_keys": 1854,
+      "comparisons": 1854,
+      "related_comparisons": 656
+    },
+    "spiceoflife": {
+      "english_keys": 1,
+      "comparisons": 1,
+      "related_comparisons": 0
+    },
+    "kekztech": {
+      "english_keys": 131,
+      "comparisons": 131,
+      "related_comparisons": 81
+    },
+    "gtnhintergalactic": {
+      "english_keys": 393,
+      "comparisons": 614,
+      "related_comparisons": 35
+    },
+    "detravscannermod": {
+      "english_keys": 36,
+      "comparisons": 36,
+      "related_comparisons": 13
+    },
+    "goodgenerator": {
+      "english_keys": 520,
+      "comparisons": 520,
+      "related_comparisons": 113
+    },
+    "miscutils": {
+      "english_keys": 3807,
+      "comparisons": 3807,
+      "related_comparisons": 174
+    },
+    "gregtech": {
+      "english_keys": 3590,
+      "comparisons": 3590,
+      "related_comparisons": 953
+    }
+  },
+  "generated_defaults": {
+    "compared_keys": 69311,
+    "related_keys": 29667,
+    "note": "Runtime-generated defaults can contain historical keys; candidates need code verification."
+  },
+  "remaining_asset_candidates": [
+    {
+      "file": "config/txloader/load/GregTech[bartworks]/lang/zh_TW.lang",
+      "key": "tooltip.labparts.5.name",
+      "english": "A Petri Dish containing:",
+      "translation": "一個培養皿，內含：%s",
+      "review": "Outside this repair: biological item / tool mode text"
+    },
+    {
+      "file": "config/txloader/load/GregTech[bartworks]/lang/zh_TW.lang",
+      "key": "tooltip.labparts.7.name",
+      "english": "A DNA Flask containing:",
+      "translation": "一個DNA樣品瓶，內含：%s",
+      "review": "Outside this repair: biological item / tool mode text"
+    },
+    {
+      "file": "config/txloader/load/GregTech[bartworks]/lang/zh_TW.lang",
+      "key": "tooltip.labparts.8.name",
+      "english": "A Plasmid Cell containing:",
+      "translation": "一個質粒樣品瓶，內含：%s",
+      "review": "Outside this repair: biological item / tool mode text"
+    },
+    {
+      "file": "config/txloader/load/GregTech[tectech]/lang/zh_TW.lang",
+      "key": "fog.upgrade.text.19",
+      "english": "Improves the EBF energy reduction heat bonus from 5% to 8% and adds an energy discount based on the fill level of the internal battery. This bonus is calculated via the formula: Discount = (Current fill level / Max Capacity - 0.5)^2 * (-0.6) + 0.15, multiplied by 2/3 for modules other than the Plasma Fabricator",
+      "translation": "將工業高爐爐溫帶來的電力減免增益從5%提升至8%（譯註：變為每900K減少8%的需求功率，相當於減少能耗，但會影響並行演算法），並根據內部電池的填充水平新增能量減免。此增益透過以下公式計算得出：減免=(當前填充水平/最大容量-0.5)^2*(-0.6)+0.15，對於除電漿製造器以外的模組乘以2/3",
+      "review": "Literal percentage text, not a formatter parameter"
+    },
+    {
+      "file": "config/txloader/load/GregTech[tectech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.multimachine.em.transformer.desc.2",
+      "english": "Only 0.004% power loss, HAYO!",
+      "translation": "只有0.004%的能量損失，HAYO！",
+      "review": "Literal percentage text, not a formatter parameter"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "GT5U.machines.stalled_stuttering.tooltip.1",
+      "english": "§7Provide %1$s§7 consistently",
+      "translation": "§7請在處理過程中",
+      "review": "Valid: same argument array is passed to each cached Tooltip line"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "GT5U.machines.stalled_stuttering.tooltip.2",
+      "english": "§7for the entire duration of",
+      "translation": "§7持續提供 %1$s",
+      "review": "Valid: same argument array is passed to each cached Tooltip line"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.vajra.tooltip.silk_touch",
+      "english": "Shift right click air to toggle silk touch",
+      "translation": "精準採集：%s",
+      "review": "Outside this repair: biological item / tool mode text"
+    }
+  ],
+  "errors": []
+}
