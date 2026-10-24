@@ -169,7 +169,7 @@ thaumicenergistics.research_page.TETHAUMGBOX.1=既然傀儡能代替你右擊操
 # Research Certus Quartz Duplication
 tc.research_name.thaumicenergistics.TECERTUSDUPE=賽特斯石英複製
 tc.research_text.thaumicenergistics.TECERTUSDUPE=吃我鍊金術
-thaumicenergistics.research_page.TECERTUSDUPE.1=你現在能用鍊金術複製§l賽特斯石英§r和§l下界石英§r了。
+thaumicenergistics.research_page.TECERTUSDUPE.1=你現在能用鍊金術複製§l賽特斯石英§r和§l地獄石英§r了。
 
 # Research Knowledge Inscriber + Core
 tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER=知識記錄儀

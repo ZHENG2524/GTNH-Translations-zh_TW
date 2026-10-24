@@ -67,9 +67,9 @@ entity.Thaumcraft.TaintedPig.name=腐化豬
 entity.Thaumcraft.TaintedSheep.name=腐化羊
 entity.Thaumcraft.TaintedCow.name=腐化牛
 entity.Thaumcraft.TaintedCreeper.name=腐化苦力怕
-entity.Thaumcraft.Pech.name=巖精強盜
-entity.Thaumcraft.Pech.1.name=巖精法師
-entity.Thaumcraft.Pech.2.name=巖精獵手
+entity.Thaumcraft.Pech.name=岩精強盜
+entity.Thaumcraft.Pech.1.name=岩精法師
+entity.Thaumcraft.Pech.2.name=岩精獵手
 entity.Thaumcraft.PrimalOrb.name=元始能量球
 entity.Thaumcraft.TravelingTrunk.name=箱子寶寶
 entity.trunk.guiname=的箱子寶寶
@@ -317,7 +317,7 @@ item.FocusTrade.name=法杖核心:更替
 item.FocusFrost.name=法杖核心:寒霜
 item.FocusExcavation.name=法杖核心:採掘
 item.FocusPortableHole.name=法杖核心:行動式洞穴
-item.FocusPech.name=法杖核心:巖精之詛咒
+item.FocusPech.name=法杖核心:岩精之詛咒
 item.FocusWarding.name=法杖核心:守護
 item.FocusPrimal.name=法杖核心:元始
 item.WandCap.0.name=鐵杖端
@@ -624,7 +624,7 @@ focus.upgrade.alchemistsfire.text=這種升級能夠提高法杖核心的元素�
 focus.upgrade.alchemistsfrost.name=鍊金之霜
 focus.upgrade.alchemistsfrost.text=這種升級能夠提高法杖核心的元素之霜的威力.法杖核心作用或傷害的生物會被凍僵並顯著減速.
 focus.upgrade.nightshade.name=夜影
-focus.upgrade.nightshade.text=通常來說巖精之詛咒一次只能觸發一種負面效果,安裝這種升級後它就能一次造成所有種類的負面效果了.
+focus.upgrade.nightshade.text=通常來說岩精之詛咒一次只能觸發一種負面效果,安裝這種升級後它就能一次造成所有種類的負面效果了.
 focus.upgrade.silktouch.name=精準採集
 focus.upgrade.silktouch.text=類似精準採集附魔,這種升級能夠讓你直接拾取採掘前的原材料而非一般的掉落物.
 focus.upgrade.seeker.name=追蹤
@@ -1106,7 +1106,7 @@ tc.research_page.FOCUSTRADE.1=這種法杖核心能夠將法杖變成能夠用�
 #
 tc.research_name.FOCUSHELLBAT=法杖核心：九獄
 tc.research_text.FOCUSHELLBAT=小怪物們
-tc.research_page.FOCUSHELLBAT.1=你的下界之旅讓你充分領略到了九獄焱蝠的可怕。你已經發現如何召喚出這種恐怖的小怪物並指揮它們飛向敵人。好評。
+tc.research_page.FOCUSHELLBAT.1=你的地獄之旅讓你充分領略到了九獄焱蝠的可怕。你已經發現如何召喚出這種恐怖的小怪物並指揮它們飛向敵人。好評。
 #
 tc.research_name.FOCUSPORTABLEHOLE=法杖核心：行動式洞穴
 tc.research_text.FOCUSPORTABLEHOLE=媽媽再也不擔心你回不了家
@@ -1150,7 +1150,7 @@ tc.research_page.THAUMONOMICON.1=只需簡單地對著放置下的書架輕輕�
 #
 tc.research_name.CRUCIBLE=坩堝
 tc.research_text.CRUCIBLE=沸騰並且冒著泡
-tc.research_page.CRUCIBLE.1=只需對著放置在地上的普通煉藥鍋使用你的法杖，你就能得到這種具有魔力的坩堝。<BR>坩堝對神秘使來說是重要的工具。它能夠讓你將常態的物品分解成其蘊含的源質並且如你所願地組合。<BR>坩堝需要放置在一個長久熱源的上方（用打火石點燃下界巖來構建）並且裝滿水。當水開始沸騰並冒著氣泡的時候可以向其中投擲物品，這樣物品就會分解破壞成基本源質。<BR>如果坩堝中源質組合符合特定搭配，
+tc.research_page.CRUCIBLE.1=只需對著放置在地上的普通煉藥鍋使用你的法杖，你就能得到這種具有魔力的坩堝。<BR>坩堝對神秘使來說是重要的工具。它能夠讓你將常態的物品分解成其蘊含的源質並且如你所願地組合。<BR>坩堝需要放置在一個長久熱源的上方（用打火石點燃地獄岩來構建）並且裝滿水。當水開始沸騰並冒著氣泡的時候可以向其中投擲物品，這樣物品就會分解破壞成基本源質。<BR>如果坩堝中源質組合符合特定搭配，
 tc.research_page.CRUCIBLE.2=你可以向坩堝內丟入催化劑這種特殊物品。催化劑將作為核心聚合源質，且轉換成全新的物品後，會從坩堝中彈出。<BR>多餘的源質會留存在坩堝中以備後用，但長期讓源質殘留在坩堝中無疑不是好主意。<BR>使用坩堝製作物品還會消耗坩堝中少量的水，因此你最終會需要重新添水。<BR>坩堝中的源質會持續降解。複合源質會降解成組成它的源質之一，而元始源質會蒸發消失。
 tc.research_page.CRUCIBLE.3=這不僅僅會造成資源的浪費，蒸發和降解的源質還會造成諸多奇怪的副作用。<BR>你可以對著坩堝使用法杖清空坩堝中的源質製作物品，但這會讓坩堝中的源質全部流失到大氣中……因此你並不希望經常這樣做。
 tc.research_page.CRUCIBLE.4=下面是一些所有人皆可使用的鍊金配方。<LINE>§n平衡碎片<BR><BR>向普通的Vis碎片灌注其餘五種它不具有的元始源質的Vis碎片，最終得到的就是這種六大元始源質相互平衡的，能夠與元始能量完美共鳴的水晶碎片。<BR> 在熔爐中冶煉平衡碎片能夠得到世界鹽（參見後文）。
@@ -1173,7 +1173,7 @@ tc.research_page.ELEMENTALAXE.2=如此砍下的原木都會自動地流向你。
 #
 tc.research_name.ELEMENTALPICK=熾心鎬
 tc.research_text.ELEMENTALPICK=熔岩之心
-tc.research_page.ELEMENTALPICK.1=將火之碎片與神秘錠製作的鎬融合，你打造出一柄冒著熊熊火光的魔鎬。<BR>使用熾心鎬採掘礦物時有一定機率掉落原礦簇而非礦石。冶煉原礦簇能得到雙倍的產出。<BR>持有熾心鎬右擊任意方塊表面，能夠探測並顯示附近的水，巖漿或者最有價值的礦物。
+tc.research_page.ELEMENTALPICK.1=將火之碎片與神秘錠製作的鎬融合，你打造出一柄冒著熊熊火光的魔鎬。<BR>使用熾心鎬採掘礦物時有一定機率掉落原礦簇而非礦石。冶煉原礦簇能得到雙倍的產出。<BR>持有熾心鎬右擊任意方塊表面，能夠探測並顯示附近的水，岩漿或者最有價值的礦物。
 tc.research_page.ELEMENTALPICK.2=按住潛行則可以抑制其特效，將其作為普通鎬子使用。
 #
 tc.research_name.ELEMENTALSWORD=風雷劍
@@ -1420,7 +1420,7 @@ tc.research_page.JARLABEL.3=你可以對著空罐子使用與某種源質繫結�
 #
 tc.research_name.INFERNALFURNACE=煉獄熔爐
 tc.research_text.INFERNALFURNACE=夠熱？
-tc.research_page.INFERNALFURNACE.1=利用天然§cIgnis§0源質的神奇力量，你使用下界磚以及黑曜石構築了這個高效且不需要任何燃料的熔爐。實際上，它是如此的高效，有時甚至會額外地以顆粒或錠狀的形式產出所燒的礦物。<BR>不消耗源質的煉獄熔爐冶煉速度非常緩慢，倘若想要提高效率需要不時地向它供應§cIgnis§0源質或Vis。你可以使用目前發現以及今後將會發現的所有方法來進行Vis供應。
+tc.research_page.INFERNALFURNACE.1=利用天然§cIgnis§0源質的神奇力量，你使用地獄磚以及黑曜石構築了這個高效且不需要任何燃料的熔爐。實際上，它是如此的高效，有時甚至會額外地以顆粒或錠狀的形式產出所燒的礦物。<BR>不消耗源質的煉獄熔爐冶煉速度非常緩慢，倘若想要提高效率需要不時地向它供應§cIgnis§0源質或Vis。你可以使用目前發現以及今後將會發現的所有方法來進行Vis供應。
 tc.research_page.INFERNALFURNACE.2=你應該還要注意的是煉獄熔爐偶爾會向環境中洩漏出一點兒咒波。<BR>將你希望燒的物品從上面投入，它會從正前方吐出產物。有時候你會想，要是你的箱子能夠自己接住這個熔爐吐出來的東西就好了。
 #
 tc.research_name.BELLOWS=奧術風箱
@@ -1433,7 +1433,7 @@ tc.research_text.ARCANESTONE=魔力強化的建築材料
 tc.research_page.ARCANESTONE.1=奧術石材是多種複雜的神秘構造的建築材料。它是一種被火之元素灼烤，被地之元素強化的石材。
 #
 tc.research_name.INFUSION=注魔
-tc.research_text.INFUSION=魔力聚變
+tc.research_text.INFUSION=魔力核融合
 tc.research_page.INFUSION.1=奧術合成和鍊金術能達到的層度也就到此為止了。為了獲得更好的東西你需要創造出更強大的魔導裝置。<BR>注魔合成能夠向單件物品中灌注魔力和來自其他物品的特性。比方說，你能夠將風之Vis以及羽毛灌注入普通石頭來得到一種非常輕盈的石材。<BR>神秘學中通常很難有既輕鬆又簡單的內容。搭建注魔臺前你需要做如下準備：符文矩陣，奧術基座，以及足夠數量的源質。
 tc.research_page.INFUSION.2=當你將符文矩陣正確地放置在一個名為注魔祭壇的神秘構造上後，便能夠開始進行注魔合成。<BR>符文矩陣下方，坐落於正中的基座是你用於放置被注魔物品的地方。你還需要環繞祭壇放置一些基座來放置被灌注的材料。最後你還需要在附近放置一些盛放了源質的罐子或者其他類似的Vis儲存容器。<BR>當一切就緒，你需要使用法杖點選符文矩陣來開始注魔過程。<BR>在這個過程的第一階段，注魔祭壇將會從附近吸取所需的源質。
 tc.research_page.INFUSION.3=若沒有足夠的源質供應，注魔過程會中斷 - 後文將會對這種你不希望發生的情況做進一步的闡釋。<BR>當所有需求的源質被灌入目標物品後，才能開始吸收被灌注的其他物品的源質。僅當這些都完成後注魔才能順利完成。<LINE>注魔合成並非毫無風險。其完整的過程實質上是把龐雜的魔法能量強制集中到單獨的物品中，在這種情況下往往會發生一些不可預知的事情：<BR>
@@ -1508,9 +1508,9 @@ tc.research_text.ETHEREALBLOOM=純潔的花朵
 tc.research_page.ETHEREALBLOOM.1=水銀花常常生長在銀樹附近的陰影之中，但是它亦有自己獨特的魔法屬性。<BR>類似銀樹，水銀花也潛藏著休眠中的淨化魔力。你已經找到一種方法喚醒這種魔力，並將其轉化為天域花。<BR>天域花，能夠十分緩慢但確定無疑地恢復這片被神秘力量（包括我們通常稱之為腐化的咒波汙染）所汙染和破壞的大地，使其重回昔日的榮光之下。雖然它並不能夠直接對抗腐化，但腐化的植物會很難蔓延到天域花所處的環境中，並會漸漸趨向於枯萎死亡。
 tc.research_page.ETHEREALBLOOM.2=這種花只能淨化沐浴在它榮光之下的8格範圍內的土地。
 #
-tc.research_name.PECH=巖精
+tc.research_name.PECH=岩精
 tc.research_text.PECH=古怪的生物
-tc.research_page.PECH.1=這些奇怪的類人生物生活在位面間隙的薄層之中。它們被魔力所吸引，在魔力濃鬱之處遍地皆是。<BR>不要被它們小小的個頭愚弄了，實際上它們擁有不可思議的力氣，能夠攜運數倍於自身重量的物品。<BR>巖精通常不具有主動攻擊性。但一旦被激怒，就會成群結隊地追殺攻擊它們的人。一般情況下，儘可能不要招惹它們。<BR>巖精是出了名的吝嗇鬼，儘管它們收藏了許多貴重物品，
+tc.research_page.PECH.1=這些奇怪的類人生物生活在位面間隙的薄層之中。它們被魔力所吸引，在魔力濃鬱之處遍地皆是。<BR>不要被它們小小的個頭愚弄了，實際上它們擁有不可思議的力氣，能夠攜運數倍於自身重量的物品。<BR>岩精通常不具有主動攻擊性。但一旦被激怒，就會成群結隊地追殺攻擊它們的人。一般情況下，儘可能不要招惹它們。<BR>岩精是出了名的吝嗇鬼，儘管它們收藏了許多貴重物品，
 tc.research_page.PECH.2=可殺死它們不會得到任何戰利品。據說如果你為它們提供想要的材料就有可能能夠與它們結交。成為朋友後它們常常會搬來一些它們不想要了的神奇物品給你。<BR>應當說明的一點是，這樣的友誼很少能長久維持。<BR><IMG>thaumcraft:textures/misc/research5.png:128:136:112:120:.75</IMG>
 #
 tc.research_name.INFUSIONENCHANTMENT=注魔法附魔

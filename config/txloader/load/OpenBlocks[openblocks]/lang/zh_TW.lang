@@ -211,7 +211,7 @@ tile.openblocks.beartrap.name=捕獸夾
 tile.openblocks.beartrap.description=將捕獸夾放置在地上,再右鍵開啟它,這樣一來當有生物路過上方時就會被夾住動彈不得.
 
 tile.openblocks.sponge.name=海綿
-tile.openblocks.sponge.description=這種海綿是原版海綿的重置版.它十分利於清理一片範圍內的水或巖漿.但在清理一大片液體的時候要注意了,因為它會讓液體的流動變的相當混亂.
+tile.openblocks.sponge.description=這種海綿是原版海綿的重置版.它十分利於清理一片範圍內的水或岩漿.但在清理一大片液體的時候要注意了,因為它會讓液體的流動變的相當混亂.
 
 item.openblocks.spongeonastick.name=海綿棒
 item.openblocks.spongeonastick.description=類似海綿,海綿棒可用於清理一片範圍內的液體.但它比海綿更方便,也很容易壞掉.

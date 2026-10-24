@@ -9,7 +9,7 @@ item.ItemRemoteSensorKit.name=遠端感測工具
 item.ItemEnergySensorKit.name=電力感測工具
 item.ItemCounterSensorKit.name=計數器感測工具
 item.ItemLiquidSensorKit.name=流體感測工具
-item.ItemSensorLocationCard.name=反應堆感測定位卡片
+item.ItemSensorLocationCard.name=反應爐感測定位卡片
 item.ItemEnergySensorLocationCard.name=電力感測定位卡片
 item.itemCounterSensorLocationCard.name=計數感測定位卡片
 item.ItemLiquidSensorLocationCard.name=流體感測定位卡片
@@ -22,12 +22,12 @@ item.ItemTextCard.name=文字卡片
 item.ItemGeneratorSensorKit.name=發電機感測工具
 item.ItemGeneratorSensorLocationCard.name=發電機感測定位卡片
 item.ItemLiquidArrayLocationCard.name=流體陣列定位卡片
-item.Item55ReactorCard.name=流體反應堆感測定位卡片
+item.Item55ReactorCard.name=流體反應爐感測定位卡片
 item.remoteMonitor.name=行動式資訊屏
 
 #Integration Items
-item.RFreactorKit.name=遠端RF反應堆工具
-item.RFreactorCard.name=RF反應堆感測定位卡片
+item.RFreactorKit.name=遠端RF反應爐工具
+item.RFreactorCard.name=RF反應爐感測定位卡片
 item.AppengCard.name=應用能源卡片
 item.AppengKit.name=應用能源顯示器工具
 item.RFenergyCard.name=RF能源感測定位卡片
@@ -76,7 +76,7 @@ gui.tile.blockRangeTrigger.name.title=範圍觸發器
 gui.tile.blockAdvancedInfoPanel.name.title=高階工業資訊屏
 
 #Integration Blocks
-tile.blockBRPart.name=大反應堆監視器
+tile.blockBRPart.name=大反應爐監視器
 tile.NetworkLink.name=ME網路監視器
 
 #Original Screen Messages

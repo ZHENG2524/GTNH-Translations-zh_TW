@@ -40,13 +40,13 @@ tooltip.EMT.thunder=雷雨時發電量
 tooltip.EMT.underwater=水下發電量
 tooltip.EMT.output.double=輸出2倍電量
 tooltip.EMT.output.triple=輸出3倍電量
-tooltip.EMT.output.double.nether=處於下界時發電量
+tooltip.EMT.output.double.nether=處於地獄時發電量
 tooltip.EMT.output.double.lava=供給§cIgnis§7 Centivis時發電量
 tooltip.EMT.output.double.half.height=位置越高發電量越高(y=5時1倍，y=220時3倍)
 tooltip.EMT.output.double.half.low=位置越低發電量越高(y=220時1倍，y=5時3倍)
 
 #=============Entity Names=============
-entity.EMT.laser.name=鐳射器
+entity.EMT.laser.name=雷射器
 entity.EMT.archer.name=雪人守衛
 entity.EMT.shield.name=護盾
 
@@ -222,7 +222,7 @@ emt.text.Nanosuit Goggles of Revealing=你已發現了一種無需移動太多�
 
 emt.rsname.Quantum Goggles of Revealing=量子揭示護目鏡
 emt.tag.Quantum Goggles of Revealing=更高階的雙重保護
-emt.text.Quantum Goggles of Revealing=經過大量的試錯，你終於找到了將Vis感應器嵌入量子頭盔的方法。給量子頭盔注魔後，你就能用它來觀測靈氣節點了。在設計的過程中，你不得不將幾個涉及夜視和自動餵食的控制電路，替換為Vis偵測電路和用於吸收過剩魔法能量的電容器。你發現藉助鐳射採礦槍來約束能量，能夠安全地聚焦並引導爆炸脈衝，指向頭盔內夜視與餵食元件的位置。好好享受被強行灌輸能量的滋味吧。
+emt.text.Quantum Goggles of Revealing=經過大量的試錯，你終於找到了將Vis感應器嵌入量子頭盔的方法。給量子頭盔注魔後，你就能用它來觀測靈氣節點了。在設計的過程中，你不得不將幾個涉及夜視和自動餵食的控制電路，替換為Vis偵測電路和用於吸收過剩魔法能量的電容器。你發現藉助雷射採礦槍來約束能量，能夠安全地聚焦並引導爆炸脈衝，指向頭盔內夜視與餵食元件的位置。好好享受被強行灌輸能量的滋味吧。
 
 emt.rsname.Iron Omnitool=鐵製鑽鋸
 emt.tag.Iron Omnitool=為農夫準備的便利工具
@@ -238,7 +238,7 @@ emt.text.Thaumium Omnitool=在創作了鑽石鑽鋸和鐵鑽鋸之後,下一步�
 
 emt.rsname.Explosion Focus=法杖核心:爆炸
 emt.tag.Explosion Focus=請在開闊處使用
-emt.text.Explosion Focus=你已發現了一種修改九獄核心的方法:將蝙蝠換為更具爆炸性的採礦鐳射.<BR>這個核心工作時類似鐳射採礦槍,但是它使用Vis而不是電力.<BR>這個核心很不穩定,所以記著小心點.
+emt.text.Explosion Focus=你已發現了一種修改九獄核心的方法:將蝙蝠換為更具爆炸性的採礦雷射.<BR>這個核心工作時類似雷射採礦槍,但是它使用Vis而不是電力.<BR>這個核心很不穩定,所以記著小心點.
 
 emt.rsname.Kris-tmas Focus=法杖核心:聖誕
 emt.tag.Kris-tmas Focus=吼!吼!吼!
@@ -290,7 +290,7 @@ emt.text.Shield Block=研究了盾牌核心製造出的方塊後,你已發現瞭
 
 emt.rsname.Tiny Uranium=小撮鈾
 emt.tag.Tiny Uranium=可能會有些縮減
-emt.text.Tiny Uranium=在你將自己所有的礦物都用在了核反應堆的材料上後,你終於用盡了用來做你所需燃料棒的鈾.在很長時間的研究後,你試著將你剩下的鈾轉化為更有用的粒!<BR><BR>不幸的是,這個過程有些浪費,不過你相信它會有所值.
+emt.text.Tiny Uranium=在你將自己所有的礦物都用在了核反應爐的材料上後,你終於用盡了用來做你所需燃料棒的鈾.在很長時間的研究後,你試著將你剩下的鈾轉化為更有用的粒!<BR><BR>不幸的是,這個過程有些浪費,不過你相信它會有所值.
 
 emt.rsname.Mjolnir=雷神之錘
 emt.tag.Mjolnir=感受神之力吧
@@ -366,7 +366,7 @@ emt.text.Order Infused Solar Panels=利用秩序的力量,你已經有辦法讓�
 
 emt.rsname.Fire Infused Solar Panels=火注魔太陽能
 emt.tag.Fire Infused Solar Panels=熾熱的危險之地...
-emt.text.Fire Infused Solar Panels=你被下界所吸引,做出了一個怪物.這些太陽能在主世界正常工作,但放在下界也能發電!它真是個怪物...
+emt.text.Fire Infused Solar Panels=你被地獄所吸引,做出了一個怪物.這些太陽能在主世界正常工作,但放在地獄也能發電!它真是個怪物...
 
 emt.rsname.Air Infused Solar Panels=風注魔太陽能
 emt.tag.Air Infused Solar Panels=高度不是問題

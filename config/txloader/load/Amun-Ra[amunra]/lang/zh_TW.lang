@@ -153,10 +153,10 @@ item.baseItem.name=資源
 item.baseItem.compressedGold.name=航天金板
 item.baseItem.goldFoil.name=金箔
 item.baseItem.transformer.name=變壓器
-item.baseItem.waferEnder.name=末影晶圓
+item.baseItem.waferEnder.name=終界晶圓
 item.baseItem.porcodonMeat.name=帕克頓肉
 
-item.baseItem.laserDiode.name=鐳射二極體
+item.baseItem.laserDiode.name=雷射二極體
 item.baseItem.cryoDiode.name=低溫二極體
 item.baseItem.cryoCrystal.name=錐冰晶石
 item.baseItem.rubyGem.name=紅寶石
@@ -246,7 +246,7 @@ death.attack.wrongAtmoSuffocate=%1$s 在錯誤的大氣中窒息
 death.attack.fallOffMothership=%1$s迷失在太空中
 death.attack.fallOffMothershipIntoPlanet=%1$s墜毀在%2$s上
 death.attack.killedByEngine=%1$s被母艦引擎殺死
-death.attack.ar_laser=%1$s被鐳射槍擊中
+death.attack.ar_laser=%1$s被雷射槍擊中
 death.attack.ar_heatray=%1$s被氣化了
 death.attack.ar_coldray=%1$s被凍成固體
 

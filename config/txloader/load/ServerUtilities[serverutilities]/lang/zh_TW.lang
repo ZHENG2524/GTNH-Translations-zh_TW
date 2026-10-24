@@ -88,7 +88,7 @@ serverutilities.select_team.gui=選擇組
 
 serverutilities.world.dimension.overworld=主世界
 serverutilities.world.dimension.end=末地
-serverutilities.world.dimension.nether=下界
+serverutilities.world.dimension.nether=地獄
 
 # Config
 serverutilities=伺服器工具
@@ -146,7 +146,7 @@ serverutilities.login.motd=伺服器登入歡迎語
 serverutilities.login.starting_items=初始物品
 
 serverutilities.mixins=Mixins
-serverutilities.mixins.endermen=啟用末影人Mixin
+serverutilities.mixins.endermen=啟用終界人Mixin
 serverutilities.mixins.bypassplayerlimit=啟用繞過玩家限制Mixin
 serverutilities.mixins.farmlandtramplingprotection=啟用耕地踩踏保護Mixin
 
@@ -172,7 +172,7 @@ serverutilities.world.show_playtime=在左上角顯示遊玩時間
 serverutilities.world.players_sleeping=§f%s§6 睡下了。 %s/%s (%s%%)
 serverutilities.world.vampires_sleeping=§f%s§4在棺材中休息了。%s/%s (%s%%)
 serverutilities.world.enable_explosions=在宣告的區塊中啟用爆炸
-serverutilities.world.enable_endermen=在已宣告的區塊中啟用末影人
+serverutilities.world.enable_endermen=在已宣告的區塊中啟用終界人
 serverutilities.world.enable_pvp=開啟PvP
 serverutilities.world.disabled_right_click_items=禁用物品右鍵
 serverutilities.world.enable_player_sleeping_percentage=啟用玩家入睡百分比
@@ -374,7 +374,7 @@ team_config.serverutilities.blocks_interact=互動方塊所需的級別
 team_config.serverutilities.attack_entities=攻擊實體所需的級別
 team_config.serverutilities.use_items=使用物品所需的級別
 team_config.serverutilities.explosions=在已宣告區塊中啟用爆炸
-team_config.serverutilities.endermen=在已宣告區塊內允許末影人搬運方塊
+team_config.serverutilities.endermen=在已宣告區塊內允許終界人搬運方塊
 team_config.serverutilities.fake_players=允許假玩家與方塊進行互動
 team_config.serverutilities.mob_spawning=在已宣告的區塊內禁用生物生成
 team_config.serverutilities.blocked_creatures=在已宣告的區塊內要禁止的生物型別
@@ -823,7 +823,7 @@ serverutilities.jm.unclaim_hint=按 %s 以取消宣告
 # Invsee GUI
 serverutilities.invsee.title=%s's %s
 serverutilities.invsee.main=主物品欄
-serverutilities.invsee.ender_chest=末影箱
+serverutilities.invsee.ender_chest=終界箱
 serverutilities.invsee.personal_backpack=個人揹包
 serverutilities.invsee.baubles=飾品
 serverutilities.invsee.adventure_backpack=探險揹包

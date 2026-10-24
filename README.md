@@ -1,9 +1,14 @@
 # GTNH 繁體中文（台灣）語言包
 
+> 本專案由使用者與 [Claude](https://claude.com/claude-code)（Anthropic）協力製作：大部分翻譯為機器簡轉繁加 AI 翻譯，再由人工與 AI 逐步校對。
+
 GT: New Horizons 的 zh_TW 語言檔。涵蓋既有翻譯，加上補齊剩餘 780 條未翻譯字串（見 `tools/GTNH_remaining_translated.csv`，含 notes 欄）。
 
 ## 安裝
 把 `config/` 與 `GregTech_zh_TW.lang` 複製到 GTNH 實例根目錄（與既有 `config/txloader/load/...` 合併），遊戲語言選「繁體中文（台灣）」。安裝前請備份。
+
+## 用語校準（v0.1.0）
+統一為台灣常用說法：鐳射→雷射、末影→終界、下界→地獄、反應堆→反應爐、核聚變→核融合、巖→岩（`tools/normalize_terms.py`，可重跑）。「倉」（Hatch）維持全檔一致，暫不改「艙口」。
 
 ## 2026-10-24 更新
 - `GregTech_zh_TW.lang` 由約 2,900 行補齊到完整（約 6 萬 9 千行），缺漏條目由簡體 `GregTech_zh_CN.lang` 以 OpenCC `s2twp` 轉換而來。

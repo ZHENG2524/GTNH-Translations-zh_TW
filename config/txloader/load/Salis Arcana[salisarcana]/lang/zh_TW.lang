@@ -183,7 +183,7 @@ tile.blockPortalNothing.name=傳送門：無
 slot.focus_pouch=§a法杖核心手袋§7
 
 salisarcana:misc.golem.reject_player=你不是我的主人！
-salisarcana:misc.warded.destroy_ender_pearl=附近一個被施加了保護的物品摧毀了末影珍珠。
+salisarcana:misc.warded.destroy_ender_pearl=附近一個被施加了保護的物品摧毀了終界珍珠。
 salisarcana:misc.arcane_pressure_plate.everyone=現在它所有情況都會觸發。
 salisarcana:misc.arcane_pressure_plate.not_you=現在它會觸發除你之外的所有目標。
 salisarcana:misc.arcane_pressure_plate.only_you=現在只會對你觸發。
@@ -262,7 +262,7 @@ salisarcana:wand_rod.special.blood_staff.3=§4LP耗盡將導致死亡！
 salisarcana:wand_rod.special.blood_staff.4=§5與鍊金杖端結合使用時，對法術目標施加§8虛弱III§5效果。
 
 salisarcana:wand_rod.special.infernal.1=§5每5秒回覆§c1點 Ignis§d vis §5（上限為vis總量的§d20% §5）
-salisarcana:wand_rod.special.infernal.2=§5在§4下界§5時，每5秒回覆§d1點§5所有其他型別的vis（上限為vis總量的§d10% §5）
+salisarcana:wand_rod.special.infernal.2=§5在§4地獄§5時，每5秒回覆§d1點§5所有其他型別的vis（上限為vis總量的§d10% §5）
 salisarcana:wand_rod.special.infernal.3=§4撲滅火焰§5並移除§8凋零§5效果。
 salisarcana:wand_rod.special.profane.1=§5每秒回覆§d所有已消耗的vis§5（上限為vis總量的§d100%§5）
 salisarcana:wand_rod.special.profane.2=  §5每回復§d25.01點vis§5就會帶來1點扭曲。

@@ -70,7 +70,7 @@ item.WG_Cluster.name=%1$s礦簇
 item.WG_Bag.name=口袋
 item.WG_Bag.normal.name=奇術口袋
 item.WG_Bag.void.name=虛空口袋
-item.WG_Bag.ender.name=末影口袋
+item.WG_Bag.ender.name=終界口袋
 item.WG_Bag.hungry.name=饕餮口袋
 
 item.WG_ThaumiumShears.name=神秘剪刀
@@ -257,7 +257,7 @@ witchinggadgets_research_page.ETHEREALWALL.2=其次，你能將它偽裝成大�
 #
 witchinggadgets_research_name.STONEEXTRUDER=神秘造石機
 witchinggadgets_research_text.STONEEXTRUDER=[WG]圓石不嫌多
-witchinggadgets_research_page.STONEEXTRUDER.1=即便是神秘學的麻瓜也知道流動的巖漿被水冷卻時會凝固成圓石。而精於魔法的傢伙們可不想將時間浪費在挖石頭上，因此他們想出了自動化的方法。<BR>這臺機器會在內部生成圓石，破壞它並將其拋在一邊或輸入到相連的容器中。當容器已滿或有紅石訊號時則會停止執行。你也可以用法杖來旋轉它。
+witchinggadgets_research_page.STONEEXTRUDER.1=即便是神秘學的麻瓜也知道流動的岩漿被水冷卻時會凝固成圓石。而精於魔法的傢伙們可不想將時間浪費在挖石頭上，因此他們想出了自動化的方法。<BR>這臺機器會在內部生成圓石，破壞它並將其拋在一邊或輸入到相連的容器中。當容器已滿或有紅石訊號時則會停止執行。你也可以用法杖來旋轉它。
 #
 witchinggadgets_research_name.ICESOLIDIFIER=神秘造雪機
 witchinggadgets_research_text.ICESOLIDIFIER=[WG]雪永遠不嫌多
@@ -299,9 +299,9 @@ witchinggadgets_research_page.BAGOFTRICKS.1=魔法紡織的進一步發展讓你
 witchinggadgets_research_page.BAGOFTRICKS.r1=<IMG>witchinggadgets:textures/gui/research/weavingRecipes1.png:0:0:255:255:0.5</IMG>§l寬紡布匹§r
 witchinggadgets_research_page.BAGOFTRICKS.2=這些口袋都是可以染色的，不加染料直接合成可以變回預設的顏色。
 #
-witchinggadgets_research_name.ENDERBAG=末影口袋
+witchinggadgets_research_name.ENDERBAG=終界口袋
 witchinggadgets_research_text.ENDERBAG=[WG]無處不在！
-witchinggadgets_research_page.ENDERBAG.1=將奇術口袋與你末影箱子的頻率相協調，就能隨時隨地存取末影箱子中的物品了。<BR>請不要將內部翻出來。
+witchinggadgets_research_page.ENDERBAG.1=將奇術口袋與你終界箱子的頻率相協調，就能隨時隨地存取終界箱子中的物品了。<BR>請不要將內部翻出來。
 #
 witchinggadgets_research_name.HUNGERBAG=饕餮口袋
 witchinggadgets_research_text.HUNGERBAG=[WG]*咀嚼聲*
@@ -352,7 +352,7 @@ witchinggadgets_research_page.CLOAK_RAVEN.1=在穿過暮色森林的旅行中，
 witchinggadgets_research_name.CLOAK_SPECTRAL=幽靈斗篷
 witchinggadgets_research_text.CLOAK_SPECTRAL=[WG]現在你看到我了……
 witchinggadgets_research_page.CLOAK_SPECTRAL.1=對於大多數普通人來說，幽靈生物位面是個謎，幸運的是，你不是這大多數人。在為斗篷灌注邪術與幽靈能量後，它將使你能夠“轉移”自己到那個位面。在那個位面中行走，相對於那些正常位面的普通生物，你將是隱形的。敵人不會看到或瞄準你，除非他們是邪術生物，豁免者或戴著揭示護目鏡。<BR>這種能力是以無法與物質世界互動為代價的。你不能攻擊，使用物品，破壞或啟用方塊。此外，它會每隔5秒從你的庫存中消耗1點風vis。
-witchinggadgets_research_page.CLOAK_SPECTRAL.2=§o免責宣告： 仍然可以看到你的生物包括：邪術守衛，邪術典獄官，邪術魔像，血腥主教，以及boss怪比如凋靈或末影龍。由於即使是最狡猾的神秘使也不知道的原因，蜘蛛和史萊姆似乎能夠以不同的方式探測到你。任何使用相同斗篷的人也能看見你。§r
+witchinggadgets_research_page.CLOAK_SPECTRAL.2=§o免責宣告： 仍然可以看到你的生物包括：邪術守衛，邪術典獄官，邪術魔像，血腥主教，以及boss怪比如凋靈或終界龍。由於即使是最狡猾的神秘使也不知道的原因，蜘蛛和史萊姆似乎能夠以不同的方式探測到你。任何使用相同斗篷的人也能看見你。§r
 #
 witchinggadgets_research_name.CLOAK_WOLF=野狼斗篷
 witchinggadgets_research_text.CLOAK_WOLF=[WG]你有這麼大一個嘴！
@@ -414,7 +414,7 @@ witchinggadgets_research_name.INFERNALBLASTFURNACE=煉獄高爐
 witchinggadgets_research_text.INFERNALBLASTFURNACE=[WG]火焰躍動……
 witchinggadgets_research_page.INFERNALBLASTFURNACE.1.GT5u=這種熔爐燃燒著熾熱無比的魔法火焰，是神秘使對工程師繁瑣礦石淨化步驟的回應。任何投入其中的金屬團塊都會被熔鍊成三塊錠，偶爾還會額外產出少許金屬粒。<BR>與地獄熔爐相同，可透過相同方式提升該裝置的熔鍊速度。
 witchinggadgets_research_page.INFERNALBLASTFURNACE.1.External=燃燒著熾熱魔法火焰的熔爐，是神秘使對工程師繁瑣礦石提純步驟的回應。任何投入其中的金屬簇都將被熔鍊為三塊金屬錠，偶爾還會額外產出些許金屬粒。<BR>此外，若您需要鋼鐵進行其他操作，這件惡魔造物不純的火焰正是獲取鋼鐵的可靠途徑。只需投入鐵錠或鐵塊並靜候即可。<BR>與地獄熔爐同理，可透過相同方式提升此裝置的熔鍊速度。
-witchinggadgets_research_page.INFERNALBLASTFURNACE.2=對於普通的燒製而言，它的火焰溫度實在是太高了，因此請不要將雞肉投入煉獄高爐。<BR>免責宣告：儘管爐子中的巖漿經過了魔法的增強，危險性依然存在。任何不該投入的物品在爐中都會被氣化，包括那些蠢到掉進爐子的神秘使。
+witchinggadgets_research_page.INFERNALBLASTFURNACE.2=對於普通的燒製而言，它的火焰溫度實在是太高了，因此請不要將雞肉投入煉獄高爐。<BR>免責宣告：儘管爐子中的岩漿經過了魔法的增強，危險性依然存在。任何不該投入的物品在爐中都會被氣化，包括那些蠢到掉進爐子的神秘使。
 witchinggadgets_research_page.INFERNALBLASTFURNACE.3=§o魔導手冊中對於建造結構的顯示不太準確。該結構頂部的樓梯方塊需要對著中心放置，四角的則與其相適。§r
 
 
@@ -471,7 +471,7 @@ witchinggadgets_research_page.ENCH_RIDEPROTECT.1=當有人騎在你頭上時移�
 #
 witchinggadgets_research_name.ENCH_SOULBOUND=附魔： 靈魂繫結
 witchinggadgets_research_text.ENCH_SOULBOUND=[WG]死亡只是另一個開始。
-witchinggadgets_research_page.ENCH_SOULBOUND.1=死亡總有點不方便。除了死了，你也往往失去重要的東西，如工具，有價值的材料和盔甲。<BR>透過將末影人產物的奇怪屬性注入物品，它似乎與你的精神聯絡在一起並隨你從一個生命到另一個生命。不再失去你最喜歡的襪子了！<BR>由於注魔祭壇總是挑剔的，它也可以製成附魔書。
+witchinggadgets_research_page.ENCH_SOULBOUND.1=死亡總有點不方便。除了死了，你也往往失去重要的東西，如工具，有價值的材料和盔甲。<BR>透過將終界人產物的奇怪屬性注入物品，它似乎與你的精神聯絡在一起並隨你從一個生命到另一個生命。不再失去你最喜歡的襪子了！<BR>由於注魔祭壇總是挑剔的，它也可以製成附魔書。
 
 
 #-----------------------#
@@ -485,7 +485,7 @@ witchinggadgets_research_page.GEMCUTTING.2=你可以用新造的切割臺來製�
 witchinggadgets_research_page.GEMCUTTING.3=§l自然親和§r<BR>一些石頭與生俱來就對特定的源質有自然親和，這會增強它們的效果。如果親和屬性與注入的源質匹配，寶石就會被附魔“閃耀”，附魔等級取決於製作時所用的源質量。<BR>§l自然疏離§r<BR>類似的，一些寶石對特定源質也會有自然疏離，如果向寶石注入了這些源質就會使其變得脆弱，削弱它們的效果，並且會讓可反覆使用的寶石的損壞機率增大。<BR>按住shift就可以檢視寶石的自然親和與自然疏離屬性。
 
 witchinggadgets_research_page.GEMCUTTING.4=            §l結晶體琢型§r<LINE>結晶體琢型是蘊魔寶石最基礎的琢型。儘管它能儲存魔法能量，但你只能透過粉碎寶石來釋放。使用過後的寶石會變為一攤寶石粉末。各種源質的效果如下：<BR>§e§lAer:§r§0讓你短暫獲得大幅的跳躍力提升。<BR>§2§lTerra:§r§0賦予你對擊退效果的抗性。<BR>§c§lIgnis:§r§0用臨時的光源照亮你周圍的區域。
-witchinggadgets_research_page.GEMCUTTING.5=§3§lAqua:§r§0釋放出一陣極寒的能量，使附近的水結冰，巖漿凝固。<BR>§f§lOrdo:§r§0讓你回覆一些生命值。<BR>§8§lPerditio:§r§0增加一些臨時扭曲值。
+witchinggadgets_research_page.GEMCUTTING.5=§3§lAqua:§r§0釋放出一陣極寒的能量，使附近的水結冰，岩漿凝固。<BR>§f§lOrdo:§r§0讓你回覆一些生命值。<BR>§8§lPerditio:§r§0增加一些臨時扭曲值。
 
 witchinggadgets_research_page.GEMCUTTING.6=              §l橢圓琢型§r<LINE>橢圓琢型是蘊魔寶石的高階琢型。增多雕琢的翻光面後，它就能儲存更多的能量。並且會以更集中的脈衝來釋放能量。它們的效果與結晶體琢型的截然不同，此外這種琢型的寶石能透過相應的源質魔力充能。<BR>由於其結構的複雜性，將沒有自然親和的原石用於雕琢會使成品十分脆弱，同時製作閃耀寶石所需的源質也會增多。
 witchinggadgets_research_page.GEMCUTTING.7=§e§lAer:§r§0風之力會推動你前行，每次使用消耗1充能。<BR>§2§lTerra:§r§0在一個方塊上使用時，它會檢測相連的方塊來搜尋礦物，每次使用消耗1充能。<BR>§c§lIgnis:§r§0在所指方塊上燃起一團火焰，每次使用消耗1充能。<BR>§3§lAqua:§r§0在所指方塊上生成水方塊。每次使用消耗2充能。<BR>§7§lOrdo:§r§0為你指出最近的節點所在的方位。每次使用消耗2充能。<BR>§8§lPerditio:§r§0對魔鏡使用時，會將你傳送到相連的另一個魔鏡，每次使用消耗16充能。（需要shift右擊）
@@ -587,7 +587,7 @@ witchinggadgets_research_text.TERRAFORMFOCUS_JUNGLE=[WG]歡迎！
 witchinggadgets_research_page.TERRAFORMFOCUS_JUNGLE.1=這位熱愛動物的神秘使竭盡全力讓他的貓咪們開心。住在叢林中雖然極其容易出汗，但應該能讓它們回想起自己曾是灌木叢中兇猛捕食者的過去……在它們變成擋箱子的煩人傢伙之前。<BR>……<BR>為了讓此核心生效，需要§6Arbor§0源質。
 witchinggadgets_research_name.TERRAFORMFOCUS_HELL=群系核心：地獄
 witchinggadgets_research_text.TERRAFORMFOCUS_HELL=[WG]鑽穿地獄
-witchinggadgets_research_page.TERRAFORMFOCUS_HELL.1=實話說，就算這些神智被扭曲的傢伙們都不會想要住在巖漿和硫磺環繞的地方。<BR>……<BR>什麼？！你想？！好吧，隨你了。給這個核心供應Tenebrae源質，然後享受你的人間地獄吧。
+witchinggadgets_research_page.TERRAFORMFOCUS_HELL.1=實話說，就算這些神智被扭曲的傢伙們都不會想要住在岩漿和硫磺環繞的地方。<BR>……<BR>什麼？！你想？！好吧，隨你了。給這個核心供應Tenebrae源質，然後享受你的人間地獄吧。
 witchinggadgets_research_name.TERRAFORMFOCUS_MUSHROOM=群系核心：蘑菇島
 witchinggadgets_research_text.TERRAFORMFOCUS_MUSHROOM=[WG]哞~！
 witchinggadgets_research_page.TERRAFORMFOCUS_MUSHROOM.1=顏色可能令人不適，牛的樣子也很滑稽，但憑藉其保證無怪物的特性，蘑菇島是理想的度假勝地。<BR>…… <BR>現在，你可以將這種感覺帶到你家門口，只需為此核心提供§aLimus§0源質。
@@ -596,7 +596,7 @@ witchinggadgets_research_text.TERRAFORMFOCUS_TAINT=[WG]帶走我的眼淚！
 witchinggadgets_research_page.TERRAFORMFOCUS_TAINT.1=你已經這般瘋狂了。人工製造腐化之地？不僅僅是腐化瓶，而是想要更大的面積？<BR>你還在為此研究？好吧，你只要給這個核心供應§5Vitium§0源質然後一個人瘋去吧。
 witchinggadgets_research_name.TERRAFORMFOCUS_END=群系核心：末地
 witchinggadgets_research_text.TERRAFORMFOCUS_END=[WG]末地降臨
-witchinggadgets_research_page.TERRAFORMFOCUS_END.1=不知何故我突然覺得已經習慣了末地冰冷的氣息以及末影人們。<BR>……<BR>給這個核心供應§5Alienis§0源質然後生活在冰冷孤寂的末地吧。
+witchinggadgets_research_page.TERRAFORMFOCUS_END.1=不知何故我突然覺得已經習慣了末地冰冷的氣息以及終界人們。<BR>……<BR>給這個核心供應§5Alienis§0源質然後生活在冰冷孤寂的末地吧。
 witchinggadgets_research_name.TERRAFORMFOCUS_RIVER=群系核心：河流
 witchinggadgets_research_text.TERRAFORMFOCUS_RIVER=[WG]如生命一般的河流
 witchinggadgets_research_page.TERRAFORMFOCUS_RIVER.1=釣魚是每個神秘使最喜歡的事情。這就是為什麼他們通常喜歡住在河邊。<BR>……<BR>給這個核心供應§bAqua§0源質。
@@ -678,7 +678,7 @@ witchinggadgets_research_page.ANGELIC_LEGS.1=當你在某位神秘使自力更�
 #
 witchinggadgets_research_name.ANGELIC_BOOTS=女武神的安息日
 witchinggadgets_research_text.ANGELIC_BOOTS=[WG]羽毛般輕靈的腳步
-witchinggadgets_research_page.ANGELIC_BOOTS.1=這雙靴子的魔法讓你跑得更快，同時免疫跌落傷害。<BR>此外，你獲得了能在任何液體表面行走的能力。包括水和巖漿。按住下蹲會下沉。
+witchinggadgets_research_page.ANGELIC_BOOTS.1=這雙靴子的魔法讓你跑得更快，同時免疫跌落傷害。<BR>此外，你獲得了能在任何液體表面行走的能力。包括水和岩漿。按住下蹲會下沉。
 #
 witchinggadgets_research_name.THAUMICAPPLICATOR=
 witchinggadgets_research_text.THAUMICAPPLICATOR=[WG] 

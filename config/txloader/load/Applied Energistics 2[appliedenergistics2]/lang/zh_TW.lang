@@ -378,11 +378,11 @@ gui.appliedenergistics2.Yes=是
 gui.appliedenergistics2.No=否
 gui.appliedenergistics2.EncodedBy=由 %s 編碼
 gui.appliedenergistics2.InWorldCrafting=AE2在世界中的合成
-gui.appliedenergistics2.inWorldFluix=將1個充能賽特斯石英水晶，1個下界石英和1個紅石粉扔進同一格水裡，並等待一會兒來獲得2個福魯伊克斯水晶。
+gui.appliedenergistics2.inWorldFluix=將1個充能賽特斯石英水晶，1個地獄石英和1個紅石粉扔進同一格水裡，並等待一會兒來獲得2個福魯伊克斯水晶。
 gui.appliedenergistics2.inWorldPurificationCertus=用賽特斯石英粉和沙子製作賽特斯石英種子，並扔進水裡。使用晶體催生器可以讓這個過程變得更快。
-gui.appliedenergistics2.inWorldPurificationNether=用下界石英粉和沙子製作下界石英種子，並扔進水裡。使用晶體催生器可以讓這個過程變得更快。
+gui.appliedenergistics2.inWorldPurificationNether=用地獄石英粉和沙子製作地獄石英種子，並扔進水裡。使用晶體催生器可以讓這個過程變得更快。
 gui.appliedenergistics2.inWorldPurificationFluix=用福魯伊克斯粉和沙子製作福魯伊克斯種子，並扔進水裡。使用晶體催生器可以讓這個過程變得更快。
-gui.appliedenergistics2.inWorldSingularity=將1個奇點和1個末影珍珠粉扔在地上，並在範圍內引爆爆炸性物品。
+gui.appliedenergistics2.inWorldSingularity=將1個奇點和1個終界珍珠粉扔在地上，並在範圍內引爆爆炸性物品。
 gui.appliedenergistics2.ChargedQuartz=將未充能賽特斯石英插入充能器充能後，可以得到充能賽特斯石英。
 gui.appliedenergistics2.ChargedQuartzFind=在世界中偶爾也可以找到充能賽特斯石英，其外觀類似普通賽特斯石英，不過它會冒出閃電。
 gui.appliedenergistics2.NoSecondOutput=無副產物.
@@ -977,7 +977,7 @@ item.appliedenergistics2.ItemFacade.name=線纜偽裝板
 
 item.appliedenergistics2.ItemCrystalSeed.name=種子
 item.appliedenergistics2.ItemCrystalSeed.Certus.name=賽特斯石英種子
-item.appliedenergistics2.ItemCrystalSeed.Nether.name=下界石英種子
+item.appliedenergistics2.ItemCrystalSeed.Nether.name=地獄石英種子
 item.appliedenergistics2.ItemCrystalSeed.Fluix.name=福魯伊克斯種子
 
 item.appliedenergistics2.ItemMEStackPacket.name=ME儲存資料包
@@ -1030,7 +1030,7 @@ item.appliedenergistics2.ItemMaterial.CertusQuartzCrystalCharged.name=充能賽�
 item.appliedenergistics2.ItemMaterial.CertusQuartzDust.name=賽特斯石英粉
 item.appliedenergistics2.ItemMaterial.EmptyStorageCell.name=ME儲存外殼
 item.appliedenergistics2.ItemMaterial.EmptyAdvancedStorageCell.name=ME高階儲存外殼
-item.appliedenergistics2.ItemMaterial.EnderDust.name=末影粉
+item.appliedenergistics2.ItemMaterial.EnderDust.name=終界粉
 
 item.appliedenergistics2.ItemMaterial.Flour.name=麵粉
 item.appliedenergistics2.ItemMaterial.FluixCrystal.name=福魯伊克斯水晶
@@ -1043,10 +1043,10 @@ item.appliedenergistics2.ItemMaterial.IronNugget.name=鐵粒
 
 
 item.appliedenergistics2.ItemMaterial.MatterBall.name=物質球
-item.appliedenergistics2.ItemMaterial.NetherQuartzDust.name=下界石英粉
+item.appliedenergistics2.ItemMaterial.NetherQuartzDust.name=地獄石英粉
 item.appliedenergistics2.ItemMaterial.PurifiedCertusQuartzCrystal.name=高純賽特斯石英水晶
 item.appliedenergistics2.ItemMaterial.PurifiedFluixCrystal.name=高純福魯伊克斯水晶
-item.appliedenergistics2.ItemMaterial.PurifiedNetherQuartzCrystal.name=高純下界石英水晶
+item.appliedenergistics2.ItemMaterial.PurifiedNetherQuartzCrystal.name=高純地獄石英水晶
 item.appliedenergistics2.ItemMaterial.QESingularity.name=量子糾纏奇點
 item.appliedenergistics2.ItemMaterial.Silicon.name=矽
 item.appliedenergistics2.ItemMaterial.Singularity.name=奇點
@@ -1121,13 +1121,13 @@ item.appliedenergistics2.ToolCertusQuartzSpade.name=賽特斯石英鍬
 item.appliedenergistics2.ToolCertusQuartzSword.name=賽特斯石英劍
 item.appliedenergistics2.ToolCertusQuartzWrench.name=賽特斯石英扳手
 
-item.appliedenergistics2.ToolNetherQuartzAxe.name=下界石英斧
-item.appliedenergistics2.ToolNetherQuartzCuttingKnife.name=下界石英切割刀
-item.appliedenergistics2.ToolNetherQuartzHoe.name=下界石英鋤
-item.appliedenergistics2.ToolNetherQuartzPickaxe.name=下界石英鎬
-item.appliedenergistics2.ToolNetherQuartzSpade.name=下界石英鍬
-item.appliedenergistics2.ToolNetherQuartzSword.name=下界石英劍
-item.appliedenergistics2.ToolNetherQuartzWrench.name=下界石英扳手
+item.appliedenergistics2.ToolNetherQuartzAxe.name=地獄石英斧
+item.appliedenergistics2.ToolNetherQuartzCuttingKnife.name=地獄石英切割刀
+item.appliedenergistics2.ToolNetherQuartzHoe.name=地獄石英鋤
+item.appliedenergistics2.ToolNetherQuartzPickaxe.name=地獄石英鎬
+item.appliedenergistics2.ToolNetherQuartzSpade.name=地獄石英鍬
+item.appliedenergistics2.ToolNetherQuartzSword.name=地獄石英劍
+item.appliedenergistics2.ToolNetherQuartzWrench.name=地獄石英扳手
 
 item.appliedenergistics2.ItemPaintBall.name=染色球
 item.appliedenergistics2.ToolPortableCell.name=便攜元件

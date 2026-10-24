@@ -9,13 +9,13 @@ enderio.power.generates=產能
 enderio.power.generation_rate=速率
 
 #Ender IO / Enderface
-tile.blockEnderIo.name=末影介面
+tile.blockEnderIo.name=終界介面
 tile.blockEnderIo.tooltip.detailed.line1=允許遠端訪問附近的
 tile.blockEnderIo.tooltip.detailed.line2=方塊
 tile.blockEnderIo.tooltip.detailed.line3=使用旅行錨或
 tile.blockEnderIo.tooltip.detailed.line4=旅行權杖
 
-item.enderio.itemEnderface.name=末影面板
+item.enderio.itemEnderface.name=終界面板
 
 #Conduits
 enderio.blockConduitBundle=導管介面
@@ -33,7 +33,7 @@ item.enderio.itemConduitFacade.hardened.tooltip=硬化: 抵抗破壞以及爆炸
 item.itemPowerConduit.name=能量導管
 enderio.itemPowerConduit.name=能量導管
 enderio.itemPowerConduitEnhanced.name=強化能量導管
-enderio.itemPowerConduitEnder.name=末影能量導管
+enderio.itemPowerConduitEnder.name=終界能量導管
 
 item.itemPowerConduitEndergy.name=能量導管
 enderio.itemPowerConduitEndergyCrude.name=複合黏土能量導管
@@ -57,11 +57,11 @@ enderio.itemRedstoneConduitInsulated.name=絕緣紅石導管
 item.itemLiquidConduit.name=流體導管
 enderio.itemLiquidConduit.name=流體導管
 enderio.itemLiquidConduitAdvanced.name=高壓流體導管
-enderio.itemLiquidConduitEnder.name=末影流體導管
-enderio.itemLiquidConduitCrystallineEnder.name=晶化合金末影流體導管
-enderio.itemLiquidConduitCrystallinePinkSlimeEnder.name=晶化粉紅史萊姆末影流體導管
-enderio.itemLiquidConduitMelodicEnder.name=旋律合金末影流體導管
-enderio.itemLiquidConduitStellarEnder.name=恆星合金末影流體導管
+enderio.itemLiquidConduitEnder.name=終界流體導管
+enderio.itemLiquidConduitCrystallineEnder.name=晶化合金終界流體導管
+enderio.itemLiquidConduitCrystallinePinkSlimeEnder.name=晶化粉紅史萊姆終界流體導管
+enderio.itemLiquidConduitMelodicEnder.name=旋律合金終界流體導管
+enderio.itemLiquidConduitStellarEnder.name=恆星合金終界流體導管
 enderio.itemLiquidConduit.lockedType=流體種類鎖定為
 enderio.itemLiquidConduit.unlockedType=流體種類解鎖
 enderio.itemLiquidConduit.lockedWaila=鎖定為
@@ -163,22 +163,22 @@ enderio.binderComposite.name=黏合胚料
 enderio.phasedIronNugget.name=脈衝鐵粒
 tile.blockDarkIronBars.name=玄鋼柵欄
 tile.blockSoulariumBars.name=魂金柵欄
-tile.blockEndSteelBars.name=末影鋼柵欄
-tile.blockEndermanSkull.name=末影人頭顱
-tile.blockEndermanSkull.base.name=末影人頭
-tile.blockEndermanSkull.reanimated.name=復甦末影人頭
-tile.blockEndermanSkull.tormented.name=禁錮末影人頭
+tile.blockEndSteelBars.name=終界鋼柵欄
+tile.blockEndermanSkull.name=終界人頭顱
+tile.blockEndermanSkull.base.name=終界人頭
+tile.blockEndermanSkull.reanimated.name=復甦終界人頭
+tile.blockEndermanSkull.tormented.name=禁錮終界人頭
 enderio.blastResistant=防爆
 enderio.lightEmitter=發光
 enderio.lightBlocker=擋光
 enderio.tooltip.isBeaconBase=可用於當作信標底座
 enderio.dustWheat.name=麵粉
 
-enderio.itemEnderios.name="末影麥片"
+enderio.itemEnderios.name="終界麥片"
 enderio.itemEnderios.tooltip.common.line1=健康早餐的一部分！
 enderio.itemEnderios.tooltip.detailed.line1=其實並不健康。含有253g糖，53g脂肪
-enderio.itemEnderios.tooltip.detailed.line2=還有394g末影粉.
-enderio.itemEnderios.tooltip.detailed.line3=末影粉的副作用包括:噁心,頭暈,混亂
+enderio.itemEnderios.tooltip.detailed.line2=還有394g終界粉.
+enderio.itemEnderios.tooltip.detailed.line3=終界粉的副作用包括:噁心,頭暈,混亂
 enderio.itemEnderios.tooltip.detailed.line4=以及隨機傳送.
 
 #Fluids
@@ -237,10 +237,10 @@ item.itemMachinePart.name=機械零件
 enderio.machineChassi.name=機器框架
 enderio.basicGear.name=基礎齒輪
 enderio.soulMachineChassi.name=靈魂機器框架
-enderio.endSteelMachineChassi.name=末影鋼機器框架
+enderio.endSteelMachineChassi.name=終界鋼機器框架
 enderio.pulsatingCrystal.name=脈衝晶體
 enderio.vibrantCrystal.name=充能晶體
-enderio.enderCrystal.name=末影晶體
+enderio.enderCrystal.name=終界晶體
 enderio.attractorCrystal.name=誘引晶體
 enderio.weatherCrystal.name=天氣晶體
 
@@ -253,7 +253,7 @@ enderio.redstoneGrindingBall.name=紅石合金磨球
 enderio.conductiveGrindingBall.name=導電鐵磨球
 enderio.pulsatingGrindingBall.name=脈衝鐵磨球
 enderio.soulariumGrindingBall.name=魂金磨球
-enderio.endSteelGrindingBall.name=末影鋼磨球
+enderio.endSteelGrindingBall.name=終界鋼磨球
 
 enderio.darkGrindingBall.tooltip.detailed.line1=SAG磨粉機磨球
 enderio.darkGrindingBall.tooltip.detailed.line2=最大輸出
@@ -288,8 +288,8 @@ enderio.phasedIron.name=脈衝鐵錠
 enderio.vibrantNugget.name=脈衝合金粒
 enderio.darkSteel.name=玄鋼錠
 enderio.soularium.name=魂金錠
-enderio.endSteel.name=末影鋼錠
-enderio.endSteelNugget.name=末影鋼粒
+enderio.endSteel.name=終界鋼錠
+enderio.endSteelNugget.name=終界鋼粒
 
 item.itemAlloyEndergy.name=合金
 enderio.crudeSteel.name=複合黏土
@@ -312,7 +312,7 @@ enderio.vividAlloyGrindingBall.name=生動合金磨球
 enderio.precientCrystal.name=預知晶體
 enderio.pulsatingPowder.name=脈衝晶體粉
 enderio.vibrantPowder.name=充能晶體粉
-enderio.enderCrystalPowder.name=末影晶體粉
+enderio.enderCrystalPowder.name=終界晶體粉
 enderio.precientPowder.name=預知晶體粉
 
 #Balls
@@ -325,7 +325,7 @@ enderio.phasedIron_ball.name=脈衝鐵磨球
 enderio.vibrantNugget_ball.name=脈衝合金磨球
 enderio.darkSteel_ball.name=玄鋼磨球
 enderio.soularium_ball.name=魂金磨球
-enderio.endSteel_ball.name=末影鋼磨球
+enderio.endSteel_ball.name=終界鋼磨球
 
 tile.blockIngotStorage.name=金屬塊
 tile.enderio.electricalSteel.name=磁鋼塊
@@ -337,7 +337,7 @@ tile.enderio.phasedIron.name=脈衝鐵塊
 tile.enderio.vibrantNugget.name=脈衝合金粒塊
 tile.enderio.darkSteel.name=玄鋼塊
 tile.enderio.soularium.name=魂金塊
-tile.enderio.endSteel.name=末影鋼塊
+tile.enderio.endSteel.name=終界鋼塊
 
 tile.blockIngotStorageEndergy.name=合金塊
 tile.enderio.crudeSteel.name=複合黏土塊
@@ -355,9 +355,9 @@ enderio.powderIron.name=鐵粉
 enderio.powderGold.name=金粉
 enderio.powderCopper.name=銅粉
 enderio.powderTin.name=錫粉
-enderio.powderEnder.name=末影珍珠粉
+enderio.powderEnder.name=終界珍珠粉
 enderio.powderObsidian.name=黑曜石粉
-enderio.ingotEnderiumBase.name=末影錠粗胚
+enderio.ingotEnderiumBase.name=終界錠粗胚
 
 #Capacitors
 enderio.itemBasicCapacitor.name=電容
@@ -398,7 +398,7 @@ tile.blockReservoir.tooltip.detailed.line5=手持扳手右擊
 tile.blockReservoir.tooltip.detailed.line6=可啟用自動輸出
 
 tile.blockAlloySmelter.name=合金爐
-tile.blockAlloySmelter.tooltip.detailed.line1=用於生產末影介面裡的
+tile.blockAlloySmelter.tooltip.detailed.line1=用於生產終界介面裡的
 tile.blockAlloySmelter.tooltip.detailed.line2=合金爐可以當做一個能
 tile.blockAlloySmelter.tooltip.detailed.line3=使用能量的熔爐使用
 tile.blockAlloySmelter.tooltip.detailed.line4=使用電容器升級可
@@ -490,7 +490,7 @@ tile.blockTransceiver.tooltip.detailed.line1=在不同空間之間
 tile.blockTransceiver.tooltip.detailed.line2=跨距離無線傳輸
 tile.blockTransceiver.tooltip.detailed.line3=物品,流體和能量
 
-tile.blockEnderRail.name=末影軌道
+tile.blockEnderRail.name=終界軌道
 tile.blockEnderRail.tooltip.detailed.line1=放置在空間傳送器
 tile.blockEnderRail.tooltip.detailed.line2=上時可以傳送礦車
 tile.blockEnderRail.tooltip.detailed.line3=使用傳送器對應的
@@ -513,11 +513,11 @@ tile.blockPowerMonitor.tooltip.detailed.line1=顯示能量使用
 tile.blockPowerMonitor.tooltip.detailed.line2=與儲存情況
 tile.blockPowerMonitor.tooltip.detailed.line3=可根據所儲存的能量
 tile.blockPowerMonitor.tooltip.detailed.line4=等級發射紅石訊號
-tile.blockPowerMonitor.tooltip.detailed.line5=必須與末影介面中
+tile.blockPowerMonitor.tooltip.detailed.line5=必須與終界介面中
 tile.blockPowerMonitor.tooltip.detailed.line6=的導管連線
 
 tile.blockVat.name=釀液桶
-tile.blockVat.tooltip.detailed.line1=用於生產末影介面中的流體
+tile.blockVat.tooltip.detailed.line1=用於生產終界介面中的流體
 
 tile.blockEnchanter.name=附魔器
 tile.blockEnchanter.tooltip.detailed.line1=使用XP將物品和
@@ -543,7 +543,7 @@ tile.blockFrankenzombieGenerator.tooltip.detailed.line1=消耗營養精華液
 tile.blockFrankenzombieGenerator.tooltip.detailed.line2=產生更多能量
 enderio.frankenzombieGenerator.fuelTank=營養液槽
 
-tile.blockEnderGenerator.name=末影人發電機
+tile.blockEnderGenerator.name=終界人發電機
 tile.blockEnderGenerator.tooltip.detailed.line1=消耗深淵露水
 tile.blockEnderGenerator.tooltip.detailed.line2=來產生能量
 enderio.enderGenerator.fuelTank=深淵儲罐
@@ -757,7 +757,7 @@ enderio.gui.telepad.teleport=傳送！
 
 item.itemTravelStaff.name=旅行權杖
 item.itemTravelStaff.tooltip.detailed.line1=手持旅行權杖時,可以透視
-item.itemTravelStaff.tooltip.detailed.line2=旅行錨與末影介面方塊,
+item.itemTravelStaff.tooltip.detailed.line2=旅行錨與終界介面方塊,
 item.itemTravelStaff.tooltip.detailed.line3=並透過<右擊>直接傳送
 item.itemTravelStaff.tooltip.detailed.line4=<Shift><右擊>
 item.itemTravelStaff.tooltip.detailed.line5=可短距離傳送玩家
@@ -847,8 +847,8 @@ item.itemFrankenSkull.name=殭屍電極
 skullZombieElectrode.name=殭屍電極
 skullZombieController.name=Z-邏輯控制器
 skullZombieFrankenstien.name=人造殭屍
-skullEnderResonator.name=末影諧振器
-skullSentientEnder.name=意識末影諧振器
+skullEnderResonator.name=終界諧振器
+skullSentientEnder.name=意識終界諧振器
 skullSkeletalContractor.name=骷髏契約板
 skullGuardianDiode.name=守衛者二極體
 
@@ -865,13 +865,13 @@ item.darkSteel_axe.name=玄鋼斧
 item.darkSteel_shears.name=玄鋼剪
 
 #End Steel
-item.endSteel_helmet.name=末影鋼頭盔
-item.endSteel_chestplate.name=末影鋼胸甲
-item.endSteel_leggings.name=末影鋼護腿
-item.endSteel_boots.name=末影鋼靴子
+item.endSteel_helmet.name=終界鋼頭盔
+item.endSteel_chestplate.name=終界鋼胸甲
+item.endSteel_leggings.name=終界鋼護腿
+item.endSteel_boots.name=終界鋼靴子
 item.endSteel_sword.name=終結之劍 MK-II
-item.endSteel_pickaxe.name=末影鋼鎬
-item.endSteel_axe.name=末影鋼斧
+item.endSteel_pickaxe.name=終界鋼鎬
+item.endSteel_axe.name=終界鋼斧
 
 #Stellar
 item.stellar_helmet.name=恆星合金頭盔
@@ -902,16 +902,16 @@ enderio.item.stellar_axe.tooltip.multiHarvest=潛行時一次採集多個原木
 
 enderio.item.darkSteel_shears.tooltip.multiHarvest=啟用後修剪多個方塊/羊
 
-enderio.item.darkSteel_sword.tooltip.line1=增加頭顱與末影珍珠的掉落
-enderio.item.darkSteel_sword.tooltip.line2=擊中後將阻止末影人傳送
+enderio.item.darkSteel_sword.tooltip.line1=增加頭顱與終界珍珠的掉落
+enderio.item.darkSteel_sword.tooltip.line2=擊中後將阻止終界人傳送
 enderio.item.darkSteel_sword.tooltip.line3=充能後傷害+2
 
-enderio.item.endSteel_sword.tooltip.line1=增加頭顱與末影珍珠的掉落
-enderio.item.endSteel_sword.tooltip.line2=擊中後將阻止末影人傳送
+enderio.item.endSteel_sword.tooltip.line1=增加頭顱與終界珍珠的掉落
+enderio.item.endSteel_sword.tooltip.line2=擊中後將阻止終界人傳送
 enderio.item.endSteel_sword.tooltip.line3=充能後傷害+2
 
-enderio.item.stellar_sword.tooltip.line1=增加頭顱與末影珍珠的掉落
-enderio.item.stellar_sword.tooltip.line2=擊中後將阻止末影人傳送
+enderio.item.stellar_sword.tooltip.line1=增加頭顱與終界珍珠的掉落
+enderio.item.stellar_sword.tooltip.line2=擊中後將阻止終界人傳送
 enderio.item.stellar_sword.tooltip.line3=充能後傷害+2
 
 enderio.item.darkSteel_armor.tooltip.line1=充能後
@@ -959,7 +959,7 @@ enderio.darksteel.upgrade.empowered_five.tooltip.detailed.line3=$D%耐久損耗
 
 enderio.darksteel.upgrade.travel.name=旅行
 enderio.darksteel.upgrade.travel.tooltip.detailed.line1=按住shift右擊來傳送或
-enderio.darksteel.upgrade.travel.tooltip.detailed.line2=啟用旅行錨和末影介面
+enderio.darksteel.upgrade.travel.tooltip.detailed.line2=啟用旅行錨和終界介面
 
 enderio.darksteel.upgrade.spoon.name=勺子
 enderio.darksteel.upgrade.spoon.tooltip.detailed.line1=有了勺子
@@ -1384,7 +1384,7 @@ enchantment.enderio.soulBound=靈魂繫結
 description.enchantment.enderio.soulBound=附魔有靈魂繫結的物品/工具/裝備在玩家死亡後仍然留在物品欄中,不會掉落.
 
 #Configuration
-enderio.config.title=末影介面配置檔案
+enderio.config.title=終界介面配置檔案
 
 enderio.config.power=能量設定
 enderio.config.power.tooltip=太多數字要修改了...
@@ -1430,7 +1430,7 @@ enderio.config.spawner.tooltip=我已經想不出什麼有趣的提示文字了.
 
 #Keybinds/Waila/NEI/Tooltips
 enderio.category.darksteelarmor=玄鋼護甲
-enderio.category.tools=末影介面 - 工具
+enderio.category.tools=終界介面 - 工具
 enderio.keybind.glidertoggle=滑翔開關
 enderio.keybind.gogglesofrevealing=揭示護目鏡
 enderio.keybind.trackmansgoggles=鐵路工護目鏡

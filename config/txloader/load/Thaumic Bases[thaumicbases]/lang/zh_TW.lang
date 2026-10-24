@@ -95,14 +95,14 @@ tile.voidAnvil.veryDamaged.name=嚴重損壞的虛空金屬砧
 
 tile.peacefullTreeSapling.name=和平樹苗
 tile.netherTreeSapling.name=地獄樹苗
-tile.enderTreeSapling.name=末影樹苗
+tile.enderTreeSapling.name=終界樹苗
 tile.peacefullTreeLog.name=和平樹原木
 tile.netherTreeLog.name=地獄樹原木
-tile.enderTreeLog.name=末影樹原木
+tile.enderTreeLog.name=終界樹原木
 tile.peacefullTreeLeaves.name=和平樹葉
 tile.netherTreeLeaves.name=地獄樹葉
-tile.enderTreeLeaves.name=末影樹葉
-tile.enderPlanks.name=末影樹木板
+tile.enderTreeLeaves.name=終界樹葉
+tile.enderPlanks.name=終界樹木板
 
 #items
 item.resource.name=資源
@@ -261,7 +261,7 @@ tb.rec.capthauminite.page.0=神秘使總是在儘可能簡單的方法內尋找�
 
 tc.research_name.TB.Pyrofluid=魔力熔岩
 tc.research_text.TB.Pyrofluid=僅僅是一次快速的地獄旅行
-tb.rec.pyrofluid.page.0=有時候神秘使僅僅想要一些地獄的精華——烈焰粉。然而，地獄十分炎熱而且危險，因此許多神秘使不願意進入地獄。你發現了一種不進入地獄而獲得烈焰粉的方法——向一桶巖漿中注入Ignis源質與Praecantatio源質。這種注魔得到的魔法液體會失去它的流動能力並且會在世界中緩慢的結晶化。它完全結晶化之後，你可以收穫一定隨機數量的烈焰粉。值得注意的是，它仍和熔岩一樣危險，你最好不要在其中游泳……
+tb.rec.pyrofluid.page.0=有時候神秘使僅僅想要一些地獄的精華——烈焰粉。然而，地獄十分炎熱而且危險，因此許多神秘使不願意進入地獄。你發現了一種不進入地獄而獲得烈焰粉的方法——向一桶岩漿中注入Ignis源質與Praecantatio源質。這種注魔得到的魔法液體會失去它的流動能力並且會在世界中緩慢的結晶化。它完全結晶化之後，你可以收穫一定隨機數量的烈焰粉。值得注意的是，它仍和熔岩一樣危險，你最好不要在其中游泳……
 
 tc.research_name.ROD_tbthaumium=神秘杖柄
 tc.research_text.ROD_tbthaumium=當魔法遇到更多魔法！
@@ -286,7 +286,7 @@ tb.rec.knose.page.1=一株新生的神秘玫瑰太脆弱了，常規的土壤中
 
 tc.research_name.TB.Lazullia=青金草
 tc.research_text.TB.Lazullia=當魔法與美人相遇
-tb.rec.lazullia.page.0_ec3=有時候神秘使會需要一點青金石來進行魔法研究，而且他們十分懶惰而不願意花15個小時到洞穴中去尋找這種藍色的礦石。你再次使用植物來幫助你面對這個難題。青金草會緩慢生長直到成熟收穫。當青金草被收穫時神秘使會得到一些青金石與一粒種子。<LINE>十分有趣的是，這種作物遵循著神秘的\“末影之星的脈衝\”，因此如果滿足了要求之後，它能使Mythriline結晶化。
+tb.rec.lazullia.page.0_ec3=有時候神秘使會需要一點青金石來進行魔法研究，而且他們十分懶惰而不願意花15個小時到洞穴中去尋找這種藍色的礦石。你再次使用植物來幫助你面對這個難題。青金草會緩慢生長直到成熟收穫。當青金草被收穫時神秘使會得到一些青金石與一粒種子。<LINE>十分有趣的是，這種作物遵循著神秘的\“終界之星的脈衝\”，因此如果滿足了要求之後，它能使Mythriline結晶化。
 tb.rec.lazullia.page.0=有時候神秘使會需要一點青金石來進行魔法研究，而且他們十分懶惰而不願意花15個小時到洞穴中去尋找這種藍色的礦石。你再次使用植物來幫助你面對這個難題。青金草會緩慢生長直到成熟收穫。當青金草被收穫時神秘使會得到一些青金石與一粒種子。
 
 tc.research_name.TB.RainbowCacti=彩虹仙人掌
@@ -393,7 +393,7 @@ tc.research_name.TB.Foci.Drain=法杖核心：蒸發
 tc.research_text.TB.Foci.Drain=把水蒸乾！
 tb.rec.drainFoci.page.0=有時候神秘使想在海底的美麗的水晶宮§m的菠蘿§r中生活。然而在水中建設是一個令人頭疼的事……直到現在。這個法杖核心會很好的解決這個問題！它會摧毀神秘使看見的水方塊並且可以阻止旁邊水方塊的流動！另一方面，它很適合在水中打隧道！然而，魔法只能在水中作用一段時間，水最終還是會回到正常的流動狀態。它也可以讓方塊被放置在不流動的水的旁邊。
 tb.rec.drainFoci.page.1=<LINE>§l          晶化升級 §r<LINE>在等級3時可以使用。這個升級可以使得蒸發核心可以在摧毀水方塊時有40%的機率掉落水之晶化源質。這個源質有10%的機率由於魔法汙染而帶有毒性，因此會變成Venenum源質。
-tb.rec.drainFoci.page.2=<LINE>§l          地獄升級 §r<LINE>在等級3時可以使用。這個升級可以使得核心可以像摧毀水方塊一樣摧毀巖漿。摧毀巖漿時可以讓被摧毀巖漿方塊周圍的巖漿停止流動。和水一樣，被停止的巖漿流動會在一段時間之後恢復。這時候核心仍然也可以摧毀水方塊。摧毀巖漿方塊會額外消耗3點§c§lIgnis§r§0源質。樸素升級也會影響火之要素的消耗。
+tb.rec.drainFoci.page.2=<LINE>§l          地獄升級 §r<LINE>在等級3時可以使用。這個升級可以使得核心可以像摧毀水方塊一樣摧毀岩漿。摧毀岩漿時可以讓被摧毀岩漿方塊周圍的岩漿停止流動。和水一樣，被停止的岩漿流動會在一段時間之後恢復。這時候核心仍然也可以摧毀水方塊。摧毀岩漿方塊會額外消耗3點§c§lIgnis§r§0源質。樸素升級也會影響火之要素的消耗。
 
 tc.research_name.TB.Foci.Experience=法杖核心：經驗
 tc.research_text.TB.Foci.Experience=經驗永遠不夠
@@ -488,7 +488,7 @@ tc.research_name.TB.Enchantments=新的附魔！
 tc.research_text.TB.Enchantments=魔法重生！
 tb.rec.enchantments.page.0=任何神秘使都已經成功將新的魔法力量應用到他們的工具上，然而這也需要他們自身的經驗作為代價來注入。這些新的附魔會給神秘使帶來他們渴望的東西。
 tb.rec.enchantments.ewisdom=附魔了睿智的武器殺死生物時，有機率為手持其的神秘使提供研究點。
-tb.rec.enchantments.ebane=附魔了異域殺手的武器會對末影人和邪術生物造成更多傷害。
+tb.rec.enchantments.ebane=附魔了異域殺手的武器會對終界人和邪術生物造成更多傷害。
 tb.rec.enchantments.magictouch=附魔了魔法之觸的武器殺死生物時會掉落更多的要素球。
 tb.rec.enchantments.vaporise=附魔了蒸發的武器殺死生物時，有機率掉落對應的晶化源質。
 tb.rec.enchantments.taint=附魔了腐化的武器命中後會造成額外的汙染傷害。它還會使目標獲得腐化debuff。但這種武器對已被腐化的生物不太有效。
@@ -514,13 +514,13 @@ tc.research_text.TB.VoidAnvil=修復乘以修復
 tb.rec.voidAnvil.page.0=儘管神秘鐵砧已經十分優秀了，但是它也會損壞。可能不會損壞的非常快，但是它終究還是會壞的。然而當你解鎖了虛空金屬之後得到了一個想法，為什麼不用它們來製作一個鐵砧呢？這個結果是……十分有趣的。<BR>首先，你所製作的這個鐵砧保持了虛空金屬的基本特性——自我修復，因此鐵砧會自動的修復自己的損傷。但是虛空金屬砧也具有不同的特性，不論你在它上面進行何種工作，不論是修復，改名或者使用附魔書，它都只吸取7級的經驗。
 tb.rec.voidAnvil.page.1=虛空金屬砧像神秘鐵砧一樣也不會有多次修復懲罰。<BR>當你修復你的工具時，你發現了一些虛空金屬流入了你的工具裂縫之中，但是那並沒有什麼可擔心的，不是嗎？
 
-tc.research_name.TB.EnderSapling=末影樹
+tc.research_name.TB.EnderSapling=終界樹
 tc.research_text.TB.EnderSapling=末地的記憶
-tb.rec.enderTree.page.0=你成功的將末地的知識與神秘自然中的樹知識結合在一起。這棵注入了末地能量的樹會把它腳下的普通方塊變為末地之物——末地石與黑曜石。末影人你會被吸引至其樹冠下聚集，或許是把它當作逃離默地的理想通道了。其他末地生物也可能會出現，但不用擔心——末影龍不會來的。用它的原木做的木板非常穩定，擁有極高的爆炸抗性。
+tb.rec.enderTree.page.0=你成功的將末地的知識與神秘自然中的樹知識結合在一起。這棵注入了末地能量的樹會把它腳下的普通方塊變為末地之物——末地石與黑曜石。終界人你會被吸引至其樹冠下聚集，或許是把它當作逃離默地的理想通道了。其他末地生物也可能會出現，但不用擔心——終界龍不會來的。用它的原木做的木板非常穩定，擁有極高的爆炸抗性。
 
 tc.research_name.TB.NetherSapling=地獄樹
 tc.research_text.TB.NetherSapling=烈焰升起！
-tb.rec.netherTree.page.0=你成功的將地獄門的知識與神秘樹結合在了一起。結果你得到了一種新的樹木，它能在它腳下開啟一個微小的地獄門——這些裂隙足以將周圍的方塊腐化為對應的下界變種。偶爾還會有些下屆生物從這些隱蔽的傳送門中溜出。該樹木的原木和樹葉具有地獄巖特性：既不會被燒燬也不會引燃周圍，且一旦被點燃，火焰將永不熄滅。
+tb.rec.netherTree.page.0=你成功的將地獄門的知識與神秘樹結合在了一起。結果你得到了一種新的樹木，它能在它腳下開啟一個微小的地獄門——這些裂隙足以將周圍的方塊腐化為對應的地獄變種。偶爾還會有些下屆生物從這些隱蔽的傳送門中溜出。該樹木的原木和樹葉具有地獄岩特性：既不會被燒燬也不會引燃周圍，且一旦被點燃，火焰將永不熄滅。
 
 tc.research_name.TB.PeacefulSapling=和平樹
 tc.research_text.TB.PeacefulSapling=更多生命
@@ -551,7 +551,7 @@ tb.foci.aquatic.name=晶化
 tb.foci.aquatic.desc=摧毀水方塊時可能會將水結晶為源質
 
 tb.foci.netheric.name=地獄
-tb.foci.netheric.desc=使蒸發核心可以作用於巖漿。
+tb.foci.netheric.desc=使蒸發核心可以作用於岩漿。
 
 tb.foci.decomposing.name=分解
 tb.foci.decomposing.desc=使得經驗核心可以吸收生物來獲得經驗。
@@ -621,7 +621,7 @@ tc.research_name.TB.NodeLinker=節點連線
 tc.research_text.TB.NodeLinker=從一個源頭到另一個！
 tb.rec.nodeLink.page.0=節點是連線你與魔法世界的紐帶，並且在神秘術中也有重要的應用，許多裝置需要它們來驅動，你需要它們來給你的法杖充能。然而有一個問題，一個節點能夠儲存很多的Vis，但是如果其中沒有，例如Terra屬性的Vis，那麼你就不能夠從中獲得Terra屬性的Vis。有一種現象稱為“節點欺凌”，一個節點會吃掉其他較小的節點。但是使用高階節點穩定器可以解決這個問題，但是它需要的時間是不確定的並且並不是十分可靠。
 tb.rec.nodeLink.page.1=你發現了一種裝置可以完美解決這個問題。節點聯結器可以在兩個節點之間創造一條秘密的連線並且可以將連線中的節點的魔力移動到另一個之中。你需要2個這樣的裝置分別放在2個節點的上方。然後使用你的法杖右擊接收魔力的那一個，之後再點選傳送魔力的聯結器，然後連線就會建立。這個連線會先將傳送魔力的節點中的魔力抽乾，然後它會抽取魔力容限並且增加接收節點相應的魔力容限。最終傳送節點會被抽乾然後消失。接收節點增加魔力容限的機率為70%。
-tb.rec.nodeLink.page.2=這個魔力傳送十分不穩定，每個節點都會對連線產生反應。這個裝置執行的時間越長，不穩定性就會越高。基於不穩定性的高地會產生不同的現象：從魔力流失進入空氣產生咒波到完成傳輸後節點爆炸都有可能發生。但是接收節點不會受到任何影響。如果你有一種惰性魔法金屬-由下界與末地鍛造而成-它可以使這種連線穩定下來。理論上，在這個裝置上方放置一塊這種超級金屬塊就足夠了。
+tb.rec.nodeLink.page.2=這個魔力傳送十分不穩定，每個節點都會對連線產生反應。這個裝置執行的時間越長，不穩定性就會越高。基於不穩定性的高地會產生不同的現象：從魔力流失進入空氣產生咒波到完成傳輸後節點爆炸都有可能發生。但是接收節點不會受到任何影響。如果你有一種惰性魔法金屬-由地獄與末地鍛造而成-它可以使這種連線穩定下來。理論上，在這個裝置上方放置一塊這種超級金屬塊就足夠了。
 
 tc.research_name.TB.Revolver.Accuracy=左輪槍升級：精準
 tc.research_text.TB.Revolver.Accuracy=遙遠的狙擊

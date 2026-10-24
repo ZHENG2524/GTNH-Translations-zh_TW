@@ -210,7 +210,7 @@ bw.fuels.acidgens=酸性發電機
 bw.recipe.cal=電路裝配線
 bw.recipe.radhatch=放射倉材料列表
 gt.recipe.electricimplosioncompressor=電動聚爆壓縮機
-bw.recipe.htgr=高溫氣冷反應堆
+bw.recipe.htgr=高溫氣冷反應爐
 
 nei.biovat.0.name=需要玻璃等級: %s
 nei.biovat.1.name=精確劑量: %s Sv
@@ -311,9 +311,9 @@ BW.gui.text.lesu.eu_out=EU/t 輸出：%s
 BW.gui.text.lesu.amp_io=A/t 輸入/輸出: %s
 
 # chat
-BW.chat.thtr.cannot_change_mode=無法在釷高溫反應堆執行時更改其模式。
-BW.chat.thtr.running_in.emptying=釷高溫反應堆現以排空模式執行。
-BW.chat.thtr.running_in.normal=釷高溫反應堆現已正常執行。
+BW.chat.thtr.cannot_change_mode=無法在釷高溫反應爐執行時更改其模式。
+BW.chat.thtr.running_in.emptying=釷高溫反應爐現以排空模式執行。
+BW.chat.thtr.running_in.normal=釷高溫反應爐現已正常執行。
 BW.chat.diode.max_amps=最大電流：%s
 
 # bio name
@@ -349,7 +349,7 @@ gt.blockmachines.megachemicalreactor.name=巨型化學反應釜
 gt.blockmachines.megadistillationtower.name=巨型蒸餾塔
 gt.blockmachines.megaoilcracker.name=巨型石油裂化機
 gt.blockmachines.megavacuumfreezer.name=巨型真空冷凍機
-gt.blockmachines.thtr.name=釷高溫反應堆
+gt.blockmachines.thtr.name=釷高溫反應爐
 GT5U.gui.text.no_imprint=未壓印
 GT5U.gui.text.not_enough_length=多方塊機器長度不足
 item.IncubationModule.name=孵化模組
@@ -372,7 +372,7 @@ BW_GlasBlocks.14.name=宇宙中子強化硼玻璃方塊
 BW_GlasBlocks.15.name=無盡強化硼玻璃方塊
 BW_GlasBlocks2.name=硼玻璃方塊
 BW_GlasBlocks2.0.name=超時空強化硼玻璃方塊
-tooltip.bw.high_temp_gas_cooled_reactor.material=供高溫氣冷反應堆使用
+tooltip.bw.high_temp_gas_cooled_reactor.material=供高溫氣冷反應爐使用
 tooltip.bw.item.circuit.tagged=電路
 tooltip.bw.item.circuit.imprint=一個壓印電路
 tooltip.bw.item.circuit.sliced=一個切片電路

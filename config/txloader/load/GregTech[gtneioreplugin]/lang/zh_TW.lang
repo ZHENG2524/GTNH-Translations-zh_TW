@@ -46,7 +46,7 @@ gtnop.nei.genPositionInfo=各個區塊的正中心
 
 # world names
 gtnop.world.Overworld=主世界
-gtnop.world.Nether=下界
+gtnop.world.Nether=地獄
 gtnop.world.TheEnd=末地
 gtnop.world.TwilightForest=暮色森林
 gtnop.world.EndAsteroid=末地小行星

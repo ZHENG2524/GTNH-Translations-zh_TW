@@ -61,7 +61,7 @@ mobsinfo.mobhandlerfishing.tooltip_chance=獲得機率：%.4f%%
 
 #Extras (compatibility)
 mobsinfo.extras.minecraft_slime=僅在史萊姆最小時掉落
-mobsinfo.extras.minecraft_magma_cube=僅在巖漿怪不是最小是掉落
+mobsinfo.extras.minecraft_magma_cube=僅在岩漿怪不是最小是掉落
 mobsinfo.extras.chance=機率：%.2f%%
 mobsinfo.extras.base_chance=基礎機率：%.2f%%
 mobsinfo.extras.variable_chance=可變機率

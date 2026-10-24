@@ -58,7 +58,7 @@ tile.marsMachine.6.name=水電解器
 tile.hydrogenPipe.name=氫氣管道
 tile.sludge.name=菌泥
 tile.creeperEgg.name=苦力怕蛋
-tile.cavernVines.name=巖穴藤蔓
+tile.cavernVines.name=岩穴藤蔓
 
 # DECOBLOCKS
 tile.marsCobblestoneStairs.name=火星圓石樓梯
@@ -147,7 +147,7 @@ dimension.Mars.name=火星
 planet.mars=火星
 
 tile.treasureT2.description=2階寶箱會在火星地牢生成.直到打敗最終boss後才能解鎖.
-tile.cavernVines.description=巖穴藤蔓對生物來說很危險,它會捲住它們並拖向空中.
+tile.cavernVines.description=岩穴藤蔓對生物來說很危險,它會捲住它們並拖向空中.
 tile.slimelingEgg.description=黏滑怪蛋,一旦被玩家空手打碎,就會立即孵出一隻寵物.
 tile.cryoChamber.description=冬眠艙使玩家能在白天睡覺,回覆少量生命,但有冷卻時間.
 tile.launchController.description=發射控制器用於設定發射動作,包括髮射條件和終點,連線發射平臺以自動發射.

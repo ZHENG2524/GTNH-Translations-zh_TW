@@ -1,6 +1,6 @@
 #
 # Aspects
-tc.aspect.infernus=下界，惡魔，地獄火
+tc.aspect.infernus=地獄，惡魔，地獄火
 tc.aspect.ira=暴怒，惱怒，怒火
 tc.aspect.gula=饕餮，揮霍，放縱
 tc.aspect.invidia=妒忌，嫉妒，不安
@@ -96,7 +96,7 @@ item.WandCores.equivalent.name=§k鍊金§r杖柄
 item.WandCaps.name=杖端
 item.WandCaps.alchemical.name=鍊金杖端
 item.WandCaps.vinteum.name=溫特姆杖端
-item.WandCaps.soul.name=末影杖端
+item.WandCaps.soul.name=終界杖端
 item.WandCaps.manasteel.name=魔鋼杖端
 item.WandCaps.manasteel_inert.name=惰性魔鋼杖端
 item.WandCaps.elementium.name=源質鋼杖端
@@ -108,7 +108,7 @@ item.BlinkFocus.name=法杖核心:閃爍
 tile.ArcaneCake.name=奧法蛋糕
 tile.InkFlower.name=暗影玫瑰
 tile.WrathCage.name=暴怒之籠
-tile.StarBlock.name=下界之星方塊
+tile.StarBlock.name=地獄之星方塊
 tile.blackRoseBush.name=暗影玫瑰叢
 tile.TaintLog.name=腐化木頭
 tile.TaintPlank.name=腐化木板
@@ -165,11 +165,11 @@ death.attack.dragonslayer=%1$s被%2$s殺害了
 death.attack.dragonwrack=%1$s受到了致命傷害
 #
 # Research
-forbidden.research_name.NETHERSHARDS=下界之星
+forbidden.research_name.NETHERSHARDS=地獄之星
 forbidden.research_text.NETHERSHARDS=為了為所欲為。
-forbidden.research_page.NETHERSHARDS.1=詭異的能量流打著漩兒貫穿著下界。有時候，正如我們所知，當某些共鳴事件發生之際，這些能量流會凝結成一些水晶碎片。
-forbidden.research_page.NETHERSHARDS.2=這些水晶內充斥著世間諸罪，對那些更肆無忌憚的神秘使來說用途廣泛。<BR>目前有7種記錄在案的下界碎片，分別與不同的“死罪”相諧。<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
-forbidden.research_page.NETHERSHARDS.2b=這些水晶內充斥著世間諸罪，對那些更加百無禁忌的神秘使來說用途廣泛。<BR>目前有6種記錄在案的下界碎片，分別與不同的“死罪”相諧。<BR><BR><IMG>forbidden:textures/misc/research.png:0:16:95:16:1</IMG><BR>
+forbidden.research_page.NETHERSHARDS.1=詭異的能量流打著漩兒貫穿著地獄。有時候，正如我們所知，當某些共鳴事件發生之際，這些能量流會凝結成一些水晶碎片。
+forbidden.research_page.NETHERSHARDS.2=這些水晶內充斥著世間諸罪，對那些更肆無忌憚的神秘使來說用途廣泛。<BR>目前有7種記錄在案的地獄碎片，分別與不同的“死罪”相諧。<BR><BR><IMG>forbidden:textures/misc/research.png:0:0:111:16:1</IMG><BR>
+forbidden.research_page.NETHERSHARDS.2b=這些水晶內充斥著世間諸罪，對那些更加百無禁忌的神秘使來說用途廣泛。<BR>目前有6種記錄在案的地獄碎片，分別與不同的“死罪”相諧。<BR><BR><IMG>forbidden:textures/misc/research.png:0:16:95:16:1</IMG><BR>
 forbidden.research_page.NETHERSHARDS.3=暴怒碎片凝結了各種暴力行徑。逞兇濫武越肆無忌憚之地越可能出現暴怒碎片。<BR><BR>怠倦碎片會在人們妄想毫不付出，僅僅靠假手他人或投機倒把就能收集到資源的時候凝固成形。<BR><BR>妒忌碎片會被那些覬覦者從擁有它們的人手裡奪走。<BR><BR>傲慢碎片會在那些真正強大的生物顏面掃地時具現。<BR><BR>貪婪碎片在利用附魔牟利時出現。<BR><BR>色慾碎片從動物群的繁衍中誕生。
 forbidden.research_page.NETHERSHARDS.3b=憤怒碎片會在暴力行為周圍結晶。使用的物理力量越過度，憤怒碎片出現的可能性就越大。<BR><BR>懶惰碎片會在利用替身和意外事件不勞而獲地收集資源時凝結。<BR><BR>嫉妒碎片會被覬覦者從擁有者身上奪取。<BR><BR>驕傲碎片會在真正強大的生物被削弱時具象化。<BR><BR>暴食碎片會在有人大快朵頤時結晶。<BR><BR>貪婪碎片會在利用附魔牟利時出現。
 #
@@ -186,7 +186,7 @@ forbidden.research_text.ARCANECAKE=讓他們吃掉蛋糕。
 forbidden.research_page.ARCANECAKE.1=若問有哪樣事物為你所鍾愛，那必定是指蛋糕了。願意的話你可以一整天品嚐它的美味，但也總有吃光的時候。<BR><BR>為了補救這種遺憾，你開發出一種新的配方，將長壽魔法注入到蛋糕之中。奧法蛋糕明顯比普通蛋糕耐吃，且只要剩下一點點，就能隨著時間推移自己復原。然而這種附魔並不穩定，放下後的蛋糕將無法用尋常手段移除。
 #
 forbidden.research_name.FOCUSBLINK=法杖核心：閃爍
-forbidden.research_text.FOCUSBLINK=比那愚蠢的末影珍珠要好
+forbidden.research_text.FOCUSBLINK=比那愚蠢的終界珍珠要好
 forbidden.research_page.FOCUSBLINK.1=啊哈。<BR><BR>有一件事情比起床還令人惱火，那就是走路。簡直是成噸————的工作。如果你還是像凡人一樣用腳走路，那麼你成為一名華麗麗的法師的意義是什麼？<BR><BR>閃爍核心，解放你的雙腳！只需要將你的法杖指向遠處並不斷揮舞，你就被傳送過去了。<BR><BR>現在你只需要一個Shower核心，然後就一切就緒了……
 #
 forbidden.research_name.TAINTSHOVEL=淨化鏟
@@ -212,8 +212,8 @@ forbidden.research_page.TAINTSTONE.1=腐化之地並不是一個適合久留的�
 #
 forbidden.research_name.ROD_infernal=煉獄杖柄
 forbidden.research_text.ROD_infernal=惡魔Vis容器
-forbidden.research_page.ROD_infernal.1=像您這般偉大而強力的神秘使，值得擁有一柄與身份相襯且炫酷強力的法杖。那些嬉皮的銀樹法杖根本無法勝任。您需要的法杖，必須要能夠作為彰顯權威的節杖。<BR><BR>你研究出一種注入下界之力製造法杖的方法。煉獄法杖核心能夠容納%d點vis，並且能夠自動回覆Ignis源質到20%%的水平。當身處下界，其他vis也能自動回覆到10%%的水平。
-forbidden.research_page.ROD_infernal.2=這柄法杖還附加一些針對下界危險的防護法術。只要它留在物品欄內，就不僅能自動幫你撲滅身上的火焰，還能幫助你豁免凋靈效果。手持這柄法杖時，能夠完全免疫所有灼燒傷害。
+forbidden.research_page.ROD_infernal.1=像您這般偉大而強力的神秘使，值得擁有一柄與身份相襯且炫酷強力的法杖。那些嬉皮的銀樹法杖根本無法勝任。您需要的法杖，必須要能夠作為彰顯權威的節杖。<BR><BR>你研究出一種注入地獄之力製造法杖的方法。煉獄法杖核心能夠容納%d點vis，並且能夠自動回覆Ignis源質到20%%的水平。當身處地獄，其他vis也能自動回覆到10%%的水平。
+forbidden.research_page.ROD_infernal.2=這柄法杖還附加一些針對地獄危險的防護法術。只要它留在物品欄內，就不僅能自動幫你撲滅身上的火焰，還能幫助你豁免凋靈效果。手持這柄法杖時，能夠完全免疫所有灼燒傷害。
 #
 forbidden.research_name.ROD_profane=瀆神杖柄
 forbidden.research_text.ROD_profane=在虛線上簽名（照單全收）
@@ -256,9 +256,9 @@ forbidden.research_name.CAP_vinteum=溫特姆杖端
 forbidden.research_text.CAP_vinteum=魔法杖端
 forbidden.research_page.CAP_vinteum.1=將魔導鈀杖端與溫特姆融合，可製成一種特殊杖端，搭配女巫木杖柄或女巫木法杖核心使用時，能降低約一半的魔力消耗。<BR><BR>魔導鈀材質似乎能與溫特姆完美融合，提供%d%%的vis轉化率。
 #
-forbidden.research_name.CAP_soul=末影杖端
+forbidden.research_name.CAP_soul=終界杖端
 forbidden.research_text.CAP_soul=靈魂防護
-forbidden.research_page.CAP_soul.1=你已經製造出一種杖端，能夠安全引導末地毀滅性的能量。末影杖端引導Perditio源質時只有80%的效率，但對其他源質有90%的效率。<BR><BR>安裝在異域杖柄上的話，末影杖端能夠削減引導從末地引導來的能量對靈魂的腐蝕。
+forbidden.research_page.CAP_soul.1=你已經製造出一種杖端，能夠安全引導末地毀滅性的能量。終界杖端引導Perditio源質時只有80%的效率，但對其他源質有90%的效率。<BR><BR>安裝在異域杖柄上的話，終界杖端能夠削減引導從末地引導來的能量對靈魂的腐蝕。
 #
 forbidden.research_name.CAP_manasteel=魔鋼杖端
 forbidden.research_text.CAP_manasteel=魔力之秘
@@ -309,7 +309,7 @@ forbidden.research_page.GREEDY.1=你已經研究出一種武器附魔，能讓�
 #
 forbidden.research_name.CONSUMING=附魔：揮霍
 forbidden.research_text.CONSUMING=垃圾處理
-forbidden.research_page.CONSUMING.1=煩透了要手動清空口袋裡無用的垃圾，你設計出一種附魔，能夠讓工具自動毀掉那些尋常的不需要的材料。被揮霍工具挖掉的所有圓石，泥土或地獄巖都會被銷燬，而非掉落到地上。
+forbidden.research_page.CONSUMING.1=煩透了要手動清空口袋裡無用的垃圾，你設計出一種附魔，能夠讓工具自動毀掉那些尋常的不需要的材料。被揮霍工具挖掉的所有圓石，泥土或地獄岩都會被銷燬，而非掉落到地上。
 #
 forbidden.research_name.WRATH=附魔：暴怒
 forbidden.research_text.WRATH=當一切都變得棘手如釘子，那你只需要一柄更沉的錘子
@@ -321,7 +321,7 @@ forbidden.research_page.EDUCATIONAL.1=你創造出一種附魔，能將知識和
 #
 forbidden.research_name.CORRUPTING=附魔：墮落
 forbidden.research_text.CORRUPTING=對碎片的壞影響
-forbidden.research_page.CORRUPTING.1=下界無與倫比，但它畢竟是一個地獄之坑。<BR><BR>墮落附魔讓你無須前往下界就能收穫到下界碎片。墮落附魔的鎬能隨機腐化挖出的元素碎片，將其轉換為下界碎片。晶化的碎片只是看起來容易感染，因此腐化晶簇不會有效果。
+forbidden.research_page.CORRUPTING.1=地獄無與倫比，但它畢竟是一個地獄之坑。<BR><BR>墮落附魔讓你無須前往地獄就能收穫到地獄碎片。墮落附魔的鎬能隨機腐化挖出的元素碎片，將其轉換為地獄碎片。晶化的碎片只是看起來容易感染，因此腐化晶簇不會有效果。
 #
 forbidden.research_name.VOIDTOUCHED=附魔：虛空之觸
 forbidden.research_text.VOIDTOUCHED=外域之色彩
@@ -371,7 +371,7 @@ forbidden.research_page.RIDINGCROP.1=馬鞭，顧名思義，是一種讓坐騎�
 #
 forbidden.research_name.HELLFIRE=地獄火領主
 forbidden.research_text.HELLFIRE=從此勢不可擋
-forbidden.research_page.HELLFIRE.1=身陷下界是最糟糕的體驗。當你克服了你所需要克服的重重困難，終於就要能回到家園的時候，一些愚蠢的幽魂卻打算耀武揚威地對你轟炸一通，以至於傳送門都被關掉了。當然，若隨身攜帶著打火石再重新修好也並不費事，但誰會一直隨身帶這些玩意兒？<BR><BR>你研究出一種利用法杖魔力點燃某些材料的方法。手持卸掉核心的法杖右擊地獄巖或者黑曜石的上方，會從法杖中消耗掉一些Ignis源質並點燃一團火焰。
+forbidden.research_page.HELLFIRE.1=身陷地獄是最糟糕的體驗。當你克服了你所需要克服的重重困難，終於就要能回到家園的時候，一些愚蠢的幽魂卻打算耀武揚威地對你轟炸一通，以至於傳送門都被關掉了。當然，若隨身攜帶著打火石再重新修好也並不費事，但誰會一直隨身帶這些玩意兒？<BR><BR>你研究出一種利用法杖魔力點燃某些材料的方法。手持卸掉核心的法杖右擊地獄岩或者黑曜石的上方，會從法杖中消耗掉一些Ignis源質並點燃一團火焰。
 #
 forbidden.research_name.EUCLIDAISY=天域菊
 forbidden.research_text.EUCLIDAISY=俺の嫁，以月亮的名義，能量超⑨千！我反正信了！

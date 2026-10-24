@@ -110,7 +110,7 @@ entity.SpecialMobs.DeathCreeper.name=死亡苦力怕
 entity.SpecialMobs.DirtCreeper.name=泥土苦力怕
 entity.SpecialMobs.DoomCreeper.name=末日苦力怕
 entity.SpecialMobs.DrowningCreeper.name=水棲苦力怕
-entity.SpecialMobs.EnderCreeper.name=末影苦力怕
+entity.SpecialMobs.EnderCreeper.name=終界苦力怕
 entity.SpecialMobs.FireCreeper.name=火焰苦力怕
 entity.SpecialMobs.GravelCreeper.name=沙礫苦力怕
 entity.SpecialMobs.GravityCreeper.name=重力苦力怕
@@ -119,14 +119,14 @@ entity.SpecialMobs.LightningCreeper.name=閃電苦力怕
 entity.SpecialMobs.MiniCreeper.name=小型苦力怕
 entity.SpecialMobs.SplittingCreeper.name=高速苦力怕
 
-entity.SpecialMobs.SpecialEnderman.name=末影人
-entity.SpecialMobs.BlindingEnderman.name=盲視末影人
-entity.SpecialMobs.CursedEnderman.name=詛咒末影人
-entity.SpecialMobs.IcyEnderman.name=極寒末影人
-entity.SpecialMobs.LightningEnderman.name=閃電末影人
-entity.SpecialMobs.MiniEnderman.name=小型末影人
-entity.SpecialMobs.MirageEnderman.name=幻影末影人
-entity.SpecialMobs.ThiefEnderman.name=盜賊末影人
+entity.SpecialMobs.SpecialEnderman.name=終界人
+entity.SpecialMobs.BlindingEnderman.name=盲視終界人
+entity.SpecialMobs.CursedEnderman.name=詛咒終界人
+entity.SpecialMobs.IcyEnderman.name=極寒終界人
+entity.SpecialMobs.LightningEnderman.name=閃電終界人
+entity.SpecialMobs.MiniEnderman.name=小型終界人
+entity.SpecialMobs.MirageEnderman.name=幻影終界人
+entity.SpecialMobs.ThiefEnderman.name=盜賊終界人
 
 entity.SpecialMobs.SpecialGhast.name=惡魂
 entity.SpecialMobs.BabyGhast.name=惡魂嬰兒
@@ -291,7 +291,7 @@ death.attack.cooked=§c%1$s§f被烤熟了，從頭到腳
 
 //Lava Monster
 entity.SpecialMobs.LavaMonster.desc.1=向敵人噴吐火球
-entity.SpecialMobs.LavaMonster.desc.2=在巖漿湖中生成
+entity.SpecialMobs.LavaMonster.desc.2=在岩漿湖中生成
 
 //Blazes
 entity.SpecialMobs.CinderBlaze.desc.1=近戰烈焰人
@@ -324,7 +324,7 @@ entity.SpecialMobs.DoomCreeper.desc.1=死亡時爆炸
 entity.SpecialMobs.DoomCreeper.desc.2=擊殺時不破壞地形
 entity.SpecialMobs.DrowningCreeper.desc.1=炸成一個圓石和怪物蛋包裹水的半球
 entity.SpecialMobs.EnderCreeper.desc.1=傳送苦力怕
-entity.SpecialMobs.EnderCreeper.desc.2=與末影人類似
+entity.SpecialMobs.EnderCreeper.desc.2=與終界人類似
 entity.SpecialMobs.FireCreeper.desc.1=爆炸引發火災
 entity.SpecialMobs.GravelCreeper.desc.1=爆炸產生大量沙礫
 entity.SpecialMobs.GravityCreeper.desc.1=引爆時吸引附近實體

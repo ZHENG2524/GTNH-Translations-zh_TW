@@ -222,7 +222,7 @@ item.iguana.tcon.clayBucket.name=黏土桶
 item.iguana.tcon.clayBucketUnfired.name=未燒製的黏土桶
 item.iguana.tcon.clayBucketFired.name=烤制的黏土桶
 item.iguana.tcon.clayBucket.Water.name=水黏土桶
-item.iguana.tcon.clayBucket.Lava.name=巖漿黏土桶
+item.iguana.tcon.clayBucket.Lava.name=岩漿黏土桶
 item.iguana.tcon.clayBucket.Milk.name=牛奶黏土桶
 
 item.iguana.tcon.clayBucket.Iron.name=熔融鐵黏土桶
@@ -251,8 +251,8 @@ item.iguana.tcon.clayBucket.Electrum.name=熔融琥珀金黏土桶
 item.iguana.tcon.clayBucket.Lumium.name=熔融流明黏土桶
 item.iguana.tcon.clayBucket.Signalum.name=熔融信素黏土桶
 item.iguana.tcon.clayBucket.Mithril.name=熔融蘊魔金屬黏土桶
-item.iguana.tcon.clayBucket.Enderium.name=熔融末影（te）黏土桶
-item.iguana.tcon.clayBucket.Ender.name=液態末影黏土桶
+item.iguana.tcon.clayBucket.Enderium.name=熔融終界（te）黏土桶
+item.iguana.tcon.clayBucket.Ender.name=液態終界黏土桶
 item.iguana.tcon.clayBucket.Slime.name=史萊姆黏液黏土桶
 item.iguana.tcon.clayBucket.PigIron.name=熔融生鐵黏土桶
 item.iguana.tcon.clayBucket.Glue.name=凝膠黏土桶
@@ -267,14 +267,14 @@ item.iguana.tcon.sawArdite.name=阿迪特手鋸
 item.iguana.tcon.sawCobalt.name=鈷手鋸
 item.iguana.tcon.sawManyullyn.name=瑪玉靈手鋸
 
-item.iguana.tcon.skull.enderman.name=末影人頭顱
+item.iguana.tcon.skull.enderman.name=終界人頭顱
 item.iguana.tcon.skull.pigman.name=豬人頭顱
 item.iguana.tcon.skull.blaze.name=烈焰人頭顱
 item.iguana.tcon.skull.blizz.name=暴雪人頭顱
 
 item.iguana.tcon.wearable.bucketHoley.name=多洞的黏土桶
 item.iguana.tcon.wearable.clayBucketCracked.name=破裂的黏土桶
-item.iguana.tcon.wearable.endermanJaw.name=末影人之頜
+item.iguana.tcon.wearable.endermanJaw.name=終界人之頜
 item.iguana.tcon.wearable.bathat.name=蝙蝠帽子
 
 item.iguana.tcon.rubberChicken.name=橡膠雞

@@ -4,13 +4,13 @@
 item.itemSpawnEggEnderZoo.name=生成
 item.witheringDust.name=凋零粉末
 item.confusingDust.name=混亂粉末
-item.enderFragment.name=末影碎片
+item.enderFragment.name=終界碎片
 item.guardiansBow.name=守衛者之弓
-item.enderZooIcon.name=末影動物園圖示
+item.enderZooIcon.name=終界動物園圖示
 
 
 //Mobs
-entity.enderzoo.Enderminy.name=迷你末影人
+entity.enderzoo.Enderminy.name=迷你終界人
 entity.enderzoo.ConcussionCreeper.name=震盪苦力怕
 entity.enderzoo.FallenKnight.name=墮落騎士
 entity.enderzoo.FallenMount.name=墮落戰馬
@@ -54,6 +54,6 @@ enchantment.enderzoo.witherWeapon=腐朽
 
 //Blocks
 tile.blockConfusingCharge.name=混亂炸藥
-tile.blockEnderCharge.name=末影炸藥
+tile.blockEnderCharge.name=終界炸藥
 tile.blockConcussionCharge.name=震盪炸藥
 

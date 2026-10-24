@@ -96,7 +96,7 @@ tile.blockReqTome.name=申請臺
 tile.blockGolemWorkbench.name=傀儡工作臺
 tile.blockThirstyTank.name=渴飲儲罐
 tile.blockCreativeJar.3.name=無盡之罐
-tile.blockNethermind.name=下界之核
+tile.blockNethermind.name=地獄之核
 tile.blockRunedObsidian.name=符文黑曜石
 tile.blockNetherRune.0.name=符文黑曜石（岩石）
 tile.blockNetherRune.1.name=符文黑曜石（熾海）
@@ -213,7 +213,7 @@ Automagy.research_name.GREEDYCHEST=貪婪箱子
 Automagy.research_text.GREEDYCHEST=貪婪就是正義
 Automagy.research_page.GREEDYCHEST.1=有時你疑惑饕餮箱子是否和真正的暴食相關，或者你能否將其變為一種簡單穩定的自動功能。你所知的僅僅是它在吞食物品時發出的聲音……<BR>儘管你難以發覺自己對這些東西的認知能力，但你的研究顯示你或許還能給類似的物體注入其他的“需求”。這是從基礎的饕餮邁向原始的貪婪的一小步，要將其運用起來還需要其他一些特殊部件的發明。
 Automagy.research_page.GREEDYCHEST.2=貪婪箱子會竊取鄰近容器內的物品。比如放入鄰近容器中50%的物品都會被放入它的內部。如果你用法杖右擊，則可以改變這個行為讓其每次取的數量更多或更少，維持固定存量，或只取走超出給定數量的物品。你也可以選擇抽取物品的來源方向。<BR>他不能從其下方的漏斗中抽取物品，也不能從另一個在它這裡抽取物品的貪婪箱子竊取物品。<BR>你正在研究如何讓箱子只抽取特定的物品（某種過濾機制）但
-Automagy.research_page.GREEDYCHEST.3=這應該是個好的開始。<BR>同時，對於這個§l珍珠§r的其他發現也很有趣。普通的末影珍珠會將你傳送到它落下的位置，但這一個則會作用於其附近的物品。或許你應該帶著它到處轉轉。§o你可能會學習到些什麼。§r
+Automagy.research_page.GREEDYCHEST.3=這應該是個好的開始。<BR>同時，對於這個§l珍珠§r的其他發現也很有趣。普通的終界珍珠會將你傳送到它落下的位置，但這一個則會作用於其附近的物品。或許你應該帶著它到處轉轉。§o你可能會學習到些什麼。§r
 Automagy.research_page.GREEDYCHEST.ENCHANTEDPAPER=§l      §n附魔紙§r<BR>利用符文白名單和黑名單，你就能改變箱子抽取物品的種類和具體抽取數量，讓你設定它應該抓取的物品。
 
 Automagy.research_name.ENCHANTEDPAPER=附魔紙
@@ -241,8 +241,8 @@ Automagy.research_page.THIRSTYTANK_GLYPH_BOVINE.1=對於生物檢測方面的進
 Automagy.research_name.AVARICIOUS=貪婪之物
 Automagy.research_text.AVARICIOUS=為了樂趣和利益
 Automagy.research_page.AVARICIOUS.1=在試驗了貪婪珍珠之後，你記錄兩條重要的觀測結果。第一，珍珠有著吸引附近的物品並將它們送回投擲它的人或機器。第二，當被用於允許的範圍之外時，它是不穩定的。它轉移的物品越多，就越可能傷害到它的使用者或者碎裂。<BR>進行了一些研究後，你發現了方法強化這個珍珠。另一方面，你知道即便是這些碎片也有使用的潛力，所以你想出了種更有效獲取它們的方法。
-Automagy.research_page.AVARICIOUS.2=貪婪珍珠碎片一個有趣的性質就是當你帶著它時，末影人似乎更易出現在你的附近。或許它們是在潛意識裡被碎片散發到空中的末影魔力所吸引了。
-Automagy.research_page.AVARICIOUS.3=§l       §n吝物珍珠§r<BR>吝物珍珠在拾取散落的物品上比貪婪珍珠更勝一籌。它不僅不會因使用次數過多而碎裂或傷害使用者，而且能使物品像飛向你一樣移動。<BR>你需要清楚它的一些缺點。首先，每次投擲最多移動10組物品，但這個限制比起末影珍珠和其他材料的節省來說還是值得的。<BR>其次，手動使用時珍珠會消耗少量§8Ordo§0Vis。需要隨身帶著能提供Vis的東西-但你總是帶著根法杖不是麼？
+Automagy.research_page.AVARICIOUS.2=貪婪珍珠碎片一個有趣的性質就是當你帶著它時，終界人似乎更易出現在你的附近。或許它們是在潛意識裡被碎片散發到空中的終界魔力所吸引了。
+Automagy.research_page.AVARICIOUS.3=§l       §n吝物珍珠§r<BR>吝物珍珠在拾取散落的物品上比貪婪珍珠更勝一籌。它不僅不會因使用次數過多而碎裂或傷害使用者，而且能使物品像飛向你一樣移動。<BR>你需要清楚它的一些缺點。首先，每次投擲最多移動10組物品，但這個限制比起終界珍珠和其他材料的節省來說還是值得的。<BR>其次，手動使用時珍珠會消耗少量§8Ordo§0Vis。需要隨身帶著能提供Vis的東西-但你總是帶著根法杖不是麼？
 
 Automagy.research_name.EAGERCHEST=易物箱子
 Automagy.research_text.EAGERCHEST=一個急著被裝滿的箱子
@@ -256,7 +256,7 @@ Automagy.research_page.TENACIOUSCHEST.2=但這種行為的真正目的卻是：�
 
 Automagy.research_name.ENDERDISJUNCTION=影裂指環
 Automagy.research_text.ENDERDISJUNCTION=綻裂吧，千本影
-Automagy.research_page.ENDERDISJUNCTION.1=你對於貪婪珍珠和末影人恐嚇之間聯絡的研究終於有了回報。你製作了一個指環，戴在手上時，它就會鉤住末影生物製造的隱形的瞬移路徑。附近發生的每次瞬移（不管是瞬移來還是瞬移走）都會被這些鉤子強行撕扯，重傷瞬移的末影生物。<BR>它的能力需要有§8Perditio§0Vis的供應源（如法杖）。每當有生物因它受到傷害時就會抽取少量的Vis。
+Automagy.research_page.ENDERDISJUNCTION.1=你對於貪婪珍珠和終界人恐嚇之間聯絡的研究終於有了回報。你製作了一個指環，戴在手上時，它就會鉤住終界生物製造的隱形的瞬移路徑。附近發生的每次瞬移（不管是瞬移來還是瞬移走）都會被這些鉤子強行撕扯，重傷瞬移的終界生物。<BR>它的能力需要有§8Perditio§0Vis的供應源（如法杖）。每當有生物因它受到傷害時就會抽取少量的Vis。
 Automagy.research_page.ENDERDISJUNCTION.RUNICAUGMENTATION=§l      §n符文護盾§r<BR>你對於§l符文護盾升級§r的研究應該能用在這個指環上，你若能承擔得起注魔成本就能讓它能提供符文護盾。
 
 Automagy.research_name.NITORLIGHT=閃耀琥珀方塊
@@ -377,25 +377,25 @@ Automagy.research_page.INVENTARIUM_DELIVERY.5=最後所需的就是§l申請臺�
 Automagy.research_page.INVENTARIUM_DELIVERY.6=將一個§l計數盒§r指向申請臺就會使盒子根據當前徵求的物品輸出紅石訊號。<BR>最後提醒：傀儡並不能完美地適應訂單的變動，因此如果你在傀儡已經取多了的情況下減少徵求量，它們只會將多出的扔在地上。最好再想辦法將這些物品放回原位。
 Automagy.research_page.INVENTARIUM_DELIVERY.MIRRORINPUT=§l       §n聚合魔鏡§r<BR>透過GUI中的“魔鏡”按鈕與水晶之眼，聚合魔鏡可以取代標準魔鏡用於物品輸入。
 
-Automagy.research_name.NETHERMIND=下界之核
+Automagy.research_name.NETHERMIND=地獄之核
 Automagy.research_text.NETHERMIND=始於灰燼
-Automagy.research_page.NETHERMIND.1=在近期的實驗中，你發現火源質強化的水晶之腦似乎會持續吸取能量（並且快速燒蝕自身）。這股能量讓你追溯到了下界。如果你能找到什麼與下界之火密切聯絡又能與它共存的東西，或許就能做出一個“下界之核”，利用源質來構建巖漿和下界方塊。<BR>§l灰燼之心§r或許能勝任。進一步的研究顯示，它與烈焰人這類地獄怪物甚至與它們的生成有著聯絡。
-Automagy.research_page.NETHERMIND.2=<BR>顯然你需要用某種方法來驅動並控制下界之核。最終你做出了§l符文黑曜石§r。除了用於包圍下界之核，這些符文還要按照指定的方式搭建好（見下一頁）。<BR>不同的符文有不同的功能。圖中所示的任意基礎符文都可以被特殊符文所替換。某種符文數量越多，其效果就越強。如果只是用基礎的符文，該裝置的執行將會十分緩慢，並且只會生成地獄巖和零星的巖漿。
-Automagy.research_page.NETHERMIND.3=當符文全都安裝完畢後，用你的法杖輕觸下界之核就能啟動它了。你也能再次右擊來關閉它，但每次啟動都會消耗法杖中的vis。<BR>執行時，下界之核必須用§cIgnis§0源質供應。它也需要附近有源質罐子以抽取源質。所需的源質型別及數量取決於工作中的符文。基礎的符文只會消耗Ignis和Terra。<BR>生成的下界方塊會出現在結構下方兩格9x9x9的區域內。
-Automagy.research_page.NETHERMIND.4=§l    §n符文黑曜石（岩石）§r<BR>使用該符文來增加地獄巖生成的機率。如果指定方塊類的符文至少安裝了4個，那麼就只會生成指定的方塊。使用的符文越多，方塊生成的機率就越大。（因此某種型別如果使用了4個，那麼生成機率就是100%%。）<BR>使用它的另一個好處在於生成地獄巖消耗的源質會比基礎符文更少。（放置額外的岩石符文不會進一步減少消耗。）<BR>每次生成消耗：%s。
-Automagy.research_page.NETHERMIND.5=§l    §n符文黑曜石（熾海）§r<BR>使用該符文增加巖漿生成的機率。至少安裝4個就可以保證只會生成巖漿。<BR>每次生成消耗： %s。
+Automagy.research_page.NETHERMIND.1=在近期的實驗中，你發現火源質強化的水晶之腦似乎會持續吸取能量（並且快速燒蝕自身）。這股能量讓你追溯到了地獄。如果你能找到什麼與地獄之火密切聯絡又能與它共存的東西，或許就能做出一個“地獄之核”，利用源質來構建岩漿和地獄方塊。<BR>§l灰燼之心§r或許能勝任。進一步的研究顯示，它與烈焰人這類地獄怪物甚至與它們的生成有著聯絡。
+Automagy.research_page.NETHERMIND.2=<BR>顯然你需要用某種方法來驅動並控制地獄之核。最終你做出了§l符文黑曜石§r。除了用於包圍地獄之核，這些符文還要按照指定的方式搭建好（見下一頁）。<BR>不同的符文有不同的功能。圖中所示的任意基礎符文都可以被特殊符文所替換。某種符文數量越多，其效果就越強。如果只是用基礎的符文，該裝置的執行將會十分緩慢，並且只會生成地獄岩和零星的岩漿。
+Automagy.research_page.NETHERMIND.3=當符文全都安裝完畢後，用你的法杖輕觸地獄之核就能啟動它了。你也能再次右擊來關閉它，但每次啟動都會消耗法杖中的vis。<BR>執行時，地獄之核必須用§cIgnis§0源質供應。它也需要附近有源質罐子以抽取源質。所需的源質型別及數量取決於工作中的符文。基礎的符文只會消耗Ignis和Terra。<BR>生成的地獄方塊會出現在結構下方兩格9x9x9的區域內。
+Automagy.research_page.NETHERMIND.4=§l    §n符文黑曜石（岩石）§r<BR>使用該符文來增加地獄岩生成的機率。如果指定方塊類的符文至少安裝了4個，那麼就只會生成指定的方塊。使用的符文越多，方塊生成的機率就越大。（因此某種型別如果使用了4個，那麼生成機率就是100%%。）<BR>使用它的另一個好處在於生成地獄岩消耗的源質會比基礎符文更少。（放置額外的岩石符文不會進一步減少消耗。）<BR>每次生成消耗：%s。
+Automagy.research_page.NETHERMIND.5=§l    §n符文黑曜石（熾海）§r<BR>使用該符文增加岩漿生成的機率。至少安裝4個就可以保證只會生成岩漿。<BR>每次生成消耗： %s。
 
 Automagy.research_name.NETHERRUNE_CRYSTAL=符文黑曜石：晶體
 Automagy.research_text.NETHERRUNE_CRYSTAL=石英地獄
-Automagy.research_page.NETHERRUNE_CRYSTAL.1=在下界之核構造中放入這種符文，就能生成下界石英。至少安裝4個即可保證只生成石英。<BR>每次生成消耗： %s。
+Automagy.research_page.NETHERRUNE_CRYSTAL.1=在地獄之核構造中放入這種符文，就能生成地獄石英。至少安裝4個即可保證只生成石英。<BR>每次生成消耗： %s。
 
 Automagy.research_name.NETHERRUNE_LIGHT=符文黑曜石：光明
 Automagy.research_text.NETHERRUNE_LIGHT=黑暗中的光明
-Automagy.research_page.NETHERRUNE_LIGHT.1=在下界之核構造中放入這種符文，就能生成熒石。至少安裝4個即可保證只生成熒石。<BR>每次生成消耗： %s。
+Automagy.research_page.NETHERRUNE_LIGHT.1=在地獄之核構造中放入這種符文，就能生成熒石。至少安裝4個即可保證只生成熒石。<BR>每次生成消耗： %s。
 
 Automagy.research_name.NETHERRUNE_SOUL=符文黑曜石：靈魂
 Automagy.research_text.NETHERRUNE_SOUL=哀嚎遍野
-Automagy.research_page.NETHERRUNE_SOUL.1=在下界之核構造中放入這種符文，就能生成靈魂沙。至少安裝4個即可保證只生成靈魂沙。<BR>每次生成消耗： %s。
+Automagy.research_page.NETHERRUNE_SOUL.1=在地獄之核構造中放入這種符文，就能生成靈魂沙。至少安裝4個即可保證只生成靈魂沙。<BR>每次生成消耗： %s。
 
 Automagy.research_name.NETHERRUNE_CELERITY=符文黑曜石：迅捷
 Automagy.research_text.NETHERRUNE_CELERITY=煽動火勢
@@ -424,45 +424,45 @@ Automagy.research_page.AMNESIASTONE.2=讓它一次性釋放出所有儲存的經
 
 Automagy.research_name.MOBLURE=塞壬之餌
 Automagy.research_text.MOBLURE=熱切的渴求
-Automagy.research_page.MOBLURE.1=在研究下界之核所用的符文時，火注魔水晶之腦的另一項能力初露頭角。當它的能量潛入周圍生物的精神中時，就會灌輸一種強烈的情緒。<BR>在此之上你做出了一個能吸引周圍生物的裝置。所灌輸的情緒讓這些生物忽視周圍的環境，即便途中會從高處落下也要向它靠近。<BR>儘管製作時使用了符文黑曜石，但產物卻截然不同。不能用於下界之核的構建。
+Automagy.research_page.MOBLURE.1=在研究地獄之核所用的符文時，火注魔水晶之腦的另一項能力初露頭角。當它的能量潛入周圍生物的精神中時，就會灌輸一種強烈的情緒。<BR>在此之上你做出了一個能吸引周圍生物的裝置。所灌輸的情緒讓這些生物忽視周圍的環境，即便途中會從高處落下也要向它靠近。<BR>儘管製作時使用了符文黑曜石，但產物卻截然不同。不能用於地獄之核的構建。
 Automagy.research_page.MOBLURE.2=事實上就其自身而言，用已知的黑曜石還不能達到你想要的效果。幸運的是，古人們留下了一些可用的工藝品。<BR>要讓它生效，你需要將石頭作為一根豎直§l黑曜石圖騰§r柱（最少使用2塊圖騰）的一部分來放置。這樣一來水平方向範圍內的敏感生物就會被其所吸引，豎直的範圍由柱子的高度決定。（最大為向上或向下4格）。<BR>水平的範圍可以擴大，如果附近有§4Fames§0源質罐子的話。<BR>用你的§l法杖§r輕擊來啟用它。
-Automagy.research_page.MOBLURE.3=<BR>不同的生物對塞壬的呼喚反應也不同。大部分會盲目的走向它。其他的如末影人則會陷入混亂，甚至在快要摔落的時候試著逃離，但這也是短暫的。事實上，受其影響的§l末影人§r會§l瞬移得更近§r而不是更遠。<BR>部分生物對它完全免疫，包括你的傀儡，一些強大的生物，以及頭腦簡單的史萊姆。<BR>如果一個生物所在的區域內有多個塞壬之餌，它就會轉向最強的那一個。圖騰柱越高，塞壬之餌就越強。
+Automagy.research_page.MOBLURE.3=<BR>不同的生物對塞壬的呼喚反應也不同。大部分會盲目的走向它。其他的如終界人則會陷入混亂，甚至在快要摔落的時候試著逃離，但這也是短暫的。事實上，受其影響的§l終界人§r會§l瞬移得更近§r而不是更遠。<BR>部分生物對它完全免疫，包括你的傀儡，一些強大的生物，以及頭腦簡單的史萊姆。<BR>如果一個生物所在的區域內有多個塞壬之餌，它就會轉向最強的那一個。圖騰柱越高，塞壬之餌就越強。
 Automagy.research_page.MOBLURE.4=將強度使用得巧妙的話，也能讓生物按你所想的路線被吸引而來。<BR>塞壬之餌不會永久的吸引生物的注意力。如果一段時間內它無法接近石頭，那麼效果就會消失，再次吸引該生物就又要消耗一些時間了。最後，忙於戰鬥的生物能擺脫它的蠱惑。
 
 Automagy.research_name.DIMENSIONLURE=異界之餌
 Automagy.research_text.DIMENSIONLURE=來自遠方的呼喚
-Automagy.research_page.DIMENSIONLURE.1=下界之核與塞壬之餌的共性是你發現兩者可以共同執行。經過對塞壬之餌和下界反應堆結構的調整，你就能讓其生成生物而不是方塊。<BR>The §l異界之餌§r會探入下界那些無人所知的角落尋找目標，開啟跨越空間的裂痕並吸引那裡的生物們。為了實現這個過程，下界之核與異界之餌都需要消耗相當量的源質。下界之核所需的§cIgnis§Centivis也會增加。<BR>需求的源質型別取決於目標生物，
-Automagy.research_page.DIMENSIONLURE.2=倘若不指定目標，就只會隨機吸引生物而來。（簡單來說就是所用的誘餌必須為生物量身定做）<BR>生物型別透過在下界之核結構中放入基礎符文黑曜石以及對應生物的特殊符文黑曜石來確定。可使用多種型別的生物指定符文，但需要§l至少四個§r該種型別的符文。你不能將生物指定符文與方塊指定符文裝在同一個結構內。<BR>異界之餌方塊必須放在下界之核下方6~8格，中間不能有固體方塊阻隔。周圍還需要放置一圈基礎的符文黑曜石，
-Automagy.research_page.DIMENSIONLURE.3=如前一頁所示的那樣。生成的生物會出項在該平臺與下界之核的結構之間。<BR>搭建完畢後，先用法杖右擊餌石，之後再右擊下界之核就會開始吸引生物出現。<LINE>不幸的是，該過程不是那麼穩定。有機率產生各種負面效果，甚至會影響到召喚的生物。為瞭解決這個問題，你可以在圓的四個角上放置§l黑曜石圖騰§r柱。柱子越高，越穩定。
-Automagy.research_page.DIMENSIONLURE.4=（每個柱子做多四格高。）為了起到最好的效果，四根柱子要高度相同。<BR>在柱頂或下界之核結構的四臂下方放上§l閃耀之光§r也能提升穩定性。<IMG>automagy:textures/gui/dimensional-lure.png:0:0:255:235:.5</IMG>
-Automagy.research_page.DIMENSIONLURE.5=§l   §n符文黑曜石（烈焰人）§r<BR>既然灰燼之心已經注入了下界之核，那麼或許最容易吸引的就是烈焰人了。事實上，有時候也會§o製造§r出額外的烈焰人(無消耗那種情況下也會有些不穩定。<BR>下界之核與異界之餌都會消耗源質，具體資訊如下。<BR>§l下界之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
-Automagy.research_page.DIMENSIONLURE.6=<LINE>你確信自己還能做出其他一些符文黑曜石來吸引下界的各種生物。這只需要一點點的研究即可。<BR>用你的魔導透鏡掃描目標生物，然後在戰鬥中將其擊敗。你應該就會知道你所要了解的。<LINE>
+Automagy.research_page.DIMENSIONLURE.1=地獄之核與塞壬之餌的共性是你發現兩者可以共同執行。經過對塞壬之餌和地獄反應爐結構的調整，你就能讓其生成生物而不是方塊。<BR>The §l異界之餌§r會探入地獄那些無人所知的角落尋找目標，開啟跨越空間的裂痕並吸引那裡的生物們。為了實現這個過程，地獄之核與異界之餌都需要消耗相當量的源質。地獄之核所需的§cIgnis§Centivis也會增加。<BR>需求的源質型別取決於目標生物，
+Automagy.research_page.DIMENSIONLURE.2=倘若不指定目標，就只會隨機吸引生物而來。（簡單來說就是所用的誘餌必須為生物量身定做）<BR>生物型別透過在地獄之核結構中放入基礎符文黑曜石以及對應生物的特殊符文黑曜石來確定。可使用多種型別的生物指定符文，但需要§l至少四個§r該種型別的符文。你不能將生物指定符文與方塊指定符文裝在同一個結構內。<BR>異界之餌方塊必須放在地獄之核下方6~8格，中間不能有固體方塊阻隔。周圍還需要放置一圈基礎的符文黑曜石，
+Automagy.research_page.DIMENSIONLURE.3=如前一頁所示的那樣。生成的生物會出項在該平臺與地獄之核的結構之間。<BR>搭建完畢後，先用法杖右擊餌石，之後再右擊地獄之核就會開始吸引生物出現。<LINE>不幸的是，該過程不是那麼穩定。有機率產生各種負面效果，甚至會影響到召喚的生物。為瞭解決這個問題，你可以在圓的四個角上放置§l黑曜石圖騰§r柱。柱子越高，越穩定。
+Automagy.research_page.DIMENSIONLURE.4=（每個柱子做多四格高。）為了起到最好的效果，四根柱子要高度相同。<BR>在柱頂或地獄之核結構的四臂下方放上§l閃耀之光§r也能提升穩定性。<IMG>automagy:textures/gui/dimensional-lure.png:0:0:255:235:.5</IMG>
+Automagy.research_page.DIMENSIONLURE.5=§l   §n符文黑曜石（烈焰人）§r<BR>既然灰燼之心已經注入了地獄之核，那麼或許最容易吸引的就是烈焰人了。事實上，有時候也會§o製造§r出額外的烈焰人(無消耗那種情況下也會有些不穩定。<BR>地獄之核與異界之餌都會消耗源質，具體資訊如下。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
+Automagy.research_page.DIMENSIONLURE.6=<LINE>你確信自己還能做出其他一些符文黑曜石來吸引地獄的各種生物。這只需要一點點的研究即可。<BR>用你的魔導透鏡掃描目標生物，然後在戰鬥中將其擊敗。你應該就會知道你所要了解的。<LINE>
 
 Automagy.research_name.NETHERRUNE_ZOMBIE=符文黑曜石：殭屍
 Automagy.research_text.NETHERRUNE_ZOMBIE=我喜歡金子！
-Automagy.research_page.NETHERRUNE_ZOMBIE.1=殭屍豬人不愧為一群頭腦簡單的生物。從裂痕中吸引他們只需要一些閃光的東西和多汁的大腦……<BR>不過你要小心：儘管它們十分愚鈍，但也可能會發現自己被愚弄瞭然後變得非常，非常生氣。<BR>§l下界之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
+Automagy.research_page.NETHERRUNE_ZOMBIE.1=殭屍豬人不愧為一群頭腦簡單的生物。從裂痕中吸引他們只需要一些閃光的東西和多汁的大腦……<BR>不過你要小心：儘管它們十分愚鈍，但也可能會發現自己被愚弄瞭然後變得非常，非常生氣。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
 
 Automagy.research_name.NETHERRUNE_GHAST=符文黑曜石：惡魂
 Automagy.research_text.NETHERRUNE_GHAST=將他們從痛苦中解放
-Automagy.research_page.NETHERRUNE_GHAST.1=談到惡魂就不得不想到兩個問題： 首先，它們很冷淡，難以被吸引。其次讓它們透過的裂痕必須很大才行。所需的源質型別截然不同，召喚的過程也不會像平常那樣穩定。<BR>此外，還是由於它們的體型，整個結構的構造也有特別的需求。下界之核與異界之餌之間的距離必須至少8格（而不是平常的6格）。
-Automagy.research_page.NETHERRUNE_GHAST.2=§l下界之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §5高§0。
+Automagy.research_page.NETHERRUNE_GHAST.1=談到惡魂就不得不想到兩個問題： 首先，它們很冷淡，難以被吸引。其次讓它們透過的裂痕必須很大才行。所需的源質型別截然不同，召喚的過程也不會像平常那樣穩定。<BR>此外，還是由於它們的體型，整個結構的構造也有特別的需求。地獄之核與異界之餌之間的距離必須至少8格（而不是平常的6格）。
+Automagy.research_page.NETHERRUNE_GHAST.2=§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §5高§0。
 
 Automagy.research_name.NETHERRUNE_SKELETON=符文黑曜石：骷髏
 Automagy.research_text.NETHERRUNE_SKELETON=血與骨。除去血。
-Automagy.research_page.NETHERRUNE_SKELETON.1=凋靈骷髏常見於下界那神秘的堡壘之中，因此要掌握這個符文不僅需要找到骷髏還需要找到它們的堡壘。<BR>不幸的是，這些骷髏和堡壘直接的聯絡也會產生一些幹擾，使得召喚更加不穩定。<BR>§l下界之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §5適量§0。
+Automagy.research_page.NETHERRUNE_SKELETON.1=凋靈骷髏常見於地獄那神秘的堡壘之中，因此要掌握這個符文不僅需要找到骷髏還需要找到它們的堡壘。<BR>不幸的是，這些骷髏和堡壘直接的聯絡也會產生一些幹擾，使得召喚更加不穩定。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §5適量§0。
 
 Automagy.research_name.NETHERRUNE_SLIME=符文黑曜石：史萊姆
 Automagy.research_text.NETHERRUNE_SLIME=就像一個凝膠塊但是帶有酸性，還有一些火的特性。
-Automagy.research_page.NETHERRUNE_SLIME.1=能吸引巖漿怪的東西除了食物就是它們的同類了。<BR>§l下界之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
+Automagy.research_page.NETHERRUNE_SLIME.1=能吸引岩漿怪的東西除了食物就是它們的同類了。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
 
 Automagy.research_name.NETHERRUNE_BAT=符文黑曜石：蝙蝠
 Automagy.research_text.NETHERRUNE_BAT=爆炸即藝術
-Automagy.research_page.NETHERRUNE_BAT.1=炎蝠那自我毀滅的天性使得它十分容易被吸引。只需要提供一個類似人類的目標即可。<BR>§l下界之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
+Automagy.research_page.NETHERRUNE_BAT.1=炎蝠那自我毀滅的天性使得它十分容易被吸引。只需要提供一個類似人類的目標即可。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
 
 Automagy.research_name.NETHERRUNE_WISP=符文黑曜石：精靈
 Automagy.research_text.NETHERRUNE_WISP=火之化身
 Automagy.research_page.NETHERRUNE_WISP.1=儘管你已在地獄發現了許多型別的精靈，其中大部分都能透過異界之餌所創造的裂痕。但它們的魔法能量會相互影響使得各自消散。你最終發現了一種完全不同於這些精靈的地獄變種。<BR>將你的裝置連線到它們的領地，加上其與生俱來的穩定性，你相信這樣一來便能召喚它們了 - 但你需要一個十分穩定的結構來進行。
-Automagy.research_page.NETHERRUNE_WISP.2=§l下界之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §4危險§0。
+Automagy.research_page.NETHERRUNE_WISP.2=§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §4危險§0。
 
 Automagy.research_name.FOCUSCRAFTING=法杖核心：合成
 Automagy.research_text.FOCUSCRAFTING=把它們放到一起
@@ -534,11 +534,11 @@ Automagy.chat.unseenScribe.outOfRange=連線失敗.有效範圍內無庫存核�
 Automagy.chat.unseenScribe.noConnectionsLeft=連線失敗.全部連線佔用中.
 Automagy.chat.unseenScribe.alreadyLinked=容器記錄桌已連線至庫存核心(%s,%s,%s)
 Automagy.chat.thaumostaticSpire.setSuction=該側設為輸入%s源質.
-Automagy.chat.nethermind.yTooLow=下界之核不能在這麼低的高度被啟用.
-Automagy.chat.nethermind.invalidMix=下界之核啟動失敗.你不能將方塊指定符文與生物指定符文混合使用.
-Automagy.chat.nethermind.missingLure=下界之核啟動失敗.生物指定符文需要一個啟用的異界之餌.
-Automagy.chat.nethermind.missingLureExtraDistance=由於所選符文,下界之核與異界之餌的距離需要增大.
-Automagy.chat.nethermind.needMoreMobRunes=下界之核啟動失敗.生物指定符文需要使用至少4個.
+Automagy.chat.nethermind.yTooLow=地獄之核不能在這麼低的高度被啟用.
+Automagy.chat.nethermind.invalidMix=地獄之核啟動失敗.你不能將方塊指定符文與生物指定符文混合使用.
+Automagy.chat.nethermind.missingLure=地獄之核啟動失敗.生物指定符文需要一個啟用的異界之餌.
+Automagy.chat.nethermind.missingLureExtraDistance=由於所選符文,地獄之核與異界之餌的距離需要增大.
+Automagy.chat.nethermind.needMoreMobRunes=地獄之核啟動失敗.生物指定符文需要使用至少4個.
 Automagy.chat.inventarium.statusSlots=庫存容量: %s/%s.
 Automagy.chat.inventarium.statusScribes= 記錄桌: %s/%s.
 Automagy.chat.inventarium.statusNodes= 記錄桌: %s/%s.記憶方塊: %s/%s.
@@ -568,7 +568,7 @@ Automagy.tip.foodstuff.0=這不像是個明智的選擇.
 Automagy.tip.tankFluidData=%s / %s mB %s
 Automagy.tip.creativeModeOnly=僅限創造模式
 Automagy.tip.creativeTool.0=用法:與傀儡合成
-Automagy.tip.enderDisjunction=傷害附近的末影人
+Automagy.tip.enderDisjunction=傷害附近的終界人
 Automagy.tip.focusCrafting.stored1=(裝有1組物品)
 Automagy.tip.focusCrafting.stored=(裝有%s組物品)
 Automagy.tip.golemWorkbenchUpgrade.0=傀儡速度提升合成速度

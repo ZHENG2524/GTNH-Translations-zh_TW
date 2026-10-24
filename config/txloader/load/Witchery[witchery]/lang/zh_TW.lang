@@ -67,7 +67,7 @@ item.witchery:ingredient.berriesRowan.name=山梨樹漿果
 item.witchery:ingredient.necroStone.name=死靈石
 item.witchery:ingredient.brewRaising.name=騰昇之釀藥水
 item.witchery:ingredient.spectralDust.name=幽靈粉末
-item.witchery:ingredient.enderDew.name=末影之露
+item.witchery:ingredient.enderDew.name=終界之露
 item.witchery:ingredient.seedsArtichoke.name=水洋薊種子
 item.witchery:ingredient.artichoke.name=水洋薊球莖
 item.witchery:ingredient.seedsTreefyd.name=行路花種子
@@ -89,7 +89,7 @@ item.witchery:poppet.voodoo.name=巫蠱娃娃
 item.witchery:poppet.vampiric.name=吸血鬼娃娃
 item.witchery:circletalisman.name=環形護身符
 item.witchery:divinerwater.name=水源探測符
-item.witchery:divinerlava.name=巖漿探測符
+item.witchery:divinerlava.name=岩漿探測符
 item.witchery:chalkheart.name=金色粉筆
 item.witchery:chalkritual.name=儀式粉筆
 item.witchery:chalkotherwhere.name=他處粉筆
@@ -215,7 +215,7 @@ witchery.rite.imprisonment=拘魔儀式{r||怪物不能離開這個圓環法陣�
 witchery.rite.barrier=保護儀式{r||生成一個圓頂， 迷惑怪物， 讓其無法看到你。 無限時長， 但會每秒消耗24點能量。
 witchery.rite.barrierlarge=保護儀式{r||生成一個圓頂 迷惑所有生物， 讓其無法看到你。 無限時長， 但會每秒消耗28點能量。
 witchery.rite.barrierportable=保護儀式{r||生成一個持續60秒的圓頂。
-witchery.rite.volcano=大地之怒儀式{r||隆起一座火山， 下方必須有一個巖漿池。
+witchery.rite.volcano=大地之怒儀式{r||隆起一座火山， 下方必須有一個岩漿池。
 witchery.rite.storm=蒼穹之怒儀式{r||召喚一團集中在圓環內的閃電風暴。
 witchery.rite.stormlarge=蒼穹之怒儀式{r||召喚一團聚集在圓環外的閃電風暴。
 witchery.rite.stormportable=蒼穹之怒儀式{r||召喚一團聚集在圓環外的閃電風暴。
@@ -278,7 +278,7 @@ witchery.rite.missingitem=缺少匯魔物品……
 witchery.rite.missinglivingsacrifice=缺少作為祭品的活物。
 witchery.rite.missingpowersource=附近沒有祭壇。
 witchery.rite.insufficientpower=祭壇未能提供充沛能量……
-witchery.rite.missinglava=下邊沒有巖漿……
+witchery.rite.missinglava=下邊沒有岩漿……
 
 item.witchery:ingredient.brewIce.name=寒霜之釀藥水
 item.witchery:ingredient.brewDepths.name=深淵之釀藥水
@@ -401,7 +401,7 @@ tile.witchery:crittersnare.empty.name=生物陷阱
 tile.witchery:crittersnare.bat.name=生物陷阱（蝙蝠）
 tile.witchery:crittersnare.silverfish.name=生物陷阱（蠹蟲）
 tile.witchery:crittersnare.slime.name=生物陷阱（史萊姆）
-tile.witchery:crittersnare.magmacube.name=生物陷阱（巖漿史萊姆）
+tile.witchery:crittersnare.magmacube.name=生物陷阱（岩漿史萊姆）
 
 
 entity.witchery.babayaga.name=芭芭雅嘎
@@ -428,12 +428,12 @@ witchery.prediction.babagood=你凝視著水晶球：%s引起了老巫婆（和�
 witchery.prediction.bababad=你凝視著水晶球：%s激怒了老巫婆（和她的姐妹們）。
 witchery.prediction.friend=你凝視著水晶球：%s會交上新朋友。
 witchery.prediction.rescued=你凝視著水晶球：%s被陌生人救了。
-witchery.prediction.tothenether=你凝視著水晶球：%s會踏上下界之旅。
-witchery.prediction.tothenether.summoned=有一隻惡魔已經看著你很久，並將你傳送到了下界。
+witchery.prediction.tothenether=你凝視著水晶球：%s會踏上地獄之旅。
+witchery.prediction.tothenether.summoned=有一隻惡魔已經看著你很久，並將你傳送到了地獄。
 witchery.prediction.wet=你凝視著水晶球：%s會變得潮溼。
 witchery.prediction.coal=你凝視著水晶球：%s會收集到大量的煤。
 
-tile.witchery:bramble.ender.name=末影荊棘
+tile.witchery:bramble.ender.name=終界荊棘
 tile.witchery:bramble.wild.name=野荊棘
 tile.witchery:bloodrose.name=血玫瑰
 
@@ -474,7 +474,7 @@ witchery.witch.say.tricked=我只需要……一個愛上當的蠢貨……現�
 
 witchery.witch.quest.fightspider=擊敗我的寵物併為我帶回它的眼睛，如果你接受任務就再和我對話一次！
 witchery.witch.quest.fightzombie=擊敗我的寵物併為我帶回它的肉，如果你接受任務就再和我對話一次！
-witchery.witch.quest.getdemonheart=為我演示一下統治下界位面的暴力手段，如果你接受任務就再和我對話一次！
+witchery.witch.quest.getdemonheart=為我演示一下統治地獄位面的暴力手段，如果你接受任務就再和我對話一次！
 witchery.witch.quest.makecrystalball=我有意預測未來，如果你接受任務就再和我對話一次！
 witchery.witch.quest.getbones=殺死三十隻骷髏併為我帶回它們的骸骨，如果你接受任務就再和我對話一次！
 witchery.witch.quest.makegrotesquebrew=我必須施展許多詛咒，為我帶回必須用到的藥水，如果你接受任務就再和我對話一次！
@@ -526,7 +526,7 @@ witchery.rite.slippersoncooldown=無事發生（等待%s分鐘）。
 witchery.rite.forestation=森林儀式{r||生長出一片森林，將樹苗替換成希望之型別。
 witchery.rite.toofaraway=這麼遠的距離外無法完成儀式（需要一個大型女巫集會）。
 
-item.witchery:iceslippers.tip=摸起來很涼……||{5凍結附近的水，而且可以{0|{5把巖漿變成黑曜石 （消耗耐久）{0
+item.witchery:iceslippers.tip=摸起來很涼……||{5凍結附近的水，而且可以{0|{5把岩漿變成黑曜石 （消耗耐久）{0
 item.witchery:brewbag.name=釀造袋
 item.witchery:huntsmanspear.name=獵手之矛
 item.witchery:huntsmanspear.tip={5被攻擊時格擋可召喚出狼群{0。
@@ -573,7 +573,7 @@ witchery.book.biomes.frozen.item=冰針
 witchery.book.biomes.jungle.name=叢林
 witchery.book.biomes.jungle.item=叢林樹苗
 witchery.book.biomes.wasteland.name=廢土
-witchery.book.biomes.wasteland.item=地獄巖
+witchery.book.biomes.wasteland.item=地獄岩
 witchery.book.biomes.beach.name=沙灘
 witchery.book.biomes.beach.item=沙子
 witchery.book.biomes.mushroom.name=蘑菇島
@@ -899,7 +899,7 @@ witchery:potion.wakingnightmare=行走夢魘
 witchery:potion.queasy=嘔吐
 witchery:potion.swimming=游泳強化
 witchery:potion.resizing=改變大小
-witchery:potion.enderinhibition=末影封印
+witchery:potion.enderinhibition=終界封印
 witchery:potion.illfitting=裝備脫落
 witchery:potion.volatility=高壓！
 witchery:potion.enslaved=奴役
@@ -1175,7 +1175,7 @@ witchery:cauldronbook.mutandisextremis=[h1 道具製作：超級轉生粉]對植
 witchery:cauldronbook.mutatingsprig=[h1 道具製作：變異枝條]配合儀式對植物和動物使用 來製造突變。[br][br][template=tcraft stack|0=nether_wart,witchery:ingredient|82，witchery:ingredient|15 1=witchery:mutator]
 witchery:cauldronbook.dropofluck=[h1 道具製作：幸運滴液]溢滿的幸運，很稀有而且 難以製作。[br][br][template=tcraft stack|0=witchery:ingredient|22，nether_wart,witchery:ingredient|37，witchery:ingredient|38，witchery:ingredient|15 1=witchery:ingredient|39]
 witchery:cauldronbook.otherwherechalk=[h1 道具製作：他處粉筆]用來繪製帶有傳送性質的法陣[br][br][template=tcraft stack|0=nether_wart,witchery:ingredient|37，ender_pearl,witchery:chalkritual 1=witchery:chalkotherwhere]
-witchery:cauldronbook.infernalchalk=[h1 道具製作：煉獄粉筆]用來繪製帶有下界和惡魔性質 的法陣。[br][br][template=tcraft stack|0=nether_wart,blaze_powder,witchery:chalkritual 1=witchery:chalkinfernal]
+witchery:cauldronbook.infernalchalk=[h1 道具製作：煉獄粉筆]用來繪製帶有地獄和惡魔性質 的法陣。[br][br][template=tcraft stack|0=nether_wart,blaze_powder,witchery:chalkritual 1=witchery:chalkinfernal]
 witchery:cauldronbook.goldenchalk=[h1 道具製作：金色粉筆]用來繪製大部分法陣的中心符型[br][br][template=tcraft stack|0=witchery:ingredient|22，gold_nugget,witchery:chalkritual 1=witchery:chalkheart]
 witchery:cauldronbook.netherwart=[h1 道具製作：地獄疣]當實在找不到地獄要塞的時候 可以試試這個。[br][br][template=tcraft stack|0=witchery:ingredient|22，witchery:ingredient|37，witchery:ingredient|29，ender_pearl,wheat,witchery:ingredient|14 1=nether_wart]
 witchery:cauldronbook.endstone=[h1 道具製作：末地石]懸空島都沒了怎麼辦？[br][br][template=tcraft stack|0=witchery:ingredient|22，stone,end_stone,witchery:ingredient|15 1=end_stone|0|2]
@@ -1208,7 +1208,7 @@ witchery:cauldronbook.otherrituals=[h1 其他儀式]不需要祭壇的新儀式�
 witchery:cauldronbook.ritualwaystone=[h1 儀式：繫結尋路石]繫結最多8塊尋路石， 繪製一個3x3的他處 圓環：[br][img=witchery:textures/gui/circles_tinypurple.png|center|top|32|32][br]在中心放上尋路石然後站開等著。
 witchery:cauldronbook.ritualwaystoneblooded=[h1 儀式：繫結血腥路碑]繪製一個3x3的他處 圓環來繫結血腥路碑到 玩家位置：[br][img=witchery:textures/gui/circles_tinypurple.png|center|top|32|32][br]目標在附近的話放下尋路石然後等著。
 witchery:cauldronbook.ritualtranspose=[h1 儀式：傳送]繪製一個5*5的他處 圓環來傳送到尋路石繫結 地點：[br][img=witchery:textures/gui/circles_spurple.png|center|top|32|32][br]站在圈內放下尋路石然後等著。
-witchery:cauldronbook.ritualfind=[h1 儀式：搜尋建築]召喚幽靈來尋找最近的村 莊或下界要塞。需要繪製 3x3的儀式圓環：[br][img=witchery:textures/gui/circles_tinywhite.png|center|top|32|32][br]在中心放上抑制之精神或者調諧之石然後等著。
+witchery:cauldronbook.ritualfind=[h1 儀式：搜尋建築]召喚幽靈來尋找最近的村 莊或地獄要塞。需要繪製 3x3的儀式圓環：[br][img=witchery:textures/gui/circles_tinywhite.png|center|top|32|32][br]在中心放上抑制之精神或者調諧之石然後等著。
 
 witchery:cauldronbook.capacity=[i 容量] - 每個[url=toc/effects 藥效]都需要分配容量， 按順序加入這些材料來擴容。[br][br][stack=witchery:ingredient|22 +1][tab][stack=nether_wart +2][br][stack=witchery:ingredient|37 +2][tab][stack=witchery:ingredient|29 +2][br][stack=diamond +2][tab][stack=nether_star|29 +4]
 witchery:cauldronbook.power=[i 強度] - 在指定[url=toc/effects 藥效]前按順序新增 材料來指定強度。[br][br][stack=glowstone_dust +1 （等級II）][br][stack=blaze_rod +1 （to 等級III）][br][stack=witchery:ingredient|11 +1 （等級IV）]
@@ -1290,7 +1290,7 @@ witchery:cauldronbook.fastmove=[h1 藥效：加速]帶有此效果的生物移�
 witchery:cauldronbook.slowmove=[h1 藥效：減速]帶有此效果的生物移動速 度降低。
 witchery:cauldronbook.waterbreathing=[h1 藥效：水下呼吸]帶有此效果的生物在水下 不消耗氧氣。
 witchery:cauldronbook.resistfire=[h1 藥效：抗火]帶有此效果的生物免疫火 焰傷害。
-witchery:cauldronbook.partlava=[h1 藥效：熔岩退散]臨時性推開巖漿。
+witchery:cauldronbook.partlava=[h1 藥效：熔岩退散]臨時性推開岩漿。
 witchery:cauldronbook.repel=[h1 藥效：反震]帶有此效果的生物被攻擊 時攻擊者會被擊退。
 witchery:cauldronbook.poison=[h1 藥效：中毒]帶有此效果的生物會持續 掉血。
 witchery:cauldronbook.regeneration=[h1 藥效：生命恢復]帶有此效果的生物會持續 回覆生命值。
@@ -1344,7 +1344,7 @@ witchery:cauldronbook.growlily=[h1 藥效：睡蓮之夢]繁殖水中的睡蓮�
 witchery:cauldronbook.tinting=[h1 藥效：改變膚色]改變被作用的生物的膚色。
 
 witchery:cauldronbook.transpose=[next=transpose2][h1 藥效：傳送]藥水形態會隨機瞬移作用 者一小段距離。[br][br]進行儀式 的話可以使用尋路石選擇 目的地然後加入巫媒來指 定目標。
-witchery:cauldronbook.transpose2=[next=transpose3][h1 藥效：傳送]或者加入傳送起點繫結的 尋路石[i 然後]加入末影珍珠。 [br][br]然後加入繫結目標地點的 尋路石。
+witchery:cauldronbook.transpose2=[next=transpose3][h1 藥效：傳送]或者加入傳送起點繫結的 尋路石[i 然後]加入終界珍珠。 [br][br]然後加入繫結目標地點的 尋路石。
 witchery:cauldronbook.transpose3=[h1 藥效：瞬移]傳送起點[i 必須] 被中型他處圓環包圍。[br][br][img=witchery:textures/gui/circles_mpurple.png|center|top|32|32]
 
 witchery:cauldronbook.transposeore=[h1 藥效：礦石傳送]破壞球形範圍內的礦石。 強度決定範圍，聚集礦 石的手段請自備。
@@ -1598,7 +1598,7 @@ witchery:vampirebook.toc=[next=ritual1][h1 觀察日記：永生者][br][br][br]
 witchery:vampirebook.ritual1=[next=ritual2]我真不願意寫下我所見聞的 事情，我目睹的不應為常 人所知。記住，以我所說 的為戒……
 witchery:vampirebook.ritual2=[next=ritual3][br]……今夜的晚餐上，他 回憶了他“初生”的經歷， 那邪惡的事兒……[br][br]……「在骷髏頭顱上用伯萊恩匕首 屠宰一隻雞，用玻璃高腳 杯去收集留下的血液，是 無比殘忍的事情」，我告 訴他……
 witchery:vampirebook.ritual3=[next=ritual4][br]……顯然，這是早已被 遺忘的儀式的開始（我畫 了個草圖）……夜，以 月，線，紅石，火把，及 骷髏頭顱為引……
-witchery:vampirebook.ritual4=[next=ritual5][br][br]……斟血入顱……[br][br]……他低吟著將帶領她 步入熔岩之湖……   ……下界……
+witchery:vampirebook.ritual4=[next=ritual5][br][br]……斟血入顱……[br][br]……他低吟著將帶領她 步入熔岩之湖……   ……地獄……
 witchery:vampirebook.ritual5=[next=transfix|1][br]……他對她證明瞭他的價值……[br][br][br]……而那玻璃高腳杯裝載的，真有 人會喝這種東西？……
 witchery:vampirebook.transfix=[next=knockback|2][br]……今日，或者我應該說今晚，他告 訴了我他第一次獵殺的經歷……[br][br][br]……那第一夜的飢渴，他說， 完全無法抵抗，他只能遵 從自己的慾望……
 witchery:vampirebook.knockback=[next=speed|3]……他發現他可以凝視受害 者……[br][br]……只要不過半，他就能 貪婪地吸取而不會引起他 人的注意……[br][br]……像這樣，五次……

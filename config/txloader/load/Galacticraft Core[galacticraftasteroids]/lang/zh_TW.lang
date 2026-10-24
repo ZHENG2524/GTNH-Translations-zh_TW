@@ -71,10 +71,10 @@ fluid.liquidargon=液態氬
 fluid.fuel=燃油
 
 # BLOCKS
-tile.asteroidsBlock.0.name=行星巖/礦石
-tile.asteroidsBlock.asteroid0.name=行星巖
-tile.asteroidsBlock.asteroid1.name=行星巖
-tile.asteroidsBlock.asteroid2.name=行星巖
+tile.asteroidsBlock.0.name=行星岩/礦石
+tile.asteroidsBlock.asteroid0.name=行星岩
+tile.asteroidsBlock.asteroid1.name=行星岩
+tile.asteroidsBlock.asteroid2.name=行星岩
 tile.asteroidsBlock.oreIron.name=鐵礦石
 tile.asteroidsBlock.oreIlmenite.name=鈦鐵礦石
 tile.asteroidsBlock.oreAluminum.name=鋁礦石
@@ -135,8 +135,8 @@ tile.treasureT3.description=3階寶箱目前無法使用.
 tile.walkway.description=通道現作為裝飾,可在保持太空主題的同時,用於連線方塊.
 tile.walkwayAluminumWire.description=鋁線通道在其可行走的表面下可佈置線纜.
 tile.walkwayOxygenPipe.description=氧氣管道在其可行走的表面下可佈置管道.
-tile.beamReflector.description=能量射束反射器用於改變源頭來的鐳射束的方向.右擊以在不同目標間迴圈切換.
-tile.beamReceiver.description=能量射束接收器連線到機器以輸入和輸出能量,使用鐳射束傳輸能量.
+tile.beamReflector.description=能量射束反射器用於改變源頭來的雷射束的方向.右擊以在不同目標間迴圈切換.
+tile.beamReceiver.description=能量射束接收器連線到機器以輸入和輸出能量,使用雷射束傳輸能量.
 tile.telepadShort.description=短距離傳送臺可用於短距離傳送(250格),將玩家和其他生物傳送至其他已建立連線的傳送臺.
 tile.minerBase.description=太空採礦機基地用於停靠太空採礦機。它很大……嘗試用它們做一個2x2x2的立方體
 

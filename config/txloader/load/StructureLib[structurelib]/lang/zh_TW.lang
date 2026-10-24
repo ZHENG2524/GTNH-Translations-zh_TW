@@ -201,5 +201,5 @@ structurelib.configgui.drag.tooltip=拖動該按鈕改變該項位置
 
 structurelib.sortedregistry.inventoryproviders.5000-main-inventory=玩家主物品欄
 structurelib.sortedregistry.inventoryproviders.5000-main-inventory.tooltip=你的主物品欄中的36個槽位。護甲槽除外。
-structurelib.sortedregistry.inventoryproviders.7000-ender-inventory=末影箱子物品欄
-structurelib.sortedregistry.inventoryproviders.7000-ender-inventory.tooltip=連線到你的原版末影箱。需要身上至少有一個“末影揹包”之類的物品才能工作。
+structurelib.sortedregistry.inventoryproviders.7000-ender-inventory=終界箱子物品欄
+structurelib.sortedregistry.inventoryproviders.7000-ender-inventory.tooltip=連線到你的原版終界箱。需要身上至少有一個“終界揹包”之類的物品才能工作。

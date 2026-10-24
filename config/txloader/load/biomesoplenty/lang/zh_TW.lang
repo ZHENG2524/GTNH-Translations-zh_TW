@@ -1,12 +1,12 @@
 tile.mud.mud.name=泥巴
 tile.mud.quicksand.name=流沙
 
-tile.ashStone.name=火山灰巖
+tile.ashStone.name=火山灰岩
 tile.hardSand.name=硬化沙子
 tile.hardDirt.name=硬化泥土
 tile.hardIce.name=硬化冰塊
 tile.driedDirt.name=乾燥泥土
-tile.cragRock.name=碎巖
+tile.cragRock.name=碎岩
 tile.mudBricks.name=泥巴磚塊
 tile.biomeBlock.name=生態群系源質礦石
 tile.crystal.name=仙域水晶
@@ -53,7 +53,7 @@ tile.flowers.wildflower.name=野花
 tile.flowers.violet.name=紫羅蘭
 tile.flowers.anemone.name=銀蓮花
 tile.flowers.lilyflower.name=水百合
-tile.flowers.enderlotus.name=末影蓮
+tile.flowers.enderlotus.name=終界蓮
 tile.flowers.bromeliad.name=鳳梨花
 tile.flowers.eyebulbbottom.name=眼球花
 tile.flowers.eyebulbtop.name=眼球花
@@ -488,7 +488,7 @@ achievement.bop.achDartBlower.desc=孩子, 不要亮瞎了眼睛!
 achievement.bop.achScythe=植物殺手
 achievement.bop.achScythe.desc=一個收割之日.
 achievement.bop.achEnderporter=甜蜜的家
-achievement.bop.achEnderporter.desc=用末影珍珠的神奇力量.
+achievement.bop.achEnderporter.desc=用終界珍珠的神奇力量.
 
 achievement.bop.achHoney=有苦有樂
 achievement.bop.achHoney.desc=含血的甜蜜大陸.

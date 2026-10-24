@@ -135,7 +135,7 @@ item.PipeItemsInvSysConnector=物流網路聯結器
 item.PipeItemsInvSysConnector.name=物流網路聯結器
 item.PipeItemsInvSysConnector.tip1=型別：橋接
 item.PipeItemsInvSysConnector.tip2= - 透過外部運輸方式
-item.PipeItemsInvSysConnector.tip3=   (比如末影箱、礦車或其他管道)
+item.PipeItemsInvSysConnector.tip3=   (比如終界箱、礦車或其他管道)
 item.PipeItemsInvSysConnector.tip4=   將兩個物流網路連線到一起
 item.PipeItemsInvSysConnector.tip5= 
 
@@ -237,7 +237,7 @@ item.micropackager=微型打包機
 item.microcapsulator=微型封包器
 item.logicexpander=邏輯擴充套件電路
 item.lense=聚焦透鏡
-item.acceptor=鐳射接收器介面
+item.acceptor=雷射接收器介面
 item.blankupgrade=空白升級
 item.goldupgradechip=金升級晶片
 item.diamondupgradechip=鑽石升級晶片

@@ -1,35 +1,46 @@
 # 交接：GTNH zh_TW 後續處理（給下一個 AI）
 
-## 目前狀態
-- 原始清單 `GTNH_untranslated_remaining.csv`（780 條）已全部處理，結果在 `tools/GTNH_remaining_translated.csv`（欄位 file,key,english_value,zh_tw,notes）。
-- 譯文已寫回對應的 `config/txloader/load/<Mod>/lang/zh_TW.lang`（CSV 的 file 欄是 zh_CN.lang，對應改為 zh_TW.lang），780 條皆成功套用、無缺檔缺 key；16 條重複 key 兩處都已替換。尚未進遊戲實測。
-- 本倉庫已 git init 並有一次 commit；**尚未推送 GitHub**，授權條款未定（使用者要先確認）。
-- 原始 `GTNH_zh_TW.zip` 未被修改；完整成品為桌面 `GTNH_zh_TW_full.zip`。
+> 本檔可公開，不含伺服器位址或個人資訊。最後更新：2026-10-24（v0.1.0 發布時）。
 
-## 統計
-- 已翻譯 347 條（Blood Magic 書 239 條）；保留原文 421 條（指令、函式簽名、曲名／專輯、`<IMG>`、連結、Email、base64、Mod／玩家名、梗）；TRUNCATED 6 條；TERM? 47 條。
+## 專案概況
+- GTNH 2.8.4 的繁體中文（台灣）語言包；內容幾乎全是機器簡轉繁（OpenCC `s2twp`）+ AI 翻譯，**逐條校對進度仍很低**。
+- 語言檔位置：`GregTech_zh_TW.lang`（GregTech 主檔，Forge Configuration 格式 `S:"key"=value`）、`config/txloader/load/<模組>[modid]/lang/zh_TW.lang`。
+- 與 Claude 協力製作；commit 皆帶 `Co-Authored-By: Claude`。
+
+## 技術注意事項
+1. GregTech 有自己的語言檔，遊戲啟動時會改寫它。原本只有約 2,900 行，是遊戲中大量英文名稱的主因。
+2. 寫死在程式碼裡的字串無法用語言檔翻譯，只能改 class（例：`tools/patch_extrautils.py`）。
+3. 連線到伺服器時的歡迎訊息等由伺服器產生，客戶端改不了（見伺服器端倉庫）。
+4. 把 `zh_TW.lang` 塞進模組 jar 對 StatCollector 類字串沒有效果，不要再試。
+5. 沒有 opencc 指令時：`python3 -m venv v && v/bin/pip install opencc-python-reimplemented`，用 `s2twp`。
+
+## 已完成
+- 780 條剩餘字串（`tools/GTNH_remaining_translated.csv`）。
+- GregTech 主檔補齊、各模組缺漏補齊、殘留簡體修正、BetterQuesting／Biomes O' Plenty／InGameInfo 新增。
+- **第一輪用語校準**（`tools/normalize_terms.py`，只改值不改 key，可重跑）：
+
+  | 原 | 改為 | 約處數 |
+  |---|---|---|
+  | 鐳射 | 雷射 | 820 |
+  | 末影 | 終界 | 1,035 |
+  | 下界 | 地獄 | 777 |
+  | 反應堆 | 反應爐 | 1,527 |
+  | 核聚變／聚變 | 核融合 | 918 |
+  | 巖 | 岩 | 1,405 |
+
+## 刻意保留的決定（想改前先討論）
+- Hatch／倉室：全檔統一用「**倉**」（輸入倉、能源倉，約 1,800 處），不改「艙口」，因為一致性比換字重要。Bus=匯流排。
+- Casing 在 GregTech 檔內為「機械方塊」（約 1,500 處，沿用簡體來源譯法）。
 
 ## 待辦（依優先序）
-1. **TRUNCATED（6 條，保留英文，勿猜測）**：從模組 jar 取完整字串後再翻。
-   - `modularui2.config.smooth_progress_bar.tooltip`
-   - `aw.entries.spells.simpleEffects.10`
-   - `gt.blockmachines.multimachine.FOG.upgradeinfotext.3`
-   - Witching Gadgets 的 `witchinggadgets_research_page.GEMCUT_TABLE.1`、`GEMCUT_STEP.1`、`GEMCUT_ROSE.1`（結尾 "The table cut is" 疑似截斷，為我的判斷）。
-2. **TERM?（47 條，notes 欄含 `TERM?`）**：查 GTNH 維基（gtnh.miraheze.org）核對譯名。**上一輪沒有連線查維基**，譯名是參考既有 zip 的詞彙（線軸、線束、皮米、量子、普朗克尺度、機架、切條X板 等）推出。主要是 `gt.circuitcomponent.*`、Thaumcraft 自訂元素（Aequalitas 等）、Manifold Bud、Bedrockium、Pseudostable Black Hole Containment Field、Cooper's Mallet、蜂種名。
-3. **維基核對**：notes 標「沿用既有 zh_TW 譯名；未連線查維基」者（鍋爐、艙口、淨化單元等）。
-4. **遊戲內實測**：載入後確認無亂碼、`\n`／`%n`／`[br]`／`[url ...]` 顯示正常。
-5. **授權與公開**：確認授權後由使用者提供空倉庫網址再推送；這台機器沒有 `gh`，未登入 GitHub。
+1. 逐條校對：玩家最常看的物品／材料名、機器提示、任務書。注意一簡對多繁（发/髮、干/幹/乾、后/後、里/裡）。
+2. 約 1,200 條仍為英文（Ztones 528、GregTech 155、ServerUtilities 106、CraftPresence 76、Botania 74…），多為專有名詞，需逐條判斷。
+3. TRUNCATED 6 條、TERM? 47 條（見 `tools/GTNH_remaining_translated.csv` 的 notes 欄），需從 jar 取完整字串並查 GTNH 維基（gtnh.miraheze.org）。
+4. 佔位符：與 zh_CN 對照 `%s/%d/%f` 後有約 100 處不同，抽查多為既有繁中來自較新版本（zh_CN 較舊）造成，尚未逐條確認；`§`、`\n`、`<BR>` 未做自動檢查。
+5. 尚未掃描：jar 內自帶語言檔、`config` 底下其他設定檔、NEI／任務 JSON。
+6. 模組更新後，Extra Utilities 補丁與 GregTech 語言檔需重做。
 
-## 已確定的決定（請沿用）
-- 規則見桌面 `HANDOFF_sonnet_GTNH_zh_TW.md` 與術語表（儀式、印記、符文、試劑、血球、血祭壇…）。
-- Blood Magic 書：Tiberius、Magus、Vlad、Demir、Bella、Sinferrous、Tartarus、Conglomeration 等人名地名保留英文；試劑名（Aether、Terrae…）保留拉丁文；印記／符文／儀式名沿用既有 guide 標題與物品名（速掘印記、增容符文、轉位符文、獻祭匕首、羽刃、滿春儀式等）。
-- 下界用「下界」、終界用「終界」、Ghast 用「地獄幽靈」，與既有 zip 一致。
-- 第 252 條（Witchery 書）`[url power]` 等連結目標刻意保留英文，避免連結失效。
-- `gui.floodlights:true/false` 譯為「是／否」（推測）。
-- `tc.research_page.GLYPHSTONE.1` 在別的檔案另有不同內容的中文，本檔依英文翻譯。
-- 檢查用 OpenCC s2twp：僅剩台灣用詞變體差異（綁定／繫結、台／臺 等），無簡體字；已改過運行→運作、設置→架設／建立、打開→開啟、優化→最佳化。
-
-## 檔案
-- `tools/GTNH_remaining_translated.csv`：譯文與 notes。
-- `config/…`、`GregTech_zh_TW.lang`：可直接使用的語言檔。
-- `README.md`：安裝說明與已知限制。
+## 與使用者互動的偏好
+- 使用者用繁體中文，回覆簡潔，說清楚動了哪些檔。
+- 改使用者檔案前先備份；公開倉庫、改歷史、重啟伺服器前先確認。
+- 不要把使用者本名、Gmail、伺服器位址放上 GitHub。commit 作者：`ZHENG2524 <347185527+ZHENG2524@users.noreply.github.com>`。

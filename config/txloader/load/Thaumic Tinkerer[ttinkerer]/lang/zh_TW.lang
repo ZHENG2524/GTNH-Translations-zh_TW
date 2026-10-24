@@ -91,7 +91,7 @@ item.soulMould.name=靈魂模具
 item.xpTalisman.name=匯魔護身符
 item.focusSmelt.name=法杖核心：伊夫利特之輝
 item.focusHeal.name=法杖核心：癒合
-item.focusEnderChest.name=法杖核心: 末影裂痕
+item.focusEnderChest.name=法杖核心: 終界裂痕
 item.bloodSword.name=咒靈之劍
 item.revealingHelm.name=揭示之頭盔
 item.infusedInkwell.name=注魔筆與墨（NYI）
@@ -116,8 +116,8 @@ item.ichorium.name=靈寶
 item.ichorNugget.name=靈寶粒
 item.ichorCap.name=靈寶杖端
 item.ichorclothRod.name=靈布包層銀樹杖柄
-item.netherShard.name=下界碎片
-item.enderShard.name=末影碎片
+item.netherShard.name=地獄碎片
+item.enderShard.name=終界碎片
 item.ichorclothHelm.name=靈布頭巾
 item.ichorclothChest.name=靈布法袍
 item.ichorclothLegs.name=靈布護腿
@@ -235,7 +235,7 @@ ttresearch.page.ASPECT_ANALYZER.0=你製造出一臺可以使用電腦來掃描�
 # -- SMOKEY QUARTZ
 ttresearch.name.DARK_QUARTZ=煙黑石英
 ttresearch.lore.DARK_QUARTZ=暗影之日
-ttresearch.page.DARK_QUARTZ.0=煙黑石英肖似普通的石英，但性狀相反。石英為材料的方塊都能用煙黑石英做，但是看起來是黑色的。<BR><BR>煙黑使用可以用煤炭或者木炭以及普通下界石英制成。
+ttresearch.page.DARK_QUARTZ.0=煙黑石英肖似普通的石英，但性狀相反。石英為材料的方塊都能用煙黑石英做，但是看起來是黑色的。<BR><BR>煙黑使用可以用煤炭或者木炭以及普通地獄石英制成。
 
 # -- TOME OF KNOWLEDGE SHARING
 ttresearch.name.SHARE_TOME=知識分享之書
@@ -304,7 +304,7 @@ ttresearch.page.CLEANSING_TALISMAN.0=在研究生命以及肉體時，你發現�
 # -- HYPERENERGETIC NITOR
 ttresearch.name.BRIGHT_NITOR=超能閃耀之光
 ttresearch.lore.BRIGHT_NITOR=昏暗的天色，給我亮起來吧！
-ttresearch.page.BRIGHT_NITOR.0=你試圖創造一種新型的蘊含Potentia源質以及Lux源質的閃耀之光，即使被玩家拿在手裡也能透過活化永恆之焰來照亮四周。<BR><BR>被它釋放出來的光亮將會照亮持有者身後鄰近之處，由於其熱量，在下界時看似留下一道長長的尾跡。
+ttresearch.page.BRIGHT_NITOR.0=你試圖創造一種新型的蘊含Potentia源質以及Lux源質的閃耀之光，即使被玩家拿在手裡也能透過活化永恆之焰來照亮四周。<BR><BR>被它釋放出來的光亮將會照亮持有者身後鄰近之處，由於其熱量，在地獄時看似留下一道長長的尾跡。
 
 # -- WAND FOCUS: TELEKINESIS
 ttresearch.name.FOCUS_TELEKINESIS=法杖核心：念力
@@ -352,7 +352,7 @@ ttresearch.page.TTENCH_AUTO_SMELT.0=你研究出一種憑空召喚火焰的附�
 # -- ENCHANTMENT: DISINTEGRATE
 ttresearch.name.TTENCH_DESINTEGRATE=附魔：解離
 ttresearch.lore.TTENCH_DESINTEGRATE=異界型時崎狂三
-ttresearch.page.TTENCH_DESINTEGRATE.0=你研究出一種能夠快速採集柔軟材料方塊的附魔。<BR><BR>附魔後的工具能夠非常輕易地採集泥土，石頭，地獄巖這種常見的不是非常硬的材料，然後，該工具會變得難以採集其他方塊，且耐久雙倍減少。
+ttresearch.page.TTENCH_DESINTEGRATE.0=你研究出一種能夠快速採集柔軟材料方塊的附魔。<BR><BR>附魔後的工具能夠非常輕易地採集泥土，石頭，地獄岩這種常見的不是非常硬的材料，然後，該工具會變得難以採集其他方塊，且耐久雙倍減少。
 
 # -- ENCHANTMENT: QUICK DRAW
 ttresearch.name.TTENCH_QUICK_DRAW=附魔：即時戰備
@@ -414,13 +414,13 @@ ttresearch.page.FOCUS_SMELT.0=向採掘法杖核心灌注烈焰的力量能得�
 # -- WAND FOCUS: MENDING
 ttresearch.name.FOCUS_HEAL=法杖核心：癒合
 ttresearch.lore.FOCUS_HEAL=繃帶，空洞和感覺
-ttresearch.page.FOCUS_HEAL.0=你知道巖精攜有一種能夠誘發瘟病的核心。你研究出一種方法來利用它獲取好處。<BR><BR>裝有這種法杖核心的法杖在揮舞時會抽取法杖中Vis緩慢治療施法者的傷口。
+ttresearch.page.FOCUS_HEAL.0=你知道岩精攜有一種能夠誘發瘟病的核心。你研究出一種方法來利用它獲取好處。<BR><BR>裝有這種法杖核心的法杖在揮舞時會抽取法杖中Vis緩慢治療施法者的傷口。
 
 # -- WAND FOCUS: ENDER RIFT
-ttresearch.name.FOCUS_ENDER_CHEST=法杖核心： 末影裂痕
+ttresearch.name.FOCUS_ENDER_CHEST=法杖核心： 終界裂痕
 ttresearch.lore.FOCUS_ENDER_CHEST=對第四維度的打包
-ttresearch.page.FOCUS_ENDER_CHEST.0=將行動式洞穴與魔力手鏡融合，你做出一種能夠用末影力量撕裂空間的法杖核心，使得你能夠隨時遠距離開啟自己的末影箱子。
-ttresearch.page.FOCUS_ENDER_CHEST.ES=透過將魔力手鏡和行動式洞穴核心結合，你做出了一個能產生撕裂出末影裂痕的核心，讓你能遠距離使用末影箱子。 <BR> Shift右擊末影箱子將核心設定為它的顏色，或shift右擊黑曜石塊設定為原版的末影箱。
+ttresearch.page.FOCUS_ENDER_CHEST.0=將行動式洞穴與魔力手鏡融合，你做出一種能夠用終界力量撕裂空間的法杖核心，使得你能夠隨時遠距離開啟自己的終界箱子。
+ttresearch.page.FOCUS_ENDER_CHEST.ES=透過將魔力手鏡和行動式洞穴核心結合，你做出了一個能產生撕裂出終界裂痕的核心，讓你能遠距離使用終界箱子。 <BR> Shift右擊終界箱子將核心設定為它的顏色，或shift右擊黑曜石塊設定為原版的終界箱。
 
 # -- CURSED SPIRIT'S BLADE
 ttresearch.name.BLOOD_SWORD=咒靈之劍
@@ -469,12 +469,12 @@ ttresearch.page.PLATFORM.0=你設計出一種方塊，僅對佇立於其上的�
 # -- DIMENSIONAL SHARDS
 ttresearch.name.DIMENSION_SHARDS=次元裂片
 ttresearch.lore.DIMENSION_SHARDS=自新世界的珍奇
-ttresearch.page.DIMENSION_SHARDS.0=類似主世界，下界和末地同樣也有獨特的水晶碎片，有時候它們會極少見地出現在原住民，比如下界的殭屍豬人或者末地的末影人，手中。或許它們在今後的某些研究裡能派得上用場，儘管你還不能非常確定。 <BR><BR><IMG>ttinkerer:textures/items/netherShard.png:0:0:255:255:0.0625</IMG><IMG>ttinkerer:textures/items/enderShard.png:0:0:255:255:0.0625</IMG>
+ttresearch.page.DIMENSION_SHARDS.0=類似主世界，地獄和末地同樣也有獨特的水晶碎片，有時候它們會極少見地出現在原住民，比如地獄的殭屍豬人或者末地的終界人，手中。或許它們在今後的某些研究裡能派得上用場，儘管你還不能非常確定。 <BR><BR><IMG>ttinkerer:textures/items/netherShard.png:0:0:255:255:0.0625</IMG><IMG>ttinkerer:textures/items/enderShard.png:0:0:255:255:0.0625</IMG>
 
 # -- ICHOR
 ttresearch.name.ICHOR=靈液
 ttresearch.lore.ICHOR=神之血
-ttresearch.page.ICHOR.0=涉獵神秘學的全部科類，進行廣泛的研究，你發現了一種物質，你認為它將是你今後竭力研究的物件。<BR><BR>這種極端強大的物質，你名之為“靈液”，蘊含著來自下界之星的天然覺醒之力。你確信今後它將會被廣泛應用於不計其數的裝置。
+ttresearch.page.ICHOR.0=涉獵神秘學的全部科類，進行廣泛的研究，你發現了一種物質，你認為它將是你今後竭力研究的物件。<BR><BR>這種極端強大的物質，你名之為“靈液”，蘊含著來自地獄之星的天然覺醒之力。你確信今後它將會被廣泛應用於不計其數的裝置。
 
 # -- ICHORCLOTH
 ttresearch.name.ICHOR_CLOTH=靈布
@@ -599,11 +599,11 @@ ttresearch.page.FOCUS_RECALL.0=使用仙域之門傳送固然很好，但你決�
 # -- FIRE
 ttresearch.name.FIRE_IGNIS=元素之焰：離火
 ttresearch.lore.FIRE_IGNIS=往火裡注入……更多的火！
-ttresearch.page.FIRE_IGNIS.0=你想方設法增強超能閃耀之光的破壞力。當你在地上點燃這種火，它就會將所燒的方塊轉變為在下界等價的形式。
+ttresearch.page.FIRE_IGNIS.0=你想方設法增強超能閃耀之光的破壞力。當你在地上點燃這種火，它就會將所燒的方塊轉變為在地獄等價的形式。
 
 ttresearch.name.FIRE_AQUA=元素之焰：坎水
 ttresearch.lore.FIRE_AQUA=火上澆水，該熄了吧
-ttresearch.page.FIRE_AQUA.0=你已能完全逆轉火焰的破壞力。這種火，若在下界燃燒，會將那裡變為你的私家冬季樂園。
+ttresearch.page.FIRE_AQUA.0=你已能完全逆轉火焰的破壞力。這種火，若在地獄燃燒，會將那裡變為你的私家冬季樂園。
 
 ttresearch.name.FIRE_AER=元素之焰：巽風
 ttresearch.lore.FIRE_AER=姑妄信之也是蠻有用的技能
@@ -628,7 +628,7 @@ ttresearch.page.INFUSED_POTIONS.1=你只能直接做出元始源質種子，但�
 ttresearch.page.INFUSED_POTIONS.2=培育作物因不同的源質傾向將會受特定效果影響。Terra源質可以增加土壤中魔法物質的殘留量。Ignis源質有助於融合源質的形成。Ordo源質增加產量。Perditio源質增加種子掉落量。Aer源質使得作物受其他源質的影響效果更顯著。同一株作物受源質影響所產生的傾向不超過50點。
 ttresearch.page.INFUSED_POTIONS.3=有兩種方法能夠賦予作物元始源質傾向。首先，作物會偶然地受相鄰特定源質作物的影響而產生傾向，然而以這種方式同一株植物最多隻能增加同種源質傾向5點。
 ttresearch.page.INFUSED_POTIONS.4=另外，作物還會直接抽走臨近作物的要素傾向，被抽走要素傾向的作物必須擁有相等或更多的要素傾向點。
-ttresearch.page.INFUSED_POTIONS.5=有些作物會產出特殊的穀物，可用於釀造藥水。<BR>地元藥水會在攻擊你的怪物與你之間召喚出障礙物。<BR>火元藥水會讓你的敵人陷入灼燒火球的包圍。<BR>風元藥水會讓你的敵人一衝飛天。<BR>水元藥水則會凝固鄰近的巖漿。
+ttresearch.page.INFUSED_POTIONS.5=有些作物會產出特殊的穀物，可用於釀造藥水。<BR>地元藥水會在攻擊你的怪物與你之間召喚出障礙物。<BR>火元藥水會讓你的敵人陷入灼燒火球的包圍。<BR>風元藥水會讓你的敵人一衝飛天。<BR>水元藥水則會凝固鄰近的岩漿。
 
 # -- WAILA
 ttwaila.nothing=空無一物

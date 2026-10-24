@@ -1,7 +1,7 @@
 tile.mud.mud.name=泥巴
 tile.mud.quicksand.name=流沙
 
-tile.ashStone.name=火山灰巖
+tile.ashStone.name=火山灰岩
 tile.hardSand.name=硬化沙子
 tile.hardDirt.name=硬化泥土
 tile.hardIce.name=硬化冰塊
@@ -15,8 +15,8 @@ tile.rocks.limestone.name=石灰岩
 tile.rocks.limestonesmooth.name=磨製石灰岩
 tile.rocks.siltstone.name=粉砂岩
 tile.rocks.siltstonesmooth.name=磨製粉砂岩
-tile.rocks.shale.name=頁巖
-tile.rocks.shalesmooth.name=磨製頁巖
+tile.rocks.shale.name=頁岩
+tile.rocks.shalesmooth.name=磨製頁岩
 
 tile.ash.name=灰燼塊
 tile.flesh.name=肉塊
@@ -53,7 +53,7 @@ tile.flowers.wildflower.name=野花
 tile.flowers.violet.name=紫羅蘭
 tile.flowers.anemone.name=白銀蓮花
 tile.flowers.lilyflower.name=睡蓮花
-tile.flowers.enderlotus.name=末影蓮
+tile.flowers.enderlotus.name=終界蓮
 tile.flowers.bromeliad.name=鳳梨花
 tile.flowers.eyebulbbottom.name=眼球花
 tile.flowers.eyebulbtop.name=眼球花
@@ -168,7 +168,7 @@ tile.newBopFarmland.loamy.name=肥沃耕地
 tile.bopGrass.spectralmoss.name=幽靈苔蘚
 tile.bopGrass.smolderinggrass.name=陰燃草
 
-tile.gemOre.amethystore.name=末影紫水晶礦石
+tile.gemOre.amethystore.name=終界紫水晶礦石
 tile.gemOre.amethystblock.name=紫水晶塊
 tile.gemOre.rubyore.name=紅寶石礦石
 tile.gemOre.rubyblock.name=紅寶石塊
@@ -366,7 +366,7 @@ item.jarFilled.jarhoney.name=蜂蜜罐
 item.jarFilled.jarpoison.name=毒罐子
 item.jarFilled.jarpixie.name=妖精罐子
 
-item.gems.amethyst.name=末影紫水晶
+item.gems.amethyst.name=終界紫水晶
 item.gems.ruby.name=紅寶石
 item.gems.peridot.name=綠橄欖石
 item.gems.topaz.name=黃玉

@@ -248,7 +248,7 @@ te.text.URN.1B=你在研究中讀到了許多關於'無盡之壺'的東西，一
 --Everburn Urn
 te.name.BURN=煉獄之壺
 te.tag.BURN=為什麼我要用火做？？
-te.text.BURN.1=在研究無盡之壺之後，你找到一種生成巖漿的方法。<BR><BR>你發現它和水有所不同，巖漿需要能源，所以你將其稱之為煉獄之罐，它需要Centivis驅動。你的煉獄之壺不僅能夠用桶來裝巖漿，它也能夠從頂部輸出到外部的儲罐。
+te.text.BURN.1=在研究無盡之壺之後，你找到一種生成岩漿的方法。<BR><BR>你發現它和水有所不同，岩漿需要能源，所以你將其稱之為煉獄之罐，它需要Centivis驅動。你的煉獄之壺不僅能夠用桶來裝岩漿，它也能夠從頂部輸出到外部的儲罐。
 
 --Crucible of Souls
 te.name.CRUCSOULS=靈魂坩堝
@@ -315,7 +315,7 @@ te.text.ENCHDISARM.1=你做出了一個有小几率從生物手中打落武器�
 --Binding Enchantment
 te.name.ENCHBINDING=附魔： 束縛
 te.tag.ENCHBINDING=還想跑？
-te.text.ENCHBINDING.1=你做出了一個能封鎖生物行動的附魔。<BR><BR>該附魔能用於劍。附魔1級的劍擊打生物會暫時減緩它們的行動。用附魔2級的劍攻擊末影人將會阻止它們的瞬間移動。擊打苦力怕則會暫時使它們無法爆炸。
+te.text.ENCHBINDING.1=你做出了一個能封鎖生物行動的附魔。<BR><BR>該附魔能用於劍。附魔1級的劍擊打生物會暫時減緩它們的行動。用附魔2級的劍攻擊終界人將會阻止它們的瞬間移動。擊打苦力怕則會暫時使它們無法爆炸。
 
 --Night Vision Enchantment
 te.name.ENCHNIGHTVISION=附魔： 夜視
