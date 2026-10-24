@@ -40,7 +40,7 @@ tile.baseTierThreeBlock.name=炮塔基座（四級）
 tile.baseTierFourBlock.name=炮塔基座（五級）
 
 tile.disposeItemTurret.name=低階投射炮塔
-tile.potatoCannonTurret.name=土豆加農炮塔
+tile.potatoCannonTurret.name=馬鈴薯加農炮塔
 tile.rocketTurret.name=火箭發射炮塔
 tile.teleporterTurret.name=傳送炮塔
 tile.machineGunTurret.name=機關槍炮塔
@@ -153,7 +153,7 @@ turret.ammo.2=榴彈
 turret.ammo.3=制導火箭
 turret.ammo.4=無需
 turret.ammo.5=鐵磁彈
-turret.ammo.6=土豆
+turret.ammo.6=馬鈴薯
 turret.ammo.7=燃燒彈
 
 base.tier.1=一級炮塔基座

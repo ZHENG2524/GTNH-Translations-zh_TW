@@ -78,8 +78,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.name=§9§l橡樹不是蘋果樹
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.desc=橡樹會掉蘋果？誰把這鬼設定加到Minecraft裡的？%n你發現將蘋果和橡樹樹苗合成，可以得到蘋果樹苗。試著種一棵，就能有個永久的食物來源了。
 
 # Quest: "Baked" Potatoes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=§9§l土豆的三種吃法
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=生吃土豆不太健康——你可能已經注意到了。有些土豆發綠，是有毒的。有了熔爐，就能做出美味的烤土豆，多一種食物選擇。把烤土豆用根木棍串起來，味道會更棒。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=§9§l馬鈴薯的三種吃法
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=生吃馬鈴薯不太健康——你可能已經注意到了。有些馬鈴薯發綠，是有毒的。有了熔爐，就能做出美味的烤馬鈴薯，多一種食物選擇。把烤馬鈴薯用根木棍串起來，味道會更棒。
 
 # Quest: Soft Mallet Adventure
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=§9§l軟錘大冒險！
@@ -943,7 +943,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=將你的蒸汽合金爐升級�
 
 # Quest: Gotta Catch 'em All
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=§2§l目標是寶〇夢大師
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=當然，你可以用小麥/土豆/胡蘿蔔，拐騙動物跟隨你回到基地，但這比較麻煩。黃金套索才是轉移動物的正確姿勢。%n%n你可以用黃金套索捕捉§o任何§r被動型生物，比如把村民帶回基地，或是帶著一匹馬過河。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=當然，你可以用小麥/馬鈴薯/胡蘿蔔，拐騙動物跟隨你回到基地，但這比較麻煩。黃金套索才是轉移動物的正確姿勢。%n%n你可以用黃金套索捕捉§o任何§r被動型生物，比如把村民帶回基地，或是帶著一匹馬過河。
 
 # Quest: Basic Monster Prevention
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=§2§l基礎怪物預防
@@ -1311,7 +1311,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAA.desc=使用地震勘探者時，你�
 
 # Quest: Better Gallium and Arsenic Sources
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.name=§2§l鎵和砷的更好來源
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.desc=有幾種方法可以增加你的鎵產量。%n%n1. 尋找鋅礦沙礫並且處理它以獲得鎵。%n%n2. 培育鋅蜜蜂，將獲得的鎵蜂窩和氫氯酸反應。這種蜜蜂不需要太多的蜜蜂育種進度，並且處理其蜂窩只要 LV 電壓。%n%n3. 使用“綠色革命”章節中的作物獲取鋅葉子，可以將粉碎的鋅礦石、閃鋅礦石變為四倍的洗淨礦石。%n%n4. 將熱力離心後的礦石放入HV粉碎機，有10%%的機率獲得鎵粉。%n%n5. 使用月球上豐富的鋁土礦。%n%n6. 擊殺暮色森林中的紅帽地精或紅帽工兵。另外，地精會掉落砷粉。%n%n7. 神秘鍊金複製鎵粒。該方法需要涉足§l禁忌§r研究，所以你可能不想這麼做。%n%n至於砷，暮色森林中的輝鈷礦是不錯的來源，參見任務“鈷和砷從輝鈷來”。%n%n鎳葉草作物可以使輝鈷礦增產至四倍。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.desc=有幾種方法可以增加你的鎵產量。%n%n1. 尋找鋅礦沙礫並且處理它以獲得鎵。%n%n2. 培育鋅蜜蜂，將獲得的鎵蜂窩和鹽酸反應。這種蜜蜂不需要太多的蜜蜂育種進度，並且處理其蜂窩只要 LV 電壓。%n%n3. 使用“綠色革命”章節中的作物獲取鋅葉子，可以將粉碎的鋅礦石、閃鋅礦石變為四倍的洗淨礦石。%n%n4. 將熱力離心後的礦石放入HV粉碎機，有10%%的機率獲得鎵粉。%n%n5. 使用月球上豐富的鋁土礦。%n%n6. 擊殺暮色森林中的紅帽地精或紅帽工兵。另外，地精會掉落砷粉。%n%n7. 神秘鍊金複製鎵粒。該方法需要涉足§l禁忌§r研究，所以你可能不想這麼做。%n%n至於砷，暮色森林中的輝鈷礦是不錯的來源，參見任務“鈷和砷從輝鈷來”。%n%n鎳葉草作物可以使輝鈷礦增產至四倍。
 
 # Quest: Filling the World With Fluids...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNg.name=§2§l用流體填充世界……
@@ -1692,11 +1692,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=乙酸可以由氧氣和乙烯�
 
 # Quest: Iron (III) Chloride
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD_A.name=§6§l三氯化鐵
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD_A.desc=三氯化鐵可以用於蝕刻電路基板。%n想要製取這種液體，你首先需要用氫氣和氯氣製取氫氯酸，然後再將氫氯酸和鐵粉在化學反應釜中混合。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD_A.desc=三氯化鐵可以用於蝕刻電路基板。%n想要製取這種液體，你首先需要用氫氣和氯氣製取鹽酸，然後再將鹽酸和鐵粉在化學反應釜中混合。
 
 # Quest: Sodium Persulfate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD_Q.name=§6§l過硫酸鈉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD_Q.desc=過硫酸鈉可以透過電解硫酸氫鈉粉末獲得。 而硫酸氫鈉則是透過鹽和硫酸在化學反應釜中反應得到。 你可以使用過硫酸鈉來蝕刻電路板，而生產硫酸氫鈉產生的副產物氫氯酸則可以作為日後生產環氧樹脂的基礎原料使用。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD_Q.desc=過硫酸鈉可以透過電解硫酸氫鈉粉末獲得。 而硫酸氫鈉則是透過鹽和硫酸在化學反應釜中反應得到。 你可以使用過硫酸鈉來蝕刻電路板，而生產硫酸氫鈉產生的副產物鹽酸則可以作為日後生產環氧樹脂的基礎原料使用。
 
 # Quest: You're Gonna Hate This in MV Too #2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.name=§6§l你還是會恨死這玩意的：MV篇 #2 
@@ -1755,12 +1755,12 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyg.name=§6§l甘油
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyg.desc=甘油是生產生物柴油的副產物，但它真的很有用。 在EV階段，甘油可以用來製造環氧樹脂，以及……我猜還有炸藥。 但是TNT和工業TNT（iTNT）是更好的選擇。%n%n[note]PS： 炸藥並不是必需品，而環氧樹脂有其他的製造方式，如果你並不想要生物柴油的話。[/note]
 
 # Quest: HCL
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyw.name=§6§l氫氯酸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyw.desc=氫氯酸不只是生產過硫酸鈉的副產物，還是HV/EV階段生產環氧樹脂的重要化工原料。它還能用於成產蜂窩。%n%n你還可以直接用氫和氯合成氫氯酸。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyw.name=§6§l鹽酸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyw.desc=鹽酸不只是生產過硫酸鈉的副產物，還是HV/EV階段生產環氧樹脂的重要化工原料。它還能用於成產蜂窩。%n%n你還可以直接用氫和氯合成鹽酸。
 
 # Quest: Trichlorosilane - continued
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1A.name=§6§l三氯矽烷 續
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1A.desc=在第二個化學反應釜中，再次通入氫氣就可以獲得純化的太陽能級矽。你還可以拿回所有的氫氯酸。%n%n也許你可以自動化這個過程？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1A.desc=在第二個化學反應釜中，再次通入氫氣就可以獲得純化的太陽能級矽。你還可以拿回所有的鹽酸。%n%n也許你可以自動化這個過程？
 
 # Quest: Stainless Taking Too Long?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1g.name=§6§l不鏽鋼太難燒了？
@@ -2281,7 +2281,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfA.desc=現在我們在生丁苯橡膠�
 
 # Quest: Silicone Rubber
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfQ.name=§5§l矽橡膠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfQ.desc=想製作一些矽橡膠？ 首先，你需要氯甲烷。%n%n你可以將2單位氯+1單位甲烷放入化學反應釜，或者使用甲醇和氫氯酸。%n%n有不同的方法可以完成這個目標，這個任務只是一個例子。%n%n§6已經能自動化生產矽橡膠了？手持128個矽橡膠片來跳過該任務。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfQ.desc=想製作一些矽橡膠？ 首先，你需要氯甲烷。%n%n你可以將2單位氯+1單位甲烷放入化學反應釜，或者使用甲醇和鹽酸。%n%n有不同的方法可以完成這個目標，這個任務只是一個例子。%n%n§6已經能自動化生產矽橡膠了？手持128個矽橡膠片來跳過該任務。
 
 # Quest: Dimethyldichlorosilane
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfg.name=§5§l二甲基氯矽烷
@@ -2405,7 +2405,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALZQ.desc=在本階段你還用不到它�
 
 # Quest: Bauxite Slag
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALng.name=§5§l鋁土礦渣
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALng.desc=現在，這些泥漿可以在一個化學反應釜中被分離。除了我們直接獲得的氧化鋁，最重要的部分是鋁土礦渣，我們將繼續加工它。你也可以繼續離心鋁土滷水，再拿到一些額外的副產品。%n%n如果你還沒有氫氧化鋁，去NEI裡找找看。你可以從鋁酸鈉或紅寶石、藍寶石或綠色藍寶石裡得到它。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALng.desc=現在，這些泥漿可以在一個化學反應釜中被分離。除了我們直接獲得的氧化鋁，最重要的部分是鋁土礦渣，我們將繼續加工它。你也可以繼續離心鋁土鹵水，再拿到一些額外的副產品。%n%n如果你還沒有氫氧化鋁，去NEI裡找找看。你可以從鋁酸鈉或紅寶石、藍寶石或綠色藍寶石裡得到它。
 
 # Quest: Gallium and more
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALoA.name=§5§l鎵，還有更多
@@ -2594,7 +2594,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzQ.desc=下一系列的電路需要環�
 
 # Quest: Bisphenol A
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzg.name=§8§l雙酚A
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzg.desc=製作環氧樹脂的下一步是獲取雙酚A。在化學反應釜中結合苯酚、丙酮、氫氯酸製取。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzg.desc=製作環氧樹脂的下一步是獲取雙酚A。在化學反應釜中結合苯酚、丙酮、鹽酸製取。
 
 # Quest: HSS-G
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF0w.name=§8§l高速鋼-G
@@ -3007,7 +3007,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJBw.desc=羅斯128b是一顆很棒且宜
 
 # Quest: Final Separation - Iridium & Osmium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJCA.name=§9§l最後一次分離-銥&鋨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJCA.desc=鋨和銥的提取非常棘手。你需要加熱並使用氫氯酸才能將其從稀有金屬渣中提取出來，不過我們已經接近尾聲了。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJCA.desc=鋨和銥的提取非常棘手。你需要加熱並使用鹽酸才能將其從稀有金屬渣中提取出來，不過我們已經接近尾聲了。
 
 # Quest: Removing Sludge From the Iridium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJCQ.name=§9§l取出泥渣獲得銥
@@ -3023,15 +3023,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJCw.desc=酸性鋨溶液濃度不足以�
 
 # Quest: Dissolve Ir
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDA.name=§9§l溶解銥
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDA.desc=用氫氯酸溶解二氧化銥，製得酸性銥溶液。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDA.desc=用鹽酸溶解二氧化銥，製得酸性銥溶液。
 
 # Quest: Osmium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDQ.name=§9§l鋨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDQ.desc=你已濃縮了溶液，現在是時候從中收集固體鋨了。繼續吧，將其與氫氯酸混合。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDQ.desc=你已濃縮了溶液，現在是時候從中收集固體鋨了。繼續吧，將其與鹽酸混合。
 
 # Quest: Ruthenium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDg.name=§9§l釕
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDg.desc=製取釕的最後一步就是將之前獲得的粉末與氫氯酸反應。除了釕，產物還有氯和水。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDg.desc=製取釕的最後一步就是將之前獲得的粉末與鹽酸反應。除了釕，產物還有氯和水。
 
 # Quest: Even More Chlorine Needed
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJDw.name=§9§l需要更多的氯
@@ -3123,11 +3123,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5g.desc=是的，你沒看錯，篩選�
 
 # Quest: Hafnium Line
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5w.name=§9§l鉿處理線
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5w.desc=但是，對鉿的處理在此處有一個重要區別。依循這一條小任務線可以獲得更多資訊。%n%n首先，你需要將氧化鉿與氫氯酸放在一起反應。%n%n然後，類似鋯，你需要的是溶液而非粉末。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL5w.desc=但是，對鉿的處理在此處有一個重要區別。依循這一條小任務線可以獲得更多資訊。%n%n首先，你需要將氧化鉿與鹽酸放在一起反應。%n%n然後，類似鋯，你需要的是溶液而非粉末。
 
 # Quest: Zirconium Line
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL6A.name=§9§l鋯處理線
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL6A.desc=鋯處理線的開端，同樣是將氧化鋯與氫氯酸進行反應。%n%n氧化鋯粉本身基本沒用，不過……做成溶液就有相當多的可能了。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL6A.desc=鋯處理線的開端，同樣是將氧化鋯與鹽酸進行反應。%n%n氧化鋯粉本身基本沒用，不過……做成溶液就有相當多的可能了。
 
 # Quest: EBF Time
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL6Q.name=§9§l工業高爐時間
@@ -3239,7 +3239,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCA.desc=是的，你沒看錯：一條�
 
 # Quest: Not Quite Ferromagnetic...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCQ.name=§9§l鐵磁性不太強……
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCQ.desc=……但是足夠電磁離析機將其分離。%n%n現在，你獲得了氧化銪（III）和一些更稀有的稀土，我們稱之為罕土。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCQ.desc=……但是足夠電磁離析機將其分離。%n%n現在，你獲得了氧化銪（III）和一些更稀有的稀土，我們稱之為稀土。
 
 # Quest: EuO
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMCg.name=§9§l氧化銪（EuO）
@@ -3287,7 +3287,7 @@ betterquesting.quest.VoQ7oLYhTjuomLCz_ddOhA.desc=此工具可以很快的開採�
 
 # Quest: Concentrated Samarium
 betterquesting.quest.ZXyJX8zNTQW6swu0OsE03Q.name=§9§l濃縮釤
-betterquesting.quest.ZXyJX8zNTQW6swu0OsE03Q.desc=用草酸將釤離子沉澱下來。然後用氫氯酸洗滌草酸釤，得到氯化釤（不純）。這氯化釤粉便是提取釤的基礎材料了。%n%n從材料裡分離釤這兒有兩種方法，一種適用當前IV階段，一種稍後在LuV階段解鎖。
+betterquesting.quest.ZXyJX8zNTQW6swu0OsE03Q.desc=用草酸將釤離子沉澱下來。然後用鹽酸洗滌草酸釤，得到氯化釤（不純）。這氯化釤粉便是提取釤的基礎材料了。%n%n從材料裡分離釤這兒有兩種方法，一種適用當前IV階段，一種稍後在LuV階段解鎖。
 
 # Quest: Long term planner?
 betterquesting.quest.fvz-5lJaRAqfsM1hcAYOng.name=§9§l等下你確定？
@@ -4996,7 +4996,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPg.desc=大部分的水果都可以榨�
 
 # Quest: Potato Cakes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPw.name=馬鈴薯蛋糕
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPw.desc=用土豆、洋蔥、黃油和平底鍋來製作非常美味的馬鈴薯蛋糕！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPw.desc=用馬鈴薯、洋蔥、黃油和平底鍋來製作非常美味的馬鈴薯蛋糕！
 
 # Quest: Fried Eggs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQA.name=煎雞蛋
@@ -5076,7 +5076,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPw.desc=現在你有了麵糰，有多�
 
 # Quest: No Chicken Escapes!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.name=雞，一隻也別想跑！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.desc=你喜歡派嗎？當然！  有許多種派可供選擇。  雞肉派是最容易做的派之一。只需生雞肉、土豆、胡蘿蔔和麵團。水果派要簡單一點，所以提供的飽和度不太多，但是在你等待最好食物的過程中，它們對填飽肚子很有用。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.desc=你喜歡派嗎？當然！  有許多種派可供選擇。  雞肉派是最容易做的派之一。只需生雞肉、馬鈴薯、胡蘿蔔和麵團。水果派要簡單一點，所以提供的飽和度不太多，但是在你等待最好食物的過程中，它們對填飽肚子很有用。
 
 # Quest: Pumpkin Pie
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJhw.name=南瓜派
@@ -6063,7 +6063,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=巨大的攻擊力，和美妙�
 
 # Quest: Protect Your Base: Tier 1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=§5§l保護你的基地：第1級
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=一個人要用適當的方式來保衛他的家。那麼為什麼不用炮塔來保衛安全呢？目前有2種炮塔可供選擇：“土豆”和“一次性物品”。我想你能猜到它們是用來幹什麼的，以及它們是如何工作的……（不，我不能）
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=一個人要用適當的方式來保衛他的家。那麼為什麼不用炮塔來保衛安全呢？目前有2種炮塔可供選擇：“馬鈴薯”和“一次性物品”。我想你能猜到它們是用來幹什麼的，以及它們是如何工作的……（不，我不能）
 
 # Quest: Passive Defence
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeQ.name=§5§l被動防禦
@@ -9136,7 +9136,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMfA.desc=最強大的核裂變發電機�
 
 # Quest: Maxed-out LFTR
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMfQ.name=液態氟釷反應爐最大化輸出
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMfQ.desc=一臺使用燃料3的LuV級液態氟釷反應爐，每t可輸出4A-ZPM，即524,288 EU/t。每桶燃料燃值為1,048,576,000,000 EU，超過1T EU！ 顯然，這是你目前擁有的，能量密度最高的燃料，你可以將其用於為核融合或更高階的機器供電，更強大，更簡單。但是等等，還可以更高！%n%n你可能已經注意到了，製備燃料1和燃料2的最佳配方，其限制因素為枯竭鈾熔鹽（最終合成LFTR基燃料）。它的數量不足導致你一直無法拋棄低效的4輸入燃料配方。但是，燃料3所增加的枯竭鈾熔鹽輸出，以及氦滌枯竭鈾熔鹽取代常規處理方式所得到的雙倍收穫，意味著你可以從此開始使用2輸入配方合成所有燃料了！如果你還未建造氣滌塔，別猶豫了。%n%n等你建成氣滌塔後，可以將自己現有的兩座燃料精煉廠都設定為2輸入配方。每桶燃料3需要9000秒進行合成，而消耗時間為4000秒，因此最好為每座液態氟釷反應爐配備多座燃料精煉廠。 有了這些後，你製造燃料的速度就可以大大加快，同時可以生產遠超以往的EU。如果你繼續擴大規模，液態氟釷反應爐很有可能比肩1級核融合發電。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMfQ.desc=一臺使用燃料3的LuV級液態氟釷反應爐，每t可輸出4A-ZPM，即524,288 EU/t。每桶燃料燃值為1,048,576,000,000 EU，超過1T EU！ 顯然，這是你目前擁有的，能量密度最高的燃料，你可以將其用於為核融合或更高階的機器供電，更強大，更簡單。但是等等，還可以更高！%n%n你可能已經注意到了，製備燃料1和燃料2的最佳配方，其限制因素為枯竭鈾熔鹽（最終合成LFTR基燃料）。它的數量不足導致你一直無法拋棄低效的4輸入燃料配方。但是，燃料3所增加的枯竭鈾熔鹽輸出，以及氦氣鼓泡處理的枯竭鈾熔鹽取代常規處理方式所得到的雙倍收穫，意味著你可以從此開始使用2輸入配方合成所有燃料了！如果你還未建造氣滌塔，別猶豫了。%n%n等你建成氣滌塔後，可以將自己現有的兩座燃料精煉廠都設定為2輸入配方。每桶燃料3需要9000秒進行合成，而消耗時間為4000秒，因此最好為每座液態氟釷反應爐配備多座燃料精煉廠。 有了這些後，你製造燃料的速度就可以大大加快，同時可以生產遠超以往的EU。如果你繼續擴大規模，液態氟釷反應爐很有可能比肩1級核融合發電。
 
 # Quest: Radioactivity's Additives
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMfg.name=放射性新增劑
@@ -9637,7 +9637,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKhg.desc=將煤焦油和硫酸混合以�
 
 # Quest: Serious Upgrades
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKhw.name=§9§l重大升級
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKhw.desc=如果你覺得“嘿，這個紫色的東西還不錯，為什麼不做綠色的呢？”好吧，首先，你可能需要專業協助。其次，你需要進入ZPM階段才能製造所需的機械方塊，完畢。一臺ZPM的合金冶煉爐是製作部件必不可少的機器，所以等你製造出ZPM能源倉再來吧。%n%n你可能可以自行解決大部分問題，但請記住，某些材料需要在合金冶煉爐中才能製成，固化，打粉，然後作為另一配方的原料重新投入合金冶煉爐中。比如：路菲恩化合物需要的哈斯特洛依合金-N，以及錸和鏑。錸是由非標合金冶煉爐配方製出的，而鏑需要稀土（III）或前往廢土世界才能製得。你還需要稀土（II）或稀土（III）中的鐿或者再次前往廢土世界。[warn]廢土世界礦脈可能非常難找，因為它非常稀有。[/warn]你也可以試試透過GT++的研磨機和浮選機從鐵鋁榴石礦石中提取鐿。%n%n玩得開心！%n%n[note]幾乎可以肯定，你將需要的比任務要求的多，但一如既往，確切的數量取決於你的倉室/匯流排數量。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKhw.desc=如果你覺得“嘿，這個紫色的東西還不錯，為什麼不做綠色的呢？”好吧，首先，你可能需要專業協助。其次，你需要進入ZPM階段才能製造所需的機械方塊，完畢。一臺ZPM的合金冶煉爐是製作部件必不可少的機器，所以等你製造出ZPM能源倉再來吧。%n%n你可能可以自行解決大部分問題，但請記住，某些材料需要在合金冶煉爐中才能製成，固化，打粉，然後作為另一配方的原料重新投入合金冶煉爐中。比如：路菲恩化合物需要的哈氏合金-N，以及錸和鏑。錸是由非標合金冶煉爐配方製出的，而鏑需要稀土（III）或前往廢土世界才能製得。你還需要稀土（II）或稀土（III）中的鐿或者再次前往廢土世界。[warn]廢土世界礦脈可能非常難找，因為它非常稀有。[/warn]你也可以試試透過GT++的研磨機和浮選機從鐵鋁榴石礦石中提取鐿。%n%n玩得開心！%n%n[note]幾乎可以肯定，你將需要的比任務要求的多，但一如既往，確切的數量取決於你的倉室/匯流排數量。[/note]
 
 # Quest: Tier 7 Control Computer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKjg.name=7階火箭控制電腦
@@ -11571,7 +11571,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbg.desc=生長蜂是水果蜂培育線�
 
 # Quest: Copper
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.name=銅蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.desc=銅蜂是金屬培育線蜜蜂的第一步。金屬育種線種類繁多，無法在此逐一詳述，但現在你可以使用NEI檢視如何培育更多種類的蜜蜂。銅蜂需要在蜂箱下方有個銅塊。由莊嚴蜂和黏土蜂雜交培育而來。%n%n離心處理銅蜂窩有很高的機率獲得銅粉，但你還能看到一個使用氫氯酸以1：1比例進行轉化的化學反應釜配方。你已經有幾種蜜蜂能獲取氯，所以應該考慮儘快建立一條持續的氫氯酸生產線。你之後將§l必須§r使用氫氯酸，而離心處理的選項將不再適用於後續的蜂窩。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.desc=銅蜂是金屬培育線蜜蜂的第一步。金屬育種線種類繁多，無法在此逐一詳述，但現在你可以使用NEI檢視如何培育更多種類的蜜蜂。銅蜂需要在蜂箱下方有個銅塊。由莊嚴蜂和黏土蜂雜交培育而來。%n%n離心處理銅蜂窩有很高的機率獲得銅粉，但你還能看到一個使用鹽酸以1：1比例進行轉化的化學反應釜配方。你已經有幾種蜜蜂能獲取氯，所以應該考慮儘快建立一條持續的鹽酸生產線。你之後將§l必須§r使用鹽酸，而離心處理的選項將不再適用於後續的蜂窩。
 
 # Quest: Clay
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcw.name=黏土蜂
@@ -12814,7 +12814,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAETg.desc=你成為了一位熟練的神�
 
 # Quest: Stable Division Sigil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUQ.name=偽逆徽章
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUQ.desc=偽逆徽章的儀式要比啟用分割徽章的儀式要困難得多。進行過這個儀式之後你的徽章將變得異常穩定，用其製作出的金屬錠也不會爆炸，且徽章的耐久無限。%n%n這個儀式需要在末地進行。 儀式是透過在末地一片比較平坦的區域放置一個信標，周圍環繞上螺旋狀的紅石和線（右鍵放置），並且在信標四個面正對方向的線外各放一個箱子。然後在每個箱子內放入一下這些物品：%n%n北：石頭，玻璃，木炭，金錠，鐵錠，烤豬排，烤牛排，陶瓦，烤雞肉，仙人掌綠，烤土豆，烤魚。%n南：泥土，草方塊，沙子，沙礫，黏土，以及原版礦石每種一個。%n東：12種效果不同的藥水。%n西：12張不同的唱片。%n%n手持啟用的分割徽章Shift右擊信標可以得到當前儀式的進行進度。%n%n最後在儀式中心殺死一個鐵傀儡，如果儀式成功，將會發生一次爆炸，並摧毀信標和箱子，並且末地裡將會出現100只各種各樣自帶加速buff並仇恨鎖定玩家的怪物，你需要將它們全部殺光。在沒有完成儀式之前如果玩家離開末地或者死亡，儀式將會失敗，你必須重新進行儀式。 擊殺夠足夠數量的怪物後，分割徽章將會變得穩定。 偽逆徽章可以無限使用，合成的“莫比烏斯”穩定/不穩定“錠”將不會爆炸，並且可以使用任意方式進行合成，還可以疊加到64個一組。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUQ.desc=偽逆徽章的儀式要比啟用分割徽章的儀式要困難得多。進行過這個儀式之後你的徽章將變得異常穩定，用其製作出的金屬錠也不會爆炸，且徽章的耐久無限。%n%n這個儀式需要在末地進行。 儀式是透過在末地一片比較平坦的區域放置一個信標，周圍環繞上螺旋狀的紅石和線（右鍵放置），並且在信標四個面正對方向的線外各放一個箱子。然後在每個箱子內放入一下這些物品：%n%n北：石頭，玻璃，木炭，金錠，鐵錠，烤豬排，烤牛排，陶瓦，烤雞肉，仙人掌綠，烤馬鈴薯，烤魚。%n南：泥土，草方塊，沙子，沙礫，黏土，以及原版礦石每種一個。%n東：12種效果不同的藥水。%n西：12張不同的唱片。%n%n手持啟用的分割徽章Shift右擊信標可以得到當前儀式的進行進度。%n%n最後在儀式中心殺死一個鐵傀儡，如果儀式成功，將會發生一次爆炸，並摧毀信標和箱子，並且末地裡將會出現100只各種各樣自帶加速buff並仇恨鎖定玩家的怪物，你需要將它們全部殺光。在沒有完成儀式之前如果玩家離開末地或者死亡，儀式將會失敗，你必須重新進行儀式。 擊殺夠足夠數量的怪物後，分割徽章將會變得穩定。 偽逆徽章可以無限使用，合成的“莫比烏斯”穩定/不穩定“錠”將不會爆炸，並且可以使用任意方式進行合成，還可以疊加到64個一組。
 
 # Quest: Magic "Staffter"
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpw.name=魔法“手權杖”
