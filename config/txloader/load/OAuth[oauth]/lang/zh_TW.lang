@@ -3,7 +3,7 @@ oauth.status.loading=狀態：載入中
 oauth.status.online=狀態：線上
 oauth.status.offline=狀態：離線
 
-oauth.screen.title=選擇賬號型別
+oauth.screen.title=選擇賬號類型
 oauth.btn.login.mojang=Mojang登入
 oauth.btn.login.microsoft=微軟登入
 

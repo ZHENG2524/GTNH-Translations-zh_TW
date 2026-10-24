@@ -59,9 +59,9 @@ thaumicenergistics.item.cell.microscope.name=元件顯微鏡
 #Tooltips
 thaumicenergistics.tooltip.itemstack.details=按住§eCTRL§f檢視詳細資訊.
 thaumicenergistics.tooltip.essentia.cell.contains=包含
-thaumicenergistics.tooltip.essentia.cell.creative=無限供應所有源質型別。
+thaumicenergistics.tooltip.essentia.cell.creative=無限供應所有源質類型。
 thaumicenergistics.tooltip.essentia.cell.bytes=位元組已使用.
-thaumicenergistics.tooltip.essentia.cell.types=源質型別儲存.
+thaumicenergistics.tooltip.essentia.cell.types=源質類型儲存.
 thaumicenergistics.tooltip.button.void=允許清空
 thaumicenergistics.tooltip.button.void.disabled=不清空源質
 thaumicenergistics.tooltip.button.void.allowed=罐子溢滿時清空源質
@@ -124,13 +124,13 @@ thaumicenergistics.research_page.TESTORAGE.2=§l元件§r<BR>儲存元件以數�
 # Research IO
 tc.research_name.thaumicenergistics.TEIO=數位化源質運輸
 tc.research_text.thaumicenergistics.TEIO=即時運輸源質。
-thaumicenergistics.research_page.TEIO.1=現在你已經知道了如何數字化源質，是時候投入實際使用了。<LINE>§l輸入&輸出§r<BR>透過組合恰當的核心，源質管道與源質罐子你就能輸入或輸出網路內的源質儲存。源質過濾管道的使用讓你能設定可輸送的源質型別。
+thaumicenergistics.research_page.TEIO.1=現在你已經知道了如何數字化源質，是時候投入實際使用了。<LINE>§l輸入&輸出§r<BR>透過組合恰當的核心，源質管道與源質罐子你就能輸入或輸出網路內的源質儲存。源質過濾管道的使用讓你能設定可輸送的源質類型。
 thaumicenergistics.research_page.TEIO.2=§l儲存匯流排§r<BR>將輸入和輸出匯流排併入一個裝置中，讓你可以將外部的源質容器讀取到網路中。<BR>除了儲存之外，匯流排還可以使用虛空罐子或者物質聚合器來清除多餘的源質。若使用虛空罐子，你需要在GUI中設定允許使用虛空罐子。在這裡強烈建議為儲存匯流排設定低優先順序。
 
 # Research Arcane crafting terminal
 tc.research_name.thaumicenergistics.TEARCANETERM=奧術合成終端
 tc.research_text.thaumicenergistics.TEARCANETERM=利用魔法§o與科技§r來合成
-thaumicenergistics.research_page.TEARCANETERM.1=你已發現將初始源質注入§l終端§r和§l奧術工作臺§r，就能賦予終端合成奧術物品的能力。<BR>終端仍保有其訪問ME網路中物品的能力，保證了快速高效的合成，還提供了儲存並交換護甲的能力，在你需要快速減免Vis消耗時你會用到的。
+thaumicenergistics.research_page.TEARCANETERM.1=你已發現將初始源質注入§l終端§r和§l奧術工作台§r，就能賦予終端合成奧術物品的能力。<BR>終端仍保有其訪問ME網路中物品的能力，保證了快速高效的合成，還提供了儲存並交換護甲的能力，在你需要快速減免Vis消耗時你會用到的。
 
 # Research Essentia Provider
 tc.research_name.thaumicenergistics.TEESSPROV=源質供應器
@@ -219,7 +219,7 @@ tc.research_name.thaumicenergistics.TECELLMICROSCOPE=元件顯微學
 tc.research_text.thaumicenergistics.TECELLMICROSCOPE=風夸克與地夸克
 thaumicenergistics.research_page.TECELLMICROSCOPE.1=經過仔細的研究與實驗，你發明瞭一種顯微掃描裝置，可以生成儲存元件中所包含能量的詳細影象。 這個過程十分複雜，在此過程中元件需要處於地面上。<LINE>元件中包含的所有物品都將被掃描，就像使用§l魔導透鏡§r掃描一樣。
 thaumicenergistics.fluid.gaseous=超臨界流體
-thaumicenergistics.block.essentia.cell.workbench.name=源質元件工作臺
+thaumicenergistics.block.essentia.cell.workbench.name=源質元件工作台
 thaumicenergistics.aeparts.essentia.levelemitter.name=源質發信器
 thaumicenergistics.aeparts.essentia.terminal.name=源質終端
 thaumicenergistics.aeparts.essentia.storage.monitor.name=源質儲存監控器
@@ -227,7 +227,7 @@ thaumicenergistics.aeparts.essentia.conversion.monitor.name=源質交換監控�
 thaumicenergistics.item.wireless.essentia.terminal.name=無線源質終端
 thaumicenergistics.gui.arcane.crafting.terminal.title=奧術終端
 thaumicenergistics.gui.essentia.cell.title=源質元件
-thaumicenergistics.gui.essentia.cell.workbench.title=源質元件工作臺
+thaumicenergistics.gui.essentia.cell.workbench.title=源質元件工作台
 tc.research_name.thaumicenergistics.TEESSTERM=源質終端
 tc.research_text.thaumicenergistics.TEESSTERM=已知你有多少源質.
 thaumicenergistics.research_page.TEESSTERM.1=§l源質終端§r讓你能看到網路中儲存了多少源質,並提供了用源質容器向終端輸入源質或從中抽取源質的方法.§l源質發信器§r會持續監測網路中的源質等級,並在條件符合時發出紅石訊號.

@@ -223,8 +223,8 @@ tile.blockJar.3.name=虛空罐子
 tile.blockTable.0.name=臺桌
 tile.blockTable.1.name=臺桌
 tile.blockTable.research.name=研究臺
-tile.blockTable.14.name=解構工作臺
-tile.blockTable.15.name=奧術工作臺
+tile.blockTable.14.name=解構工作台
+tile.blockTable.15.name=奧術工作台
 tile.researchtable.noink.0=墨水已耗盡!
 tile.researchtable.noink.1=請補充新的筆與墨!
 tile.blockChestHungry.name=饕餮箱子
@@ -588,7 +588,7 @@ fluid.fluidDeath=死亡之水
 #
 # General Focus Upgrades
 focus.upgrade.potency.name=潛能
-focus.upgrade.potency.text=這種升級能夠提升法杖核心的威力或傷害.額外的傷害效果視核心型別而有所差異,但一般來說增幅為每級20%.
+focus.upgrade.potency.text=這種升級能夠提升法杖核心的威力或傷害.額外的傷害效果視核心類型而有所差異,但一般來說增幅為每級20%.
 focus.upgrade.frugal.name=樸素
 focus.upgrade.frugal.text=這種升級能夠減免使用法杖核心時的部分Vis消耗,每級減免20%.
 focus.upgrade.treasure.name=瑰寶
@@ -654,10 +654,10 @@ golemthreat.7.text=我非常憎恨你.
 golemthreat.8.text=你這酒肉皮囊,去死吧!
 recipe.return=返回
 recipe.clickthrough=點選以研究
-recipe.type.workbench=工作臺
+recipe.type.workbench=工作台
 recipe.type.smelting=冶煉
-recipe.type.workbenchshapeless=工作臺(無序合成)
-recipe.type.arcane=奧術工作臺
+recipe.type.workbenchshapeless=工作台(無序合成)
+recipe.type.arcane=奧術工作台
 recipe.type.crucible=坩堝
 recipe.type.infusion=奧術注魔
 recipe.type.infusionenchantment=注魔附魔
@@ -743,7 +743,7 @@ tc.inst.5=§4危險§0
 tc.adv=高階
 tc.resonator1=§9包含%1$s%2$s源質§0
 tc.resonator2=§5吸力%1$s%2$s§0 
-tc.resonator3=未繫結型別
+tc.resonator3=未繫結類型
 tc.research.purchase=點選以取得此項研究.
 tc.research.short=你缺少獲取此項研究所需的源質.
 tc.research.getprim=點選以獲取此項研究的研究筆記.
@@ -907,7 +907,7 @@ tc.research_page.KNOWFRAG.1=旅途漫漫，你偶然會發現一些古代遺蹟�
 tc.research_name.ASPECTS=魔力源質
 tc.research_text.ASPECTS=萬物構造之源
 tc.research_page.ASPECTS.1=一切造物（道具，物件及生物）均繫於被名為§5“源質”§0的魔力元素。源質描繪了物品的構成及其對魔力元素的偏向。普通的岩石可能蘊含Terra（即拉丁文的大地）源質，而更復雜的事物，比如樹木，甚或生物則可能蘊含多種數量不等的源質。目前已經有50餘種源質被發現。<LINE>有兩類截然不同的源質： §5元始源質§0以及§5複合源質§0。
-tc.research_page.ASPECTS.2=§l元始要素§r是六種最基本的要素型別：§6Aer§0（風之要素），§2Terra§0（地之要素），§cIgnis§0（火之要素），§3Aqua§0（水之要素），§fOrdo§0（秩序要素），§8Perditio§0（混沌要素）。<BR>它們是構成其它要素的基礎。<BR>§l複合要素§r由兩種其它要素複合而成。相對簡單的複合要素由兩種元始要素複合而成，但也存在一些經過多次複合，非常複雜的複合要素。<BR>舉簡單的例子來說，比如§2Terra§0（地之要素）與§3Aqua§0（水之要素）複合可以得到Victus（生命要素）。
+tc.research_page.ASPECTS.2=§l元始要素§r是六種最基本的要素類型：§6Aer§0（風之要素），§2Terra§0（地之要素），§cIgnis§0（火之要素），§3Aqua§0（水之要素），§fOrdo§0（秩序要素），§8Perditio§0（混沌要素）。<BR>它們是構成其它要素的基礎。<BR>§l複合要素§r由兩種其它要素複合而成。相對簡單的複合要素由兩種元始要素複合而成，但也存在一些經過多次複合，非常複雜的複合要素。<BR>舉簡單的例子來說，比如§2Terra§0（地之要素）與§3Aqua§0（水之要素）複合可以得到Victus（生命要素）。
 tc.research_page.ASPECTS.3=若想要檢視一個物品所具備的源質，需要在選中物品時按下潛行鍵（預設shift），這樣你就能看見其蘊含源質的種類和數量。但是你需要先對該物品進行初步的研究，否則其蘊含的源質會顯示未知。<LINE>源質在一定程度上分離於其物件，並且作為純粹的本質物，源質非常具有價值：無論是用作合成的工具還是用於魔法研究。<BR>魔力通常儲存於法杖中，但它也可能以液相儲存，此時我們通常稱其為§5源質§0，為方便起見，本手冊中有時也統一簡稱其為源質。
 #
 tc.research_name.NODES=靈氣和節點
@@ -919,7 +919,7 @@ tc.research_page.NODES.3=<BR>如果其蘊含的Vis都消失了那麼節點本身
 tc.research_name.ORE=礦石
 tc.research_text.ORE=深度發掘
 tc.research_page.ORE.1=§l       §n蘊魔石§r<BR><IMG>thaumcraft:textures/misc/research4.png:0:0:128:128:.6</IMG><BR>有時，當一個靈氣場內的魔力能量過高，魔力會滲入岩石並形成結晶狀的蘊魔礦物。這種魔力晶礦能夠被採掘。
-tc.research_page.ORE.2=這些晶礦按蘊含要素分為多種型別，在神秘學中應用廣泛。<BR>計有六種蘊魔石，分別對應不同的元始要素。<BR><BR><IMG>thaumcraft:textures/misc/research3.png:0:104:96:16:1</IMG><BR>魔力晶礦能夠被聚合成晶簇，晶簇除了能夠為家居增添一些典雅氣質外別無他用，而破壞晶簇能夠取回魔力水晶。
+tc.research_page.ORE.2=這些晶礦按蘊含要素分為多種類型，在神秘學中應用廣泛。<BR>計有六種蘊魔石，分別對應不同的元始要素。<BR><BR><IMG>thaumcraft:textures/misc/research3.png:0:104:96:16:1</IMG><BR>魔力晶礦能夠被聚合成晶簇，晶簇除了能夠為家居增添一些典雅氣質外別無他用，而破壞晶簇能夠取回魔力水晶。
 tc.research_page.ORE.3=§l       §n硃砂§r<BR><IMG>thaumcraft:textures/misc/research3.png:128:128:128:128:.6</IMG><BR>這種泛紅的礦石分佈於地底深處，能夠冶煉成水銀。<BR><BR><IMG>thaumcraft:textures/items/quicksilver.png:0:0:255:255:0.0625</IMG>
 tc.research_page.ORE.4=§l       §n琥珀§r<BR><IMG>thaumcraft:textures/misc/research3.png:0:128:128:128:.6</IMG><BR>這種礦石分佈於地表附近，採掘時會掉落琥珀塊。<BR><BR><IMG>thaumcraft:textures/items/amber.png:0:0:255:255:0.0625</IMG>
 #
@@ -944,15 +944,15 @@ tc.research_name.RESEARCHDUPE=研究複製
 tc.research_text.RESEARCHDUPE=分享即關懷
 tc.research_page.RESEARCHDUPE.1=你已發現複製完整研究筆記的方法。<BR>當你完成研究或將研究筆記放入研究臺時，你會看到一個星形按鈕。如果你攜有筆墨及紙張，並擁有足夠多的可用要素，你可以透過點選這個按鈕來製成該研究的一份複製。<BR>為某項研究製備越多的複製，之後製作複製的成本就會越昂貴。
 #
-tc.research_name.DECONSTRUCTOR=解構工作臺
+tc.research_name.DECONSTRUCTOR=解構工作台
 tc.research_text.DECONSTRUCTOR=當僅僅看一眼並不足夠時
-tc.research_page.DECONSTRUCTOR.1=在神秘使的研究生涯中，難免因欠缺某些方面知識而導致研究受到礙阻。<BR>此時可以藉助解構工作臺進行輔助。這個工作臺能夠將物品分解成最基礎的六種元始源質，從而為你提供研究的突破口。然而這種裝置的限制顯而易見 - 被分解的複合源質並非直接變成組合成它們的源質，而是變成了組成它們的最基礎的元始源質之一，而元始源質如何組合搭配仍然不得而知。<BR>例如分解鐵(蘊含Metallum 
+tc.research_page.DECONSTRUCTOR.1=在神秘使的研究生涯中，難免因欠缺某些方面知識而導致研究受到礙阻。<BR>此時可以藉助解構工作台進行輔助。這個工作台能夠將物品分解成最基礎的六種元始源質，從而為你提供研究的突破口。然而這種裝置的限制顯而易見 - 被分解的複合源質並非直接變成組合成它們的源質，而是變成了組成它們的最基礎的元始源質之一，而元始源質如何組合搭配仍然不得而知。<BR>例如分解鐵(蘊含Metallum 
 tc.research_page.DECONSTRUCTOR.2=源質)按說可以得到2點§2Terra§0源質和1點§8Ordo§0源質，但你只能由一定機率得知其中一種元始源質。<BR>而且，這臺裝置效率極低，當物品中蘊含源質越少，能有所發現就越難。
 #
 tc.research_name.BASICTHAUMATURGY=基礎法杖工藝
 tc.research_text.BASICTHAUMATURGY=你的第一柄工具
 tc.research_page.BASICTHAUMATURGY.1=這柄鑄造法杖是你作為神秘使最為基本也最為重要的工具。它將用於建立物品，啟用特殊方塊（比如坩堝）以及其他數不清的任務。<BR>最基礎的法杖自身會儲存極為有限數量的魔力（稱為vis）以完成一些基本功能。為了補充法杖Vis，你需要右擊靈氣節點來吸收其內的Vis。<BR>手持法杖時，螢幕左上角會顯示其記憶體儲的Vis種類和數量。
-tc.research_page.BASICTHAUMATURGY.2=按住shift時會顯示標註Vis數量的額外數字以及完成特定功能時使用Vis的可能減免。<BR>法杖使用杖柄和兩個杖端製作而成。隨著研究的深入，你一定能發現許多不同的杖柄以及杖端材料來製作各種強力法杖。在普通工作臺中只能製作最基礎的法杖。而其他法杖均需要在§5奧術工作臺§0中消耗Vis製作。<BR>最基礎的法杖使用普通的木材和鐵製作，都是些最廉價的魔法材料。
+tc.research_page.BASICTHAUMATURGY.2=按住shift時會顯示標註Vis數量的額外數字以及完成特定功能時使用Vis的可能減免。<BR>法杖使用杖柄和兩個杖端製作而成。隨著研究的深入，你一定能發現許多不同的杖柄以及杖端材料來製作各種強力法杖。在普通工作台中只能製作最基礎的法杖。而其他法杖均需要在§5奧術工作台§0中消耗Vis製作。<BR>最基礎的法杖使用普通的木材和鐵製作，都是些最廉價的魔法材料。
 #
 tc.research_name.GRATE=物品格柵
 tc.research_text.GRATE=好的都進來
@@ -1000,11 +1000,11 @@ tc.research_page.CAP_gold.1=金是比鐵更好的魔導介質，使用金杖端�
 #
 tc.research_name.CAP_thaumium=神秘杖端
 tc.research_text.CAP_thaumium=神秘法杖核心
-tc.research_page.CAP_thaumium.1=神秘錠以其優良的法力吸納能力而著稱，因此使用它來製作杖端是非常明智的選擇。它在匯聚各種種類的魔力時都非常高效。<BR>僅僅在奧術工作臺中製做出的法杖杖端還不能馬上投入使用 - 還需要灌注額外的Vis使其啟用。
+tc.research_page.CAP_thaumium.1=神秘錠以其優良的法力吸納能力而著稱，因此使用它來製作杖端是非常明智的選擇。它在匯聚各種種類的魔力時都非常高效。<BR>僅僅在奧術工作台中製做出的法杖杖端還不能馬上投入使用 - 還需要灌注額外的Vis使其啟用。
 #
 tc.research_name.CAP_silver=銀杖端
 tc.research_text.CAP_silver=低調做事
-tc.research_page.CAP_silver.1=銀作為杖端和金性質相似。但它在傳導4種基本源質（火，地，風，水）的時候效率稍高。<BR>僅僅在奧術工作臺中製做出的法杖杖端還不能馬上投入使用 - 還需要灌注額外的魔力使其啟用。
+tc.research_page.CAP_silver.1=銀作為杖端和金性質相似。但它在傳導4種基本源質（火，地，風，水）的時候效率稍高。<BR>僅僅在奧術工作台中製做出的法杖杖端還不能馬上投入使用 - 還需要灌注額外的魔力使其啟用。
 #
 tc.research_name.CAP_copper=銅杖端
 tc.research_text.CAP_copper=鐵杖端不夠好之時
@@ -1048,36 +1048,36 @@ tc.research_page.ROD_reed.1=甘蔗製作的稍好於宏偉之木杖柄的杖柄�
 #
 tc.research_name.ROD_greatwood_staff=魔法手杖
 tc.research_text.ROD_greatwood_staff=末端帶把手的巫師之杖
-tc.research_page.ROD_greatwood_staff.1=法杖是神秘使的必備行頭，但有時候你總會期望能用上更酷炫的款式。魔法手杖基本上只是一種更大號的法杖。它們能儲存更多Vis。<BR>由於相比法杖它們造得個頭更大也更堅固，應急情況也能用作武器。<BR>不幸的是，這也使得它並不適宜用作複雜工藝，且缺乏奧術工作臺或類似製作平臺所需的精細控制能力。
+tc.research_page.ROD_greatwood_staff.1=法杖是神秘使的必備行頭，但有時候你總會期望能用上更酷炫的款式。魔法手杖基本上只是一種更大號的法杖。它們能儲存更多Vis。<BR>由於相比法杖它們造得個頭更大也更堅固，應急情況也能用作武器。<BR>不幸的是，這也使得它並不適宜用作複雜工藝，且缺乏奧術工作台或類似製作平台所需的精細控制能力。
 tc.research_page.ROD_greatwood_staff.2=宏偉之木製成的手杖儲存Vis是同等材料的法杖的2倍，能夠儲存每種Vis達125單位。<BR>注意：你仍然需要為杖柄新增杖端，就像為法杖一樣。
 #
 tc.research_name.ROD_silverwood_staff=銀樹杖芯
 tc.research_text.ROD_silverwood_staff=魔力入髓
-tc.research_page.ROD_silverwood_staff.1=這種銀樹製成的魔杖能夠容納每種型別的Vis250單位。
+tc.research_page.ROD_silverwood_staff.1=這種銀樹製成的魔杖能夠容納每種類型的Vis250單位。
 #
 tc.research_name.ROD_obsidian_staff=黑曜石杖芯
 tc.research_text.ROD_obsidian_staff=地之Vis容器
-tc.research_page.ROD_obsidian_staff.1=這種黑曜石製成的魔杖能夠容納每種型別的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
+tc.research_page.ROD_obsidian_staff.1=這種黑曜石製成的魔杖能夠容納每種類型的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
 #
 tc.research_name.ROD_bone_staff=白骨杖芯
 tc.research_text.ROD_bone_staff=混沌Vis容器
-tc.research_page.ROD_bone_staff.1=這種白骨製成的魔杖能夠容納每種型別的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
+tc.research_page.ROD_bone_staff.1=這種白骨製成的魔杖能夠容納每種類型的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
 #
 tc.research_name.ROD_blaze_staff=烈焰杖芯
 tc.research_text.ROD_blaze_staff=火之Vis容器
-tc.research_page.ROD_blaze_staff.1=這種烈焰棒製成的魔杖能夠容納每種型別的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
+tc.research_page.ROD_blaze_staff.1=這種烈焰棒製成的魔杖能夠容納每種類型的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
 #
 tc.research_name.ROD_ice_staff=冰霜杖芯
 tc.research_text.ROD_ice_staff=冰之Vis容器
-tc.research_page.ROD_ice_staff.1=這種由冰製成的魔杖能夠容納每種型別的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
+tc.research_page.ROD_ice_staff.1=這種由冰製成的魔杖能夠容納每種類型的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
 #
 tc.research_name.ROD_quartz_staff=石英杖芯
 tc.research_text.ROD_quartz_staff=秩序Vis容器
-tc.research_page.ROD_quartz_staff.1=這種石英制成的魔杖能夠容納每種型別的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
+tc.research_page.ROD_quartz_staff.1=這種石英制成的魔杖能夠容納每種類型的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
 #
 tc.research_name.ROD_reed_staff=甘蔗杖芯
 tc.research_text.ROD_reed_staff=風之Vis容器
-tc.research_page.ROD_reed_staff.1=這種甘蔗製成的魔杖能夠容納每種型別的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
+tc.research_page.ROD_reed_staff.1=這種甘蔗製成的魔杖能夠容納每種類型的Vis175單位。<BR>類似杖柄它也能夠緩慢恢復Vis。
 #
 tc.research_name.ROD_primal_staff=元始杖芯
 tc.research_text.ROD_primal_staff=融合的元素能量
@@ -1085,7 +1085,7 @@ tc.research_page.ROD_primal_staff.1=這種杖芯中韻動著潛在的能量。<B
 #
 tc.research_name.FOCUSFIRE=法杖核心
 tc.research_text.FOCUSFIRE=形式遇上功能
-tc.research_page.FOCUSFIRE.1=得益於一些細緻的實驗，即使是最基礎的法杖，你也為其找到了擴充套件功能的方法。<BR>透過融合魔力水晶晶簇和石英水晶，並灌注以魔力，你將能夠將水晶排布成神秘的陣列。<BR>若透過該陣列匯聚特定型別和數量的魔力，那麼它將重塑天然魔力，使其實用，可控，且面向特定的任務。
+tc.research_page.FOCUSFIRE.1=得益於一些細緻的實驗，即使是最基礎的法杖，你也為其找到了擴充套件功能的方法。<BR>透過融合魔力水晶晶簇和石英水晶，並灌注以魔力，你將能夠將水晶排布成神秘的陣列。<BR>若透過該陣列匯聚特定類型和數量的魔力，那麼它將重塑天然魔力，使其實用，可控，且面向特定的任務。
 tc.research_page.FOCUSFIRE.2=為法杖安裝核心操作並不複雜 - 只需在持有法杖時按下F按鍵，就能安裝上你攜帶的核心。長按F能夠切換你攜帶的不同核心。<LINE>你初次進行的實驗涉及火焰成形原理，這使得你製造出一種簡單而實用的核心。<BR>它能夠向前方發射錐形的火焰，在灼熱的氣浪中焚盡一切。
 #
 tc.research_name.FOCUSFROST=法杖核心：寒霜
@@ -1122,7 +1122,7 @@ tc.research_page.FOCUSPRIMAL.1=要瘋到什麼程度你才會去做出這個玩�
 #
 tc.research_name.FOCUSPOUCH=法杖核心手袋
 tc.research_text.FOCUSPOUCH=法杖核心的便攜口袋
-tc.research_page.FOCUSPOUCH.1=當你已經收集了一定數量的核心後如何方便得攜帶它們就成了惱人的問題，核心手袋就能有效解決該問題。<BR>當你試圖切換法杖核心時，會首先檢查手袋裡的核心型別，且卸除的核心也會優先放置在手袋內。你也可以右鍵開啟手袋來放置或者取出核心。
+tc.research_page.FOCUSPOUCH.1=當你已經收集了一定數量的核心後如何方便得攜帶它們就成了惱人的問題，核心手袋就能有效解決該問題。<BR>當你試圖切換法杖核心時，會首先檢查手袋裡的核心類型，且卸除的核心也會優先放置在手袋內。你也可以右鍵開啟手袋來放置或者取出核心。
 #
 tc.research_name.BOOTSTRAVELLER=旅行者之靴
 tc.research_text.BOOTSTRAVELLER=專業行走裝置
@@ -1134,11 +1134,11 @@ tc.research_page.PHIAL.1=玻璃安瓿能夠盛放各種形式的液體或者其�
 #
 tc.research_name.TABLE=臺桌
 tc.research_text.TABLE=一些裝置安裝所需
-tc.research_page.TABLE.1=臺桌並非僅僅是個裝飾性的方塊 - 比如在魔法實驗中，它還能作為建立奧術工作臺和研究臺的基礎部件。
+tc.research_page.TABLE.1=臺桌並非僅僅是個裝飾性的方塊 - 比如在魔法實驗中，它還能作為建立奧術工作台和研究臺的基礎部件。
 #
-tc.research_name.ARCTABLE=奧術工作臺
+tc.research_name.ARCTABLE=奧術工作台
 tc.research_text.ARCTABLE=魔力合成
-tc.research_page.ARCTABLE.1=對著放置好的臺桌使用法杖（右鍵）就能建立一個奧術工作臺奧術工作臺囊括了普通的木製工作臺的功能。<BR>除去普通的合成，這個工作臺還能用於製作一些神秘學上獨有的道具。合成這種物品時你需要將你的法杖放置在工作臺右上角的位置，這樣製作過程中需要的vis就可以由這個法杖來供給。<BR>合成所需何種vis會顯示在合成網格周圍的六角徽記中。
+tc.research_page.ARCTABLE.1=對著放置好的臺桌使用法杖（右鍵）就能建立一個奧術工作台奧術工作台囊括了普通的木製工作台的功能。<BR>除去普通的合成，這個工作台還能用於製作一些神秘學上獨有的道具。合成這種物品時你需要將你的法杖放置在工作台右上角的位置，這樣製作過程中需要的vis就可以由這個法杖來供給。<BR>合成所需何種vis會顯示在合成網格周圍的六角徽記中。
 #
 tc.research_name.RESTABLE=研究臺
 tc.research_text.RESTABLE=匯焦知識
@@ -1251,12 +1251,12 @@ tc.research_page.PURELEAD.1=原礦簇是稀有而最純淨的金屬聚合物。�
 #
 tc.research_name.TALLOW=魔力油脂
 tc.research_text.TALLOW=魔力熬製的油脂
-tc.research_page.TALLOW.1=在坩堝中熬煉肉塊，你製作出一種具有多種奧術用途的魔力油脂。<BR>這種油脂可以用作製作蠟燭。在奧術工作臺中可以使用顏料為蠟燭染色。
+tc.research_page.TALLOW.1=在坩堝中熬煉肉塊，你製作出一種具有多種奧術用途的魔力油脂。<BR>這種油脂可以用作製作蠟燭。在奧術工作台中可以使用顏料為蠟燭染色。
 #
 tc.research_name.GOLEMSTRAW=稻草傀儡
 tc.research_text.GOLEMSTRAW=簡易魔法僕從
 tc.research_page.GOLEMSTRAW.1=你已發現製作傀儡僕從的奧秘。儘管鐵傀儡令人印象深刻，但其應用有限，難以控制。你需要設法解決這些弊端。<BR>你的傀儡工人們具備足夠的意志和自我意識來成為有用的工具，卻又不至於使得他們難以掌控。對其使用法杖能夠將其回收。<LINE>你同樣學會瞭如何製作 §5傀儡使鈴鐺§0以及§5傀儡運轉核心§0（參閱各自條目檢視更詳細的內容）。
-tc.research_page.GOLEMSTRAW.2=傀儡可以被放置到世界之中，但如果未安裝運轉核心，它們將不會被啟用。<BR>放置傀儡時需要仔細考慮相關問題 - 如果你想將它與某物品欄繫結，則需要手持它右擊（或左擊）對應的容器方塊的對應一端。<BR>大部分型別的傀儡能夠在以放置位置為中心16格範圍內活動和工作。
+tc.research_page.GOLEMSTRAW.2=傀儡可以被放置到世界之中，但如果未安裝運轉核心，它們將不會被啟用。<BR>放置傀儡時需要仔細考慮相關問題 - 如果你想將它與某物品欄繫結，則需要手持它右擊（或左擊）對應的容器方塊的對應一端。<BR>大部分類型的傀儡能夠在以放置位置為中心16格範圍內活動和工作。
 tc.research_page.GOLEMSTRAW.3=你能夠製作的第一個傀儡使用乾草垛以及稻草為材料。這種傀儡身體孱弱，易受傷害，但非常輕便靈魂。<BR>§l§n稻草傀儡屬性§r<BR>§l耐久：§r 極低 <BR>§l力量：§r 極低<BR>§l回覆：§r一般<BR>§l運載量：§r 1<BR>§l速度：§r 快捷<BR>§l升級：§r 1
 #
 tc.research_name.GOLEMWOOD=木頭傀儡
@@ -1277,7 +1277,7 @@ tc.research_page.GOLEMFLESH.1=儘管聽上去可怕極了，但殭屍腐肉製�
 #
 tc.research_name.GOLEMSTONE=石頭傀儡
 tc.research_text.GOLEMSTONE=壯碩而遲鈍
-tc.research_page.GOLEMSTONE.1=石頭傀儡結實抗用，還能高負重，但相比大多數其他型別的傀儡要更加遲鈍緩慢。<BR>§l§n石頭傀儡屬性§r<BR>§l耐久：§r 高於均值<BR>§l力量：§r 高於均值<BR>§l回覆：§r 緩慢<BR>§l運載量：§r 16<BR>§l速度：§r 緩慢<BR>§l升級：§r 1
+tc.research_page.GOLEMSTONE.1=石頭傀儡結實抗用，還能高負重，但相比大多數其他類型的傀儡要更加遲鈍緩慢。<BR>§l§n石頭傀儡屬性§r<BR>§l耐久：§r 高於均值<BR>§l力量：§r 高於均值<BR>§l回覆：§r 緩慢<BR>§l運載量：§r 16<BR>§l速度：§r 緩慢<BR>§l升級：§r 1
 #
 tc.research_name.GOLEMIRON=鐵質傀儡
 tc.research_text.GOLEMIRON=肖似村莊鐵傀儡，但更小也更好
@@ -1323,7 +1323,7 @@ tc.research_page.CORELUMBER.1=類似收穫傀儡，伐木傀儡也不需要與�
 tc.research_name.COREGUARD=傀儡核心：守衛
 tc.research_text.COREGUARD=守衛主人的財富
 tc.research_page.COREGUARD.1=安裝這種核心的傀儡就像守衛一樣會攻擊範圍內的任何敵對生物。<BR>你認為再經過一些小的調修你就能夠讓這種傀儡能夠對攻擊目標更具選擇性，但現在它會攻擊除了苦力怕外的一切敵對生物。
-tc.research_page.COREGUARD.2=     §n秩序升級解鎖特性§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>安裝這種升級的守衛傀儡能夠設定特定的攻擊目標。這種傀儡不僅僅只能攻擊敵對生物，還能在更大型別範圍的生物裡更靈活地設定目標。
+tc.research_page.COREGUARD.2=     §n秩序升級解鎖特性§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>安裝這種升級的守衛傀儡能夠設定特定的攻擊目標。這種傀儡不僅僅只能攻擊敵對生物，還能在更大類型範圍的生物裡更靈活地設定目標。
 #
 tc.research_name.COREBUTCHER=傀儡核心：屠宰
 tc.research_text.COREBUTCHER=血腥旮旯
@@ -1331,7 +1331,7 @@ tc.research_page.COREBUTCHER.1=這種核心是標準的守衛核心的強化版�
 #
 tc.research_name.CORELIQUID=傀儡核心：移液
 tc.research_text.CORELIQUID=向蓄水槽裡填充液體
-tc.research_page.CORELIQUID.1=安裝了這種核心的傀儡會努力保證與其繫結的液體容器記憶體滿指定的液體。<BR>你可以開啟傀儡的介面，如願設定傀儡蓄水槽中應該存入的特定液體型別，併為傀儡提供一個液體容器（比如水桶）。其他型別的液體將會被忽略。<BR>管傀儡在拾取世界中液體方塊時會始終攜帶滿桶量(1000mb)，但受限於材料，每樣物品，它們僅僅能攜帶100mb的液體。
+tc.research_page.CORELIQUID.1=安裝了這種核心的傀儡會努力保證與其繫結的液體容器記憶體滿指定的液體。<BR>你可以開啟傀儡的介面，如願設定傀儡蓄水槽中應該存入的特定液體類型，併為傀儡提供一個液體容器（比如水桶）。其他類型的液體將會被忽略。<BR>管傀儡在拾取世界中液體方塊時會始終攜帶滿桶量(1000mb)，但受限於材料，每樣物品，它們僅僅能攜帶100mb的液體。
 tc.research_page.CORELIQUID.2=    §n傀儡升級：混沌解鎖§r<IMG>thaumcraft:textures/items/golem_upgrade_entropy.png:0:0:255:255:0.0625</IMG>若安裝此升級，傀儡將優先嚐試拾取範圍內最遠的您標記的流體方塊。這將使其能夠清空整個液體池子，而不僅僅是您標記的那個方塊。<BR>其搜尋範圍僅限於視野範圍內，且距離是根據實際搜尋到目標方塊所經過的方塊數量計算，而非直線距離。
 #
 tc.research_name.CORESORTING=傀儡核心：排序
@@ -1361,7 +1361,7 @@ tc.research_page.UPGRADEEARTH.1=安裝這種升級後傀儡一次能夠攜帶更
 #
 tc.research_name.UPGRADEFIRE=傀儡升級：火
 tc.research_text.UPGRADEFIRE=威猛似火
-tc.research_page.UPGRADEFIRE.1=這種升級會為傀儡增加兩個格子的物品欄空間，使得能夠設定它們忽略以及整理更多型別的物品。<BR>且升級後的傀儡的近戰傷害會造成灼燒效果。<BR>特定的傀儡核心配合這種核心還有更多好處，如果希望瞭解可以參閱其它傀儡核心條目的頁面。
+tc.research_page.UPGRADEFIRE.1=這種升級會為傀儡增加兩個格子的物品欄空間，使得能夠設定它們忽略以及整理更多類型的物品。<BR>且升級後的傀儡的近戰傷害會造成灼燒效果。<BR>特定的傀儡核心配合這種核心還有更多好處，如果希望瞭解可以參閱其它傀儡核心條目的頁面。
 #
 tc.research_name.UPGRADEWATER=傀儡升級：水
 tc.research_text.UPGRADEWATER=靈動若水
@@ -1415,8 +1415,8 @@ tc.research_page.DISTILESSENTIA.2=接下來你需要利用§l奧術蒸餾器§r�
 tc.research_name.JARLABEL=源質罐子和標籤
 tc.research_text.JARLABEL=儲存和整理源質
 tc.research_page.JARLABEL.1=可以用§l源質罐子§r儲存源質。<BR>將源質罐子放置在地上，它能夠非常明瞭直觀地儲存源質。由於魔法的力量，使用或者存放罐子中的源質都是小菜一碟的事情。<BR>手持罐子直接點選奧術蒸餾器就可以將源質裝進罐中。你也可以使用源質安瓿來填充或清空罐子。<BR>此外它們還非常便於大量而密集地進行源質儲存。
-tc.research_page.JARLABEL.2=空手狀態下按住潛行鍵Shift點選罐子或者蒸餾器能夠清空它們。<BR>只要罐子裡裝有源質，你就可以貼上§l罐子標籤l§。<BR>標籤將罐子鎖定為接收特定型別的源質而不再能接收任意其他型別的源質。<BR>空手對著罐子帖著標籤的一面按住潛行點選，能夠取下標籤。注意如果誤點了其他面會清空罐子裡裝的源質。
-tc.research_page.JARLABEL.3=你可以對著空罐子使用與某種源質繫結過的標籤（在工作臺中合成裝有源質的安瓿與標籤），這樣空罐子會自動繫結到這種源質，變成對應的標籤罐子。而標籤上的源質僅僅只是標記，並不真的消耗源質。<BR>對著裝滿了源質的罐子使用，則會把罐子變成和其容納源質相對應的標籤罐子。<LINE>繫結過某種源質的標籤只需要放入合成網格參與一次合成就能變回空白標籤。
+tc.research_page.JARLABEL.2=空手狀態下按住潛行鍵Shift點選罐子或者蒸餾器能夠清空它們。<BR>只要罐子裡裝有源質，你就可以貼上§l罐子標籤l§。<BR>標籤將罐子鎖定為接收特定類型的源質而不再能接收任意其他類型的源質。<BR>空手對著罐子帖著標籤的一面按住潛行點選，能夠取下標籤。注意如果誤點了其他面會清空罐子裡裝的源質。
+tc.research_page.JARLABEL.3=你可以對著空罐子使用與某種源質繫結過的標籤（在工作台中合成裝有源質的安瓿與標籤），這樣空罐子會自動繫結到這種源質，變成對應的標籤罐子。而標籤上的源質僅僅只是標記，並不真的消耗源質。<BR>對著裝滿了源質的罐子使用，則會把罐子變成和其容納源質相對應的標籤罐子。<LINE>繫結過某種源質的標籤只需要放入合成網格參與一次合成就能變回空白標籤。
 #
 tc.research_name.INFERNALFURNACE=煉獄熔爐
 tc.research_text.INFERNALFURNACE=夠熱？
@@ -1455,12 +1455,12 @@ tc.research_page.HOVERGIRDLE.1=這種腰帶的設計旨在配合奧法韁繩來�
 #
 tc.research_name.ADVANCEDGOLEM=高階傀儡
 tc.research_text.ADVANCEDGOLEM=也許我應該考慮考慮儘管……
-tc.research_page.ADVANCEDGOLEM.1=你已經發現了一些在微小而重要的方面改進傀儡的方法。<BR>首先，改進後傀儡能夠額外安裝一個升級，儘管它們不能重複安裝兩次同型別的升級。<BR>其次，改進後他們移動速度會稍微快些。<BR>再次，這也能夠稍微加大它們的視野範圍。<BR>當然，你非常確定它們眼中偶爾流露出的狡詐與惡意不過是你的妄想而已。
+tc.research_page.ADVANCEDGOLEM.1=你已經發現了一些在微小而重要的方面改進傀儡的方法。<BR>首先，改進後傀儡能夠額外安裝一個升級，儘管它們不能重複安裝兩次同類型的升級。<BR>其次，改進後他們移動速度會稍微快些。<BR>再次，這也能夠稍微加大它們的視野範圍。<BR>當然，你非常確定它們眼中偶爾流露出的狡詐與惡意不過是你的妄想而已。
 #
 tc.research_name.ARCANEBORE=奧術鑽探機
 tc.research_text.ARCANEBORE=採礦業的進化
 tc.research_page.ARCANEBORE.1=你已經發現一種擁有采掘核心能力，且具有更大的工作範圍的奧術裝置，不僅如此，這臺機器還可以無人監控地自動執行。只需要將它安裝在特別的基座上，將其方向調校正確後，再提供一個法杖供能，並用紅石訊號啟用即可。<BR>奧術鑽探機需要兩件東西才能正常工作。首先你需要將採掘核心放在物品欄左側格子中，法杖核心的附魔效果也會被加成到鑽探機上。
-tc.research_page.ARCANEBORE.2=其次，你需要在右邊格子裡放置一個任意型別的鎬子。鎬的材料對鑽探機執行效果影響很小，但其耐久直接決定鑽探機的執行時間。此外，類似核心，鎬子上的附魔效果也能夠被加成到鑽探機上。<BR>奧法鑽頭只能安附在奧法鑽探基座的上方或下方。挖掘到的物品都會從鑽探基座的噴嘴所朝方向彈出來。<BR>如果有箱子則會自動進入其物品欄。你可以用法杖改變奧術鑽探機的朝向。
+tc.research_page.ARCANEBORE.2=其次，你需要在右邊格子裡放置一個任意類型的鎬子。鎬的材料對鑽探機執行效果影響很小，但其耐久直接決定鑽探機的執行時間。此外，類似核心，鎬子上的附魔效果也能夠被加成到鑽探機上。<BR>奧法鑽頭只能安附在奧法鑽探基座的上方或下方。挖掘到的物品都會從鑽探基座的噴嘴所朝方向彈出來。<BR>如果有箱子則會自動進入其物品欄。你可以用法杖改變奧術鑽探機的朝向。
 tc.research_page.ARCANEBORE.3=倘若向鑽探機供應§8Perditio§0源質或Vis其鑽探效率將大大提升。既可以使用管道供應Vis或源質，也可以使用節點中繼器供應釐魔（CV）。<BR>一點§8Perditio§0源質能夠讓鑽探機以更快的速度挖掘接下來的20個方塊。而作為另外一種選擇的中繼器系統的效率則是，每加速挖掘一個方塊消耗5點CV，而鑽探機每刻最多能夠輸入100CV。
 #
 tc.research_name.LEVITATOR=奧術懸浮臺
@@ -1517,7 +1517,7 @@ tc.research_name.INFUSIONENCHANTMENT=注魔法附魔
 tc.research_text.INFUSIONENCHANTMENT=用源質附魔
 tc.research_page.INFUSIONENCHANTMENT.1=悠悠數載歲月以降，巫師和神秘使已經將自己的生命能量灌注進物品來製造附魔武器，工具以及裝備。而此種附魔方法過程單調乏味，結果難以預知。你關於注魔合成的研究揭露了解決這些問題的新方法。<BR>你對如何使用注魔壇對物品附魔已經瞭然於心。只需將你希望附魔的物品放置在中央的基座上，並提高合適的材料以及源質即可。
 tc.research_page.INFUSIONENCHANTMENT.2=這種附魔同樣需要提供經驗形式的生命源質，但需求量遠低於普通附魔所需。這些經驗將從注魔壇附近的任意玩家身上抽取，因此使用時需要當心。<BR>I級附魔所消耗的源質和經驗在如下配方中列出。若想對物品進行更高階別的附魔，只需重複進行注魔過程即可 - 該過程可重複進行直到所進行的附魔達到可能的最高等級。根據附魔等級不同，所消耗的源質和經驗也將會有所不同，就比方說II級附魔將消耗I級附魔兩倍的資源。
-tc.research_page.INFUSIONENCHANTMENT.3=如若物品已包含你當前進行附魔型別外的附魔，可能會需要更多的消耗。每一級其他的附魔將會使得當前進行的附魔多消耗10%。例如，對一把亡靈殺手III的劍進行火焰附加I附魔，會額外消耗30%的源質和經驗。<BR>隨著物品上附魔增加註魔的風險也會增加。<BR>使用注魔壇附魔同樣遵循一般物品附魔的搭配組合規律 - 附魔只能對特定型別物品進行。
+tc.research_page.INFUSIONENCHANTMENT.3=如若物品已包含你當前進行附魔類型外的附魔，可能會需要更多的消耗。每一級其他的附魔將會使得當前進行的附魔多消耗10%。例如，對一把亡靈殺手III的劍進行火焰附加I附魔，會額外消耗30%的源質和經驗。<BR>隨著物品上附魔增加註魔的風險也會增加。<BR>使用注魔壇附魔同樣遵循一般物品附魔的搭配組合規律 - 附魔只能對特定類型物品進行。
 #
 tc.research_name.ARCANELAMP=奧術燈
 tc.research_text.ARCANELAMP=大型光源
@@ -1530,15 +1530,15 @@ tc.research_page.BASICARTIFACE.1=§n元始符咒§r<BR><BR>元始符咒是構築
 #
 tc.research_name.TUBES=源質管道
 tc.research_text.TUBES=運輸源質
-tc.research_page.TUBES.1=你已發現了好些運輸源質的方法，但都被證明難以與大規模的鍊金操作相適應 - 現在這問題解決了。<BR>你已破解了製作穩定及相對密封的管道的關鍵所在。儘管普通的化學物質可以用玻璃管道運輸，但某些型別的源質卻可能溶解掉或者直接穿透玻璃。在玻璃管道上裹上鐵皮並用水銀處理，讓即使最不穩定的源質也能安全透過。黃金的管道配件裝飾得管道系統極其美觀。
-tc.research_page.TUBES.2=管道可以與各種型別的奧法裝置相連，儘管一般你主要用它連線源質罐子和蒸餾器。<BR>源質會主動流向任意可以容納它的容器 - 比方說源質罐子。<BR>裝有不同源質的罐子只會吸引那些同類源質。但管道一次只能吸入並運輸一種型別的源質 - 吸力最高的會優先處理。若無法恰當使用閥門很容易導致管道系統堵塞。閥門的使用尤為關鍵。<LINE>
+tc.research_page.TUBES.1=你已發現了好些運輸源質的方法，但都被證明難以與大規模的鍊金操作相適應 - 現在這問題解決了。<BR>你已破解了製作穩定及相對密封的管道的關鍵所在。儘管普通的化學物質可以用玻璃管道運輸，但某些類型的源質卻可能溶解掉或者直接穿透玻璃。在玻璃管道上裹上鐵皮並用水銀處理，讓即使最不穩定的源質也能安全透過。黃金的管道配件裝飾得管道系統極其美觀。
+tc.research_page.TUBES.2=管道可以與各種類型的奧法裝置相連，儘管一般你主要用它連線源質罐子和蒸餾器。<BR>源質會主動流向任意可以容納它的容器 - 比方說源質罐子。<BR>裝有不同源質的罐子只會吸引那些同類源質。但管道一次只能吸入並運輸一種類型的源質 - 吸力最高的會優先處理。若無法恰當使用閥門很容易導致管道系統堵塞。閥門的使用尤為關鍵。<LINE>
 tc.research_page.TUBES.3=源質閥門類似一段普通管道，但可以透過手動或者紅石訊號控制其開閉。關閉閥門後透過它的源質流會被阻斷。<LINE>源質諧振器是為管道系統排障的方便工具。你可以使用它檢視管道或其他使用源質的裝置中當前容納著何種源質以及它們的吸力強弱。
 tc.research_page.TUBES.4=使用魔杖點選能夠調整管道是否與相鄰管道連線。<BR>你還可以使用魔杖點選管道中央位置來像調節閥門一樣旋轉它。
 #
 tc.research_name.CENTRIFUGE=奧法離心機
 tc.research_text.CENTRIFUGE=分離物品
 tc.research_page.CENTRIFUGE.1=奧法離心機是一種驚豔的能夠將複合源質分解為更基本的前置源質的鍊金裝置<BR>當複合源質從下方流入離心機，就會被慢慢分解成組成它們的前置的複合源質或元始源質。但每消耗一點源質只能得到一點前置源質。<BR>分離得到的源質需要從離心機頂部抽走。由於管道壓力系統的特性，最好在離心機頂部連線一個§5源質緩衝器§0（見下頁）。
-tc.research_page.CENTRIFUGE.2=源質緩衝器能夠允許你暫存一定量的源質 - 總計8點，可以是不同源質型別的任意組合。類似罐子它會自動吸收源質，但其吸力是各種可能中最小的（吸收的優先順序最低）。<BR>換言之通常只有在直接將其安附在源質來源處它才能吸入源質。然而管道可以連線在它所有的方向上，這意味著用它來提取像奧法離心機這種內建大量容納空間的裝置中的源質意義甚微。<BR>你可以為緩衝器安裝奧術風箱 - 一個風箱提升64點吸力。
+tc.research_page.CENTRIFUGE.2=源質緩衝器能夠允許你暫存一定量的源質 - 總計8點，可以是不同源質類型的任意組合。類似罐子它會自動吸收源質，但其吸力是各種可能中最小的（吸收的優先順序最低）。<BR>換言之通常只有在直接將其安附在源質來源處它才能吸入源質。然而管道可以連線在它所有的方向上，這意味著用它來提取像奧法離心機這種內建大量容納空間的裝置中的源質意義甚微。<BR>你可以為緩衝器安裝奧術風箱 - 一個風箱提升64點吸力。
 tc.research_page.CENTRIFUGE.3=此外，類似普通的管道，你還能獨立控制其每一方向連線的開合，但如若你按住shift點選連線，就能塞住它將其該方向上的吸力抑制在1（藍圈）或者0（紅圈）。<BR>這使源質運輸過程中的許多有趣特性有了可能。
 #
 tc.research_name.TRAVELTRUNK=箱子寶寶
@@ -1566,7 +1566,7 @@ tc.research_page.JARVOID.1=虛空罐子用起來類似普通的源質罐子，�
 #
 tc.research_name.TUBEFILTER=高階源質管道
 tc.research_text.TUBEFILTER=你需要什麼，需要用它幹什麼
-tc.research_page.TUBEFILTER.1=§n過濾源質管道§r 類似普通管道，但可以貼標籤。當使用標籤標記後它將只限定於運輸指定型別的源質。<BR>空手時按住shift點選將取下標籤。
+tc.research_page.TUBEFILTER.1=§n過濾源質管道§r 類似普通管道，但可以貼標籤。當使用標籤標記後它將只限定於運輸指定類型的源質。<BR>空手時按住shift點選將取下標籤。
 tc.research_page.TUBEFILTER.2=§n限定源質管道§r 類似普通管道，但它們會將透過的源質吸力減半。<LINE>§n定向源質管道§r 只接受某個方向上抽取來的源質，藍色標記指示了它接受抽取物的方向。
 #
 tc.research_name.MIRRORESSENTIA=源質之鏡
@@ -1580,7 +1580,7 @@ tc.research_page.BONEBOW.1=你已發現一種以白骨制弓，並灌注以混�
 #
 tc.research_name.PRIMALARROW=元始之矢
 tc.research_text.PRIMALARROW=元素傷害之箭矢
-tc.research_page.PRIMALARROW.1=這些箭矢每種都灌注了特定型別的元始魔力，這賦予它們一些有趣而有破壞力的特性。<BR>§n風之矢§r<BR>纏繞在箭矢上的魔力劈啪作響。它們造成的傷害與普通箭矢類似，但魔力使得它們能夠穿透任意類似的護甲。<BR>§n火之矢§r<BR>這種箭矢會造成純粹的火焰傷害並點燃它們射中的目標。
+tc.research_page.PRIMALARROW.1=這些箭矢每種都灌注了特定類型的元始魔力，這賦予它們一些有趣而有破壞力的特性。<BR>§n風之矢§r<BR>纏繞在箭矢上的魔力劈啪作響。它們造成的傷害與普通箭矢類似，但魔力使得它們能夠穿透任意類似的護甲。<BR>§n火之矢§r<BR>這種箭矢會造成純粹的火焰傷害並點燃它們射中的目標。
 tc.research_page.PRIMALARROW.2=§n水之矢§r<BR>這種箭矢造成的傷害與普通箭矢類似，但其附帶的冰霜魔力會讓你的目標寒至骨髓，從而減緩他們的移動速度。<BR>§n地之矢§r<BR>這種箭矢除去威力相比普通箭矢猛烈得多外，並無其他特殊屬性。<BR>§n秩序矢§r<BR>這種箭矢威力略遜於普通箭矢，但它能穿刺護甲，且讓你的敵人陷入虛弱。<BR>§n混沌矢§r<BR>這種箭矢威力略遜於普通箭矢，
 tc.research_page.PRIMALARROW.3=但無論射中什麼都會造成凋零效果。<LINE>元始之矢無法從地上拾起來，且即使是無限附魔也只有1/3的機率可以減免元始之矢的消耗。
 #
@@ -1651,7 +1651,7 @@ tc.research_page.VISPOWER.5=因此如果連線的裝置過多會出現供不應�
 #
 tc.research_name.VISCHARGERELAY=Vis充能中繼器
 tc.research_text.VISCHARGERELAY=奧法合成簡化
-tc.research_page.VISCHARGERELAY.1=但凡神秘使都曾有過進行常規奧術合成後總要不耐其煩地為法杖充能的煩惱。<BR>如今你已能夠製造Vis充能中繼器，它能夠讓裝置直接從節點中抽取能量。其功能類似普通Vis中繼器，但它被設計成可以安置在奧術工作臺的上方。它將從中繼器或者放在合成臺裡的法杖抽取魔力。<BR>唯一的劣勢是，相比法杖充能基座或者手持進行充能，它進行充能的速度要慢得多。
+tc.research_page.VISCHARGERELAY.1=但凡神秘使都曾有過進行常規奧術合成後總要不耐其煩地為法杖充能的煩惱。<BR>如今你已能夠製造Vis充能中繼器，它能夠讓裝置直接從節點中抽取能量。其功能類似普通Vis中繼器，但它被設計成可以安置在奧術工作台的上方。它將從中繼器或者放在合成臺裡的法杖抽取魔力。<BR>唯一的劣勢是，相比法杖充能基座或者手持進行充能，它進行充能的速度要慢得多。
 #
 tc.research_name.WARP=扭曲，咒波，所有那些壞東西
 tc.research_text.WARP=萬物都有其價值所在
@@ -1733,7 +1733,7 @@ tc.research_page.OCULUS.2=如果所有步驟均正確，那麼儀式將被完成
 #
 tc.research_name.ESSENTIARESERVOIR=高階源質儲存
 tc.research_text.ESSENTIARESERVOIR=別磕著它
-tc.research_page.ESSENTIARESERVOIR.1=多數型別的源質相當容易揮發，需要小心儲存 - 這也是普通神秘使會選擇使用密閉罐子的原因所在。可是你並非那些普通的神秘使。<BR>透過使用一種名為虛空金屬的神奇新物質，你發現一種顯著提升源質儲存能力的方法。源質庫能夠容納256點任意型別組合的源質。<BR>這種新型金屬構築的動態隔間都夠有效隔絕不同型別的源質從而彌除異種源質混合可能會造成的潛在危險。
+tc.research_page.ESSENTIARESERVOIR.1=多數類型的源質相當容易揮發，需要小心儲存 - 這也是普通神秘使會選擇使用密閉罐子的原因所在。可是你並非那些普通的神秘使。<BR>透過使用一種名為虛空金屬的神奇新物質，你發現一種顯著提升源質儲存能力的方法。源質庫能夠容納256點任意類型組合的源質。<BR>這種新型金屬構築的動態隔間都夠有效隔絕不同類型的源質從而彌除異種源質混合可能會造成的潛在危險。
 tc.research_page.ESSENTIARESERVOIR.2=類似罐子，源質庫也只有一面能夠參與源質物流系統，儘管你可以指定這一面的朝向。不幸的是，這種容器無法手動清空或者手動填裝，你必須藉助於傀儡或者源質管道。<BR>不推薦挖掉盛有內容的源質庫。<BR>這項發現讓你喜悅萬分，因此你向一些神秘使夥伴展示了它。奇怪的是，他們多數都一副避之不及的樣子，即使你已經向他們保證經過極端高壓處理後這種金屬的安全性值得信任。
 #
 tc.research_name.ESSENTIACRYSTAL=源質結晶器 
@@ -1772,7 +1772,7 @@ tc.research_page.ADVALCHEMYFURNACE.2=並用元始珍珠詭異的能量進行輻�
 #
 tc.research_name.FLUXSCRUB=咒波洗滌器
 tc.research_text.FLUXSCRUB=混亂神秘使的福利
-tc.research_page.FLUXSCRUB.1=即使是最富技巧的神秘使也難免因為咒波汙染留下一大堆亂攤子，清理它們是所有人都必須面對的麻煩，但這臺裝置能夠讓你減輕這些折磨人的苦差。<BR>咒波洗滌器，當使用aer源質驅動後，將會緩慢地對所在位置16格半徑內的各種型別的咒波加以清理。不僅如此，它還能夠將部分咒波以praecantatio源質的形式回收。<BR>它內建的快取空間很小，即使已經滿了也會持續運作，因此，如果你希望回收掉所有的praecantatio源質，那麼你就需要及時地將它清空。
+tc.research_page.FLUXSCRUB.1=即使是最富技巧的神秘使也難免因為咒波汙染留下一大堆亂攤子，清理它們是所有人都必須面對的麻煩，但這臺裝置能夠讓你減輕這些折磨人的苦差。<BR>咒波洗滌器，當使用aer源質驅動後，將會緩慢地對所在位置16格半徑內的各種類型的咒波加以清理。不僅如此，它還能夠將部分咒波以praecantatio源質的形式回收。<BR>它內建的快取空間很小，即使已經滿了也會持續運作，因此，如果你希望回收掉所有的praecantatio源質，那麼你就需要及時地將它清空。
 #
 tc.research_name.ENTEROUTER=外域
 tc.research_text.ENTEROUTER=我有種感覺，這裡已經不是堪薩斯了
@@ -1784,7 +1784,7 @@ tc.research_page.OUTERREV.1=你所疑慮的事情得到了證實。這裡並非�
 #
 tc.research_name.SINSTONE=兇險磁石
 tc.research_text.SINSTONE=你敢跟來嗎？
-tc.research_page.SINSTONE.1=研究節點的過程中你有一個有趣的發現。不同型別的節點都會發出不同型別的輻射能量，但它們大都不像兇險節點那樣獨樹一幟。<BR>兇險節點發出的能量十分獨特且易於追蹤。你認為利用向燧石注魔得到的簡易探測裝置就能夠幫助你指明兇險節點所指向的地方。<BR>探測範圍非常有限，但這項發明物有所值，因為你發現兇險節點通常會出現在那些最有趣的地方。
+tc.research_page.SINSTONE.1=研究節點的過程中你有一個有趣的發現。不同類型的節點都會發出不同類型的輻射能量，但它們大都不像兇險節點那樣獨樹一幟。<BR>兇險節點發出的能量十分獨特且易於追蹤。你認為利用向燧石注魔得到的簡易探測裝置就能夠幫助你指明兇險節點所指向的地方。<BR>探測範圍非常有限，但這項發明物有所值，因為你發現兇險節點通常會出現在那些最有趣的地方。
 #
 tc.research_name.PRIMALCRUSHER=元始杵
 tc.research_text.PRIMALCRUSHER=破盡萬物

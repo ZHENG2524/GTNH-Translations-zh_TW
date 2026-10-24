@@ -622,17 +622,17 @@ tile.blockPoweredSpawner.tooltip.detailed.line4=增加速度與能量儲存
 
 item.itemBrokenSpawner.name=破損的刷怪籠
 item.itemBrokenSpawner.tooltip.detailed.line1=與電動刷怪籠在鐵砧
-item.itemBrokenSpawner.tooltip.detailed.line2=裡結合設定刷怪型別
+item.itemBrokenSpawner.tooltip.detailed.line2=裡結合設定刷怪類型
 
 tile.blockSoulBinder.name=靈魂繫結器
 tile.blockSoulBinder.tooltip.detailed.line1=用於轉變破損的
-tile.blockSoulBinder.tooltip.detailed.line2=刷怪籠刷怪型別
+tile.blockSoulBinder.tooltip.detailed.line2=刷怪籠刷怪類型
 
 tile.blockAttractor.name=生物誘引方尖碑
 tile.blockAttractor.tooltip.detailed.line1=將怪物引向它
 tile.blockAttractor.tooltip.detailed.line2=將生物的靈魂
 tile.blockAttractor.tooltip.detailed.line3=裝瓶放入裝置
-tile.blockAttractor.tooltip.detailed.line4=來指定吸引型別
+tile.blockAttractor.tooltip.detailed.line4=來指定吸引類型
 
 tile.blockSpawnGuard.name=生物排除方尖碑
 tile.blockSpawnGuard.tooltip.detailed.line1=在它的工作範圍
@@ -812,7 +812,7 @@ item.itemYetaWrench.tooltip.detailed.line3=拆除機器與管道
 item.itemYetaWrench.tooltip.detailed.line4=Shift左擊一個導管
 item.itemYetaWrench.tooltip.detailed.line5=可開啟導管設定GUI
 item.itemYetaWrench.tooltip.detailed.line6=使用Shift滑鼠滾輪或者按
-item.itemYetaWrench.tooltip.detailed.line7='Y'鍵可渲染單種型別導管
+item.itemYetaWrench.tooltip.detailed.line7='Y'鍵可渲染單種類型導管
 
 item.itemMagnet.name=電磁鐵
 item.itemMagnet.tooltip.detailed.line1=吸引附近的物品

@@ -360,7 +360,7 @@ witchinggadgets_research_page.CLOAK_WOLF.1=古老的傳說講述了那些狂戰�
 #
 witchinggadgets_research_name.CLOAKKAMA=卡瑪短袍
 witchinggadgets_research_text.CLOAKKAMA=[WG]這不是一個短裙！
-witchinggadgets_research_page.CLOAKKAMA.1=斗篷及其派生物都兼顧了外觀與實用性，但未必太大而顯得有點笨重了。將它們縮短然後連線到腰帶上就有了卡瑪短袍，一種半遮蔽式的護腿。它們的功能保持不變，只是穿著的位置發生了變化。<BR>§l§4警告： 由於未知的錯誤，shift點選取出工作臺的合成物會丟失NBT資料。如果想要保留斗篷的附魔，染色及其內容物，請確保以正常的點選取出合成品。
+witchinggadgets_research_page.CLOAKKAMA.1=斗篷及其派生物都兼顧了外觀與實用性，但未必太大而顯得有點笨重了。將它們縮短然後連線到腰帶上就有了卡瑪短袍，一種半遮蔽式的護腿。它們的功能保持不變，只是穿著的位置發生了變化。<BR>§l§4警告： 由於未知的錯誤，shift點選取出工作台的合成物會丟失NBT資料。如果想要保留斗篷的附魔，染色及其內容物，請確保以正常的點選取出合成品。
 #
 
 
@@ -481,7 +481,7 @@ witchinggadgets_research_name.GEMCUTTING=寶石雕琢
 witchinggadgets_research_text.GEMCUTTING=[WG]一切都晶瑩剔透！
 witchinggadgets_research_page.GEMCUTTING.1=在各種透過物理形式賦予魔法的方法中，寶石雕琢算是較為古老的了。如果將魔法注入寶石中，那麼它的使用就不再受限於持有者了。誰都能使用雕琢過的寶石中所存的力量。即便是不精於神秘學的人，也能透過這些寶石獲取力量。<BR>寶石的功能取決於它們的琢型和注入的魔法源質。
 
-witchinggadgets_research_page.GEMCUTTING.2=你可以用新造的切割臺來製作這些寶石，並向其中注入源質。<BR>在左側放入一顆有效的寶石，另外三個槽放入天域之華或源質安瓿。它們所含的源質必須是同種型別的，源質型別也會決定蘊魔寶石最終的強度。透過箭頭可以選擇雕刻的琢型，然後就可以在右側取出製作完成的寶石。寶石一旦被加工出來，就無法重新加工了。
+witchinggadgets_research_page.GEMCUTTING.2=你可以用新造的切割臺來製作這些寶石，並向其中注入源質。<BR>在左側放入一顆有效的寶石，另外三個槽放入天域之華或源質安瓿。它們所含的源質必須是同種類型的，源質類型也會決定蘊魔寶石最終的強度。透過箭頭可以選擇雕刻的琢型，然後就可以在右側取出製作完成的寶石。寶石一旦被加工出來，就無法重新加工了。
 witchinggadgets_research_page.GEMCUTTING.3=§l自然親和§r<BR>一些石頭與生俱來就對特定的源質有自然親和，這會增強它們的效果。如果親和屬性與注入的源質匹配，寶石就會被附魔“閃耀”，附魔等級取決於製作時所用的源質量。<BR>§l自然疏離§r<BR>類似的，一些寶石對特定源質也會有自然疏離，如果向寶石注入了這些源質就會使其變得脆弱，削弱它們的效果，並且會讓可反覆使用的寶石的損壞機率增大。<BR>按住shift就可以檢視寶石的自然親和與自然疏離屬性。
 
 witchinggadgets_research_page.GEMCUTTING.4=            §l結晶體琢型§r<LINE>結晶體琢型是蘊魔寶石最基礎的琢型。儘管它能儲存魔法能量，但你只能透過粉碎寶石來釋放。使用過後的寶石會變為一攤寶石粉末。各種源質的效果如下：<BR>§e§lAer:§r§0讓你短暫獲得大幅的跳躍力提升。<BR>§2§lTerra:§r§0賦予你對擊退效果的抗性。<BR>§c§lIgnis:§r§0用臨時的光源照亮你周圍的區域。
@@ -526,7 +526,7 @@ witchinggadgets_research_page.PRIMORDIALGEARSET.2=還沒有結束！這些裝備
 
 #PRIMORDIALWEAPONRY
 witchinggadgets_research_name.PRIMORDIALWEAPONRY=元始武器
-witchinggadgets_research_text.PRIMORDIALWEAPONRY=[WG]移動式始源能量發射平臺
+witchinggadgets_research_text.PRIMORDIALWEAPONRY=[WG]移動式始源能量發射平台
 witchinggadgets_research_page.PRIMORDIALWEAPONRY.1=元始武器是為了斬殺邪惡生物而設計的，它們超越了你先前製作的任何魔法武器。各自不僅擁有不同的能力，還能被賦予元始親和力，進一步獲取特殊效果。不要被它們巨大的外觀所嚇倒，持有者並不會感覺到其重量，而被攻擊的目標就不一樣了。
 witchinggadgets_research_page.PRIMORDIALWEAPONRY.2=元始巨劍似乎能助你攻擊敵人的弱點。它的劍刃會攻擊目標的頸部並將其斬首。<BR>元始戰錘則會憑藉自身巨大的重量將對手擊垮。對史萊姆和蜘蛛的傷害加倍，其他的目標則有機率受到衝擊。它也能破壞3x3區域的方塊，潛行時無效。<BR>元始巨斧可以輕而易舉地切除樹葉，或是撕裂盔甲。敵人的護甲越高武器的傷害也就越高，護甲本身也會受到額外傷害的影響。
 witchinggadgets_research_page.PRIMORDIALWEAPONRY.3=§l§n     元始親和：     §r<BR>§nAer:§r武器會攻擊多個目標。<BR>§nTerra:§r用武器格擋後會獲得抗性，最多疊加3級。<BR>§nIgnis:§r引燃攻擊目標，並提升其受到的所有火焰傷害。<BR>§nAqua:§r目標會被覆上消融之水，持續受到傷害。受該影響致死的目標會掉落晶化源質。<BR>§nOrdo:§r 極大提升擊殺的經驗值，目標會掉落更多經驗球。<BR>§nPerditio:§r 攻擊會使目標虛弱並陷入飢餓。

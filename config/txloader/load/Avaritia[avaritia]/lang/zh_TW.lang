@@ -52,14 +52,14 @@ item.avaritia_beesource.dust.name=粉塵
 item.extremely_primordial_pearl.name=極元始珍珠
 #
 # Blocks
-tile.compressed_workbench.name=壓縮工作臺
-tile.very_compressed_workbench.name=二重壓縮工作臺
+tile.compressed_workbench.name=壓縮工作台
+tile.very_compressed_workbench.name=二重壓縮工作台
 tile.avaritia_resource.name=資源方塊
 tile.block_crystal_matrix.name=水晶矩陣
 tile.block_neutronium.name=宇宙中子態素塊
 tile.block_infinity.name=無盡之塊
 tile.block_gaia.name=蓋亞塊
-tile.dire_crafting.name=終極工作臺
+tile.dire_crafting.name=終極工作台
 tile.neutron_collector.name=中子態素收集器
 tile.neutronium_compressor.name=中子態素壓縮機
 tile.infinitato.name=無盡小土豆
@@ -98,7 +98,7 @@ tooltip.matter-cluster-decompressor.line3=流體掉落物會自動轉換為流�
 achievement.avaritia:crystal_matrix=第一枚紋章
 achievement.avaritia:crystal_matrix.desc=製造第一個水晶矩陣錠
 achievement.avaritia:dire_crafting=大家好!
-achievement.avaritia:dire_crafting.desc=用普通工作臺合成終極工作臺
+achievement.avaritia:dire_crafting.desc=用普通工作台合成終極工作台
 achievement.avaritia:dire_uncrafting=別緊張!
 achievement.avaritia:dire_uncrafting.desc=終章之尾(於是又是一集Direwolf20結束了)
 achievement.avaritia:collector=然後就是掛機時代

@@ -26,8 +26,8 @@ jm.advanced.port=網頁服務埠
 jm.advanced.port.tooltip=被用於在你的瀏覽器中呈現網頁地圖的預設埠。如果該埠已經被佔用，JourneyMap將會嘗試以增量為10的方式尋找一個開放的埠。
 jm.advanced.recordcachestats=快取統計資料記錄
 jm.advanced.recordcachestats.tooltip=是否啟用快取來記錄它們的統計資料。如果被開啟則可能會輕微地影響效能。除非你是beta版測試人員或者已被告知需要這麼做，否則請不要理會該項。
-jm.advanced.tile_render_type=地圖的分塊渲染型別
-jm.advanced.tile_render_type.tooltip=如果地圖變得模糊不清，請為你的顯示卡最佳化用於地圖的分塊渲染型別。使用對應數字以調整 紋理過濾型別 + 迴圈型別：1=線性+翻轉；2=線性+邊緣拉伸；3=最近+翻轉；4=最近+邊緣拉伸。
+jm.advanced.tile_render_type=地圖的分塊渲染類型
+jm.advanced.tile_render_type.tooltip=如果地圖變得模糊不清，請為你的顯示卡最佳化用於地圖的分塊渲染類型。使用對應數字以調整 紋理過濾類型 + 迴圈類型：1=線性+翻轉；2=線性+邊緣拉伸；3=最近+翻轉；4=最近+邊緣拉伸。
 jm.colorpalette.basic_colors=基本顏色
 jm.colorpalette.biome_colors=生物群系顏色
 jm.colorpalette.file_error=調色盤檔案發生錯誤無法被使用：%1$s

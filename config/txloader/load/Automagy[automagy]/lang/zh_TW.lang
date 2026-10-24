@@ -44,12 +44,12 @@ item.glyph.6.name=符石:貯存
 item.glyph.7.name=符石:狂飲
 item.glyph.8.name=符石:庫容
 item.glyph.9.name=符石:汲奶
-item.golemWorkbenchUpgrade.0.name=工作臺升級:風
-item.golemWorkbenchUpgrade.1.name=工作臺升級:火
-item.golemWorkbenchUpgrade.2.name=工作臺升級:水
-item.golemWorkbenchUpgrade.3.name=工作臺升級:地
-item.golemWorkbenchUpgrade.4.name=工作臺升級:秩序
-item.golemWorkbenchUpgrade.5.name=工作臺升級:混沌
+item.golemWorkbenchUpgrade.0.name=工作台升級:風
+item.golemWorkbenchUpgrade.1.name=工作台升級:火
+item.golemWorkbenchUpgrade.2.name=工作台升級:水
+item.golemWorkbenchUpgrade.3.name=工作台升級:地
+item.golemWorkbenchUpgrade.4.name=工作台升級:秩序
+item.golemWorkbenchUpgrade.5.name=工作台升級:混沌
 item.phialExtra.name=玻璃安瓿（附魔精華液）
 
 item.bucketMushroom.name=桶裝蘑菇湯
@@ -63,7 +63,7 @@ tile.blockRedcrystalAmp.name=增幅紅晶
 tile.blockRedcrystalDim.name=弱化紅晶
 tile.blockRedcrystalDense.name=鈍化紅晶
 tile.blockRedcrystalRes.name=共鳴紅晶
-tile.blockRedcrystalMerc.name=映象紅晶
+tile.blockRedcrystalMerc.name=鏡像紅晶
 tile.blockRemoteComparator.name=遠端比較器
 tile.blockVisReader.name=Vis讀取器
 tile.blockHourglass.name=沙漏
@@ -93,7 +93,7 @@ tile.blockBookshelfEnchanted.1.name=蘊魔書架
 # tile.blockBookshelfEnchanted.2.name=Extradimensional Bookshelf
 tile.blockGolemTaskmaster.name=傀儡指示器
 tile.blockReqTome.name=申請臺
-tile.blockGolemWorkbench.name=傀儡工作臺
+tile.blockGolemWorkbench.name=傀儡工作台
 tile.blockThirstyTank.name=渴飲儲罐
 tile.blockCreativeJar.3.name=無盡之罐
 tile.blockNethermind.name=地獄之核
@@ -203,11 +203,11 @@ Automagy.research_text.REDCRYSTAL_RES=無需連線
 Automagy.research_page.REDCRYSTAL_RES.1=在你製作各種紅晶的初始階段，你試驗了各種元始源質。風源質顯露出了獨特而有趣的振盪能量，但因其強度太弱不能投入實際運用。進一步研究後，你現在能將那種能量聚集在特定方向上，使其能被遠距離接收。<BR>共鳴紅晶透過空氣和類似的物體來直線傳輸紅石訊號，直到其被另一個共鳴紅晶接收到。因此兩個紅晶必須面對面放置(若一個附著在方塊底部，
 Automagy.research_page.REDCRYSTAL_RES.2=另一個就必須附著在方塊頂端並且位於其下方)。<BR>訊號最多可以跨越15格傳輸。強度在這過程中沒有衰減，就好像兩個水晶相鄰放置的一樣。
 
-Automagy.research_name.REDCRYSTAL_MIRRORBOUND=映象紅晶
+Automagy.research_name.REDCRYSTAL_MIRRORBOUND=鏡像紅晶
 Automagy.research_text.REDCRYSTAL_MIRRORBOUND=神秘使的發信器
-Automagy.research_page.REDCRYSTAL_MIRRORBOUND.1=現在你終於能踏足透過魔鏡發現的奇妙領域，創造遠距離傳輸的網路，你需要能有效控制那些特性各異的元素。為何要將資源浪費在製造和用鏡子傳送物品上，明知這會堆滿箱子和減緩傳輸速度？<BR>透過改進共鳴紅晶，使其振動接近於世界間那虛空的飄忽不定的狀態，你就做出了映象紅晶。它能透過繫結鄰近的鏡子向鏡子另一側的映象紅晶傳輸紅石訊號。
+Automagy.research_page.REDCRYSTAL_MIRRORBOUND.1=現在你終於能踏足透過魔鏡發現的奇妙領域，創造遠距離傳輸的網路，你需要能有效控制那些特性各異的元素。為何要將資源浪費在製造和用鏡子傳送物品上，明知這會堆滿箱子和減緩傳輸速度？<BR>透過改進共鳴紅晶，使其振動接近於世界間那虛空的飄忽不定的狀態，你就做出了鏡像紅晶。它能透過繫結鄰近的鏡子向鏡子另一側的鏡像紅晶傳輸紅石訊號。
 Automagy.research_page.REDCRYSTAL_MIRRORBOUND.2=為了輸送或接收訊號，它必須連線到一個鏡子。手持它右擊鏡子即可。之後將它放在距離鏡子8格以內的一處。當然，你也需要在另一邊將另一個紅晶繫結到對應的鏡子。
-Automagy.research_page.REDCRYSTAL_MIRRORBOUND.MIRRORESSENTIA=§l      §n源質魔鏡§r<BR>除了標準的魔鏡以外，映象紅晶也能連線到一面源質魔鏡。當普通魔鏡在使用時這應該算是更好的選擇了。
+Automagy.research_page.REDCRYSTAL_MIRRORBOUND.MIRRORESSENTIA=§l      §n源質魔鏡§r<BR>除了標準的魔鏡以外，鏡像紅晶也能連線到一面源質魔鏡。當普通魔鏡在使用時這應該算是更好的選擇了。
 
 Automagy.research_name.GREEDYCHEST=貪婪箱子
 Automagy.research_text.GREEDYCHEST=貪婪就是正義
@@ -219,7 +219,7 @@ Automagy.research_page.GREEDYCHEST.ENCHANTEDPAPER=§l      §n附魔紙§r<BR>�
 Automagy.research_name.ENCHANTEDPAPER=附魔紙
 Automagy.research_text.ENCHANTEDPAPER=規章條文
 Automagy.research_page.ENCHANTEDPAPER.1=有時手寫的指令並不能完全表達你想的東西……尤其是在你需要魔法時。<BR>透過向普通的紙中注入Vis並印上金色的符文，你就能做出讓你的裝置按你所想而執行工作的附魔紙。<BR>最平常的用途就是用來製作白名單和黑名單，它們用於指示奧術裝置如貪婪箱子所能“看見”的物品。
-Automagy.research_page.ENCHANTEDPAPER.2=你能在保持已寫入配置不變的條件下將白名單變為黑名單（或者反過來）。<BR>你也能從一張名單中將過濾配置複製到另一張名單上（種類不限），只需將它們倆放入奧術工作臺即可。配置資訊就會拷入另一張名單（當然這個過程不會消耗第一張名單）。
+Automagy.research_page.ENCHANTEDPAPER.2=你能在保持已寫入配置不變的條件下將白名單變為黑名單（或者反過來）。<BR>你也能從一張名單中將過濾配置複製到另一張名單上（種類不限），只需將它們倆放入奧術工作台即可。配置資訊就會拷入另一張名單（當然這個過程不會消耗第一張名單）。
 Automagy.research_page.ENCHANTEDPAPER.3=§l        §n附魔§r<BR>附魔紙也能裝訂成書。用這些書所製成的書架能提供四倍於原版書架的附魔加成（對附魔臺而言），因此只需4個這樣的書架就可以在附魔臺進行30級的附魔了。
 
 Automagy.research_name.THIRSTYTANK=渴飲儲罐
@@ -271,7 +271,7 @@ Automagy.research_page.REMOTECOMPARATOR.2=§l      §n水晶之眼§r<BR>一個�
 Automagy.research_name.VISREADER=Vis讀取器
 Automagy.research_text.VISREADER=看著坩堝？我有特別的技巧……
 Automagy.research_page.VISREADER.1=測量容器內的空區是個簡單活兒，但涉及到Vis的種類和數量就是另一回事了。如何解決？就需要Vis讀取器了。<BR>從源質罐子到坩堝再到靈氣節點，它會根據測定物件的Vis組成來輸出紅石訊號。它甚至能讀取法杖的Vis，前提是法杖放在了合適的裝置上。<BR>它有兩種工作方式。最簡單的就是直接放在要讀取的物件的下方。另一種就是將一個遠端比較器放在讀取器上方，再將它的水晶之眼連線到目標位置。
-Automagy.research_page.VISREADER.2=比較器就會終止其原本的功能，成為向讀取器傳遞Vis資訊的媒介。<BR>用你的法杖右擊Vis讀取器就能開啟設定介面。<BR>§l§n設定§r<BR>Vis讀取器輸出的訊號強度由它的設定和檢測的源質決定。訊號強度的標準類似比較器的容器檢測：容器已滿時強度15，空時強度0，其餘的在之間變化。你可以放入§l罐子標籤§r來過濾源質型別。<BR>§l反轉模式：§r 空時輸出滿強度訊號
+Automagy.research_page.VISREADER.2=比較器就會終止其原本的功能，成為向讀取器傳遞Vis資訊的媒介。<BR>用你的法杖右擊Vis讀取器就能開啟設定介面。<BR>§l§n設定§r<BR>Vis讀取器輸出的訊號強度由它的設定和檢測的源質決定。訊號強度的標準類似比較器的容器檢測：容器已滿時強度15，空時強度0，其餘的在之間變化。你可以放入§l罐子標籤§r來過濾源質類型。<BR>§l反轉模式：§r 空時輸出滿強度訊號
 Automagy.research_page.VISREADER.3=而滿時不輸出訊號，其餘的狀態則與預設的相反。<BR>§l總計模式：§r 所有要素的計數總量與容量相比。<BR>§l任意（高）模式：§r 計數量最大的要素量與容量相比。若是§l節點§r，詳見下一頁。<BR>§l任意（低）模式：§r 計數量最小的要素量與容量相比。若是§l節點§r，詳見下一頁。<BR>§l容量：§r 計為滿訊號強度的那個值。如果設為§l自動§r，Vis讀取器就會根據所檢測的物件自動
 Automagy.research_page.VISREADER.4=選擇容量（若可行的話）。<BR>§l節點：§r 讀取物件為節點時，容量設為§l自動§r，模式選擇為§l任意§r時，容量就會由特定要素的最大檢測值而不是所有要素的來決定。用於對比的要素就是相對於自身容量最少或最多的那種，而不是某刻要素量最多或最少的。（因此如果模式為§l任意（高）§r，某種要素佔滿50%，為10單位要素中的5單位，那麼就會比40單位要素中10單位即25%佔滿的那種更優先，即使後者有更多的要素量。）
 Automagy.research_page.VISREADER.5=§l           §n節點§r<BR>當讀取的目標是節點時，容量為§l自動§r，以及§l任意§r選定模式，之後的容量則為某個指定要素檢測的最大值，而不是所有要素的最大值之和。而指定的要素則為相對自身容量最滿或最少的那一種，而不是當前含量最高或最低的那一種。<BR>（因此如果模式為§l任意（高）§r，某種要素含量5點，佔50%，最大容量10點，就會優先於另一種含量10點，佔25%，容量40點的，儘管後者的要素含量更高。）
@@ -334,7 +334,7 @@ Automagy.research_text.THAUMOSTATICREFUELER=飛行補給站
 Automagy.research_page.THAUMOSTATICREFUELER.1=作為一名在各地間忙於飛行的神秘使，漫長的路途也需要給奧法韁繩提供充足的補給，這太麻煩了。現在，你有了更好的方法。<BR>透過結合你在神秘學領域與產能節點的知識，你可以將其運用到透過隔空傳輸Potentia源質上。在源質源頭與目標物件之間建立並維持連線會讓你疲憊不堪，但注入了風源質的水晶之腦更能勝任這項工作。<BR>用其搭建的§l奧法尖塔§r在建造時也需要滿足一些條件才能生效。
 Automagy.research_page.THAUMOSTATICREFUELER.2=<BR>首先需要製作2個§l奧法能量柱§r方塊和1個§l奧法控制器§r。還需要1個鏨制石英塊和1個神秘塊。<BR>然後，各個部件必須正確放置。鏨制石英塊在底部，神秘塊在頂部，能量柱和控制器在兩者之間隨意順序擺放（無間隔）。神秘塊上方必須有空間使其能直視天空。所有的部分都擺放完畢後，用你的法杖右擊控制器。
 Automagy.research_page.THAUMOSTATICREFUELER.3=尖塔可以作用在很大一片區域內。只要尖塔有足夠的源質並且有§6Aer§0魔力的驅動，範圍內任何裝備著且裝有罐子的奧法韁繩都會有穩定供應的Potentia源質。用源質管道連線到§l控制器§r來提供Potentia源質。<LINE>有效範圍可透過向控制器穩定供應Aer源質來擴大。補充Potentia源質的速率則可以透過給其輸入Volatus源質來提升。結構中的新增能量柱可以同時增大範圍與速率。（最多6個能量柱，多餘的不會有增益效果。）
-Automagy.research_page.THAUMOSTATICREFUELER.4=<BR>用法杖右擊控制器的一側即可改變該側可接收的源質型別。
+Automagy.research_page.THAUMOSTATICREFUELER.4=<BR>用法杖右擊控制器的一側即可改變該側可接收的源質類型。
 
 
 Automagy.research_name.ESSENTIALOCUS=源質聚核
@@ -364,13 +364,13 @@ Automagy.research_page.INVENTARIUM_EXTRA.1=將庫存核心周圍的普通書架�
 
 Automagy.research_name.INVENTARIUM_POINTER=記錄之眼
 Automagy.research_text.INVENTARIUM_POINTER=另一種觀點
-Automagy.research_page.INVENTARIUM_POINTER.1=記錄桌的限制就在於它只能檢測一種型別的容器，且容器必須被放置在其後。記錄之眼就擺脫了這個約束。<BR>它使用§l水晶之眼§r指向鄰近的容器來設定型別。一次最多能使用5個眼睛。<BR>使用方法很簡單，將它放在記錄桌的上方再用準備好的水晶之眼右擊即可。空手右擊則可取下上一次裝入的水晶之眼。
+Automagy.research_page.INVENTARIUM_POINTER.1=記錄桌的限制就在於它只能檢測一種類型的容器，且容器必須被放置在其後。記錄之眼就擺脫了這個約束。<BR>它使用§l水晶之眼§r指向鄰近的容器來設定類型。一次最多能使用5個眼睛。<BR>使用方法很簡單，將它放在記錄桌的上方再用準備好的水晶之眼右擊即可。空手右擊則可取下上一次裝入的水晶之眼。
 Automagy.research_page.INVENTARIUM_POINTER.2=用你準備好的水晶之眼右擊它。空手右擊可以移除最後插入的水晶之眼。
 
 Automagy.research_name.INVENTARIUM_DELIVERY=供與求
 Automagy.research_text.INVENTARIUM_DELIVERY=特種配送
 Automagy.research_page.INVENTARIUM_DELIVERY.1=為了有效管理你的儲存，你需要的不僅僅是一個列表，而是一種方法來取出你所儲存的東西。除了傀儡還有什麼更好的方法呢？<BR>為了讓你的配送系統如預期那樣執行你還需要一些東西。首先你得有一個有效的庫存系統（包括至少一個讀取了容器的記錄桌），一個能與儲存容器互動的傀儡，一個合適的卸貨點以便傀儡放下取出的物品，提供訂單的途徑以及讓訂單轉為傀儡理解範疇的方式。為了實現後兩個，你發明瞭一些新的裝置。
-Automagy.research_page.INVENTARIUM_DELIVERY.2=可以使用多個卸貨點，每個對應一個或多個§l填充§r核心的傀儡，卸貨點就是傀儡的繫結點。卸貨點可以選在任何一處，但如果是一個容器的話，它§l必須能快速排空§r物品否則就可能造成堵塞。綜合考慮來說，物品格柵配合魔鏡要優於一個箱子 - 或許也會有人選擇將物品直接送往提交訂單的地方。<BR>每個被記錄桌讀取的容器都應該有至少一個填充傀儡連線（透過傀儡使鈴鐺），這些傀儡也不能連線到其他容器不然就有可能發生預料之外的情況。最好將容器內的物品整理以便在指定物品型別的情況下快速配送少走彎路。
+Automagy.research_page.INVENTARIUM_DELIVERY.2=可以使用多個卸貨點，每個對應一個或多個§l填充§r核心的傀儡，卸貨點就是傀儡的繫結點。卸貨點可以選在任何一處，但如果是一個容器的話，它§l必須能快速排空§r物品否則就可能造成堵塞。綜合考慮來說，物品格柵配合魔鏡要優於一個箱子 - 或許也會有人選擇將物品直接送往提交訂單的地方。<BR>每個被記錄桌讀取的容器都應該有至少一個填充傀儡連線（透過傀儡使鈴鐺），這些傀儡也不能連線到其他容器不然就有可能發生預料之外的情況。最好將容器內的物品整理以便在指定物品類型的情況下快速配送少走彎路。
 Automagy.research_page.INVENTARIUM_DELIVERY.3=<BR>接下來，在附近放置一個§l傀儡指示器§r然後將填充傀儡連線到它，使用§l傀儡連線鈴鐺§r即可。每個傀儡指示器最多能處理6個傀儡。這些傀儡必須繫結到同一個卸貨點，指示器只能控制休息點（當它們未搬運物品時所在的地點）距離5格以內的傀儡。<BR>就和記錄桌一樣，指示器必須連線到庫存核心（用法杖右擊）並且距離可以透過核心附近的秩序魔晶來提升。允許的指示器數量取決於安裝的
 Automagy.research_page.INVENTARIUM_DELIVERY.4=§l記憶方塊§r數，因此你需要安裝至少1個。<BR>要讓記憶方塊安裝成功，它必須放置在核心下方2格起7x2x7的範圍內，並且必須緊鄰琥珀方塊或琥珀磚塊（比如核心下方的那個）。用法杖右擊核心就會顯示當前使用的以及最大的記憶槽數量。<LINE>
 Automagy.research_page.INVENTARIUM_DELIVERY.5=最後所需的就是§l申請臺§r了。和記錄桌一樣，它會顯示整個儲存系統的內容物。這也就是你提交訂單的地方。<BR>左擊列表中的物品來增加徵訂的數量，右擊減少。按住shift來移動整組，或ctrl來一次性移動10單位物品。使用左側的一欄或按住alt/option來請求多於儲存量的數目。<BR>申請臺的需求類似於傀儡指示器：一個專用的記憶方塊，連線至核心，並且可以透過秩序魔晶提升連線距離。此外它還需要供應§8Ordo§0源質（透過Vis中繼器 ）。
@@ -381,8 +381,8 @@ Automagy.research_name.NETHERMIND=地獄之核
 Automagy.research_text.NETHERMIND=始於灰燼
 Automagy.research_page.NETHERMIND.1=在近期的實驗中，你發現火源質強化的水晶之腦似乎會持續吸取能量（並且快速燒蝕自身）。這股能量讓你追溯到了地獄。如果你能找到什麼與地獄之火密切聯絡又能與它共存的東西，或許就能做出一個“地獄之核”，利用源質來構建岩漿和地獄方塊。<BR>§l灰燼之心§r或許能勝任。進一步的研究顯示，它與烈焰人這類地獄怪物甚至與它們的生成有著聯絡。
 Automagy.research_page.NETHERMIND.2=<BR>顯然你需要用某種方法來驅動並控制地獄之核。最終你做出了§l符文黑曜石§r。除了用於包圍地獄之核，這些符文還要按照指定的方式搭建好（見下一頁）。<BR>不同的符文有不同的功能。圖中所示的任意基礎符文都可以被特殊符文所替換。某種符文數量越多，其效果就越強。如果只是用基礎的符文，該裝置的執行將會十分緩慢，並且只會生成地獄岩和零星的岩漿。
-Automagy.research_page.NETHERMIND.3=當符文全都安裝完畢後，用你的法杖輕觸地獄之核就能啟動它了。你也能再次右擊來關閉它，但每次啟動都會消耗法杖中的vis。<BR>執行時，地獄之核必須用§cIgnis§0源質供應。它也需要附近有源質罐子以抽取源質。所需的源質型別及數量取決於工作中的符文。基礎的符文只會消耗Ignis和Terra。<BR>生成的地獄方塊會出現在結構下方兩格9x9x9的區域內。
-Automagy.research_page.NETHERMIND.4=§l    §n符文黑曜石（岩石）§r<BR>使用該符文來增加地獄岩生成的機率。如果指定方塊類的符文至少安裝了4個，那麼就只會生成指定的方塊。使用的符文越多，方塊生成的機率就越大。（因此某種型別如果使用了4個，那麼生成機率就是100%%。）<BR>使用它的另一個好處在於生成地獄岩消耗的源質會比基礎符文更少。（放置額外的岩石符文不會進一步減少消耗。）<BR>每次生成消耗：%s。
+Automagy.research_page.NETHERMIND.3=當符文全都安裝完畢後，用你的法杖輕觸地獄之核就能啟動它了。你也能再次右擊來關閉它，但每次啟動都會消耗法杖中的vis。<BR>執行時，地獄之核必須用§cIgnis§0源質供應。它也需要附近有源質罐子以抽取源質。所需的源質類型及數量取決於工作中的符文。基礎的符文只會消耗Ignis和Terra。<BR>生成的地獄方塊會出現在結構下方兩格9x9x9的區域內。
+Automagy.research_page.NETHERMIND.4=§l    §n符文黑曜石（岩石）§r<BR>使用該符文來增加地獄岩生成的機率。如果指定方塊類的符文至少安裝了4個，那麼就只會生成指定的方塊。使用的符文越多，方塊生成的機率就越大。（因此某種類型如果使用了4個，那麼生成機率就是100%%。）<BR>使用它的另一個好處在於生成地獄岩消耗的源質會比基礎符文更少。（放置額外的岩石符文不會進一步減少消耗。）<BR>每次生成消耗：%s。
 Automagy.research_page.NETHERMIND.5=§l    §n符文黑曜石（熾海）§r<BR>使用該符文增加岩漿生成的機率。至少安裝4個就可以保證只會生成岩漿。<BR>每次生成消耗： %s。
 
 Automagy.research_name.NETHERRUNE_CRYSTAL=符文黑曜石：晶體
@@ -402,20 +402,20 @@ Automagy.research_text.NETHERRUNE_CELERITY=煽動火勢
 Automagy.research_page.NETHERRUNE_CELERITY.1=如果你用迅捷符文替換了一些基礎符文黑曜石，生成方塊所需的時間就會減少。12個符文時速度封頂<BR>此外，每4個迅捷符文也會減少抽取源質的時間，進一步加快這個過程。
 Automagy.research_page.NETHERRUNE_CELERITY.DIMENSIONLURE=§l      §n異界之餌§r<BR>這些符文會像加速方塊那樣加快生物生成的速度。然而每個迅捷符文都會讓這個過程更加不穩定。
 
-Automagy.research_name.GOLEMWORKBENCH=傀儡工作臺
+Automagy.research_name.GOLEMWORKBENCH=傀儡工作台
 Automagy.research_text.GOLEMWORKBENCH=需要裝配麼？
-Automagy.research_page.GOLEMWORKBENCH.1=傀儡工作臺讓你能擺出合成配方，加上一些魔法的協助，即便是傀儡也能照著合成。<BR>對你蠢萌的傀儡來說還有許多配方太過複雜。除非合成是2x2的或者所有的原料都是一樣的，不然你就需要§l高階傀儡§r了。<BR>首先在9個格子中設定好合成配方，底部的格子中提供所需的材料。然後對著工作臺放置一個裝有§l空置§r傀儡運轉核心的傀儡，命令傀儡從中容器取出合成產物（右擊傀儡設定）。用傀儡使鈴鐺告訴傀儡應在何處放置新的物品。
-Automagy.research_page.GOLEMWORKBENCH.2=<BR>注意在這裡只有原版工作臺可合成的才有效。即便是你最高階的傀儡也無法瞭解奧術合成使用魔力的原理。但你覺得這樣也足夠了。<BR>若要讓傀儡專心工作提升效率，你可以在附近放置一個裝有§8Fabrico§0源質的罐子。這將會起到很大幫助，尤其是傀儡在很長時間內持續合成物品，它們可能會有些'瞌睡'的情況下。真夠懶的。
-Automagy.research_page.GOLEMWORKBENCH.UPGRADEORDER=     §n秩序升級解鎖特性§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>當合成中產生了殘留物品並且無法當做合成原料（比如合成蛋糕中的空桶），通常物品就會被合成傀儡扔到一邊。如果傀儡安裝了這項升級，它就會將殘留的物品放入工作臺（如果空間允許的話）
+Automagy.research_page.GOLEMWORKBENCH.1=傀儡工作台讓你能擺出合成配方，加上一些魔法的協助，即便是傀儡也能照著合成。<BR>對你蠢萌的傀儡來說還有許多配方太過複雜。除非合成是2x2的或者所有的原料都是一樣的，不然你就需要§l高階傀儡§r了。<BR>首先在9個格子中設定好合成配方，底部的格子中提供所需的材料。然後對著工作台放置一個裝有§l空置§r傀儡運轉核心的傀儡，命令傀儡從中容器取出合成產物（右擊傀儡設定）。用傀儡使鈴鐺告訴傀儡應在何處放置新的物品。
+Automagy.research_page.GOLEMWORKBENCH.2=<BR>注意在這裡只有原版工作台可合成的才有效。即便是你最高階的傀儡也無法瞭解奧術合成使用魔力的原理。但你覺得這樣也足夠了。<BR>若要讓傀儡專心工作提升效率，你可以在附近放置一個裝有§8Fabrico§0源質的罐子。這將會起到很大幫助，尤其是傀儡在很長時間內持續合成物品，它們可能會有些'瞌睡'的情況下。真夠懶的。
+Automagy.research_page.GOLEMWORKBENCH.UPGRADEORDER=     §n秩序升級解鎖特性§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>當合成中產生了殘留物品並且無法當做合成原料（比如合成蛋糕中的空桶），通常物品就會被合成傀儡扔到一邊。如果傀儡安裝了這項升級，它就會將殘留的物品放入工作台（如果空間允許的話）
 Automagy.research_page.GOLEMWORKBENCH.UPGRADEENTROPY=    §n混沌升級解鎖特性§r<IMG>thaumcraft:textures/items/golem_upgrade_entropy.png:0:0:255:255:0.0625</IMG>如果相連的傀儡安裝了混沌升級，那就意味著它會忽略物品的損傷，NBT資料以及檢測礦物辭典來判斷它所合成的東西。（這取決於傀儡是否能移動物品。）<BR>只會影響到合成產物，而不會影響到合成使用的原料。或許進一步的研究能解決這個問題。
 Automagy.research_page.GOLEMWORKBENCH.ADVANCEDGOLEM=§l      §n高階傀儡§r<BR>如你所願，高階傀儡能進行更復雜的合成。它們能使用3x3的配方以及不止一種原料。
-Automagy.research_page.GOLEMWORKBENCH.GOLEMFETTER=§l        §n傀儡鐐銬§r<BR>如果傀儡鐐銬直接放在工作臺下面，那麼，當它被啟用時，傀儡將不會在工作臺上合成任何物品。它們不一定完全停止（只要它們別自己踩上去），但是，這意味著它們可以繼續從工作臺中清空指定物品。<BR>當管理多個傀儡或傀儡拒絕始終站在一個位置時，這可能是有用的。
+Automagy.research_page.GOLEMWORKBENCH.GOLEMFETTER=§l        §n傀儡鐐銬§r<BR>如果傀儡鐐銬直接放在工作台下面，那麼，當它被啟用時，傀儡將不會在工作台上合成任何物品。它們不一定完全停止（只要它們別自己踩上去），但是，這意味著它們可以繼續從工作台中清空指定物品。<BR>當管理多個傀儡或傀儡拒絕始終站在一個位置時，這可能是有用的。
 
-Automagy.research_name.GOLEMWORKBENCH_UPGRADE=工作臺升級
+Automagy.research_name.GOLEMWORKBENCH_UPGRADE=工作台升級
 Automagy.research_text.GOLEMWORKBENCH_UPGRADE=頂級的傀儡合成
-Automagy.research_page.GOLEMWORKBENCH_UPGRADE.1=在傀儡升級的基礎上，你開發出了一系列新的升級，用於增強傀儡工作臺的和合成效能。<BR>一次最多能安裝4個升級，每個側面一個。同種型別升級的效果可以疊加（除了混沌）。<BR>潛行時用法杖右擊裝有升級的那一側即可移除升級。<BR>§l風：§r 傀儡能將它的速度優勢用於合成。傀儡速度越快，合成的也就越快。但使用該升級的傀儡更易疲倦，
-Automagy.research_page.GOLEMWORKBENCH_UPGRADE.2=這也就意味著需要更多的§8Fabrico§0源質來讓其全速工作。<BR>§l火：§r 傀儡能多記憶一個配方。相應的，工作臺內可用的格子也會多出一套。每個工作臺最多隻能安裝§l兩個§r該種升級。<BR>§l地：§r 傀儡能將它的力量優勢用於合成。傀儡越強壯合成就越快。儘管加速效果稍弱於風的升級，但傀儡的耐力也會提升，不那麼容易疲倦了。
-Automagy.research_page.GOLEMWORKBENCH_UPGRADE.3=§l混沌：§r 合成配方不再作為精準匹配而是以形狀來確定。底部第一個槽裡的物品如果在配方中，都會被當做一個佔位符。傀儡會檢查工作臺含有的其他物品，以此來判斷用其他物品之一來替換佔位符是否能製作出所需的產物。<BR>舉例來說，在合成欄的一格中放入木棍，另一格放入羊毛，然後在下方最左邊的槽中放入木棍，這樣就能讓傀儡合成所有顏色的羊毛了（前提是提供所需的染料）。<BR>這般模糊的邏輯也伴隨著代價，使用該種升級的傀儡會更容易疲勞。
+Automagy.research_page.GOLEMWORKBENCH_UPGRADE.1=在傀儡升級的基礎上，你開發出了一系列新的升級，用於增強傀儡工作台的和合成效能。<BR>一次最多能安裝4個升級，每個側面一個。同種類型升級的效果可以疊加（除了混沌）。<BR>潛行時用法杖右擊裝有升級的那一側即可移除升級。<BR>§l風：§r 傀儡能將它的速度優勢用於合成。傀儡速度越快，合成的也就越快。但使用該升級的傀儡更易疲倦，
+Automagy.research_page.GOLEMWORKBENCH_UPGRADE.2=這也就意味著需要更多的§8Fabrico§0源質來讓其全速工作。<BR>§l火：§r 傀儡能多記憶一個配方。相應的，工作台內可用的格子也會多出一套。每個工作台最多隻能安裝§l兩個§r該種升級。<BR>§l地：§r 傀儡能將它的力量優勢用於合成。傀儡越強壯合成就越快。儘管加速效果稍弱於風的升級，但傀儡的耐力也會提升，不那麼容易疲倦了。
+Automagy.research_page.GOLEMWORKBENCH_UPGRADE.3=§l混沌：§r 合成配方不再作為精準匹配而是以形狀來確定。底部第一個槽裡的物品如果在配方中，都會被當做一個佔位符。傀儡會檢查工作台含有的其他物品，以此來判斷用其他物品之一來替換佔位符是否能製作出所需的產物。<BR>舉例來說，在合成欄的一格中放入木棍，另一格放入羊毛，然後在下方最左邊的槽中放入木棍，這樣就能讓傀儡合成所有顏色的羊毛了（前提是提供所需的染料）。<BR>這般模糊的邏輯也伴隨著代價，使用該種升級的傀儡會更容易疲勞。
 
 Automagy.research_name.AMNESIASTONE=遺忘之石
 Automagy.research_text.AMNESIASTONE=忘卻吧！
@@ -431,9 +431,9 @@ Automagy.research_page.MOBLURE.4=將強度使用得巧妙的話，也能讓生�
 
 Automagy.research_name.DIMENSIONLURE=異界之餌
 Automagy.research_text.DIMENSIONLURE=來自遠方的呼喚
-Automagy.research_page.DIMENSIONLURE.1=地獄之核與塞壬之餌的共性是你發現兩者可以共同執行。經過對塞壬之餌和地獄反應爐結構的調整，你就能讓其生成生物而不是方塊。<BR>The §l異界之餌§r會探入地獄那些無人所知的角落尋找目標，開啟跨越空間的裂痕並吸引那裡的生物們。為了實現這個過程，地獄之核與異界之餌都需要消耗相當量的源質。地獄之核所需的§cIgnis§Centivis也會增加。<BR>需求的源質型別取決於目標生物，
-Automagy.research_page.DIMENSIONLURE.2=倘若不指定目標，就只會隨機吸引生物而來。（簡單來說就是所用的誘餌必須為生物量身定做）<BR>生物型別透過在地獄之核結構中放入基礎符文黑曜石以及對應生物的特殊符文黑曜石來確定。可使用多種型別的生物指定符文，但需要§l至少四個§r該種型別的符文。你不能將生物指定符文與方塊指定符文裝在同一個結構內。<BR>異界之餌方塊必須放在地獄之核下方6~8格，中間不能有固體方塊阻隔。周圍還需要放置一圈基礎的符文黑曜石，
-Automagy.research_page.DIMENSIONLURE.3=如前一頁所示的那樣。生成的生物會出項在該平臺與地獄之核的結構之間。<BR>搭建完畢後，先用法杖右擊餌石，之後再右擊地獄之核就會開始吸引生物出現。<LINE>不幸的是，該過程不是那麼穩定。有機率產生各種負面效果，甚至會影響到召喚的生物。為瞭解決這個問題，你可以在圓的四個角上放置§l黑曜石圖騰§r柱。柱子越高，越穩定。
+Automagy.research_page.DIMENSIONLURE.1=地獄之核與塞壬之餌的共性是你發現兩者可以共同執行。經過對塞壬之餌和地獄反應爐結構的調整，你就能讓其生成生物而不是方塊。<BR>The §l異界之餌§r會探入地獄那些無人所知的角落尋找目標，開啟跨越空間的裂痕並吸引那裡的生物們。為了實現這個過程，地獄之核與異界之餌都需要消耗相當量的源質。地獄之核所需的§cIgnis§Centivis也會增加。<BR>需求的源質類型取決於目標生物，
+Automagy.research_page.DIMENSIONLURE.2=倘若不指定目標，就只會隨機吸引生物而來。（簡單來說就是所用的誘餌必須為生物量身定做）<BR>生物類型透過在地獄之核結構中放入基礎符文黑曜石以及對應生物的特殊符文黑曜石來確定。可使用多種類型的生物指定符文，但需要§l至少四個§r該種類型的符文。你不能將生物指定符文與方塊指定符文裝在同一個結構內。<BR>異界之餌方塊必須放在地獄之核下方6~8格，中間不能有固體方塊阻隔。周圍還需要放置一圈基礎的符文黑曜石，
+Automagy.research_page.DIMENSIONLURE.3=如前一頁所示的那樣。生成的生物會出項在該平台與地獄之核的結構之間。<BR>搭建完畢後，先用法杖右擊餌石，之後再右擊地獄之核就會開始吸引生物出現。<LINE>不幸的是，該過程不是那麼穩定。有機率產生各種負面效果，甚至會影響到召喚的生物。為瞭解決這個問題，你可以在圓的四個角上放置§l黑曜石圖騰§r柱。柱子越高，越穩定。
 Automagy.research_page.DIMENSIONLURE.4=（每個柱子做多四格高。）為了起到最好的效果，四根柱子要高度相同。<BR>在柱頂或地獄之核結構的四臂下方放上§l閃耀之光§r也能提升穩定性。<IMG>automagy:textures/gui/dimensional-lure.png:0:0:255:235:.5</IMG>
 Automagy.research_page.DIMENSIONLURE.5=§l   §n符文黑曜石（烈焰人）§r<BR>既然灰燼之心已經注入了地獄之核，那麼或許最容易吸引的就是烈焰人了。事實上，有時候也會§o製造§r出額外的烈焰人(無消耗那種情況下也會有些不穩定。<BR>地獄之核與異界之餌都會消耗源質，具體資訊如下。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
 Automagy.research_page.DIMENSIONLURE.6=<LINE>你確信自己還能做出其他一些符文黑曜石來吸引地獄的各種生物。這只需要一點點的研究即可。<BR>用你的魔導透鏡掃描目標生物，然後在戰鬥中將其擊敗。你應該就會知道你所要了解的。<LINE>
@@ -444,7 +444,7 @@ Automagy.research_page.NETHERRUNE_ZOMBIE.1=殭屍豬人不愧為一群頭腦簡�
 
 Automagy.research_name.NETHERRUNE_GHAST=符文黑曜石：惡魂
 Automagy.research_text.NETHERRUNE_GHAST=將他們從痛苦中解放
-Automagy.research_page.NETHERRUNE_GHAST.1=談到惡魂就不得不想到兩個問題： 首先，它們很冷淡，難以被吸引。其次讓它們透過的裂痕必須很大才行。所需的源質型別截然不同，召喚的過程也不會像平常那樣穩定。<BR>此外，還是由於它們的體型，整個結構的構造也有特別的需求。地獄之核與異界之餌之間的距離必須至少8格（而不是平常的6格）。
+Automagy.research_page.NETHERRUNE_GHAST.1=談到惡魂就不得不想到兩個問題： 首先，它們很冷淡，難以被吸引。其次讓它們透過的裂痕必須很大才行。所需的源質類型截然不同，召喚的過程也不會像平常那樣穩定。<BR>此外，還是由於它們的體型，整個結構的構造也有特別的需求。地獄之核與異界之餌之間的距離必須至少8格（而不是平常的6格）。
 Automagy.research_page.NETHERRUNE_GHAST.2=§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §5高§0。
 
 Automagy.research_name.NETHERRUNE_SKELETON=符文黑曜石：骷髏
@@ -461,12 +461,12 @@ Automagy.research_page.NETHERRUNE_BAT.1=炎蝠那自我毀滅的天性使得它�
 
 Automagy.research_name.NETHERRUNE_WISP=符文黑曜石：精靈
 Automagy.research_text.NETHERRUNE_WISP=火之化身
-Automagy.research_page.NETHERRUNE_WISP.1=儘管你已在地獄發現了許多型別的精靈，其中大部分都能透過異界之餌所創造的裂痕。但它們的魔法能量會相互影響使得各自消散。你最終發現了一種完全不同於這些精靈的地獄變種。<BR>將你的裝置連線到它們的領地，加上其與生俱來的穩定性，你相信這樣一來便能召喚它們了 - 但你需要一個十分穩定的結構來進行。
+Automagy.research_page.NETHERRUNE_WISP.1=儘管你已在地獄發現了許多類型的精靈，其中大部分都能透過異界之餌所創造的裂痕。但它們的魔法能量會相互影響使得各自消散。你最終發現了一種完全不同於這些精靈的地獄變種。<BR>將你的裝置連線到它們的領地，加上其與生俱來的穩定性，你相信這樣一來便能召喚它們了 - 但你需要一個十分穩定的結構來進行。
 Automagy.research_page.NETHERRUNE_WISP.2=§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §4危險§0。
 
 Automagy.research_name.FOCUSCRAFTING=法杖核心：合成
 Automagy.research_text.FOCUSCRAFTING=把它們放到一起
-Automagy.research_page.FOCUSCRAFTING.1=不管你離家多遠，合成的需求總是沒完沒了。油的合成還需要你到處都帶著工作臺，現在你找到了更簡便的解決方法。<BR>這個法杖核心能用於製造奧術工作臺所能合成的一切物品（不管是普通合成還是奧術合成）。安裝核心的法杖將會提供合成所需的源質。<BR>你只要裝好核心再用法杖右擊即可開始合成。如果裝著核心的法杖在工具欄裡，你也可以按'%s'鍵來開啟合成。
+Automagy.research_page.FOCUSCRAFTING.1=不管你離家多遠，合成的需求總是沒完沒了。油的合成還需要你到處都帶著工作台，現在你找到了更簡便的解決方法。<BR>這個法杖核心能用於製造奧術工作台所能合成的一切物品（不管是普通合成還是奧術合成）。安裝核心的法杖將會提供合成所需的源質。<BR>你只要裝好核心再用法杖右擊即可開始合成。如果裝著核心的法杖在工具欄裡，你也可以按'%s'鍵來開啟合成。
 Automagy.research_page.FOCUSCRAFTING.2=當你開啟合成欄的時候會消耗少量vis，每次合成奧術物品的時候也會消耗一些。（普通合成的物品不需要額外的vis。）
 Automagy.research_page.FOCUSCRAFTING.STAFF=§l        §n魔杖§r<BR>儘管這個核心也能裝在魔力手杖上面，但這類工具顯然不適合奧術合成的精密工作。但它仍能進行普通的合成。
 

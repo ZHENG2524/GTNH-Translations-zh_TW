@@ -21,11 +21,11 @@ gadomancy.research_page.GOLEMSILVERWOOD.1=這種傀儡由銀樹雕刻而就，�
 
 tc.research_name.GADOMANCY.GOLEMRUNICSHIELD=傀儡守護符文
 tc.research_text.GADOMANCY.GOLEMRUNICSHIELD=現已支援你的小朋友！
-gadomancy.research_page.GOLEMRUNICSHIELD.1=經過進一步對守護魔法的測驗，你已發現了為傀儡附加符文護盾的方法。<BR>如同力量在你身上凝聚成防衛盾一般，符文護盾會在傀儡身上形成一道魔法壁壘，可以免疫絕大多數型別的傷害。<BR>然而它並不能免疫溺水以及一些自然傷害。
+gadomancy.research_page.GOLEMRUNICSHIELD.1=經過進一步對守護魔法的測驗，你已發現了為傀儡附加符文護盾的方法。<BR>如同力量在你身上凝聚成防衛盾一般，符文護盾會在傀儡身上形成一道魔法壁壘，可以免疫絕大多數類型的傷害。<BR>然而它並不能免疫溺水以及一些自然傷害。
 
 tc.research_name.GADOMANCY.STICKYJAR=黏性罐子
 tc.research_text.GADOMANCY.STICKYJAR=把它們粘起來！
-gadomancy.research_page.STICKYJAR.1=源質罐子之於神秘使，有如黃油之於麵包一樣重要，但如果還要考慮大量潛在的源質管道，情況就又不一樣了。你決定給罐子底部加一些黏合劑來緩解管道佈線壓力。底部塗過黏合劑的罐子被放下時會粘在表面上，即使是方塊的側面，甚至是底面。破壞罐子並不會影響這種黏性，這樣黏性罐子就可以回收使用了。另外，很多其它型別的源質罐子也可以加這種黏合劑。
+gadomancy.research_page.STICKYJAR.1=源質罐子之於神秘使，有如黃油之於麵包一樣重要，但如果還要考慮大量潛在的源質管道，情況就又不一樣了。你決定給罐子底部加一些黏合劑來緩解管道佈線壓力。底部塗過黏合劑的罐子被放下時會粘在表面上，即使是方塊的側面，甚至是底面。破壞罐子並不會影響這種黏性，這樣黏性罐子就可以回收使用了。另外，很多其它類型的源質罐子也可以加這種黏合劑。
 
 tc.research_name.GADOMANCY.ARCANEDROPPER=奧術投擲器
 tc.research_text.GADOMANCY.ARCANEDROPPER=淫穢之物終被捕獲
@@ -44,10 +44,10 @@ tc.research_text.GADOMANCY.INFUSIONCLAW=懸浮的玩意！
 gadomancy.research_page.INFUSIONCLAW.1=很多時候你都在想，如何讓注魔的過程自動化，這樣就可以不用總是守在符文矩陣旁邊了，然後你發現你被法杖充能基座給涮了。你已經證明令基座移動法杖是相當困難的，但並非完全不可能。最終搞出來的裝置有極微弱的感知能力，而且和你的靈魂繫結在一起，真是令人感到噁心的靈魂連線，但是它看起來工作正常就夠了！你的眼皮已經顫抖很久了……你確定它工作正常……也許吧……\n提供vis即可為法杖充能。
 gadomancy.research_page.INFUSIONCLAW.2=將此裝置置於符文矩陣正上方，並在其上方放置一柄法杖或手杖。若在其GUI內的選項中打勾，那麼只有空法杖才會被抽出。這個過程還會向任何由其啟動的注魔增加不穩定性，其具體程度將會由法杖或手杖的等級來決定。通常手杖會更穩定，但不穩定性很大程度上還是取決於杖的容量。<BR>你現在可以透過給予四個側面的任意一個以紅石訊號來觸發注魔過程。<BR>這個裝置還可以用於自動化生產魔導手冊和魔法坩鍋，使得你魔導手冊和坩鍋工廠的夢想終於成為可能！
 
-tc.research_name.GADOMANCY.REMOTEJAR=映象罐子
-tc.research_text.GADOMANCY.REMOTEJAR=映象運輸
-gadomancy.research_page.REMOTEJAR.1=源質鏡子可謂是注魔時極好的源質移動方式，但你，卻不可思議地認為，它還有未發掘的潛力。兩面源質鏡子連線在一起時，源質會高效地在兩點之間流動。若是將源質鏡子置於特殊改裝過的源質罐子中，那麼罐子中的空間就可以與鏡中虛空相連線。要連線兩個罐子，只需將一個映象罐子放下來，並手持源質魔鏡右擊即可。
-gadomancy.research_page.REMOTEJAR.2=若已有既存網路，罐子將會加入這個網路中。和源質魔鏡不同，映象罐子網路可以容納多個罐子。各個罐子彼此共享並平攤其空間，簡單來說就是一個有兩個罐子的網路會有兩個罐子共同持有源質，若有三個罐子那就是三個，以此類推。另外，若映象罐子滿了，它就會試圖將源質分攤到同網路中的別的罐子中去。
+tc.research_name.GADOMANCY.REMOTEJAR=鏡像罐子
+tc.research_text.GADOMANCY.REMOTEJAR=鏡像運輸
+gadomancy.research_page.REMOTEJAR.1=源質鏡子可謂是注魔時極好的源質移動方式，但你，卻不可思議地認為，它還有未發掘的潛力。兩面源質鏡子連線在一起時，源質會高效地在兩點之間流動。若是將源質鏡子置於特殊改裝過的源質罐子中，那麼罐子中的空間就可以與鏡中虛空相連線。要連線兩個罐子，只需將一個鏡像罐子放下來，並手持源質魔鏡右擊即可。
+gadomancy.research_page.REMOTEJAR.2=若已有既存網路，罐子將會加入這個網路中。和源質魔鏡不同，鏡像罐子網路可以容納多個罐子。各個罐子彼此共享並平攤其空間，簡單來說就是一個有兩個罐子的網路會有兩個罐子共同持有源質，若有三個罐子那就是三個，以此類推。另外，若鏡像罐子滿了，它就會試圖將源質分攤到同網路中的別的罐子中去。
 
 tc.research_name.GADOMANCY.ETHEREAL_FAMILIAR=天域使魔
 tc.research_text.GADOMANCY.ETHEREAL_FAMILIAR=一位奧法追隨者
@@ -97,7 +97,7 @@ tc.research_name.GADOMANCY.ESSENTIA_COMPRESSOR=源質冷凝器
 tc.research_text.GADOMANCY.ESSENTIA_COMPRESSOR=不再煩躁的源質貯存
 gadomancy.research_page.ESSENTIA_COMPRESSOR.1=當你在實驗虛空類材料時，虛空種子與液體源質間發生了一個奇怪的反應。當虛空種子長時間靠近罐子時，它釋放的能量會產生一種奇特的傾向，使罐中的源質凝結成略為密集的狀態，從而在罐中騰出少量空間，而實際並沒有破壞任何源質。進行了進一步的測試之後，你發現虛空種子自身並沒有足夠的力量去造就這種奇異的現象，但是隨著提高這枚異界虛空之物的能量，或許源質能被壓縮至一個極度緻密的狀態。
 gadomancy.research_page.ESSENTIA_COMPRESSOR.2=透過壓縮大量虛空物質，將所得產物注入虛空種子中製造一個微小的跨維度裂隙，再將由此產生的異常凍結在晶體外殼內，就可以將虛空種子的力量釋放幾千倍。儘管這個嶄新的“暗影元素”看上去十分穩定，但是它所造成的影響絕不是一個普通的罐子所能完成的。自然，它也有不幸的副作用，空間中所有的光線都將被它吞噬，只要從包裹中掏出它亦或是它不小心掉在了地上……
-gadomancy.research_page.ESSENTIA_COMPRESSOR.4=透過把暗影元素裝配在穩定的魔靈法柱之上，該裝置便能貯存大量的源質。為了完成這一多方塊結構，需要將三塊共同放在它們彼此之上，並且搖動你的魔杖。源質冷凝器可以在其內部儲存任何型別的源質，但是就像只能儲存200多點源質的源質庫一樣，這臺裝置確實也受到一些限制。
+gadomancy.research_page.ESSENTIA_COMPRESSOR.4=透過把暗影元素裝配在穩定的魔靈法柱之上，該裝置便能貯存大量的源質。為了完成這一多方塊結構，需要將三塊共同放在它們彼此之上，並且搖動你的魔杖。源質冷凝器可以在其內部儲存任何類型的源質，但是就像只能儲存200多點源質的源質庫一樣，這臺裝置確實也受到一些限制。
 gadomancy.research_page.ESSENTIA_COMPRESSOR.6=難以置信的能量盤旋在該儲存器的核心，所以管道無法與其安全相連，其中儲存的源質也並不會直接被供應至裝置之中。傀儡必須與第一個源質冷凝器繫結才能開始轉移。然而，源質冷凝器將會平均地將內中源質分攤給每個罐子，源質庫或是源質之鏡，它們在該網路中最多存在五個，但是它們所能接受到的源質總是會比冷凝器中現存源質少。雖然物理層面上只能藉助傀儡來對其中的源質進行操作，但是在用於注魔時，它們也能透過源質之鏡傳輸。
 gadomancy.research_page.ESSENTIA_COMPRESSOR.8=源質冷凝器，就像是你先前接觸過的諸多源質裝置一樣，一旦大量的液體源質出現問題，對於你的身體……任何對於該結構的更改（如果該結構中仍含有源質的話）將會導致一次魔力噴湧，咒波將會留下它來過的痕跡。與那些更加溫和的情況不同，在它冷凝源質之時，它將會立即釋放足以毀滅土地的汙染。
 gadomancy.research_page.ESSENTIA_COMPRESSOR.9=如果暗影元素被放置在荒古基座附近的冷凝器中，冷凝器器內部的核心將會被消耗並讓其內部 的容量升至一個合適的位置，透過此方法最高可以讓其容納每種源質3000點。<LINE>你注意到身處裝置附近時，暗影元素中的虛空之力能將你緩慢拉向它，它可以變得更加巨大嗎？你不這麼認為……希望如此……
@@ -210,7 +210,7 @@ gadomancy.eldritch.maze.default=你在%s內完成了詭異迷宮。最佳時間�
 tile.BlockStickyJar.name=黏性罐子
 tile.BlockArcaneDropper.name=奧術投擲器
 tile.BlockInfusionClaw.name=注魔爪
-tile.BlockRemoteJar.name=映象罐子
+tile.BlockRemoteJar.name=鏡像罐子
 item.nodePlacer.name=靈氣節點
 tile.BlockNode.name=靈氣節點
 tile.BlockExtendedNodeJar.name=缸中節點

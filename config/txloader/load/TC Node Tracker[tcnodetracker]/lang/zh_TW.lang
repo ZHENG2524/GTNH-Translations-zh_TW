@@ -24,7 +24,7 @@ btn.reset.name=重置
 btn.arrowtype.name=箭頭類別
 # Other
 str.distance.name=距離
-str.type.name=型別
+str.type.name=類型
 str.instruction.name=點選源質以獲取節點列表
 str.configarrow.name=# 方塊 - 下方
 str.above.name=你的上方

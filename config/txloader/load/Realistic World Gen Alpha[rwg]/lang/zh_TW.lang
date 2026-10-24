@@ -7,9 +7,9 @@ rwg.buginfo.line5=此版本的 RWG 同時支援兩種世界生成風格，但在
 rwg.buginfo.perlin=除了 2.2.0.0 之外所有版本使用的RWG版本
 rwg.buginfo.opensimplex=2.2.0.0 使用的 RWG 版本
 
-rwg.noise.current_type=當前噪聲型別為 %s
-rwg.noise.unchanged=噪聲型別未改變。
-rwg.noise.was_set_to.unknown=噪聲型別設定為未知，將使用預設的 Perlin 噪聲。
-rwg.noise.was_set_to.generic=噪聲型別設定為%s
+rwg.noise.current_type=當前噪聲類型為 %s
+rwg.noise.unchanged=噪聲類型未改變。
+rwg.noise.was_set_to.unknown=噪聲類型設定為未知，將使用預設的 Perlin 噪聲。
+rwg.noise.was_set_to.generic=噪聲類型設定為%s
 rwg.noise.instant_new_chunks=所有新區塊將立即以選定的演算法生成。
 rwg.noise.needs_restart=必須重新載入世界（重啟伺服器或單人遊戲重新登入）才能使更改生效。

@@ -18,7 +18,7 @@ customtooltip.recharge_tier_machine=可以在%s§7機器§r中充電
 
 ## Bags
 customtooltip.backpack_slots=%s 格
-customtooltip.crafting_backpack_slots=有 %s 格空間，自帶工作臺的揹包
+customtooltip.crafting_backpack_slots=有 %s 格空間，自帶工作台的揹包
 
 ## Chisel
 customtooltip.chisel_mod=§5鑿子mod的鑿子

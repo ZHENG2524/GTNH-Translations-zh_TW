@@ -150,7 +150,7 @@ tooltip.wawla.pixelmon.speed=速度
 tooltip.wawla.pixelmon.iv=IV
 tooltip.wawla.pixelmon.ev=EV
 tooltip.wawla.pixelmon.growth=成長
-tooltip.wawla.pixelmon.product=栗子型別
+tooltip.wawla.pixelmon.product=栗子類型
 tooltip.wawla.pixelmon.nature=天性
 tooltip.wawla.pixelmon.size=成長狀態
 
@@ -159,7 +159,7 @@ entity.pixelmon.Pixelmon.name=神奇寶貝
 
 #Pixelmon Options
 option.wawla.pixelmon.showFriendship=是否顯示心情?
-option.wawla.pixelmon.showApricornProduct=是否顯示栗子型別?
+option.wawla.pixelmon.showApricornProduct=是否顯示栗子類型?
 option.wawla.pixelmon.showApricornGrowth=是否顯示栗子成長進度?
 option.wawla.pixelmon.showAbility=是否顯示能力?
 option.wawla.pixelmon.showHeldItem=是否顯示持有物品?
@@ -193,7 +193,7 @@ description.enchantment.artifice.resistance=一種護甲附魔，可抵禦魔法
 #Thaumcraft Enchantment Descriptions
 description.enchantment.repair=使物品隨著時間的推移修復耐久。此附魔有兩個等級，第二級以更快的速度恢復耐久。此附魔可用於武器、法杖核心和別的工具，但不包括剪刀。
 description.enchantment.haste=移動速度提升。此附魔有三個等級，速度依次遞增。
-description.enchantment.potency=提升法術效果。此附魔有三個等級，提升效果依次遞增。此附魔只能用於法杖核心並且根據核心的型別提升不同的效果。
+description.enchantment.potency=提升法術效果。此附魔有三個等級，提升效果依次遞增。此附魔只能用於法杖核心並且根據核心的類型提升不同的效果。
 description.enchantment.frugal=降低使用法杖核心消耗的vis數量。此附魔有三個等級，減免效果依次遞增。此附魔只能用於法杖核心。
 description.enchantment.wandfortune=此附魔很像時運附魔，能夠在採集物品時增加產量，此附魔有三個等級，獲得額外產量機率依次遞增。此附魔只能用於法杖核心。
 
@@ -321,7 +321,7 @@ description.enchantment.elderKnowledge=擊殺怪物有機率獲取知識.
 description.enchantment.eldritchBane=對終界人或邪術生物造成更多傷害.
 description.enchantment.magicTouch=擊殺生物時掉落更多的原始要素球.
 description.enchantment.tainted=攻擊時會造成額外的咒波傷害.
-description.enchantment.vaporising=擊殺怪物時有一定機率掉落對應型別的晶化源質.
+description.enchantment.vaporising=擊殺怪物時有一定機率掉落對應類型的晶化源質.
 
 #Misc. Enchantments
 description.enchant.cofh.holding=提升保險箱或揹包的容量(每級8-9格).
@@ -366,7 +366,7 @@ description.villager.profession.fantastic.fantastic_fisherman=神奇漁夫
 description.villager.profession.defeatedcrow.villager_cafe=咖啡店老闆
 description.villager.profession.defeatedcrow.villager_yome=倉庫管理員
 description.villager.profession.grccellar.brewer=釀造師
-description.villager.profession.peripheralsplusplus.CCVillager=計算機技術員
+description.villager.profession.peripheralsplusplus.CCVillager=電腦技術員
 description.villager.profession.evilcraft.werewolfVillager=狼人
 description.villager.profession.redgear_brewcraft.villagerwitch=女巫
 description.villager.profession.redgear_brewcraft.villagerwarlock=術士

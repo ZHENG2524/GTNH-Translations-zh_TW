@@ -72,7 +72,7 @@ ae2stuff.visualiser.mode.no_num=顯示頻道和節點
 ae2stuff.visualiser.mode.nodes_one_channel=顯示節點和一個無線接入器連線
 ae2stuff.visualiser.mode.one_channel=顯示一個無線接入器連線
 ae2stuff.visualiser.mode.p2p=顯示P2P連線
-ae2stuff.visualiser.mode.proxy=顯示樣板輸入映象連線
+ae2stuff.visualiser.mode.proxy=顯示樣板輸入鏡像連線
 
 itemGroup.bdew.ae2stuff=應用能源附加機器
 ae2stuff.key.mode=模式切換

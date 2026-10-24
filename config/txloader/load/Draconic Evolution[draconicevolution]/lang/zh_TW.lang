@@ -153,7 +153,7 @@ msg.teleporterOutOfFuel.txt=§c燃料耗盡! ! !
 msg.teleporterOutOfPearls.txt=§c終界珍珠耗盡! ! !
 msg.teleporterPlayerT1.txt=你需要一個更強大的傳送符咒
 msg.teleporterPlayerConsent.txt=玩家必須用潛行(Shift)同意他們
-msg.spawnerInfo1.txt=生物型別
+msg.spawnerInfo1.txt=生物類型
 msg.spawnerInfo2.txt=需要玩家
 msg.spawnerInfo3.txt=忽視生成條件
 msg.spawnerInfo4.txt=刷怪籠等級
@@ -633,8 +633,8 @@ gui.de.particleGenerator.info.3=  - 接下來的三個欄位(移動X，Y，Z）�
 gui.de.particleGenerator.info.4=  -“延遲”欄位設定每個粒子生成的延遲時間(單位tick)，例如1=20/s，20=1/s，100=1/5s。\n  -“淡出”欄位設定粒子消失時的淡出時間(單位tick)。注意：這會加到粒子的生存時間上。\n  -“重力”欄位設定粒子如何被重力影響。\n  -“方塊碰撞”決定粒子是否會與方塊碰撞。\n  -“選擇的粒子”可以在不同的可選的粒子間切換。 
 gui.de.particleGenerator.info.5.title=紅石控制\n\n
 gui.de.particleGenerator.info.5=  預設情況下需要紅石訊號來讓發生器工作。\n 然而如果你空手按住shift右擊發生器，會讓它進入反轉模式。\n 發生器的8個角上的小方塊表示了當前的紅石模式。
-gui.de.particleGenerator.info.6.title=計算機控制\n\n
-gui.de.particleGenerator.info.6=  發生器可以被計算機控制。\n  它提供了一些相對直白的API：\n\n  setGeneratorProperty(property, value)\n  getGeneratorState()\n  resetGeneratorState()
+gui.de.particleGenerator.info.6.title=電腦控制\n\n
+gui.de.particleGenerator.info.6=  發生器可以被電腦控制。\n  它提供了一些相對直白的API：\n\n  setGeneratorProperty(property, value)\n  getGeneratorState()\n  resetGeneratorState()
 gui.de.particleGenerator.info.7=  發生器的整體狀態可以透過getGeneratorState獲得，使用setGeneratorProperty可以一次修改一個屬性。屬性名字是字串，而且幾乎都與英文版 GUI 上的標籤相同。
 
 gui.de.insert.txt=插入

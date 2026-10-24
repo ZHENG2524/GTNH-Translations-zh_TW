@@ -693,6 +693,6 @@ guidenh.debug.info.fps=FPS：%s
 guidenh.debug.info.memory=記憶體：%sMB/%s MB（%s %%）
 guidenh.debug.info.hovered_element=懸停元素：
 guidenh.debug.info.parent_element=父元素：
-guidenh.debug.info.class_name=型別：%s
+guidenh.debug.info.class_name=類型：%s
 guidenh.debug.info.size=尺寸：%s x %s
 guidenh.debug.info.position=位置：%s，%s

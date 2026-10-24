@@ -1,7 +1,7 @@
 # Misc
 gamerules=遊戲模式
 serverutilities.lang.timer.shutdown=伺服器在%s內關閉
-serverutilities.lang.killed_entities=已殺死 %d 個型別為“%s”的實體
+serverutilities.lang.killed_entities=已殺死 %d 個類型為“%s”的實體
 serverutilities.lang.kickme=你踢出了自己
 serverutilities.lang.upload_crash=上傳崩潰報告
 serverutilities.lang.uploaded_crash=上傳崩潰報告! %s
@@ -179,7 +179,7 @@ serverutilities.world.enable_player_sleeping_percentage=啟用玩家入睡百分
 serverutilities.world.player_sleeping_percentage=玩家入睡百分比預設值
 serverutilities.world.vampire_sleep_percent=吸血鬼睡眠機率
 serverutilities.world.blockmobspawninginclaims=在宣告的區塊中阻止生物生成
-serverutilities.world.mobtypestoblock=禁止的生物型別
+serverutilities.world.mobtypestoblock=禁止的生物類型
 
 serverutilities.world.skip_night=§6醒醒，醒醒，該起床了……大家早上好！
 serverutilities.world.skip_day=§4太陽已經落山，影子越拉越長……夜晚屬於我們！
@@ -377,7 +377,7 @@ team_config.serverutilities.explosions=在已宣告區塊中啟用爆炸
 team_config.serverutilities.endermen=在已宣告區塊內允許終界人搬運方塊
 team_config.serverutilities.fake_players=允許假玩家與方塊進行互動
 team_config.serverutilities.mob_spawning=在已宣告的區塊內禁用生物生成
-team_config.serverutilities.blocked_creatures=在已宣告的區塊內要禁止的生物型別
+team_config.serverutilities.blocked_creatures=在已宣告的區塊內要禁止的生物類型
 
 # Sidebar Buttons
 sidebar_button=側邊欄按鈕

@@ -125,7 +125,7 @@ genetics.machine.labMachine.labMachine=實驗臺
 
 genetics.machine.labMachine.analyser=分析儀
 gui.genetics.machine.labMachine.analyser.title=分析儀
-genetics.machine.labMachine.analyser.info=分析儀可分析可增殖個體和 DNA 序列，並確定當前的基因型別。此過程需要 DNA 染料，可由紫色染料和螢光石粉合成得到。
+genetics.machine.labMachine.analyser.info=分析儀可分析可增殖個體和 DNA 序列，並確定當前的基因類型。此過程需要 DNA 染料，可由紫色染料和螢光石粉合成得到。
 genetics.machine.analyser.dnaDye=DNA 染料
 genetics.machine.analyser.unanalysedItem=未經分析的物品
 genetics.machine.analyser.error.alreadyAnalysed.title=已經過分析
@@ -223,7 +223,7 @@ genetics.gui.analyst.biology.flightSpeed=飛行速度
 genetics.gui.analyst.biology.blocksPerSec=%d 方塊每秒
 genetics.gui.analyst.biology.mothSpawn.perLeaf=蝴蝶生成頻率\n每個樹葉 %s
 genetics.gui.analyst.biology.mothSpawn=蝴蝶生成頻率\n%s
-genetics.gui.analyst.biology.plantTypes=植物型別
+genetics.gui.analyst.biology.plantTypes=植物類型
 genetics.gui.analyst.biology.averageLifespan=平均壽命
 genetics.gui.analyst.biology.pollination=授粉
 genetics.gui.analyst.biology.seedDispersal=種子傳播

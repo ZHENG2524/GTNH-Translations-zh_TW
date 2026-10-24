@@ -16,10 +16,10 @@ openmodslib.command.api_class=API 資訊:名稱='%s',擁有者Mod='%s',版本='%
 openmodslib.command.class_provider=類來自於檔案%s(模式%s)
 
 openmodslib.command.calc_set=將%s的值設定為%s
-openmodslib.command.calc_no_type=請提供一個新的計算器型別
+openmodslib.command.calc_no_type=請提供一個新的計算器類型
 openmodslib.command.calc_no_name=請提供計算器名稱
 openmodslib.command.calc_invalid_name=無效的計算器名稱！
-openmodslib.command.calc_invalid_type=無效的計算器型別！允許的型別:%s
+openmodslib.command.calc_invalid_type=無效的計算器類型！允許的類型:%s
 openmodslib.command.calc_invalid_mode=無效的計算器模式！允許的模式:%s
 openmodslib.command.calc_no_key=請提供屬性名
 openmodslib.command.calc_no_value=請提供新的屬性值

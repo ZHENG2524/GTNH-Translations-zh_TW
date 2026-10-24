@@ -64,7 +64,7 @@ vendingmachine.command.usage=用法：%s
 vendingmachine.command.error.player_not_found=未找到玩家“%s”。
 vendingmachine.command.error.integer_format=無效數量“%s”，數量應當為整數。
 vendingmachine.command.no_wallet=未找到錢包。
-vendingmachine.command.error.invalid_currency_with_list=未知硬幣型別“%s”。有效的硬幣型別為%s。將滑鼠懸停在硬幣名稱上，即可檢視此命令接受的未本地化名稱。
+vendingmachine.command.error.invalid_currency_with_list=未知硬幣類型“%s”。有效的硬幣類型為%s。將滑鼠懸停在硬幣名稱上，即可檢視此命令接受的未本地化名稱。
 
 vendingmachine.command.add.all_currency=已給予 %s 所有種類的硬幣各 %s 個。
 vendingmachine.command.add.specific_currency=已將 %s 個%s新增給 %s。

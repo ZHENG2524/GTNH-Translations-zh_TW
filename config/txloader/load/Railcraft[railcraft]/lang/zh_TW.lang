@@ -107,7 +107,7 @@ entity.Railcraft.cart.track.layer.name=軌道鋪設車
 entity.Railcraft.cart.track.relayer.name=軌道替換車
 entity.Railcraft.cart.track.remover.name=軌道拆除車
 entity.Railcraft.cart.undercutter.name=路基替換車
-entity.Railcraft.cart.work.name=工作臺車
+entity.Railcraft.cart.work.name=工作台車
 
 fluid.creosote=雜酚油
 fluid.steam=蒸汽
@@ -171,7 +171,7 @@ item.railcraft.cart.track.remover.name=軌道拆除車
 item.railcraft.cart.track.remover.tip=拆除它經過的軌道
 item.railcraft.cart.undercutter.name=路基替換車
 item.railcraft.cart.undercutter.tip=改變軌道\n下方的方塊
-item.railcraft.cart.work.name=工作臺車
+item.railcraft.cart.work.name=工作台車
 
 item.railcraft.dust.charcoal.name=木炭粉
 item.railcraft.dust.obsidian.name=黑曜石粉
@@ -438,8 +438,8 @@ railcraft.gui.goggles.aura.signalling=訊號
 railcraft.gui.goggles.aura.surveying=檢測
 railcraft.gui.goggles.aura.tracking=蹤跡
 railcraft.gui.goggles.aura.tuning=調諧
-railcraft.gui.goggles.mode=當前監視型別: @s
-railcraft.gui.goggles.tip=手持護目鏡使用右鍵來變更監視型別
+railcraft.gui.goggles.mode=當前監視類型: @s
+railcraft.gui.goggles.tip=手持護目鏡使用右鍵來變更監視類型
 
 railcraft.gui.help=幫助
 
@@ -523,14 +523,14 @@ railcraft.gui.routing.logic.unrecognized.keyword=未識別關鍵字
 railcraft.gui.routing.slot.label=路由表
 railcraft.gui.routing.table.editor=由@s最後編輯
 railcraft.gui.routing.table.manual.numPages=11
-railcraft.gui.routing.table.manual.page1=列車時刻表，在放入路由探測器或轉轍器中時，定義了一組匹配過往機車的規則。你可以用一套簡單的邏輯語法定義出任意複雜度的控制規則。這套語法使用字首表示式——運算子需要放在運算物件之前。每行限使用一個關鍵字。若沒有指定運算子，則預設使用OR。在工作臺放置多個列車時刻表可以複製其內容。
+railcraft.gui.routing.table.manual.page1=列車時刻表，在放入路由探測器或轉轍器中時，定義了一組匹配過往機車的規則。你可以用一套簡單的邏輯語法定義出任意複雜度的控制規則。這套語法使用字首表示式——運算子需要放在運算物件之前。每行限使用一個關鍵字。若沒有指定運算子，則預設使用OR。在工作台放置多個列車時刻表可以複製其內容。
 railcraft.gui.routing.table.manual.page2=運算子關鍵字：\n   AND - 二元運算子，要求兩個運算物件均為真。\n   OR - 二元運算子，要求至少一個運算物件為真。\n   NOT - 一元運算子，反轉運算物件的真值。
 railcraft.gui.routing.table.manual.page3=條件關鍵字：\n   Dest=<字串>\n      若機車的目的地字串以這條字串開頭，\n      則條件為真。\n      “Dest=null”將匹配沒有目的地的礦車。\n   Owner=<使用者名稱>\n      若機車屬於該名稱的玩家，則條件為真。
 railcraft.gui.routing.table.manual.page4=條件關鍵字：\n   Name=<實體名>\n      若礦車的名稱與此相同，則條件為真。\n      “Name=null”將匹配沒有自定義名稱的礦車。\n   Type=<modid:物品名稱>\n      若與礦車物品名稱相同，則條件為真。
 railcraft.gui.routing.table.manual.page5=條件關鍵字：\n   Riding=<乘客名>\n      若列車被此玩家乘坐，則條件為真。\n   Ridden=<true/false>\n      若列車被玩家乘坐，則條件為真。
 railcraft.gui.routing.table.manual.page6=條件關鍵字：\n   Color=<車身色>,<底盤色>\n      若機車的車身、底盤顏色與其匹配，則條件為真。\n      可以使用“Any”作為萬用字元。\n      可用顏色（請鍵入英文）：Black[黑]\n         Red[紅]、Green[綠]、Brown[棕]\n         Blue[藍]、Purple[紫]、Cyan[青]\n         LightGray[淡灰]、Gray[灰]、Pink[粉]\n         Lime[黃綠]、Yellow[黃]、LightBlue[淡藍]\n         Magenta[品紅]、Orange[橙]、White[白]\n   NeedsRefuel=<true/false>\n      若機車燃料量或水量不足，則條件為真。
 railcraft.gui.routing.table.manual.page7=條件關鍵字：\n   Redstone=<true/false>\n      若路由方塊被紅石充能，則條件為真。
-railcraft.gui.routing.table.manual.page8=條件關鍵字：\n   Loco=<型別>\n      若機車型別與其相符，則條件為真。\n      可用型別（請鍵入英文）：\n         electric[電力]、steam[蒸汽]、none[無]\n      使用“none”時，條件僅在沒有機車時為真。
+railcraft.gui.routing.table.manual.page8=條件關鍵字：\n   Loco=<類型>\n      若機車類型與其相符，則條件為真。\n      可用類型（請鍵入英文）：\n         electric[電力]、steam[蒸汽]、none[無]\n      使用“none”時，條件僅在沒有機車時為真。
 railcraft.gui.routing.table.manual.page9=指令碼範例：\n   Dest=TheFarLands\n   Color=Black,Red\n   AND\n   NOT\n   Owner=RichardG\n   Dest=SecretHideout/OceanEntrance
 railcraft.gui.routing.table.manual.page10=執行結果：\n   上一頁的示例會匹配\n      以“TheFarLands/Milliways”為目的地\n   或\n      車身色為黑、底盤色為紅\n   或\n      以“SecretHideout/OceanEntrance”\n      為目的地，且擁有者不是RichardG\n   的機車。
 railcraft.gui.routing.table.manual.page11=正規表示式：\n   某些條件關鍵字支援正規表示式。\n   要使用正規表示式，需要在“=”前新增一個“?”。\n   語法參同標準的java正規表示式語法。\n支援正規表示式的條件關鍵字：\n   Dest、Name\n範例：\n   Dest?=.*Hill
@@ -942,33 +942,33 @@ tile.railcraft.post.metal.magenta.name=品紅色金屬樁
 tile.railcraft.post.metal.unpainted.name=金屬樁
 tile.railcraft.post.metal.orange.name=橙色金屬樁
 tile.railcraft.post.metal.pink.name=粉色金屬樁
-tile.railcraft.post.metal.platform.name=金屬平臺
-tile.railcraft.post.metal.platform.black.name=黑色金屬平臺
-tile.railcraft.post.metal.platform.blue.name=藍色金屬平臺
-tile.railcraft.post.metal.platform.brown.name=棕色金屬平臺
-tile.railcraft.post.metal.platform.cyan.name=青色金屬平臺
-tile.railcraft.post.metal.platform.gray.name=灰色金屬平臺
-tile.railcraft.post.metal.platform.green.name=綠色金屬平臺
-tile.railcraft.post.metal.platform.light.blue.name=淡藍色金屬平臺
-tile.railcraft.post.metal.platform.light.gray.name=淡灰色金屬平臺
-tile.railcraft.post.metal.platform.lime.name=黃綠色金屬平臺
-tile.railcraft.post.metal.platform.magenta.name=品紅色金屬平臺
-tile.railcraft.post.metal.platform.unpainted.name=金屬平臺
-tile.railcraft.post.metal.platform.orange.name=橙色金屬平臺
-tile.railcraft.post.metal.platform.pink.name=粉色金屬平臺
-tile.railcraft.post.metal.platform.purple.name=紫色金屬平臺
-tile.railcraft.post.metal.platform.red.name=紅色金屬平臺
-tile.railcraft.post.metal.platform.white.name=白色金屬平臺
-tile.railcraft.post.metal.platform.yellow.name=黃色金屬平臺
+tile.railcraft.post.metal.platform.name=金屬平台
+tile.railcraft.post.metal.platform.black.name=黑色金屬平台
+tile.railcraft.post.metal.platform.blue.name=藍色金屬平台
+tile.railcraft.post.metal.platform.brown.name=棕色金屬平台
+tile.railcraft.post.metal.platform.cyan.name=青色金屬平台
+tile.railcraft.post.metal.platform.gray.name=灰色金屬平台
+tile.railcraft.post.metal.platform.green.name=綠色金屬平台
+tile.railcraft.post.metal.platform.light.blue.name=淡藍色金屬平台
+tile.railcraft.post.metal.platform.light.gray.name=淡灰色金屬平台
+tile.railcraft.post.metal.platform.lime.name=黃綠色金屬平台
+tile.railcraft.post.metal.platform.magenta.name=品紅色金屬平台
+tile.railcraft.post.metal.platform.unpainted.name=金屬平台
+tile.railcraft.post.metal.platform.orange.name=橙色金屬平台
+tile.railcraft.post.metal.platform.pink.name=粉色金屬平台
+tile.railcraft.post.metal.platform.purple.name=紫色金屬平台
+tile.railcraft.post.metal.platform.red.name=紅色金屬平台
+tile.railcraft.post.metal.platform.white.name=白色金屬平台
+tile.railcraft.post.metal.platform.yellow.name=黃色金屬平台
 tile.railcraft.post.metal.purple.name=紫色金屬樁
 tile.railcraft.post.metal.red.name=紅色金屬樁
 tile.railcraft.post.metal.white.name=白色金屬樁
 tile.railcraft.post.metal.yellow.name=黃色金屬樁
 tile.railcraft.post.stone.name=石樁
-tile.railcraft.post.stone.platform.name=石頭平臺
+tile.railcraft.post.stone.platform.name=石頭平台
 tile.railcraft.post.name=木樁
 tile.railcraft.post.wood.name=木樁
-tile.railcraft.post.wood.platform.name=木頭平臺
+tile.railcraft.post.wood.platform.name=木頭平台
 
 tile.railcraft.residual.heat.name=殘餘熱量
 

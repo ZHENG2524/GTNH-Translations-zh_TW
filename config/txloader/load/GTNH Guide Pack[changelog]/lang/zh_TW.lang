@@ -2,7 +2,7 @@ changelog.crops.auto.ponder.label.automation_setup=自動化設定
 changelog.crops.auto.ponder.text.crop_manager_overview=最簡單的自動化方法之一是 **史詩作物管理器**。LV 版本的工作範圍為 **11x5x11** 區域
 changelog.crops.auto.ponder.label.soil_setup=土壤設定
 changelog.crops.auto.ponder.text.subsoil=新增一層底土方塊（如有需要）
-changelog.crops.auto.ponder.text.soil_type=新增第二層方塊，使用適合你植物的土壤型別。這些 <Color id='GREEN'>Bauxia</Color> 植物需要石頭！
+changelog.crops.auto.ponder.text.soil_type=新增第二層方塊，使用適合你植物的土壤類型。這些 <Color id='GREEN'>Bauxia</Color> 植物需要石頭！
 changelog.crops.auto.ponder.label.water=水
 changelog.crops.auto.ponder.text.water=透過管道（或其他任何方式）供水，幫助作物保持水分
 changelog.crops.auto.ponder.label.power=電力

@@ -152,7 +152,7 @@ tile.flowerbedNoWeed.name=花床
 botany.soil.flowerbed=花床
 botany.soil.weedkiller=除草劑
 
-botany.soil.tooltip.type=型別：
+botany.soil.tooltip.type=類型：
 botany.soil.tooltip.moisture=濕度：
 botany.soil.tooltip.pH=pH值：
 

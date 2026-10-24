@@ -15,8 +15,15 @@ RULES = [
     ("等離子體", "電漿"), ("等離子", "電漿"),
     ("刻蝕", "蝕刻"),
     ("溼", "濕"), ("杆", "桿"),
+    ("電子計算機機械方塊", "電腦機械方塊"), ("電子計算機械方塊", "電腦機械方塊"),
+    ("計算機", "電腦"),
+    ("資料訪問", "資料存取"), ("映象", "鏡像"),
+    ("型別", "類型"), ("工作臺", "工作台"), ("平臺", "平台"),
     ("亞熒石", "亞螢石"), ("熒石", "螢光石"), ("熒光", "螢光"),
 ]
+
+# 只套用在 GregTech_zh_TW.lang 的規則（其他模組的「快取」可能真的是 cache）
+GT_ONLY_RULES = [("快取", "緩衝")]
 
 # GregTech_zh_TW.lang 內逐 key 修正（材料名等，值完全取代）
 KEY_FIXES = {
@@ -32,8 +39,8 @@ KEY_FIXES = {
     "Material.hydrochloricacid_gt5u": "鹽酸",
 }
 
-def fix_value(v, stat):
-    for a, b in RULES:
+def fix_value(v, stat, extra=()):
+    for a, b in list(RULES) + list(extra):
         n = v.count(a)
         if n:
             stat[a] += n
@@ -46,7 +53,7 @@ def process(path, stat):
     for line in path.read_text(encoding="utf-8").splitlines(keepends=True):
         if "=" in line and not line.lstrip().startswith("#"):
             k, v = line.split("=", 1)
-            nv = fix_value(v, stat)
+            nv = fix_value(v, stat, GT_ONLY_RULES if is_gt else ())
             if is_gt:
                 key = k.strip().removeprefix("S:").strip('"')
                 if key in KEY_FIXES and v.rstrip("\n") != KEY_FIXES[key]:

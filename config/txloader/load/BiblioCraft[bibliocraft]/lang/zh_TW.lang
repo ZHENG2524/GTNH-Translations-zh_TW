@@ -41,7 +41,7 @@ jds.tileentitywoodlabel=標籤
 jds.tileentitygenericshelf=架子
 jds.tileentitymapframe=地圖框架
 jds.tefurnituretile=板材傢俱
-jds.tileentityfancyworkbench=精緻工作臺
+jds.tileentityfancyworkbench=精緻工作台
 jds.tileentityfancysign=精緻木牌
 jds.tileentitydiscrack=唱片架
 jds.tileentitydinnerplate=餐盤
@@ -75,7 +75,7 @@ FramedPaneler.name=鑲框傢俱板材機
 
 FramedClock.name=鑲框鍾
 FrameBookcase.name=鑲框書架
-FramedWorkbench.name=鑲框精緻工作臺
+FramedWorkbench.name=鑲框精緻工作台
 FramedSign.name=鑲框精緻木牌
 FramedShelf.name=鑲框架子
 FramedPotionShelf.name=鑲框藥水架
@@ -268,12 +268,12 @@ JungleSign.name=叢林木精緻木牌
 AcaciaSign.name=金合歡木精緻木牌
 OldOakSign.name=深色橡木精緻木牌
 
-OakWorkbench.name=橡木精緻工作臺
-SpruceWorkbench.name=雲杉精緻工作臺
-BirchWorkbench.name=白樺木精緻工作臺
-JungleWorkbench.name=叢林木精緻工作臺
-AcaciaWorkbench.name=金合歡木精緻工作臺
-OldOakWorkbench.name=深色橡木精緻工作臺
+OakWorkbench.name=橡木精緻工作台
+SpruceWorkbench.name=雲杉精緻工作台
+BirchWorkbench.name=白樺木精緻工作台
+JungleWorkbench.name=叢林木精緻工作台
+AcaciaWorkbench.name=金合歡木精緻工作台
+OldOakWorkbench.name=深色橡木精緻工作台
 
 tile.BiblioBell.name=按鈴
 
@@ -309,7 +309,7 @@ book.loadrecipe2=從物品欄.
 book.areyousure=你確定嗎?
 book.areyousure2=點選是會永久關閉這本書的編輯功能.
 book.setrecipename=合成表:
-gui.fancyworkbench=精緻工作臺
+gui.fancyworkbench=精緻工作台
 
 gui.sign.left=左
 gui.sign.center=中央

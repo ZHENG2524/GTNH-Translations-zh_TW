@@ -180,11 +180,11 @@ tile.funnel.name=源質漏斗
 tile.dislocator.name=向量轉位儀
 tile.repairer.name=奧法修復臺
 tile.aspectAnalyzer.name=源質分析儀
-tile.platform.name=仙域平臺
+tile.platform.name=仙域平台
 tile.spawner.name=死靈祭壇
 tile.bedrockPortal.name=基岩傳送門
-tile.Levitational Locomotive.name=懸浮平臺
-tile.Levitational Locomotive Relay.name=懸浮平臺中繼
+tile.Levitational Locomotive.name=懸浮平台
+tile.Levitational Locomotive Relay.name=懸浮平台中繼
 tile.golemConnector.name=傀儡聯結器
 tile.remotePlacer.name=遠端放置器
 
@@ -278,7 +278,7 @@ ttresearch.page.GAS_REMOVER.0=在製作出光明氣瓶和暗影氣瓶後，你�
 # -- SPELLBINDING CLOTH
 ttresearch.name.SPELL_CLOTH=祛魔之布
 ttresearch.lore.SPELL_CLOTH=悲傷的掌心神秘使
-ttresearch.page.SPELL_CLOTH.0=透過在一塊附魔的織物上融合原始的魔力，你製作了一塊能夠在工作臺中擦除物品附魔的神奇之布。
+ttresearch.page.SPELL_CLOTH.0=透過在一塊附魔的織物上融合原始的魔力，你製作了一塊能夠在工作台中擦除物品附魔的神奇之布。
 
 # -- DYNAMISM TABLET
 ttresearch.name.ANIMATION_TABLET=活化工具臺
@@ -299,7 +299,7 @@ ttresearch.page.FOCUS_DISLOCATION.1=只在拾起方塊時才會消耗Vis。放�
 # -- TALISMAN OF REMEDIUM
 ttresearch.name.CLEANSING_TALISMAN=防身護身符
 ttresearch.lore.CLEANSING_TALISMAN=妙壽安的禮物
-ttresearch.page.CLEANSING_TALISMAN.0=在研究生命以及肉體時，你發現可以利用魔力轉移來自外界的傷害效果。這個護身符將為持有者抵擋大多數型別的傷害，但這會消耗它的耐久。<BR><BR>使用shift加右鍵來選擇是否開啟護身符的效果。理所當然的，只有裝備在護身符欄並開啟時才起效。
+ttresearch.page.CLEANSING_TALISMAN.0=在研究生命以及肉體時，你發現可以利用魔力轉移來自外界的傷害效果。這個護身符將為持有者抵擋大多數類型的傷害，但這會消耗它的耐久。<BR><BR>使用shift加右鍵來選擇是否開啟護身符的效果。理所當然的，只有裝備在護身符欄並開啟時才起效。
 
 # -- HYPERENERGETIC NITOR
 ttresearch.name.BRIGHT_NITOR=超能閃耀之光
@@ -320,8 +320,8 @@ ttresearch.page.MAGNETS.1=你設計了兩種新裝置：奧術念力磁鐵以及
 # -- OSMOTIC ENCHANTER
 ttresearch.name.ENCHANTER=滲透附魔臺
 ttresearch.lore.ENCHANTER=幸運大挑選
-ttresearch.page.ENCHANTER.0=你開始厭倦辛勤付出卻換來一個糟糕的附魔。於是你製造了一種新型的附魔臺，允許你挑選在工具上附魔確定的屬性。<BR><BR>這種新型裝置工作時需要法杖，每一種附魔型別都需求法杖提供特定的靈氣組合。附魔的成本與附魔等級以指數方式上漲。<BR><BR>這個附魔臺同樣遵循一般附魔法則，比如，精準採集與時運不得同時附魔同一物品。
-ttresearch.page.ENCHANTER.1=當你選擇了需要的附魔型別，點選介面上紅色按鈕便可以開始附魔。在附魔過程中，你不能取走被附魔的物品，也不能改變你之前選擇的附魔型別。<BR><BR>附魔臺會從法杖中汲取魔力，知道附魔完成。為了讓附魔臺的魔法儀式能夠順利完成，需要在附近立起6個4個方塊的柱子，這些柱子需要和附魔臺在同一水平線上。<BR><BR>【continued】
+ttresearch.page.ENCHANTER.0=你開始厭倦辛勤付出卻換來一個糟糕的附魔。於是你製造了一種新型的附魔臺，允許你挑選在工具上附魔確定的屬性。<BR><BR>這種新型裝置工作時需要法杖，每一種附魔類型都需求法杖提供特定的靈氣組合。附魔的成本與附魔等級以指數方式上漲。<BR><BR>這個附魔臺同樣遵循一般附魔法則，比如，精準採集與時運不得同時附魔同一物品。
+ttresearch.page.ENCHANTER.1=當你選擇了需要的附魔類型，點選介面上紅色按鈕便可以開始附魔。在附魔過程中，你不能取走被附魔的物品，也不能改變你之前選擇的附魔類型。<BR><BR>附魔臺會從法杖中汲取魔力，知道附魔完成。為了讓附魔臺的魔法儀式能夠順利完成，需要在附近立起6個4個方塊的柱子，這些柱子需要和附魔臺在同一水平線上。<BR><BR>【continued】
 ttresearch.page.ENCHANTER.2=這些柱子用2~12個黑曜石圖騰方塊堆壘而成，上方放置著閃耀之光。附魔臺將會從這些柱子中汲取咒波能量，從法杖中汲取Vis，集合這兩種力量最終完成附魔。<BR><BR>到頭來，附魔師是沒法用鐵杖端或銅杖端的法杖的——這兩種法杖太粗糙、太基礎，根本達不到注魔需要的複雜度。
 
 # -- TALISMAN OF WITHHOLD
@@ -398,7 +398,7 @@ ttresearch.page.TTENCH_SHATTER.0=你研究出一種能讓你更高效地挖掘�
 # -- ENCHANTMENT: SHOCKWAVE
 ttresearch.name.TTENCH_SHOCKWAVE=附魔：震盪波
 ttresearch.lore.TTENCH_SHOCKWAVE=迷你地震
-ttresearch.page.TTENCH_SHOCKWAVE.0=你研究出一種能讓你利用落地的振盪殺敵的附魔。<BR><BR>這種附魔能夠被施加在靴子上。穿上附魔後的靴子落地時，會發出震盪波殺死附近的怪物或玩家。<BR><BR>不幸的是各種型別的魔法都會讓玩家變得更加輕盈，這會削弱震盪波的傷害效果。你覺得今後當你更加了解魔法你應該能找到解決這個問題的方法。
+ttresearch.page.TTENCH_SHOCKWAVE.0=你研究出一種能讓你利用落地的振盪殺敵的附魔。<BR><BR>這種附魔能夠被施加在靴子上。穿上附魔後的靴子落地時，會發出震盪波殺死附近的怪物或玩家。<BR><BR>不幸的是各種類型的魔法都會讓玩家變得更加輕盈，這會削弱震盪波的傷害效果。你覺得今後當你更加了解魔法你應該能找到解決這個問題的方法。
 
 # -- ENCHANTMENT: POUNCE
 ttresearch.name.TTENCH_POUNCE=附魔：貓爪
@@ -431,7 +431,7 @@ ttresearch.page.BLOOD_SWORD.1=你也發現了這把劍能收割怪物的靈魂�
 # -- Mob Summoning
 ttresearch.name.SUMMON=怪物召喚
 ttresearch.lore.SUMMON=近乎死靈法師
-ttresearch.page.SUMMON.0=如今你已能夠利用咒靈之劍捕獲的靈魂召喚出怪物。在死靈祭壇附近放置三個基座。於基座上放置三個靈魂要素。不同型別的靈魂要素對應不同型別的怪物。每種怪物的構成都不相同。
+ttresearch.page.SUMMON.0=如今你已能夠利用咒靈之劍捕獲的靈魂召喚出怪物。在死靈祭壇附近放置三個基座。於基座上放置三個靈魂要素。不同類型的靈魂要素對應不同類型的怪物。每種怪物的構成都不相同。
 ttresearch.page.SUMMON.1=透過製造注魔靈魂要素，無需消耗靈魂要素就能召喚出怪物。但使用注魔靈魂要素進行召喚，儀式會比平時更加緩慢。
 
 # -- TRANSVECTOR DISLOCATOR
@@ -455,12 +455,12 @@ ttresearch.lore.FOCUS_DEFLECT=我不是天使
 ttresearch.page.FOCUS_DEFLECT.0=你製造出一種法杖核心，能夠防護你免遭來襲的火球傷害。<BR><BR>這種核心在使用時會持續抽取其插入的法杖內的Vis，以在施法者附近召喚出一道防護的幕牆，使得穿過它們的尋常炮彈變得毫無傷害。<BR><BR>此處尋常炮彈包括箭矢，雪球以及藥水。但似乎這種防護並不足以抵禦一些更強力的攻擊，比如火球或者凋靈頭顱。
 
 # -- LEVITATOR LOCOMOTIVE
-ttresearch.name.LEVITATOR_LOCOMOTIVE=懸浮平臺
+ttresearch.name.LEVITATOR_LOCOMOTIVE=懸浮平台
 ttresearch.lore.LEVITATOR_LOCOMOTIVE=忽左忽右
-ttresearch.page.LEVITATOR_LOCOMOTIVE.0=你製造出一臺將東西移來移去的巧妙裝置。將兩個懸浮平臺中繼呈直線放置，它們之間會發出一道力場光束。如若粒子效果開啟能顯示出炫酷的視覺效果。<BR><BR> 將懸浮平臺放置於它們所發出的光束上。懸浮平臺會連同放置於其上的方塊，沿著直線來回移動。
+ttresearch.page.LEVITATOR_LOCOMOTIVE.0=你製造出一臺將東西移來移去的巧妙裝置。將兩個懸浮平台中繼呈直線放置，它們之間會發出一道力場光束。如若粒子效果開啟能顯示出炫酷的視覺效果。<BR><BR> 將懸浮平台放置於它們所發出的光束上。懸浮平台會連同放置於其上的方塊，沿著直線來回移動。
 
 # -- ETHEREAL PLATFORM
-ttresearch.name.PLATFORM=天域平臺
+ttresearch.name.PLATFORM=天域平台
 ttresearch.lore.PLATFORM=隱藏於溴化鋇顯影術
 ttresearch.page.PLATFORM.0=你設計出一種方塊，僅對佇立於其上的人才實在存在。如若未站立於上，或者處於潛行，則該方塊對他們不會有碰撞體積。<BR><BR>拿著其他方塊右擊能夠對這種方塊的樣子進行偽裝。<BR><BR>你覺得配合奧術懸浮臺你能夠達成許多有趣的效果。
 
@@ -493,7 +493,7 @@ ttresearch.page.ROD_ICHORCLOTH.0=幹得漂亮。用靈布對銀樹杖芯注魔�
 
 # -- ICHORIUM WAND CAPS
 ttresearch.name.CAP_ICHOR=靈寶杖端
-ttresearch.lore.CAP_ICHOR=類似Steam平臺折扣
+ttresearch.lore.CAP_ICHOR=類似Steam平台折扣
 ttresearch.page.CAP_ICHOR.0=你將靈寶錠投入了它的第一項應用，用於設計一支能夠減免各種Vis消耗30%的杖端。現在你能拿這玩意兒做出一堆能夠儲存更多v的法杖了。
 
 # -- ICHORCLOTH ARMOR
@@ -542,7 +542,7 @@ ttresearch.page.ICHOR_PICK_GEM.1=它會從起始方塊開始呈直線挖下10格
 # -- AWAKENED ICHORIUM SHOVEL
 ttresearch.name.ICHOR_SHOVEL_GEM=覺醒靈寶鏟
 ttresearch.lore.ICHOR_SHOVEL_GEM=再也不要沙礫！
-ttresearch.page.ICHOR_SHOVEL_GEM.0=你喚醒了靈寶鏟真正的力量。這柄鏟子不僅將保留沉睡狀態下具有的一應能力，還獲得了模式切換功能，只需要按住shift右擊即可。<BR><BR>在方塊模式（綠色）下它按正常方式挖掘。<BR><BR>在正方模式（紅色）下它會在起始方塊周圍一次挖出5x5的區域。<BR><BR>在柱型模式（藍色）下它會呈柱形在上下各8格的範圍內挖掘與起始方塊同型別的方塊。
+ttresearch.page.ICHOR_SHOVEL_GEM.0=你喚醒了靈寶鏟真正的力量。這柄鏟子不僅將保留沉睡狀態下具有的一應能力，還獲得了模式切換功能，只需要按住shift右擊即可。<BR><BR>在方塊模式（綠色）下它按正常方式挖掘。<BR><BR>在正方模式（紅色）下它會在起始方塊周圍一次挖出5x5的區域。<BR><BR>在柱型模式（藍色）下它會呈柱形在上下各8格的範圍內挖掘與起始方塊同類型的方塊。
 
 # -- AWAKENED ICHORIUM AXE
 ttresearch.name.ICHOR_AXE_GEM=覺醒靈寶斧
@@ -563,7 +563,7 @@ ttresearch.page.ICHOR_POUCH.0=透過灌注行動式洞穴核心的魔力，你�
 # -- BLACK HOLE RING
 ttresearch.name.BLOCK_TALISMAN=黑洞指環
 ttresearch.lore.BLOCK_TALISMAN=頭腦所不能承受之壓
-ttresearch.page.BLOCK_TALISMAN.0=這枚指環能夠被用來壓縮放置任意型別的方塊。手持它拿著某種方塊右擊即可建立繫結關係，此後按住右鍵就能將物品欄中的數量超過一個堆疊的同類方塊收諸其內，並會保留至少一個堆疊於物品欄。收入的物品透過右擊可以放回物品欄，也可以直接放置在地上。<BR><BR>它最多能容納超過2百萬同型別的方塊，這下子不會存在圓石沒地方擱的問題了吧。護身符空置時按住shift右擊可以切換繫結物件。
+ttresearch.page.BLOCK_TALISMAN.0=這枚指環能夠被用來壓縮放置任意類型的方塊。手持它拿著某種方塊右擊即可建立繫結關係，此後按住右鍵就能將物品欄中的數量超過一個堆疊的同類方塊收諸其內，並會保留至少一個堆疊於物品欄。收入的物品透過右擊可以放回物品欄，也可以直接放置在地上。<BR><BR>它最多能容納超過2百萬同類型的方塊，這下子不會存在圓石沒地方擱的問題了吧。護身符空置時按住shift右擊可以切換繫結物件。
 
 # -- WORLDSHAPER'S LOOKING GLASS
 ttresearch.name.PLACEMENT_MIRROR=世界塑造者的觀察鏡
@@ -623,8 +623,8 @@ ttresearch.page.FIRE_PERDITIO.0=某種宛如解藥的火焰。你可以釋放這
 
 ttresearch.name.INFUSED_POTIONS=蘊魔作物
 ttresearch.lore.INFUSED_POTIONS=誰提起的蜜蜂？沒人說過蜜蜂。
-ttresearch.page.INFUSED_POTIONS.0=將魔力碎片注入平凡的作物你便能夠創造出全新形式的作物。這些種子生長出的作物能夠收穫許多種類的物品。每種源質都對應諸多不同型別的物品。
-ttresearch.page.INFUSED_POTIONS.1=你只能直接做出元始源質種子，但其他型別的種子可以透過培育得到。當收穫成熟作物時，作物含有的魔法物質會殘存於土壤中。在殘存大量魔法物質的土壤中種植作物，殘存源質與新種植作物所含源質會融合，因而生成新型別的蘊魔種子。
+ttresearch.page.INFUSED_POTIONS.0=將魔力碎片注入平凡的作物你便能夠創造出全新形式的作物。這些種子生長出的作物能夠收穫許多種類的物品。每種源質都對應諸多不同類型的物品。
+ttresearch.page.INFUSED_POTIONS.1=你只能直接做出元始源質種子，但其他類型的種子可以透過培育得到。當收穫成熟作物時，作物含有的魔法物質會殘存於土壤中。在殘存大量魔法物質的土壤中種植作物，殘存源質與新種植作物所含源質會融合，因而生成新類型的蘊魔種子。
 ttresearch.page.INFUSED_POTIONS.2=培育作物因不同的源質傾向將會受特定效果影響。Terra源質可以增加土壤中魔法物質的殘留量。Ignis源質有助於融合源質的形成。Ordo源質增加產量。Perditio源質增加種子掉落量。Aer源質使得作物受其他源質的影響效果更顯著。同一株作物受源質影響所產生的傾向不超過50點。
 ttresearch.page.INFUSED_POTIONS.3=有兩種方法能夠賦予作物元始源質傾向。首先，作物會偶然地受相鄰特定源質作物的影響而產生傾向，然而以這種方式同一株植物最多隻能增加同種源質傾向5點。
 ttresearch.page.INFUSED_POTIONS.4=另外，作物還會直接抽走臨近作物的要素傾向，被抽走要素傾向的作物必須擁有相等或更多的要素傾向點。

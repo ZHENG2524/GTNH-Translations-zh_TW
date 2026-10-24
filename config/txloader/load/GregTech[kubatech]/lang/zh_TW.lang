@@ -104,7 +104,7 @@ kubatech.gui.tooltip.contributors.structure=結構由§d%s設計
 kubatech.gui.tooltip.dynamic_inventory.identical_slots=有%d個相同的槽位
 kubatech.gui.tooltip.dynamic_inventory.empty_slot=空槽位
 kubatech.gui.tooltip.dynamic_inventory.eig.seed_count=種子：%d
-kubatech.gui.tooltip.dynamic_inventory.eig.remaining_seed_types=剩餘種子型別：%d
+kubatech.gui.tooltip.dynamic_inventory.eig.remaining_seed_types=剩餘種子類型：%d
 kubatech.gui.tooltip.dynamic_inventory.eig.remaining_seed_capacity=剩餘種子容量：%d
 
 kubatech.gui.text.electrode_detector=§8閾值
@@ -164,7 +164,7 @@ kubatech.infodata.eig.used_slots=已用槽位數：%s
 kubatech.infodata.bucket.humidity=濕度：
 kubatech.infodata.bucket.humidity.on=開啟
 kubatech.infodata.bucket.humidity.off=關閉
-kubatech.infodata.eig.too_many_types=§4裡面的種子型別太多了，無法執行！§r
+kubatech.infodata.eig.too_many_types=§4裡面的種子類型太多了，無法執行！§r
 kubatech.infodata.eig.too_many_seeds=§4裡面的種子數量太多了，無法執行！§r
 
 ## Mega Industrial Apiary
@@ -196,7 +196,7 @@ kubatech.MBTT.CoolantOutputHatch=輸出倉（冷卻劑）
 kubatech.MBTT.SteamOutputHatch=輸出倉（蒸汽）
 
 #Waila
-kubatech.waila.eec.mob_type=生物型別：%s
+kubatech.waila.eec.mob_type=生物類型：%s
 kubatech.waila.eec.no_mob=無
 kubatech.waila.eec.ritual_mode_connected=已連線至儀式
 kubatech.waila.eec.ritual_mode_error=未連線儀式！

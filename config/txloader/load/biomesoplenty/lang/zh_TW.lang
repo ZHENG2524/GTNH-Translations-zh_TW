@@ -447,12 +447,12 @@ biomeRadar.scanBiome=右鍵單擊掃描生物群系
 
 enderporter.prevent=一股神秘的力量阻止你在這個世界使用此物品
 
-phrase.bop.useBOPATGWorldtype=如果你在這裡選擇BOPATG的世界型別, 將會直接生成BOPATG的生物群系. 這個提示只會出現一次.
-phrase.bop.useBOPWorldtype=如果你在這裡選擇BOP的世界型別, 將會直接生成BOP的生物群系. 這個提示只會出現一次..
+phrase.bop.useBOPATGWorldtype=如果你在這裡選擇BOPATG的世界類型, 將會直接生成BOPATG的生物群系. 這個提示只會出現一次.
+phrase.bop.useBOPWorldtype=如果你在這裡選擇BOP的世界類型, 將會直接生成BOP的生物群系. 這個提示只會出現一次..
 phrase.bop.updateAvaliable=你當前沒有使用最新的BOP版本. 最新版本是: v%s 用於 %s 版本
 
-warning.bopStartup1=超多生物群系(以下簡稱BOP)有一個自己獨特的世界型別, 你可以在
-warning.bopStartup2=在生成世界的時候在世界型別那裡選擇BOP的世界型別
+warning.bopStartup1=超多生物群系(以下簡稱BOP)有一個自己獨特的世界類型, 你可以在
+warning.bopStartup2=在生成世界的時候在世界類型那裡選擇BOP的世界類型
 warning.bopStartup3='超多生物群系'.
 warning.bopStartup4=如果你在伺服器使用的話, 可以開啟server.properties把level-type引數改成 BIOMESOP 
 warning.bopStartup5=這樣就會在伺服器世界的生成中生成BOP生物群系

@@ -250,7 +250,7 @@ forbidden.research_page.ROD_dreamwood_staff.1=活木是一種有用的材料，�
 #
 forbidden.research_name.CAP_alchemical=鍊金紋飾杖端
 forbidden.research_text.CAP_alchemical=當神秘學不夠血腥時
-forbidden.research_page.CAP_alchemical.1=將神秘學與鍊金巫術相結合，你開發出一種新型杖端。鍊金紋飾杖端在引導Aqua要素源質時非常高效，與平常相比僅僅需要%d%%的魔力源質消耗量。但對其餘型別的要素源質，效率只有%d%%。<BR><BR>若安裝在血腥杖柄上，鍊金紋飾杖端將降低魔杖消耗的生命點，每vis只需900生命點。這種杖端還能讓所有的血腥法杖發出的攻擊附帶虛弱效果。
+forbidden.research_page.CAP_alchemical.1=將神秘學與鍊金巫術相結合，你開發出一種新型杖端。鍊金紋飾杖端在引導Aqua要素源質時非常高效，與平常相比僅僅需要%d%%的魔力源質消耗量。但對其餘類型的要素源質，效率只有%d%%。<BR><BR>若安裝在血腥杖柄上，鍊金紋飾杖端將降低魔杖消耗的生命點，每vis只需900生命點。這種杖端還能讓所有的血腥法杖發出的攻擊附帶虛弱效果。
 #
 forbidden.research_name.CAP_vinteum=溫特姆杖端
 forbidden.research_text.CAP_vinteum=魔法杖端
@@ -283,13 +283,13 @@ forbidden.research_page.BLACKFLOWER.1=沒有比一個濕漉漉的神秘使還要
 forbidden.research_name.WRATHCAGE=暴怒之籠
 forbidden.research_text.WRATHCAGE=戰無止境
 forbidden.research_page.WRATHCAGE.1=有時候，小打小殺就是不夠。誠然，殺掉一隻孤零零的怪物相當令人身通體便，但想象一下屠戮掉一大波可憎小蠢蛋的畫面吧。<BR><BR>為了實現這一目標，你研究出一種方法，能夠重新製造出古代廢墟中的怪物。不像天然的刷怪籠，暴怒之籠由紅石訊號控制，因而無需感應是否有人類出現，而且這種籠子可以比刷怪籠這種古代裝置執行得更快速。
-forbidden.research_page.WRATHCAGE.2=然而，你無法複製天然刷怪籠無限刷怪的特性。每誕下一隻生物都會讓暴怒籠子消耗一點點用管道匯入其內的源質。依據對應生物的不同，暴怒之籠需要不同型別的源質。抑或你可以匯入Ira源質來作為燃料。也可以使用Desidia來實現另外一些功能。<BR><BR>拿著妖魔之叉右鍵暴怒之籠，能夠迴圈切換其使用的燃料型別，切換它抽取哪一種源質。
+forbidden.research_page.WRATHCAGE.2=然而，你無法複製天然刷怪籠無限刷怪的特性。每誕下一隻生物都會讓暴怒籠子消耗一點點用管道匯入其內的源質。依據對應生物的不同，暴怒之籠需要不同類型的源質。抑或你可以匯入Ira源質來作為燃料。也可以使用Desidia來實現另外一些功能。<BR><BR>拿著妖魔之叉右鍵暴怒之籠，能夠迴圈切換其使用的燃料類型，切換它抽取哪一種源質。
 forbidden.research_page.WRATHCAGE.3=要使暴怒之籠與某種指定生物繫結，可以使用留影水晶右擊籠子。攜帶空白留影水晶用妖魔之叉殺死生物能夠將生物的資訊烙印到水晶之中。
 #
 forbidden.research_name.FORK=妖魔之叉
 forbidden.research_text.FORK=神秘匠人之工具
 forbidden.research_page.FORK.1=你製造出一柄工具用以搗鼓數種煉獄裝置。石英支撐的叉尖讓妖魔之叉能夠同奧術能量相諧振。<BR><BR>除了能用以調整裝置，妖魔之叉用來做實用武器亦不錯。<BR><BR>當你解鎖了更多研究後下面幾頁會出現更重要的資訊。
-forbidden.research_page.FORK.wc=如果用妖魔之叉殺死支援的生物型別時物品欄內有空白留影水晶，那麼這種生物就會被烙印到水晶中。留影水晶可以用於暴怒之籠，以繫結某種怪物。<BR><BR>這柄叉子還能用來設定暴怒之籠使用哪種源質作為燃料。只需拿著妖魔之叉右鍵暴怒之籠，就能在三種不同的燃料型別中切換。
+forbidden.research_page.FORK.wc=如果用妖魔之叉殺死支援的生物類型時物品欄內有空白留影水晶，那麼這種生物就會被烙印到水晶中。留影水晶可以用於暴怒之籠，以繫結某種怪物。<BR><BR>這柄叉子還能用來設定暴怒之籠使用哪種源質作為燃料。只需拿著妖魔之叉右鍵暴怒之籠，就能在三種不同的燃料類型中切換。
 #
 forbidden.research_name.MORPHTOOLS=避役工具
 forbidden.research_text.MORPHTOOLS=這裡有一項能用上的附魔……

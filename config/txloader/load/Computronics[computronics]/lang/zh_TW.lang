@@ -71,10 +71,10 @@ tooltip.computronics.tape.state.playing=播放中
 tooltip.computronics.tape.state.rewinding=倒帶中
 tooltip.computronics.tape.state.forwarding=快進中
 
-tooltip.computronics.manual.oc.tab.blocks=計算機電子學 | 方塊
-tooltip.computronics.manual.oc.tab.items=計算機電子學 | 物品
+tooltip.computronics.manual.oc.tab.blocks=電腦電子學 | 方塊
+tooltip.computronics.manual.oc.tab.items=電腦電子學 | 物品
 
-tooltip.computronics.manual.tis3d.tab.items=計算機電子學 | 物品
+tooltip.computronics.manual.tis3d.tab.items=電腦電子學 | 物品
 tooltip.computronics.manual.tis3d.port.flamingo=粉紅色火烈鳥
 
 option.computronics.enableOCAddress=顯示元件地址
@@ -123,7 +123,7 @@ item.computronics.module_colorful.name=變色模組
 item.computronics.module_tape_reader.name=磁帶驅動器模組
 item.computronics.module_boom.name=自毀模組
 
-itemGroup.tabComputronics=計算機電子學
+itemGroup.tabComputronics=電腦電子學
 
 entity.computronics.itemTape.name=泛銀河系CDVR
 entity.computronics.swarm.name=蜂群

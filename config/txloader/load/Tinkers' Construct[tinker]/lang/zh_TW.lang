@@ -8,7 +8,7 @@ itemGroup.TConstructGadgets=匠魂小工具
 
 crafters.ToolStation=工具組裝臺
 crafters.ToolForge=工具裝配臺
-crafters.TinkerTable=工匠工作臺
+crafters.TinkerTable=工匠工作台
 crafters.PartBuilder=部件加工臺
 crafters.PatternShaper=模具加工臺
 crafters.CraftingStation=合成站
@@ -31,7 +31,7 @@ ToolStation.CastingTable.name=澆鑄臺
 tile.FurnaceSlab.name=半磚熔爐
 
 tile.ToolForge.name=工具裝配臺
-tile.TinkerTable.name=工匠工作臺
+tile.TinkerTable.name=工匠工作台
 tile.Armor.DryingRack.name=晾乾架
 tile.TConstruct.Soil.name=土壤
 CraftedSoil.Slime.name=黏滑泥濘
@@ -782,7 +782,7 @@ achievement.tconstruct.preparedFight.desc=打造出第一把武器
 achievement.tconstruct.enemySlayer.desc=殺死生物
 achievement.tconstruct.dualConvenience.desc=使用煎鍋殺死生物並烹煮它們的肉
 achievement.tconstruct.doingItWrong.desc=你做錯了！
-achievement.tconstruct.betterCrafting.desc=將工作臺放入合成網格中以製作合成站
+achievement.tconstruct.betterCrafting.desc=將工作台放入合成網格中以製作合成站
 
 knapsack.tooltip=裝東西用的揹包。
 strangefood1.tooltip=聞起來糟透了，但是如果
@@ -1074,7 +1074,7 @@ manual.page.material.speed=採掘速度
 
 manual.page.modifier1=工具組裝臺
 manual.page.modifier2=工具裝配臺
-manual.page.modifier3=工匠工作臺
+manual.page.modifier3=工匠工作台
 
 manual.page.casting1=材料
 manual.page.tool1=合成部件

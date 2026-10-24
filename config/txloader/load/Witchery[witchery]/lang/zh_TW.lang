@@ -523,7 +523,7 @@ witchery.rite.noplacelikehome=無處如家
 witchery.rite.unknownchant=未名聖歌
 witchery.rite.manifestation.countdown=你感到若有實質，但只能維持%s秒。
 witchery.rite.slippersoncooldown=無事發生（等待%s分鐘）。
-witchery.rite.forestation=森林儀式{r||生長出一片森林，將樹苗替換成希望之型別。
+witchery.rite.forestation=森林儀式{r||生長出一片森林，將樹苗替換成希望之類型。
 witchery.rite.toofaraway=這麼遠的距離外無法完成儀式（需要一個大型女巫集會）。
 
 item.witchery:iceslippers.tip=摸起來很涼……||{5凍結附近的水，而且可以{0|{5把岩漿變成黑曜石 （消耗耐久）{0
@@ -581,7 +581,7 @@ witchery.book.biomes.mushroom.item=紅蘑菇
 witchery.book.biomes.magical.name=魔境
 witchery.book.biomes.magical.item=骷髏頭
 
-witchery.book.wands1={o{l巫術{r{r{o：魔符學{r||使用 {o魔法枝條{r繪製魔符，將能夠使得施法者塑造自然的能量。||只有 {o注魔後的{r施法者才能使用這種魔法。||禁忌型別的詛咒需要{o煉獄注魔{r。
+witchery.book.wands1={o{l巫術{r{r{o：魔符學{r||使用 {o魔法枝條{r繪製魔符，將能夠使得施法者塑造自然的能量。||只有 {o注魔後的{r施法者才能使用這種魔法。||禁忌類型的詛咒需要{o煉獄注魔{r。
 witchery.book.wands.strokes=手勢
 witchery.book.wands.stroke.0=上
 witchery.book.wands.stroke.1=下
@@ -1156,7 +1156,7 @@ witchery:color.white=白色
 item.witchery:cauldronbook.name=巫師釀造手冊
 item.witchery:cauldronbook.tip=巫師釀造藥水的指導性說明。
 
-witchery:cauldronbook.tbench=[i 工作臺][br][br][stack=%s][stack=%s][stack=%s][br][stack=%s][stack=%s][stack=%s] [img=witchery:textures/gui/arrowrightresult.png|left|middle|22|15] [stack=%s|left|middle][br] [stack=%s][stack=%s][stack=%s]
+witchery:cauldronbook.tbench=[i 工作台][br][br][stack=%s][stack=%s][stack=%s][br][stack=%s][stack=%s][stack=%s] [img=witchery:textures/gui/arrowrightresult.png|left|middle|22|15] [stack=%s|left|middle][br] [stack=%s][stack=%s][stack=%s]
 witchery:cauldronbook.tcraft=%s[br][img=witchery:textures/gui/cauldron.png|left|top|30|29] [img=witchery:textures/gui/arrowrightresult.png|left|middle|22|15] [stack=%s|left|middle]
 witchery:cauldronbook.tritual=%s[br][img=witchery:textures/gui/cauldron.png|center|top|30|29]
 
@@ -1650,11 +1650,11 @@ tile.witchery:mirrorblock2.name=魔鏡
 tile.witchery:mirrorwall.name=魔鏡鏡面
 item.witchery:mirror.name=魔鏡
 item.witchery:dupgrenade.name=複製手雷
-item.witchery:dupgrenade.tip={3 映象體：%s{0
+item.witchery:dupgrenade.tip={3 鏡像體：%s{0
 item.witchery:mirror.tip.bridge={5空的{0
 item.witchery:mirror.tip.bridgeplus={5空的 (%s：%d， %d， %d){0
 item.witchery:mirror.tip.inhabited={3注魔的{0
-entity.witchery.reflection.name=映象體
+entity.witchery.reflection.name=鏡像體
 item.witchery:ingredient.heartofgold.name=黃金之心
 
 witchery.rite.infusionmirror=注魔儀式{r||將一個惡魔封印進魔鏡

@@ -447,15 +447,15 @@ biomeRadar.scanBiome=右鍵單擊以掃描生物群系
 
 enderporter.prevent=一股神秘的力量阻止你在這個世界使用此物品
 
-phrase.bop.useBOPATGWorldtype=必須使用“超多生物群系”或ATG世界型別才能生成新的生物群系。這個提示只會出現一次。
-phrase.bop.useBOPWorldtype=必須使用“超多生物群系”世界型別才能生成新的生物群系。這個提示只會出現一次。
+phrase.bop.useBOPATGWorldtype=必須使用“超多生物群系”或ATG世界類型才能生成新的生物群系。這個提示只會出現一次。
+phrase.bop.useBOPWorldtype=必須使用“超多生物群系”世界類型才能生成新的生物群系。這個提示只會出現一次。
 phrase.bop.updateAvaliable=你當前沒有使用最新推薦版本的BOP。最新推薦版本是：v%s（適用Minecraft版本%s）
 
-warning.bopStartup1=超多生物群系（以下簡稱BOP）使用一個自定義的世界型別生成其群系。
-warning.bopStartup2=你可以透過在生成世界時點選“更多世界的選項”->“世界型別”直至其顯示
+warning.bopStartup1=超多生物群系（以下簡稱BOP）使用一個自定義的世界類型生成其群系。
+warning.bopStartup2=你可以透過在生成世界時點選“更多世界的選項”->“世界類型”直至其顯示
 warning.bopStartup3=“超多生物群系”以啟用它。
 warning.bopStartup4=透過將server.properties中的“level-type”引數改成“BIOMESOP”，
-warning.bopStartup5=你也可以在伺服器中啟用這一世界型別。
+warning.bopStartup5=你也可以在伺服器中啟用這一世界類型。
 warning.bopStartup6=這個提示只會出現一次。
 
 potion.paralysis=麻痺

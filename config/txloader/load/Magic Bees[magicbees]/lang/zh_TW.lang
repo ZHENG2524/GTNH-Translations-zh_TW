@@ -706,7 +706,7 @@ tc.research_page.MB_VisAuraProvider.1=向罕見花粉中注以靈氣，並與黃
 
 tc.research_name.MB_ApimancersDrainer=神秘養蜂人的瀝水器
 tc.research_text.MB_ApimancersDrainer=你的皇后能用多久？
-tc.research_page.MB_ApimancersDrainer.1=養蜂人的瀝水器是養蜂領域的創新裝置，旨在從蜜蜂的生命力中提取源質。 它被放置在養蜂場的下方，與上方的養蜂場建立直接連線。<BR>要確定它所產生的源質型別，需要用所需的源質對瀝水器進行調諧。<BR>一旦調諧好，瀝水器就會將蜂后的生命能量轉化為所選的源質……
+tc.research_page.MB_ApimancersDrainer.1=養蜂人的瀝水器是養蜂領域的創新裝置，旨在從蜜蜂的生命力中提取源質。 它被放置在養蜂場的下方，與上方的養蜂場建立直接連線。<BR>要確定它所產生的源質類型，需要用所需的源質對瀝水器進行調諧。<BR>一旦調諧好，瀝水器就會將蜂后的生命能量轉化為所選的源質……
 
 tc.research_name.MB_ScoopVoid=虛空捕蟲網
 tc.research_text.MB_ScoopVoid=黑暗之網

@@ -217,7 +217,7 @@ item.charm.slaughterimpact.name=殺戮衝擊護符
 item.charm.slaughterimpact.tooltip=對半徑為 $1 的殺傷範圍內敵人造成 $0 點傷害
 item.charm.lastresort.name=終極審判護符
 item.charm.lastresort.tooltip=將 $0 個方塊傳送遠離最終打擊區域，冷卻時間 $1 秒
-item.charm.cannotstack=此護符效果無法與其他同型別護符重疊
+item.charm.cannotstack=此護符效果無法與其他同類型護符重疊
 
 item.curse.name=詛咒
 item.curse.eternal=永恆詛咒

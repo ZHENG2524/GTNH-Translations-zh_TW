@@ -31,7 +31,7 @@ focus.upgrade.bloodlust.name=嗜血
 focus.upgrade.bloodlust.text=這個升級能讓法杖核心如水晶匕首般獲得嗜血的能力.
 
 focus.upgrade.persistent.name=持久
-focus.upgrade.persistent.text=當此聚焦目標死亡,消失或移出射程時,導彈將自動搜尋附近同型別的其他目標.
+focus.upgrade.persistent.text=當此聚焦目標死亡,消失或移出射程時,導彈將自動搜尋附近同類型的其他目標.
 
 #=========BLOCK NAMES==================
 

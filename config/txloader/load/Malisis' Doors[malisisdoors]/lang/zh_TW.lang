@@ -163,7 +163,7 @@ gui.door_factory.door_open_time=開啟時間
 gui.door_factory.door_auto_close_time=自動關閉延時
 gui.door_factory.door_require_redstone=需要紅石
 gui.door_factory.door_double_door=雙門
-gui.door_factory.door_sound=音效型別
+gui.door_factory.door_sound=音效類型
 gui.door_factory.door_sound.silent_door=靜音
 gui.door_factory.door_sound.vanilla_door=原版門
 gui.door_factory.door_sound.glass_door=玻璃門
@@ -173,7 +173,7 @@ gui.door_factory.door_sound.shoji_door=障子門
 gui.door_factory.door_sound.carriage_door=宅門
 
 
-gui.door_factory.frame_type=框架型別
+gui.door_factory.frame_type=框架類型
 gui.door_factory.top_material=頂部方塊材料
 gui.door_factory.bottom_material=底部方塊材料
 gui.door_factory.door_edit_slot=需要修改的門

@@ -54,7 +54,7 @@ botaniamisc.neiratio=放大：%s（按住 Shift 還原）
 botaniamisc.bottleTooltip=味道如何
 botaniamisc.coarseDirt0=劣質土,草
 botaniamisc.coarseDirt1=無法生長
-botaniamisc.spawnerTip=Tip:使用刷怪蛋改變怪物型別
+botaniamisc.spawnerTip=Tip:使用刷怪蛋改變怪物類型
 botaniamisc.shardLevel=碎片能量 %s
 botaniamisc.lexiconIndex=辭典目錄
 botaniamisc.hasIvy=有永恆常春藤
@@ -609,9 +609,9 @@ botania.challenge.battery.desc=建立一個魔力電池, 即魔力進入一個�
 botania.challenge.apothecaryRefill=藥劑臺注水器
 botania.challenge.apothecaryRefill.desc=建造一套當花瓣藥劑臺空的 時候自動注水的系統.如果這 套系統能夠自動製造花朵獎 勵積分.
 botania.challenge.treeFarm=樹場
-botania.challenge.treeFarm.desc=建立一個自動化的,能夠自我 維持的樹場.如果能夠種植多 種型別的樹則額外加分.
+botania.challenge.treeFarm.desc=建立一個自動化的,能夠自我 維持的樹場.如果能夠種植多 種類型的樹則額外加分.
 botania.challenge.fullCropFarm=齊全的作物農場
-botania.challenge.fullCropFarm.desc=建立一個有著所有型別作物 (小麥,胡蘿蔔,馬鈴薯,西瓜,南瓜, 可可豆和地獄疣)並且能夠全 效率運作的農場.如果輸出物 品分類存放則額外加分. 
+botania.challenge.fullCropFarm.desc=建立一個有著所有類型作物 (小麥,胡蘿蔔,馬鈴薯,西瓜,南瓜, 可可豆和地獄疣)並且能夠全 效率運作的農場.如果輸出物 品分類存放則額外加分. 
 botania.challenge.animalFarm=動物農場
 botania.challenge.animalFarm.desc=建立一個有著所有能夠飼養 的動物的自動化農場.如果不 需要手動放置食物則額外加分.
 botania.challenge.boneMealFarm=骨粉農場
@@ -752,9 +752,9 @@ tile.botania:shinyFlower12.name=棕色螢光花
 tile.botania:shinyFlower13.name=綠色螢光花
 tile.botania:shinyFlower14.name=紅色螢光花
 tile.botania:shinyFlower15.name=黑色螢光花
-tile.botania:platform0.name=奧秘平臺
-tile.botania:platform1.name=幻影平臺
-tile.botania:platform2.name=不破平臺
+tile.botania:platform0.name=奧秘平台
+tile.botania:platform1.name=幻影平台
+tile.botania:platform2.name=不破平台
 tile.botania:alfheimPortal.name=精靈門核心
 tile.botania:blockDarkQuartz.name=煙燻石英塊
 tile.botania:chiseledDarkQuartz.name=鏨制煙燻石英塊
@@ -2674,7 +2674,7 @@ botania.page.lens1=基礎透鏡，沒有特殊效果。
 botania.page.lens2=&4染色&0透鏡!
 botania.page.lens3=&1彩虹透鏡&0合成
 botania.page.lens4=透鏡不僅僅是為了各種炫麗的色彩。你可以用各種材料升級以製作出能賦予&4魔力脈衝&0各種效果的新透鏡。<br>注意如果你用的是普通的&1魔&0&1力發射器&0，在末端需要有一個能接受&4魔力&0的方塊才能發射脈衝。對於一些透鏡還是推薦使用&1紅石魔力發射器&0。
-botania.page.lens5=有時，儘管，單獨給魔力發射器一個&1魔力透鏡&0還不夠。用&1黏液&0&1球&0在工作臺可以疊加複合透鏡，複合為一個透鏡是可行的，並能合併雙方的特性。<br>所用的第一個透鏡決定了外觀（文字和顏色）。注意有些疊加是無效的，比如兩個同類的透鏡。
+botania.page.lens5=有時，儘管，單獨給魔力發射器一個&1魔力透鏡&0還不夠。用&1黏液&0&1球&0在工作台可以疊加複合透鏡，複合為一個透鏡是可行的，並能合併雙方的特性。<br>所用的第一個透鏡決定了外觀（文字和顏色）。注意有些疊加是無效的，比如兩個同類的透鏡。
 botania.page.lens6=&1速度透鏡&0會大幅提升&4魔力脈&0&4衝&0的速度，這樣不僅會加快光線流失&4魔力&0的速度，還會使每次脈衝魔力量更少。
 botania.page.lens7=速度透鏡
 botania.page.lens8=&1強度透鏡&0會使每束&4魔力脈衝&0攜帶&4魔力&0加倍，然而，光線變得更慢並且流失魔力時的速率提高。
@@ -2691,7 +2691,7 @@ botania.page.lens18=&1挖掘透鏡&0賦予&4魔力脈衝&0破壞它所接觸的�
 botania.page.lens19=挖掘透鏡
 botania.page.lens20=&1傷害透鏡&0給予&4魔力脈衝&0傷害它穿過的任何生物的力量，使用它本身的魔力來運作。
 botania.page.lens21=傷害透鏡
-botania.page.lens22=&1虛化透鏡&0是個有趣的透鏡。透過利用&1奧秘平臺&0和它的特殊能力，就能做出一個使&4魔力&0&4脈衝&0穿透方塊的透鏡。但這樣一來，它也會更早開始流失魔力。
+botania.page.lens22=&1虛化透鏡&0是個有趣的透鏡。透過利用&1奧秘平台&0和它的特殊能力，就能做出一個使&4魔力&0&4脈衝&0穿透方塊的透鏡。但這樣一來，它也會更早開始流失魔力。
 botania.page.lens23=虛化透鏡
 botania.page.lens24=&1磁化透鏡&0，正如它的名字，使&4魔力脈衝&0能被附近可接收&4魔&0&4力&0的方塊吸引。這使得脈衝的速度有所減緩。
 botania.page.lens25=合成透鏡
@@ -2765,8 +2765,8 @@ botania.page.elvenLenses10=閃耀透鏡
 # -- MANA PRISM
 botania.entry.prism=魔力稜鏡
 botania.tagline.prism=飛行中改變脈衝性質
-botania.page.prism0=&1魔力透鏡&0的原理使得能量可以透過控制&4魔力脈衝&0傳遞，&1魔力稜鏡&0使用該技術使得脈衝在穿過時附加其上的透鏡效果。<br>使用&1幻影平臺&0作為原料，這個方塊不具有碰撞體積，實體和脈衝可以穿過它，就像它不存在一般
-botania.page.prism1=使用任何型別的&1魔力透鏡&0右擊它可以將其裝在稜鏡上。當&4魔力脈衝&0穿過稜鏡時，它的顏色和效果就會被設定成透鏡的。假如透鏡未染色，脈衝就會變為白色。<br>使用4個基礎透鏡同樣可以增加脈衝損失&4魔力&0前飛行的時間，讓它飛得更遠。
+botania.page.prism0=&1魔力透鏡&0的原理使得能量可以透過控制&4魔力脈衝&0傳遞，&1魔力稜鏡&0使用該技術使得脈衝在穿過時附加其上的透鏡效果。<br>使用&1幻影平台&0作為原料，這個方塊不具有碰撞體積，實體和脈衝可以穿過它，就像它不存在一般
+botania.page.prism1=使用任何類型的&1魔力透鏡&0右擊它可以將其裝在稜鏡上。當&4魔力脈衝&0穿過稜鏡時，它的顏色和效果就會被設定成透鏡的。假如透鏡未染色，脈衝就會變為白色。<br>使用4個基礎透鏡同樣可以增加脈衝損失&4魔力&0前飛行的時間，讓它飛得更遠。
 botania.page.prism2=它也可以用紅石訊號關閉。
 botania.page.prism3=牆上另一個畫素
 
@@ -2783,7 +2783,7 @@ botania.page.poolCart4=這不是管道
 botania.entry.sparkChanger=火花工匠臺
 botania.tagline.sparkChanger=用紅石加強對火花的控制
 botania.page.sparkChanger0=&1火花工匠臺&0是個能改變&1火花升級&0的方塊，只要將其放在&1魔力池&0或其他接有&1火花&0的方塊上就能讓它們相連線。<br>只要用&1火花升級&0右擊&1火花工匠臺&0就能將升級裝入，再次右擊即可取下。
-botania.page.sparkChanger1=當&1火花工匠臺&0收到紅石訊號時，它會在相連的&1火花&0中隨機挑選一個與自身所存升級型別不同的火花，並用儲存的升級替換&1該火花&0的升級。<br>儲存的升級可以透過&1漏斗&0一類的途徑匯出，使用比較器也可以辨別升級的型別。
+botania.page.sparkChanger1=當&1火花工匠臺&0收到紅石訊號時，它會在相連的&1火花&0中隨機挑選一個與自身所存升級類型不同的火花，並用儲存的升級替換&1該火花&0的升級。<br>儲存的升級可以透過&1漏斗&0一類的途徑匯出，使用比較器也可以辨別升級的類型。
 botania.page.sparkChanger2=哈哈，水火相容...
 
 # -- MANATIDE BELLOWS
@@ -2957,7 +2957,7 @@ botania.page.medumone1=&o他們看上去像是石像一般&r...
 botania.entry.marimorphosis=異構花
 botania.tagline.marimorphosis=創造新的石頭
 botania.page.marimorphosis0=&1異構花&0會使得附近的&1石質&0方塊發生轉變。從而變為8種不同的&1變質岩&0中的1種。8種都會生成，但生成得最多的取決於所在的群系。它們都能用於製作石磚，鏨制石磚，臺階，樓梯甚至是各種&1花葯臺&0。
-botania.page.marimorphosis1=各種型別的&1變質岩&0
+botania.page.marimorphosis1=各種類型的&1變質岩&0
 botania.page.marimorphosis3=就像ClariS的歌一樣多彩
 botania.page.marimorphosis2=&o這朵花就像是漂亮的片麻岩&r。
 
@@ -3081,7 +3081,7 @@ botania.tagline.rafflowsia=沒用的花朵,更多的魔力
 botania.page.rafflowsia0=許久以前有一個國家，這個國家的園丁們熱衷於&1太陽花&0，&1夜顛茄&0和&1水繡球&0，並從栽培這些神奇的植物們的過程中尋找樂趣。國民們因此受益，享受著這彷彿上天的恩賜般的免費的&1魔力&0並對此津津樂道。<br>他們無知而快樂著，從未遇見過接下來要發生的災厄。
 botania.page.rafflowsia1=然而災難悄然降臨，曾經繁茂的花園大面積枯萎將貴族們的繁榮之夢砸得支離破碎。無數個日夜的辛勞與汗水栽培而成的花朵們全都變成了&1枯死的灌木&0。<br>為了反抗背叛了他們的神明，這個國家的人民竭斯底裡的喊道：“被動型產能花就是個笑話！”
 botania.page.rafflowsia2=也許是因為他們的祈禱與信念起了作用，不久後，貴族中的能工巧匠培育出了一種新的花卉。這種新的花卉品種很好的處理了之前那些被稱為笑話的產能花。<br>也因為那段歷史，這種新的花卉被戲稱為&1噬草花&0。
-botania.page.rafflowsia3=&1噬草花&0的工作原理類似&1貪食花&0，對於任何種類的&4被動型產能花&0，它會尋找所有種在地上的並吃掉他們，並以此產生&4魔力&0。<br>然而，吃掉太多相同的會使得產生的魔力變少，為了使其達到最大效率，也許不應該讓他在短時間內吃掉大量相同型別的被動產能花。
+botania.page.rafflowsia3=&1噬草花&0的工作原理類似&1貪食花&0，對於任何種類的&4被動型產能花&0，它會尋找所有種在地上的並吃掉他們，並以此產生&4魔力&0。<br>然而，吃掉太多相同的會使得產生的魔力變少，為了使其達到最大效率，也許不應該讓他在短時間內吃掉大量相同類型的被動產能花。
 botania.page.rafflowsia4=&o你可以說這是，新的黎明&r。
 
 # -- DANDELIFEON
@@ -3131,8 +3131,8 @@ botania.tagline.manaAlchemy=將A變為B,這種交換並不等價
 botania.page.manaAlchemy0=&4魔力&0是種不穩定的物質，某種程度上我們還未了解它的完整屬性和能力。<br>但有一點，裝上&1鍊金催化器&0，由特別材料混合製成放在&1魔&0&1力池&0底部，使得池子能進行&4煉&0&4金&0。
 botania.page.manaAlchemy1=製作&1催化器&0
 botania.page.manaAlchemy2=&1腐肉&0變&1皮革&0
-botania.page.manaAlchemy3=各種型別的&1木頭&0
-botania.page.manaAlchemy4=各種型別的&1樹苗&0
+botania.page.manaAlchemy3=各種類型的&1木頭&0
+botania.page.manaAlchemy4=各種類型的&1樹苗&0
 botania.page.manaAlchemy5=粉碎&1螢光石&0
 botania.page.manaAlchemy6=粉碎&1石英塊&0
 botania.page.manaAlchemy7=製作&1鏨制石磚&0
@@ -3248,11 +3248,11 @@ botania.page.forestDrum1=注意鼓本身並不儲存魔力，然而，為了觸�
 botania.page.forestDrum2=但如果你閉上了眼睛...
 
 # -- ABSTRUSE PLATFORM
-botania.entry.platform=奧秘平臺
-botania.tagline.platform=可以穿過的偽裝平臺
-botania.page.platform0=將&1活木&0擺成一個十分特殊的形式能做出一種平臺，對它上方未潛行的人來說才有碰撞箱。而對於其他人，就好像不在那兒一樣。&4魔力脈衝&0總能無阻礙的穿過它。<br>也可以透過右擊將它偽裝成其他方塊。
-botania.page.platform2=用&1森林法杖&0右擊一個已設定的平臺會將與其相連的平臺都變為所點平臺的設定方塊，shift右擊則會移除所有的設定。
-botania.page.platform1=本因叫虛無平臺的但名字被取過了（神秘工匠）
+botania.entry.platform=奧秘平台
+botania.tagline.platform=可以穿過的偽裝平台
+botania.page.platform0=將&1活木&0擺成一個十分特殊的形式能做出一種平台，對它上方未潛行的人來說才有碰撞箱。而對於其他人，就好像不在那兒一樣。&4魔力脈衝&0總能無阻礙的穿過它。<br>也可以透過右擊將它偽裝成其他方塊。
+botania.page.platform2=用&1森林法杖&0右擊一個已設定的平台會將與其相連的平台都變為所點平台的設定方塊，shift右擊則會移除所有的設定。
+botania.page.platform1=本因叫虛無平台的但名字被取過了（神秘工匠）
 
 # -- CONJURING WITH MANA
 botania.entry.manaConjuration=魔力煉造
@@ -3271,9 +3271,9 @@ botania.page.manaConjuration10=煉造&1樹葉&0
 botania.page.manaConjuration11=煉造&1草&0
 
 # -- SPECTRAL PLATFORM
-botania.entry.spectralPlatform=幻影平臺
-botania.tagline.spectralPlatform=沒有實體的偽裝平臺
-botania.page.spectralPlatform0=&1幻影平臺&0可不是&1奧秘平臺&0那樣的。&1奧秘平臺&0在有些情況下會有碰撞箱，而&1幻影平臺&0則可讓一切穿過，不管在什麼位置。
+botania.entry.spectralPlatform=幻影平台
+botania.tagline.spectralPlatform=沒有實體的偽裝平台
+botania.page.spectralPlatform0=&1幻影平台&0可不是&1奧秘平台&0那樣的。&1奧秘平台&0在有些情況下會有碰撞箱，而&1幻影平台&0則可讓一切穿過，不管在什麼位置。
 botania.page.spectralPlatform1=這讓我想起了一個謎題
 
 # -- DRUM OF THE GATHERING
@@ -3285,7 +3285,7 @@ botania.page.gatherDrum1=輕叩你的土地
 # -- CRAFTY CRATE
 botania.entry.craftCrate=機巧箱
 botania.tagline.craftCrate=自動合成法
-botania.page.craftCrate0=就如它的名字所示，&1機巧箱&0對應著&1花格箱&0但它能像&1工作臺&0那樣將物品組裝成其他物品。<br>就像&1工作臺&0那樣它有9個物品欄，可以將物品在其中擺成指定合成配方。
+botania.page.craftCrate0=就如它的名字所示，&1機巧箱&0對應著&1花格箱&0但它能像&1工作台&0那樣將物品組裝成其他物品。<br>就像&1工作台&0那樣它有9個物品欄，可以將物品在其中擺成指定合成配方。
 botania.page.craftCrate1=物品遵循由左到右由上至下的原則（這裡進一步說明），有一個特殊的物品，叫做&1合成佔&0&1位符&0，放入時，會算作合成中的空位。用於有空槽的合成（比如熔爐，箱子，鎬...）。
 botania.page.craftCrate2=製作合成佔位符
 botania.page.craftCrate3=完成合成，一共需要兩步。<br>首先，在9個欄中填滿合成所需的物品或佔位符就會顯示出合成結果，佔位符和任何副產物（比如製作蛋糕時的桶），這就是最簡單的方法。
@@ -3309,7 +3309,7 @@ botania.page.hourglass5=時光之沙
 # -- SPECTRAL RAIL
 botania.entry.ghostRail=幻影軌道
 botania.tagline.ghostRail=讓礦車飛一會兒
-botania.page.ghostRail0=將&1鐵軌&0鋪在&1幻影平臺&0上會給經過其上的&1礦車&0附加有趣的能力：當它駛過這段軌道時，礦車會略微的浮空，此時它也能穿牆而過。<br>該效果會在礦車著陸於另一段鐵軌或撞上&1夢之木&0一類的方塊時消失。
+botania.page.ghostRail0=將&1鐵軌&0鋪在&1幻影平台&0上會給經過其上的&1礦車&0附加有趣的能力：當它駛過這段軌道時，礦車會略微的浮空，此時它也能穿牆而過。<br>該效果會在礦車著陸於另一段鐵軌或撞上&1夢之木&0一類的方塊時消失。
 botania.page.ghostRail1=你可以稱它：靈魂軌跡
 
 # -- DRUM OF THE CANOPY
@@ -3340,7 +3340,7 @@ botania.page.teruTeruBozu1=太恐怖了
 # -- LIVINGWOOD AVATAR
 botania.entry.avatar=活木化身
 botania.tagline.avatar=方塊中的法杖
-botania.page.avatar0=將&1活木&0雕刻成形並用&1魔力鑽石&0作為其心臟，這樣便製作了一個名為&1活木化身&0的著名裝置。它本身並不能做任何事情——除了看起來十分可愛<br>然而，只要給它一根&4法杖&0就能讓他施展各種的魔法，這取決於給它法杖的型別。當然，它所需的&4魔力&0由發射器供給。
+botania.page.avatar0=將&1活木&0雕刻成形並用&1魔力鑽石&0作為其心臟，這樣便製作了一個名為&1活木化身&0的著名裝置。它本身並不能做任何事情——除了看起來十分可愛<br>然而，只要給它一根&4法杖&0就能讓他施展各種的魔法，這取決於給它法杖的類型。當然，它所需的&4魔力&0由發射器供給。
 botania.page.avatar1=並非所有的&4法杖&0都適合。然而，所有可用的法杖，都會在它們自己的頁面解釋放入&1活木化身&0中的效果<br>一些可用法杖的例子比如&1天空法杖&0，&1地獄法杖&0以及&1彩虹橋法杖&0。
 botania.page.avatar2=但不是番劇嗎？
 
@@ -3356,7 +3356,7 @@ botania.entry.manaBlaster=魔力脈衝槍
 botania.tagline.manaBlaster=行動式魔力發射器,有透鏡的!
 botania.page.manaBlaster0=&1魔力脈衝槍&0就像是個便攜的&1魔力發射器&0，性狀做成了手槍一樣便於使用，但並不是真的槍，它只是個行動式的發射器。<br>透過使用使用者物品欄的&4魔&0&4力攜帶品&0裡的&4魔力&0，它能朝所看方向射出一道魔力脈衝。
 botania.page.manaBlaster1=這種脈衝不同於魔力發射器裡發出的，它更快，但只有前者四分之三的魔力量。在發射後也只有短暫的冷卻時間。
-botania.page.manaBlaster2=&1魔力透鏡&0也可以與脈衝槍配合使用。要想給它裝上，只需在工作臺中將它們並排放置；要取下時，只需將&1魔力脈衝槍&0放回合成格中。<br>如果使用者身上帶有&1急迫&0效果，那麼他們發射脈衝槍的速度也會隨之提升。
+botania.page.manaBlaster2=&1魔力透鏡&0也可以與脈衝槍配合使用。要想給它裝上，只需在工作台中將它們並排放置；要取下時，只需將&1魔力脈衝槍&0放回合成格中。<br>如果使用者身上帶有&1急迫&0效果，那麼他們發射脈衝槍的速度也會隨之提升。
 botania.page.manaBlaster3=我們要更猛的槍
 
 # -- PASTURE SEEDS
@@ -3556,7 +3556,7 @@ botania.page.missileRod1=死ね死ね死ね死ね死ね
 # -- ASSEMBLY HALO
 botania.entry.craftingHalo=合成環
 botania.tagline.craftingHalo=快捷合成,附帶網格哦
-botania.page.craftingHalo0=帶著&1工作臺&0到處跑太麻煩了。&1合成環&0不僅僅是一個便攜的&1工作臺&0更是一個快捷的合成工具。手持它時就會顯示出一"圈"的配方。<br>直接右擊&1工作臺&0的圖示就會開啟一個合成介面。
+botania.page.craftingHalo0=帶著&1工作台&0到處跑太麻煩了。&1合成環&0不僅僅是一個便攜的&1工作台&0更是一個快捷的合成工具。手持它時就會顯示出一"圈"的配方。<br>直接右擊&1工作台&0的圖示就會開啟一個合成介面。
 botania.page.craftingHalo1=只要物品還在揹包裡它就會儲存最近一次合成的配方。<br>右擊環上的空位即可新增最近一次的配方。右擊配方則會使用揹包中的物品進行合成。Shift左擊就能移除配方。
 botania.page.craftingHalo2=只會遵循選單的料理是無味的
 
@@ -3755,7 +3755,7 @@ botania.tagline.corporea=物品管理系統
 botania.page.corporea0=&4多媒體&0是一個利用末地的能量和世界的空白空間來瞬間從點A到點B傳輸物品的魔力系統，無需任何連線部件。<br>這個系統透過&1火花&0的變種來運作，&1多媒體火花&0。這和普通的&1火花&0有一些共性，但也有一些區別。
 botania.page.corporea1=首先，它們可以放在任何&4容器&0上方，例如&1箱子&0或&1發射器&0，不能是&4魔力容器&0，其次，有兩種&1多媒&0&1體火花&0，基礎的&1多媒體火花&0和&1主媒體火花&0。這些火花在類似網路的系統內工作，每個&1主媒&0&1體火花&0代表一個&4多媒體網路&0，其中的每個火花都可以與網路內的其他火花互動。
 botania.page.corporea2=當&1多媒體火花&0被放置或操作時，每個火花都會對周圍任何火花操作，將它們新增到一個&1主媒體火花&0所代表的網路內並繼續對周圍火花操作，形成鏈式反應。雖然每個火花只能涉及很短距離，但組合之後，整個網路可以擁有近乎無限的距離。
-botania.page.corporea3=&1多媒體火花&0可以檢視下方的容器，但只能從上方輸入物品。每個&1多媒體火花&0具有檢視網路內其他火花及其內容的功能，以及必要時命令它們的能力，取決於下方的方塊型別。
+botania.page.corporea3=&1多媒體火花&0可以檢視下方的容器，但只能從上方輸入物品。每個&1多媒體火花&0具有檢視網路內其他火花及其內容的功能，以及必要時命令它們的能力，取決於下方的方塊類型。
 botania.page.corporea4=需要注意的是&1主媒體火花&0作為網路的一部分，它提取的容器內不能有物品。<br>還有，網路不需要的物品會被動操作。多媒體沒有將新物品新增到網路的能力，這些應該用&1漏斗&0或其它方法實現。
 botania.page.corporea5=和普通的&1火花&0一樣，&1多媒體火&0&1花&0也有擴充套件方法，就是上色的能力。在世界裡，在火花的周圍漂浮著一個圖示，使用&1花粉&0右擊火花可以改變顏色。這些顏色定義了網路。火花只能與其它有相同顏色的火花在同一個網路內。
 botania.page.corporea6=火花染色的能力使得近距離形成多個不同&4多媒體網路&0成為可能，不會相互幹擾。<br>檢視網路和移除火花的做法和普通火花的一樣。最後，將2個同色的&1主媒體火花&0放得太近或許是個壞主意，可能會導致衝突或奇怪的現象。
@@ -3785,7 +3785,7 @@ botania.page.corporeaFunnel2=像應用能源一樣
 # -- CORPOREA INTERCEPTOR
 botania.entry.corporeaInterceptor=多媒體攔截器
 botania.tagline.corporeaInterceptor=攔截多媒體請求併發射紅石脈衝
-botania.page.corporeaInterceptor0=&1多媒體攔截器&0的功能如其名，它會攔截多媒體請求。首先，裝有物品的&1展示框&0要掛在方塊上，它會決定觸發攔截器的物品型別。<br>當請求經由索引或漏斗等進入網路中時，若對應的物品在網路中存量不足，該方塊便會被觸發。
+botania.page.corporeaInterceptor0=&1多媒體攔截器&0的功能如其名，它會攔截多媒體請求。首先，裝有物品的&1展示框&0要掛在方塊上，它會決定觸發攔截器的物品類型。<br>當請求經由索引或漏斗等進入網路中時，若對應的物品在網路中存量不足，該方塊便會被觸發。
 botania.page.corporeaInterceptor1=當然，只有在請求的物品與&1展&0&1示框&0內的物品匹配時才會觸發攔截器。這時它就會輸出一個短的紅石脈衝。這能用於各種用途，比如用&1機巧箱&0合成所需的物品，或是點亮燈以提醒材料不足。
 botania.page.corporeaInterceptor2=自動化前景可觀
 
@@ -3823,15 +3823,15 @@ botania.page.spawnerMover1=我們得到了刷怪籠，但好像不太值。
 # -- RESOLUTE IVY
 botania.entry.keepIvy=堅毅之藤
 botania.tagline.keepIvy=死後保留其身之藤
-botania.page.keepIvy0=每個人都知道，在復活之前東西灑了一地，通常是個極大的麻煩。解決辦法十分簡單。透過將&1堅毅之藤&0與物品在工作臺合成，該物品就會在死亡的時候保留在物品欄。在此之後藤蔓會變質需要再次新增，如果想讓物品再次保留的話。
+botania.page.keepIvy0=每個人都知道，在復活之前東西灑了一地，通常是個極大的麻煩。解決辦法十分簡單。透過將&1堅毅之藤&0與物品在工作台合成，該物品就會在死亡的時候保留在物品欄。在此之後藤蔓會變質需要再次新增，如果想讓物品再次保留的話。
 botania.page.keepIvy2=然而，有些物品不能附加上堅毅之藤。<br>出於某些&o技術性原因&r，堅毅之藤不能附加在那些合成後有退還的物品上，例如&1水桶&0或是&1研缽和杵&0。
 botania.page.keepIvy1=人被殺，就會死
 
 # -- BLACK HOLE TALISMAN
 botania.entry.blackHoleTalisman=黑洞護符
 botania.tagline.blackHoleTalisman=無限的儲存某一方塊
-botania.page.blackHoleTalisman0=虛空是一個充滿了...虛空的空間，真的。那裡什麼東西都沒有。但也有一些新花樣，這個空間可以用來儲存你心裡想的物品。<br>&1黑洞護符&0利用強大的蓋亞力量和終界魔法允許單一型別的方塊幾乎無限量的儲存在這個空間。
-botania.page.blackHoleTalisman1=對著方塊右鍵可以將護符設定為儲存這種方塊。僅在護符為空時可行。完成後，對著空氣shift右鍵可以啟用或關閉護符。啟用狀態下且位於使用者物品欄中時，它會將該型別的方塊吸入其中。<br>將該物品放入合成格中，可以成組地取出其中的方塊。
+botania.page.blackHoleTalisman0=虛空是一個充滿了...虛空的空間，真的。那裡什麼東西都沒有。但也有一些新花樣，這個空間可以用來儲存你心裡想的物品。<br>&1黑洞護符&0利用強大的蓋亞力量和終界魔法允許單一類型的方塊幾乎無限量的儲存在這個空間。
+botania.page.blackHoleTalisman1=對著方塊右鍵可以將護符設定為儲存這種方塊。僅在護符為空時可行。完成後，對著空氣shift右鍵可以啟用或關閉護符。啟用狀態下且位於使用者物品欄中時，它會將該類型的方塊吸入其中。<br>將該物品放入合成格中，可以成組地取出其中的方塊。
 botania.page.blackHoleTalisman2=當護符內有任何物品時，裡面的方塊可以被放置，就像放在物品欄的普通方塊一樣簡單右擊即可。<br>右擊物品欄會試圖從護符內提取方塊填充。
 botania.page.blackHoleTalisman3=就像雷電，但雙倍歡樂
 
@@ -4215,7 +4215,7 @@ botania.page.dispenserTweaks0=&1發射器&0，在原有基礎上，也能種植�
 botania.entry.shinyFlowers=螢光花
 botania.tagline.shinyFlowers=浮空的發光花
 botania.page.shinyFlowers0=給你的&1神秘花&0加上點&1螢光石粉&0，就能讓她們更閃耀，發出相當於&1螢光石塊&0亮度的物理光。<br>加上一些&1泥土&0和&1草地之種&0就能將它們變為一塊小型空島，它不僅能發光，而且還很炫酷。
-botania.page.shinyFlowers3=將任何顏色的&1浮空花朵&0與任何有效果的花朵，（任何&4功能性或產能花朵&0等）在工作臺裡相互結合，會得到擁有雙方屬性，效果及外觀的&1浮空花&0。
+botania.page.shinyFlowers3=將任何顏色的&1浮空花朵&0與任何有效果的花朵，（任何&4功能性或產能花朵&0等）在工作台裡相互結合，會得到擁有雙方屬性，效果及外觀的&1浮空花&0。
 botania.page.shinyFlowers1=一閃一閃
 botania.page.shinyFlowers2=就像拉普達（天空之城）但小多了
 
@@ -4284,7 +4284,7 @@ botania.page.phantomInk1=你想找誰？
 # -- STONE ALCHEMY
 botania.entry.stoneAlchemy=岩石鍊金
 botania.tagline.stoneAlchemy=製造新的石頭
-botania.page.stoneAlchemy0=用&1鍊金催化器&0就能做出新型別的&1石頭&0。你只需將一個&1石頭&0投入催化的魔力池中，它就會變成另一種石頭（依次迴圈）。<br>類似&1海晶石&0，一些學者表示這項技術來自未來。這些石頭及它們製成的磚塊也能做成樓梯和臺階。
+botania.page.stoneAlchemy0=用&1鍊金催化器&0就能做出新類型的&1石頭&0。你只需將一個&1石頭&0投入催化的魔力池中，它就會變成另一種石頭（依次迴圈）。<br>類似&1海晶石&0，一些學者表示這項技術來自未來。這些石頭及它們製成的磚塊也能做成樓梯和臺階。
 botania.page.stoneAlchemy1=製作不同的石頭
 botania.page.stoneAlchemy2=磨光
 botania.page.stoneAlchemy3=砌磚
@@ -4336,7 +4336,7 @@ botania.page.bcIntegration0=最近在管道技術上的進步使得&1BC門&0能�
 # -- BANNER ADDITIONS
 botania.entry.banners=更多旗幟
 botania.tagline.banners=好多新旗幟圖案
-botania.page.banners0=因為未來&1旗幟&0的存在，&1植物魔法&0為其新增了&415&0種新圖示，這些圖示可與既有圖案和圖示混合搭配使用。<br>除了染料以外，下列這些物品也可以在工作臺中為&1旗幟&0附加圖示：&1所有鐵質工具&0、&1火花升級&0、&1生魚&0、&1活木枝和夢之木棍&0、&1植物魔法辭典&0、&1泰拉鋼&0和&1小土豆&0。
+botania.page.banners0=因為未來&1旗幟&0的存在，&1植物魔法&0為其新增了&415&0種新圖示，這些圖示可與既有圖案和圖示混合搭配使用。<br>除了染料以外，下列這些物品也可以在工作台中為&1旗幟&0附加圖示：&1所有鐵質工具&0、&1火花升級&0、&1生魚&0、&1活木枝和夢之木棍&0、&1植物魔法辭典&0、&1泰拉鋼&0和&1小土豆&0。
 botania.page.banners1=各種旗幟展覽
 
 # -- PREVENTING DECAY

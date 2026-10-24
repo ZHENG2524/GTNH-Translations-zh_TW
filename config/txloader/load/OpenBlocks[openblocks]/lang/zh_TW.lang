@@ -70,10 +70,10 @@ openblocks.gui.laststand.content=當你面對死亡,屹立不倒附魔會消耗�
 
 openblocks.changelog.title=開放式方塊更新日誌%s
 openblocks.misc.url=連結: %s
-openblocks.misc.type=型別: %s
+openblocks.misc.type=類型: %s
 openblocks.misc.uses=剩餘使用次數: %.2f
 openblocks.misc.color=顏色: %06X
-openblocks.misc.mode=塗鴉型別: %s
+openblocks.misc.mode=塗鴉類型: %s
 openblocks.misc.mode.block=方塊
 openblocks.misc.mode.panel=面板
 openblocks.misc.mode.half_panel=半高面板
@@ -152,7 +152,7 @@ openblocks.misc.radio.too_many=正在播放的收音機太多
 openblocks.misc.radio.invalid_stream=無效音訊流
 openblocks.misc.radio.invalid_url=無效連結
 openblocks.misc.radio.url_not_found=連結未找到
-openblocks.misc.radio.unknown_stream_type=未知型別的音訊流
+openblocks.misc.radio.unknown_stream_type=未知類型的音訊流
 openblocks.misc.radio.malformed_data=資料異常
 openblocks.misc.radio.not_ready=音訊流尚未準備好,請稍後重試
 openblocks.misc.radio.cant_connect=無法連線
@@ -192,7 +192,7 @@ tile.openblocks.heal.name=治癒方塊
 tile.openblocks.heal.description=只有在創造模式下才能得到治癒方塊,它會為站在上方的玩家提供輕微的治療效果.
 
 tile.openblocks.guide.name=建築指導儀
-tile.openblocks.guide.description=建築指南使用幽靈方塊投影形狀以便於建造。透過紅石訊號啟用投影，並使用空手點選各面上的按鈕進行配置。頂面按鈕用於迴圈切換或旋轉形狀。每個側面都有一組方向按鈕（上、下、左、右）：+/- 調整方向長度，而 ➤ 按鈕則將其映象到相反方向。\n使用染料點選建築指南可以更改投影顏色。
+tile.openblocks.guide.description=建築指南使用幽靈方塊投影形狀以便於建造。透過紅石訊號啟用投影，並使用空手點選各面上的按鈕進行配置。頂面按鈕用於迴圈切換或旋轉形狀。每個側面都有一組方向按鈕（上、下、左、右）：+/- 調整方向長度，而 ➤ 按鈕則將其鏡像到相反方向。\n使用染料點選建築指南可以更改投影顏色。
 
 tile.openblocks.builder_guide.name=強化建築指導儀
 tile.openblocks.builder_guide.description=這個強化建築指導儀不單單能夠投影出方塊輪廓，還能夠允許你直接放置方塊。用任意方塊右擊中間的建築指導儀即可！\n在創造模式情況下，指導儀頂部放黑曜石，用任意方塊右擊能夠瞬間搭建出對應的結構。

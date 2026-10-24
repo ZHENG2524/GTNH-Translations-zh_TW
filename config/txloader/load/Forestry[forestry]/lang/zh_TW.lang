@@ -866,7 +866,7 @@ tile.for.factory.7.name=造雨機
 tile.for.factory2.name=機器
 tile.for.factory2.0.name=熱電子加工臺
 tile.for.factory2.1.name=集雨蓄水槽
-tile.for.factory2.2.name=工作臺
+tile.for.factory2.2.name=工作台
 
 tile.for.mail.name=信箱
 tile.for.mail.0.name=信箱
@@ -1031,7 +1031,7 @@ for.errors.noCircuitLayout.help=根據當前遊戲設定無可用的農場設計
 
 # FARMS
 for.errors.noFarmland.desc=無農田
-for.errors.noFarmland.help=用光滑沙石，磚塊，或者石磚來搭建一個用以建立農場的平臺。
+for.errors.noFarmland.help=用光滑沙石，磚塊，或者石磚來搭建一個用以建立農場的平台。
 for.errors.noFertilizer.desc=無肥料
 for.errors.noFertilizer.help=農場需要使用肥料來驅動，靠堆肥不足以驅動。
 for.errors.noLiquid.desc=缺水
@@ -1159,7 +1159,7 @@ for.chat.command.forestry.bee.format=格式： /%s <sub-command>
 for.chat.command.forestry.bee.give.desc=- %s ：給予玩家蜜蜂
 for.chat.command.forestry.bee.give.help=給予玩家一隻雄蜂，公主蜂，蜂后或幼蜂。
 for.chat.command.forestry.bee.give.format=格式： /%s <species-name> <bee-type> [<player-name>]
-for.chat.command.forestry.bee.give.available=可用蜜蜂型別： %s
+for.chat.command.forestry.bee.give.available=可用蜜蜂類型： %s
 for.chat.command.forestry.bee.give.given=給予%1$s一隻%2$s%3$s。
 
 for.chat.command.forestry.bee.mode.desc=- %s ：養蜂模式相關命令
@@ -1551,11 +1551,11 @@ for.gui.hydr.overall=概況
 for.gui.hydr.rainfall=基於降雨量
 for.gui.hydration=需求更多的水
 
-for.hints.circuitboard.desc=使用你的電烙鐵來變換農場的型別！
+for.hints.circuitboard.desc=使用你的電烙鐵來變換農場的類型！
 for.hints.circuitboard.tag=多功能農場！
 for.hints.farmgui.desc=土壤放入左邊的格子裡，而種子/樹苗則放到一般位於右上方的合適格子中。
 for.hints.farmgui.tag=土壤向左，種子靠右！
-for.hints.farmland.desc=用光滑沙石，磚塊，或者石磚來搭建一個用以建立農場的平臺。
+for.hints.farmland.desc=用光滑沙石，磚塊，或者石磚來搭建一個用以建立農場的平台。
 for.hints.farmland.tag=搭建屬於你的農場！
 for.hints.fertilizer.desc=除了果園各種農場都需要肥料，不能使用堆肥。
 for.hints.fertilizer.tag=需要肥料！
@@ -1849,9 +1849,9 @@ for.config.beekeeping.mode.comment=調整養蜂模式。
 for.config.beekeeping.second.princess=第二隻公主蜂機率
 for.config.beekeeping.second.princess.comment=後代出現第二隻公主蜂百分率，此條為空島/條件限制地圖而設計。
 for.config.beekeeping.flowers.accepted=採蜜物件
-for.config.beekeeping.flowers.accepted.comment=能夠使蜜蜂工作的鮮花型別。按下面格式進行新增：'modid:name:meta'，按行分割。也可使用通配格式'modid:name'。
+for.config.beekeeping.flowers.accepted.comment=能夠使蜜蜂工作的鮮花類型。按下面格式進行新增：'modid:name:meta'，按行分割。也可使用通配格式'modid:name'。
 for.config.beekeeping.flowers.plantable=可播種鮮花
-for.config.beekeeping.flowers.plantable.comment=蜜蜂可以播種的鮮花型別。能夠播種的鮮花都會自動視為採蜜物件。新增格式：'modid:name:meta'，按行分割。也可使用通配格式'modid:name'。
+for.config.beekeeping.flowers.plantable.comment=蜜蜂可以播種的鮮花類型。能夠播種的鮮花都會自動視為採蜜物件。新增格式：'modid:name:meta'，按行分割。也可使用通配格式'modid:name'。
 
 for.config.species.blacklist=物種黑名單
 for.config.species.blacklist.comment=以uid為識別將物品加入黑名單中，按行新增。
