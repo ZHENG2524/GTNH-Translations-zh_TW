@@ -494,7 +494,7 @@ achievement.botania:manaPoolPickup.desc=將稀釋魔力池升級為普通的魔�
 achievement.botania:endoflamePickup=爐心融解
 achievement.botania:endoflamePickup.desc=做出一朵火紅蓮來加速魔力生產
 achievement.botania:tinyPotatoPet=Just Be Friends
-achievement.botania:tinyPotatoPet.desc=做出一個小馬鈴薯再愛撫它
+achievement.botania:tinyPotatoPet.desc=做出一個小土豆再愛撫它
 achievement.botania:sparkCraft=Live Drive
 achievement.botania:sparkCraft.desc=製作火花協助傳輸魔力
 achievement.botania:baubleWear=Inner Arts
@@ -852,7 +852,7 @@ tile.botania:miniIsland12.name=棕色浮空花
 tile.botania:miniIsland13.name=綠色浮空花
 tile.botania:miniIsland14.name=紅色浮空花
 tile.botania:miniIsland15.name=黑色浮空花
-tile.botania:tinyPotato.name=小馬鈴薯
+tile.botania:tinyPotato.name=小土豆
 tile.botania:spawnerClaw.name=生命灌注器
 tile.botania:reedBlock.name=甘蔗塊
 tile.botania:reedBlock0Stairs.name=甘蔗樓梯
@@ -1631,7 +1631,7 @@ item.botania:cosmetic26.name=橙色墨鏡
 item.botania:cosmetic27.name=大鼻子面具
 item.botania:cosmetic28.name=濃眉毛
 item.botania:cosmetic29.name=盾牌
-item.botania:cosmetic30.name=小馬鈴薯麵具
+item.botania:cosmetic30.name=小土豆麵具
 item.botania:cosmetic31.name=任務人標誌
 item.botania:manaString.name=蘊魔絲線
 item.botania:swapRing.name=修正指環
@@ -1795,22 +1795,22 @@ item.banner.botania_sapling.magenta=品紅色樹苗
 item.banner.botania_sapling.orange=橙色樹苗
 item.banner.botania_sapling.white=白色樹苗
 
-item.banner.botania_tiny_potato.black=黑色馬鈴薯臉
-item.banner.botania_tiny_potato.red=紅色馬鈴薯臉
-item.banner.botania_tiny_potato.green=綠色馬鈴薯臉
-item.banner.botania_tiny_potato.brown=棕色馬鈴薯臉
-item.banner.botania_tiny_potato.blue=藍色馬鈴薯臉
-item.banner.botania_tiny_potato.purple=紫色馬鈴薯臉
-item.banner.botania_tiny_potato.cyan=青色馬鈴薯臉
-item.banner.botania_tiny_potato.silver=淡灰色馬鈴薯臉
-item.banner.botania_tiny_potato.gray=灰色馬鈴薯臉
-item.banner.botania_tiny_potato.pink=粉色馬鈴薯臉
-item.banner.botania_tiny_potato.lime=黃綠色馬鈴薯臉
-item.banner.botania_tiny_potato.yellow=黃色馬鈴薯臉
-item.banner.botania_tiny_potato.lightBlue=淡藍色馬鈴薯臉
-item.banner.botania_tiny_potato.magenta=品紅色馬鈴薯臉
-item.banner.botania_tiny_potato.orange=橙色馬鈴薯臉
-item.banner.botania_tiny_potato.white=白色馬鈴薯臉
+item.banner.botania_tiny_potato.black=黑色土豆臉
+item.banner.botania_tiny_potato.red=紅色土豆臉
+item.banner.botania_tiny_potato.green=綠色土豆臉
+item.banner.botania_tiny_potato.brown=棕色土豆臉
+item.banner.botania_tiny_potato.blue=藍色土豆臉
+item.banner.botania_tiny_potato.purple=紫色土豆臉
+item.banner.botania_tiny_potato.cyan=青色土豆臉
+item.banner.botania_tiny_potato.silver=淡灰色土豆臉
+item.banner.botania_tiny_potato.gray=灰色土豆臉
+item.banner.botania_tiny_potato.pink=粉色土豆臉
+item.banner.botania_tiny_potato.lime=黃綠色土豆臉
+item.banner.botania_tiny_potato.yellow=黃色土豆臉
+item.banner.botania_tiny_potato.lightBlue=淡藍色土豆臉
+item.banner.botania_tiny_potato.magenta=品紅色土豆臉
+item.banner.botania_tiny_potato.orange=橙色土豆臉
+item.banner.botania_tiny_potato.white=白色土豆臉
 
 item.banner.botania_spark_dispersive.black=黑色分散性狀
 item.banner.botania_spark_dispersive.red=紅色分散性狀
@@ -2439,7 +2439,7 @@ tile.thatch0Slab.name=茅草臺階
 tile.thatch0SlabFull.name=茅草臺階
 tile.thatch0Stairs.name=茅草樓梯
 tile.tinyPlanetBlock.name=魔力環繞器
-tile.tinyPotato.name=小馬鈴薯
+tile.tinyPotato.name=小土豆
 tile.turntable.name=發射器旋轉臺
 tile.unstableBlock.name=不穩定立方
 
@@ -4236,9 +4236,9 @@ botania.tagline.shedding=一物剋一物
 botania.page.shedding0=這片土地上的生物都以非靜態的形式生存著。所以它們掉落身體的一部分或是其他什麼東西都是很正常的。之後的頁面列舉了這些生物會掉落的物品。
 
 # -- TINY POTATO
-botania.entry.tinyPotato=小馬鈴薯
-botania.tagline.tinyPotato=馬鈴薯是我們所有人的朋友
-botania.page.tinyPotato0=這是一個小馬鈴薯，它相信你，你能做到。<br>儘管聽起來不太真實，但就是那樣，將一個&1馬鈴薯&0投入&1魔力&0&1池&0，它就得到了一點活性精華並且感到愉悅。它很活躍，右擊它還能讓它更活躍!
+botania.entry.tinyPotato=小土豆
+botania.tagline.tinyPotato=土豆是我們所有人的朋友
+botania.page.tinyPotato0=這是一個小土豆，它相信你，你能做到。<br>儘管聽起來不太真實，但就是那樣，將一個&1馬鈴薯&0投入&1魔力&0&1池&0，它就得到了一點活性精華並且感到愉悅。它很活躍，右擊它還能讓它更活躍!
 botania.page.tinyPotato1=將它放在Kickstarter網站上就起效了
 
 # -- HEAD CREATION
@@ -4336,7 +4336,7 @@ botania.page.bcIntegration0=最近在管道技術上的進步使得&1BC門&0能�
 # -- BANNER ADDITIONS
 botania.entry.banners=更多旗幟
 botania.tagline.banners=好多新旗幟圖案
-botania.page.banners0=因為未來&1旗幟&0的存在，&1植物魔法&0為其新增了&415&0種新圖示，這些圖示可與既有圖案和圖示混合搭配使用。<br>除了染料以外，下列這些物品也可以在工作台中為&1旗幟&0附加圖示：&1所有鐵質工具&0、&1火花升級&0、&1生魚&0、&1活木枝和夢之木棍&0、&1植物魔法辭典&0、&1泰拉鋼&0和&1小馬鈴薯&0。
+botania.page.banners0=因為未來&1旗幟&0的存在，&1植物魔法&0為其新增了&415&0種新圖示，這些圖示可與既有圖案和圖示混合搭配使用。<br>除了染料以外，下列這些物品也可以在工作台中為&1旗幟&0附加圖示：&1所有鐵質工具&0、&1火花升級&0、&1生魚&0、&1活木枝和夢之木棍&0、&1植物魔法辭典&0、&1泰拉鋼&0和&1小土豆&0。
 botania.page.banners1=各種旗幟展覽
 
 # -- PREVENTING DECAY
