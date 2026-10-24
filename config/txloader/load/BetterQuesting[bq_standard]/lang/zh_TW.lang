@@ -1,5 +1,5 @@
-bq_standard.task.retrieval=檢索任務
-bq_standard.task.optional_retrieval=可選任務
+bq_standard.task.retrieval=物品收集任務
+bq_standard.task.optional_retrieval=選用任務
 bq_standard.task.crafting=合成任務
 bq_standard.task.hunt=擊殺任務
 bq_standard.task.scoreboard=記分板任務
@@ -23,13 +23,13 @@ bq_standard.reward.xp=經驗獎勵
 bq_standard.reward.recipe=解鎖合成表獎勵
 bq_standard.reward.questcompletion=完成任務獎勵
 
-bq_standard.trade_unlock=關聯的自動售貨機兌換專案
+bq_standard.trade_unlock=關聯的自動販賣機兌換項目
 
 bq_standard.title.edit_hunt=編輯擊殺任務
 bq_standard.title.edit_meeting=編輯會見NPC任務
 bq_standard.title.edit_loot_groups=編輯戰利品組
 bq_standard.title.edit_loot_entries=編輯戰利品條目
-bq_standard.title.edit_retrieval=編輯檢索任務
+bq_standard.title.edit_retrieval=編輯物品收集任務
 bq_standard.title.edit_crafting=編輯合成任務
 bq_standard.title.edit_scoreboard=編輯記分板任務
 bq_standard.title.edit_advancement=編輯推進任務
@@ -48,7 +48,7 @@ bq_standard.gui.dimension=維度：%s
 bq_standard.gui.biome=生物群系: %s
 bq_standard.gui.structure=結構: %s
 bq_standard.gui.found=發現!
-bq_standard.gui.undiscovered=未被發現	
+bq_standard.gui.undiscovered=尚未發現
 bq_standard.gui.condition=條件: %s
 bq_standard.gui.meet=與 %s 會見
 bq_standard.gui.weight=權重	

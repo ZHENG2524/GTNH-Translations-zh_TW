@@ -7,7 +7,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=第一層：0階. 本章節
 
 # Quest: Your First Night
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=§9§l你的第一個夜晚
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=你好,新員工,歡迎來到GTNH!%n%n先別忙著享受溫暖的陽光了,因為大概十分鐘之後太陽就會落山,而且和原版Minecraft不同,這裡的黑夜伸手不見五指.不過那些恐怖的怪物還是能找到你的. 所以你的第一項任務是尋找食物和避難所,平安度過夜晚. 好在你將在本章任務結束時擁有一張床來改善一下你的生活質量. %n%n至於這本書?你不需要留著這本書,即使沒帶在身上也可以用"~"鍵開啟任務書...當然先得把那個礙事的鍵位衝突解決了.%n%n如果你需要進一步幫助,或者只是想找個地方閒逛聊天,都可以到我們的Discord伺服器:[url]https://discord.gg/gtnh[/url] -這些連結是可以點選的.請在#role-select頻道選擇自己的科技等級-這能幫助別人根據你的情況給出合適的建議.%n%n我們的官方wiki上也有許多GTNH的主題帖:[url]https://wiki.gtnewhorizons.com/wiki/Main_Page[/url] 某些機器裝置確實非常複雜,僅靠任務書稍顯不足,wiki可以提供更加詳細的解釋,以及圖片. 另外,如果你感覺任務書上的指導還不夠,可以看一下wiki上的"beginner's-guides"初學者指南. wiki上還有可選mod列表,適用於那些想要玩點花的人.%n%n另外,在這裡[url]https://www.gtnewhorizons.com/spreadsheet[/url] 還有你所需要的所有資料.%n%n如果你的整合包是透過[warn]CurseForge[/warn]的啟動器啟動,整合包可能無法穩定執行.Curse啟動器無法穩定執行整合包內我們修改過的部分mod.所以當你遇到任何問題,最佳解決方式是先嚐試換個啟動器,比如MultiMC、Prism或是Technic.wiki同樣包括這部分教程. 最新整合包版本會在Discord的#announcements頻道釋出,或帶著!download指令.%n%n希望在讀這一大段話的時候,你沒被怪物嚼碎了.%n%n譯者注：漢化包下載地址:§1§n[url]https://github.com/Kiwi233/Translation-of-GTNH[/url]§r%n%nGTNH新手解答群:QQ群號: 188712741 §r%n%n關於中文WIKI：%n主頁：§1§n[url]https://gtnh.huijiwiki.com[/url]§r %n參與編輯：§1§n[url]https://gtnh.huijiwiki.com/p/111[/url]§r%n可新增MOD：§1§n[url]https://gtnh.huijiwiki.com/p/386[/url]§r%n常見問題解答：§1§n[url]https://gtnh.huijiwiki.com/p/240[/url]§r%n新手建議：§1§n[url]https://gtnh.huijiwiki.com/p/60070[/url]§r%n小技巧：§1§n[url]https://gtnh.huijiwiki.com/p/1357[/url]§r%n%n也可以搜尋MC模組百科：§1§n[url]https://www.mcmod.cn[/url]§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=你好,新員工,歡迎來到GTNH!%n%n先別忙著享受溫暖的陽光了,因為大概十分鐘之後太陽就會落山,而且和原版Minecraft不同,這裡的黑夜伸手不見五指.不過那些恐怖的怪物還是能找到你的. 所以你的第一項任務是尋找食物和避難所,平安度過夜晚. 好在你將在本章任務結束時擁有一張床來改善一下你的生活品質. %n%n至於這本書?你不需要留著這本書,即使沒帶在身上也可以用"~"鍵開啟任務書...當然先得把那個礙事的鍵位衝突解決了.%n%n如果你需要進一步幫助,或者只是想找個地方閒逛聊天,都可以到我們的Discord伺服器:[url]https://discord.gg/gtnh[/url] -這些連結是可以點選的.請在#role-select頻道選擇自己的科技等級-這能幫助別人根據你的情況給出合適的建議.%n%n我們的官方wiki上也有許多GTNH的主題帖:[url]https://wiki.gtnewhorizons.com/wiki/Main_Page[/url] 某些機器裝置確實非常複雜,僅靠任務書稍顯不足,wiki可以提供更加詳細的解釋,以及圖片. 另外,如果你感覺任務書上的指導還不夠,可以看一下wiki上的"beginner's-guides"初學者指南. wiki上還有可選mod列表,適用於那些想要玩點花的人.%n%n另外,在這裡[url]https://www.gtnewhorizons.com/spreadsheet[/url] 還有你所需要的所有資料.%n%n如果你的整合包是透過[warn]CurseForge[/warn]的啟動器啟動,整合包可能無法穩定執行.Curse啟動器無法穩定執行整合包內我們修改過的部分mod.所以當你遇到任何問題,最佳解決方式是先嚐試換個啟動器,比如MultiMC、Prism或是Technic.wiki同樣包括這部分教學. 最新整合包版本會在Discord的#announcements頻道釋出,或帶著!download指令.%n%n希望在讀這一大段話的時候,你沒被怪物嚼碎了.%n%n譯者注：漢化包下載地址:§1§n[url]https://github.com/Kiwi233/Translation-of-GTNH[/url]§r%n%nGTNH新手解答群:QQ群號: 188712741 §r%n%n關於中文WIKI：%n主頁：§1§n[url]https://gtnh.huijiwiki.com[/url]§r %n參與編輯：§1§n[url]https://gtnh.huijiwiki.com/p/111[/url]§r%n可新增MOD：§1§n[url]https://gtnh.huijiwiki.com/p/386[/url]§r%n常見問題解答：§1§n[url]https://gtnh.huijiwiki.com/p/240[/url]§r%n新手建議：§1§n[url]https://gtnh.huijiwiki.com/p/60070[/url]§r%n小技巧：§1§n[url]https://gtnh.huijiwiki.com/p/1357[/url]§r%n%n也可以搜尋MC模組百科：§1§n[url]https://www.mcmod.cn[/url]§r
 
 # Quest: Where's the Flint?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=§9§l燧石在哪兒？
@@ -23,11 +23,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=現在你有了工具並準備�
 
 # Quest: Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=§9§l基本工具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=現在你有一個避難所、工作台和一個存放雜物的地方.該做一些基本工具了,除非你想繼續空手擼樹.%n%n建議先做斧頭,以便更輕鬆地獲取木頭.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=現在你有一個避難所、工作台和一個存放雜物的地方.該做一些基本工具了,除非你想繼續徒手砍樹.%n%n建議先做斧頭,以便更輕鬆地獲取木頭.
 
 # Quest: You Reap...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=§9§l一分耕耘...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=你不能一直從任務書中得到食物獎勵吧,所以是時候解決這個問題了.%n%n既然你已經合成了一把鋤頭,就去附近找點水開一塊田吧.在此整合包,你只能在水源附近開墾農田.在這裡用些木棍換點胡蘿蔔吧,這樣你就可以開始經營自己的農場了.%n%n想要獲得其他的種子,你需要對遠離水源的草地使用鋤頭.你還能同時獲得一些巫術種子,把它們儲存起來以備後用.%n%n別忘了開墾一片棉花田,這是前期的關鍵資源.%n%n你還可以從村莊裡抄出一堆種子,或是尋找潘馬斯的菜園.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=你不能一直從任務書中得到食物獎勵吧,所以是時候解決這個問題了.%n%n既然你已經合成了一把鋤頭,就去附近找點水開一塊田吧.在此整合包,你只能在水源附近開墾農田.在這裡用些木棍換點胡蘿蔔吧,這樣你就可以開始經營自己的農場了.%n%n想要獲得其他的種子,你需要對遠離水源的草地使用鋤頭.你還能同時獲得一些巫術種子,把它們儲存起來以備後用.%n%n別忘了開墾一片棉花田,這是前期的關鍵資源.%n%n你還可以從村莊裡搜出一堆種子,或是尋找潘馬斯的菜園.
 
 # Quest: ...What You Sow
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.name=§9§l...一分收穫
@@ -51,11 +51,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=史詩任務：屠殺綿羊！�
 
 # Quest: SO...TIRED...MUST...SLEEP...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.name=§9§l好累…必須…睡覺…
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.desc=睡覺時間到，同時你也來到了這段教程的終點。%n%n恭喜！你已經建造了屬於自己的第一個小窩，並且應該也擁有了穩定的食物來源。%n%n我們第0階再見！%n%n[note]（任意顏色的床都可以完成這個任務）[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.desc=睡覺時間到，同時你也來到了這段教學的終點。%n%n恭喜！你已經建造了屬於自己的第一個小窩，並且應該也擁有了穩定的食物來源。%n%n我們第0階再見！%n%n[note]（任意顏色的床都可以完成這個任務）[/note]
 
 # Quest: Collecting Some Berries
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.name=§9§l收集一些漿果
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.desc=你還在等著胡蘿蔔長大麼？出去找一些灌木和漿果吧!%n%n漿果是很好的食物來源. 並且你可以把這些灌木圍在你的房子周圍做一堵牆,這可以防止那些想進入你的房子並且想殺死你的怪物們.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.desc=你還在等著胡蘿蔔長大嗎？出去找一些灌木和漿果吧!%n%n漿果是很好的食物來源. 並且你可以把這些灌木圍在你的房子周圍做一堵牆,這可以防止那些想進入你的房子並且想殺死你的怪物們.
 
 # Quest: Berry Medley
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.name=§9§l什錦莓
@@ -71,11 +71,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.desc=你已經厭倦了等待胡蘿�
 
 # Quest: Goals
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=§9§l目標
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=GTNH是一個有漫長旅途的整合包,有大量的自定義內容和超過三千個任務來指引你前進.%n%n我們建議在每個階段都設定一個小目標,看看你的旅程能走多遠.%n%n遊戲後期的最終目標是製造一兩個星門,但是星門的配方非常離譜,只有極少數玩家做出來過.%n%n如果你需要一個大目標,我麼建議看看其他不那麼瘋狂的東西.%n如果你是第一次玩這個整合包,不如嘗試爭取上一次月球.%n如果你還沒有做過裝配線自動化,不妨試試這個挑戰.%n又或者製造一枚T8火箭,這是最後一種常規火箭,你需要達到UHV才能把它造出來.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=GTNH是一個有漫長旅途的整合包,有大量的自訂內容和超過三千個任務來指引你前進.%n%n我們建議在每個階段都設定一個小目標,看看你的旅程能走多遠.%n%n遊戲後期的最終目標是製造一兩個星門,但是星門的配方非常離譜,只有極少數玩家做出來過.%n%n如果你需要一個大目標,我們建議看看其他不那麼瘋狂的東西.%n如果你是第一次玩這個整合包,不如嘗試爭取上一次月球.%n如果你還沒有做過裝配線自動化,不妨試試這個挑戰.%n又或者製造一枚T8火箭,這是最後一種常規火箭,你需要達到UHV才能把它造出來.
 
 # Quest: Even more challenges needed?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.name=§9§l還需要更多挑戰？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=你已經在GTNH玩了好幾周目了？也許你甚至做出過一個星門？或者你只是想尋找別樣的體驗？別擔心，我們會給你更多的選擇：%n%n- 極限模式。無論是Minecraft原版的極限模式，還是BetterQuesting的極限模式（它更寬容一點）都可以。也許這聽起來不可能，但確實已經有人在原版極限模式下到達了UEV+。如果你想挑戰的話，就做好重開幾次的準備吧。這決不是個適合所有人的挑戰。%n%n- 全程不製作火箭。這種也稱為§o不上天挑戰§r的模式已經得到了一定的支援，你能做到這個包裡幾乎所有可以做的事情。使用蜜蜂、作物還有血魔法的墜星作為主要資源來源吧。但是需要注意的是，這個挑戰相當折磨，而且耗時不菲。例如，你可能需要大量收集鈣鐵榴石或者利用鋁土處理線來獲得你的第一個鈦。或者是要在早期幾乎沒有科技幫助的條件下開始養蜂。%n%n- 空島。是的，空島。這種也稱為“磨礪花園”的挑戰無疑是極其折磨的。目前還沒有完全受支援的空島版整合包，但一些玩家已經研究出瞭如何用儘可能少的改動來啟動這一挑戰。如果你想了解更多細節，去GTNH的官方Discord頻道或官方群問人或是搜尋歷史訊息吧。但不要指望這個挑戰會帶來什麼樂趣。%n%n- 速通。已經有玩家設計出一些基礎的速通規則，並開始記錄到某個遊戲前期節點（例如焦爐）的速通時間了。去GTNH的官方Discord頻道或官方群問人或是搜尋歷史訊息吧。也許你想看看他們是怎麼做的？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=你已經在GTNH玩了好幾輪了？也許你甚至做出過一個星門？或者你只是想尋找別樣的體驗？別擔心，我們會給你更多的選擇：%n%n- 極限模式。無論是Minecraft原版的極限模式，還是BetterQuesting的極限模式（它更寬容一點）都可以。也許這聽起來不可能，但確實已經有人在原版極限模式下到達了UEV+。如果你想挑戰的話，就做好重開幾次的準備吧。這決不是個適合所有人的挑戰。%n%n- 全程不製作火箭。這種也稱為§o不上天挑戰§r的模式已經得到了一定的支援，你能做到這個包裡幾乎所有可以做的事情。使用蜜蜂、作物還有血魔法的墜星作為主要資源來源吧。但是需要注意的是，這個挑戰相當折磨，而且耗時不菲。例如，你可能需要大量收集鈣鐵榴石或者利用鋁土處理線來獲得你的第一個鈦。或者是要在早期幾乎沒有科技幫助的條件下開始養蜂。%n%n- 空島。是的，空島。這種也稱為“磨礪花園”的挑戰無疑是極其折磨的。目前還沒有完全受支援的空島版整合包，但一些玩家已經研究出如何用儘可能少的改動來啟動這一挑戰。如果你想了解更多細節，去GTNH的官方Discord頻道或官方群問人或是搜尋歷史訊息吧。但不要指望這個挑戰會帶來什麼樂趣。%n%n- 速通。已經有玩家設計出一些基礎的速通規則，並開始記錄到某個遊戲前期節點（例如焦爐）的速通時間了。去GTNH的官方Discord頻道或官方群問人或是搜尋歷史訊息吧。也許你想看看他們是怎麼做的？
 
 # Quest: Oak Trees Are Not Apple Trees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.name=§9§l橡樹不是蘋果樹
@@ -83,11 +83,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.desc=長蘋果的橡樹？到底是�
 
 # Quest: "Baked" Potatoes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=§9§l土豆的三種吃法
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=生吃土豆是不健康的——你可能已經注意到了.有些土豆發綠,是有毒的.當你獲得了熔爐,就可以製作美味的烤土豆,這是另一種可選的食物.把烤土豆串在一根棍子上,它將更加美味可口.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=生吃馬鈴薯是不健康的——你可能已經注意到了.有些馬鈴薯發綠,是有毒的.當你獲得了熔爐,就可以製作美味的烤馬鈴薯,這是另一種可選的食物.把烤馬鈴薯串在一根棍子上,它將更加美味可口.
 
 # Quest: Soft Mallet Adventure
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=§9§l軟錘大冒險!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=你現在有一些西瓜和南瓜.但是你能用他們做些什麼？%n%n除了吃...你還可以用軟錘砸碎它們獲得一些種子!好,讓我們做一個,這個工具以後可能還能用來做點別的事情.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=你現在有一些西瓜和南瓜.但是你能用它們做些什麼？%n%n除了吃...你還可以用軟錘砸碎它們獲得一些種子!好,讓我們做一個,這個工具以後可能還能用來做點別的事情.
 
 # Quest: Monster Trap
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.name=§9§l怪物陷阱
@@ -3572,7 +3572,7 @@ betterquesting.quest.afDCORKvSI-Vk_Mh2-rnZw.desc=一旦你收集到足夠的泡�
 
 # Quest: Relentless Glue
 betterquesting.quest.eZADH1WASo6NLBUTKjLNGQ.name=§c§l頑固膠水
-betterquesting.quest.eZADH1WASo6NLBUTKjLNGQ.desc=氰基丙烯酸乙酯，俗稱502膠水，是最好的膠水。但是強度越高……也越複雜。你現在不需要它，未來幾個階段可能也不需要，但它會讓你的配方更有效率，並且在後期是必需的。%n%n[note]嚴格來說這條產線在IV即可搭建，但並非必須；要展示一下你的真本領的話，就自己去NEI搜尋配方吧！[/note]
+betterquesting.quest.eZADH1WASo6NLBUTKjLNGQ.desc=氰基丙烯酸乙酯，俗稱瞬間膠，是最好的膠水。但是強度越高……也越複雜。你現在不需要它，未來幾個階段可能也不需要，但它會讓你的配方更有效率，並且在後期是必需的。%n%n[note]嚴格來說這條產線在IV即可搭建，但並非必須；要展示一下你的真本領的話，就自己去NEI搜尋配方吧！[/note]
 
 # Quest: Rich Nether Waste
 betterquesting.quest.nx7KEyhlTc6qYVM1vImkBA.name=§c§l富集地獄廢水
@@ -3801,7 +3801,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsw.desc=在你的幫助下,我終於創
 
 # Quest: Prismarine Recycling Pt. 2
 betterquesting.quest.AQMaWAiIRo6vNTAxqopS_Q.name=海晶石回收 第二部分
-betterquesting.quest.AQMaWAiIRo6vNTAxqopS_Q.desc=處理完第一批海晶沉澱後，你會注意到剩下第二種§2海晶參雜溶液§r。你也可以回收它來獲得§3海晶石溶液§o§r和§3富海晶硝基苯溶液§r。同樣，這在技術上是可選的，但強烈建議這樣做。%n%n[warn]如果你之前沒有設定海晶參雜的過氧化氫的回收，那麼現在你需要設定，因為這次回收會主動產生它。[/warn]
+betterquesting.quest.AQMaWAiIRo6vNTAxqopS_Q.desc=處理完第一批海晶沉澱後，你會注意到剩下第二種§2海晶摻雜溶液§r。你也可以回收它來獲得§3海晶石溶液§o§r和§3富海晶硝基苯溶液§r。同樣，這在技術上是可選的，但強烈建議這樣做。%n%n[warn]如果你之前沒有設定海晶摻雜的過氧化氫的回收，那麼現在你需要設定，因為這次回收會主動產生它。[/warn]
 
 # Quest: Prismarine Solution
 betterquesting.quest.J9eklidSTbyHgMgImYT3-g.name=海晶石溶液
@@ -3825,7 +3825,7 @@ betterquesting.quest.fc7Q6J-BThCf_NbvM0ki2Q.desc=在製得§2富海晶硝基苯�
 
 # Quest: Prismarine Recycling
 betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.name=海晶石回收
-betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.desc=在這個產線的不同階段中，§2海晶參雜的過氧化氫§r是副產物。最好能將其回收掉為額外的§3海晶石溶液§r。當然，你不是必須這樣做，但是這是明智的選擇。
+betterquesting.quest.kWoNH5tTQX2VIFmkui4YKA.desc=在這個產線的不同階段中，§2海晶摻雜的過氧化氫§r是副產物。最好能將其回收掉為額外的§3海晶石溶液§r。當然，你不是必須這樣做，但是這是明智的選擇。
 
 # Quest: Superdense
 betterquesting.quest.sB_lbhZZRnmZNjJiF8-1Hg.name=極度緻密
@@ -3841,7 +3841,7 @@ betterquesting.quest.xQE-vyLyTeCn0SEIHjbkNQ.desc=在成功製得§2海晶沉澱�
 
 # Quest: Prismarine-Rich Nitrobenzene Solution
 betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.name=富海晶硝基苯溶液
-betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.desc=在獲得一定量的§2海晶石溶液§r後，將其與§2硝基苯§r置於§5§l化學浸洗機§r中進行反應，即可製得§3富海晶硝基苯溶液§r。%n%n此外，此過程還將產生一些§3海晶參雜的過氧化氫§r。
+betterquesting.quest.ydavD3O5QcKvxk2wIDtakw.desc=在獲得一定量的§2海晶石溶液§r後，將其與§2硝基苯§r置於§5§l化學浸洗機§r中進行反應，即可製得§3富海晶硝基苯溶液§r。%n%n此外，此過程還將產生一些§3海晶摻雜的過氧化氫§r。
 
 # Quest: Prismatic Naquadah
 betterquesting.quest.zIDk7MniRMGE9u_1Slo2qg.name=海晶矽岩

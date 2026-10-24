@@ -20,6 +20,7 @@ RULES = [
     ("資料訪問", "資料存取"), ("映象", "鏡像"),
     ("型別", "類型"), ("工作臺", "工作台"), ("平臺", "平台"),
     ("亞熒石", "亞螢石"), ("熒石", "螢光石"), ("熒光", "螢光"),
+    ("滷水", "鹵水"), ("502膠水", "瞬間膠"), ("海晶參雜", "海晶摻雜"),
 ]
 
 # 只套用在 GregTech_zh_TW.lang 的規則（其他模組的「快取」可能真的是 cache）
@@ -27,6 +28,27 @@ GT_ONLY_RULES = [("快取", "緩衝")]
 
 # GregTech_zh_TW.lang 內逐 key 修正（材料名等，值完全取代）
 KEY_FIXES = {
+    "fluid.dimethyldichlorosilane": "二甲基二氯矽烷",
+    "fluid.hexachlorodisilane": "六氯二矽烷",
+    "fluid.hydrochloricacid_gt5u": "鹽酸",
+    "bw.werkstoff.00043.tooltip": "你認真的嗎？",
+    "bw.werkstoff.10022.tooltip": "熔融核心……",
+    "bw.werkstoff.10025.tooltip": "還差得遠",
+    "bw.werkstoff.10026.tooltip": "仍需加工",
+    "bw.werkstoff.10027.tooltip": "誰需要它？",
+    "bw.werkstoff.10035.tooltip": ">>> 危險 <<<",
+    "bw.werkstoff.10039.tooltip": "第一步",
+    "bw.werkstoff.10040.tooltip": "第一步（已踏出）",
+    "bw.werkstoff.10041.tooltip": "六百億千瓦時",
+    "bw.werkstoff.10042.tooltip": "六百億千瓦時（已耗用）",
+    "bw.werkstoff.10046.tooltip": "力量勢不可擋",
+    "bw.werkstoff.10047.tooltip": "力量不再勢不可擋",
+    "bw.werkstoff.10048.tooltip": "擊落太陽",
+    "bw.werkstoff.10049.tooltip": "擊落太陽（已完成）",
+    "bw.werkstoff.10050.tooltip": "終點",
+    "bw.werkstoff.10051.tooltip": "終點（字面上的）",
+    "bw.werkstoff.10116.tooltip": "未來",
+    "bw.werkstoff.10117.tooltip": "未來（已實現）",
     "Material.silicon": "矽",
     "fluid.molten.silicon": "熔融矽",
     "fluid.plasma.silicon": "矽電漿",
@@ -37,6 +59,99 @@ KEY_FIXES = {
     "Material.crudeoil": "原油",
     "Material.endstone": "終界石",
     "Material.hydrochloricacid_gt5u": "鹽酸",
+    "fluid.enzymessollution": "酵素溶液",
+    "fluid.molten.chrysotile": "熔融白石棉",
+    "fluid.molten.mercassium": "熔融瑪卡斯",
+    "fluid.molten.potin": "熔融鉛青銅",
+    "fluid.potion.potatojuice": "馬鈴薯汁",
+    "fluid.potion.rum": "蘭姆酒",
+    "fluid.bastnasite rarer earth oxide suspension": "氟碳鑭鈰罕土氧化物懸濁液",
+}
+
+# 依倉庫相對路徑限定的逐 key 修正，避免改到其他模組的同名 key。
+FILE_KEY_FIXES = {
+    "config/txloader/load/BetterQuesting[betterquesting]/lang/zh_TW.lang": {
+        "betterquesting.editor.action.hex_color": "§c十六進位顏色§r",
+        "betterquesting.editor.color_picker.hex": "十六進位顏色",
+        "betterquesting.editor.action.gradient": "§b漸層色§r",
+        "betterquesting.editor.color_picker.gradient": "漸層色",
+        "betterquesting.btn.advanced": "進階設定",
+        "betterquesting.btn.import": "匯入",
+        "betterquesting.btn.detect_submit": "偵測／交付",
+        "betterquesting.btn.hide_locked_quest_lines": "隱藏鎖定的任務章節",
+        "betterquesting.btn.prereq_visbility.implicit": "僅在游標停留或按住 Shift 時顯示",
+        "betterquesting.gui.closing_confirm": "本次修改的資料可能會遺失！",
+        "betterquesting.tooltip.global_quest": "全域任務: %s",
+        "betterquesting.tooltip.global_share": "全域共享: %s",
+        "betterquesting.tooltip.shift_advanced": "按住 Shift 顯示進階資訊",
+        "betterquesting.tooltip.cycle.true": "點選以停用",
+        "betterquesting.tooltip.cycle.false": "點選以啟用",
+        "betterquesting.tooltip.quest_link.click": "點選以前往",
+        "key.betterquesting.party": "開啟隊伍管理",
+        "key.betterquesting.themes": "開啟主題選單",
+        "betterquesting.help.page1": "§l§n介面導覽%n§r%nBetter Questing 的任務介面可透過快捷鍵開啟，不必依賴容易遺失的物品或方塊。你可以在控制設定中查看或變更這個快捷鍵。%n%n在任務章節畫面中，你可以從列表選擇已開啟的章節，再拖曳任務圖，找到想要完成的任務。%n%n你可以在隊伍管理畫面中建立或編輯隊伍，也能設定是否共用極限模式的生命次數或任務獎勵。%n%n如果想改變任務介面的外觀，可以在主題選擇畫面中挑選已安裝的主題。",
+        "betterquesting.help.page2": "§l§n提交站%n§r%n許多任務目標可以直接透過物品欄提交，流體也不例外，但有時你會需要自動化的方式。物品提交站（OSS）就是為此而設。你可以在內建介面中選擇支援 OSS 的任務目標。設定完成後，就能透過管線輸入物品與流體，或將物品放入介面的輸入欄位。如果尚未選擇任務目標，或目標已經完成，提交站不會銷毀物品或流體，因此較不容易意外損失資源。多個 OSS 也能同時處理同一任務中的不同子目標！",
+        "betterquesting.help.page3": "§l§n製作任務%n§r%n若要製作任務與任務章節，請先執行編輯指令以啟用編輯模式（詳見指令說明）。接著，你就能新增或刪除任務章節；即使不建立章節，也能直接製作任務。這對製作能解鎖其他任務或章節的隱藏任務特別方便。%n%n編輯時需要熟悉幾個選單。與其他模組相比，起初可能比較難上手，但熟悉後就會容易許多。部分進階編輯畫面會直接修改原始任務資料，請謹慎操作，以免造成非預期結果；正常情況下不應導致資料損毀或遊戲崩潰。若發生這些問題，請立即回報開發者。",
+        "betterquesting.help.page4": (
+            "§l§n指令%n§r%n使用 Better Questing 時，只需熟悉少數幾個指令。它們分為所有玩家都能執行的玩家指令，以及僅限伺服器管理員執行的管理指令。%n%n§o/bq_user refresh%n§r%n手動"
+            "將本機任務資料與伺服器重新同步，用於處理可能的同步問題。%n%n§o/bq_user help%n§r%n給玩家一本指南。%n%n§o/bq_admin edit%n§r%n開啟或關閉任務編輯模式。啟用後，管理員可以進"
+            "入任務與任務章節的編輯選單。發布整合包或任務前，請記得關閉此模式。%n%n§o/bq_admin hardcore%n§r%n開啟或關閉極限模式的生命次數機制。生命耗盡時，玩家會被伺服器封鎖，或依原版極限模式的方式刪除其"
+            "世界。%n%n§o/bq_admin reset [all|<quest_id>] [username|uuid]%n§r%n清除指定玩家的任務完成資料，適合在發布整合包前使用。%n%n§o/bq_admin defau"
+            "lt [save|load]%n§r%n將目前的任務資料儲存至全域預設目錄，或從該目錄載入。設定預設資料後，新建的世界都會使用這組任務。儲存時也會保留完成進度、極限模式與編輯模式的狀態，因此執行前應先用其他相關指令調整這"
+            "些設定。%n%n§o/bq_admin complete <quest_id> [username|uuid]%n§r%n強制完成指定玩家的任務。%n%n§o/bq_admin delete [all|<quest_id"
+            ">]%n§r%n刪除指定任務及其進度資料，但不會刪除新世界使用的預設任務資料。%n%n§o/bq_admin lives [add|set|max|default] <value> [username]%n§r%n調整玩"
+            "家的生命次數、初始生命次數或生命次數上限。"
+        ),
+        "betterquesting.help.page5": "§l§n匯入%n§r%n部分擴充套件提供其他任務模組的匯入工具，或讓整合包製作者下載線上的任務章節。你可以在任務章節編輯器中按下「匯入」按鈕來使用這些工具。Better Questing 預設不附匯入工具；若有需要，請尋找包含所需工具的擴充套件，或自行製作。",
+        "betterquesting.help.page6": "§l§n主題%n§r%n不論你偏好特定的介面配色，或想讓整合包呈現獨特風格，都可以透過主題調整任務介面。主題能配合各種需求，呈現未來科技、魔法或經典 Minecraft 的風格。你可以透過資源包、資源目錄或擴充套件安裝主題。",
+        "betterquesting.help.page7": "§l§n在地化%n§r%nBetter Questing 支援任務名稱與說明的完整在地化，讓你能將整合包提供給不同語言的玩家使用。若要開始翻譯任務，請先以唯一的翻譯鍵取代純文字，例如「§omypack.quest1.name§r」。接著，建立只包含各語言 .lang 翻譯檔的資源包。你也可以將這些檔案放在 Better Questing 的資源目錄中，方便隨整合包一同提供。",
+        "betterquesting.help.page8": "§l§n資源%n§r%n若要自訂首頁、附加主題或新增在地化檔案，可以使用以下目錄：%n%n「§o/config/betterquesting/resources/<pack_name>/§r」%n%n這裡的資料夾會被視為未列出的資源包，可放入整合包個人化所需的各種資源。",
+        "betterquesting.btn.help1": "介面導覽",
+        "betterquesting.btn.help5": "匯入",
+        "betterquesting.btn.help7": "在地化",
+    },
+    "config/txloader/load/BetterQuesting[bq_standard]/lang/zh_TW.lang": {
+        "bq_standard.task.retrieval": "物品收集任務",
+        "bq_standard.task.optional_retrieval": "選用任務",
+        "bq_standard.title.edit_retrieval": "編輯物品收集任務",
+        "bq_standard.trade_unlock": "關聯的自動販賣機兌換項目",
+        "bq_standard.gui.undiscovered": "尚未發現",
+    },
+}
+
+# 僅修正已校對的任務 key 內片語，保留各版本的配方、格式與連結。
+FILE_KEY_RULES = {
+    "config/txloader/forceload/betterquesting/lang/zh_TW.lang": {
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc": [['教程', '教學'], ['頻道里', '頻道裡'], ['定製版本', '客製版本']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc": [['除去收集', '出去收集']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc": [['空手擼樹', '徒手砍樹']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc": [['抄出一堆種子', '搜出一堆種子']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.desc": [['教程', '教學']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.desc": [['長大麼', '長大嗎']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc": [['自定義', '自訂']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc": [['好幾周目', '好幾輪']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc": [['土豆', '馬鈴薯']],
+    },
+    "config/txloader/load/betterquesting/lang/zh_TW.lang": {
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc": [['教程', '教學'], ['生活質量', '生活品質']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc": [['空手擼樹', '徒手砍樹']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc": [['抄出一堆種子', '搜出一堆種子']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.desc": [['教程', '教學']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.desc": [['長大麼', '長大嗎']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc": [['自定義', '自訂'], ['我麼建議', '我們建議']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc": [['研究出瞭如何', '研究出如何'], ['好幾周目', '好幾輪']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc": [['土豆', '馬鈴薯']],
+        "betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc": [['用他們做', '用它們做']],
+    },
+    "config/txloader/load/minecraft/lang/zh_TW.lang": {
+        "gtnh.quest5.desc": [['空手擼樹', '徒手砍樹']],
+        "gtnh.quest6.desc": [['抄出一堆種子', '搜出一堆種子']],
+        "gtnh.quest396.desc": [['自定義', '自訂']],
+        "gtnh.quest440.desc": [['工作列', '任務章節'], ['有很多工欄', '有很多任務章節']],
+        "gtnh.quest442.desc": [['土豆', '馬鈴薯']],
+        "gtnh.quest444.desc": [['用他們做', '用它們做']],
+        "gtnh.quest469.desc": [['長大麼', '長大嗎']],
+    },
 }
 
 def fix_value(v, stat, extra=()):
@@ -50,6 +165,9 @@ def fix_value(v, stat, extra=()):
 def process(path, stat):
     out, changed = [], False
     is_gt = path.name == "GregTech_zh_TW.lang"
+    relative_path = path.relative_to(root).as_posix()
+    file_fixes = FILE_KEY_FIXES.get(relative_path, {})
+    file_rules = FILE_KEY_RULES.get(relative_path, {})
     for line in path.read_text(encoding="utf-8").splitlines(keepends=True):
         if "=" in line and not line.lstrip().startswith("#"):
             k, v = line.split("=", 1)
@@ -59,6 +177,11 @@ def process(path, stat):
                 if key in KEY_FIXES and v.rstrip("\n") != KEY_FIXES[key]:
                     nv = KEY_FIXES[key] + ("\n" if v.endswith("\n") else "")
                     stat["key:" + key] += 1
+            nv = fix_value(nv, stat, file_rules.get(k.strip(), ()))
+            if k.strip() in file_fixes:
+                nv = file_fixes[k.strip()] + ("\n" if v.endswith("\n") else "")
+                if nv != v:
+                    stat["key:" + k.strip()] += 1
             if nv != v:
                 changed = True
             line = k + "=" + nv
