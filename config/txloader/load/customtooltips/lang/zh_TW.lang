@@ -1,0 +1,68 @@
+## Misc
+customtooltip.quest_reset_warning=§4右鍵此方塊將重置你的所有任務，從第0階段重新開始。除非你真的想這麼做，否則絕對不要放置或使用它！
+customtooltip.blast_resistance_warning=§4爆炸抗性: %s。無法抵禦核彈！
+customtooltip.cooldown_seconds=冷卻時間：%s秒
+customtooltip.infinite_energy=§d無限能源
+customtooltip.expensive_device=§3現在：相當昂貴的裝置
+customtooltip.riches_imagination=§3超乎想象的財富
+customtooltip.ender_collector_warning=§4警告：破壞時，強大的末影收集器可能會在試圖收集自身時消失……還會帶走附近的物品！
+customtooltip.max_voltage_eu=§4最高輸入電壓：%s EU/t
+customtooltip.need_gloves=§4想要攜帶它的話，可能需要一雙手套？
+customtooltip.prolonged_use_warning=§4不建議長時間使用……
+customtooltip.perpetual_locomotion=§d永動機！
+
+customtooltip.disabled_item=§4禁用物品；無合成表
+customtooltip.personal_use=§3僅供個人使用
+customtooltip.left_click_disabled=§4左鍵功能，已被禁用
+customtooltip.recharge_tier_machine=可以在%s§7機器§r中充電
+
+## Bags
+customtooltip.backpack_slots=%s 格
+customtooltip.crafting_backpack_slots=有 %s 格空間，自帶工作臺的揹包
+
+## Chisel
+customtooltip.chisel_mod=§5鑿子mod的鑿子
+
+## Core Mod
+customtooltip.oven_gloves_slot=§3將兩個手套都裝備在飾品欄
+customtooltip.cannot_wear=§4不要試圖穿戴此裝備，你是做不到的
+customtooltip.very_toxic=§4劇毒
+customtooltip.blood_altar_pillar=§5用於%s階血之祭壇立柱
+customtooltip.reinforced_stone_stats=§3硬度：%s；§4爆炸抗性：%s
+customtooltip.chunkloader_coin=%s%s小時區塊載入器硬幣，在世界錨中可使用%s小時，在個人錨中可使用%s小時
+customtooltip.chunkloader_ender_fragment=§1在個人錨中可使用1小時
+customtooltip.ender_pearl_chunkloader=§8在被動錨中可使用1小時，在個人錨中可使用4小時
+customtooltip.donation_servers=§4只能用於伺服器上的捐贈
+
+## Draconic Evolution
+customtooltip.slush_warning=§2我希望你以後不要吃這個。
+customtooltip.slush_cooking=§4加熱使食物更美味？
+customtooltip.marshmallow_glow=§5是我看錯了，還是熱量讓它更清晰了。
+customtooltip.marshmallow_wired=§6我感到非常緊張。
+
+## Gregtech
+customtooltip.deprecated_furnace=§4此高爐已被淘汰，請使用磚高爐
+customtooltip.coolant_steam_5x=§4熱冷卻液產生的蒸汽輸出提高為5倍
+customtooltip.black_gold_rip=§b願你獲得深藏的黑金，願蔚藍的天空安息...
+customtooltip.crystallized_shards=§b§l經至臻諸神之鍛爐神力永固的結晶碎片
+
+## IC2
+customtooltip.battery_tier=%s等級
+
+## OMT
+customtooltip.omt_hardness_resistance=硬度: %s - 爆炸抗性: %s
+
+## Tinkers Construct
+customtooltip.smeltery_purity_warning=§3冶煉爐中加工的某些金屬不符合GT的純度要求。
+customtooltip.crops_nh_oreberries=可放置在空的作物架上。在NEI中檢視其生長需求。
+
+## GG
+customtooltip.check_ebf_recipe=§3請檢視工業高爐中的有瑕寶石配方
+customtooltip.check_press_recipe=§3請檢視衝壓機床中的板配方
+
+## Bee Housings
+customtooltip.bee_apiary=有效產出機率(百分比)為\n2.8 * b^0.52 * (p + t)^0.52 * s^0.37\n其中b為基礎產出機率(百分比)，\np為產出修正(在蜂箱中以-0.9為基礎值加算)，\nt在蜂箱中為1，\ns為蜜蜂的工作速度\n產物在每個蜜蜂刻(27.5秒)結束時輸出\n基礎產物以產出機率判定一次，再以一半的機率判定一次
+customtooltip.bee_house=有效產出機率(百分比)為\n2.8 * b^0.52 * (p + t)^0.52 * s^0.37\n其中b為基礎產出機率(百分比)，\np為產出修正(在簡易蜂房中始終為-0.75)，\nt在簡易蜂房中為1，\ns為蜜蜂的工作速度\n產物在每個蜜蜂刻(27.5秒)結束時輸出\n基礎產物以產出機率判定一次，再以一半的機率判定一次\n蜜蜂在簡易蜂房中不會發生變異
+customtooltip.bee_alveary=有效產出機率(百分比)為\n2.8 * b^0.52 * (p + t)^0.52 * s^0.37\n其中b為基礎產出機率(百分比)，\np為產出修正(在蜂箱組中以0為基礎值加算)，\nt在蜂箱組中為1，\ns為蜜蜂的工作速度\n產物在每個蜜蜂刻(27.5秒)結束時輸出\n基礎產物以產出機率進行判定一次，再以一半的機率判定一次
+customtooltip.bee_magic_apiary=有效產出機率(百分比)為\n2.8 * b^0.52 * (p + t)^0.52 * s^0.37\n其中b為基礎產出機率(百分比)，\np為產出修正(在魔法蜂箱中以-0.1為基礎值加算)，\nt在魔法蜂箱中為1，\ns為蜜蜂的工作速度\n產物在每個蜜蜂刻(27.5秒)結束時輸出\n基礎產物以產出機率進行一次判定，再以一半的機率進行一次判定\n當啟用增幅時，p變為0.8，突變率: 2x，壽命: 0.5x
+customtooltip.magic_aura_range=必須放置在魔法蜂箱的6格以內

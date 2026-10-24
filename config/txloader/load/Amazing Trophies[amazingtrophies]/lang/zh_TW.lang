@@ -1,0 +1,13 @@
+tile.amazingtrophies.trophy.name=未知獎盃
+tile.amazingtrophies.trophy.name.desc=頒發給 §3%1$s§7
+tile.amazingtrophies.trophy.time.desc=於 §6%1$tF %1$tT
+tile.amazingtrophies.trophy.unknownUsername.name.desc=頒發給 §c未知玩家
+tile.amazingtrophies.trophy.unknownUsername.time.desc=於 §6%1$tF %1$tT
+
+amazingtrophies.uuid.invalid=§c無效的 UUID！
+
+commands.trophy.usage=/trophy award <紀念雕像ID> [玩家] [額外描述] 或 /trophy list
+commands.trophy.award.success=成功將紀念雕像%1$s給予了%2$s
+commands.trophy.award.wrongTrophyID=紀念雕像%1$s不存在
+commands.trophy.list=已註冊紀念雕像: %1$s
+commands.trophy.list.empty=無已註冊的紀念雕像

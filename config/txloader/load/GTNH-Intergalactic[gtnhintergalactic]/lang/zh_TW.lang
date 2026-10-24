@@ -1,0 +1,315 @@
+# English (US)
+
+
+# NOTE: 
+# Providing additional lore translations doesn't require any code changes, they are detected automatically. If you have
+# fewer variations in your lang file than the default lang file (en_US, this file), provide blank translations to avoid
+# the game falling back to the default translations. Adding more variations than provided by default is possible.
+
+
+# Creative Tabs
+itemGroup.GTNH-Intergalactic=GTNH-銀河
+
+# Achievements
+achievement.gt.blockmachines.spaceelevator=太空電梯
+achievement.gt.blockmachines.spaceelevator.desc=星際運輸的又一個里程碑
+achievement.gt.blockmachines.projectmoduleassemblert1=太空組裝模組 MK-I
+achievement.gt.blockmachines.projectmoduleassemblert1.desc=在太空中組裝?你這是褻瀆!
+achievement.gt.blockmachines.projectmoduleassemblert2=太空組裝模組 MK-II
+achievement.gt.blockmachines.projectmoduleassemblert2.desc=是它在組裝太空？還是太空在組裝它？
+achievement.gt.blockmachines.projectmoduleassemblert3=太空組裝模組 MK-III
+achievement.gt.blockmachines.projectmoduleassemblert3.desc=它剛剛組裝了一個星球?
+achievement.gt.blockmachines.projectmoduleminert1=太空採礦模組 MK-I
+achievement.gt.blockmachines.projectmoduleminert1.desc=一個資源收集的新時代開始了
+achievement.gt.blockmachines.projectmoduleminert2=太空採礦模組 MK-II
+achievement.gt.blockmachines.projectmoduleminert2.desc=部署無人機!
+achievement.gt.blockmachines.projectmoduleminert3=太空採礦模組 MK-III
+achievement.gt.blockmachines.projectmoduleminert3.desc=希望這些無人機不要譁變
+achievement.gt.blockmachines.projectmodulepumpt1=太空鑽機模組 MK-I
+achievement.gt.blockmachines.projectmodulepumpt1.desc=讓我們從氣態行星裡抽點東西出來
+achievement.gt.blockmachines.projectmodulepumpt2=太空鑽機模組 MK-II
+achievement.gt.blockmachines.projectmodulepumpt2.desc=S U C C
+achievement.gt.blockmachines.projectmodulepumpt3=太空鑽機模組 MK-III
+achievement.gt.blockmachines.projectmodulepumpt3.desc=瘋狂S U C C
+achievement.gt.blockmachines.projectmoduleresearch=太空研究模組
+achievement.gt.blockmachines.projectmoduleresearch.desc=超越無限
+achievement.gt.blockmachines.projectmodulemanager=太空專案管理器
+achievement.gt.blockmachines.projectmodulemanager.desc=建立你的帝國
+achievement.gt.blockcasings.ig.cable=太空電梯線纜
+achievement.gt.blockcasings.ig.cable.desc=應該足夠牢固，不至於斷裂
+achievement.gt.blockcasingsSE.0=太空電梯基座機械方塊
+achievement.gt.blockcasingsSE.0.desc=這些可不便宜
+achievement.gt.blockcasingsSE.1=太空電梯支援結構方塊
+achievement.gt.blockcasingsSE.1.desc=讓你的太空電梯更牢固
+achievement.gt.blockcasingsSE.2=太空電梯內部結構方塊
+achievement.gt.blockcasingsSE.2.desc=看上去不錯
+achievement.gt.blockcasingsSEMotor.0=太空電梯加速軌道 MK-I
+achievement.gt.blockcasingsSEMotor.0.desc=上升到了新的境界
+achievement.gt.blockcasingsSEMotor.1=太空電梯加速軌道 MK-II
+achievement.gt.blockcasingsSEMotor.1.desc=50G的重力加速度!
+achievement.gt.blockcasingsSEMotor.2=太空電梯加速軌道 MK-III
+achievement.gt.blockcasingsSEMotor.2.desc=幾分鐘內地月往返
+achievement.gt.blockcasingsSEMotor.3=太空電梯加速軌道 MK-IV
+achievement.gt.blockcasingsSEMotor.3.desc=100G的重力加速度!
+achievement.gt.blockcasingsSEMotor.4=太空電梯加速軌道 MK-V
+achievement.gt.blockcasingsSEMotor.4.desc=快得就像傳送!
+achievement.item.MiningDroneEV=採礦無人機 MK-IV
+achievement.item.MiningDroneEV.desc=繁忙的工人
+achievement.item.MiningDroneIV=採礦無人機 MK-V
+achievement.item.MiningDroneIV.desc=更繁忙的工人
+achievement.item.MiningDroneLuV=採礦無人機 MK-VI
+achievement.item.MiningDroneLuV.desc=汲汲忙忙的工人
+achievement.item.MiningDroneZPM=採礦無人機 MK-VII
+achievement.item.MiningDroneZPM.desc=新領域的征服者
+achievement.item.MiningDroneUV=採礦無人機 MK-VIII
+achievement.item.MiningDroneUV.desc=小行星帶吞噬者
+achievement.item.MiningDroneUHV=採礦無人機 MK-IX
+achievement.item.MiningDroneUHV.desc=行星吞噬者
+achievement.item.MiningDroneUEV=採礦無人機 MK-X
+achievement.item.MiningDroneUEV.desc=恆星系吞噬者
+achievement.item.MiningDroneUIV=採礦無人機 MK-XI
+achievement.item.MiningDroneUIV.desc=星座吞噬者
+achievement.item.MiningDroneUMV=採礦無人機 MK-XII
+achievement.item.MiningDroneUMV.desc=星團吞噬者
+achievement.item.MiningDroneUXV=採礦無人機 MK-XIII
+achievement.item.MiningDroneUXV.desc=已知宇宙吞噬者
+achievement.item.MiningDroneMAX=採礦無人機 MK-XIV
+achievement.item.MiningDroneMAX.desc=過去未來一切存在吞噬者
+
+
+
+# Items
+item.SpaceElevatorParts.name=太空電梯元件
+item.nanotubeSpool.name=奈米管卷軸
+item.MiningDrone.name=採礦無人機
+item.MiningDroneLV.name=採礦無人機 MK-I
+item.MiningDroneMV.name=採礦無人機 MK-II
+item.MiningDroneHV.name=採礦無人機 MK-III
+item.MiningDroneEV.name=採礦無人機 MK-IV
+item.MiningDroneIV.name=採礦無人機 MK-V
+item.MiningDroneLuV.name=採礦無人機 MK-VI
+item.MiningDroneZPM.name=採礦無人機 MK-VII
+item.MiningDroneUV.name=採礦無人機 MK-VIII
+item.MiningDroneUHV.name=採礦無人機MK-IX
+item.MiningDroneUEV.name=採礦無人機 MK-X
+item.MiningDroneUIV.name=採礦無人機 MK-XI
+item.MiningDroneUMV.name=採礦無人機 MK-XII
+item.MiningDroneUXV.name=採礦無人機 MK-XIII
+item.MiningDroneMAX.name=採礦無人機 MK-XIV
+
+# Blocks
+gt.blockcasingsSE.name=太空電梯部件
+gt.blockcasings.ig.0.name=太空電梯基座機械方塊
+gt.blockcasings.ig.0.desc0=強度足以支援太空電梯
+gt.blockcasings.ig.0.desc1=向月球出發!
+gt.blockcasings.ig.1.name=太空電梯支援結構方塊
+gt.blockcasings.ig.1.desc0=防止太空電梯坍塌
+gt.blockcasings.ig.1.desc1=我希望這些東西有足夠的強度
+gt.blockcasings.ig.2.name=太空電梯內部結構方塊
+gt.blockcasings.ig.2.desc0=強化太空電梯的結構
+gt.blockcasings.ig.2.desc1=外觀看上去也不錯!
+tile.SpaceElevatorCable.name=太空電梯線纜
+gt.blockcasings.ig.cable.name=太空電梯線纜
+gt.blockcasings.ig.cable.desc0=連線配重與基座
+gt.blockcasings.ig.cable.desc1=希望這東西不會斷
+gt.blockcasingsSEMotor.name=太空電梯加速軌道
+gt.blockcasings.ig.motor.t1.name=太空電梯加速軌道 MK-I
+gt.blockcasings.ig.motor.t2.name=太空電梯加速軌道 MK-II
+gt.blockcasings.ig.motor.t3.name=太空電梯加速軌道 MK-III
+gt.blockcasings.ig.motor.t4.name=太空電梯加速軌道 MK-IV
+gt.blockcasings.ig.motor.t5.name=太空電梯加速軌道 MK-V
+gt.blockcasings.ig.motor.desc0=解鎖更多模組槽位與更高模組等級
+gt.blockcasings.ig.motor.t1.desc1=保持上升!
+gt.blockcasings.ig.motor.t2.desc1=加速上升!
+gt.blockcasings.ig.motor.t3.desc1=嗚嗚嗚嗚嗚
+gt.blockcasings.ig.motor.t4.desc1=我 即 速 度
+gt.blockcasings.ig.motor.t5.desc1=哦耶！
+gt.blockcasings.ig.motor.desc2=為太空電梯解鎖%s個模組槽位
+
+# GUI
+GT5U.gui.text.no_space_station=§7不在空間站
+GT5U.gui.text.invalid_depth=§7無效深度
+GT5U.gui.text.siphoning=§a正在從星球提取
+GT5U.gui.text.missing_project=§7缺少§b%s§7於§b%s
+GT5U.gui.text.no_plasma=§7等離子體不足
+GT5U.gui.text.invalid_overdrive=§7無效過載設定
+GT5U.gui.text.no_project_selected=§7沒有正在執行的專案
+ig.text.project=專案
+ig.text.upgrades=升級
+ig.text.start=開始
+ig.text.started=開工建設
+ig.text.projectrequirements=未滿足專案要求.請選擇正確的位置
+ig.text.upgraderequirements=未滿足升級要求.缺少前置升級或專案
+ig.text.noproject=請選擇專案
+ig.text.finishedproject=專案已完成,請選擇一項升級.
+ig.text.nolocation=請選擇位置
+ig.button.travel=啟程
+ig.button.extension=擴充套件
+ig.button.projects=專案
+
+# Planetary Gas Siphon
+gt.blockmachines.multimachine.ig.siphon.name=行星氣體鑽機
+gt.blockmachines.multimachine.ig.siphon.type=泵
+gt.blockmachines.multimachine.ig.siphon.desc1=建造於繞行氣態行星的空間站上
+gt.blockmachines.multimachine.ig.siphon.desc2=使用程式設計電路設定抽取的深度(1-4)
+gt.blockmachines.multimachine.ig.siphon.desc3=需提供64x深度的採礦管道
+gt.blockmachines.multimachine.ig.siphon.desc4=功率：d*4^(t+2)，t為空間站等級，d為深度
+gt.blockmachines.multimachine.ig.siphon.desc5=可載入所在區塊(電烙鐵切換)
+gt.blockmachines.multimachine.ig.siphon.lore0=333:將太空採礦提升到另一個層次!
+gt.blockmachines.multimachine.ig.siphon.lore1=333:盡情吮吸吧！
+gt.blockmachines.multimachine.ig.siphon.lore2=333:用EU換取流體
+gt.blockmachines.multimachine.ig.siphon.lore3=根據定義，這個名字是錯誤的...
+
+# Space Elevator
+gt.blockmachines.multimachine.ig.elevator.name=太空電梯
+gt.blockmachines.multimachine.ig.elevator.desc2=最多能裝備12個太空電梯模組
+gt.blockmachines.multimachine.ig.elevator.desc3=加速軌道等級限制了模組等級與可安裝的模組數量
+gt.blockmachines.multimachine.ig.elevator.desc4=每個模組有各自獨立的輸入輸出空間，統一供電
+gt.blockmachines.multimachine.ig.elevator.desc5=由本控制器接收能量供應並將能量分發
+gt.blockmachines.multimachine.ig.elevator.desc6=MK-III及以上加速軌道可以擴充套件此結構支援24個模組
+gt.blockmachines.multimachine.ig.elevator.desc7=關閉控制器即可暫停所有模組
+gt.blockmachines.multimachine.ig.elevator.lore0=10:上升到太空
+gt.blockmachines.multimachine.ig.elevator.lore1=10:你最喜歡太空的哪一點？我喜歡每一點.
+gt.blockmachines.multimachine.ig.elevator.lore2=10:讓所有虛空採礦場都失業
+gt.blockmachines.multimachine.ig.elevator.lore3=康斯坦丁·愛德華多維奇·齊奧爾科夫斯基(俄羅斯航天之父)的設想
+gt.blockmachines.multimachine.ig.elevator.lore4=你讀過《天堂之泉》嗎？
+gt.blockmachines.multimachine.ig.elevator.lore5=你讀過《世界之間的網路》嗎？
+gt.blockmachines.multimachine.ig.elevator.gui.numOfModules=已安裝的模組
+gt.blockmachines.multimachine.ig.elevator.gui.ready=準備執行.
+gt.blockmachines.multimachine.ig.elevator.gui.noRecipe=未執行.
+gt.blockmachines.multimachine.ig.elevator.gui.recipe=執行中.
+gt.blockmachines.multimachine.ig.elevator.gui.config=配置：
+
+# Module Base
+gt.blockmachines.module.name=太空電梯模組
+gt.blockmachines.multimachine.project.ig.desc2=直接從太空電梯接收能量，不使用能源倉
+gt.blockmachines.multimachine.project.ig.motorT1=需要MK-I或更高等級的加速軌道
+gt.blockmachines.multimachine.project.ig.motorT2=需要MK-II或更高等級的加速軌道
+gt.blockmachines.multimachine.project.ig.motorT3=需要MK-III或更高等級的加速軌道
+gt.blockmachines.multimachine.project.ig.motorT4=需要MK-IV或更高等級的加速軌道
+gt.blockmachines.multimachine.project.ig.motorT5=需要MK-V或更高等級的加速軌道
+
+# Module Assembler
+gt.blockmachines.multimachine.project.ig.assembler.t1.name=太空組裝模組 MK-I
+gt.blockmachines.multimachine.project.ig.assembler.t2.name=太空組裝模組 MK-II
+gt.blockmachines.multimachine.project.ig.assembler.t3.name=太空組裝模組 MK-III
+gt.blockmachines.multimachine.project.ig.assembler.desc0=將太空組裝功能新增到太空電梯
+gt.blockmachines.multimachine.project.ig.assembler.t1.desc1=為什麼我又要在太空裡組裝東西啊？
+gt.blockmachines.multimachine.project.ig.assembler.t2.desc1=這真的有必要嗎？
+gt.blockmachines.multimachine.project.ig.assembler.t3.desc1=我想我們永遠也不會知道.
+gt.blockmachines.multimachine.project.ig.assembler.t1.desc2=執行電壓：UHV，最大並行：4
+gt.blockmachines.multimachine.project.ig.assembler.t2.desc2=執行電壓：UIV，最大並行：16
+gt.blockmachines.multimachine.project.ig.assembler.t3.desc2=執行電壓：UXV，最大並行：64
+gt.blockmachines.multimachine.project.ig.assembler.cfgi.0=最大並行
+
+# Module Miner
+gt.blockmachines.multimachine.project.ig.miner.t1.name=太空採礦模組 MK-I
+gt.blockmachines.multimachine.project.ig.miner.t2.name=太空採礦模組 MK-II
+gt.blockmachines.multimachine.project.ig.miner.t3.name=太空採礦模組 MK-III
+gt.blockmachines.multimachine.project.ig.miner.desc0=將太空採礦功能新增到太空電梯
+gt.blockmachines.multimachine.project.ig.miner.cfgi.0=距離
+gt.blockmachines.multimachine.project.ig.miner.cfgi.1=最大並行
+gt.blockmachines.multimachine.project.ig.miner.cfgi.2=過載
+gt.blockmachines.multimachine.project.ig.miner.cfgi.4=模式
+gt.blockmachines.multimachine.project.ig.miner.cfgi.4.1=靜態
+gt.blockmachines.multimachine.project.ig.miner.cfgi.4.2=週期
+gt.blockmachines.multimachine.project.ig.miner.cfgi.5=範圍
+gt.blockmachines.multimachine.project.ig.miner.cfgi.6=步長
+gt.blockmachines.multimachine.project.ig.cfgo.0=已儲存能量
+gt.blockmachines.multimachine.project.ig.miner.t1.desc1=前有偉大寶藏,超乎你的想象!
+gt.blockmachines.multimachine.project.ig.miner.t2.desc1=這是不是侵害了無人機的權利?
+gt.blockmachines.multimachine.project.ig.miner.t3.desc1=這絕對侵害了無人機的權利.
+gt.blockmachines.multimachine.project.ig.miner.desc3=執行需要等離子體 (825L 氦 / 550L 鉍 / 375L 氡 / 250L 鎝 / 150L鈽-241)
+gt.blockmachines.multimachine.project.ig.miner.desc4=使用更高階的等離子體可增加開採更大小行星的機會,並且改善採礦操作時間.
+gt.blockmachines.multimachine.project.ig.miner.desc5=需要為其提供算力
+gt.blockmachines.multimachine.project.ig.miner.t1.desc5=執行電壓：UV，最大並行：2
+gt.blockmachines.multimachine.project.ig.miner.t2.desc5=執行電壓：UHV，最大並行：4
+gt.blockmachines.multimachine.project.ig.miner.t3.desc5=執行電壓：UEV，最大並行：8
+gt.blockmachines.multimachine.project.ig.miner.desc6=請將礦石放入輸入匯流排，以設定白名單/黑名單
+
+# Module Pump
+gt.blockmachines.multimachine.project.ig.pump.t1.name=太空鑽機模組 MK-I
+gt.blockmachines.multimachine.project.ig.pump.t2.name=太空鑽機模組 MK-II
+gt.blockmachines.multimachine.project.ig.pump.t3.name=太空鑽機模組 MK-III
+gt.blockmachines.multimachine.project.ig.pump.desc0=將太空鑽機功能新增到太空電梯
+gt.blockmachines.multimachine.project.ig.pump.t1.desc1=吸乾氣態行星從未如此簡單
+gt.blockmachines.multimachine.project.ig.pump.t2.desc1=瘋狂吮吸
+gt.blockmachines.multimachine.project.ig.pump.t3.desc1=S U C C
+gt.blockmachines.multimachine.project.ig.pump.desc3=設定的行星和氣體型別決定了輸出的流體
+gt.blockmachines.multimachine.project.ig.pump.desc4=鎖定輸出倉即可防止溢位銷燬
+gt.blockmachines.multimachine.project.ig.pump.t1.desc5=執行電壓：UHV，最大並行：4
+gt.blockmachines.multimachine.project.ig.pump.t2.desc5=執行電壓：UEV，每個配方的最大並行：4
+gt.blockmachines.multimachine.project.ig.pump.t3.desc5=執行電壓：UXV，每個配方的最大並行：64
+gt.blockmachines.multimachine.project.ig.pump.t2.desc6=一次處理多達4種不同的配方
+gt.blockmachines.multimachine.project.ig.pump.cfgi.0=行星型別
+gt.blockmachines.multimachine.project.ig.pump.cfgi.1=氣體型別
+gt.blockmachines.multimachine.project.ig.pump.cfgi.2=並行
+gt.blockmachines.multimachine.project.ig.pump.cfgi.3=批處理規模
+
+# Module Manager
+gt.blockmachines.multimachine.project.ig.manager.t1.name=太空專案管理器
+gt.blockmachines.multimachine.project.ig.manager.desc0=用於管理太空專案的模組
+gt.blockmachines.multimachine.project.ig.manager.desc1=偉大的起點
+
+# Module Research
+gt.blockmachines.multimachine.project.ig.research.t1.name=太空研究模組
+gt.blockmachines.multimachine.project.ig.research.desc0=用於研究恆星天體的模組
+gt.blockmachines.multimachine.project.ig.research.desc1=請勿直視太陽
+
+# RecipeMaps
+gt.recipe.spaceMining=太空採礦
+gt.recipe.spaceAssembler=太空組裝機
+gt.recipe.spaceResearch=太空探索
+
+# NEI
+ig.nei.spaceassembler.project=需要 %s
+ig.nei.spaceassembler.projectAt=位於 %s
+ig.nei.spaceassembler.projectAnyLocation=任何位置
+ig.nei.module=需要 MK-%s 模組
+ig.nei.spacemining.distance=距離：
+ig.nei.spacemining.size=大小：
+ig.nei.spacemining.weight=權重：
+ig.nei.elevatorpump.name=太空鑽機
+ig.nei.elevatorpump.planettype=行星
+ig.nei.elevatorpump.gastype=氣體
+ig.nei.elevatorpump.amount=總量
+ig.nei.elevatorpump.see_all=檢視全部
+ig.nei.spaceproject.name=太空專案
+ig.nei.spaceproject.stages=階段：
+ig.nei.siphon.name=行星氣體鑽機
+ig.nei.siphon.planet=行星
+ig.nei.siphon.depth=深度
+
+# Structure and Tooltip
+ig.siphon.structure.ControllerPos=正面底中
+ig.siphon.structure.AnyAdvMachineFrame=任意基座機械方塊
+ig.siphon.structure.PillarMiddle=1x4x1的立柱(基座中央)
+ig.siphon.structure.Sides=1x3x1立柱的每個側面與上方
+ig.siphon.structure.Base=3x1x3的基座
+ig.siphon.structure.AdvMachineFrame=改良的機械框架
+ig.siphon.structure.FrameTungstensteel=鎢鋼框架
+ig.siphon.structure.ReboltedRhodiumPalladiumCasing=強化鍍銠鈀機械方塊
+ig.elevator.structure.ProjectModule=專案模組
+ig.elevator.structure.Motor=太空電梯加速軌道
+ig.elevator.structure.FrameNeutronium=中子框架
+ig.elevator.structure.Parametrizer=引數儀
+ig.elevator.structure.OpticalConnector=光學介面
+ig.elevator.structure.AnyBaseCasingWith1Dot=任意太空電梯基座機械方塊(提示方塊[1])
+ig.elevator.structure.AnyBaseCasingWith2Dot=任意太空電梯基座機械方塊(提示方塊[2])
+ig.elevator.structure.AnyBaseCasingWith3Dot=任意太空電梯基座機械方塊(提示方塊[3])
+ig.structure.contributors=貢獻者
+ig.structure.programming=規劃
+ig.structure.design=設計
+ig.structure.specialThanks=特別感謝
+ig.structure.author=新增者：
+ig.structure.and=和
+
+# Space Projects
+ig.spaceproject.asteroidoutpost=小行星前哨站
+ig.spaceproject.asteroidoutpost.description=小行星前哨站是無人機的補給站和命令中心
+ig.spaceproject.planetscan=行星掃描
+ig.spaceproject.planetscan.description=透過行星軌道上的探測器掃描行星並收集資料.
+ig.sp.upgrade.improvedcomputation=算力提升升級
+ig.sp.upgrade.improvedcomputation.description=本項升級允許小行星前哨站上的量子計算機能夠以更高的頻率工作,並能更好地耐受宇宙射線的影響
+ig.sp.upgrade.reinforcedstructure=結構強化升級
+ig.sp.upgrade.reinforcedstructure.description=本項升級強化了結構,使其能夠承受任何快速移動的小行星撞擊,並保護無人機免受意外事故的影響

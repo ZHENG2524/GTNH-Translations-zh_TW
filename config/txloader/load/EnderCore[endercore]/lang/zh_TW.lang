@@ -1,0 +1,27 @@
+endercore.tooltip.oreDictNames=礦物辭典名稱:
+endercore.tooltip.showDetails=<按住Shift>
+endercore.tooltip.durability=耐久:
+
+endercore.command.config.result.success=重新載入 %s 的配置檔案成功
+endercore.command.config.result.fail=重新載入 %s 的配置檔案失敗
+endercore.command.config.result.invalid=Modid %s 無效
+
+enchantment.xpboost=經驗汲取
+endercore.enchantment.xpboost.tooltip=從殺戮中獲取更多經驗
+
+enchantment.autosmelt=熔鍊
+endercore.enchantment.autosmelt.tooltip=自動熔鍊採集的礦物
+
+endercore.celebrate=新年快樂!
+
+endercore.resourcepack.readme=這是用於遊戲中資源包的實際檔案. 
+endercore.resourcepack.readme2=請勿編輯, 這將由mod自己建立/刪除.
+
+endercore.gui.normal=正常
+endercore.gui.search=搜尋:
+endercore.gui.modlistinfo1=哦天哪一切都不一樣了!
+endercore.gui.modlistinfo2=全新的設計來自於:
+
+endercore.error.ttcore.1=EnderCore無法同ttCore同時執行.
+endercore.error.ttcore.2=所有ttCore的功能/內容都包含在EnderCore中.
+endercore.error.ttcore.3=請將ttCore從你的mod資料夾中移除並重新啟動.

@@ -1,0 +1,16 @@
+//Expermiental Cases
+expInfo.eatingPlant.name=食人花吞食實體併產出腐肉。 %n 山地和沼澤生物群系會增加其生長時間。
+
+//Classic Cases
+classicInfo.requiresAir.name=需要周圍有%s塊空氣方塊以生長。%n（同一水平面）
+
+//Shared Cases
+info.requiresLight.name=需要光照等級 %s 以生長
+info.requiresSpecialLight.name=需要光照等級在 %1$s - %2$s 之間以生長
+info.requiresSoilBlock.name=需要種植在 %s 上方以生長
+info.requiresSoilBlockExtension.name=%s 也可作為其下方方塊
+info.requiresNutrient.name=需要營養值（%s點）。%n潮溼的生物群系或土壤%n（田地下方的泥土。 最大數3）
+info.requiresHydration.name=需要水（%s點）。%n潮溼的生物群系或水化土壤（提供2點）
+
+info.extraCropInfoKey.name=按住"Ctrl"獲得額外資訊
+info.extraCropInfo.name=額外要求資訊：

@@ -1,0 +1,50 @@
+# keypress related strings
+tictooltips.hold.key.for.stats=按住 %s 檢視資料
+tictooltips.hold.key.for.materials=按住 %s 檢視材料
+tictooltips.hold.key.for.bow.stats=按住 %s 檢視箭資料
+tictooltips.hold.key.for.more=按住 %s 檢視更多
+
+# material tooltips
+tictooltips.material.shoddiness.modifier= [係數：%s]
+tictooltips.material.arrow.weight=箭重：
+tictooltips.material.durability.modifier=耐久係數：
+
+# pattern tooltips
+tictooltips.pattern.valid.materials=有效材料：
+
+# tool tooltips
+tictooltips.tool.repair.material=修理材料：
+tictooltips.tool.effective.durability=有效耐久：
+# uses: material.cactus.ability/material.stone.ability
+tictooltips.tool.shoddiness.modifier=%s係數：
+# uncomment these if your language needs different syntax for jagged/stonebound 
+#tictooltips.tool.jagged.modifier=Jagged Modifier: 
+#tictooltips.tool.stonebound.modifier=Stonebound Modifier: 
+tictooltips.tool.burn.duration=燃燒持續時間：
+tictooltips.tool.bonus.vs.undead=對亡靈生物加成：
+tictooltips.tool.bonus.vs.spiders=對蜘蛛加成：
+tictooltips.tool.chance.to.behead=斬首機率：
+tictooltips.tool.modifiers=強化槽：
+tictooltips.tool.knockback=擊退：
+tictooltips.tool.basedamage=基礎攻擊：
+tictooltips.tool.sprint.damage=衝刺傷害：
+tictooltips.tool.crit.damage=暴擊傷害加成：
+# uses: material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.stonebound.loss=%s %s
+tictooltips.tool.stonebound.bonus=%s %s
+tictooltips.tool.jagged.loss=%s %s
+tictooltips.tool.jagged.bonus=%s %s
+# uses: tictooltips.maximum, material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.max.stonebound.loss=%s %s %s
+tictooltips.tool.max.stonebound.bonus=%s %s %s
+tictooltips.tool.max.jagged.loss=%s %s %s
+tictooltips.tool.max.jagged.bonus=%s %s %s
+
+# generic
+tictooltips.minimum=最小
+tictooltips.maximum=最大
+tictooltips.unknown.part=<未知部件>
+tictooltips.infinite=無限
+
+# things that should be in TiC
+tictooltips.unbreakable=不毀

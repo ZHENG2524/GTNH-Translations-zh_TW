@@ -1,0 +1,352 @@
+# Components
+gt.oreprefix.bolted_material_casing=%s機械方塊
+gt.oreprefix.rebolted_material_casing=強化%s機械方塊
+
+itemGroup.GT2C=GT2相容
+item.GT_Rockcutter_Item_LV.name=岩石切割機LV
+item.GT_Rockcutter_Item_MV.name=岩石切割機MV
+item.GT_Rockcutter_Item_HV.name=岩石切割機HV
+item.GT_Teslastaff_Item.name=特斯拉權杖
+BW_ItemBlocks.name=刻蝕青金石單元
+BW_ItemBlocks.0.name=刻蝕青金石單元
+BW_ItemBlocks.1.name=鍍層青金石單元
+GT_LESU_CASING.name=LESU機械方塊
+GT_LESU_CASING.0.name=LESU機械方塊
+
+bw.blockores.01.name=礦石
+bw.blockores.02.name=貧瘠礦石
+bw.werkstoffblocks.01.name=方塊
+bw.werkstoffblockscasing.01.name=栓式方塊
+bw.werkstoffblockscasingadvanced.01.name=強化機械方塊
+
+GT5U.gui.text.recipe_result.no_imprint=未壓印
+GT5U.gui.text.recipe_result.not_enough_length=多方塊機器長度不足
+GT5U.gui.text.wrong_sievert_exactly=§7輻射劑量錯誤.所需精確劑量為: %s §7Sv
+GT5U.gui.text.wrong_sievert_min=§7輻射劑量錯誤.所需最小劑量為: %s §7Sv
+GT5U.gui.config.general.mixins=Mixins
+GT5U.gui.config.general.crossmodinteractions=模組相容
+GT5U.gui.config.general.multiblocks=多方塊
+GT5U.gui.config.general.tooltip=提示框
+GT5U.gui.config.general.singleblocks=單方塊
+GT5U.gui.config.general.pollution=汙染
+GT5U.gui.config.general.rossruinmetas=羅斯128b 廢墟的 MetaID
+GT5U.gui.config.general.rossruinmetas.highpressuresteam=高壓蒸汽
+GT5U.gui.config.general.rossruinmetas.highpressuresteam.buffers=快取
+GT5U.gui.config.general.rossruinmetas.highpressuresteam.cables=線纜
+GT5U.gui.config.general.rossruinmetas.highpressuresteam.generators=發電機
+GT5U.gui.config.general.rossruinmetas.highpressuresteam.machines=機器
+GT5U.gui.config.general.rossruinmetas.lv=LV
+GT5U.gui.config.general.rossruinmetas.lv.buffers=快取
+GT5U.gui.config.general.rossruinmetas.lv.cables=線纜
+GT5U.gui.config.general.rossruinmetas.lv.generators=發電機
+GT5U.gui.config.general.rossruinmetas.lv.machines=機器
+GT5U.gui.config.general.rossruinmetas.mv=MV
+GT5U.gui.config.general.rossruinmetas.mv.buffers=快取
+GT5U.gui.config.general.rossruinmetas.mv.cables=線纜
+GT5U.gui.config.general.rossruinmetas.mv.generators=發電機
+GT5U.gui.config.general.rossruinmetas.mv.machines=機器
+GT5U.gui.config.general.rossruinmetas.hv=HV
+GT5U.gui.config.general.rossruinmetas.hv.buffers=快取
+GT5U.gui.config.general.rossruinmetas.hv.cables=線纜
+GT5U.gui.config.general.rossruinmetas.hv.generators=發電機
+GT5U.gui.config.general.rossruinmetas.hv.machines=機器
+GT5U.gui.config.general.rossruinmetas.ev=EV
+GT5U.gui.config.general.rossruinmetas.ev.buffers=快取
+GT5U.gui.config.general.rossruinmetas.ev.cables=線纜
+GT5U.gui.config.general.rossruinmetas.ev.generators=發電機
+GT5U.gui.config.general.rossruinmetas.ev.machines=機器
+
+itemGroup.bartworks=BartWorks跨時代
+BW_Machinery_Casings.name=機械方塊
+BW_Machinery_Casings.0.name=鎳鋅鐵氧體塊
+BW_Machinery_Casings.1.name=變壓器繞組塊
+item.BW_PaperRotor.name=原始紙轉子（風車專用）
+item.BW_LeatherRotor.name=原始皮革轉子（風車專用）
+item.BW_WoolRotor.name=原始羊毛轉子（風車專用）
+item.BW_CombinedRotor.name=原始複合轉子（風車專用）
+tile.BWRotorBlock.name=原始動力軸箱
+tile.BWRotorBlock.0.name=原始動力軸箱
+item.grindstone_top.name=磨石頂部件
+item.grindstone_bottom.name=磨石底部件
+item.completed_grindstone.name=磨石
+item.rotors.leatherParts.name=皮革包層木框架
+item.rotors.woolParts.name=羊毛包層木框架
+item.rotors.paperParts.name=紙包層木框架
+item.rotors.combinedParts.name=複合材料包層木框架
+item.BW_SimpleWindMeter.name=簡易風速計
+tile.BWHeatedWaterPump.name=簡易斯特林水泵
+tile.BWHeatedWaterPump.0.name=簡易斯特林水泵
+item.BWrawtube.name=加長玻璃管
+item.BWmotor.name=簡易斯特林馬達
+item.BWstove.name=簡易熔爐
+gt.blockmachines.creativeScanner.desc.1=立刻結束掃描。無需能量。
+
+itemGroup.BioTab=BartWorks生物工程
+filled.item.petriDish.name=培養皿
+item.petriDish.name=無菌培養皿
+item.DNASampleFlask.name=DNA樣品瓶
+item.PlasmidCell.name=質粒樣品瓶
+item.DetergentPowder.name=洗滌粉
+item.Agarose.name=瓊脂糖
+item.Cells.name=細菌細胞
+item.PlasmaMembrane.name=質膜
+labModule.item.DNAExtractionModule.name=DNA提取模組
+labModule.item.PCRThermoclyclingModule.name=基因擴增模組
+labModule.item.PlasmidSynthesisModule.name=質粒合成模組
+labModule.item.TransformationModule.name=基因轉化模組
+labModule.item.ClonalCellularSynthesisModule.name=細胞克隆模組
+labModule.item.IncubationModule.name=孵化模組
+
+BW_TieredGlass.name=硼玻璃方塊
+BW_TieredGlass.0.name=硼玻璃方塊
+BW_TieredGlass.1.name=鈦強化硼玻璃方塊
+BW_TieredGlass.2.name=鎢鋼強化硼玻璃方塊
+BW_TieredGlass.3.name=鍍銠鈀強化硼玻璃方塊
+BW_TieredGlass.4.name=銥強化硼玻璃方塊
+BW_TieredGlass.5.name=鋨強化硼玻璃方塊
+BW_TieredGlass.6.name=中子強化硼玻璃方塊
+BW_TieredGlass.7.name=無盡強化硼玻璃方塊
+BW_TieredGlass.8.name=超時空強化硼玻璃方塊
+BW_TieredGlass.9.name=咒源玄晶強化硼玻璃方塊
+BW_TieredGlass.10.name=宇宙素強化硼玻璃方塊
+BW_ExtraGlass.name=硼玻璃方塊
+BW_ExtraGlass.0.name=釷釔玻璃方塊
+BW_ExtraGlass.1.name=中子強化硼玻璃方塊（透明）
+BW_ExtraGlass.2.name=無盡強化硼玻璃方塊（透明）
+BW_ExtraGlass.3.name=超時空強化硼玻璃方塊（透明）
+BW_ExtraGlass.4.name=咒源玄晶強化硼玻璃方塊（透明）
+BW_ExtraGlass.5.name=宇宙素強化硼玻璃方塊（透明）
+tooltip.glass_tier.0.name=玻璃等級:
+tooltip.LESU.0.name=最大容量!
+tooltip.LESU.1.name=多個控制器!
+
+tooltip.windmeter.0.name=用於為風車選址的簡易風速計.
+tooltip.windmeter.1.name=剩餘使用次數:
+tooltip.windmeter.2.name=不存在
+tooltip.windmeter.3.name=很低
+tooltip.windmeter.4.name=正常
+tooltip.windmeter.5.name=相當強
+tooltip.windmeter.6.name=極強
+tooltip.windmeter.7.name=太強了
+tooltip.windmeter.8.name=這裡的風似乎...
+tooltip.rotor.0.name=直徑:
+tooltip.rotor.1.name=耐久:
+tooltip.rotor.2.name=效率:
+tooltip.rotor.3.name=速度:
+tooltip.rotor.4.name=輸出:
+tooltip.cp.0.name=內部是否有程式設計電路?
+
+tooltip.bw.0.name=新增者: 
+tooltip.bw.1.name=新增者：bartimaeusnek,模組：
+tooltip.bw.yes.name=是
+tooltip.bw.no.name=否
+tooltip.bw.tier.name=等級:
+tooltip.bw.empty.name=空
+tooltip.bw.mb_via.name=%s§7 via §2BartWorks
+
+tooltip.bw.item.circuit.tagged.imprint=一個壓印%s
+tooltip.bw.item.circuit.tagged.sliced=一個切片%s
+
+tooltip.item.CircuitParts.RawImprintBoard=壓印電路所需的基板原料
+tooltip.item.CircuitParts.ImprintBoard=壓印電路所需的基板原料
+
+tooltip.teslastaff.0.name=沒有保修!
+tooltip.labmodule.0.name=用於改變生物實驗室工作模式的模組
+tooltip.labparts.0.name=一個空的無菌培養皿
+tooltip.labparts.1.name=一個空的DNA樣品瓶
+tooltip.labparts.2.name=一個空的質粒樣品瓶
+tooltip.labparts.3.name=生物工程專用洗滌粉
+tooltip.labparts.4.name=用於輔助電泳分離DNA的粉末
+tooltip.labparts.5.name=一個培養皿，內含：%s
+tooltip.labparts.6.name=這是一種很弱的培養菌,不能在細菌培養缸中繁殖!
+tooltip.labparts.7.name=一個DNA樣品瓶，內含：%s
+tooltip.labparts.8.name=一個質粒樣品瓶，內含：%s
+
+tooltip.tile.waterpump.0.name=在有燃料時產出
+tooltip.tile.waterpump.1.name=L/s水. 每秒產生%d點汙染
+tooltip.tile.waterpump.2.name=必須放在地上.
+tooltip.tile.waterpump.fmt=供能時生產%sL/s水。每秒產生%s點汙染。
+
+tooltip.tile.mbf.1.name=汙染
+tooltip.tile.windmill.0.name=由動能驅動的原始研磨機;大小（寬x高x長）: 7x12x7;=第1層: 7x7磚塊,角落空置,控制器方塊在正面中央;第2-5層: 5x5陶瓦,角落空置,可包含一扇門,;中空,牆上必須至少有一個發射器;第6層: 5x5木板.角落填充,中空.;第7層: 7x7木板.角落空置,中空.;第8層: 7x7木板.角落空置,中空,;正面中央必須是原始動力軸箱;第9層: 7x7木板.角落空置,中空.;第10層: 5x5木板.角落填充,中空.;第11層: 3x3木板.角落填充,中空.;第12層: 1x1木板;需要在軸箱中放入風車轉子方可執行;在控制器方塊中輸入物品;輸出物品將出現在發射器中;在多風的地區執行比較快（類似IC2風機）
+tooltip.tile.lesu.0.name=LESU的控制器方塊;大小（寬x高x長）: 任意
+tooltip.tile.lesu.1.name=每個LESU機械方塊儲存:
+tooltip.tile.lesu.2.name=輸出EU: LESU機械方塊數量;輸入EU: 輸出EU的下一電壓等級;輸入/輸出電流可透過GUI中的4個程式設計電路調整;輸出端有一個點.
+tooltip.tile.lesu.3.name=只允許一個控制器,不允許共享方塊!
+tooltip.tile.tiereddsc.0.name=電壓:
+tooltip.tile.tiereddsc.1.name=輸入電流:
+tooltip.tile.tiereddsc.2.name=輸出電流:
+tooltip.tile.tiereddsc.3.name=容量:
+tooltip.tile.diode.0.name=一種簡單的二極體,只允許能量流向一個方向.
+tooltip.tile.energydistributor.0.name=將電流分至多面。
+tooltip.tile.biolab.0.name=生物實驗室,一個多用途的生物工程站
+tooltip.tile.radhatch.0.name=多方塊的放射性物品輸入倉
+tooltip.tile.radhatch.1.name=使用螺絲刀設定抑制等級
+tooltip.tile.radhatch.2.name=材料:
+tooltip.tile.radhatch.3.name=輻射劑量:
+tooltip.tile.radhatch.4.name=質量：
+tooltip.tile.radhatch.5.name=衰變單位質量（1kg）所需時間（t/s/m/h）:
+tooltip.tile.radhatch.6.name=t
+tooltip.tile.radhatch.7.name=s
+tooltip.tile.radhatch.8.name=m
+tooltip.tile.radhatch.9.name=h
+tooltip.tile.radhatch.10.name=剩餘時間: %s s / %s s
+tooltip.tile.radhatch.2.fmt=材料：%s
+tooltip.tile.radhatch.2.empty=材料：空
+tooltip.tile.radhatch.3.fmt=輻射劑量：%s
+tooltip.tile.radhatch.4.fmt=質量：%s
+tooltip.tile.radhatch.5.fmt=衰變單位質量（1kg）所需時間（t/s/m/h）：%st/%ss/%sm/%sh
+tooltip.tile.acidgen.0.name=酸性發電機
+tooltip.tile.acidgen.1.name=用化學勢能產生電力.
+
+tooltip.bw.structure.glass=玻璃
+tooltip.bw.structure.radio_hatch=放射倉
+tooltip.bw.structure.tier_glass=%s+玻璃
+
+# RecipeMap
+bw.recipe.biolab=生物實驗室
+bw.recipe.BacteriaVat=細菌培養缸
+bw.fuels.acidgens=酸性發電機
+bw.recipe.cal=電路裝配線
+bw.recipe.radhatch=放射倉材料列表
+gt.recipe.electricimplosioncompressor=電動聚爆壓縮機
+bw.recipe.htgr=高溫氣冷反應堆
+
+nei.biovat.0.name=需要玻璃等級: %s
+nei.biovat.1.name=精確劑量: %s Sv
+nei.biovat.2.name=最小劑量 %s Sv
+nei.biovat.input.tooltip=基於輸出率，消耗至多1,001倍的NEI流體原料
+nei.biovat.output.tooltip=基於輸出倉中的流體儲量，輸出至多1,001倍的NEI流體產物
+
+tile.diode.name=線纜二極體
+tile.energydistributor.name=能量分配器
+tile.acidgenerator.name=酸性發電機
+tile.acidgenerator.tier.1.name=基礎酸性發電機
+tile.acidgenerator.tier.2.name=進階酸性發電機
+tile.acidgenerator.tier.3.name=渦輪酸性發電機
+tile.acidgenerator.tier.4.name=渦輪增壓酸性發電機
+tile.acidgenerator.tier.5.name=終極腐蝕能釋放者
+tile.bw.mbf.name=巨型工業高爐
+tile.bw.mvf.name=巨型真空冷凍機
+tile.biolab.name=生物實驗室
+tile.biolab.tier.3.name=基礎生物實驗室
+tile.biolab.tier.4.name=進階生物實驗室
+tile.biolab.tier.5.name=進階生物實驗室 II
+tile.biolab.tier.6.name=精英生物實驗室
+tile.biolab.tier.7.name=精英生物實驗室 II
+tile.biolab.tier.8.name=終極基因鍛造者
+tile.biolab.tier.9.name=史詩基因鍛造者
+tile.biolab.tier.10.name=史詩基因鍛造者 II
+tile.biolab.tier.11.name=史詩基因鍛造者 III
+tile.biolab.tier.12.name=史詩基因鍛造者 IV
+tile.biovat.name=細菌培養缸
+tile.radiohatch.name=放射倉
+tile.bw.windmill.name=風車
+tile.manutrafo.name=可調變壓器
+tile.BioFluidBlock.name=生物流質方塊
+
+item.TRISOPellet.name=TRISO燃料丸
+item.TRISOPelletBall.name=TRISO燃料球
+item.BISOPelletBall.name=BISO燃料球
+item.TRISOPelletCompound.name=TRISO複合材料
+item.BISOPelletCompound.name=BISO複合材料
+item.BurnedOutTRISOPelletBall.name=枯竭TRISO燃料球
+item.BurnedOutTRISOPellet.name=枯竭TRISO燃料丸
+
+item.CircuitParts.Imprint.name=壓印電路
+item.CircuitParts.Sliced.name=切片電路
+item.CircuitParts.RawImprintBoard.name=壓印基板原料
+item.CircuitParts.ImprintBoard.name=壓印基板
+item.CircuitParts.Wrap.name=封裝%s
+
+itemGroup.bartworksMetaMaterials=BartWorks超材料
+
+planet.Ross128b=羅斯128b
+moon.Ross128ba=羅斯128ba
+star.Ross128=羅斯128
+solarsystem.Ross128System=羅斯128星系
+
+itemGroup.bw.MetaItems.0=BartWorks電路板改革
+
+# info data
+BW.infoData.BioVat.expectedProduction=預期產出
+BW.infoData.BioVat.production=產出
+BW.infoData.BioVat.expectedProduction.fmt=預期產出：§a%s§r%%
+BW.infoData.BioVat.production.fmt=產出：§a%s§r%%
+
+BW.infoData.htr.helium_level=氦水平：%sL / %sL
+BW.infoData.htr.problems=問題：%s
+
+BW.infoData.thtr.progress=進度：%s s/%s s
+BW.infoData.thtr.triso_pebbles=TRISO燃料丸：%s個 / %s個
+BW.infoData.thtr.coolant=冷卻液/t: %sL/t
+
+BW.infoData.wind_mill.progress=進度：%d次研磨（共需%d次研磨）
+BW.infoData.wind_mill.grind_power=研磨功率：%dKU/t
+
+BW.infoData.mega_vacuum_freezer.tier=等級: %d
+BW.infoData.mega_vacuum_freezer.subspace_cooling.active=亞空間冷卻：§a啟用中（%s）
+BW.infoData.mega_vacuum_freezer.subspace_cooling.inactive=亞空間冷卻：§c未啟用
+
+BW.NEI.display.radhatch.0=輻射劑量: %s Sv
+BW.NEI.display.radhatch.1=質量: %s kg
+BW.NEI.display.radhatch.2=時間: %s s
+
+tooltip.cal.imprintedWith=已壓印：§e%s
+chat.cal.mode.0=電路裝配線模式
+chat.cal.mode.1=電路組裝機模式
+
+chat.proxy.reverse.false=§a常規§r配方順序
+chat.proxy.reverse.true=§d逆向§r配方順序
+#Liquids
+
+# gui
+BW.gui.text.radio_hatch.tooltip.radiation_shutter=輻射閘門
+BW.gui.text.radio_hatch.tooltip.radiation_shutter_control=輻射閘門控制
+
+BW.gui.text.lesu.eu=EU： %s
+BW.gui.text.lesu.max=最大：%s
+BW.gui.text.lesu.max_in=最大EU/t輸入：%s
+BW.gui.text.lesu.eu_out=EU/t 輸出：%s
+BW.gui.text.lesu.amp_io=A/t 輸入/輸出: %s
+
+# chat
+BW.chat.thtr.cannot_change_mode=無法在釷高溫反應堆執行時更改其模式。
+BW.chat.thtr.running_in.emptying=釷高溫反應堆現以排空模式執行。
+BW.chat.thtr.running_in.normal=釷高溫反應堆現已正常執行。
+BW.chat.diode.max_amps=最大電流：%s
+
+# bio name
+bw.bioname.saccharomyces_cerevisiae=普通酵母菌
+bw.bioname.saccharomyces_cerevisiae_var_bayanus=葡萄酒酵母菌
+bw.bioname.saccharomyces_cerevisiae_var_cerevisiae=啤酒酵母菌
+bw.bioname.escherichia_cadaver=腐肉菌
+bw.bioname.beta-lactamase=β-內醯胺酶
+bw.bioname.escherichia_koli=大腸桿菌
+bw.bioname.pseudomonas_veronii=石油厭氧菌
+bw.bioname.saccharomyces_escherichia=通用酵母菌
+bw.bioname.barnadafis_arboriatoris=巴納德喬木生菌
+bw.bioname.tcetieis_fucus_serratus=鯨魚座T星E藻
+bw.bioname.corynebacterium_sludge_marsensis=火星泥棒狀桿菌
+bw.bioname.xenoxene_xenoxsis=異氙菌
+bw.bioname.ova_evolutionis=演化卵細胞
+bw.bioname.derivantur_cellula_evolutionis=演化衍生細胞
+bw.bioname.cellula_biologicum_evolutione=演化生物細胞
+bw.bioname.binni_growth_medium=培養基賓尼菌
+bw.bioname.binni_bacteria=賓尼菌
+bw.bioname.mutagen_bacteria_a_spatio=太空誘變菌
+bw.bioname.null=除錯用菌
+
+# Multiblocks
+gt.blockmachines.bw.biovat.name=細菌培養缸
+gt.blockmachines.bw.manualtrafo.name=可調變壓器
+gt.blockmachines.bw.windmill.name=風車
+gt.blockmachines.circuitassemblyline.name=電路裝配線
+gt.blockmachines.dehp.name=深地熱泵
+gt.blockmachines.lesu.name=LESU
+gt.blockmachines.megablastfurnace.name=巨型工業高爐
+gt.blockmachines.megachemicalreactor.name=巨型化學反應釜
+gt.blockmachines.megadistillationtower.name=巨型蒸餾塔
+gt.blockmachines.megaoilcracker.name=巨型石油裂化機
+gt.blockmachines.megavacuumfreezer.name=巨型真空冷凍機
+gt.blockmachines.thtr.name=釷高溫反應堆

@@ -1,0 +1,12 @@
+tile.translocator.name=轉運器
+tile.translocator|0.name=物品轉運器
+tile.translocator|1.name=液體轉運器
+tile.craftingGrid.name=合成格
+item.translocator:diamondNugget.name=鑽石粒
+
+translocator.regulate=調控
+translocator.filter=過濾
+translocator.update.display=GT 泵覆蓋板已安裝：流速
+translocator.update.display.dupe=GT電動泵覆蓋板重複了
+
+key.craftingGrid=合成格

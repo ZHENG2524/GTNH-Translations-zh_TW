@@ -1,0 +1,25 @@
+betterloadingscreen.state.minecraft_init=Minecraft初始化
+betterloadingscreen.state.construction=構建
+betterloadingscreen.state.pre_initialization=預初始化
+betterloadingscreen.state.initialization=初始化
+betterloadingscreen.state.post_initialization=後初始化
+betterloadingscreen.state.completed=已完成
+betterloadingscreen.state.reloading_resource_packs=重新載入資源包
+betterloadingscreen.memory_usage=記憶體消耗：%5d/%5d MB
+betterloadingscreen.loading=載入中
+
+alexiillib.gui.contributors=參與者
+alexiillib.gui.commits=歷史變更日誌
+alexiillib.gui.connectExternallyDisabled=外部連線已禁用，因此無法獲取參與者列表和變更日誌。
+
+alexiillib.config.title=主配置檔案
+alexiillib.config.button=編輯主要配置
+alexiillib.config.tech.title=科技樹
+alexiillib.config.tech.button=編輯科技樹
+alexiillib.config.help=天哪！為什麼這不是一項配置？還有這些顏色是什麼意思？
+alexiillib.config.closeHelp=關閉幫助
+
+#This is a list, so adding "civcraft.gui.config.help3=..." is fine (and etc) 
+alexiillib.gui.config.help.0=可以透過左上方的按鈕訪問配置（不用擔心，配置仍然存在）
+alexiillib.gui.config.help.1=左側是為此mod付出了一些時間和精力的所有人員列表
+alexiillib.gui.config.help.2=右側是這個mod的變更日誌。金色表示你正在使用的版本，藍色是新變更日誌開始的位置，而綠色表示CurseForge上有可用的jar檔案。

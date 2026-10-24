@@ -1,0 +1,6 @@
+container.alchgrate=鍊金格柵
+tile.alchgrate.name=鍊金格柵
+
+tc.research_name.ALCHGRATE=鍊金格柵
+tc.research_page.ALCHGRATE.1=將格柵與饕餮箱子結合，你似乎創造出了一種箱子，其內容物同時存在於容器與世界中。<BR><BR>雖然損失了部分容量，也失去了關閉格柵的能力，但你可以肯定，該裝置能以一種乾淨的方式，幫助高階鍊金爐實現自動化。
+tc.research_text.ALCHGRATE=物品不再溢位

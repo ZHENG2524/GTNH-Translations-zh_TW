@@ -1,0 +1,22 @@
+sharewhereiam.command.savewaypoint.usage=用法: /savewaypoint <導航點程式碼> [需要開啟編輯器嗎? 預設: true]
+sharewhereiam.command.savewaypoint.save.success=導航點已儲存
+sharewhereiam.command.savewaypoint.save.exists=導航點已存在，無法儲存
+sharewhereiam.command.sharewhereiam.usage=用法: /sharewhereiam
+sharewhereiam.command.toggletempbeacon.usage=用法: /toggletempbeacon [導航點程式碼]
+
+sharewhereiam.commanderror.invalidcode=無效導航點程式碼
+
+sharewhereiam.chat.share=分享了一個路徑點：
+sharewhereiam.chat.save=儲存
+sharewhereiam.chat.save.desc=儲存此導航點至你的JourneyMap
+sharewhereiam.chat.edit=編輯
+sharewhereiam.chat.edit.desc=在編輯器中開啟此導航點
+sharewhereiam.chat.toggle=啟用/禁用
+sharewhereiam.chat.toggle.desc=啟用/禁用為臨時信標
+sharewhereiam.chat.additionalInformation.VP=這是VisualProspecting導航點，你仍然需要以以VP允許的方式將導航點新增至VP中
+
+sharewhereiam.keybinding.share.name=分享
+sharewhereiam.keybinding.share.category=Share Where I am
+
+sharewhereiam.text.default_waypoint_name=當前位置
+sharewhereiam.text.jm.waypoint.share=分享

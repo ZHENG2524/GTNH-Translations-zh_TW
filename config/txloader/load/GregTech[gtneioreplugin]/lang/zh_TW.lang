@@ -1,0 +1,118 @@
+# gui names
+gtnop.gui.veinStat.name=礦脈資訊
+gtnop.gui.asteroidStat.name=小行星資訊
+gtnop.gui.smallOreStat.name=貧瘠礦石資訊
+gtnop.gui.undergroundFluid.name=地下流體資訊
+gtnop.gui.ieVeinStat.name=IE虛擬礦脈資訊
+gtnop.gui.bedrockOreStat.name=基岩礦脈資訊
+
+gtnop.gui.nei.primaryOre=上層礦石
+gtnop.gui.nei.secondaryOre=下層礦石
+gtnop.gui.nei.betweenOre=中層礦石
+gtnop.gui.nei.sporadicOre=散亂分佈
+gtnop.gui.nei.genHeight=生成高度
+gtnop.gui.nei.weightedChance=生成權重
+gtnop.gui.nei.worldNames=生成世界
+gtnop.gui.nei.restrictBiome=生物群系限制
+gtnop.gui.nei.dimension=維度
+gtnop.gui.nei.chance=機率
+gtnop.gui.nei.fluidAmount=儲量
+gtnop.gui.nei.lineKey=%s
+gtnop.gui.nei.lineValue=%s
+gtnop.gui.nei.title=%s
+
+gtnop.gui.nei.chance.value=%s%%
+gtnop.gui.nei.orechunkchance.value=§e每個礦脈區塊的機率：§7%s%%
+gtnop.gui.nei.oredimheight.value=§e在該維度的生成高度：§7%s
+gtnop.gui.nei.fluidAmount.value=%s-%s
+
+gtnop.gui.nei.asteroidPrimary=主要生成一
+gtnop.gui.nei.asteroidSecondary=主要生成二
+gtnop.gui.nei.asteroidBetween=次要生成一
+gtnop.gui.nei.asteroidSporadic=次要生成二
+
+gtnop.gui.nei.oreName=礦石名稱
+gtnop.gui.nei.amount=每區塊生成個數
+gtnop.gui.nei.chanceDrops=機率掉落
+
+gtnop.gui.nei.ieVeinComponent=礦脈構成
+gtnop.gui.nei.fromMod=來自模組
+
+gtnop.gui.nei.seeAll=檢視全部
+gtnop.gui.nei.vein=礦脈
+gtnop.gui.nei.oreOthers=伴隨生成
+gtnop.nei.genPosition=生成位置
+gtnop.nei.genPositionInfo=各個區塊的正中心
+
+# world names
+gtnop.world.Overworld=主世界
+gtnop.world.Nether=下界
+gtnop.world.TheEnd=末地
+gtnop.world.TwilightForest=暮色森林
+gtnop.world.EndAsteroid=末地小行星
+gtnop.world.Vanilla EndAsteroids=原版末地小行星
+gtnop.world.dimensionDarkWorld=廢土世界
+gtnop.world.moon=月球
+gtnop.world.mars=火星
+gtnop.world.phobos=火衛一
+gtnop.world.deimos=火衛二
+gtnop.world.asteroids=小行星帶
+gtnop.world.ceres=穀神星
+gtnop.world.europa=木衛二
+gtnop.world.ganymed=木衛三
+gtnop.world.callisto=木衛四
+gtnop.world.ross128b=羅斯128b
+gtnop.world.iojupiter=木衛一
+gtnop.world.venus=金星
+gtnop.world.mercury=水星
+gtnop.world.enceladus=土衛二
+gtnop.world.titan=土衛六
+gtnop.world.ross128ba=羅斯128ba
+gtnop.world.miranda=天衛五
+gtnop.world.oberon=天衛四
+gtnop.world.proteus=海衛八
+gtnop.world.triton=海衛一
+gtnop.world.pluto=冥王星
+gtnop.world.kuiperbelt=柯伊伯帶
+gtnop.world.haumea=妊神星
+gtnop.world.makemake=鳥神星
+gtnop.world.centauribb=半人馬座α星Bb
+gtnop.world.vega1=織女一B
+gtnop.world.barnarda2=巴納德C
+gtnop.world.barnarda4=巴納德E
+gtnop.world.barnarda5=巴納德F
+gtnop.world.tcetie=鯨魚座T星E
+gtnop.world.anubis=阿努比斯
+gtnop.world.asteroidbeltmehen=邁罕帶
+gtnop.world.horus=荷魯斯
+gtnop.world.maahes=馬赫斯
+gtnop.world.neper=奈佩裡
+gtnop.world.seth=賽特
+gtnop.world.Underdark=漆黑世界
+
+# world tiers
+gtnop.tier.0=%s
+gtnop.tier.1=T1：%s
+gtnop.tier.2=T2：%s
+gtnop.tier.3=T3：%s
+gtnop.tier.4=T4: %s
+gtnop.tier.5=T5: %s
+gtnop.tier.6=T6: %s
+gtnop.tier.7=T7: %s
+gtnop.tier.8=T8: %s
+gtnop.tier.9=T9: %s
+gtnop.tier.10=T10: %s
+
+# biome names
+gtnop.biome.none.name=無
+
+# ore names extra
+gtnop.ore.null.name=無
+
+# vein types
+gtnop.ore.vein.name=礦脈
+gtnop.ore.asteroid.name=小行星
+gtnop.ore.custom.name=自定義
+
+# items
+itemGroup.gtneioreplugin=GT NEI 礦物外掛

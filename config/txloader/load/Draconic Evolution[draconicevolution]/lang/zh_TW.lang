@@ -1,0 +1,721 @@
+//Tile Information ----------------------------------------------------------------------------------------------------------------------------------------
+tile.draconicevolution:xRayBlock.name=透視方塊
+tile.draconicevolution:sunDial.name=日晷
+tile.draconicevolution:weatherController.name=氣象控制器
+tile.draconicevolution:draconiumOre.name=龍礦
+tile.draconicevolution:grinder.name=怪物粉碎機
+tile.draconicevolution:potentiometer.name=電位器
+tile.draconicevolution:rainSensor.name=雨水感測器
+tile.draconicevolution:particleGenerator.name=粒子發生器
+tile.draconicevolution:playerDetector.name=玩家探測器
+tile.draconicevolution:playerDetectorAdvanced.name=高階玩家探測器
+tile.draconicevolution:energyInfuser.name=能量注入器
+tile.draconicevolution:earth.name=地
+tile.draconicevolution:customSpawner.name=穩定刷怪籠
+tile.draconicevolution:longRangeDislocator.name=長距離錯位寶石
+tile.draconicevolution:longRangeDislocator1.name=創造錯位寶石
+tile.draconicevolution:longRangeDislocator0.name=長距離錯位寶石
+tile.draconicevolution:generator.name=發電機
+tile.draconicevolution:energyStorageCore.name=能量核心
+tile.draconicevolution:invisibleMultiblock.name=能量核心（隱藏）
+tile.draconicevolution:energyPylon.name=能量塔
+tile.draconicevolution:draconium.name=龍塊
+tile.draconicevolution:draconium0.name=龍塊
+tile.draconicevolution:draconium1.name=復活石
+tile.draconicevolution:draconium2.name=充能龍塊
+tile.draconicevolution:cKeyStone.name=創造鎖
+tile.draconicevolution:dissEnchanter.name=祛魔臺
+tile.draconicevolution:teleporterStand.name=錯位寶石底座
+tile.draconicevolution:draconiumChest.name=龍箱
+tile.draconicevolution:draconicBlock.name=覺醒龍塊
+tile.draconicevolution:infusedObsidian.name=注入龍力的黑曜石
+tile.draconicevolution:dislocatorReceptacle.name=錯位容器
+tile.draconicevolution:portal.name=門
+tile.draconicevolution:flowGate.name=門
+tile.draconicevolution:flowGateFlux.name=能量閥門
+tile.draconicevolution:flowGateFluid.name=流體閥門
+tile.draconicevolution:reactorCore.name=反應堆核心
+tile.draconicevolution:reactorStabilizer.name=反應堆穩定器
+tile.draconicevolution:reactorEnergyInjector.name=反應堆能量噴射器
+tile.draconicevolution:chaosCrystal.name=混沌晶體
+tile.draconicevolution:upgradeModifier.name=升級調整器
+tile.draconicevolution:chaosShardAtmos.name=混沌碎片
+tile.draconicevolution:placedItem.name=放置的物品
+tile.draconicevolution:safetyFlame.name=安全的火焰
+
+tile.draconicevolution:energyCrystal.name=能量中繼器/收發器
+tile.draconicevolution:energyCrystal0.name=能量中繼器
+tile.draconicevolution:energyCrystal1.name=高階能量中繼器
+tile.draconicevolution:energyCrystal2.name=能量收發器
+tile.draconicevolution:energyCrystal3.name=高階能量收發器
+tile.draconicevolution:energyCrystal4.name=無線能量收發器
+tile.draconicevolution:energyCrystal5.name=高階無線收發器
+tile.draconicevolution:dislocatorInhibitor.name=錯位寶石抑制器
+
+
+//Item Information ----------------------------------------------------------------------------------------------------------------------------------------
+item.draconicevolution:awakenedCore.name=覺醒核心
+item.draconicevolution:draconiumIngot.name=龍錠
+item.draconicevolution:draconiumDust.name=龍塵
+item.draconicevolution:draconiumBlend.name=混合龍塵（已移除）
+item.draconicevolution:dragonHeart.name=龍之心
+item.draconicevolution:wyvernCore.name=雙足飛龍核心
+item.draconicevolution:sunFocus.name=日光焦點
+item.draconicevolution:tclogo.name=TCLogo
+item.draconicevolution:draconicCore.name=龍芯
+item.draconicevolution:teleporterMKI.name=錯位寶石
+item.draconicevolution:teleporterMKII.name=高階錯位寶石
+
+info.teleporterInfGUI.txt=Shift + 滑鼠右鍵開啟 GUI
+info.teleporterInfScroll.txt=Shift + 滑鼠滾輪選擇目的地
+
+item.draconicevolution:wyvernPickaxe.name=雙足飛龍鎬
+item.draconicevolution:wyvernShovel.name=雙足飛龍鏟
+item.draconicevolution:wyvernSword.name=雙足飛龍劍
+item.draconicevolution:wyvernBow.name=雙足飛龍弓
+item.draconicevolution:wyvernHelm.name=雙足飛龍頭盔
+item.draconicevolution:wyvernChest.name=雙足飛龍胸甲
+item.draconicevolution:wyvernLeggs.name=雙足飛龍護腿
+item.draconicevolution:wyvernBoots.name=雙足飛龍靴
+item.draconicevolution:draconicPickaxe.name=龍之鎬
+item.draconicevolution:draconicAxe.name=龍之斧
+item.draconicevolution:draconicShovel.name=龍之鏟
+item.draconicevolution:draconicHoe.name=龍之鋤
+item.draconicevolution:draconicSword.name=龍之劍
+item.draconicevolution:draconicBow.name=龍之弓
+item.draconicevolution:draconicHelm.name=龍之頭盔
+item.draconicevolution:draconicChest.name=龍之胸甲
+item.draconicevolution:draconicLeggs.name=龍之護腿
+item.draconicevolution:draconicBoots.name=龍之靴
+item.draconicevolution:draconicDistructionStaff.name=龍之權杖
+item.draconicevolution:mobSoul.name=怪物靈魂
+item.draconicevolution:enderArrow.name=末影箭
+item.draconicevolution:safetyMatch.name=安全火柴
+item.draconicevolution:safetyMatchBox.name=安全火柴盒
+item.draconicevolution:key.name=鑰匙
+item.draconicevolution:draconiumEnergyCore.name=能量核心
+item.draconicevolution:draconiumEnergyCore0.name=雙足飛龍能量核心
+item.draconicevolution:draconiumEnergyCore1.name=龍之能量核心
+item.draconicevolution:draconiumFluxCapacitor.name=通量電容器
+item.draconicevolution:draconiumFluxCapacitor0.name=雙足飛龍通量電容器
+item.draconicevolution:draconiumFluxCapacitor1.name=龍之通量電容器
+item.draconicevolution:draconicIngot.name=覺醒龍錠
+item.draconicevolution:creativeStructureSpawner.name=結構生成器
+item.draconicevolution:creativeStructureSpawnerComet.name=生成彗星
+item.draconicevolution:creativeStructureSpawnerEnderIsland.name=生成末影島
+item.draconicevolution:infoTablet.name=龍之研究資訊板
+item.draconicevolution:wrench.name=連線扳手
+item.draconicevolution:dezilsMarshmallow.name=Dezil的棉花糖
+item.draconicevolution:reactorCraftingPart.name=反應堆穩定器
+item.draconicevolution:reactorCraftingPart.frame.name=反應堆穩定器支架
+item.draconicevolution:reactorCraftingPart.rotorInner.name=反應堆穩定器轉子
+item.draconicevolution:reactorCraftingPart.rotorOuter.name=反應堆穩定器外轉子
+item.draconicevolution:reactorCraftingPart.rotorAssembly.name=反應堆穩定器轉子總成
+item.draconicevolution:reactorCraftingPart.stabilizerRing.name=反應堆穩定器聚能環
+item.draconicevolution:chaoticCore.name=混沌核心
+item.draconicevolution:chaosShard.name=混沌碎片
+item.draconicevolution:chaosFragment.name=混沌殘片
+item.draconicevolution:chaosFragment0.name=微小混沌殘片
+item.draconicevolution:chaosFragment1.name=小的混沌殘片
+item.draconicevolution:chaosFragment2.name=大的混沌殘片
+item.draconicevolution:nugget.name=龍粒
+item.draconicevolution:nugget.draconium.name=龍粒
+item.draconicevolution:nugget.awakened.name=覺醒龍粒
+item.draconicevolution:magnet.name=物品錯位器
+item.draconicevolution:magnet.wyvern.name=物品錯位器
+item.draconicevolution:magnet.draconic.name=覺醒物品錯位器
+item.draconicevolution:adminSpawnEgg.name=刷怪蛋
+
+//Item Groups ----------------------------------------------------------------------------------------------------------------------------------------
+itemGroup.toolsAndWeapons=龍之研究工具和武器
+itemGroup.blocksAndItems=龍之研究方塊和物品
+
+//Chat Messages ----------------------------------------------------------------------------------------------------------------------------------------
+msg.size0.txt=工具模式: 單個方塊
+msg.size1.txt=工具模式: 3x3
+msg.size2.txt=工具模式: 5x5
+msg.size3.txt=工具模式: 7x7
+msg.size4.txt=工具模式: 9x9
+msg.oblittrue.txt=§a刪除模式: §4啟用
+msg.oblitfalse.txt=§a刪除模式: §2未啟用
+msg.bowmoderapidfire.txt=§3射擊模式:§6掃射
+msg.bowmodesharpshooter.txt=§3射擊模式:§6狙擊
+msg.bowmodeexplosive.txt=§3射擊模式:§6爆炸
+msg.bowmodedevistation.txt=§3射擊模式:§6崩壞！(僅創造模式)
+msg.bowoutofgunpowder.txt=§4你需要4個火藥來使用爆炸模式
+msg.teleporterUnSet.txt=§c你在傳送之前必須首先設定目的地(Shift +右鍵)
+msg.teleporterBound.txt=§a傳送器繫結到:
+msg.teleporterLowHealth.txt= 你生命值低
+msg.teleporterSentMob.txt=實體已被送到 
+msg.teleporterEntityDimensional.txt=§c你不能跨維度傳送生物！
+msg.teleporterAlreadySet.txt=§c[錯誤]傳送石只能被繫結到一個位置! 
+msg.teleporterOutOfFuel.txt=§c燃料耗盡! ! !
+msg.teleporterOutOfPearls.txt=§c末影珍珠耗盡! ! !
+msg.teleporterPlayerT1.txt=你需要一個更強大的傳送符咒
+msg.teleporterPlayerConsent.txt=玩家必須用潛行(Shift)同意他們
+msg.spawnerInfo1.txt=生物型別
+msg.spawnerInfo2.txt=需要玩家
+msg.spawnerInfo3.txt=忽視生成條件
+msg.spawnerInfo4.txt=刷怪籠等級
+msg.spawnerInfo5.txt=按住Shift鍵檢視升級資訊
+msg.spawnerInfo6.txt=需要物品:§3下界之星
+msg.spawnerInfo7.txt=需要物品:§3附魔金蘋果
+msg.spawnerInfo8.txt=需要物品:§3雙足飛龍核心
+msg.spawnerInfo9.txt=需要物品:§3覺醒核心
+msg.dislocatorUnsafe.txt=目的地不安全,請再試一次
+msg.dislocatorNoGround.txt=錯誤，世界無法找到
+msg.range.txt=範圍：
+msg.energyStorageCoreUTA.txt=無法啟用(無效的配置)
+msg.SpawnDragonToFarFrom00.txt=(錯誤)離0,0太遠了
+msg.SpawnDragonMustBeInTheEnd.txt=你必須在末地進行這個儀式！
+msg.wrongKey.txt=這把鑰匙不符合這把鎖
+msg.cKeyStoneType0.txt=永久啟用(消耗鑰匙)
+msg.cKeyStoneType1.txt=按鈕啟用
+msg.cKeyStoneType2.txt=切換啟用
+msg.cKeyStoneType3.txt=按鈕啟用(消耗鑰匙)
+msg.draconiumChestEditmode.txt=顏色編輯模式 =
+msg.draconiumChestRed.txt=紅 =
+msg.draconiumChestGreen.txt=綠 =
+msg.draconiumChestBlue.txt=藍 =
+msg.draconiumChestEditL1.txt=用紅色、綠色或藍色染料右鍵單擊來調整顏色
+msg.draconiumChestEditL2.txt=單擊龍箱的上半部分加深顏色
+msg.draconiumChestEditL3.txt=單擊龍箱的下半部分減淡顏色
+msg.draconiumChestEditL4.txt=使用紙右鍵龍箱複製顏色到其他龍箱
+msg.draconiumChestEdit2.txt=請使用一張紙
+msg.de.dragonDeath.txt=§5龍心被龍死亡所引起的爆炸暫時喚醒了
+msg.de.baseSafeAOW.txt=§9(§a安全的§a範圍§a挖掘§a模式§a已開啟§9)§c操作§c取消§c因為§c檢測§c到§c了§c一個§c實體
+msg.de.guardianAttackBlocked.txt=你的攻擊被混沌水晶所阻擋!
+msg.de.shieldDepleted.txt=警告！強大的打擊！
+msg.de.shockWaveForEnergyBoltsOnly.txt=衝擊波只能由龍火之矢發出
+msg.de.explosiveNotForEnergyBolts.txt=爆炸不能由龍火之矢發出
+msg.de.insufficientPowerToFire.txt=沒有足夠的力量射擊
+msg.de.outOfArrows.txt=沒箭啦！
+
+//Energy Net
+msg.de.wrenchMode.bind.txt=功能:繫結
+msg.de.wrenchMode.unBind.txt=功能:解綁
+msg.de.wrenchMode.unBindAll.txt=功能:全部解綁
+msg.de.wrenchMode.modeSwitch.txt=功能:選擇模式
+msg.de.rightClickUnbind.txt=右擊空氣解綁
+msg.de.boundTo.txt=繫結到
+msg.de.posSaved.txt=座標已儲存
+msg.de.invalidTile.txt=此目標無效
+msg.de.outOfRange.txt=目標超出範圍
+msg.de.maxConnections.txt=達到連線上限
+msg.de.linked.txt=已連線裝置
+msg.de.unLinked.txt=已移除裝置
+msg.de.wrongSide.txt=無法連線到目標裝置的另一側
+
+//Reactor
+msg.de.reactorRSMode.0.txt=比較器模式: 溫度
+msg.de.reactorRSMode.1.txt=比較器模式: 溫度[反轉]
+msg.de.reactorRSMode.2.txt=比較器模式: 密封
+msg.de.reactorRSMode.3.txt=比較器模式: 密封[反轉]
+msg.de.reactorRSMode.4.txt=比較器模式: 能量飽和
+msg.de.reactorRSMode.5.txt=比較器模式: 能量飽和[反轉]
+msg.de.reactorRSMode.6.txt=比較器模式: 燃料轉換
+msg.de.reactorRSMode.7.txt=比較器模式: 燃料轉換[反轉]
+
+//Tool Tips/other localizations ----------------------------------------------------------------------------------------------------------------------------------------
+info.teleporterInfUnset1.txt=未繫結
+info.teleporterInfUnset2.txt=Shift+右鍵以繫結當前
+info.teleporterInfUnset3.txt=x， y， z 座標
+info.teleporterInfUnset4.txt=以及你所面對的方向
+info.teleporterInfUnset5.txt=和你當前的次元
+info.teleporterInfDest.txt=終點
+info.teleporterInfFuel.txt=燃料:
+info.teleporterInfSet1.txt=繫結到
+info.teleporterInfSet2.txt=使用剩餘
+info.de.rightClickToTeleport.txt=點選右鍵傳送
+
+info.draconicAxe1.txt=一鍵砍樹!!!!!!
+info.draconicAxe2.txt=將會使整棵樹倒下
+info.draconicAxe3.txt=或者破壞大小為5×5×5區塊裡所有木頭
+info.draconicAxe4.txt=按住Shift來挖掘單個方塊
+
+info.draconicCore.txt=龍之研究的核心零件
+info.draconicCore1.txt=它可以使刷怪籠變得穩定
+
+info.mobSoul1.txt=可以在一個穩定的刷怪籠上設定它的生成物
+info.mobSoul2.txt=Shift+右鍵生成生物
+info.mobSoul3.txt=(單次使用)
+
+info.arrowInfo.txt=一個痛苦的旅程
+info.arrowInfo0.txt=對於一把普通弓來說太重了
+
+info.de.obliterationMode.txt=刪除模式
+info.de.obliterationModetrue.txt=啟用
+info.de.obliterationModefalse.txt=未啟用
+info.de.miningMode.txt=挖掘模式
+info.de.changeMiningMode.txt=按Shift並右鍵來改變挖掘模式
+info.de.toggleOblit.txt=右鍵切換 刪除模式
+info.de.oblitInfo.txt=刪除模式 破壞不重要的方塊
+info.de.attackDamage.txt=攻擊傷害
+info.de.bonusHealthDamage.txt=生物生命值
+info.de.press.txt=按下
+info.de.toOpenConfigGUI.txt=開啟配置介面
+info.de.shiftToPause.txt=按住Shift停止滑動
+info.de.power.txt=力量
+
+info.de.sword.txt=你敵人的力量使這把劍變得更強了！
+
+info.de.safetyMatch.txt=生出一種不會把你的房子燒光的火
+
+info.draconiumChestInfo1.txt=空手Shift+右鍵
+info.draconiumChestInfo2.txt=以訪問顏色設定
+
+info.de.capacitorMode.txt=模式
+info.de.capacitorMode0.txt=未啟用
+info.de.capacitorMode1.txt=為快捷欄充電
+info.de.capacitorMode2.txt=為裝備和手上物品充電
+info.de.capacitorMode3.txt=為裝備和快捷欄充電
+info.de.changwMode.txt=Shift右鍵更改模式
+
+info.de.toolInventoryOblit.txt=垃圾過濾器和附魔
+info.de.toolInventoryEnch.txt=附魔
+
+info.de.hudDisplayConfigTxt1.txt=#### HUD顯示 ####
+info.de.hudDisplayConfigTxt2.txt=單擊拖動
+info.de.hudDisplayConfigTxt3.txt=###################
+info.de.hudDisplayConfigInfo1.txt=單擊並拖動HUD
+info.de.hudDisplayConfigInfo2.txt=改變位置
+
+
+info.de.manual.introTxt.txt=你想知道的，我們都有噢，嘿嘿嘿~
+info.de.manual.indexButton.txt=目錄
+info.de.manual.indexButtonTip.txt=去引導頁
+info.de.manual.contributors.txt=龍之研究的貢獻者
+info.de.manual.name.txt=名字
+info.de.manual.contribution.txt=貢獻
+info.de.manual.clickToGoToSite.txt=(點選名字開啟網站)
+info.de.manual.contributorsButton.txt=貢獻者
+info.de.manual.contributorsButtonInfo.txt=那些對龍之研究有貢獻的人
+info.de.shiftRightClickToActivate.txt=Shift + 右鍵來啟用
+info.de.blockRange.txt=方塊範圍
+info.de.status.txt=狀態
+info.de.statusActive.txt=啟用
+info.de.statusInactive.txt=停用
+info.de.selfPickup.txt=拾取自己的掉落物
+info.de.selfPickupAlways.txt=總是
+info.de.selfPickupDelay.txt=延遲
+info.de.selfPickupNever.txt=從不
+
+info.de.manual.nav1.txt=導航提示
+info.de.manual.nav2.txt=按退格鍵(Backspace)回到上一頁
+info.de.manual.nav3.txt=按住Shift快速瀏覽
+
+info.de.dislocatorInhibitor.txt=磁力遮蔽器
+
+//Energy Net
+info.de.modeIn.txt=模式：輸入
+info.de.modeOut.txt=模式：輸出
+info.de.5xTransfer.txt= (5x 轉移)
+info.de.connections.txt=連線
+info.de.wirelessConnections.txt=無線連線
+
+
+info.infusedObsidian.txt=這個方塊可以抵抗凋靈
+
+enchantment.draconicevolution.reaperEnchant=收割者
+
+nei.recipe.reactor.category=反應堆
+
+//Achievements ----------------------------------------------------------------------------------------------------------------------------------------
+draconicevolution.achievementPage.name=龍之研究
+
+achievement.draconicevolution.dust=開始做大事!
+achievement.draconicevolution.dust.desc=收集龍之塵
+achievement.draconicevolution.ingot=比鑽石更好!
+achievement.draconicevolution.ingot.desc=把龍之塵提煉成龍錠
+achievement.draconicevolution.core=從這兒開始
+achievement.draconicevolution.core.desc=合成龍之核心
+achievement.draconicevolution.core2=不夠好!
+achievement.draconicevolution.core2.desc=把龍之核心升級成雙足飛龍核心
+
+achievement.draconicevolution.dislocator=末影人一窮二白
+achievement.draconicevolution.dislocator.desc=造一個錯位器
+achievement.draconicevolution.chest=沒有足夠的儲存空間!
+achievement.draconicevolution.chest.desc=造一個龍箱
+achievement.draconicevolution.particles=噢，火花!
+achievement.draconicevolution.particles.desc=創造一個粒子發生器
+achievement.draconicevolution.weather=誰需要大自然母親
+achievement.draconicevolution.weather.desc=造一個天氣控制機
+achievement.draconicevolution.dissenchanter=只是我想要的!
+achievement.draconicevolution.dissenchanter.desc=造一個解咒器.
+achievement.draconicevolution.ecore=它繼續走啊，走啊，走啊
+achievement.draconicevolution.ecore.desc=建一個能量核心
+achievement.draconicevolution.wpick=沒有什麼像鑽石
+achievement.draconicevolution.wpick.desc=升級成雙足飛龍精華
+achievement.draconicevolution.wshovel=專業挖掘機!
+achievement.draconicevolution.wshovel.desc=造一把龍之鏟
+achievement.draconicevolution.wsword=更好的武器裝備
+achievement.draconicevolution.wsword.desc=造一把雙足飛龍劍
+achievement.draconicevolution.wbow=狙擊手已準備!
+achievement.draconicevolution.wbow.desc=造一把雙足飛龍弓
+achievement.draconicevolution.whelm=自由呼吸!
+achievement.draconicevolution.whelm.desc=造一個龍之頭盔
+achievement.draconicevolution.wchest=高抗性
+achievement.draconicevolution.wchest.desc=造一件龍胸甲
+achievement.draconicevolution.wleggs=風一樣奔跑
+achievement.draconicevolution.wleggs.desc=造一條龍之護腿
+achievement.draconicevolution.wboots=羽落術
+achievement.draconicevolution.wboots.desc=造一雙龍之靴
+achievement.draconicevolution.resurrection=滿是激情!
+achievement.draconicevolution.resurrection.desc=造一個復活石
+achievement.draconicevolution.dislocator2=末影規則!
+achievement.draconicevolution.dislocator2.desc=做一個高階錯位寶石
+achievement.draconicevolution.flux=1.21 吉咖瓦特！
+achievement.draconicevolution.flux.desc=造一個雙足飛龍通量電容器
+
+achievement.draconicevolution.heart=龍之心
+achievement.draconicevolution.heart.desc=殺龍挖心
+achievement.draconicevolution.awakenedblock=這全是儀式！
+achievement.draconicevolution.awakenedblock.desc=創造覺醒龍力
+achievement.draconicevolution.core3=錢與權
+achievement.draconicevolution.core3.desc=雙足飛龍核心升級到覺醒等級
+
+achievement.draconicevolution.dhelm=像魚一樣遨遊海洋!
+achievement.draconicevolution.dhelm.desc=升級成龍之頭盔
+achievement.draconicevolution.dChest=像鷹一樣翱翔天藍色!
+achievement.draconicevolution.dChest.desc=造一件龍之胸甲
+achievement.draconicevolution.dleggs=像一隻蝴蝶翩翩起舞
+achievement.draconicevolution.dleggs.desc=造一條龍之護腿
+achievement.draconicevolution.dboots=越來越高!
+achievement.draconicevolution.dboots.desc=升級到龍之靴。
+
+achievement.draconicevolution.dpick=我即是權威!
+achievement.draconicevolution.dpick.desc=造一把龍之鎬
+achievement.draconicevolution.dshovel=移動山脈
+achievement.draconicevolution.dshovel.desc=升級雙足飛龍鏟
+achievement.draconicevolution.daxe=科學地砍樹!
+achievement.draconicevolution.daxe.desc=造一個龍之斧
+achievement.draconicevolution.dsword=像蜜蜂一樣刺!
+achievement.draconicevolution.dsword.desc=升級到龍之劍
+achievement.draconicevolution.dbow=你在和力量共舞!
+achievement.draconicevolution.dbow.desc=造一把龍之弓
+achievement.draconicevolution.flux2=無可披靡的宇宙力量啊!細碎的生活空間!
+achievement.draconicevolution.flux2.desc=造出龍之通量電容器
+achievement.draconicevolution.dhoe=把它踢上去!
+achievement.draconicevolution.dhoe.desc=創造龍之鋤
+
+achievement.draconicevolution.dstaff=與你的力量結合起來!
+achievement.draconicevolution.dstaff.desc=創造一把龍權之杖
+
+achievement.draconicevolution.soul=收割者 ! ! ! ! !
+achievement.draconicevolution.soul.desc=獲得生物的靈魂
+achievement.draconicevolution.sundial=計時員
+achievement.draconicevolution.sundial.desc=造出日晷儀，控制晝夜
+achievement.draconicevolution.manual=智慧已經滿了!
+achievement.draconicevolution.manual.desc=創造龍之研究資訊板
+
+//InfoHelper ----------------------------------------------------------------------------------------------------------------------------------------
+info.de.tier.txt=等級
+info.de.charge.txt=充能
+info.de.hold.txt=按住
+info.de.shift.txt=Shift
+info.de.forDetails.txt=檢視有關詳細資訊
+info.de.ctrl.txt=CTRL
+info.de.forUpgrades.txt=檢視有關屬性
+info.de.useUpgradeModifier.txt=用升級調整器加強那些屬性！
+
+//Lore ----------------------------------------------------------------------------------------------------------------------------------------
+item.draconicevolution:wyvernPickaxe.lore=2普通的鎬子太菜了\n透過使用龍力，你提升了開採面積和開採速度
+item.draconicevolution:wyvernShovel.lore=2一次一個方塊？不是龍力的風格！\n更快、面積更大，這只是一個開始！
+item.draconicevolution:wyvernSword.lore=2龍力開始解放劍的潛力\n劍的範圍和攻擊力提高了
+item.draconicevolution:wyvernBow.lore=2向普通的弓裡注入龍力\n使你能夠射得更快、更強
+
+item.draconicevolution:wyvernHelm.lore=2比鑽石更強大\n現在你可以承受更強的打擊了
+item.draconicevolution:wyvernChest.lore=2透過向盔甲裡注入龍力\n你大大增強了它的防禦力
+item.draconicevolution:wyvernLeggs.lore=2向鑽石護腿中注入龍力後\n你感覺自己進一步變強變快了
+item.draconicevolution:wyvernBoots.lore=2你學會了改良靴子\n龍力似乎讓你更加身手敏捷
+
+item.draconicevolution:draconicPickaxe.lore=2細心的研究\n為你帶來了挖掘更大區域的能力
+item.draconicevolution:draconicAxe.lore=2在大量的試錯後\n你現在可以一次砍下一整棵樹
+item.draconicevolution:draconicShovel.lore=2效率進一步提升\n你現在可以挖更大的區域了
+item.draconicevolution:draconicHoe.lore=2龍力甚至能改善農業\n只需一次點選就能耕好整個農田
+item.draconicevolution:draconicSword.lore=2雙足飛龍是不錯，但龍力武器\n攻擊力更加強大，還能擊中更多的敵人
+item.draconicevolution:draconicBow.lore=2頂級的距離，更快的射擊頻率\n還有爆炸性的箭頭，夫復何求？
+
+item.draconicevolution:draconicHelm.lore=2畏懼黑夜的日子一去不復返\n你現在無論什麼時候都看得見了
+item.draconicevolution:draconicChest.lore=2龍心使你變得更加強大\n還擁有了飛行的能力
+item.draconicevolution:draconicLeggs.lore=2盔甲強度，更上一層樓\n龍的靈魂保護著你，使你跑得更快
+item.draconicevolution:draconicBoots.lore=2更強，更快，更好\n龍的心臟讓你能夠跳得更高
+
+item.draconicevolution:draconicDistructionStaff.lore=2在漫長而艱辛的旅程後，你發現了真正的力量！\n一把工具就能執行一切任務：挖礦、戰鬥和死亡！
+
+//Entity ----------------------------------------------------------------------------------------------------------------------------------------
+entity.DraconicEvolution.EnderDragon.name=上古末影龍
+entity.DraconicEvolution.ChaosGuardian.name=混沌守衛
+
+
+//KeyBinding ----------------------------------------------------------------------------------------------------------------------------------------
+key.placeItem=把物品放置到世界裡
+key.toolConfig=工具和裝甲配置 GUI
+key.toolProfileChange=更改工具配置
+key.toggleFlight=切換創造飛航模式
+key.toggleMagnet=開關物品錯位器
+key.toggleMagnetSelfPickup=切換磁鐵拾取功能
+
+//Damage ----------------------------------------------------------------------------------------------------------------------------------------
+death.attack.chaos=%1$s被混沌守衛撕裂
+death.attack.damage.de.fusionExplode=%1$s被爆發的高能量融合物蒸發
+death.attack.chaosBurst=%1$s被暗能量毀滅
+
+death.attack.de.GuardianFireball=%1$s被混沌守衛燃燒炸死
+death.attack.de.GuardianEnergyBall=%1$s像一隻小蟲子一樣被混沌守衛擊潰
+death.attack.de.GuardianChaosBall=%1$s被混沌守衛的暗能量覆滅
+
+death.attack.chaosImplosion=%1$s被拉進一個能量漩渦後泯滅了
+death.attack.chrystalMoved=%1$s太頑皮而被龍之研究懲罰了！
+
+death.attack.administrative.kill=%1$s被不可阻止的力量打倒了
+
+//Buttons ----------------------------------------------------------------------------------------------------------------------------------------
+button.de.chestAutoFeed0.txt=關閉.關閉自動補充燃料
+button.de.chestAutoFeed1.txt=填滿.保持堆疊處於飽和狀態
+button.de.chestAutoFeed2.txt=鎖定.只從庫存放入當前精煉的物品
+button.de.chestAutoFeed3.txt=補充所有.把所有可精煉的物品新增
+button.de.chestLockOutput.txt=鎖定輸出.封鎖物品被插入最後五個槽
+button.de.previous.txt=<==
+button.de.next.txt===>
+button.de.backToIndex.txt=返回至索引頁
+button.de.back.txt=後退
+button.de.goToIndex.txt=索引頁
+button.de.addNew.txt=增加傳送點
+button.de.rename.txt=重新命名
+button.de.commit.txt=提交
+button.de.setHere.txt=設定為當前座標
+button.de.remove.txt=移除
+button.de.addFuel.txt=新增燃料
+button.de.cancel.txt=取消
+button.de.UP.txt=上
+button.de.DOWN.txt=下
+button.de.toggleHidden.txt=切換隱藏
+
+//Item Config Buttons
+button.de.ArmorNVActive.name=夜視
+button.de.ArmorNVLock.name=鎖定夜視
+button.de.ArmorFlightLock.name=鎖定飛行
+button.de.ArmorInertiaCancellation.name=無慣性
+button.de.ArmorSpeedMult.name=速度調整器
+button.de.ArmorJumpMult.name=跳躍調整器
+button.de.ArmorHillStep.name=自動跳躍
+button.de.ArmorSprintOnly.name=行走時減弱
+button.de.ArmorFlightSpeedMult.name=飛行速度調整器
+button.de.ToolDigMultiplier.name=挖掘速度
+button.de.ToolDigAOE.name=大小
+button.de.ToolDigDepth.name=挖掘深度
+button.de.WeaponAttackAOE.name=範圍攻擊
+button.de.ToolVoidJunk.name=虛空垃圾
+button.de.AxeTreeMode.name=科學的砍樹
+button.de.BaseSafeAOE.name=範圍挖掘安全模式
+button.de.VerticalAcceleration.name=垂直加速度
+button.de.EffectiveOnSprint.name=疾跑時生效
+button.de.GogglesOfRevealing.name=神奇的感覺
+button.de.ApiaristArmor.name=養蜂員護甲
+button.de.NaturalistArmor.name=自然科學家視角
+button.de.HazmatElectrical.name=電氣危險防護
+button.de.HazmatBiological.name=生物危害防護
+button.de.HazmatFrost.name=霜凍危害防護
+button.de.HazmatGas.name=氣體危害防護
+button.de.HazmatHeat.name=高溫危害防護
+button.de.HazmatRadiological.name=輻射危害防護
+button.de.BowArrowSpeedModifier.name=弓箭速率調整器
+button.de.BowAutoFire.name=自動開火
+button.de.BowArrowDamage.name=基本傷害
+button.de.BowExplosionPower.name=爆炸性的力量
+button.de.BowShockWavePower.name=激波力量
+button.de.BowEnergyBolt.name=龍火之矢
+button.de.BowZoomModifier.name=放大
+button.de.Enabled.name=啟用
+button.de.MagnetSneak.name=潛行時禁用
+
+button.de.reactorCharge.txt=反應堆充能
+button.de.reactorStart.txt=啟用
+button.de.reactorStop.txt=開始關機
+button.de.stats.txt=顯示資料
+button.de.statsShow.txt=顯示
+button.de.statsHide.txt=隱藏
+button.de.scaleUp.txt=規模增大 +
+button.de.scaleDown.txt=規模減小 -
+button.de.fadeMode0.txt=淡出: 關閉
+button.de.fadeMode1.txt=淡出: 25%
+button.de.fadeMode2.txt=淡出: 50%
+button.de.fadeMode3.txt=淡出: 75%
+button.de.fadeMode4.txt=淡出: 滿
+button.de.rotate.txt=旋轉
+button.de.numeric.txt=數字:
+
+//Gui ----------------------------------------------------------------------------------------------------------------------------------------
+gui.de.numbers=%s
+
+gui.de.charges=充能
+gui.de.rain.on=開啟雨雪
+gui.de.rain.off=關閉雨雪
+gui.de.rain.storm=雷暴天氣
+
+gui.de.weatherController.main.title=天氣控制器
+gui.de.playerDetector.main.title=高階玩家探測器
+gui.de.grinder.main.title=研磨機
+gui.de.energyInfuser.main.title=能量注入器
+gui.de.generator.main.title=發電機
+gui.de.dissEnchanter.main.title=祛魔臺
+gui.de.draconiumChest.main.title=龍箱
+gui.de.upgradeModifier.main.title=升級調整器
+gui.de.dislocatorInhibitor.main.title=錯位寶石抑制器
+
+gui.de.playerDetector.whiteList=白名單
+gui.de.playerDetector.blackList=黑名單
+gui.de.playerDetector.camouflage=偽裝
+gui.de.playerDetector.invertOutput=反轉輸出
+gui.de.playerDetector.back=返回
+gui.de.playerDetector.pressEnter=按下Enter鍵儲存
+gui.de.playerDetector.range=範圍
+gui.de.playerDetector.outputInvert=反轉輸出：%s
+
+gui.de.dissEnchanter.itemDamage1=物品
+gui.de.dissEnchanter.itemDamage2=傷害: %s
+gui.de.dissEnchanter.cost=消耗：%s
+
+gui.de.flowGate.name=流控制
+gui.de.flowGatePartialSignal.name=實際流量將在兩個給定的值之間，取決於通入紅石訊號強度
+gui.de.flowGateCurrentFlow.name=流動
+gui.de.flowGateRSLow.name=紅石訊號低
+gui.de.flowGateRSHigh.name=紅石訊號高
+gui.de.flowGateOverridden.txt=電腦覆蓋啟用
+gui.de.increment.name=增加值
+gui.de.decrement.name=衰減值
+gui.de.ctrlAndShift.name=您可以使用Ctrl和Shift調整增加的數量
+gui.de.pressOrScroll.name=按下或滾動
+gui.de.tempLoad.name=溫度負載係數
+gui.de.mass.name=核心質量
+gui.de.genRate.name=產生效率
+gui.de.fieldInputRate.name=場輸入率
+gui.de.fuelConversion.name=燃料轉化率
+
+gui.de.particleGenerator.random.name=隨機：
+gui.de.particleGenerator.red.name=紅：
+gui.de.particleGenerator.green.name=綠：
+gui.de.particleGenerator.blue.name=藍：
+gui.de.particleGenerator.motionX.name=移動 X：
+gui.de.particleGenerator.motionY.name=移動 Y：
+gui.de.particleGenerator.motionZ.name=移動 Z：
+gui.de.particleGenerator.scale.name=放縮：
+gui.de.particleGenerator.life.name=生命（T）：
+gui.de.particleGenerator.spawnX.name=生成 X：
+gui.de.particleGenerator.spawnY.name=生成 Y：
+gui.de.particleGenerator.spawnZ.name=生成 Z：
+gui.de.particleGenerator.delay.name=延遲：
+gui.de.particleGenerator.fade.name=淡出：
+gui.de.particleGenerator.gravity.name=重力：
+gui.de.particleGenerator.pitch.name=俯仰：
+gui.de.particleGenerator.yaw.name=偏航：
+gui.de.particleGenerator.rotation.name=旋轉：
+gui.de.particleGenerator.length.name=長度：
+
+gui.de.particleGenerator.main.title=粒子發生器
+gui.de.particleGenerator.beam.title=光束發生器
+gui.de.particleGenerator.info.title=資訊
+
+gui.de.particleGenerator.hold.name=按住：
+gui.de.particleGenerator.info.name=i
+gui.de.particleGenerator.back.name=後退
+gui.de.particleGenerator.page.name=頁碼：%d
+gui.de.particleGenerator.blockCollision.name=方塊碰撞: %s
+gui.de.particleGenerator.particleSelected.name=選擇的粒子：%d
+gui.de.particleGenerator.enabled.name=啟用：%s
+gui.de.particleGenerator.renderCore.name=渲染核心：%s
+gui.de.particleGenerator.saveSettings.name=記錄數值
+
+gui.de.particleGenerator.info.1=  粒子發生器是可以讓你自由建立粒子特效的裝飾性裝置。\n  這個裝置用起來非常簡單，你只要修改介面上的一些欄位(變數)就能改變生成的粒子的樣式和行為。\n  這個方塊仍在開發中，新的特性和粒子可能會在未來的版本中加入。\n  下面的列表包含了所有的欄位以及它們的用途。
+gui.de.particleGenerator.info.2=  首先需要關注的是大多數字段後都跟著一個隨機值，可以給欄位加上一個從0到最大(或者最小)的隨機值。\n  -開頭的三個欄位(紅，綠，藍)控制粒子的顏色。大多數人應該都熟悉這套顏色系統，如果不熟悉的話就百度一下。注意：每個顏色的最大值不能超過255，因此顏色欄位限制了隨機值。例如如果顏色值被設定為255，而隨機值被設定為20，那麼實際值永遠還是255。
+gui.de.particleGenerator.info.3=  - 接下來的三個欄位(移動X，Y，Z）控制粒子的方向和移動速度。\n  -“生存時間”欄位設定粒子消失前能存在多久(單位tick)。\n  -“放縮”欄位設定粒子的大小。\n  -接下來的三個欄位(生成 X，Y，Z)控制粒子的生成位置(相對於粒子發生器的位置)。
+gui.de.particleGenerator.info.4=  -“延遲”欄位設定每個粒子生成的延遲時間(單位tick)，例如1=20/s，20=1/s，100=1/5s。\n  -“淡出”欄位設定粒子消失時的淡出時間(單位tick)。注意：這會加到粒子的生存時間上。\n  -“重力”欄位設定粒子如何被重力影響。\n  -“方塊碰撞”決定粒子是否會與方塊碰撞。\n  -“選擇的粒子”可以在不同的可選的粒子間切換。 
+gui.de.particleGenerator.info.5.title=紅石控制\n\n
+gui.de.particleGenerator.info.5=  預設情況下需要紅石訊號來讓發生器工作。\n 然而如果你空手按住shift右擊發生器，會讓它進入反轉模式。\n 發生器的8個角上的小方塊表示了當前的紅石模式。
+gui.de.particleGenerator.info.6.title=計算機控制\n\n
+gui.de.particleGenerator.info.6=  發生器可以被計算機控制。\n  它提供了一些相對直白的API：\n\n  setGeneratorProperty(property, value)\n  getGeneratorState()\n  resetGeneratorState()
+gui.de.particleGenerator.info.7=  發生器的整體狀態可以透過getGeneratorState獲得，使用setGeneratorProperty可以一次修改一個屬性。屬性名字是字串，而且幾乎都與英文版 GUI 上的標籤相同。
+
+gui.de.insert.txt=插入
+gui.de.extract.txt=提取
+gui.de.fuel.txt=燃料
+gui.de.coreMass.txt=核心質量
+gui.de.reactionTemp.txt=核心溫度
+gui.de.fieldStrength.txt=核心場強
+gui.de.energySaturation.txt=能量飽和度
+gui.de.fuelConversion.txt=燃料轉換水平
+gui.de.status.txt=狀態
+gui.de.status0.txt=離線
+gui.de.status1.txt=充電中
+gui.de.status1_5.txt=已充滿
+gui.de.status2.txt=線上
+gui.de.status3.txt=停止中
+gui.de.status4.txt=無效的設定
+gui.de.internalStorage.txt=內部能量
+gui.de.itemStorage.txt=物品儲存
+gui.de.reacTempLoadFactor.txt=這表明容器中的負載，負載越大，反應堆溫度越高。反應堆溫度超過8,000這個數值就會快速增加
+gui.de.reacCoreMass.txt=這裡顯示了反應堆中的燃料，當你新增或取出燃料後這個數值會改變。
+gui.de.reacGenRate.txt=這是當前的反應堆的效率。
+gui.de.reacInputRate.txt=這是確切的生產效率，當反應堆場強增大時，這個數值會上升。
+gui.de.reacConversionRate.txt=這是反應堆目前使用的燃料的最高效率，隨著能量飽和度的增加效率將會降低。
+gui.de.noCoresInInventory0.txt=你的揹包裡沒有龍芯
+gui.de.noCoresInInventory1.txt=你的揹包裡沒有雙足飛龍核心
+gui.de.noCoresInInventory2.txt=你的揹包裡沒有覺醒核心
+gui.de.noCoresInInventory3.txt=你的揹包裡沒有混沌核心
+gui.de.addCore.txt=新增核心
+gui.de.removeCore.txt=移除核心
+gui.de.cores.txt=核心
+gui.de.cap.txt=Cap
+gui.de.installed.txt=已安裝
+gui.de.free.txt=剩餘
+gui.de.max.txt=最大
+gui.de.on.txt=開
+gui.de.off.txt=關
+gui.de.basePoints.txt=基本點
+gui.de.maxPoints.txt=最大點
+gui.de.pointCost.txt=點數消耗
+gui.de.value.txt=價值
+gui.de.points.txt=點數
+gui.de.point.txt=點數
+gui.de.itemInventory.txt=物品揹包
+gui.de.configureGuiElements.txt=配置HUD詳情
+gui.de.hudDisplaySettings.txt=HUD顯示設定
+gui.de.shieldDisplaySettings.txt=護甲顯示設定
+gui.de.clickAndDragPurpleBoxes.txt=點住紫色的視窗來移動
+gui.de.profile.txt=簡介
+gui.de.maxDamage.txt=最大傷害
+gui.de.rfPerShot.txt=RF/每射一次
+
+gui.de.RFCapacity.txt=RF容量
+gui.de.DigSpeed.txt=挖掘速度
+gui.de.DigAOE.txt=範圍挖掘
+gui.de.DigDepth.txt=挖掘深度
+gui.de.AttackDamage.txt=攻擊傷害
+gui.de.AttackAOE.txt=範圍攻擊
+gui.de.ArrowDamage.txt=基本傷害
+gui.de.DrawSpeed.txt=拉弓速度
+gui.de.ArrowSpeed.txt=弓箭速率
+gui.de.ShieldCapacity.txt=護甲容量
+gui.de.ShieldRecovery.txt=護甲回覆
+gui.de.MoveSpeed.txt=移動速度
+gui.de.JumpBoost.txt=跳躍提升
+
+gui.de.dislocatorInhibitor.range.txt=範圍：
+gui.de.dislocatorInhibitor.tooltip.range.increase.txt=增加範圍
+gui.de.dislocatorInhibitor.tooltip.range.decrease.txt=減少範圍
+gui.de.dislocatorInhibitor.tooltip.activity.always.txt=總是啟用
+gui.de.dislocatorInhibitor.tooltip.activity.with.txt=紅石訊號啟用
+gui.de.dislocatorInhibitor.tooltip.activity.without.txt=無紅石訊號時啟用
+gui.de.dislocatorInhibitor.tooltip.activity.never.txt=總是停用
+gui.de.dislocatorInhibitor.tooltip.activity.cycle.txt=點選迴圈切換啟用控制
+gui.de.dislocatorInhibitor.tooltip.whitelist.txt=過濾器內的物品不會被磁鐵吸走
+gui.de.dislocatorInhibitor.tooltip.blacklist.txt=只有過濾器裡的物品才會被磁鐵吸走
+
+//Potions ----------------------------------------------------------------------------------------------------------------------------------------
+potion.de.effect.txt=效果
+potion.de.flight.txt=飛行
+potion.de.highStep.txt=自動跳躍
+potion.de.swiftness.txt=速度
+potion.de.fireImmune.txt=抗火
+potion.de.jumpBoost.txt=跳躍提升

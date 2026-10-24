@@ -1,0 +1,6 @@
+item.Hologlasses.name=全息眼鏡
+item.fluidRenderFakeItem.name=假流體物品
+key.categories.holoinventory=全息庫存
+hologlasses.tooltip.put_in_tinkers_mask_slot=你可以把它放進匠魂的面部槽位
+hologlasses.tooltip.hold_shift=<按住Shift>
+hologlasses.tooltip.adds_holographic=為所有帶有儲存空間的方塊新增全息庫存顯示

@@ -1,0 +1,13 @@
+tile.witchesovenexidle.name=巫師烤爐
+tile.witchesovenexburning.name=工作中的巫師烤爐
+tile.fumefunnelex.name=燻氣漏斗
+tile.filteredfumefunnelex.name=過濾強化型燻氣漏斗
+
+WitcheryExtras.nei.power=能量要求: %s
+
+witchery.pott.attraho=牽引咒
+
+gui.witcheryextras.distilleryidle.title=蒸餾室
+gui.witcheryextras.spinningwheel.title=紡車
+gui.witcheryextras.witchesoven.title=巫師烤爐
+gui.witcheryextras.leonardsurn.title=半羊人之罐

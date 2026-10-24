@@ -1,0 +1,39 @@
+# Keys
+key.nutrition=開啟營養值介面
+
+# GUI
+gui.nutrition:nutrition_title=營養
+gui.nutrition:close=關閉
+gui.nutrition:updating=更新中...
+
+# Nutrients
+nutrient.nutrition:grain=穀物
+nutrient.nutrition:fruit=水果
+nutrient.nutrition:vegetable=蔬菜
+nutrient.nutrition:protein=蛋白質
+nutrient.nutrition:dairy=乳製品
+
+# Tooltips
+tooltip.nutrition:nutrients=營養值：
+
+# Potions
+potion.nutrition:toughness=強壯
+potion.nutrition:nourished=營養充足
+potion.nutrition:malnourished=營養不良
+
+#Commands
+command.nutrition:usage=營養學可用指令：help, get, set, add, subtract, reset, reload
+command.nutrition:help.1=營養學幫助頁面：
+command.nutrition:help.2=/nutrition get <玩家名> [營養型別] - 列出指定玩家的營養資訊，可指定一個營養型別。
+command.nutrition:help.3=/nutrition set <玩家名> <營養型別> <營養值> - 設定玩家的營養值。
+command.nutrition:help.4=/nutrition add <玩家名> <營養型別> <營養值> - 增加玩家的營養值。
+command.nutrition:help.5=/nutrition subtract <玩家名> <營養型別> <營養值> - 減少玩家的營養值。
+command.nutrition:help.6=/nutrition reset <玩家名> [營養型別] - 重置玩家的營養值，可指定一個營養型別。
+command.nutrition:help.7=/nutrition reload - 從配置檔案中過載營養值和藥水效果
+command.nutrition:get=%s: %s%%
+command.nutrition:get_all_header=%s的營養值
+command.nutrition:get_all_line=- %s: %s%%
+command.nutrition:set=已將 %2$s 的 '%1$s' 營養設定為 %s%%
+command.nutrition:reset=已重置 %2$s 的 '%1$s' 營養
+command.nutrition:reset_all=已重置%s的所有營養值
+command.nutrition:reload=已過載食物營養和營養效果

@@ -1,0 +1,122 @@
+key.hodgepodge.category=大雜燴
+key.fastBlockPlacing.desc=快速方塊放置
+key.fastBlockPlacing.enabled=§f快速方塊放置 §a啟用
+key.fastBlockPlacing.disabled=§f快速方塊放置 §c禁用
+
+tile.dirt.name=泥土
+tile.sapling.name=樹苗
+tile.sand.name=沙子
+tile.flower1.name=花
+tile.flower2.name=花
+tile.stoneSlab.name=臺階
+tile.monsterStoneEgg.name=石頭怪蛋
+tile.woodSlab.name=臺階
+tile.cobbleWall.name=牆
+tile.quartzBlock.name=石英塊
+tile.clayHardenedStained.name=陶瓦
+tile.woolCarpet.name=地毯
+tile.doublePlant.name=大型植物
+
+item.dyePowder.name=染料
+item.skull.name=骷髏
+item.fish.name=魚
+
+entity.Skeleton.wither.name=凋靈骷髏
+entity.MinecartRideable.name=礦車
+entity.MinecartChest.name=運輸礦車
+entity.MinecartFurnace.name=動力礦車
+entity.MinecartTNT.name=TNT礦車
+entity.MinecartHopper.name=漏斗礦車
+entity.MinecartCommandBlock.name=命令方塊礦車
+
+commands.time.get=當前世界時間為%s（一天中的時間：%s）
+commands.time.usageWithGet=/time <set|add> <數值> 或 /time get
+
+hodgepodge.soundsmenu.refreshsounds=重新整理音訊
+hodgepodge.soundsmenu.enhancements=增強音效設定……
+hodgepodge.soundsmenu.enhancements.title=增強音效
+hodgepodge.soundsmenu.enhancements.lwjgl3ify=HRTF、輸出限制與立體聲空間化功能需要 lwjgl3ify（Java 17+）方可使用。
+hodgepodge.soundsmenu.enhancements.reload=重新整理聲音，以對正在播放的聲音應用混響效果。
+hodgepodge.soundsmenu.option=%s：%s
+hodgepodge.soundsmenu.hrtf=耳機HRTF
+hodgepodge.soundsmenu.hrtf.tooltip=啟用耳機專屬音訊演算法，模擬來自頭頂、腳下、身前及身後的全方位立體音效。推薦佩戴耳機使用；揚聲器播放可能會出現空洞感。預設狀態跟隨 OpenAL 裝置設定。需依賴 lwjgl3ify 模組。
+hodgepodge.soundsmenu.output_limiter=輸出限制
+hodgepodge.soundsmenu.output_limiter.tooltip=僅在即將產生爆音時，自動衰減混音總音量，避免機器轟鳴、爆炸等多個巨響重疊時造成刺耳雜音。預設跟隨 OpenAL 裝置設定。需依賴 lwjgl3ify 模組。
+hodgepodge.soundsmenu.environmental_reverb=環境混響
+hodgepodge.soundsmenu.environmental_reverb.tooltip=根據你所處空間的封閉程度，為定位聲效新增回聲，讓洞穴與室內聽起來不那麼幹癟。更改此設定後，請重新整理音訊，以更新正在播放的音效。
+hodgepodge.soundsmenu.reverb_strength=混響量
+hodgepodge.soundsmenu.reverb_strength.tooltip=控制環境回聲可以變得多強。更改會實時生效。預設值：30%%。
+hodgepodge.soundsmenu.downmix_stereo=立體聲縮混
+hodgepodge.soundsmenu.downmix_stereo.tooltip=在載入時，將位置立體聲效轉換為單聲道。這會將其解碼後的記憶體佔用減半，並讓舊版 OpenAL 能在 3D 空間中定位它們。流式音樂和唱片將保持不變。重新整理聲音以過載快取的音訊。
+hodgepodge.soundsmenu.spatialize_stereo=空間化立體聲
+hodgepodge.soundsmenu.spatialize_stereo.tooltip=讓定位聲效保持立體聲，同時允許新版 OpenAL 在 3D 空間中定位它們。需要安裝 lwjgl3ify，且在受支援時優先於“立體聲縮混”。更改此設定後請重新整理音訊。
+hodgepodge.soundsmenu.output_device=輸出裝置
+hodgepodge.soundsmenu.output_device.title=選擇輸出裝置
+hodgepodge.soundsmenu.output_device.default=系統預設
+hodgepodge.soundsmenu.output_device.tooltip=選擇 OpenAL 播放裝置。「System Default」會跟隨作業系統的變更。需要 lwjgl3ify 與新版 OpenAL Soft。
+hodgepodge.soundsmenu.output_device.failed=無法切換到該輸出裝置。
+hodgepodge.soundsmenu.default=預設
+hodgepodge.bed_respawn.msg=已設定重生點
+hodgepodge.menu.mod_options=模組選項...
+
+hodgepodge.chat.huge_message.logged=§cSomeone tried to send you a huge chat message that would kick you. Ask your server admin to see details. Please provide these info while reporting: Incident ID %s§c. Start of original message: %s
+hodgepodge.chat.huge_message.unlogged=§cSomeone tried to send you a huge chat message that would kick you. Ask your server admin to turn on logHugeChat in HodgePodge if you cannot identify the source of this and this keeps happening. Start of original message: %s
+
+bettermodlist.sort.normal=正常
+bettermodlist.sort.a_to_z=A-Z
+bettermodlist.sort.z_to_a=Z-A
+bettermodlist.gui.modlistinfo1=哦天哪一切都不一樣了!
+bettermodlist.gui.modlistinfo2=全新的設計來自於:
+
+hodgepodge.debug.advanced_tooltips.enabled=高階物品提示：§a開啟
+hodgepodge.debug.advanced_tooltips.disabled=高階物品提示：§c關閉
+hodgepodge.debug.hitboxes.enabled=碰撞箱：§a開啟
+hodgepodge.debug.hitboxes.disabled=碰撞箱：§c關閉
+hodgepodge.debug.pause_focus.enabled=失去焦點時暫停：§a開啟
+hodgepodge.debug.pause_focus.disabled=暫停時失去焦點：§c關閉
+hodgepodge.debug.reload_chunks.message=已重新載入所有區塊。
+hodgepodge.debug.reload_pack.message=已在 %s 秒內重新載入資源包。
+hodgepodge.debug.crash.count.0=已按下 F3 + C。遊戲將在 6 秒後崩潰，鬆開則取消。
+hodgepodge.debug.crash.count.1=5秒後崩潰...
+hodgepodge.debug.crash.count.2=4秒後崩潰...
+hodgepodge.debug.crash.count.3=3秒後崩潰...
+hodgepodge.debug.crash.count.4=2秒後崩潰...
+hodgepodge.debug.crash.count.5=1秒後崩潰...
+hodgepodge.debug.crash.count.6=時間到，按下任意按鍵以使得遊戲崩潰。
+hodgepodge.debug.crash.cancel=崩潰已取消。
+hodgepodge.debug.copy_location.message=已複製座標到剪貼簿。
+
+hodgepodge.debug.help.message=按鍵繫結：
+hodgepodge.debug.help.0=F3 = 開啟除錯螢幕
+hodgepodge.debug.help.1=Shift + F3 = 開啟除錯螢幕並顯示效能分析器圖表
+hodgepodge.debug.help.angelica=Alt + F3 = [Angelica] 開啟除錯螢幕並顯示FPS/TPS圖表
+hodgepodge.debug.help.2=F3 + A = 重新載入區塊
+hodgepodge.debug.help.3=F3 + B = 顯示碰撞箱
+hodgepodge.debug.help.4=F3 + C = 複製當前位置為 /cofh tpx 命令，或按住 6 秒使遊戲崩潰
+hodgepodge.debug.help.5=F3 + D = [Hodgepodge] 清空聊天框
+hodgepodge.debug.help.6=F3 + H = 切換高階提示框
+hodgepodge.debug.help.7=F3 + P = 失去焦點時暫停
+hodgepodge.debug.help.8=F3 + Q = [Hodgepodge] 顯示此列表
+hodgepodge.debug.help.9=F3 + S/T = 重新載入資源包
+hodgepodge.debug.help.etfuturum=F3 + F4 = [Et-Futurum-Requiem] 開啟遊戲模式切換器
+hodgepodge.debug.help.nei.1=%s = [NEI] 開啟怪物生成覆蓋層
+hodgepodge.debug.help.nei.2=%s = [NEI] 開啟區塊覆蓋層
+
+hodgepodge.disconnect.server_shutdown=伺服器已關閉
+hodgepodge.disconnect.idle=你閒置太久了！
+hodgepodge.disconnect.illegal_stance=非法姿態
+hodgepodge.disconnect.illegal_position=非法位置
+hodgepodge.disconnect.flying=此伺服器未啟用飛行
+hodgepodge.disconnect.illegal_characters=聊天中包含非法字元
+hodgepodge.disconnect.invalid_entity=嘗試攻擊無效的實體
+hodgepodge.disconnect.hardcore_death=你已死亡。遊戲結束了，老兄，遊戲結束了！
+hodgepodge.disconnect.logged_in_elsewhere=你已從其他地點登入
+hodgepodge.disconnect.not_whitelisted=你不在此伺服器的白名單中！
+hodgepodge.disconnect.server_full=伺服器已滿！
+hodgepodge.disconnect.name_taken=該名稱已被使用。
+hodgepodge.disconnect.login_timeout=登入逾時
+hodgepodge.disconnect.banned=你已被此伺服器封禁。
+hodgepodge.disconnect.ip_banned=你的 IP 已被封禁。
+hodgepodge.disconnect.server_starting=伺服器仍在啟動中！請稍候再重新連線。
+hodgepodge.disconnect.session_cleanup_pending=你的上一個連線仍在清理中，請稍後再重新連線
+hodgepodge.disconnect.session_cleanup_failed=你的上一個連線無法安全清理，請聯絡伺服器管理員。

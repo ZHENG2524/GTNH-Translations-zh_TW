@@ -1,0 +1,97 @@
+death.attack.bolt=%1$s被訊號閃電霹中了，
+item.wrcbe_core:obsidianStick.name=黑曜石棒
+item.wrcbe_core:stoneBowl.name=石碗
+item.wrcbe_core:retherPearl.name=訊號珍珠
+item.wrcbe_core:wirelessTransceiver.name=收發天線
+item.wrcbe_core:blazeTransceiver.name=發光收發天線
+item.wrcbe_core:recieverDish.name=接收盤
+item.wrcbe_core:blazeRecieverDish.name=發光接收盤
+
+wrcbe_core.button.simple=隱藏高階設定
+wrcbe_core.button.advanced=高階設定
+wrcbe_core.button.set=設定
+wrcbe_core.button.colour=儲存顏色
+wrcbe_core.button.setname=儲存名稱
+wrcbe_core.button.remname=移除
+wrcbe_core.label.value=頻率號碼
+wrcbe_core.label.name=頻率名稱
+wrcbe_core.label.colour=當前顏色
+wrcbe_core.label.freq=頻率
+
+wrcbe_core.command.usage=WR-CBE訊號維度管理。命令使用方式：freq [引數...]
+wrcbe_core.command.usage1=引數: %s
+wrcbe_core.command.usage2=使用 /freq help [引數] 以獲取更多資訊
+
+wrcbe_core.param.invalidno=引數數目無效
+wrcbe_core.param.invalid=無效引數
+wrcbe_core.param.missing=無此引數
+wrcbe_core.param.invalidfreq=無效頻率
+wrcbe_core.param.invalidfreqrange=無效的頻率範圍
+
+wrcbe_core.param.get.usage=用法：freq get [public | shared | private]
+wrcbe_core.param.get.usage1=“freq get public” - 返回公共頻率範圍
+wrcbe_core.param.get.usage2="freq get shared" - 返回共享頻率範圍
+wrcbe_core.param.get.usage3=“freq get private” - 返回每個玩家可擁有的私有頻率數量
+wrcbe_core.param.get.public=頻率1-%d為公共
+wrcbe_core.param.get.shared=頻率%d-%d為共享
+wrcbe_core.param.get.shared0=沒有共享頻率
+wrcbe_core.param.get.private=所有玩家允許%d個專用頻率
+
+wrcbe_core.param.private.usage=用法：freq private [引數...]
+wrcbe_core.param.private.usage1=例如：“freq private [username|all]”會返回[username]擁有的私有頻率
+wrcbe_core.param.private.usage2=例如：“freq private [username] [freq]”會將[freq]的擁有者設定為[username]
+wrcbe_core.param.private.usage3=例如：“freq private [freq]”會返回[freq]的擁有者
+wrcbe_core.param.private.usage4=例如：“freq private clear [freq | username | all]”會移除[freq]的擁有者
+wrcbe_core.param.private.none=沒有私有頻率
+wrcbe_core.param.private.list=以下頻率是私有的：%s
+wrcbe_core.param.private.ispublic=%d是公共的
+wrcbe_core.param.private.publicanyway=%d是永遠公共的
+wrcbe_core.param.private.notprivate=%d不是私有的
+wrcbe_core.param.private.noneowned=%s不擁有任何頻率
+wrcbe_core.param.private.nowshared=%d現在是共享的
+wrcbe_core.param.private.nowshared2=現在共享以下頻率：%s
+wrcbe_core.param.private.ownedby=%d被%s擁有
+wrcbe_core.param.private.owns=%s擁有以下頻率：%s
+wrcbe_core.param.private.notshared=%d不在共享範圍內
+wrcbe_core.param.private.nowownedby=%d現由%s擁有
+wrcbe_core.param.private.limit=%s已經擁有%d個頻率
+
+wrcbe_core.param.scan.usage=用法：freq scan [playername]
+wrcbe_core.param.scan.usage1=報告[playername]擁有並可以廣播的頻率
+wrcbe_core.param.scan.usage2=例如：“freq scan codechicken”
+wrcbe_core.param.scan.usage3=例如：“freq scan”
+wrcbe_core.param.scan.list=%s可以在%s上廣播
+wrcbe_core.param.scan.onlypublic=%s只能在公共頻率上廣播
+
+wrcbe_core.param.set.usage=用法：freq set [public | shared | private] [value]
+wrcbe_core.param.set.usage1=例如：“freq set public”會將頻率1至[value]設定為公開頻率
+wrcbe_core.param.set.usage2=例如：“freq set shared”會將頻率[public+1]至[value]設定為共享頻率
+wrcbe_core.param.set.usage3=例如：“freq set private”會給每個玩家[value]個私有頻率
+wrcbe_core.param.set.invalidnum=無效編號
+wrcbe_core.param.set.invalidqty=無效數量
+wrcbe_core.param.set.nowpublic=%s：頻率1-%d現在是公開的
+wrcbe_core.param.set.sharedpublic=%s：共享頻率範圍已公開
+wrcbe_core.param.set.nowshared=%s：頻率%d-%d現在是共享的
+wrcbe_core.param.set.sharedremoved=%s：已刪除共享頻率範圍
+wrcbe_core.param.set.privateno=%s：所有玩家現在可使用%d個私有頻率
+
+wrcbe_core.param.jam.usage=用法：freq jam [playername] [frequency range | all | default]
+wrcbe_core.param.jam.usage1=在[frequency range]中遮蔽[playername]
+wrcbe_core.param.jam.usage2=例如：“freq %s codechicken 100-250”
+wrcbe_core.param.jam.usage3=例如：“freq %s codechicken all”
+wrcbe_core.param.jam.usage4=例如：“freq %s codechicken default”
+wrcbe_core.param.jam.usage5=例如：“freq %s 100-250”
+wrcbe_core.param.jam.usage6=例如：“freq %s codechicken 500”
+wrcbe_core.param.jam.noplayer=沒有此玩家
+wrcbe_core.param.jam.errpublic=你不能在公共頻率上遮蔽玩家
+wrcbe_core.param.jam.jammed=你被頻率%d遮蔽了
+wrcbe_core.param.jam.jammed2=你被頻率%s遮蔽了
+wrcbe_core.param.jam.opjammed=%s：%s被頻率%d遮蔽了
+wrcbe_core.param.jam.opjammed2=%s：%s被頻率%s遮蔽了
+
+wrcbe_core.param.open.usage=用法：freq open [playername] [frequency range | all | default]
+wrcbe_core.param.open.usage1=解除[frequency range]對[playername]的遮蔽
+wrcbe_core.param.open.jammed=你已被授予頻率%d的訪問許可權
+wrcbe_core.param.open.jammed2=你已被授予頻率%s的訪問許可權
+wrcbe_core.param.open.opjammed=%s：%s被授予頻率%d的訪問許可權
+wrcbe_core.param.open.opjammed2=%s：%s被授予頻率%s的訪問許可權

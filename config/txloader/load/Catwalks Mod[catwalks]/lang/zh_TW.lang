@@ -1,0 +1,15 @@
+item.blowtorch.name=焊槍
+item.rope_light.name=霓虹燈
+item.caution_tape.name=警示膠帶
+item.steel_grate.name=鋼柵板
+
+tile.catwalk.name=棧橋
+tile.caged_ladder.name=籠式扶梯
+tile.scaffold.name= 腳手架
+tile.scaffold.builder.name=施工腳手架
+tile.support_column.name=支柱
+tile.sturdy_rail.name=堅實鐵軌
+tile.sturdy_booster_rail.name=堅實動力鐵軌
+tile.sturdy_activator_rail.name=堅實啟用鐵軌
+tile.sturdy_detector_rail.name=堅實檢測鐵軌
+itemGroup.catwalks=棧橋

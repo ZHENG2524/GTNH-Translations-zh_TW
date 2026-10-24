@@ -1,0 +1,10 @@
+tile.enderchest.name=末影箱子/儲罐
+tile.enderchest|0.name=高階末影箱子
+tile.enderchest|1.name=高階末影儲罐
+item.enderpouch.name=末影袋子
+enderstorage.serverop=OP
+
+enderstorage.command.usage=enderstorage <頻道>|(<顏色1> <顏色2> <顏色3>) [所有者]
+enderstorage.command.no_arguments=引數數量錯誤
+enderstorage.command.no_freq=無效頻道
+enderstorage.command.no_colour=無效顏色:%s

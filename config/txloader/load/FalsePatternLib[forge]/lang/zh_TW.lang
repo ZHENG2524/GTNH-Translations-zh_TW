@@ -1,0 +1,2 @@
+fml.configgui.tooltip.default=[預設：%s]
+fml.configgui.tooltip.defaultNumeric=[範圍：%s ~ %s，預設： %s]

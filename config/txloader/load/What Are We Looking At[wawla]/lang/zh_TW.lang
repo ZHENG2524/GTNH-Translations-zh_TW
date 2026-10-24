@@ -1,0 +1,333 @@
+#Vanilla Tool Tips
+tooltip.wawla.heldItem=手持物品
+tooltip.wawla.feet=靴子
+tooltip.wawla.leggings=護腿
+tooltip.wawla.chestplate=胸甲
+tooltip.wawla.helmet=頭盔
+tooltip.wawla.item=物品
+tooltip.wawla.owner=主人
+tooltip.wawla.jumpStrength=跳躍力
+tooltip.wawla.speed=速度
+tooltip.wawla.canHarvest=可採集
+tooltip.wawla.toolType=所需工具
+tooltip.wawla.yes=是
+tooltip.wawla.no=否
+tooltip.wawla.burnTime=燃燒時間
+tooltip.wawla.seconds=秒
+tooltip.wawla.input=燒製物品
+tooltip.wawla.output=成品
+tooltip.wawla.fuel=燃料
+tooltip.wawla.levels=信標等級
+tooltip.wawla.primary=主增益效果
+tooltip.wawla.secondary=副增益效果
+tooltip.wawla.shiftEnch=按住Shift來檢視附魔介紹
+tooltip.wawla.blockLevel=需求等級
+tooltip.wawla.amount=數量
+tooltip.wawla.lightLevel=亮度等級
+tooltip.wawla.sit=待命
+tooltip.wawla.birth=產仔冷卻時間
+tooltip.wawla.age=成年期	
+tooltip.wawla.tooltype.shovel=鏟
+tooltip.wawla.tooltype.pickaxe=鎬
+tooltip.wawla.tooltype.axe=斧
+tooltip.wawla.armorprot=保護
+tooltip.wawla.armor=護甲值
+tooltip.wawla.progress=工作時間
+tooltip.wawla.missingEnch=未找到這種附魔的描述. 
+tooltip.wawla.tnt.fuse=爆炸時間
+tooltip.wawla.profession=職業
+tooltip.wawla.unknownplayer=未知玩家
+tooltip.wawla.sleepable=可睡眠
+tooltip.wawla.hardness=硬度
+tooltip.wawla.resistance=爆炸抗性
+tooltip.wawla.enchPower=附魔點數
+
+#Fixed/Missing Strings
+tile.null.name=未命名方塊,請報告給作者.
+entity.ItemFrame.name=物品展示框
+
+#Vanilla Module Options
+option.wawla.showEquipment=是否顯示生物裝備資訊
+option.wawla.furnace.output=是否顯示熔爐成品資訊
+option.wawla.showHead=是否顯示玩家頭顱資訊
+option.wawla.horse.showJump=是否顯示馬的跳躍高度
+option.wawla.furnace.fuel=是否顯示熔爐燃料資訊
+option.wawla.harvest.showHarvest=是否顯示採集能力
+option.wawla.harvest.showTool=是否顯示採集所需工具
+option.wawla.harvest.showTier=是否顯示採集等級
+option.wawla.furnace.input=是否顯示熔爐燒製物品資訊
+option.wawla.furnace.burntime=是否顯示熔爐燃燒時間
+option.wawla.horse.showSpeed=是否顯示馬的奔跑速度
+option.wawla.showEnchDesc=是否顯示附魔介紹
+option.wawla.beacon.showLevels=是否顯示信標等級
+option.wawla.beacon.showPrimary=是否顯示信標主增益效果
+option.wawla.beacon.showSecondary=是否顯示信標副增益效果
+option.wawla.light.lightLevel=是否顯示亮度等級
+option.wawla.light.showDay=白天亮度等級?
+option.wawla.light.monsterSpawn=刷怪亮度等級?
+option.wawla.pets.showOwner=是否顯示寵物主人
+option.wawla.pets.cooldown=是否顯示產仔冷卻時間
+option.wawla.pets.age=是否顯示成年時間
+option.wawla.pets.sitting=是否顯示寵物待命
+option.wawla.showMobArmor=是否顯示顯示怪物護甲值
+option.wawla.harvest.showProgress=是否顯示方塊破壞程序
+option.wawla.tnt.fuse=是否顯示TNT爆炸時間
+option.wawla.showProfession=是否顯示村民職業
+option.wawla.bed.sleepable=是否顯示床狀態
+option.wawla.info.showHardness=是否顯示方塊硬度?
+option.wawla.info.showResistance=是否顯示爆炸抗性?
+
+#Vanilla Enchantment Descriptions
+description.enchantment.protect.all=該附魔減少裝備者從諸多傷害源獲得的傷害.它可以與火焰保護和摔落保護這樣的附魔疊加,但它減少的傷害也是有限的. 該附魔能用於所有種類的護甲.
+description.enchantment.protect.fire=該附魔減少裝備者從火源獲得的傷害,如火,烈焰人和岩漿.也會減少玩家著火的時間.能用於所有種類的護甲.
+description.enchantment.protect.fall=該附魔減少裝備者從摔落獲得的傷害,也會減少使用末影珍珠時的傷害.僅用於靴子.
+description.enchantment.protect.explosion=該附魔減少裝備者從爆炸獲得的傷害,如TNT或苦力怕.它也會減弱爆炸的衝擊效果.能用於所有種類的護甲.
+description.enchantment.protect.projectile=該附魔減少裝備者從彈射物獲得的傷害,如箭矢和火焰彈.能用於所有種類的護甲.
+description.enchantment.oxygen=該附魔改善了裝備者在水下的視野.每級也會額外增加15秒水下呼吸時間.每級也會增加1秒窒息傷害的間隔時間.僅用於頭盔.
+description.enchantment.waterWorker=該附魔提升了裝備者在水下破壞方塊的速度.僅用於頭盔.
+description.enchantment.thorns=該附魔每級會增加15%使攻擊裝備者的怪物受到1.5心到2心反傷的機率.能用於所有種類的護甲.
+description.enchantment.damage.all=該附魔每級增加物品1.25的額外傷害.可用於許多工具,但主要用於劍.
+description.enchantment.damage.undead=該附魔每級增加2.5對亡靈生物造成的傷害,如骷髏射手,殭屍和凋靈.可用於許多工具,但主要用於劍.
+description.enchantment.damage.arthropods=該附魔每級增加2.5對以蜘蛛為基礎的怪物的傷害,如蜘蛛,洞穴蜘蛛,蠹蟲和末影蟎.可用於許多工具,但主要用於劍.
+description.enchantment.knockback=該附魔使被擊中的生物從玩家面前擊退.僅用於劍.
+description.enchantment.fire=該附魔時會引燃被攻擊的生物.初始3點火焰傷害,之後每級增加4點.僅用於劍.
+description.enchantment.lootBonus=該附魔使生物掉落更多物品.最多掉落數每級增加1個.稀有物掉落率增加3%,之後每級增加0.5%.僅用於劍.
+description.enchantment.digging=該附魔使方塊被破壞的速度增加30%/69%/120%/186%/271%.加速效果只有在採集正確的方塊時才有效.可用於鎬,鏟,斧和剪刀.
+description.enchantment.untouching=該附魔使原本不能獲取的方塊變得可以獲取,如冰,草方塊和原礦.可用於鎬,鏟,斧和剪刀.
+description.enchantment.durability=該附魔會增加工具或護甲的平均耐久.可用於遊戲中幾乎所有擁有耐久度的物品.如打火石,魚竿,所有的護甲和工具.
+description.enchantment.lootBonusDigger=該附魔使特定方塊有機率成倍掉落物品.成功率會降低而掉落量會增加.成功率33%/25%/20%同時掉落倍數2/3/4.對於掉落多物品的方塊,如西瓜,最大掉落量每級增加1.沙礫掉落燧石的機率依次為14%/25/100%.可用於鎬,鏟和斧.
+description.enchantment.arrowDamage=該附魔每級會提升25%弓箭造成的傷害.數值精度為半顆心.僅對弓有效.
+description.enchantment.arrowKnockback=該附魔會使怪物在被射中時擊退一段距離.僅對弓有效.
+description.enchantment.arrowFire=該附魔會在箭發射時點燃它,同時引燃擊中的目標.火箭只會影響到生物,玩家和tnt方塊.僅對弓有效.
+description.enchantment.arrowInfinite=該附魔使得箭在射出去時不會被消耗.需要玩家身上至少帶著一隻箭.僅對弓有效.
+description.enchantment.lootBonusFishing=該附魔每級會增加1%玩家獲得寶物的機率.該附魔僅對魚竿有效.
+description.enchantment.fishingSpeed=該附魔每級會減少5秒魚咬鉤的間隔時間.每級也會增加1%釣到垃圾和寶物的機率.
+
+#Jewelrycraft Tooltips
+tooltip.wawla.jewelry.molten=融化的
+tooltip.wawla.jewelry.unmelted=未融化
+tooltip.wawla.jewelry.melttime=熔化時間
+tooltip.wawla.jewelry.cooling=冷卻
+
+#Jewelrycraft Options
+option.wawla.jewelrycraft.showMoltenAmount=融化數量
+option.wawla.jewelrycraft.showMetalAmount=未融化數量
+option.wawla.jewelrycraft.showMeltTime=融化時間
+option.wawla.jewelrycraft.showCooling=冷卻時間
+
+#Tinkers Construct Tooltips
+tooltip.wawla.tinkers.dryness=乾燥度
+
+#Tinkers Construct Options
+option.wawla.tinkers.hideLandmine=是否隱藏地雷?
+option.wawla.tinkers.showDryerTime=是否顯示晾乾架進度？
+option.wawla.tinkers.showDryerItem=是否顯示晾乾架物品？
+option.wawla.tinkers.showFurnace=是否顯示半磚熔爐內容物?
+option.wawla.tinkers.showBurnTime=是否顯示燃燒時間?
+
+#AquaCulture Enchantment Descriptions
+description.enchantment.aquacultureAppealing=該附魔給予玩家充足的時間來捕魚.
+description.enchantment.aquacultureBarbedHook=該附魔會提升玩家捕魚成功率.
+description.enchantment.aquacultureDoubleHook=該附魔使玩家能一次性獲得更多魚或寶物.
+description.enchantment.aquacultureHeavyLine=該附魔是玩家能捕獲更大更重的魚.
+description.enchantment.aquacultureLongCast=該附魔讓魚鉤(浮標)扔得更遠.
+description.enchantment.aquacultureMagnetic=該附魔讓玩家有更大的機率捕到魚.
+description.enchantment.aquacultureShortCast=該附魔讓魚鉤(浮標)扔得更近.
+
+#Pixelmon Tooltips
+tooltip.wawla.pixelmon.male=雄
+tooltip.wawla.pixelmon.female=雌
+tooltip.wawla.pixelmon.ability=能力
+tooltip.wawla.pixelmon.happiness=心情
+tooltip.wawla.pixelmon.helditem=持有物品
+tooltip.wawla.pixelmon.none=無
+tooltip.wawla.pixelmon.attack=攻擊
+tooltip.wawla.pixelmon.defence=防禦
+tooltip.wawla.pixelmon.health=HP
+tooltip.wawla.pixelmon.spattack=特殊攻擊
+tooltip.wawla.pixelmon.spdefence=特殊防禦
+tooltip.wawla.pixelmon.speed=速度
+tooltip.wawla.pixelmon.iv=IV
+tooltip.wawla.pixelmon.ev=EV
+tooltip.wawla.pixelmon.growth=成長
+tooltip.wawla.pixelmon.product=栗子型別
+tooltip.wawla.pixelmon.nature=天性
+tooltip.wawla.pixelmon.size=成長狀態
+
+#Pixelmon Fixed Strings
+entity.pixelmon.Pixelmon.name=神奇寶貝
+
+#Pixelmon Options
+option.wawla.pixelmon.showFriendship=是否顯示心情?
+option.wawla.pixelmon.showApricornProduct=是否顯示栗子型別?
+option.wawla.pixelmon.showApricornGrowth=是否顯示栗子成長進度?
+option.wawla.pixelmon.showAbility=是否顯示能力?
+option.wawla.pixelmon.showHeldItem=是否顯示持有物品?
+option.wawla.pixelmon.showNature=是否顯示天性?
+option.wawla.pixelmon.showSize=是否顯示成長狀態?
+option.wawla.pixelmon.showIV=顯示個體值？
+option.wawla.pixelmon.showEV=顯示努力值？
+
+#Thaumcraft Tooltips
+tooltip.wawla.thaumcraft.aspect=要素
+tooltip.wawla.thaumcraft.linked=連結
+tooltip.wawla.thaumcraft.dimension=維度
+tooltip.wawla.thaumcraft.experience=經驗
+
+#Thaumcraft Options
+option.wawla.thaumcraft.jarAspect=是否顯示罐中源質?
+option.wawla.thaumcraft.jarAmount=是否顯示源質數量?
+option.wawla.thaumcraft.mirrorLink=是否顯示魔鏡連結?
+option.wawla.thaumcraft.mirrorDim=是否顯示魔鏡維度?
+option.wawla.thaumcraft.jarEXP=是否顯示缸中經驗?
+option.wawla.thaumcraft.wandItem=是否顯示充能時間?
+option.wawla.thaumcraft.wandCharge=是否顯示法杖充能?
+option.wawla.thaumcraft.pedestalItem=是否顯示基座物品?
+option.wawla.thaumcraft.deconAspect=是否顯示解構源質?
+
+#Artifice Enchantment Descriptions
+description.enchantment.artifice.invisible=一種護甲附魔，會讓穿戴的護甲看起來隱形。
+description.enchantment.artifice.soulstealing=一種武器附魔，能使生物掉落額外的經驗值。等級越高，經驗值增加越多。
+description.enchantment.artifice.resistance=一種護甲附魔，可抵禦魔法傷害與凋零傷害。等級越高，抗性越強。
+
+#Thaumcraft Enchantment Descriptions
+description.enchantment.repair=使物品隨著時間的推移修復耐久。此附魔有兩個等級，第二級以更快的速度恢復耐久。此附魔可用於武器、法杖核心和別的工具，但不包括剪刀。
+description.enchantment.haste=移動速度提升。此附魔有三個等級，速度依次遞增。
+description.enchantment.potency=提升法術效果。此附魔有三個等級，提升效果依次遞增。此附魔只能用於法杖核心並且根據核心的型別提升不同的效果。
+description.enchantment.frugal=降低使用法杖核心消耗的vis數量。此附魔有三個等級，減免效果依次遞增。此附魔只能用於法杖核心。
+description.enchantment.wandfortune=此附魔很像時運附魔，能夠在採集物品時增加產量，此附魔有三個等級，獲得額外產量機率依次遞增。此附魔只能用於法杖核心。
+
+#Thaumic Tinkerer Enchantment Descriptions
+description.enchantment.ttinkerer:slowFall=此附魔會使穿戴者的掉落速度降低，相應減少掉落傷害，但不能免疫掉落傷害。此附魔可用於靴子。
+description.enchantment.ttinkerer:ascentBoost=此附魔會使穿戴者比正常情況跳得高得多. 此附魔可用於護腿.
+description.enchantment.ttinkerer:pounce=此附魔會使玩家在空中時攻擊力上升. 此附魔僅能用於護腿.
+description.enchantment.ttinkerer:shockwave=此附魔會使你掉落時對附近的實體造成傷害。若穿戴有降低掉落傷害的物品，此效果將會被削弱。
+description.enchantment.ttinkerer:autoSmelt=當用於工具時，此附魔會使破壞木製品速度更快。此效果將會使工具消耗雙倍耐久。
+description.enchantment.ttinkerer:tunnel=當用於工具時，此附魔會提升沿直線挖掘方塊時的效率。
+description.enchantment.ttinkerer:shatter=當用於工具時，此工具將顯著提升挖掘堅硬方塊的速度。
+description.enchantment.ttinkerer:desintegrate=附魔後的工具能夠非常輕易地採集泥土、石頭、地獄巖這些不是非常硬的材料。附魔後的工具會變得難以採集其他方塊，而且耐久會雙倍減少。
+description.enchantment.ttinkerer:vampirism=此附魔僅能用於武器。當此武器對敵人造成傷害時，會將傷害數值的一部分作為生命值返還給使用者。
+description.enchantment.ttinkerer:dispersedStrike=此附魔僅能用於武器。在對一個目標進行第一次攻擊時攻擊力翻倍，繼續攻擊威力會下降。
+description.enchantment.ttinkerer:focusedStrike=此附魔僅能用於武器。對一個目標的首次攻擊威力會下降，但多次攻擊同一目標威力會上升。
+description.enchantment.ttinkerer:finalStrike=此附魔僅能用於武器. 有機率打出三倍傷害.
+description.enchantment.ttinkerer:valiance=此附魔僅能用於武器. 附魔後的武器在佩戴者生命垂危時威力會上升.
+description.enchantment.ttinkerer:quickDraw=此附魔僅能用於弓，附魔後的弓拉弓速度將會加快。
+
+#Ars Magica 2 Enchantment Descriptions
+description.enchantment.magicresist=減少受到的魔法傷害。
+description.enchantment.soulbound=當玩家死亡並重生時，該物品仍會留在物品欄中，不會掉落。
+
+#Red Power 2 Enchantment Descriptions
+description.enchantment.vorpal=提高生物死亡時掉落頭顱的機率。
+description.enchantment.disjunction=增加對末影人與凋零骷髏造成的傷害。
+
+#Special Mobs Enchantment Descriptions
+description.enchantment.SpecialMobs.painBow=一種弓類附魔，會造成可無視防護的額外傷害。每一級額外造成半顆心的傷害。
+description.enchantment.SpecialMobs.painSword=一種劍類附魔，會造成可無視防護的額外傷害。每一級額外造成半顆心的傷害。
+description.enchantment.SpecialMobs.plagueBow=用於弓的附魔，為受擊的生物施加一個隨機負面效果（遲緩/反胃/失明/飢餓/虛弱/中毒）。
+description.enchantment.SpecialMobs.plagueSword=用於劍的附魔，為受擊的生物施加一個隨機負面效果（遲緩/反胃/失明/飢餓/虛弱/中毒）。
+description.enchantment.SpecialMobs.poisonBow=弓的附魔，會讓被擊中的生物中毒。每級都會提高中毒效果的強度。
+description.enchantment.SpecialMobs.poisonSword=一種劍類附魔，會使受傷的生物中毒。每提升一級，所施加的中毒效果就更強。
+
+#Natural Absorption Enchantment Descriptions
+description.enchantment.NaturalAbsorption.absorb=護甲附魔，穿戴此護甲會提高玩家的最大吸收生命值。
+
+#Simple Flight Enchantment Descriptions
+description.enchantment.fly_longer=增加簡易飛行裝置的總拍翼次數。
+description.enchantment.fly_faster=縮短簡易飛行裝置兩次拍翼之間的間隔。對噴射背包與噴射滑翔翼無效。
+
+#More Swords Mod Enchantment Descriptions
+description.msm.unused=注意：此物品／方塊是為了與其他模組相容而新增的。目前它們沒有任何作用，也不屬於本模組的一般內容。不會新增任何新礦石或工具，這僅僅是為了模組相容性。
+description.enchantment.msm.ignite=此附魔會讓被擊中的生物著火，造成的傷害等於附魔等級。
+description.enchantment.msm.spark=此附魔會對受傷生物周圍 2.4 格內的生物造成 3 點火焰傷害。玩家與目標生物都不會被點燃。
+description.enchantment.msm.feast=此附魔使用時會恢復 0–3 點耐久度，恢復量會乘以附魔等級。
+description.enchantment.msm.vitality=該附魔會使工具消耗256點耐久，並給予玩家數個增益效果，包括生命恢復、瞬間治療和生命提升。
+description.enchantment.msm.venomAspect=該附魔會使目標生物中毒。該效果會持續與中毒等級相同的秒數。注意：許多原版怪物，例如蜘蛛、殭屍和骷髏都不會中毒，該附魔對這些生物無效。
+description.enchantment.msm.absorb=此附魔使用時有 5% 機率恢復 0–2 點飢餓值。
+description.enchantment.msm.keenEdge=此附魔每級會讓劍的傷害增加 1。
+description.enchantment.msm.scorn=此附魔在地表以外的維度使用時，會讓劍的傷害增加 2。
+description.enchantment.msm.enderPulse=此附魔會在使用時將玩家傳送到其視線所指之處。此效果每級範圍為 18 格。此附魔每次使用都會使物品損耗 50 點耐久。玩家同時也會受到 1 點摔落傷害。
+description.enchantment.msm.enderAura=此附魔在玩家受到攻擊時有 15% 的機率觸發。觸發後，玩家會傳送到 30 格內的隨機生物身邊。該生物不一定是友善的。若找不到任何生物，則效果會被取消。
+description.enchantment.msm.greed=此附魔有 7% 機率額外掉落 1–3 點經驗值。
+description.enchantment.msm.wisdom=此附魔目前有問題。抱歉 :/
+description.enchantment.msm.frozenAspect=此附魔每級會讓生物減速 3 秒。
+description.enchantment.msm.frostWave=此附魔會讓目標生物 2.5 格內的生物減速 1.5 秒。
+description.enchantment.msm.ascension=此附魔會將被鎖定的生物向上推入空中。在生物落地前再次擊中它，可使彈射效果呈指數倍增。
+description.enchantment.msm.descension=此附魔會使玩家以遠低於正常的速度下落。按住 Shift 以啟動效果。
+description.enchantment.msm.shadows=此附魔會使目標生物失明 1.5 秒。另有 12% 的機率對其施加 1 秒的凋零效果。
+description.enchantment.msm.decay=此附魔會讓目標生物凋零效果持續約 4 秒。
+description.enchantment.msm.stealth=This enchantmentwill cause the player to become invisible when activated. Unlike the potion of invisibility this effect will not give off particles and has no time limit or duration. To toggle this on or off simply right click with the sword. It's worth noting that 武器 and armor will still be visible while this effect is enabled.
+description.enchantment.msm.extinction=此附魔會殺死地圖上所有屬於目標生物同類的生物。可用於船隻以殺死世界中所有的船，也可用來管理世界中的實體。此效果不會以玩家為目標。
+
+#Railcraft Enchantments
+description.enchantment.railcraft.crowbar.destruction=撬棍專用附魔. 擴大範圍.
+description.enchantment.railcraft.crowbar.implosion=撬棍專用附魔. 提高對苦力怕的傷害.
+description.enchantment.railcraft.crowbar.wrecking=撬棍專用附魔. 提高傷害(類似鋒利附魔).
+
+#OpenBlocks Enchantments
+description.enchantment.openblocks.explosive=受到傷害時,將消耗火藥產生一次爆炸,傷害怪物並破壞方塊.
+description.enchantment.openblocks.flimflam=攻擊玩家者將遭遇"厄運".
+description.enchantment.openblocks.laststand=當玩家只有一點生命值(半心)時,將消耗XP等級吸收下次傷害.
+
+#Forbidden Magic Enchantments
+description.enchantment.cluster=擁有熾心附魔的避役鎬採掘特定礦石時有一定機率掉落礦簇.礦簇比原礦純淨得多,可以像礦石一樣被熔鍊.熾心附魔等級越高,掉落礦簇的機率越高.
+description.enchantment.consuming=使用揮霍附魔的工具採掘圓石、泥土、沙礫或地獄巖時,不會產生掉落.
+description.enchantment.corrupting=墮落附魔可以讓你無需前往下界即可獲得七宗罪碎片.有墮落附魔的鎬開採蘊魔石時,有一定機率掉落七宗罪碎片.注意只有開採蘊魔石有效,直接採掘晶簇不會觸發墮落.
+description.enchantment.educational=將知識注入武器中後,你創造了一種附魔.使用帶有教育附魔的武器猛力捶擊怪物頭部,以使它們掉落更多的經驗,增益取決於附魔等級.
+description.enchantment.greedy=使用有剝削附魔的武器殺死敵對生物時,有機率掉落綠寶石碎片.而殺害村民可以掉落整塊綠寶石.
+description.enchantment.impact=避役工具附魔衝擊後,可一次開採3x3範圍的方塊,使探礦更快,平地更容易.
+description.enchantment.voidtouched=虛空之觸附魔賦予避役工具與虛空工具相同的耐久恢復屬性.
+description.enchantment.wrath=暴怒附魔會增加武器的攻擊力,而且可與鋒利、節肢殺手、亡靈殺手附魔共存.
+
+#BiblioCraft Enchantments
+description.Eternal Compass=玩家死亡後,重生時會獲得一個指向死亡地點的永恆羅盤.
+description.Reading=看向收藏館mod方塊內的物品時,顯示物品名稱.
+
+#Witching Gadgets Enchantments
+description.enchantment.wg.backstab=附魔了背刺的武器從敵人後方發動攻擊時,每級附魔會造成額外20%的傷害,在目標沒有發現你的情況下,再額外增加40%.
+description.enchantment.wg.gemstoneBrittle=為切割出的寶石注入脆性.
+description.enchantment.wg.gemstonePotency=為切割出的寶石注入更多效力.
+description.enchantment.wg.invisibleGear=此附魔的第一級可在玩家隱身時讓裝備隱形,而第二級可以讓裝備永久隱形.
+description.enchantment.wg.rideProtect=當有東西跳到你頭上的時候移動會變得困難.將此附魔賦予你的頭盔就能解決這個問題.每個試圖跳到你頭上的傢伙都會被甩下來並受到傷害.
+description.enchantment.wg.soulbound=附魔有靈魂繫結的物品/工具/裝備在玩家死亡後仍然留在物品欄中,不會掉落.
+description.enchantment.wg.stealth=將此附魔賦予你的靴子或護腿,在蹲下時有機率不被發現.這個機率每級提升10%,但如果你在目標的視野內,此機率會減少10%.一旦被發現,將通知半徑5格內的所有敵人.
+description.enchantment.wg.unveiling=此附魔可賦予揭示之護目鏡或其他具有相同功能的頭部裝備. 裝備帶有揭示附魔的物品時,你可以看到處於隱身狀態的生物.此外,可使他人的幻影附魔無效,而幽靈斗篷的使用者會更加顯眼.
+
+#Thaumic Exploration Enchantments
+description.enchantment.binding=一級束縛附魔可以使被攻擊的生物獲得幾秒緩慢buff. 而二級附魔不僅可以阻止末影人的瞬移而且還可以暫時阻止苦力怕的自爆幾秒.
+description.enchantment.disarm=攻擊敵人可使其武器有機率掉落,對玩家無效.注意:荊棘附魔也會觸發此效果.
+description.enchantment.nightVision=裝備有夜視附魔的物品時,可獲得永久夜視buff.
+
+#EnderIO Enchantments
+description.enchantment.autosmelt=使用帶有此附魔的物品開採方塊時,會直接掉落該方塊的熔爐產物.
+description.enchantment.xpboost=此附魔可按比例提升殺怪/玩家或開採方塊掉落的經驗. 
+description.enchantment.enderio.soulBound=附魔有靈魂繫結的物品/工具/裝備在玩家死亡後仍然留在物品欄中,不會掉落.
+
+#EnderZoo Enchantments
+description.enchantment.enderzoo.witherArrow=擊中後施加5秒凋零效果.
+description.enchantment.enderzoo.witherWeapon=擊中後施加5秒凋零效果.
+
+#BattleGear Enchantments
+description.enchantment.bash.weightless=降低盾擊的耐力消耗.
+description.enchantment.bash.power=提升盾擊的推力(擊退更遠).
+description.enchantment.bash.damage=增加盾擊傷害.
+description.enchantment.shield.usage=降低盾牌格擋的耐力消耗.
+description.enchantment.shield.recover=提升按住格擋時的耐力恢復速度,格擋攻擊時無效.
+description.enchantment.bow.loot=提升弓箭擊殺掉落戰利品機率.
+description.enchantment.bow.charge=減少拉弓時間,不影響視野.
+
+#Thaumic Bases Enchantments
+description.enchantment.elderKnowledge=擊殺怪物有機率獲取知識.
+description.enchantment.eldritchBane=對末影人或邪術生物造成更多傷害.
+description.enchantment.magicTouch=擊殺生物時掉落更多的原始要素球.
+description.enchantment.tainted=攻擊時會造成額外的咒波傷害.
+description.enchantment.vaporising=擊殺怪物時有一定機率掉落對應型別的晶化源質.
+
+#Misc. Enchantments
+description.enchant.cofh.holding=提升保險箱或揹包的容量(每級8-9格).
+description.enchant.cofh.multishot=讓弓可以只消耗一支箭,射出多個箭頭.
+description.enchantment.draconicevolution.reaperEnchant=擊殺怪物時有機率掉落相應的怪物靈魂.此增益可與龍研武器自帶的增益疊加.
+description.enchantment.damage.endermen=對末影生物造成更多傷害並阻止其瞬移.
+description.enchantment.damage.radioactivity=為你的武器或護甲施加輻射,讓你的敵人或玩家痛苦不堪.
+description.gadomancy.enchantment.revealer=頭盔附魔.可以看到靈氣節點,類似神秘時代的揭示之護目鏡.
+description.enchantment.projectred.expansion.fuel_efficiency=使噴氣揹包具有更高的燃料效率.

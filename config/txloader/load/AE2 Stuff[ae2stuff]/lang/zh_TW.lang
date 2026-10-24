@@ -1,0 +1,80 @@
+tile.ae2stuff.Encoder.name=樣板編碼臺
+tile.ae2stuff.Grower.name=晶體催生倉
+tile.ae2stuff.Inscriber.name=高階壓印器
+tile.ae2stuff.Wireless.name=無線接入器 
+tile.ae2stuff.Wireless.colorTip=能被染色
+tile.ae2stuff.WirelessHub.name=無線集線器
+
+gui.ae2stuff.Encoder.title=樣板編碼臺
+gui.ae2stuff.Grower.title=晶體催生倉
+gui.ae2stuff.Inscriber.title=高階壓印器
+
+item.ae2stuff.WirelessKit.name=無線設定工具
+item.ae2stuff.AdvWirelessKit.name=高階無線設定工具
+item.ae2stuff.Visualiser.name=網路視覺化工具
+
+ae2stuff.error.not_connected=未連線網路
+
+ae2stuff.waila.sleep.true=§e休眠中
+ae2stuff.waila.sleep.false=§a工作中
+ae2stuff.waila.power=%s / %s AE
+
+ae2stuff.waila.wireless.connected=連線至§6%s %s %s
+ae2stuff.waila.wireless.notconnected=非連線 
+ae2stuff.waila.wireless.channels=頻道：§6%s
+ae2stuff.waila.wireless.power=能量使用：§6%s§r AE/t
+ae2stuff.waila.wireless.name=名稱: §6%s
+ae2stuff.waila.wireless.channel.used=連線到%s %s %s | %s 頻道已使用
+ae2stuff.waila.wireless.sneak.info=§c[潛行]§r以檢視所有已連線列表
+ae2stuff.gui.lock.on=鎖定-不能自動移除
+ae2stuff.gui.lock.off=解鎖-能夠自動移除
+ae2stuff.gui.lock.note=如果中間的槽非空或者正在進行中將不能處理
+
+ae2stuff.gui.recipes=合成表
+
+ae2stuff.wireless.tool.empty=點選無線接入器以繫結
+ae2stuff.wireless.tool.bound1=§a已繫結到 %s %s %s
+ae2stuff.wireless.tool.bound2=點選其他無線接入器以連線
+ae2stuff.wireless.advtool.queueing=§a加入佇列模式
+ae2stuff.wireless.advtool.binding=§a繫結模式
+ae2stuff.wireless.advtool.queueing.activated=§a佇列模式已啟用
+ae2stuff.wireless.advtool.binding.activated=§a繫結模式已啟用
+ae2stuff.wireless.advtool.queued=§a位於 §f%s %s %s§a的無線接入器已加入佇列
+ae2stuff.wireless.advtool.queuederror=§c接入器已處於佇列中
+ae2stuff.wireless.advtool.queueing.empty=右擊無線接入器以加入繫結佇列
+ae2stuff.wireless.advtool.binding.empty=切換至“加入佇列模式”以新增接入器至佇列
+ae2stuff.wireless.advtool.queueing.notempty=佇列中的無線接入器：
+ae2stuff.wireless.advtool.binding.notempty=佇列中待繫結的無線接入器：
+ae2stuff.wireless.advtool.connector.next=佇列中的下一個接入器：§6%s %s %s
+ae2stuff.wireless.advtool.extra=§f潛行右擊§7以在佇列模式和繫結模式間切換
+ae2stuff.wireless.advtool.noconnectors=§c佇列中沒有接入器。切換工具至佇列模式並新增一些
+ae2stuff.wireless.advtool.hub.queued=§a已將%s個集線器槽位加入佇列
+ae2stuff.wireless.advtool.queueing.clear=§a佇列已清空
+ae2stuff.wireless.tooltips.advtool.queueing.clear=§f潛行+%s+右擊§7以清空佇列
+ae2stuff.wireless.tooltips.advtool.location=§6%s %s %s
+ae2stuff.wireless.tooltips.advtool.hubqols.binding=§f%s+右擊§7以連線至全部空閒集線器槽位
+ae2stuff.wireless.tooltips.advtool.hubqols.queueing=§f%s+右鍵§7以將全部空閒集線器槽位加入佇列
+ae2stuff.wireless.tool.connected=§a已連線到 %s %s %s
+ae2stuff.wireless.tool.failed=§c連線失敗
+ae2stuff.wireless.tool.failed.detail=§c連線失敗: §f%s
+ae2stuff.wireless.tool.dimension=§c兩個接入器必須在相同維度
+ae2stuff.wireless.tool.noexist=§c繫結的接入器不存在
+ae2stuff.wireless.tool.security.player=§c安全違規 - 你沒有修改這個網路的許可權
+ae2stuff.wireless.tool.targethubfull=§c目標集線器已滿
+
+ae2stuff.visualiser.bound=§a視覺化網路位於 %s %s %s
+ae2stuff.visualiser.mode=模式：§6%s
+ae2stuff.visualiser.set=模式變更為 §6%s
+ae2stuff.visualiser.mode.full=顯示所有
+ae2stuff.visualiser.mode.nodes=顯示節點
+ae2stuff.visualiser.mode.channels=顯示頻道
+ae2stuff.visualiser.mode.no_num=顯示頻道和節點
+ae2stuff.visualiser.mode.nodes_one_channel=顯示節點和一個無線接入器連線
+ae2stuff.visualiser.mode.one_channel=顯示一個無線接入器連線
+ae2stuff.visualiser.mode.p2p=顯示P2P連線
+ae2stuff.visualiser.mode.proxy=顯示樣板輸入映象連線
+
+itemGroup.bdew.ae2stuff=應用能源附加機器
+ae2stuff.key.mode=模式切換
+
+ae2stuff.config.client=客戶端

@@ -1,0 +1,23 @@
+neenergistics.gui.tooltip.crafting.preview=請求缺少的物品
+neenergistics.gui.tooltip.crafting.preview.result=請求配方結果
+neenergistics.gui.tooltip.crafting.nopreview=請求缺少的物品（無預覽）
+neenergistics.gui.tooltip.crafting.nopreview.result=請求配方結果（無預覽）
+
+neenergistics.gui.tooltip.ingredient.permutation=修改物品
+neenergistics.gui.tooltip.ingredient.count=修改數量
+
+nei.options.keys.nee=NotEnoughEnergistics
+nei.options.keys.nee.count=修改物品數量
+nei.options.keys.nee.ingredient=選擇材料
+nei.options.keys.nee.preview=合成幫助
+nei.options.keys.nee.nopreview=合成幫助(無預覽)
+
+gui.neenergistics.button.title.combination=合併同類物品
+gui.neenergistics.button.tooltip.combination=當前模式: %s
+gui.neenergistics.button.name.enabled=開啟
+gui.neenergistics.button.name.disabled=關閉
+gui.neenergistics.button.name.whitelist=白名單
+gui.neenergistics.button.title.remove=刪除
+gui.neenergistics.button.tooltip.remove=刪除並取消當前配方
+
+tile.neenergistics.pattern_interface.name=樣板介面

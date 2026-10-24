@@ -1,0 +1,160 @@
+# gui - general
+schematica.gui.openFolder=開啟Schematic資料夾
+schematica.gui.done=完成
+schematica.gui.title=選擇Schematic檔案
+schematica.gui.folderInfo=(將Schematic資料夾放在此處)
+schematica.gui.noschematic=-- 沒有Schematic檔案 --
+schematica.gui.increase=+
+schematica.gui.decrease=-
+schematica.gui.hide=隱藏
+schematica.gui.all=全部
+schematica.gui.show=顯示
+schematica.gui.movehere=移動到此處
+schematica.gui.flip=對稱
+schematica.gui.rotate=旋轉
+schematica.gui.save=儲存
+schematica.gui.name=名稱
+schematica.gui.savecoordinates=儲存座標
+schematica.gui.moveschematic=移動Schematic檔案
+schematica.gui.layers=層
+schematica.gui.operations=操作
+schematica.gui.unload=解除安裝
+schematica.gui.point.red=紅點
+schematica.gui.point.blue=藍點
+schematica.gui.saveselection=將選區儲存為Schematic檔案
+schematica.gui.on=開
+schematica.gui.off=關
+schematica.gui.x=X:
+schematica.gui.y=Y:
+schematica.gui.z=Z:
+schematica.gui.materials=材料
+schematica.gui.materialname=材料
+schematica.gui.materialamount=數量
+schematica.gui.materialrequired=要求
+schematica.gui.materialavailable=可用
+schematica.gui.materialdump=儲存到檔案
+schematica.gui.printer=投影
+
+# gui - config - categories
+schematica.config.category.debug=除錯
+schematica.config.category.debug.tooltip=Debug/開發者設定.\n如果你不清楚自己在做什麼,請勿點選.
+schematica.config.category.render=渲染
+schematica.config.category.render.tooltip=渲染相關設定.
+schematica.config.category.printer=投影
+schematica.config.category.printer.tooltip=投影相關設定.
+schematica.config.category.printer.swapslots=快捷欄
+schematica.config.category.printer.swapslots.tooltip=允許投影使用非空快捷欄.
+schematica.config.category.general=常規
+schematica.config.category.general.tooltip=常規設定.
+schematica.config.category.server=服務端
+schematica.config.category.server.tooltip=服務端設定.
+
+# gui - config - debug
+schematica.config.showDebugInfo=顯示Debug資訊
+schematica.config.showDebugInfo.tooltip=在debug介面(F3)顯示額外資訊.
+
+# gui - config - render
+schematica.config.alphaEnabled=啟用Alpha
+schematica.config.alphaEnabled.tooltip=啟用透明材質.
+schematica.config.alpha=透明度
+schematica.config.alpha.tooltip=渲染Schematic時的Alpha值（1.0 = 不透明，0.5 = 半透明，0.0 = 透明）。
+schematica.config.highlight=高亮方塊
+schematica.config.highlight.tooltip=高亮顯示已放置的無效方塊和要放置的方塊.
+schematica.config.highlightAir=高亮空氣
+schematica.config.highlightAir.tooltip=高亮顯示必須留空的方塊.
+schematica.config.blockDelta=方塊Delta
+schematica.config.blockDelta.tooltip=高亮的Delta值(如果遇到了斑駁(z-fighting),請提升Delta值).
+schematica.config.drawQuads=繪製表面
+schematica.config.drawQuads.tooltip=繪製表面.
+schematica.config.drawLines=繪製輪廓
+schematica.config.drawLines.tooltip=繪製輪廓.
+
+# gui - config - printer
+schematica.config.placeDelay=放置延遲
+schematica.config.placeDelay.tooltip=放置嘗試之間的延遲（刻）。
+schematica.config.timeout=暫停
+schematica.config.timeout.tooltip=再嘗試失敗方塊之前的暫停時間.
+schematica.config.placeInstantly=立即放置
+schematica.config.placeInstantly.tooltip=在1刻之內放置所有可放置方塊。
+schematica.config.destroyBlocks=破壞方塊
+schematica.config.destroyBlocks.tooltip=投影將可以破壞方塊(創造模式專用).
+schematica.config.destroyInstantly=立即破壞
+schematica.config.destroyInstantly.tooltip=在1刻之內破壞所有可破壞方塊。
+schematica.config.placeAdjacent=僅相鄰放置
+schematica.config.placeAdjacent.tooltip=僅當旁邊有一個相鄰方塊時,方可放置方塊.
+
+# gui - config - printer - swap slots
+schematica.config.swapSlot0=允許1號格
+schematica.config.swapSlot0.tooltip=允許投影使用快捷欄1號格.
+schematica.config.swapSlot1=允許2號格
+schematica.config.swapSlot1.tooltip=允許投影使用快捷欄2號格.
+schematica.config.swapSlot2=允許3號格
+schematica.config.swapSlot2.tooltip=允許投影使用快捷欄3號格.
+schematica.config.swapSlot3=允許4號格
+schematica.config.swapSlot3.tooltip=允許投影使用快捷欄4號格.
+schematica.config.swapSlot4=允許5號格
+schematica.config.swapSlot4.tooltip=允許投影使用快捷欄5號格.
+schematica.config.swapSlot5=允許6號格
+schematica.config.swapSlot5.tooltip=允許投影使用快捷欄6號格.
+schematica.config.swapSlot6=允許7號格
+schematica.config.swapSlot6.tooltip=允許投影使用快捷欄7號格.
+schematica.config.swapSlot7=允許8號格
+schematica.config.swapSlot7.tooltip=允許投影使用快捷欄8號格.
+schematica.config.swapSlot8=允許9號格
+schematica.config.swapSlot8.tooltip=允許投影使用快捷欄9號格.
+
+# gui - config - general
+schematica.config.schematicDirectory=Schematic目錄
+schematica.config.schematicDirectory.tooltip=Schematic目錄.
+schematica.config.extraAirBlocks=額外空氣方塊
+schematica.config.extraAirBlocks.tooltip=要視為空氣的Schematic渲染額外方塊.
+
+# chat
+Schematica.chat.saveCoordinatesSuccess=儲存座標成功
+Schematica.chat.saveCoordinatesFail=儲存座標失敗
+
+# gui - config - server
+schematica.config.printerEnabled=啟用投影
+schematica.config.printerEnabled.tooltip=允許玩家使用投影.
+schematica.config.saveEnabled=啟用儲存
+schematica.config.saveEnabled.tooltip=允許玩家儲存schematics.
+schematica.config.loadEnabled=啟用載入
+schematica.config.loadEnabled.tooltip=允許玩家載入schematics.
+
+# keys
+schematica.key.category=Schematica
+schematica.key.load=載入Schematic檔案
+schematica.key.save=儲存Schematic檔案
+schematica.key.control=調整Schematic檔案
+schematica.key.layerInc=下一層
+schematica.key.layerDec=上一層
+
+# commands - save
+schematica.command.save.usage=/schematicaSave <startX> <startY> <startZ> <endX> <endY> <endZ> <name>
+schematica.command.save.playersOnly=此指令只能由玩家使用.
+schematica.command.save.started=開始將 %d 區塊儲存至 %s.
+schematica.command.save.saveSucceeded=成功儲存 %s.
+schematica.command.save.saveFailed=儲存schematic %s 時遇到問題.
+schematica.command.save.quotaExceeded=你已經超出了伺服器配額. 請使用/schematicaList 和/schematicaRemove 指令移除一些舊schematics.
+schematica.command.save.playerSchematicDirUnavailable=伺服器遇到一個問題，你的schematic未能儲存。請聯絡伺服器管理員。
+
+# commands - list
+schematica.command.list.usage=/schematicaList [page]
+schematica.command.list.notAvailable=檢索你的schematics列表時遇到問題.
+schematica.command.list.remove=移除
+schematica.command.list.download=下載
+schematica.command.list.header=--- 顯示中schematics第%d頁,共%d頁 ---
+schematica.command.list.noSuchPage=無此頁
+schematica.command.list.noSchematics=沒有可用schematics.
+
+# commands - remove
+schematica.command.remove.usage=/schematicaRemove <name>
+schematica.command.remove.schematicRemoved=已移除Schematic "%s".
+schematica.command.remove.schematicNotFound=找不到Schematic "%s".
+schematica.command.remove.areYouSure=你確定?
+
+# commands - download
+schematica.command.download.usage=/schematicaDownload <name>
+schematica.command.download.started=開始下載 %s...
+schematica.command.download.downloadSucceeded=%s 下載成功.
+schematica.command.download.downloadFail=下載失敗.

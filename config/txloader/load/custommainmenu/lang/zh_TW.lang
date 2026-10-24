@@ -1,0 +1,14 @@
+menu.gtnh.singleplayer=單人遊戲
+menu.gtnh.singleplayer.hover=孤獨、惆悵 ...
+menu.gtnh.multiplayer=多人遊戲
+menu.gtnh.multiplayer.hover=加入我們
+menu.gtnh.options=遊戲設定
+menu.gtnh.language=語言
+menu.gtnh.mods=模組(#modsloaded#/#modsactive#)
+menu.gtnh.quit=退出
+menu.gtnh.quit.hover=不！別走！
+menu.gtnh.forge=Forge #forgeversion# 對應 Minecraft #mcversion#
+menu.gtnh.mojang=版權所有 -Mojang AB- 請勿分發！
+menu.gtnh.aviators=開源音樂作品，由Aviators創作
+menu.gtnh.sol=絕對零度，由Sol IX創作
+menu.gtnh.nasa=背景照片來源：NASA/ESA/哈勃/韋布

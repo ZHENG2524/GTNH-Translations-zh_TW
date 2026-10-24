@@ -1,0 +1,220 @@
+#Group names
+itemGroup.ThaumicEnergistics=神秘能源
+thaumicenergistics.group.essentia.transport=ME源質輸入/輸出匯流排
+
+#Blocks
+thaumicenergistics.block.essentia.provider.name=源質供應器
+thaumicenergistics.block.infusion.provider.name=注魔供應器
+thaumicenergistics.block.advanced.infusion.provider.name=高階注魔供應器
+thaumicenergistics.block.gear.box.name=鐵齒輪箱
+thaumicenergistics.block.golem.gear.box.name=神秘齒輪箱
+thaumicenergistics.block.arcane.assembler.name=奧術裝配室
+thaumicenergistics.block.knowledge.inscriber.name=知識記錄儀
+thaumicenergistics.block.essentia.vibration.chamber.name=源質諧振倉
+thaumicenergistics.block.distillation.encoder.name=蒸餾編碼臺
+
+#Cable parts
+thaumicenergistics.item.aeparts.name=源質匯流排/終端/介面/監控器
+thaumicenergistics.aeparts.essentia.ImportBus.name=ME源質輸入匯流排
+thaumicenergistics.aeparts.essentia.ExportBus.name=ME源質輸出匯流排
+thaumicenergistics.aeparts.essentia.StorageBus.name=ME源質儲存匯流排
+thaumicenergistics.aeparts.arcane.crafting.terminal.name=奧術合成終端
+thaumicenergistics.aeparts.vis.interface.name=Vis中繼介面
+thaumicenergistics.aeparts.vis.interface_creative.name=創造模式Vis中繼介面
+
+#Items
+item.itemCraftingAspect.name=源質
+thaumicenergistics.item.essentia.cell.name=ME源質儲存元件
+thaumicenergistics.item.essentia.cell.1k.name=§61k§r-ME源質儲存元件
+thaumicenergistics.item.essentia.cell.4k.name=§e4k§r-ME源質儲存元件
+thaumicenergistics.item.essentia.cell.16k.name=§a16k§r-ME源質儲存元件
+thaumicenergistics.item.essentia.cell.64k.name=§b64k§r-ME源質儲存元件
+thaumicenergistics.item.essentia.cell.256k.name=§9256k§r-ME源質儲存元件
+thaumicenergistics.item.essentia.cell.1024k.name=§d1024k§r-ME源質儲存元件
+thaumicenergistics.item.essentia.cell.4096k.name=§c4096k§r-ME源質儲存元件
+thaumicenergistics.item.essentia.cell.16384k.name=§516384k§r-ME源質儲存元件
+thaumicenergistics.item.essentia.cell.quantum.name=ME源質量子儲存元件
+thaumicenergistics.item.essentia.cell.singularity.name=ME源質數字奇點元件
+thaumicenergistics.item.essentia.cell.creative.name=魔導源質儲存元件
+thaumicenergistics.item.storage.casing.name=ME源質儲存外殼
+thaumicenergistics.item.storage.component.name=ME源質儲存元件
+thaumicenergistics.item.storage.component.1k.name=§61k§r-ME源質儲存元件
+thaumicenergistics.item.storage.component.4k.name=§e4k§r-ME源質儲存元件
+thaumicenergistics.item.storage.component.16k.name=§a16k§r-ME源質儲存元件
+thaumicenergistics.item.storage.component.64k.name=§b64k§r-ME源質儲存元件
+thaumicenergistics.item.storage.component.256k.name=§9256k§r-ME源質儲存元件
+thaumicenergistics.item.storage.component.1024k.name=§d1024k§r-ME源質儲存元件
+thaumicenergistics.item.storage.component.4096k.name=§c4096k§r-ME源質儲存元件
+thaumicenergistics.item.storage.component.16384k.name=§516384k§r-ME源質儲存元件
+thaumicenergistics.item.material.name=材料
+thaumicenergistics.item.material.diffusion.core.name=擴散核心
+thaumicenergistics.item.material.coalescence.core.name=聚集核心
+thaumicenergistics.item.material.iron.gear.name=鐵齒輪
+thaumicenergistics.item.knowledge.core.name=知識核心
+thaumicenergistics.item.focus.aewrench.name=法杖核心: AE扳手
+thaumicenergistics.item.focus.aewrench.disabled.name=法杖核心: AE扳手 - 扳手模式已禁用
+thaumicenergistics.item.golem.wifi.backpack.name=無線傀儡揹包
+thaumicenergistics.item.cell.microscope.name=元件顯微鏡
+
+#Tooltips
+thaumicenergistics.tooltip.itemstack.details=按住§eCTRL§f檢視詳細資訊.
+thaumicenergistics.tooltip.essentia.cell.contains=包含
+thaumicenergistics.tooltip.essentia.cell.creative=無限供應所有源質型別。
+thaumicenergistics.tooltip.essentia.cell.bytes=位元組已使用.
+thaumicenergistics.tooltip.essentia.cell.types=源質型別儲存.
+thaumicenergistics.tooltip.button.void=允許清空
+thaumicenergistics.tooltip.button.void.disabled=不清空源質
+thaumicenergistics.tooltip.button.void.allowed=罐子溢滿時清空源質
+thaumicenergistics.tooltip.button.void.note=只供應給虛空罐子
+thaumicenergistics.tooltip.button.inscriber.invalid=無效配方
+thaumicenergistics.tooltip.button.inscriber.full=知識核心已滿
+thaumicenergistics.tooltip.button.inscriber.delete=從核心中除去模板
+thaumicenergistics.tooltip.button.inscriber.save=向核心存入模板
+thaumicenergistics.tooltip.button.inscriber.missing=需要知識核心
+thaumicenergistics.tooltip.button.swap.armor=將你目前裝備的護甲與終端中的護甲交換.
+thaumicenergistics.tooltip.button.swap.armor.title=交換護甲
+thaumicenergistics.tooltip.arcane.assembler.hasVis=已儲存Vis
+thaumicenergistics.tooltip.button.reset.aspect=重置各方面
+thaumicenergistics.tooltip.button.reset.aspect.description=將左側表格重置為原始狀態
+thaumicenergistics.tooltip.advanced.infusion.provider.working.on=工作模式
+thaumicenergistics.tooltip.advanced.infusion.provider.normal=普通供應器
+thaumicenergistics.tooltip.advanced.infusion.provider.advanced=高階供應器
+thaumicenergistics.tooltip.advanced.infusion.provider.totalbind=共繫結%d個矩陣
+
+#GUI
+thaumicenergistics.gui.arcane.assembler.title=奧術裝配室
+thaumicenergistics.gui.knowledge.inscriber.title=知識記錄儀
+thaumicenergistics.gui.distillation.encoder.title=蒸餾編碼臺
+
+thaumicenergistics.gui.selected.amount=數量
+thaumicenergistics.gui.selected.aspect=源質
+thaumicenergistics.gui.digivis.source.name=數位Vis源
+thaumicenergistics.gui.vibration.chamber.stored=儲存：%d %s
+thaumicenergistics.gui.vibration.chamber.processing=正在處理：%s
+
+thaumicenergistics.gui.essentia=源質
+
+#Waila
+thaumicenergistics.waila.vis.linked.devices=已連結裝置：%d
+thaumicenergistics.waila.vis.source=魔力來源：%d, %d, %d
+thaumicenergistics.waila.vis.source.dimension=魔力來源：%d, %d, %d（%s）
+thaumicenergistics.waila.vis.source.none=魔力來源：無
+thaumicenergistics.waila.vis.source.unreachable=魔力來源：無法連接
+
+#Research Tab
+tc.research_category.thaumicenergistics=神秘能源
+
+# Research basics
+tc.research_name.thaumicenergistics.TERESEARCH=神秘能源
+tc.research_text.thaumicenergistics.TERESEARCH=數字化時代也是可以用些魔法的
+thaumicenergistics.research_page.TERESEARCH.1=同時作為科學家和奧術學者，你設想有方法能將科技與魔法穩定有效地結合起來。<BR>你需要先細緻研究物質與能量相互轉換的法則。似乎神秘學中有源質可以做到，科技中也有方法做到同樣的事。<BR>這可能需要大量的研究，但你確信這樣投入時間是值得的。
+
+# Research conversion cores
+tc.research_name.thaumicenergistics.TECORES=源質數位化
+tc.research_text.thaumicenergistics.TECORES=幾位大小的源質液體
+thaumicenergistics.research_page.TECORES.1=完成源質蒸餾的研究後你突然想到可以數字化儲存源質。<BR>測試了§l成型核心§r和§l破壞核心§r後你意識到僅需小改動就能做到在源質與數位格式之間轉化。<BR>由於某些源質天生具有腐蝕性，就需要在電路表面覆上一層水銀來預防侵蝕。
+thaumicenergistics.research_page.TECORES.2=§l擴散核心§r<BR>源質液體相對較高的波動性和所含的能量使得需先將其擴散稀釋再數字化。這時候就需要某種緩衝器來容納這些擴散的源質。<LINE>§l聚集核心§r<BR>壓縮並將分散的源質重塑凝為原先的液態很可能也需要這樣一個緩衝器。
+
+# Research storage
+tc.research_name.thaumicenergistics.TESTORAGE=數位化源質儲存
+tc.research_text.thaumicenergistics.TESTORAGE=這貨真的能儲存源質？
+thaumicenergistics.research_page.TESTORAGE.1=檢查了現有的數字化儲存媒介後你總結出確實可以儲存這些數字化的源質。<BR>§l賽特斯石英§r透過注入濃縮的物質，就會獲得儲存源質的能力，在數字化的格式下也是十分有效的。<BR>你總結了注入的物質越濃縮儲存空間就越大的結論。但這不會大於石英本身所能承受的儲存大小。
+thaumicenergistics.research_page.TESTORAGE.2=§l元件§r<BR>儲存元件以數位格式儲存源質。單獨是無法操作的，它們需要元件外殼才能與數字網路進行互動。<LINE>§l元件外殼§r<BR>為儲存元件提供了介面以及保護。
+
+# Research IO
+tc.research_name.thaumicenergistics.TEIO=數位化源質運輸
+tc.research_text.thaumicenergistics.TEIO=即時運輸源質。
+thaumicenergistics.research_page.TEIO.1=現在你已經知道了如何數字化源質，是時候投入實際使用了。<LINE>§l輸入&輸出§r<BR>透過組合恰當的核心，源質管道與源質罐子你就能輸入或輸出網路內的源質儲存。源質過濾管道的使用讓你能設定可輸送的源質型別。
+thaumicenergistics.research_page.TEIO.2=§l儲存匯流排§r<BR>將輸入和輸出匯流排併入一個裝置中，讓你可以將外部的源質容器讀取到網路中。<BR>除了儲存之外，匯流排還可以使用虛空罐子或者物質聚合器來清除多餘的源質。若使用虛空罐子，你需要在GUI中設定允許使用虛空罐子。在這裡強烈建議為儲存匯流排設定低優先順序。
+
+# Research Arcane crafting terminal
+tc.research_name.thaumicenergistics.TEARCANETERM=奧術合成終端
+tc.research_text.thaumicenergistics.TEARCANETERM=利用魔法§o與科技§r來合成
+thaumicenergistics.research_page.TEARCANETERM.1=你已發現將初始源質注入§l終端§r和§l奧術工作臺§r，就能賦予終端合成奧術物品的能力。<BR>終端仍保有其訪問ME網路中物品的能力，保證了快速高效的合成，還提供了儲存並交換護甲的能力，在你需要快速減免Vis消耗時你會用到的。
+
+# Research Essentia Provider
+tc.research_name.thaumicenergistics.TEESSPROV=源質供應器
+tc.research_text.thaumicenergistics.TEESSPROV=應汝所呼
+thaumicenergistics.research_page.TEESSPROV.1=儘管輸入和輸出匯流排適用於許多工作，它們還缺乏與複雜鍊金裝置相接的靈活性。為了突破這個限制你做出了一個使得這些裝置能直接的從網路中獲取源質的裝置。<BR>使用§l源質供應器§r時就成了項輕鬆的工作。只要將它連線網路和裝置，它就會完成剩下所有的事。<BR>和源質緩衝器相似，它也有少量吸力(8)。
+
+# Research Infusion Provider
+tc.research_name.thaumicenergistics.TEINFPROV=注魔供應器
+tc.research_text.thaumicenergistics.TEINFPROV=注魔易矣
+thaumicenergistics.research_page.TEINFPROV.1=透過研究源質注魔的過程，你發現了能用於注魔的源質瞬間數字化與數字瞬間源質化的方法。<BR>將§l注魔供應器§r鄰近神秘裝置放置，裝置就能直接從網路中抽取源質，就像是源質罐子一樣。<BR>如果供應器試圖抽取網路中不存在的要素源質，它將一批嘗試合成32個（前提是存在樣板和合成CPU）。<BR>這可能對注魔祭壇來說這十分實用。
+
+
+# Research Advanced Infusion Provider
+tc.research_name.thaumicenergistics.TEADVINFPROV=高階注魔供應器
+tc.research_text.thaumicenergistics.TEADVINFPROV=極簡注魔
+thaumicenergistics.research_page.TEADVINFPROV.1=不斷最佳化網路合成自動化時，注魔配方的緩慢速度肯定讓你頭疼了無數次。<BR>§l高階注魔供應器§r能瞬間將所有所需源質注入啟用的注魔祭壇，<BR>並自動按精確數量下單任何缺失的源質。<BR>它可以繫結任意數量的注魔矩陣，水平最遠12格，垂直最遠5格。
+
+# Research Vis Interface
+tc.research_name.thaumicenergistics.TEVISINT=Vis中繼介面
+tc.research_text.thaumicenergistics.TEVISINT=數位化使用源質魔力
+thaumicenergistics.research_page.TEVISINT.1=發現源質能量網之後，你開始研究將其與數字網路連線的方法。<BR>在細緻觀察要源質在§l源質中繼§r網路中的流動後，你確信自己也能做出一個有著相似功能的數字化裝置。利用數字網路的點對點能力你就可以匯入，傳導源質，併為數字裝置所用，但要儲存源質你還需要進行更深入的研究。
+thaumicenergistics.research_page.TEVISINT.2=要使用§lVis中繼介面§r，只需將其接入數字網路並在其上放置一個Vis中繼器。中繼器的底端必須附在介面上。<BR>若要將其他裝置連線到介面則需§l記憶體卡§r。<BR>用記憶體卡shift右擊介面，之後右擊一個裝置來建立連線。
+thaumicenergistics.research_page.TEVISINT.3=§l連線§r<LINE>§lVis中繼介面§r。構建一個VisP2P通道。<BR>§l奧術合成終端§r。在A.C.T（奧術合成終端）中給法杖充能。<BR>§l奧術裝配室§r。儲存Vis，並用於合成。
+
+# Research Iron Gear Box
+tc.research_name.thaumicenergistics.TEIRONGEARBOX=鐵齒輪箱
+tc.research_text.thaumicenergistics.TEIRONGEARBOX=只需轉動那一個
+thaumicenergistics.research_page.TEIRONGEARBOX.1=使用過§l木質曲柄§r後你產生了些許疑問，它是否還能有所改進？<BR>你想方設法將一組齒輪裝入盒子中，當其中一側轉動時便會驅動其他面的齒輪。為此你就需要比木材更加堅固的材料，最終你將鐵固定在木齒輪上，做出了§l鐵齒輪§r。<BR>§l鐵齒輪箱§r讓你能同時轉動多個裝置。你需要調整這些裝置的朝向，讓輸入面朝著齒輪箱。
+thaumicenergistics.research_page.TEIRONGEARBOX.2=驅動多個裝置時如兩個研磨機和充能器時，動力將會被平均分配到所有可傳遞的方向上。<BR>它的另一個優勢就在於能被多人同時使用。人數越多，輸出的動力就越大。<BR>只要你能找到人能為你整天站在那裡轉這個……
+
+# Research Thaumium Gear Box
+tc.research_name.thaumicenergistics.TETHAUMGBOX=神秘齒輪箱
+tc.research_text.thaumicenergistics.TETHAUMGBOX=蠢萌的免費勞力
+thaumicenergistics.research_page.TETHAUMGBOX.1=既然傀儡能代替你右擊操作，是時候把齒輪箱改造成適合它們的版本了。加上一點金屬和魔法，你就成功地將§l鐵齒輪箱§r改造成了§l神秘齒輪箱§r。<BR>改良後的齒輪箱可讓任意裝有§l使用運轉核心§r的傀儡驅動。
+
+# Research Certus Quartz Duplication
+tc.research_name.thaumicenergistics.TECERTUSDUPE=賽特斯石英複製
+tc.research_text.thaumicenergistics.TECERTUSDUPE=吃我鍊金術
+thaumicenergistics.research_page.TECERTUSDUPE.1=你現在能用鍊金術複製§l賽特斯石英§r和§l下界石英§r了。
+
+# Research Knowledge Inscriber + Core
+tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER=知識記錄儀
+tc.research_text.thaumicenergistics.TEKNOWLEDGEINSCRIBER=魔力模板
+thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.1=做出了§l奧術裝配室§r，你需要告訴它該裝配什麼。你發明了一個可儲存有限的奧術配方的裝置。§l知識核心§r就可以儲存這些配方的模板，將其放入裝配室來協助它組裝物品。<BR>為了將配方模板寫入核心，你就需要用到§l知識記錄儀§r。
+thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.2=使用知識記錄儀<BR>首先在右上角的槽放入一個§l知識核心§r。接下來，用合成欄來設定物品的合成配方。如果你有配方所需的知識（研究），就會顯示出可合成的物品。再按下儲存按鈕就會將配方寫入核心。製作的成品會顯示在模板儲存區。<BR>若要從核心移除一個配方，先在模板儲存區選擇一個模板。選擇的配方模板就會顯示在合成區。最後，點選刪除按鈕就會移除模板。
+
+# Research Arcane Assembler
+tc.research_name.thaumicenergistics.TEARCANEASSEMBLER=奧術裝配室
+tc.research_text.thaumicenergistics.TEARCANEASSEMBLER=裝配魔力分子
+thaumicenergistics.research_page.TEARCANEASSEMBLER.1=除錯§l分子裝配室§r時你就想著能不能將它改裝，使其能製造奧術物品。總結下來，給它嵌入相應的碎片就能讓它將魔力注入物品中。它也需要中等儲量的Vis，§l銀樹權杖§r似乎是最好的選擇。<BR>注意： 需要一個完全充能的權杖，並且權杖最終不會返還。
+thaumicenergistics.research_page.TEARCANEASSEMBLER.2=§l模板儲存§r<BR>裝配室本身不會儲存合成配方。或許你還要進一步研究才能做出儲存模板的東西。<BR>§lVis補充§r<BR>補充裝配室的Vis需要用到§lVis中繼介面§r。<BR>§l加速卡§r<BR>每張都會減少20%的合成時間並增加50%的消耗。
+thaumicenergistics.research_page.TEARCANEASSEMBLER.3=§lVis減免§r<BR>裝配室會根據工藝權杖獲取一個基礎的Vis減免。同時可以提供Vis減免的防具還能進一步提升減免的效果。每種Vis的減免可透過懸停在GUI的Vis來檢視。<BR>注意裝配室對扭曲裝備的效果不免疫。每點扭曲值都會抽取額外15%的能量來維持穩定，該效果只會在合成時生效。
+
+# Research Wrench Focus
+tc.research_name.thaumicenergistics.TEFOCUSWRENCH=法杖核心： AE扳手
+tc.research_text.thaumicenergistics.TEFOCUSWRENCH=一些地方會用得上的
+thaumicenergistics.research_page.TEFOCUSWRENCH.1=這個法杖核心的作用類似於AE2的扳手。<BR>潛行+左鍵：轉向。<BR>潛行+右鍵：拆除。
+
+# Research Essentia Vibration Chamber
+tc.research_name.thaumicenergistics.TEESSVIBCMBR=源質諧振倉
+tc.research_text.thaumicenergistics.TEESSVIBCMBR=源質驅動網路
+thaumicenergistics.research_page.TEESSVIBCMBR.1=直到現在你的網路所需的能量還是要依賴§l諧振倉§r燃燒物品。是時候改變這一切了！<BR>你造出了一臺可以釋放源質中的能量的裝置，它可以為諧振倉提供能量。現在只需要蒸餾出§lIgnis§r或§lPotentia§r源質，你就可以僅靠燒物品來驅動你的網路了。<BR>不過要注意一點，它也有和普通諧振倉一樣的限制：若網路中有足夠能源，它就會降低輸出以避免浪費，但只要還有源質它就會一直反應下去。
+thaumicenergistics.research_page.TEESSVIBCMBR.2=§l§n操作§r<BR>將諸如煤炭之類的物品分解，以得到Ignis或Potentia源質，這些源質可以為你帶來更多的能量。你最初的估計是，將煤炭分解成源質再使用源質諧振倉供能，相比於直接燒煤，可以帶來約350%的效率提升。Potentia源質似乎比Ignis源質更具有開發潛力。<BR>§l源質諧振倉§r在沒有源質時，可根據實際情況智慧調整對源質的需求，將需求量穩定在一個正常的水平上。當存有源質時，它只會請求更多其存有的源質。
+thaumicenergistics.research_page.TEESSVIBCMBR.3=開啟GUI後，其GUI會顯示當前儲存的源質種類，源質數量，正在處理的源質，剩餘時間以及當前產能等級。<LINE>§l§n備註§r<BR>§l源質諧振倉§r可置於§l源質終端§r中以快速填裝源質。<BR>§l源質輸出匯流排§r，§l源質儲存匯流排§r和源質管道都可以為§l源質諧振倉§r源源不斷提供源質。
+
+# Research Distillation Pattern Encoder
+tc.research_name.thaumicenergistics.TEDISTILLATIONPATTERNENCODER=蒸餾編碼臺
+tc.research_text.thaumicenergistics.TEDISTILLATIONPATTERNENCODER=買買買
+thaumicenergistics.research_page.TEDISTILLATIONPATTERNENCODER.1=將AE自動合成的原理進行推廣後，你找到了將源質蒸餾過程寫入§l編碼樣板§r的方法。<BR>將物品放入魔導透鏡的格子中後會揭示其源質組成。選中你想要的源質後，其資料就可以寫入樣板中了。
+
+# Research Golem Wifi Backpack
+tc.research_name.thaumicenergistics.TEGOLEMWIFIBACKPACK=無線傀儡揹包
+tc.research_text.thaumicenergistics.TEGOLEMWIFIBACKPACK=DigitalGolem423@ae2.net
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.1=你的傀儡不斷地奔波於各個箱子之間，幫你儲存收集到的物品，以供不時之需。在看到這一切後，你開始思考一個問題：有沒有可能把這個中間人裁掉？ 而當你想到你的ME網路可以做到無線訪問後，你恍然大悟：你完全可以用一樣的方法完成這個任務。<BR>在熱火朝天地奮鬥數小時後，你終於做出來了一個特製揹包，傀儡可以透過這個揹包訪問ME網路。然而這個揹包也有一些侷限。傀儡必須處在§lAccess Point§r的範圍內方可訪問網路。天線上的福魯伊克斯珍珠可以告訴你傀儡是否能訪問ME網路。
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.2=有鑑於連線網路也需要耗能，你對充能器做了些修改，使得它可以從兩個內嵌的閃耀之光中吸取能量。充能後，揹包僅有一小段可與網路建立連線的時間。在這段寶貴的時間裡傀儡便可與網路進行無線互動。<BR>要將揹包與你的網路連線，將其置於安全終端中即可。<LINE>隨著你對傀儡學研究的不斷深入，請不要忘記繼續瀏覽本頁以檢視新的用法。
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.3=§n迷彩§r<BR>各種迷彩可以為揹包帶來各種不同的風格。可用的偽裝材質有：神秘塊（預設），宏偉之木，磚，草垛，油脂塊，腐肉塊，石頭，鐵塊，金塊以及鑽石塊。<BR>手持目標方塊右擊背有揹包的傀儡以改變迷彩。
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREGATHER=§n聚集核心 解鎖§r<IMG>thaumicenergistics:textures/gui/states.png:16:0:16:16:1.0</IMG>裝備有§l聚集核心§r的傀儡可將收集到的物品直接存入網路。單次儲存物品之最大數取決於傀儡管理每次充能的效率。
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREFILL=§n填充核心 解鎖§r<IMG>thaumicenergistics:textures/gui/states.png:32:0:16:16:1.0</IMG>裝備有§l填充核心§r的傀儡可直接從網路中抽取物品。單次提取物品之最大數取決於傀儡的GUI以及傀儡管理每次充能的效率。
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.CORELIQUID=§n移液核心 解鎖§r<IMG>thaumicenergistics:textures/gui/states.png:48:0:16:16:1.0</IMG>裝備有§l移液核心§r的傀儡可直接從網路中抽取液體。單次提取流體之最大數取決於傀儡管理每次充能的效率。<LINE>特別提醒：在ME網路中儲存流體的功能需要別的MOD支援，例如Extra Cells 2。
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREALCHEMY=§n鍊金核心 解鎖§r<IMG>thaumicenergistics:textures/gui/states.png:64:0:16:16:1.0</IMG>裝備有§l鍊金核心§r的傀儡可自動從網路中自動存入或抽取源質。單次傳輸源質之最大數取決於傀儡管理每次充能的效率。<BR>當傀儡被放置於源質來源上時，例如放置於鍊金熔爐上時，它會自動將源質存入網路。<BR>若是要求傀儡填裝源質容器，例如罐子，那麼它會從網路中提取源質。
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.UPGRADEORDER=§n秩序升級 解鎖§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>裝備有秩序升級的傀儡會更高效地管理揹包能量，這為其帶來了單次充能後工作量的提升。
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.ADVANCEDGOLEM=§n高階傀儡§r<IMG>thaumcraft:textures/items/brain.png:0:0:255:255:0.0625</IMG>高階傀儡每次充能後的工作量是原來的兩倍。
+
+# Research Cell Microscope
+tc.research_name.thaumicenergistics.TECELLMICROSCOPE=元件顯微學
+tc.research_text.thaumicenergistics.TECELLMICROSCOPE=風夸克與地夸克
+thaumicenergistics.research_page.TECELLMICROSCOPE.1=經過仔細的研究與實驗，你發明了一種顯微掃描裝置，可以生成儲存元件中所包含能量的詳細影象。 這個過程十分複雜，在此過程中元件需要處於地面上。<LINE>元件中包含的所有物品都將被掃描，就像使用§l魔導透鏡§r掃描一樣。

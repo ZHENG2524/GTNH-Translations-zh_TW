@@ -1,0 +1,53 @@
+gui.main_menu.button.credits=鳴謝：
+gui.credits.title=鳴謝：
+gui.credits.button.back=返回
+gui.credits.filter.hint=篩選
+gui.credits.button.filter.fuzzy=模糊
+gui.credits.button.filter.exact=精準
+gui.credits.button.filter.exact_tip_line=使用正規表示式精確匹配所需名稱的開頭
+gui.credits.button.filter.fuzzy_tip_line=使用“模糊匹配”來查詢與所需名稱最接近的匹配項
+
+credits.category.team=§0核心團隊
+credits.category.team.detail=核心團隊負責§3§l格雷科技：新視野§r整合包的整體方向、維護與釋出工作。\n他們的職責涵蓋模組包的設計規劃、協調統籌、基礎設施搭建以及長遠發展願景的制定。
+
+credits.category.dev=開發者
+credits.category.dev.detail=開發者們設計並實現了構成格雷科技：新視野的模組、指令碼、配置以及工具。\n工作涵蓋範圍從搭建全新遊戲系統到改進構建流程，無所不包。
+
+credits.category.contrib=§4貢§5獻§4者
+credits.category.contrib.detail=貢獻者們提交的修復、內容或改進§l已§c§l被§b納§n入§r§n整§o§m合§r§o§m包§r§m中§r。每一份貢獻都至關重要。
+
+credits.category.support=§0支§5持§n者
+credits.category.support.detail=支持者們透過捐贈、伺服器託管、社群管理及其他形式的協助，讓這個專案得以持續運轉。我們由衷感謝他們的慷慨付出與不懈奉獻。
+
+credits.category.thanks=特別感謝
+credits.category.thanks.detail=特別感謝每一位報告漏洞、撰寫文件、製作指南或以各種方式（無論大小）支援本專案的朋友。\n沒有社群的支援，就不會有格雷科技：新視野。
+
+credits.category.loremipsum=佔位符測試
+credits.category.loremipsum.detail=一二三，四五六，七八九，十百千。甲乙丙丁，子醜寅卯。金木水火土，東西南北中。上下左右，前後內外。大小多少，長短高低。方圓曲直，黑白紅綠。喜怒哀樂，悲歡離合。柴米油鹽，醬醋茶糖。琴棋書畫，詩酒花茶。梅蘭竹菊，春夏秋冬。風雨雷電，冰雪霜霧。江河湖海，山川草木。鳥獸蟲魚，人神鬼怪。\n仁義禮智，信孝悌忠。溫良恭儉，讓廉恥勇。夫天地者，萬物之逆旅。光陰者，百代之過客。浮生若夢，為歡幾何？\n古人秉燭夜遊，良有以也。況陽春召我以煙景，大塊假我以文章。會桃李之芳園，序天倫之樂事。群季俊秀，皆為惠連；吾人詠歌，獨慚康樂。幽賞未已，高談轉清。開瓊筵以坐花，飛羽觴而醉月。不有佳作，何伸雅懷？\n如詩不成，罰依金谷酒數。夫天地之道，損有餘而補不足。人之道則不然，損不足以奉有餘。孰能有餘以奉天下？唯有道者。是以聖人為而不恃，功成而不處，其不欲見賢。天下莫柔弱於水，而攻堅強者莫之能勝，以其無以易之。\n弱之勝強，柔之勝剛，天下莫不知，莫能行。是以聖人云：受國之垢，是謂社稷主；受國不祥，是為天下王。正言若反。和大怨，必有餘怨，安可以為善？是以聖人執左契，而不責於人。\n有德司契，無德司徹。天道無親，常與善人。
+
+credits.person.role.gtnhcreator=§6§lGTNH §f§l創作者
+credits.person.role.dev=§5開發者
+credits.person.role.contributor=貢獻者
+
+# Test category: id "Key Test" -> sanitized key_test
+credits.category.key_test=鍵測試（已翻譯）
+credits.category.key_test.detail=此類別用於驗證關鍵資訊清理。\n類別ID"Key Test"對應翻譯鍵credits.category.key_test。\n角色："Test-Role" -> testrole（已翻譯），"Core.Mod" -> coremod（已翻譯），"No.Trans Role" -> notrans_role（無對應條目，回退顯示原始字串）。
+
+credits.person.role.testrole=測試角色（已翻譯）
+credits.person.role.coremod=核心模組（已翻譯）
+# "No.Trans Role" -> notrans_role: intentionally no entry to exercise fallback
+
+# "No-Trans Cat" -> no_trans_cat: intentionally no entries to exercise full fallback
+
+# Test category: id "Indexed Detail" -> sanitized indexed_detail
+# Indexes are defined out of order here (0, 10, 2) to verify natural sort renders them 0, 2, 10.
+# \n within a paragraph = line break only (no empty-line gap between lines of the same paragraph).
+credits.category.indexed_detail.detail.0=段落零，第一行。\n段落零，第二行（換行，上方無空行）。
+credits.category.indexed_detail.detail.2=第二段（自然排序：顯示在 0 之後、10 之前）。
+credits.category.indexed_detail.detail.10=第十段（自然排序：儘管按字典順序“10”在“2”之前，但顯示在最後）
+
+credits.category.newcat=§3新建類別
+
+credits.category.notrans_cat=現在§l帶有§r翻譯
+
+credits.category.mod_authors=模組作者

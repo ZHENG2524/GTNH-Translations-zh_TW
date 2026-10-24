@@ -1,0 +1,13 @@
+key.categories.freecam=自由視角
+key.freecam.toggle=切換自由視角
+key.freecam.resetTripods=重置鏡頭（切換）
+key.freecam.playerControl=切換玩家控制（切換）
+
+msg.freecam.enable=§fFreecam 已啟用。§r
+msg.freecam.disable=§fFreecam 已禁用。§r
+msg.freecam.speed=§f速度：%.1fx§r
+msg.freecam.tripod.open=§f正在開啟鏡頭 #%d§r
+msg.freecam.tripod.close=§f正在關閉鏡頭 #%d§r
+msg.freecam.tripod.reset=§f已重置所有鏡頭§r
+msg.freecam.control.player=§f控制中：玩家§r
+msg.freecam.control.camera=§f控制中：鏡頭§r

@@ -1,0 +1,31 @@
+bdew.neiaddons.genetics=林業基因
+bdew.neiaddons.exnihilo=無中生有
+
+bdew.neiaddons.breeding.beebreeding=蜜蜂雜交
+bdew.neiaddons.produce.beeproduce=蜜蜂產物
+bdew.neiaddons.breeding.mutationchance=精確突變機率
+bdew.neiaddons.produce.prod=產物：
+bdew.neiaddons.produce.spec=特殊產物：
+
+bdew.neiaddons.breeding.treebreeding=樹木雜交
+bdew.neiaddons.produce.treeproduce=樹木產物
+
+bdew.neiaddons.breeding.flowerbreeding=花卉雜交
+
+bdew.neiaddons.breeding.butterflybreeding=蝴蝶雜交
+
+bdew.exnihilo.hammer.label=無中生有-錘
+bdew.exnihilo.sieve.label=無中生有-篩子
+
+bdew.exnihilo.barrel.burn=將在 %s 後燃燒!!!
+bdew.exnihilo.beetrap.spawn=生成: %s%%
+bdew.exnihilo.crucible.fluid=流體: %s %s mB
+bdew.exnihilo.crucible.solid=固體: %s %s
+
+bdew.neiaddons.noserver=本功能需要在NEI Addons被安裝到伺服器端後才被支援
+
+nei.options.tools.dump.neiaddons=NEI 附加模組
+nei.options.tools.dump.neiaddons.dumped=%s 已匯出至 %s
+nei.options.tools.dump.neiaddons.bee_mutations=蜜蜂變異
+nei.options.tools.dump.neiaddons.tree_mutations=樹木變異
+nei.options.tools.dump.neiaddons.flower_mutations=花卉變異

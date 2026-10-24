@@ -1,0 +1,13 @@
+itemGroup.nodalmechanics.tab=節點學
+
+item.nodalmechanics.matrix.name=節點基體
+item.nodalmechanics.matrix.attuned.name=節點基體（已調製）
+item.nodalmechanics.matrix.unattuned.name=節點基體（未調製）
+tooltip.nodalmechanics.matrix.attuned=微弱的響聲...
+tooltip.nodalmechanics.matrix.unattuned=空
+tooltip.nodalmechanics.matrix.recipe=可多次調製
+
+tc.research_name.NODECATALYZATION=節點催生
+tc.research_text.NODECATALYZATION=無中……生有
+
+nodalmechanics.nodecatalyzation.research=將你關於節點和源質罐子的學識付之一用,你成功的發明出了一種催生出新節點的方法.<BR>組合一些源質來調製節點基體就能獲得一個節點的種子,之後給其注入大量的Vis就能激發它的生成.

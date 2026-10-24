@@ -1,0 +1,464 @@
+# English (US)
+
+
+# NOTE:
+# Providing additional lore translations doesn't require any code changes, they are detected automatically. If you have
+# fewer variations in your lang file than the default lang file (en_US, this file), provide blank translations to avoid
+# the game falling back to the default translations. Adding more variations than provided by default is possible.
+
+
+# Creative Tabs
+itemGroup.GTNH-Intergalactic=GTNH-銀河
+
+# Achievements
+achievement.gt.blockmachines.spaceelevator=太空電梯
+achievement.gt.blockmachines.spaceelevator.desc=星際運輸的又一個里程碑
+achievement.gt.blockmachines.projectmoduleassemblert1=太空組裝模組 Mk-I
+achievement.gt.blockmachines.projectmoduleassemblert1.desc=在太空中組裝?你這是褻瀆!
+achievement.gt.blockmachines.projectmoduleassemblert2=太空組裝模組 Mk-II
+achievement.gt.blockmachines.projectmoduleassemblert2.desc=是它在組裝太空？還是太空在組裝它？
+achievement.gt.blockmachines.projectmoduleassemblert3=太空組裝模組 Mk-III
+achievement.gt.blockmachines.projectmoduleassemblert3.desc=它剛剛組裝了一個星球?
+achievement.gt.blockmachines.projectmoduleminert1=太空採礦模組 Mk-I
+achievement.gt.blockmachines.projectmoduleminert1.desc=一個資源收集的新時代開始了
+achievement.gt.blockmachines.projectmoduleminert2=太空採礦模組 Mk-II
+achievement.gt.blockmachines.projectmoduleminert2.desc=部署無人機!
+achievement.gt.blockmachines.projectmoduleminert3=太空採礦模組 Mk-III
+achievement.gt.blockmachines.projectmoduleminert3.desc=希望這些無人機不要譁變
+achievement.gt.blockmachines.projectmodulepumpt1=太空鑽機模組 Mk-I
+achievement.gt.blockmachines.projectmodulepumpt1.desc=讓我們從氣態行星裡抽點東西出來
+achievement.gt.blockmachines.projectmodulepumpt2=太空鑽機模組 Mk-II
+achievement.gt.blockmachines.projectmodulepumpt2.desc=S U C C
+achievement.gt.blockmachines.projectmodulepumpt3=太空鑽機模組 Mk-III
+achievement.gt.blockmachines.projectmodulepumpt3.desc=瘋狂S U C C
+achievement.gt.blockmachines.projectmoduleresearch=太空研究模組
+achievement.gt.blockmachines.projectmoduleresearch.desc=超越無限
+achievement.gt.blockmachines.projectmodulemanager=太空專案管理器
+achievement.gt.blockmachines.projectmodulemanager.desc=建立你的帝國
+achievement.gt.blockcasings.ig.cable=太空電梯線纜
+achievement.gt.blockcasings.ig.cable.desc=應該足夠牢固，不至於斷裂
+achievement.gt.blockcasingsSE.0=太空電梯基座機械方塊
+achievement.gt.blockcasingsSE.0.desc=這些可不便宜
+achievement.gt.blockcasingsSE.1=太空電梯支援結構方塊
+achievement.gt.blockcasingsSE.1.desc=讓你的太空電梯更牢固
+achievement.gt.blockcasingsSE.2=太空電梯內部結構方塊
+achievement.gt.blockcasingsSE.2.desc=看上去不錯
+achievement.gt.blockcasingsSEMotor.0=太空電梯加速軌道 Mk-I
+achievement.gt.blockcasingsSEMotor.0.desc=上升到了新的境界
+achievement.gt.blockcasingsSEMotor.1=太空電梯加速軌道 Mk-II
+achievement.gt.blockcasingsSEMotor.1.desc=50G的重力加速度!
+achievement.gt.blockcasingsSEMotor.2=太空電梯加速軌道 Mk-III
+achievement.gt.blockcasingsSEMotor.2.desc=幾分鐘內地月往返
+achievement.gt.blockcasingsSEMotor.3=太空電梯加速軌道 Mk-IV
+achievement.gt.blockcasingsSEMotor.3.desc=100G的重力加速度!
+achievement.gt.blockcasingsSEMotor.4=太空電梯加速軌道 Mk-V
+achievement.gt.blockcasingsSEMotor.4.desc=快得就像傳送!
+achievement.item.MiningDroneEV=採礦無人機 Mk-IV
+achievement.item.MiningDroneEV.desc=繁忙的工人
+achievement.item.MiningDroneIV=採礦無人機 Mk-V
+achievement.item.MiningDroneIV.desc=更繁忙的工人
+achievement.item.MiningDroneLuV=採礦無人機 Mk-VI
+achievement.item.MiningDroneLuV.desc=汲汲忙忙的工人
+achievement.item.MiningDroneZPM=採礦無人機 Mk-VII
+achievement.item.MiningDroneZPM.desc=新領域的征服者
+achievement.item.MiningDroneUV=採礦無人機 Mk-VIII
+achievement.item.MiningDroneUV.desc=小行星帶吞噬者
+achievement.item.MiningDroneUHV=採礦無人機 Mk-IX
+achievement.item.MiningDroneUHV.desc=行星吞噬者
+achievement.item.MiningDroneUEV=採礦無人機 Mk-X
+achievement.item.MiningDroneUEV.desc=恆星系吞噬者
+achievement.item.MiningDroneUIV=採礦無人機 Mk-XI
+achievement.item.MiningDroneUIV.desc=星座吞噬者
+achievement.item.MiningDroneUMV=採礦無人機 Mk-XII
+achievement.item.MiningDroneUMV.desc=星團吞噬者
+achievement.item.MiningDroneUXV=採礦無人機 Mk-XIII
+achievement.item.MiningDroneUXV.desc=已知宇宙吞噬者
+achievement.item.MiningDroneMAX=採礦無人機 Mk-XIV
+achievement.item.MiningDroneMAX.desc=過去未來一切存在吞噬者
+achievement.tile.DysonSwarmReceiverCasing=戴森雲控制能量接收基座機械方塊
+achievement.tile.DysonSwarmReceiverCasing.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.DysonSwarmReceiverDish=戴森雲能量接收天線方塊
+achievement.tile.DysonSwarmReceiverDish.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.DysonSwarmDeploymentUnitCore=戴森雲模組部署單元核心
+achievement.tile.DysonSwarmDeploymentUnitCore.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.DysonSwarmControlSecondary=戴森雲控制中心次級繞組
+achievement.tile.DysonSwarmControlSecondary.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.DysonSwarmControlToroid=戴森雲控制中心環形機械方塊
+achievement.tile.DysonSwarmControlToroid.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.DysonSwarmControlCasing=戴森雲控制中心基座機械方塊
+achievement.tile.DysonSwarmControlCasing.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.DysonSwarmDeploymentUnitMagnet=戴森雲模組部署單元超導磁體
+achievement.tile.DysonSwarmDeploymentUnitMagnet.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.DysonSwarmControlPrimary=戴森雲控制中心初級繞組
+achievement.tile.DysonSwarmControlPrimary.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.DysonSwarmDeploymentUnitCasing=戴森雲模組部署單元基座機械方塊
+achievement.tile.DysonSwarmDeploymentUnitCasing.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.gt.blockmachines.dysonswarm=戴森雲地面單元
+achievement.gt.blockmachines.dysonswarm.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.item.dysonSwarmModule=戴森雲模組
+achievement.item.dysonSwarmModule.desc=撿起此物品以在NEI內解鎖該合成表
+
+
+# Items
+item.SpaceElevatorParts.name=太空電梯元件
+item.nanotubeSpool.name=奈米管卷軸
+item.MiningDrone.name=採礦無人機
+item.MiningDroneLV.name=採礦無人機 Mk-I（LV）
+item.MiningDroneMV.name=採礦無人機 Mk-II（MV）
+item.MiningDroneHV.name=採礦無人機 Mk-III（HV）
+item.MiningDroneEV.name=採礦無人機 Mk-IV（EV）
+item.MiningDroneIV.name=採礦無人機 Mk-V（IV）
+item.MiningDroneLuV.name=採礦無人機 Mk-VI（LuV）
+item.MiningDroneZPM.name=採礦無人機 Mk-VII（ZPM）
+item.MiningDroneUV.name=採礦無人機 Mk-VIII（UV）
+item.MiningDroneUHV.name=採礦無人機 Mk-IX（UHV）
+item.MiningDroneUEV.name=採礦無人機 Mk-X（UEV）
+item.MiningDroneUIV.name=採礦無人機 Mk-XI（UIV）
+item.MiningDroneUMV.name=採礦無人機 Mk-XII（UMV）
+item.MiningDroneUXV.name=採礦無人機 Mk-XIII（UXV）
+item.MiningDroneMAX.name=採礦無人機 Mk-XIV（MAX）
+item.DysonSwarmParts.name=戴森雲元件
+item.dysonSwarmModule.name=戴森雲模組
+item.TaHfCNanofibers.name=碳化鉭鉿奈米纖維
+item.NtNanofibers.name=中子奈米纖維
+item.UHTResistantMesh.name=耐超高溫網
+item.TaHfNanoparticles.name=碳化鉭鉿奈米顆粒
+item.NtNanoparticles.name=中子奈米顆粒
+item.droneCase.name=日冕防護無人機外殼
+item.femtocontroller.name=磁性遮蔽飛秒控制器
+item.fuelPellet.name=超精TrNq+同位素靶丸
+item.solarSail.name=超高耐久太陽帆
+
+# Blocks
+gt.blockcasingsSE.name=太空電梯部件
+gt.blockcasings.ig.0.name=太空電梯基座機械方塊
+gt.blockcasings.ig.0.desc0=強度足以支援太空電梯
+gt.blockcasings.ig.0.desc1=向月球出發!
+gt.blockcasings.ig.1.name=太空電梯支援結構方塊
+gt.blockcasings.ig.1.desc0=防止太空電梯坍塌
+gt.blockcasings.ig.1.desc1=我希望這些東西有足夠的強度
+gt.blockcasings.ig.2.name=太空電梯內部結構方塊
+gt.blockcasings.ig.2.desc0=強化太空電梯的結構
+gt.blockcasings.ig.2.desc1=外觀看上去也不錯!
+tile.SpaceElevatorCable.name=太空電梯線纜
+gt.blockcasings.ig.cable.name=太空電梯線纜
+gt.blockcasings.ig.cable.desc0=連線配重與基座
+gt.blockcasings.ig.cable.desc1=希望這東西不會斷
+gt.blockcasingsSEMotor.name=太空電梯加速軌道
+gt.blockcasings.ig.motor.t1.name=太空電梯加速軌道 Mk-I
+gt.blockcasings.ig.motor.t2.name=太空電梯加速軌道 Mk-II
+gt.blockcasings.ig.motor.t3.name=太空電梯加速軌道 Mk-III
+gt.blockcasings.ig.motor.t4.name=太空電梯加速軌道 Mk-IV
+gt.blockcasings.ig.motor.t5.name=太空電梯加速軌道 Mk-V
+gt.blockcasings.ig.motor.desc0=解鎖更多模組槽位與更高模組等級
+gt.blockcasings.ig.motor.t1.desc1=保持上升!
+gt.blockcasings.ig.motor.t2.desc1=加速上升!
+gt.blockcasings.ig.motor.t3.desc1=嗚嗚嗚嗚嗚
+gt.blockcasings.ig.motor.t4.desc1=我 即 速 度
+gt.blockcasings.ig.motor.t5.desc1=哦耶！
+gt.blockcasings.ig.motor.desc2=為太空電梯解鎖 §a%s§7 個模組槽位
+tile.DysonSwarmPart.name=戴森雲元件
+tile.DysonSwarmReceiverCasing.name=戴森雲控制能量接收基座機械方塊
+tile.DysonSwarmReceiverDish.name=戴森雲能量接收天線方塊
+tile.DysonSwarmDeploymentUnitCasing.name=戴森雲模組部署單元基座機械方塊
+tile.DysonSwarmDeploymentUnitCore.name=戴森雲模組部署單元核心
+tile.DysonSwarmDeploymentUnitMagnet.name=戴森雲模組部署單元超導磁體
+tile.DysonSwarmControlCasing.name=戴森雲控制中心基座機械方塊
+tile.DysonSwarmControlPrimary.name=戴森雲控制中心初級繞組
+tile.DysonSwarmControlSecondary.name=戴森雲控制中心次級繞組
+tile.DysonSwarmControlToroid.name=戴森雲控制中心環形機械方塊
+tile.DysonSwarmFloor.name=超強混凝土地板
+tile.GasSiphonCasing.name=行星虹吸機械方塊
+
+# GUI
+GT5U.gui.text.recipe_result.no_space_station=§7不在空間站
+GT5U.gui.text.recipe_result.invalid_depth=§7深度無效
+GT5U.gui.text.recipe_result.siphoning=§a正在從星球提取
+GT5U.gui.text.missing_project=§7缺少§b%s§7於§b%s
+GT5U.gui.text.recipe_result.no_plasma=§7等離子體不足
+GT5U.gui.text.recipe_result.invalid_overdrive=§7過載設定無效
+GT5U.gui.text.recipe_result.no_project_selected=§7沒有正在執行的專案
+ig.text.project=專案
+ig.text.upgrades=升級
+ig.text.start=開始
+ig.text.started=開工建設
+ig.text.projectrequirements=未滿足專案要求.請選擇正確的位置
+ig.text.upgraderequirements=未滿足升級要求.缺少前置升級或專案
+ig.text.noproject=請選擇專案
+ig.text.finishedproject=專案已完成,請選擇一項升級.
+ig.text.nolocation=請選擇位置
+ig.button.travel=啟程
+ig.button.extension=擴充套件
+ig.button.projects=專案
+
+# Planetary Gas Siphon
+gt.blockmachines.multimachine.ig.siphon.name=行星氣體鑽機
+gt.blockmachines.multimachine.ig.siphon.type=泵，PGS
+gt.blockmachines.multimachine.ig.siphon.desc0=每個線圈等級提供§a+%s%%§7速度增益
+gt.blockmachines.multimachine.ig.siphon.desc1=建造於繞行氣態行星的空間站上
+gt.blockmachines.multimachine.ig.siphon.desc2=使用程式設計電路設定抽取的深度(1-4)
+gt.blockmachines.multimachine.ig.siphon.desc3=需提供64x深度的採礦管道
+gt.blockmachines.multimachine.ig.siphon.desc4=能量消耗與行星等級和深度有關。更多資訊請檢視NEI頁面。
+gt.blockmachines.multimachine.ig.siphon.desc5=可載入所在區塊(電烙鐵切換)
+gt.blockmachines.multimachine.ig.siphon.lore0=將太空採礦提升到另一個層次!
+gt.blockmachines.multimachine.ig.siphon.lore1=盡情吮吸吧！
+gt.blockmachines.multimachine.ig.siphon.lore2=用EU換取流體
+gt.blockmachines.multimachine.ig.siphon.lore3=根據定義，這個名字是錯誤的...
+
+# Dyson Swarm
+gt.blockmachines.multimachine.ig.dyson.name=戴森雲地面單元
+gt.blockmachines.multimachine.ig.dyson.type=戴森雲
+gt.blockmachines.multimachine.ig.dyson.desc1=在輸入匯流排中放入戴森雲模組，將其發射至相鄰的恆星.
+gt.blockmachines.multimachine.ig.dyson.desc2=每個模組輸出 §a%s*§9§lD§r §7EU/t，最高可達 §a10,000。
+gt.blockmachines.multimachine.ig.dyson.desc3=每小時，模組中 §6§lI§r§a * (2 * %s) / (exp(-%s * (§6§lI§r§a - 1)) + exp(%s * §b§lC§r§a)) §7 個被摧毀。譯者注：exp(x)=e^x
+gt.blockmachines.multimachine.ig.dyson.desc4=§b§lC§r§b算力/s§r，§6§lI§r§6初始模組數量，§9§lD§r§9維度相關因子§7（值查任務）
+gt.blockmachines.multimachine.ig.dyson.desc5=需要 §a%s L/h §7的 %s。
+gt.blockmachines.multimachine.ig.dyson.desc6=手持搋子右鍵，可以取出儘可能多的模組放入物品欄中
+gt.blockmachines.multimachine.ig.dyson.desc7=Shift+右鍵會將剩餘模組扔在地上
+gt.blockmachines.multimachine.ig.dyson.lore0=等等，這不是一支吸塵器大軍嗎？
+gt.blockmachines.multimachine.ig.dyson.lore1=No.9？不完全是。
+gt.blockmachines.multimachine.ig.dyson.lore2=不是那個遊戲。
+gt.blockmachines.multimachine.ig.dyson.lore3=基本上就是太陽能板。
+gt.blockmachines.multimachine.ig.dyson.lore4=一個自由之人所創。
+
+# Space Elevator
+gt.blockmachines.multimachine.ig.elevator.name=太空電梯
+gt.blockmachines.multimachine.ig.elevator.lore0=10:上升到太空
+gt.blockmachines.multimachine.ig.elevator.lore1=10:你最喜歡太空的哪一點？我喜歡每一點.
+gt.blockmachines.multimachine.ig.elevator.lore2=10:讓所有虛空採礦場都失業
+gt.blockmachines.multimachine.ig.elevator.lore3=康斯坦丁·愛德華多維奇·齊奧爾科夫斯基(俄羅斯航天之父)的設想
+gt.blockmachines.multimachine.ig.elevator.lore4=你讀過《天堂之泉》嗎？
+gt.blockmachines.multimachine.ig.elevator.lore5=你讀過《世界之間的網路》嗎？
+gt.blockmachines.multimachine.ig.elevator.gui.numOfModules=已安裝的模組
+gt.blockmachines.multimachine.ig.elevator.gui.ready=準備執行.
+gt.blockmachines.multimachine.ig.elevator.gui.noRecipe=未執行.
+gt.blockmachines.multimachine.ig.elevator.gui.recipe=執行中.
+gt.blockmachines.multimachine.ig.elevator.gui.config=配置：
+gt.blockmachines.multimachine.ig.elevator.gui.notConnected=未連線到太空電梯。
+
+# Module Base
+gt.blockmachines.module.name=太空電梯模組
+gt.blockmachines.multimachine.project.ig.desc2=直接從太空電梯接收能量，不使用能源倉
+gt.blockmachines.multimachine.project.ig.motorT1=至少需要§a加速軌道 Mk-I§7才能工作
+gt.blockmachines.multimachine.project.ig.motorT2=至少需要§9加速軌道 Mk-II§7才能工作
+gt.blockmachines.multimachine.project.ig.motorT3=至少需要§d加速軌道 Mk-III§7才能工作
+gt.blockmachines.multimachine.project.ig.motorT4=至少需要§6加速軌道 Mk-IV§7才能工作
+gt.blockmachines.multimachine.project.ig.motorT5=至少需要§c加速軌道 Mk-V§7才能工作
+
+# Module Assembler
+gt.blockmachines.multimachine.project.ig.assembler.t1.name=太空組裝模組 Mk-I
+gt.blockmachines.multimachine.project.ig.assembler.t2.name=太空組裝模組 Mk-II
+gt.blockmachines.multimachine.project.ig.assembler.t3.name=太空組裝模組 Mk-III
+gt.blockmachines.multimachine.project.ig.assembler.cfgi.0=最大並行
+
+# Module Miner
+gt.blockmachines.multimachine.project.ig.miner.t1.name=太空採礦模組 Mk-I
+gt.blockmachines.multimachine.project.ig.miner.t2.name=太空採礦模組 Mk-II
+gt.blockmachines.multimachine.project.ig.miner.t3.name=太空採礦模組 Mk-III
+gt.blockmachines.multimachine.project.ig.miner.cfgi.0=距離
+gt.blockmachines.multimachine.project.ig.miner.cfgi.1=最大並行
+gt.blockmachines.multimachine.project.ig.miner.cfgi.2=過載
+gt.blockmachines.multimachine.project.ig.miner.cfgi.4=模式
+gt.blockmachines.multimachine.project.ig.miner.cfgi.4.1=靜態
+gt.blockmachines.multimachine.project.ig.miner.cfgi.4.2=週期
+gt.blockmachines.multimachine.project.ig.miner.cfgi.5=範圍
+gt.blockmachines.multimachine.project.ig.miner.cfgi.6=步長
+gt.blockmachines.multimachine.project.ig.cfgo.0=已儲存能量
+gt.blockmachines.multimachine.project.ig.miner.activedronetiers=現役無人機等級
+gt.blockmachines.multimachine.project.ig.miner.asteroidsummaries.0=當前距離與無人機的可能小行星
+gt.blockmachines.multimachine.project.ig.miner.asteroidchance=次 執行
+gt.blockmachines.multimachine.project.ig.miner.asteroidtimedensity=時間
+gt.blockmachines.multimachine.project.ig.miner.asteroidmaxparallels=至多
+
+# Module Pump
+gt.blockmachines.multimachine.project.ig.pump.t1.name=太空鑽機模組 Mk-I
+gt.blockmachines.multimachine.project.ig.pump.t2.name=太空鑽機模組 Mk-II
+gt.blockmachines.multimachine.project.ig.pump.t3.name=太空鑽機模組 Mk-III
+gt.blockmachines.multimachine.project.ig.pump.cfgi.0=行星型別
+gt.blockmachines.multimachine.project.ig.pump.cfgi.1=氣體型別
+gt.blockmachines.multimachine.project.ig.pump.cfgi.2=並行
+gt.blockmachines.multimachine.project.ig.pump.cfgi.3=批處理規模
+gt.blockmachines.multimachine.project.ig.pump.cfgi.recipe=配方 %d
+
+# Module Manager
+gt.blockmachines.multimachine.project.ig.manager.t1.name=太空專案管理器
+
+# Module Research
+gt.blockmachines.multimachine.project.ig.research.t1.name=太空研究模組
+
+# RecipeMaps
+gt.recipe.spaceMining=太空採礦
+gt.recipe.spaceAssembler=太空組裝機
+gt.recipe.spaceResearch=太空探索
+
+# NEI
+ig.nei.spaceassembler.project=需要%s
+ig.nei.spaceassembler.projectAt=在%s
+ig.nei.spaceassembler.projectAnyLocation=任何位置
+ig.nei.module=需要 Mk-%s 模組
+ig.nei.spacemining.distance=距離：
+ig.nei.spacemining.size=大小：
+ig.nei.spacemining.weight=權重：
+ig.nei.elevatorpump.name=太空鑽機
+ig.nei.elevatorpump.planettype=行星
+ig.nei.elevatorpump.gastype=氣體
+ig.nei.elevatorpump.amount=總量
+ig.nei.elevatorpump.eut=EU/t
+ig.nei.elevatorpump.see_all=檢視全部
+ig.nei.spaceproject.name=太空專案
+ig.nei.spaceproject.stages=階段：
+ig.nei.siphon.baserate=速率
+ig.nei.siphon.name=行星氣體鑽機
+ig.nei.siphon.planet=行星
+ig.nei.siphon.depth=深度
+nei.options.tools.dump.ig=GTNH-銀河
+nei.options.tools.dump.ig.asteroid=太空採礦機小行星
+nei.options.tools.dump.ig.asteroids=太空採礦機小行星
+
+# Structure and Tooltip
+ig.siphon.structure.ControllerPos=第十六層，主結構的正面中央
+ig.siphon.structure.ControllerPos2=正面底中
+ig.siphon.structure.HatchRequirement=每種倉室必須有且僅有§61§7個！
+ig.siphon.structure.AnySiphonCasing=任意行星虹吸機械方塊
+ig.siphon.structure.PillarMiddle=1x4x1的立柱(基座中央)
+ig.siphon.structure.Sides=1x3x1立柱的每個側面與上方
+ig.siphon.structure.Base=3x1x3 底座（中空），需要 §63§7
+ig.siphon.structure.SiphonCasing=行星虹吸機械方塊
+ig.siphon.structure.FrameTungstensteel=鎢鋼框架
+ig.siphon.structure.ReboltedRhodiumPalladiumCasing=強化鍍銠鈀機械方塊
+ig.elevator.structure.ProjectModule=專案模組
+ig.elevator.structure.Motor=太空電梯加速軌道
+ig.elevator.structure.FrameNeutronium=中子框架
+ig.elevator.structure.Parametrizer=引數儀
+ig.elevator.structure.DataInputHatch=光學接收介面
+ig.elevator.structure.AnyBaseCasingWithHintNumber1=任意帶有提示方塊[1]的太空電梯基座機械方塊
+ig.elevator.structure.AnyBaseCasingWithHintNumber2=任意帶有提示方塊[2]的太空電梯基座機械方塊
+ig.elevator.structure.AnyBaseCasingWithHintNumber3=任意帶有提示方塊[3]的太空電梯基座機械方塊
+ig.elevator.structure.SwitchToExtended=啟用控制器中的結構擴充套件
+ig.elevator.structure.SharedPower=從基座接收能量
+ig.elevator.structure.SharedResources=從基座接收能量，等離子和算力
+ig.structure.contributors=貢獻者
+ig.structure.programming=規劃
+ig.structure.design=設計
+ig.structure.specialThanks=特別感謝
+ig.structure.author=新增者：
+ig.structure.and=與
+
+ig.dyson.structure.controller=接收基座的第二層，正面底中
+ig.dyson.structure.control.any_casing=控制中心的任意側面機械方塊中央
+ig.dyson.structure.receiver.any_casing=接收基座的任意側面機械方塊中央
+ig.dyson.structure.deployment.any_casing=部署單元的任意側面機械方塊中央
+ig.dyson.structure.air=接收盤上方八層
+ig.dyson.structure.dynamo=可使用普通動力倉/多A動力倉/鐳射源倉(1-12)
+ig.dyson.structure.optical=光學接收介面
+ig.dyson.structure.additionally=額外需要：
+ig.dyson.structure.deployment.core=模組部署單元核心
+ig.dyson.structure.deployment.magnet=模組部署單元超導磁體
+ig.dyson.structure.deployment.base=模組部署單元基座機械方塊
+ig.dyson.structure.receiver.base=能量接收基座機械方塊
+ig.dyson.structure.receiver.dish=能量接收天線方塊
+ig.dyson.structure.control.base=控制中心基座機械方塊
+ig.dyson.structure.control.primary=控制中心初級繞組
+ig.dyson.structure.control.secondary=控制中心次級繞組
+ig.dyson.structure.control.toroid=控制中心環形機械方塊
+ig.dyson.structure.base.floor=超強混凝土地板
+ig.dyson.structure.base.coil=覺醒龍線圈方塊
+ig.dyson.structure.base.hermetic=密封機械方塊 X
+ig.dyson.structure.base.frameTitanium=鈦框架
+ig.dyson.structure.base.frameHSSS=高速鋼-S框架
+ig.dyson.structure.base.frameUHVBase=UHV超導粗胚框架
+
+# Space Projects
+ig.spaceproject.asteroidoutpost=小行星前哨站
+ig.spaceproject.asteroidoutpost.description=用作無人機補給站和命令中心的小行星前哨站
+ig.spaceproject.planetscan=行星掃描
+ig.spaceproject.planetscan.description=透過行星軌道上的探測器掃描行星並收集資料.
+ig.sp.upgrade.improvedcomputation=算力提升升級
+ig.sp.upgrade.improvedcomputation.description=本項升級允許小行星前哨站上的量子計算機能夠以更高的頻率工作,並能更好地耐受宇宙射線的影響
+ig.sp.upgrade.reinforcedstructure=結構強化升級
+ig.sp.upgrade.reinforcedstructure.description=本項升級強化了結構,使其能夠承受任何快速移動的小行星撞擊,並保護無人機免受意外事故的影響
+
+# Asteroids
+ig.asteroid=小行星
+ig.asteroid.coalAsteroid=煤
+ig.asteroid.saltAsteroid=鹽
+ig.asteroid.ironAsteroid=鐵
+ig.asteroid.copperAsteroid=銅
+ig.asteroid.tinAsteroid=錫
+ig.asteroid.aluminiumAsteroid=鋁
+ig.asteroid.nickelAsteroid=鎳
+ig.asteroid.NetherOreAsteroid=下界礦石
+ig.asteroid.chromeAsteroid=鉻
+ig.asteroid.platlineOreAsteroid=鉑系礦石
+ig.asteroid.gemAsteroid=寶石
+ig.asteroid.indiumAsteroid=銦
+ig.asteroid.thaumiumAsteroid=神秘
+ig.asteroid.basicMagicAsteroid=基礎魔法
+ig.asteroid.niobiumAsteroid=鈮
+ig.asteroid.quartzAsteroid=石英
+ig.asteroid.lutetiumAsteroid=鎦
+ig.asteroid.siliconAsteroid=矽
+ig.asteroid.phosphateAsteroid=磷酸鹽
+ig.asteroid.spaceOreAsteroid=太空礦石
+ig.asteroid.leadAsteroid=鉛
+ig.asteroid.adamantiumAsteroid=精金
+ig.asteroid.tungstenTitaniumAsteroid=鎢鈦合金
+ig.asteroid.blueAsteroid=藍色
+ig.asteroid.aluminiumLanthlineAsteroid=鋁-鑭系
+ig.asteroid.evergladesAsteroid=廢土世界
+ig.asteroid.draconicAsteroid=龍
+ig.asteroid.cheeseAsteroid=奶乃乃乃乃酪
+ig.asteroid.arditeCobaltAsteroid=阿迪特-鈷
+ig.asteroid.europiumAsteroid=銪
+ig.asteroid.cosmicAsteroid=宇宙中子態素
+ig.asteroid.infinityCatalystAsteroid=無盡催化劑
+ig.asteroid.ichoriumAsteroid=靈寶
+ig.asteroid.clayAsteroid=黏土
+ig.asteroid.mysteriousCrystalAsteroid=神秘水晶
+ig.asteroid.uraniumPlutoniumAsteroid=鈾-鈽
+ig.asteroid.holmiumSamariumAsteroid=鈥-釤
+ig.asteroid.platlinePureAsteroid=鉑處理粉
+ig.asteroid.magnesiumAsteroid=鎂
+ig.asteroid.lanthanumAsteroid=鑭
+ig.asteroid.tengamAsteroid=鎡
+ig.asteroid.naquadahAsteroid=矽巖
+ig.asteroid.draconicCoreRuin=龍芯
+
+gt.blockcasingsSE.0.name=太空電梯基座機械方塊
+gt.blockcasingsSE.1.name=太空電梯支援結構方塊
+gt.blockcasingsSE.2.name=太空電梯內部結構方塊
+
+gt.blockcasingsSEMotor.0.name=太空電梯加速軌道 Mk-I
+gt.blockcasingsSEMotor.1.name=太空電梯加速軌道 Mk-II
+gt.blockcasingsSEMotor.2.name=太空電梯加速軌道 Mk-III
+gt.blockcasingsSEMotor.3.name=太空電梯加速軌道 Mk-IV
+gt.blockcasingsSEMotor.4.name=太空電梯加速軌道 Mk-V
+
+# info data
+ig.infodata.hdr.operational_data=§5運算元據：§r
+ig.infodata.maintenance.ok=維護狀態：§a工作正常§r
+ig.infodata.maintenance.problems=維護狀態：§c存在故障§r
+ig.infodata.dyson_swarm.modules.fmt=模組：§e%s§r
+ig.infodata.dyson_swarm.power_factor.fmt=能量係數：%s
+ig.infodata.dyson_swarm.theoretical_output.fmt=理論輸出：§e%s§r EU/t
+ig.infodata.dyson_swarm.current_output.fmt=當前輸出：§e%s§r EU/t
+ig.infodata.dyson_swarm.computation.fmt=算力需求：§e%s§r /t
+ig.infodata.gas_siphon.depth.fmt=深度：§e%s§r
+ig.infodata.gas_siphon.fluid.fmt=流體產率：§e%s§r L/s §9%s§r
+ig.infodata.gas_siphon.eu_required.fmt=能量需求：§e%s§r EU/t
+
+# Multiblocks
+gt.blockmachines.dysonswarm.name=戴森雲地面單元
+gt.blockmachines.planetarygassiphon.name=行星氣體鑽機
+gt.blockmachines.projectmoduleassemblert1.name=太空組裝模組 Mk-I
+gt.blockmachines.projectmoduleassemblert2.name=太空組裝模組 Mk-II
+gt.blockmachines.projectmoduleassemblert3.name=太空組裝模組 Mk-III
+gt.blockmachines.projectmodulemanager.name=太空組裝模組 Mk-I
+gt.blockmachines.projectmoduleminert1.name=太空採礦模組 Mk-I
+gt.blockmachines.projectmoduleminert2.name=太空採礦模組 Mk-II
+gt.blockmachines.projectmoduleminert3.name=太空採礦模組 Mk-III
+gt.blockmachines.projectmodulepumpt1.name=太空鑽機模組 Mk-I
+gt.blockmachines.projectmodulepumpt2.name=太空鑽機模組 Mk-II
+gt.blockmachines.projectmodulepumpt3.name=太空鑽機模組 Mk-III
+gt.blockmachines.projectmoduleresearch.name=太空研究模組
+gt.blockmachines.spaceelevator.name=太空電梯

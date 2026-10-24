@@ -1,0 +1,310 @@
+
+tile.air.name=空氣
+
+item.itemMatterManipulator0.name=原型物質操縱者
+item.itemMatterManipulator1.name=物質操縱者 MK-I
+item.itemMatterManipulator2.name=物質操縱者 MK-II
+item.itemMatterManipulator3.name=物質操縱者 MK-III
+
+item.metaitem.0.name=物質操縱者 Plan
+item.metaitem.1.name=原型物質操縱者能量核心
+item.metaitem.2.name=原型物質操縱者‘處理器’核心
+item.metaitem.3.name=原型物質操縱者傳送核心
+item.metaitem.4.name=原型物質操縱者框架
+item.metaitem.5.name=原型物質操縱者透鏡元件
+item.metaitem.6.name=物質操縱者能量核心 MK-I
+item.metaitem.7.name=物質操縱者處理器核心 MK-I
+item.metaitem.8.name=物質操縱者傳送核心 MK-I
+item.metaitem.9.name=物質操縱者框架 MK-I
+item.metaitem.10.name=物質操縱者透鏡元件 MK-I
+item.metaitem.11.name=物質操縱者能量核心 MK-II
+item.metaitem.12.name=物質操縱者處理器核心 MK-II
+item.metaitem.13.name=物質操縱者傳送核心 MK-II
+item.metaitem.14.name=物質操縱者框架 MK-II
+item.metaitem.15.name=物質操縱者透鏡元件 MK-II
+item.metaitem.16.name=物質操縱者能量核心 MK-III
+item.metaitem.17.name=物質操縱者處理器核心 MK-III
+item.metaitem.18.name=物質操縱者傳送核心 MK-III
+item.metaitem.19.name=物質操縱者框架 MK-III
+item.metaitem.20.name=物質操縱者透鏡元件 MK-III
+item.metaitem.21.name=物質操縱者ME下行鏈路
+item.metaitem.22.name=物質操縱者量子下行鏈路
+item.metaitem.23.name=空白的操縱者升級
+item.metaitem.24.name=操縱者能量通道升級
+item.metaitem.24.desc=允許物質操縱者 MK-III 從量子上行鏈路上的鐳射靶倉或多A能源倉汲取能量
+item.metaitem.25.name=操縱者挖掘升級
+item.metaitem.25.desc=允許原型物質操縱者移除方塊
+item.metaitem.26.name=操縱者傳送輔助升級
+item.metaitem.26.desc=使操縱者放置速率翻倍
+item.metaitem.27.name=操縱者自適應線束升級
+item.metaitem.27.desc=操縱者的能量消耗減少50%
+
+mm.upgrade.hint=與以下任意一個操縱者合成以安裝此升級
+
+mm.tooltip.voltage=%s / %s EU - 電壓：%s
+mm.tooltip.installed_upgrades=已安裝升級：
+
+mm.structure.hatch-info=任意%s機械方塊
+mm.structure.hatch-dots=（提示方塊[%s]）
+
+# GUI
+mm.gui.set_mode=選擇模式 ▶
+mm.gui.set_remove_mode=設定移除行為 ▶
+mm.gui.remove_none=不移除方塊
+mm.gui.remove_replaceable=移除可更換方塊
+mm.gui.remove_all=移除所有方塊
+mm.gui.geometry=幾何模式
+mm.gui.moving=移動模式
+mm.gui.copying=複製模式
+mm.gui.exchanging=替換模式
+mm.gui.cables=線纜模式
+mm.gui.select_blocks=設定方塊種類  ▶
+mm.gui.set_corners=設定頂角方塊為…
+mm.gui.set_edges=設定稜方塊為…
+mm.gui.set_faces=設定表面方塊為…
+mm.gui.set_volumes=設定內部方塊為…
+mm.gui.set_all=設定所有方塊為…
+mm.gui.clear_all=清空所有方塊
+mm.gui.set_shape=設定形狀 ▶
+mm.gui.line=直線
+mm.gui.cube=長方體
+mm.gui.sphere=球體
+mm.gui.cylinder=圓柱
+mm.gui.move_coords=移動選區 ▶
+mm.gui.move_coord_a=移動座標A…
+mm.gui.move_all=整體移動
+mm.gui.move_coord_b=移動座標B…
+mm.gui.move_here=移動到此處…
+mm.gui.mark_copy=標記複製選區
+mm.gui.edit_stack=編輯堆疊貼上
+mm.gui.reset=重置
+mm.gui.mark=標記
+mm.gui.planning=規劃
+mm.gui.cancel_auto_plans=取消自動規劃
+mm.gui.plan_all_auto=規劃（全選區/自動下單）
+mm.gui.plan_all_manual=規劃（全選區/手動下單）
+mm.gui.clear_manual_plans=清除手動規劃
+mm.gui.plan_missing_manual=規劃（缺失選區/手動下單）
+mm.gui.plan_missing_auto=規劃（缺失選區/自動下單）
+mm.gui.edit_transform=編輯變換
+mm.gui.mark_cut=標記剪下選區
+mm.gui.mark_paste=標記貼上選區
+mm.gui.edit_replace_whitelist=編輯可替換方塊列表
+mm.gui.clear=清空
+mm.gui.add_block=新增…
+mm.gui.set_block=設定為…
+mm.gui.set_block_to_replace_with=設定目標方塊為…
+mm.gui.set_cable=設定線纜為…
+mm.gui.advanced_options=高階選項
+mm.gui.wireless_link_hub=連線到外部無線集線器：%s
+mm.gui.smart_copy=智慧複製
+mm.gui.smart_copy.cribs_to_proxies=自動代理樣板輸入總成：%s
+mm.gui.smart_copy.interfaces_to_p2p=自動連線P2P介面：%s
+mm.gui.smart_copy.on=開
+mm.gui.smart_copy.off=關
+
+# InfoMessage, only accept %s in this section
+
+mm.info.error.out_of_eu=物質操縱者EU耗盡。
+mm.info.error.could_not_place=無法放置剩餘的%s個方塊。
+mm.info.finished_placing=方塊放置完畢。
+mm.info.warning.could_not_find=找不到物品，將暫時跳過%d個方塊：
+mm.info.warning.of_item=  %s x %s
+mm.info.placed_remaining=放置了%s個方塊（剩餘%s個）
+mm.info.warning.only_message=（位於 %s, %s, %s 的方塊）警告：%s
+mm.info.warning.with_block=（位於 %s, %s, %s (%s) 的方塊）警告：%s
+mm.info.error.only_message=（位於 %s, %s, %s 的方塊）錯誤：%s
+mm.info.error.with_block=（位於 %s, %s, %s (%s) 的方塊）錯誤：%s
+mm.info.error.could_not_move_block.new=無法移動 X=%s, Y=%s, Z=%s 的方塊：%s
+mm.info.error.could_not_move_protected_block.new=無法移動 X=%s, Y=%s, Z=%s 的受保護方塊：%s
+mm.info.error.could_not_move_invulnerable_block.new=無法移動 X=%s, Y=%s, Z=%s 的不可破壞方塊：%s
+mm.info.error.could_not_move_blocked_block.new=位於 X=%s, Y=%s, Z=%s 的方塊的目的地被阻擋：%s
+mm.info.process_move=移動了%s個方塊（剩餘%s個）
+mm.info.finished_move=方塊移動完畢。
+mm.info.warning.protected_area=你試圖在受保護區域破壞/放置方塊！
+mm.info.warning.not_find_container_for_fluid=無法為流體找到容器（它已被清空）：
+mm.info.warning.of_fluid=  %sL %s
+mm.info.error.could_not_push_items_to_uplink=無法將物品推送至上行鏈路：
+mm.info.error.could_not_push_fluids_to_uplink=無法將流體推送至上行鏈路：%s
+mm.info.error.could_not_request_items_from_uplink=無法從上行鏈路請求物品：%s
+mm.info.added=已將%s新增至%s
+mm.info.set=將%s設定為：%s
+mm.info.set_block_to_replace_with=將方塊替換為：%s
+mm.info.added_block_to_exchange_whitelist=已新增方塊至交換白名單：%s
+mm.info.set_exchange_whitelist_to_only_contain=將可替換方塊列表設定為僅包含：%s
+mm.info.set_cable=設定線纜為：%s
+mm.info.error.cannot_mark_copy=無法標記陣列：複製區域無效
+mm.info.error.cannot_mark_paste=無法標記陣列：貼上座標無效
+mm.info.new_virtual_me_pattern=已將名為“%s”的新虛擬ME樣板推送至上行鏈路。
+mm.info.error.craft_failed=計劃%s的製作失敗。
+mm.info.craft_finished=“%s”已完成。
+mm.info.cleared_all_plans_and_pending_jobs=已清除所有計劃並取消待處理的製作任務。
+mm.info.cleared_your_manual_plans=已清除您的手動計劃。
+mm.info.cleared_your_plans_and_craft=清除了你的自動計劃並取消了它們的製作任務。
+mm.info.submitted_job=已提交計劃'%s'的作業。
+mm.info.error.must_have_copy_region=必須有標記的複製區域。
+mm.info.error.must_have_paste_region=必須有標記的貼上區域以檢測缺失物品。
+mm.info.required_items=所需物品：
+mm.info.not_need_creating_pattern=無需建立樣板，因為所有必需的專案都已存在。
+mm.info.error.not_connected=操縱者未連線到上行鏈路：無法建立虛擬樣板
+mm.info.error.must_look_at_block=你必須看向一個方塊才能使用此命令。
+mm.info.error.property_not_found=找不到屬性。
+mm.info.properties=屬性：
+mm.info.intrinsic_properties=固有屬性：
+mm.info.none=無
+mm.info.error.error_setting_property=設定屬性時出錯：%s
+mm.info.error.move_overlapping=剪下區域和貼上區域重疊時不能進行移動。
+mm.info.warning.could_not_extract_item=無法提取物品：%s
+mm.info.warning.could_not_find_item=未找到%s
+mm.info.warning.could_not_find_cladding=無法找到覆蓋板：%s
+mm.info.warning.inventory_was_the_wrong_size=物品欄大小有誤（預期為%s，實際為%s）
+mm.info.warning.could_not_extract_item_in_slot=無法提取槽位 %s 中的物品：%s
+mm.info.warning.invalid_item_for_slot=槽位 %s 中無效的物品：%s
+mm.info.warning.could_not_gather_item_for_inventory=無法收集物品到庫存中：%s
+mm.info.warning.could_not_find_upgrade=未找到升級：%s x %s
+mm.info.error.invalid_location=部件（%1$s）的位置（%2$s）無效
+mm.info.error.could_not_set_direction_to=無法將方向設定為“%s”
+mm.info.error.was_not_allowed_to_put_cover_on=不允許在 %s 側放置覆蓋板：%s
+mm.info.error.could_not_find_cover=未找到覆蓋板：%s
+mm.info.error.could_not_apply_property=無法應用屬性 %s：%s
+mm.info.error.qc_rack_is_too_hot=量子計算機機架過熱，無法提取或插入物品。
+mm.info.error.cannot_extract_while_qc_on=量子計算機執行時，量子計算機機架無法提取或置入物品。
+mm.info.error.too_many_upgrades=嘗試安裝過多升級：其餘部分已銷燬（這是一個錯誤，請報告此問題）
+mm.info.error.could_not_place_blocks=由於遊戲崩潰，無法放置方塊。請檢查日誌以獲取更多資訊。
+mm.info.missing=%s%s：%s%s%s（缺少%s%s%s）
+
+mm.direction.down=下
+mm.direction.east=東
+mm.direction.north=北
+mm.direction.south=南
+mm.direction.center=中央
+mm.direction.unknown=未知
+mm.direction.up=上
+mm.direction.west=西
+
+mm.enum.copyable.property.facing=朝向
+mm.enum.copyable.property.forward=前
+mm.enum.copyable.property.up=上
+mm.enum.copyable.property.left=左
+mm.enum.copyable.property.top=頂
+mm.enum.copyable.property.rotation=旋轉
+mm.enum.copyable.property.mode=模式
+mm.enum.copyable.property.text=文字
+mm.enum.copyable.property.orientation=朝向
+mm.enum.copyable.property.delay=延遲
+mm.enum.copyable.property.inverted=反轉
+mm.enum.copyable.property.color=顏色
+mm.enum.copyable.property.rotation_state=rotation_state
+
+mm.enum.uplink_status.ok=良好
+mm.enum.uplink_status.no_plasma=等離子體不足
+mm.enum.uplink_status.ae_offline=無法連線到ME系統
+mm.enum.uplink_status.no_hatch=缺少ME倉
+
+mm.enum.what.corners=頂角方塊
+mm.enum.what.edges=稜方塊
+mm.enum.what.faces=表面方塊
+mm.enum.what.volumes=內部方塊
+mm.enum.what.all=所有方塊
+
+mm.chat.item.details.imprint=壓印：%s
+mm.chat.item.details.imprint.none=無
+mm.chat.item.details.cache_capacity=快取容量：%s
+mm.chat.item.details.hub=中心
+
+# Transform
+mm.transform.info=翻轉：%s\n頂面朝向：%s\n正面朝向：%s
+mm.transform.button.rotate_x-=旋轉 X-
+mm.transform.button.rotate_x+=旋轉 X+
+mm.transform.button.rotate_y-=旋轉 Y-
+mm.transform.button.rotate_y+=旋轉 Y+
+mm.transform.button.rotate_z-=旋轉 Z-
+mm.transform.button.rotate_z+=旋轉 Z+
+mm.transform.button.flip_x=翻轉 X
+mm.transform.button.flip_y=翻轉 Y
+mm.transform.button.flip_z=翻轉 Z
+mm.transform.button.reset=重置
+mm.transform.button.swap=交換區域
+mm.transform.header.copy=複製
+mm.transform.header.copy_a=複製（A）
+mm.transform.header.copy_b=複製（B）
+mm.transform.header.paste=貼上
+mm.transform.header.stacking=堆疊
+mm.transform.header.coord_a=座標（A）
+mm.transform.header.coord_b=座標（B）
+mm.transform.header.coord_c=座標（C）
+mm.transform.header.move=移動
+
+# Keybindings
+key.mm=物質操縱者
+key.mm-ctrl=控制鍵
+key.mm-cut=標記剪下
+key.mm-copy=標記複製
+key.mm-paste=標記貼上
+key.mm-reset=重置座標
+
+# Config
+interaction=互動
+rendering=渲染
+debug=除錯
+building=建築
+
+# NEI
+mm.recipe.upgrades=操縱者升級
+
+# tooltip
+mm.tooltip.none=無
+mm.tooltip.hold_shift=按住SHIFT檢視詳情。
+mm.tooltip.me_conn.can_interact=存在ME連線（當前可互動）
+mm.tooltip.me_conn.cannot_interact=存在ME連線（當前不可互動）
+mm.tooltip.me_conn.no_conn=沒有ME連線
+mm.tooltip.uplink_conn.can_interact=存在上行鏈路連線（當前可互動）
+mm.tooltip.uplink_conn.cannot_interact=存在上行鏈路連線（當前不可互動）
+mm.tooltip.uplink_conn.address=上行鏈路地址：%s
+mm.tooltip.uplink_conn.no_conn=沒有上行鏈路連線
+mm.tooltip.pending_action=待處理操作：%s
+mm.tooltip.pending_action.moving_coords=移動座標
+mm.tooltip.pending_action.geom_selecting_block=選擇待放置方塊
+mm.tooltip.pending_action.mark_copy_a=標記第一個複製選區角落
+mm.tooltip.pending_action.mark_copy_b=標記第二個複製選區角落
+mm.tooltip.pending_action.mark_cut_a=標記第一個剪下選區角落
+mm.tooltip.pending_action.mark_cut_b=標記第二個剪下選區角落
+mm.tooltip.pending_action.mark_paste=標記貼上位置
+mm.tooltip.pending_action.exch_add_replace=新增方塊到替換白名單中
+mm.tooltip.pending_action.exch_set_replace=將替換白名單清空並設定為...
+mm.tooltip.pending_action.exch_set_target=設定用於替換的方塊為...
+mm.tooltip.pending_action.pick_cable=收集電纜
+mm.tooltip.pending_action.mark_array=標記陣列邊界
+mm.tooltip.mode=模式：%s
+mm.tooltip.mode.geometry=幾何模式
+mm.tooltip.mode.moving=移動模式
+mm.tooltip.mode.copying=複製模式
+mm.tooltip.mode.exchanging=替換模式
+mm.tooltip.mode.cables=線纜模式
+mm.tooltip.removing=移除：%s
+mm.tooltip.removing.all=所有方塊
+mm.tooltip.removing.replaceable=可更換方塊
+mm.tooltip.removing.none=無方塊
+mm.tooltip.shape=形狀：%s
+mm.tooltip.shape.line=直線
+mm.tooltip.shape.cube=長方體
+mm.tooltip.shape.sphere=球體
+mm.tooltip.shape.cylinder=圓柱
+mm.tooltip.coord_a=座標A：%s
+mm.tooltip.coord_b=座標B：%s
+mm.tooltip.corner_block=頂角方塊：%s
+mm.tooltip.edge_block=稜方塊：%s
+mm.tooltip.face_block=表面方塊：%s
+mm.tooltip.volume_block=內部方塊：%s
+mm.tooltip.copying.copy_a=複製座標A：%s
+mm.tooltip.copying.copy_b=複製座標B：%s
+mm.tooltip.copying.stack=堆疊數：%s
+mm.tooltip.copying.wireless_link=無線連線：%s
+mm.tooltip.copying.auto_proxy_cribs=自動代理樣板輸入總成：%s
+mm.tooltip.copying.auto_p2p_interfaces=自動連線P2P介面：%s
+mm.tooltip.paste=貼上座標：%s
+mm.tooltip.moving.cut_a=剪下座標A：%s
+mm.tooltip.moving.cut_b=剪下座標B：%s
+mm.tooltip.exchanging.removable=可移動方塊：%s
+mm.tooltip.exchanging.replacing=將方塊替換為：%s
+mm.tooltip.cable=線纜：%s

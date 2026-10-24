@@ -1,0 +1,166 @@
+tile.computronics.ironNoteBlock.name=鐵音符盒
+tile.computronics.tapeDrive.name=磁帶驅動器
+tile.computronics.camera.name=攝像頭
+tile.computronics.chatBox.name=聊天盒
+tile.computronics.chatBox.creative.name=創造模式聊天盒
+tile.computronics.sorter.name=排序機
+tile.computronics.cipher.name=加密機
+tile.computronics.cipher_advanced.name=高階加密機
+tile.computronics.radar.name=雷達
+tile.computronics.colorfulLamp.name=變色燈
+tile.computronics.locomotiveRelay.name=數字化機車中繼器
+tile.computronics.digitalControllerBox.name=數字化訊號控制器
+tile.computronics.digitalReceiverBox.name=數字化訊號接收器
+tile.computronics.detector.name=礦車感測器 - 數字化
+tile.computronics.ticketMachine.name=火車票印表機
+gui.tile.computronics.ticketMachine.title=火車票印表機
+tile.computronics.audiocable.name=音訊線纜
+tile.computronics.speaker.name=揚聲器
+tile.computronics.speechBox.name=語音盒
+
+tooltip.computronics.chatBox.creative=盒中的NSA！
+tooltip.computronics.cipher.advanced=§7追星族專用！
+tooltip.computronics.sensor.bound=已繫結到[%1$s,%2$s,%3$s]
+tooltip.computronics.sensor.desc1=潛行右鍵單擊機車中繼器以繫結
+tooltip.computronics.sensor.desc2=潛行左鍵單擊電力機車以安裝
+tooltip.computronics.tape.length=時長: %s分鐘
+tooltip.computronics.tape.balanced=已錄製！
+tooltip.computronics.tape.unnamed=未命名磁帶
+tooltip.computronics.tape.none=無磁帶
+tooltip.computronics.tape.ig=適用於泛銀河系格雷科技飛船的標準CDVR
+tooltip.computronics.ticket.print=列印火車票
+tooltip.computronics.ticket.printLocked=§c手動列印已禁用
+tooltip.computronics.ticket.locked=本裝置僅限{owner}使用。\n僅所有者或管理員可進行維護。
+tooltip.computronics.ticket.notmaintenance=空手潛行右鍵單擊此裝置以進行維護。
+tooltip.computronics.ticket.notowner=你不是此裝置的所有者。\n本裝置所有者為{owner}。
+tooltip.computronics.ticket.unlocked=點選以鎖定裝置。\n鎖定後只有你或管理員可進行維護。
+
+tooltip.computronics.gate.action.computer_start=啟動電腦
+tooltip.computronics.gate.action.computer_stop=關閉電腦
+tooltip.computronics.gate.action.tape_drive_start=啟動磁帶機播放
+tooltip.computronics.gate.action.tape_drive_stop=停止磁帶機播放
+tooltip.computronics.gate.action.tape_drive_rewind=磁帶機倒帶
+tooltip.computronics.gate.action.tape_drive_forward=磁帶機快進
+tooltip.computronics.gate.action.lamp_color_set=設定燈的顏色
+tooltip.computronics.gate.action.lamp_color_reset=重置燈的顏色
+tooltip.computronics.gate.action.lamp_color.red=紅: %s
+tooltip.computronics.gate.action.lamp_color.green=綠: %s
+tooltip.computronics.gate.action.lamp_color.blue=藍: %s
+
+tooltip.computronics.gate.trigger.computer_running=電腦執行中
+tooltip.computronics.gate.trigger.computer_stopped=電腦已關閉
+tooltip.computronics.gate.trigger.tape_drive_playing=磁帶機正在播放
+tooltip.computronics.gate.trigger.tape_drive_stopped=磁帶機停止播放
+tooltip.computronics.gate.trigger.tape_drive_rewinding=磁帶機倒帶中
+tooltip.computronics.gate.trigger.tape_drive_forwarding=磁帶機快進中
+
+tooltip.computronics.waila.base.bus=§a匯流排編號§f: %s
+tooltip.computronics.waila.relay.bound=已繫結
+tooltip.computronics.waila.relay.notbound=未繫結
+tooltip.computronics.waila.lamp.red=紅: %s
+tooltip.computronics.waila.lamp.green=綠: %s
+tooltip.computronics.waila.lamp.blue=藍: %s
+
+tooltip.computronics.tape.tapeinserted=已插入磁帶
+tooltip.computronics.tape.labeltapeinserted=已插入磁帶"%s"
+tooltip.computronics.tape.notapeinserted=未插入磁帶
+
+tooltip.computronics.tape.state=狀態: %s
+tooltip.computronics.tape.state.stopped=已停止
+tooltip.computronics.tape.state.playing=播放中
+tooltip.computronics.tape.state.rewinding=倒帶中
+tooltip.computronics.tape.state.forwarding=快進中
+
+tooltip.computronics.manual.oc.tab.blocks=計算機電子學 | 方塊
+tooltip.computronics.manual.oc.tab.items=計算機電子學 | 物品
+
+tooltip.computronics.manual.tis3d.tab.items=計算機電子學 | 物品
+tooltip.computronics.manual.tis3d.port.flamingo=粉紅色火烈鳥
+
+option.computronics.enableOCAddress=顯示元件地址
+option.computronics.enableTape=顯示插入的磁帶
+option.computronics.enableTapeName=顯示磁帶名稱
+option.computronics.enableDriveState=顯示磁帶機狀態
+option.computronics.enableRelayBound=顯示中繼器繫結狀態
+option.computronics.enableLampColor=顯示變色燈的顏色
+
+item.computronics.reelChromoxide.name=二氧化鉻錄音帶卷輪
+item.computronics.drone_upgrade_docking.name=無人機停靠升級
+item.computronics.dockingStation.name=無人機停靠站
+item.computronics.portableTapeDrive.name=行動式磁帶驅動器
+item.computronics.robot_upgrade_camera.name=攝像頭升級
+item.computronics.robot_upgrade_chatbox.name=聊天升級
+item.computronics.robot_upgrade_radar.name=雷達升級
+item.computronics.card_beep.name=蜂鳴卡
+item.computronics.card_noise.name=噪音卡
+item.computronics.card_sound.name=音效卡
+item.computronics.card_fx.name=粒子效果卡
+item.computronics.card_spoof.name=欺騙攻擊卡
+item.computronics.card_spoof.tip=工作方式與網絡卡相同，但可以自行修改源地址資料。
+item.computronics.card_boom.name=自毀卡
+item.computronics.card_boom.tip=成功反派的必備品。
+item.computronics.robot_upgrade_colorful.name=變色升級
+item.computronics.robot_upgrade_colorful.tip=讓你的機器人更加多彩！
+item.computronics.rack_board_light.name=指示燈面板
+item.computronics.rack_board_light.tip=考慮到只有四個指示燈，這東西太笨重了……
+item.computronics.rack_board_boom.name=伺服器自毀裝置
+item.computronics.rack_board_boom.tip=一般稱為SSD（Server Self-Destructor）。
+item.computronics.rack_board_capacitor.name=機架式電容
+item.computronics.rack_board_capacitor.tip=為機架賦能……總之大概這個意思。
+item.computronics.rack_board_switch.name=開關面板
+item.computronics.rack_board_switch.tip=就是一張裝了開關的面板。你還想要什麼？
+item.computronics.robot_upgrade_speech.name=語音升級
+item.computronics.robot_upgrade_Speech.tip=讓你的機器人更……健談！
+item.computronics.magical_memory.name=創造模式記憶體
+item.computronics.magical_memory.tip=基本上就是記憶體條，但更大。
+item.computronics.for.combAcid.name=腐蝕蜂窩
+item.computronics.for.dropAcid.name=腐蝕液滴
+item.computronics.relaySensor.name=數字化中繼器感測器
+item.computronics.part_tape_track.name=磁帶軌道
+item.computronics.tape.ig.name=泛銀河系CDVR
+item.computronics.tape.name=盒式磁帶
+item.computronics.module_colorful.name=變色模組
+item.computronics.module_tape_reader.name=磁帶驅動器模組
+item.computronics.module_boom.name=自毀模組
+
+itemGroup.tabComputronics=計算機電子學
+
+entity.computronics.itemTape.name=泛銀河系CDVR
+entity.computronics.swarm.name=蜂群
+
+death.attack.computronics.sting.1=%1$s理解了恐蜂症患者
+death.attack.computronics.sting.2=<%1$s> §o不！蜜蜂別過來！蜜蜂不要過來啊！啊啊啊啊啊啊！
+death.attack.computronics.sting.3=%1$s對付不了蜂群的一頓痛蟄
+death.attack.computronics.sting.4=%1$s忘用腎上腺素筆了
+death.attack.computronics.sting.5=%1$s變成了蜜蜂暗殺計劃的受害者
+death.attack.computronics.sting.self=蜜蜂們背叛了%1$s
+
+computronics.flowers.sea=海
+computronics.bees.species.scummy=浮渣
+computronics.bees.species.scummy.description=煤油、丙二醇、人工甜味劑、硫酸、朗姆酒、丙酮、紅色染料#2、浮渣、車軸潤滑脂、蓄電池酸液和/或義大利辣肉腸|酒吧裡的異鄉人
+
+chat.computronics.cipher.locked=加密機已鎖定！無法訪問。
+chat.computronics.colorful_upgrade.color=§6顏色§f: %s
+chat.computronics.lamp.binary.on=RedNet模式設定為: 二進位制
+chat.computronics.lamp.binary.off=RedNet模式設定為: 普通
+chat.computronics.relay.notBound=中繼器目前未與任何機車繫結！
+chat.computronics.relay.unbound=中繼器成功與機車解綁！
+chat.computronics.sensor.bound=中繼器成功與機車繫結！
+chat.computronics.sensor.noRelay=指定座標處不存在中繼器！
+chat.computronics.sensor.noRelayDetected=無法在指定座標處檢測到任何中繼器！
+chat.computronics.sensor.tooFarAway=中繼器與機車距離過遠！
+chat.computronics.sensor.wrongLoco=感測器只能安裝在電力機車上！
+chat.computronics.sensor.wrongDim=中繼器與機車位於不同維度中！
+
+achievement.computronics.gotTape=人人有歌聽
+achievement.computronics.gotTape.desc=磁帶當然比膠帶強太多了。
+achievement.computronics.gotStarTape=彩虹之上
+achievement.computronics.gotStarTape.desc=到你左邊。
+achievement.computronics.gotIGTape=宇宙飛船的第一部分
+achievement.computronics.gotIGTape.desc=我可沒說你能造飛船了。
+achievement.computronics.droppedIGTape=MH370
+achievement.computronics.droppedIGTape.desc=它消失了！？
+achievement.computronics.gotLoco=電力革命
+achievement.computronics.gotLoco.desc=就這樣開始了。
+achievement.computronics.gotRelay=數字革命
+achievement.computronics.gotRelay.desc=0100100001000101010011000101000000100001

@@ -1,0 +1,16 @@
+betterachievements.gui.old=舊版顯示
+betterachievements.gui.title=%s 成就
+betterachievements.config.cantUnlockArrowColour=尚未解鎖的箭頭顏色
+betterachievements.config.canUnlockArrowColour=可解鎖的箭頭顏色
+betterachievements.config.completeArrowColour=已完成的箭頭顏色
+betterachievements.config.cantUnlockArrowColour.desc=指向暫不可解鎖的成就的箭頭顏色，格式為#RRGGBB
+betterachievements.config.canUnlockArrowColour.desc=指向可解鎖的成就的箭頭顏色，格式為#RRGGBB
+betterachievements.config.completeArrowColour.desc=指向已完成的成就的箭頭顏色，格式為#RRGGBB
+betterachievements.config.scrollButtons=啟用滾動按鈕
+betterachievements.config.scrollButtons.desc=關閉後將不再顯示滾動按鈕，所有其他功能均正常
+betterachievements.config.listTabIcons=選項卡圖示列表
+betterachievements.config.listTabIcons.desc=自定義的選項卡圖示列表，該設定會覆蓋程式碼設定的所有圖示
+betterachievements.config.iconReset=遊戲內更改選項卡圖示
+betterachievements.config.iconReset.desc=對任意成就單擊滑鼠中鍵，將該頁的選項卡圖示替換為相應圖示
+betterachievements.config.userColourOverride=總是使用自定義的箭頭顏色
+betterachievements.config.userColourOverride.desc=覆蓋mod設定的箭頭顏色

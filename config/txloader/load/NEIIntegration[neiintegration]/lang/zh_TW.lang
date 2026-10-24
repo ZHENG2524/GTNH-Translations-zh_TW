@@ -1,0 +1,95 @@
+neiintegration.yes=是
+neiintegration.no=否
+
+neiintegration.shaped=有序
+neiintegration.shapeless=無序
+
+neiintegration.chance=機率：%s
+neiintegration.chance.never=無
+neiintegration.chance.lessThan1=<1%
+
+neiintegration.ticks=%s 刻
+
+neiintegration.tooltip.internalName=ID:
+neiintegration.tooltip.unlocalizedName=未本地化名稱:
+neiintegration.tooltip.maxstack=最大堆疊數:
+neiintegration.tooltip.burntime=燃燒時間:
+neiintegration.tooltip.oredict=礦物辭典名稱:
+neiintegration.tooltip.fluidreg=流體登錄檔資訊:
+neiintegration.tooltip.fluidreg.empty=空容器
+
+neiintegration.config.title=NEI整合配置
+neiintegration.config.integrations=Mod整合設定
+neiintegration.config.integrations.tooltip=啟用或禁用指定mod的所有合成表操作器.
+neiintegration.config.handlers=合成表操作器設定
+neiintegration.config.handlers.tooltip=啟用或禁用此mod新增的某些合成表操作器.
+neiintegration.config.tooltips=物品Tooltip設定
+neiintegration.config.tooltips.tooltip=沒有定義tooltip? 多麼諷刺啊.
+
+nei.options.tools.dump.neiintegration=NEI整合
+nei.options.tools.dump.neiintegration.chestloots=箱子戰利品
+nei.options.tools.dump.neiintegration.chestloot=箱子戰利品
+nei.options.tools.dump.neiintegration.dimension=維度
+nei.options.tools.dump.neiintegration.dimensions=維度
+nei.options.tools.dump.neiintegration.entity=實體
+nei.options.tools.dump.neiintegration.entitys=實體
+nei.options.tools.dump.neiintegration.fluid=流體
+nei.options.tools.dump.neiintegration.fluids=流體
+nei.options.tools.dump.neiintegration.fluidcontainer=流體容器
+nei.options.tools.dump.neiintegration.fluidcontainers=流體容器
+nei.options.tools.dump.neiintegration.inventory=玩家物品欄
+nei.options.tools.dump.neiintegration.inventorys=玩家物品欄
+nei.options.tools.dump.neiintegration.loadedmod=已載入模組
+nei.options.tools.dump.neiintegration.loadedmods=已載入模組
+nei.options.tools.dump.neiintegration.oredict=礦物辭典
+nei.options.tools.dump.neiintegration.oredicts=礦物辭典
+nei.options.tools.dump.neiintegration.recipehandler=合成表操作器
+nei.options.tools.dump.neiintegration.recipehandlers=合成表操作器
+nei.options.tools.dump.neiintegration.tileentity=方塊實體
+nei.options.tools.dump.neiintegration.tileentitys=方塊實體
+
+# Forge
+neiintegration.handler.fluidRegistry=流體登錄檔
+neiintegration.handler.fluidRegistry.id=ID:
+neiintegration.handler.fluidRegistry.state=狀態:
+neiintegration.handler.fluidRegistry.state.gaseous=氣態
+neiintegration.handler.fluidRegistry.state.liquid=液態
+neiintegration.handler.fluidRegistry.placeable=可被放置:
+neiintegration.handler.fluidRegistry.temperature=溫度:
+neiintegration.handler.fluidRegistry.luminosity=亮度:
+neiintegration.handler.fluidRegistry.density=密度:
+neiintegration.handler.fluidRegistry.viscosity=黏度:
+
+neiintegration.handler.oreDictionary=礦物辭典
+neiintegration.handler.oreDictionary.warning=需要一段時間載入!
+
+# BuildCraft
+neiintegration.handler.refinery.energyRate=%d RF at %d RF/t
+
+# Electrical Age
+neiintegration.handler.electricalage.compressor=壓縮機(ELN)
+neiintegration.handler.electricalage.macerator=研磨機(ELN)
+neiintegration.handler.electricalage.magnetizer=磁化機
+neiintegration.handler.electricalage.plateMachine=冷軋機
+
+# Forestry
+neiintegration.handler.forestry.shaped=林業有序
+neiintegration.handler.forestry.fabricator.worth=可熔出：
+
+# MineFactory Reloaded
+neiintegration.handler.bioreactor.efficiency=效率
+neiintegration.handler.bioreactor.efficiency.1=取決於數量
+neiintegration.handler.bioreactor.efficiency.2=正在處理不同的物品.
+neiintegration.handler.bioreactor.efficiency.3=更高的效率意味著更多的生物燃料.
+neiintegration.handler.grinder.mobs=怪物
+neiintegration.handler.grinder.mobs.1=掉落更多XP的怪物
+neiintegration.handler.grinder.mobs.2=產生更多源質.
+neiintegration.handler.harvester.harvestables=可收穫方塊
+neiintegration.handler.harvester.harvestables.1=汙泥是收割的副產物.
+neiintegration.handler.laserdrill.focus=聚焦
+neiintegration.handler.sewer.animals=動物或村民
+neiintegration.handler.sewer.animals.1=越大的動物產生越多的汙水.
+neiintegration.handler.sewer.xp=經驗礦石
+neiintegration.handler.sewer.xp.1=XP轉換為源質.
+neiintegration.handler.slaughterhouse.animals=動物
+neiintegration.handler.slaughterhouse.animals.1=越大的動物產生越多的肉.

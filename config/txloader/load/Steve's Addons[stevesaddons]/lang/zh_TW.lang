@@ -1,0 +1,66 @@
+#Item Localization
+item.duplicator.name=管理器複製器
+item.labeler.name=工廠貼標器
+
+tile.cable_rf.name=RF節點
+tile.cable_ae.name=AE聯結器
+
+
+
+
+gui.sfm.RfInputLong=RF輸入
+gui.sfm.RfInputShort=RF輸入
+
+gui.sfm.RfOutputLong=RF輸出
+gui.sfm.RfOutputShort=RF輸出
+
+gui.sfm.TypeRf=RF儲存
+gui.sfm.TypeRfInput=RF供應
+gui.sfm.TypeRfOutput=RF接收
+gui.sfm.NoRfError=未選中RF儲存
+
+gui.sfm.CopyCommand=複製[將命令拖至此處]
+
+gui.sfm.RfConditionShort=RF條件
+gui.sfm.RfConditionLong=RF條件
+gui.sfm.RfConditionMenu=RF等級
+gui.sfm.RfConditionInfo=在文字框中設定觸發的電平,以及高於觸發電平或低於觸發電平觸發
+gui.sfm.RfConditionError=無效的觸發電平
+gui.sfm.Below=低於觸發電平
+
+gui.sfm.DelayOutput=延時輸出
+gui.sfm.DelayTrigger=延遲觸發
+gui.sfm.DelayInfo=設定延遲的秒數，在觸發器觸發之前的tick(至少 5 ticks)
+gui.sfm.DelayError=延遲太低了
+gui.sfm.DelayRestart=重啟
+gui.sfm.DelayIgnore=忽略
+
+stevesaddons.waila.labelled=標籤：%s
+stevesaddons.idsucompat.isEmpty=空
+stevesaddons.idsucompat.contains=包含：%s
+
+stevesaddons.chat.cleared=標籤已清除
+stevesaddons.chat.saved=標籤設定為"%s"
+
+stevesaddons.command.notFound=命令未找到
+stevesaddons.command.noPermission=您沒有使用該命令的許可權
+stevesaddons.command.loadFailed=載入失敗
+stevesaddons.command.loadSuccess=管理器載入於：%s
+stevesaddons.command.nothingToSave=複製器是空的
+stevesaddons.command.saveFailed=儲存失敗
+stevesaddons.command.noDuplicator=命令只能用於管理器複製器
+stevesaddons.command.savedTo=管理器儲存到：%s
+stevesaddons.command.copiedToClip=將Pastebin連結載入到剪貼簿
+
+stevesaddons.command.info.help.start=可用的命令是：
+stevesaddons.command.help.syntax=/stevesaddons help [命令]
+stevesaddons.command.info.help=有關所有可用命令的幫助.
+stevesaddons.command.info.load=將給定的檔名載入到手持的複製器.
+stevesaddons.command.load.syntax=/stevesaddons load <檔名>
+stevesaddons.command.info.save=將手持的複製器儲存到名稱可選的檔案中（預設為玩家姓名+座標）
+stevesaddons.command.save.syntax=/stevesaddons save [檔名]
+stevesaddons.command.info.pastebin=在Pastebin和手持的複製器之間互動資料.
+stevesaddons.command.pastebin.syntax=/stevesaddons pastebin {put | get <paste>}
+stevesaddons.command.info.clear=清空一個手持的複製器
+stevesaddons.command.clear.syntax=/stevesaddons clear
+

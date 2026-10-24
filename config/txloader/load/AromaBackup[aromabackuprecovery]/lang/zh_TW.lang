@@ -1,0 +1,18 @@
+aromabackuprecovery:selectBackup.delete.Question=確認刪除此備份?
+aromabackuprecovery:selectBackup.backup=你將永遠失去 "%s"! (很久很久很久!)
+aromabackuprecovery:selectBackup.name=%s（%s）
+aromabackuprecovery:button.recover=備份
+aromabackuprecovery:selectBackup.select=恢復備份
+
+aromabackuprecovery:restorechunk.button=恢復單個區塊
+aromabackuprecovery:restorechunk.title=恢復區塊
+aromabackuprecovery:restorechunk.confirm=恢復區塊
+aromabackuprecovery:restorechunk.chunkX=區塊X
+aromabackuprecovery:restorechunk.chunkZ=區塊Y
+aromabackuprecovery:restorechunk.dim=維度
+aromabackuprecovery:restorechunk.loadCrashlog=從錯誤日誌載入
+aromabackuprecovery:restorechunk.info.1=注意, 這些是區塊座標, 不是絕對座標.
+aromabackuprecovery:restorechunk.info.2=不會從world資料夾載入整個世界, 而是會載入選定的維度; 載入選定維度中的選定區塊.
+aromabackuprecovery:restorechunk.crashlog.none=找不到任何有用的錯誤日誌. 如果你認為有誤, 請向我們反饋你認為應該有用的錯誤日誌.
+aromabackuprecovery:restorechunk.crashlog.outdated=資訊來源的錯誤日誌已經過時了. 這不是個好主意.
+aromabackuprecovery:restorechunk.crashlog.success=已從錯誤日誌成功載入區塊資訊.

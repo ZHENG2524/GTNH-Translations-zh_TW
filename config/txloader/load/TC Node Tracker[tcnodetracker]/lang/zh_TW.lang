@@ -1,0 +1,42 @@
+# Key Config
+key.cat.tcnodetracker=神秘時代節點追蹤器
+key.aspectMenu=節點列表
+# Thaumcraft Aspect Types
+nodetype.NORMAL.name=標準
+nodetype.UNSTABLE.name=震盪
+nodetype.DARK.name=兇險
+nodetype.PURE.name=純淨
+nodetype.TAINTED.name=附魔：腐化
+nodetype.HUNGRY.name=饕餮
+nodemod.BRIGHT.name=明亮
+nodemod.PALE.name=蒼白
+nodemod.FADING.name=凋零
+# Buttons
+btn.mark.name=標記
+btn.delete.name=刪除
+btn.cleararrow.name=清除箭頭
+btn.config.name=配置
+btn.up.name=上
+btn.down.name=下
+btn.left.name=左
+btn.right.name=右
+btn.reset.name=重置
+btn.arrowtype.name=箭頭類別
+# Other
+str.distance.name=距離
+str.type.name=型別
+str.instruction.name=點選源質以獲取節點列表
+str.configarrow.name=# 方塊 - 下方
+str.above.name=你的上方
+str.below.name=你的下方
+str.level.name=級別
+str.blocks.name= 方塊
+
+tcnodetracker.button.nodes=顯示TC節點
+tcnodetracker.node.deletehint=標記枯竭 %s
+tcnodetracker.key.togglenode=切換節點顯示
+tcnodetracker.tracked=已跟蹤：%s
+tcnodetracker.iswaypoint=啟用為路徑點
+
+
+

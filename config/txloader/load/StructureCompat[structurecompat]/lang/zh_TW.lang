@@ -1,0 +1,9 @@
+structureinfo.railcraft.boiler.0=Railcraft多方塊鍋爐
+structureinfo.railcraft.boiler.1=可以使用固體或液體燃燒室,但不能在同一個鍋爐結構中混合使用
+structureinfo.railcraft.boiler.2=可以使用低壓或者高壓鍋爐方塊,但不能在同一個鍋爐結構中混合使用
+structureinfo.railcraft.boiler.3=有多個有效尺寸,使用子通道§6width§r和§6height§r定義寬度和高度.
+structureinfo.railcraft.boiler.4=寬度範圍：1-3. 高度範圍：視寬度而定,一般為1-4.(譯者注:寬度1,高度1;寬度2,高度2-3;寬度3,高度2-4)
+structureinfo.railcraft.boiler.5=使用子通道§6boiler§r§7設定高壓/低壓鍋爐
+structureinfo.railcraft.boiler.error.invalid_dimension=寬度 %s 高度 %s 為無效組合.
+
+structureelement.error.cannot_be_block=(%s, %s, %s) §c不能為§r %s!

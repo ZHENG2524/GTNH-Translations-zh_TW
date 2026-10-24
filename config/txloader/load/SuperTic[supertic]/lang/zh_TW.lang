@@ -1,0 +1,7 @@
+#Rituals
+ritual.SuperTiC_Modifier.name=匠魂之咒
+
+#Thaumcraft Compat Stuff
+tc.research_name.TINKERSAUGMENTATION=奧術升級槽
+tc.research_text.TINKERSAUGMENTATION=難道你在試圖用奧術技巧騙出更多法術位？好吧，這確實是用奧術塞更多法術槽位的方式。
+STiC=你可以透過注魔祭壇,為匠魂工具增加額外的強化槽.很遺憾,符文矩陣能力有限,每柄工具只能這樣獲得一次額外升級槽.

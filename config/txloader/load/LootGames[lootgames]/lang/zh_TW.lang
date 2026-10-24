@@ -1,0 +1,74 @@
+itemGroup.LootGames=獎勵遊戲
+
+tile.lightGame.name=遊戲燈
+tile.dungeonBrick.name=地牢磚塊
+tile.dungeonBrick_0.name=地牢牆壁
+tile.dungeonBrick_1.name=地牢天花板
+tile.dungeonBrick_2.name=地牢地板
+tile.dungeonBrick_3.name=開裂的地牢牆壁
+tile.dungeonBrick_4.name=開裂的地牢天花板
+tile.dungeonBrick_5.name=開裂的地牢地板
+tile.dungeonBrick_6.name=護盾地牢地板
+tile.dungeonLight.name=地牢燈
+tile.dungeonLight_0.name=地牢燈
+tile.dungeonLight_1.name=壞掉的地牢燈
+
+tile.lootgames.board_border.name=邊框
+tile.lootgames.gol_activator.name=遊戲燈
+tile.lootgames.gol_master.name=遊戲燈
+tile.lootgames.ms_activator.name=掃雷
+tile.lootgames.ms_master.name=掃雷
+tile.lootgames.smart_subordinate.name=智慧助手
+tile.lootgames.puzzle_master.name=謎題大師
+tile.lootgames.sdk_activator.name=數獨
+tile.lootgames.sdk_master.name=數獨
+
+item.lootgames.dungeon_block.tooltip=生物不會在這個方塊上生成。
+
+msg.lootgames.stage_complete=此結構似乎認可了你的努力……
+msg.lootgames.puzzle_master.turned_off=此結構似乎被更高許可權者禁用了...
+msg.lootgames.win=此結構非常高興並獎勵了你！
+msg.lootgames.lose=此結構似乎被你的失敗冒犯了.
+msg.lootgames.attempt_left=你還剩餘 %d 次機會.
+msg.lootgames.field.not_enough_space=此結構發出慢吞吞的嗚嗚聲.看起來沒有地方了: %dx%dx%d
+msg.lootgames.ms.board_too_large_to_solve=棋盤過大，已停用解題器，已用隨機棋盤代替。
+msg.lootgames.ms.bomb_touched=哎呀...好像是個BOOM. 快跑！
+msg.lootgames.ms.new_attempt=此結構平靜下來了. 你可以再試一次.
+msg.lootgames.ms.reveal_on_hidden=你無法揭示隱藏區域周圍的方格.
+msg.lootgames.ms.reveal_invalid_mark_count=你無法揭示周圍的方格，因為已插旗數與顯示數值不一致.
+msg.lootgames.ms.solver_error=錯誤：生成棋盤的時候碰到了一個問題。具體細節請檢視日誌。
+msg.lootgames.gol.start=讓我們玩遊戲吧！單擊中心方塊！
+msg.lootgames.gol.click_center=點選中心方塊開始遊戲！
+msg.lootgames.gol.rules=你只需要重複這些顏色.
+msg.lootgames.gol.not_ready=你覺得此結構現在沒有準備好回覆.
+msg.lootgames.gol.wrong_block=看來你選擇了錯誤的顏色...
+msg.lootgames.gol.reward_level_info=當前獎勵等級達到: %d (最高: %d)
+msg.lootgames.sdk.start=這個結構呈現了一個古老的謎題。右鍵增加數值，Shift+右鍵降低數值，左鍵格子內的選擇器來切換選項，潛行 + 左鍵雙擊來提交答案。
+msg.lootgames.sdk.check_end=此結構看向了你的答案... 再點一下來確認
+msg.lootgames.sdk.submit_reminder=此結構正在等待你的答案... 潛行+右鍵雙擊一個格子來填入你的答案。
+msg.lootgames.sdk.not_filled=此結構感覺到這個解法並不完備……
+msg.lootgames.sdk.wrong=此結構對你的答案並不滿意。你寫下的答案永遠的消散了。
+msg.lootgames.sdk.remaining=剩餘：%d
+
+lootgames.achievement_page.name=獎勵遊戲
+achievement.lootgames.find_dungeon=深埋的秘密
+achievement.lootgames.find_dungeon.desc=發現一個神秘的小遊戲地牢
+achievement.lootgames.win_game=我的寶貝！
+achievement.lootgames.win_game.desc=贏得一個迷你遊戲並獲得一些獎勵
+achievement.lootgames.lose_game=祝你下次好運。
+achievement.lootgames.lose_game.desc=失敗了（真的嗎？）一個小遊戲（比如，你失敗了..？）
+achievement.lootgames.gol.start=點燈！
+achievement.lootgames.gol.start.desc=獲得燈光遊戲機會
+achievement.lootgames.gol.beat_level_3=記憶超群
+achievement.lootgames.gol.beat_level_3.desc=打贏一場3級的燈光遊戲（你仍然在第4級失敗了。加油！）
+achievement.lootgames.gol.beat_level_4=史詩般的記憶
+achievement.lootgames.gol.beat_level_4.desc=打贏一場4級的燈光遊戲
+achievement.lootgames.ms.start=我們需要更多旗幟！
+achievement.lootgames.ms.start.desc=獲得掃雷遊戲機會
+achievement.lootgames.ms.beat_level_4=沒有壞工兵
+achievement.lootgames.ms.beat_level_4.desc=打贏一場4級的掃雷遊戲
+
+lootgames.command.usage=請輸入'/lootgames help'以檢視可用子命令
+lootgames.command.reloadconfigs.success=配置已過載
+lootgames.command.reloadconfigs.usage=%s - 過載LootGame的所有配置
+lootgames.command.help.usage=%s - 顯示幫助選單

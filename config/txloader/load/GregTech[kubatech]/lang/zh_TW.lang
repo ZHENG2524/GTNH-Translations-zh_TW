@@ -1,0 +1,405 @@
+#This file is a translation file for KubaTech
+
+#RecipeMaps
+kubatech.defusioncrafter=龍研聚合裝置
+kubatech.htgrrecipes=高溫氣冷反應堆
+
+#NEI
+kubatech.defusioncrafter.tier=外殼等級: %s
+kubatech.mobhandler.eec_chance=§5在工業屠宰場內掉落的機率: %s%%
+kubatech.mobhandler.eec_disabled=§5不會在工業屠宰場內掉落
+
+#Commands
+kubatech.commandhandler.invalid=§c無效使用！該指令的可能使用為 /%s
+kubatech.commandhandler.cant_find=§c找不到指令選項 %s
+kubatech.commandhandler.generic_help=§c你也可以使用 "/kubatech help" 以檢視可選指令
+kubatech.commandhandler.usage=<選項>
+kubatech.command.help.possible_commands=可選指令：
+kubatech.command.help.usage= - 顯示所有可選指令
+kubatech.command.config.invalid_option=§c無效選項！可能的選項：reload
+kubatech.command.config.success=§a配置過載成功！
+kubatech.command.config.usage=<選項>
+
+kubatech.command.tea.invalid_option=§c無效使用！
+kubatech.command.tea.player_not_found=§c未找到玩家！
+kubatech.command.tea.success_get=玩家 %s 有%d杯茶
+kubatech.command.tea.success_set=玩家 %s 現在有%d杯茶
+kubatech.command.tea.success_add=玩家 %s 現在有%d杯茶
+kubatech.command.tea.usage=<玩家名> get/set/add (<數量>)
+
+#GUI
+GT5U.gui.text.recipe_result.EEC_nospawner=未放入電動刷怪籠！
+GT5U.gui.text.recipe_result.EEC_invalidspawner=刷怪籠無效！
+GT5U.gui.text.recipe_result.EEC_peaceful=此生物無法在和平模式生成！
+GT5U.gui.text.recipe_result.MegaApiary_slotoverflow=內部蜜蜂數量過多！
+GT5U.gui.text.MegaApiary_noflowers=缺少花朵！
+GT5U.gui.text.recipe_result.EIG_slotoverflow=內部作物數量過多！
+GT5U.gui.text.recipe_result.EIG_seedOverflow=內部種子過多！
+GT5U.gui.text.recipe_result.EIG_missingwater=缺水！
+GT5U.gui.text.EIG_ic2glass=玻璃等級不足!
+
+GT5U.gui.text.recipe_result.arc_shutdown=電弧爐正在關閉！
+GT5U.gui.text.recipe_result.arc_ignition=電弧爐正在啟動！
+GT5U.gui.text.recipe_result.no_electrode=未插入電極！
+GT5U.gui.text.shutdown_reason.electrode_changed=電極在執行中發生了變化！
+
+## General
+kubatech.gui.text.configuration=配置
+
+kubatech.gui.text.tea_ultimate.status=狀態
+kubatech.gui.text.tea_ultimate.tea=茶
+kubatech.gui.text.tea_ultimate.tea_limit=茶限制
+kubatech.gui.text.tea_ultimate.exchange=交換
+kubatech.gui.text.tea_ultimate.exchange.cost=消耗：%s 茶
+kubatech.gui.text.tea_ultimate.benefits=增益
+kubatech.gui.tooltip.tea_ultimate.tea_acceptor_research_note=茶接收器研究筆記
+
+kubatech.gui.text.tea_acceptor.name=茶接收器
+kubatech.gui.text.tea_acceptor.tea=[茶]
+kubatech.gui.text.tea_acceptor.not_owner=這不是你的方塊
+kubatech.gui.text.tea_acceptor.in=輸入: %s/t
+kubatech.gui.text.tea_acceptor.in.tooltip=過去5秒的平均輸入
+
+kubatech.gui.text.eec.preserve_weapon_on=武器保護：開啟
+kubatech.gui.text.eec.preserve_weapon_off=武器保護：關閉
+kubatech.gui.text.eec.preserve_weapon_warning=當前沒有使用GUI武器。
+kubatech.gui.text.eec.cycle_weapons_on=武器迴圈：開啟
+kubatech.gui.text.eec.cycle_weapons_off=武器迴圈：關閉
+kubatech.gui.text.eec.cycle_weapons.info=如果啟用了§f武器保護§r功能，當物品欄中有空間時，會將幾乎損壞的武器從GUI移至輸出匯流排。
+kubatech.gui.text.eec.void_all_damaged_on=銷燬耐久不滿和附魔的物品：開啟
+kubatech.gui.text.eec.void_all_damaged_off=銷燬耐久不滿和附魔的物品：關閉
+kubatech.gui.text.eec.void_all_damaged.warning=不影響精英怪掉落物及一些特殊掉落物，比如史萊姆劍！不會作用於GUI中的武器。
+kubatech.gui.text.eec.infernal_drop_on=允許精英怪生成：開啟
+kubatech.gui.text.eec.infernal_drop_off=允許精英怪生成：關閉
+kubatech.gui.text.eec.infernal_drop_always=不會作用於始終為精英怪的怪物！
+kubatech.gui.text.eec.ritual_mode_on=苦難之井模式：啟動
+kubatech.gui.text.eec.ritual_mode_off=苦難之井模式：關閉
+kubatech.gui.text.eec.ritual_mode_connected=已連線到儀式。
+kubatech.gui.text.eec.ritual_mode_error=無法連線到儀式！
+
+kubatech.gui.text.inventory=物品欄
+kubatech.gui.text.status=狀態
+kubatech.gui.text.operating=執行
+kubatech.gui.text.input=輸入
+kubatech.gui.text.output=輸出
+kubatech.gui.text.usage_line=使用：%s EU/t
+kubatech.gui.text.time_line=時間：%s 秒
+kubatech.gui.text.eig.setup_mode=設定模式
+kubatech.gui.text.eig.disabled=禁用
+kubatech.gui.text.eig.enabled=啟用
+kubatech.gui.text.eig.ic2_mode=IC2 模式
+kubatech.gui.text.eig.no_humidity_mode=無溼度模式
+kubatech.gui.text.eig.inventory_full_warning=種子庫存已滿
+kubatech.gui.text.mia.primary_mode=主要模式
+kubatech.gui.text.mia.normal=常規
+kubatech.gui.text.mia.swarmer=蜂群
+kubatech.gui.text.mia.secondary_mode=次要模式
+kubatech.gui.text.mia.show_bee_inventory=展示蜜蜂物品格
+kubatech.gui.text.mia.show_machine_status=顯示機器狀態
+
+kubatech.gui.tooltip.contributors.added=新增者：%s
+kubatech.gui.tooltip.contributors.design=由 %s 設計
+kubatech.gui.tooltip.contributors.structure=結構由§d%s設計
+
+kubatech.gui.tooltip.dynamic_inventory.identical_slots=有%d個相同的槽位
+kubatech.gui.tooltip.dynamic_inventory.empty_slot=空槽位
+kubatech.gui.tooltip.dynamic_inventory.eig.seed_count=種子：%d
+kubatech.gui.tooltip.dynamic_inventory.eig.remaining_seed_types=剩餘種子型別：%d
+kubatech.gui.tooltip.dynamic_inventory.eig.remaining_seed_capacity=剩餘種子容量：%d
+
+kubatech.gui.text.electrode_detector=§8閾值
+kubatech.gui.text.electrode_detector.durability=§8耐久度數值
+kubatech.gui.text.electrode_detector.percentage=§8耐久度百分比
+
+#Chat Messages
+kubatech.chat.forbidden_while_running=無法在執行時更改模式！
+kubatech.chat.mode.generic=當前執行模式：%s
+
+kubatech.arcfurnace.mode.normal=普通
+kubatech.arcfurnace.mode.blast=高爐
+kubatech.arcfurnace.mode.ore=礦石
+
+kubatech.chat.eec.ritual_mode_enabled=苦難之井模式已啟用
+kubatech.chat.eec.ritual_mode_disabled=苦難之井模式已關閉
+kubatech.chat.eec.ritual_mode_connected=已成功連線到儀式
+kubatech.chat.eec.ritual_mode_error=無法連線到儀式！
+kubatech.chat.eec.infernal_drops_enabled=允許精英怪生成
+kubatech.chat.eec.infernal_drops_disabled=將嘗試阻止生成精英怪
+
+# info data
+## general
+kubatech.infodata.running_mode=執行模式：
+kubatech.infodata.running_mode.fmt=執行模式：§a%s§r
+
+## Extreme Entity Crusher
+kubatech.infodata.eec.current_mob=當前生物：§e%s
+kubatech.infodata.eec.current_mob.none=當前怪物：§e無
+kubatech.infodata.eec.animations.enabled=動畫：§e已啟用
+kubatech.infodata.eec.animations.disabled=動畫：§e已禁用
+kubatech.infodata.eec.produce_infernal_drops.allowed=允許產出精英怪掉落物：§e是
+kubatech.infodata.eec.produce_infernal_drops.not_allowed=不允許產出精英怪凋落物：§e否
+kubatech.infodata.eec.void_damaged.yes=銷燬所有損壞及附魔物品：§e是
+kubatech.infodata.eec.void_damaged.no=銷燬所有損壞及附魔物品：§e否
+kubatech.infodata.eec.in_ritual_mode.yes=處於儀式模式：§e是
+kubatech.infodata.eec.in_ritual_mode.no=處於儀式模式：§e否
+kubatech.infodata.eec.connected_to_ritual.yes=已連線到儀式：§a是
+kubatech.infodata.eec.connected_to_ritual.no=已連線到儀式：§c否
+kubatech.infodata.eec.cycle_weapons.yes=武器迴圈中：§e是
+kubatech.infodata.eec.cycle_weapons.no=武器迴圈中：§e否
+kubatech.infodata.eec.weapon_preservation.yes=武器保留中：§e是
+kubatech.infodata.eec.weapon_preservation.no=武器保留中：§e否
+kubatech.infodata.eec.inserted_weapon.yes=武器已插入: §eYes
+kubatech.infodata.eec.inserted_weapon.no=武器已插入: §eNo
+kubatech.infodata.eec.weapon.damage=武器攻擊傷害：§e%s
+kubatech.infodata.eec.weapon.looting_level=武器掠奪等級：§e%s
+kubatech.infodata.eec.total_damage=總攻擊傷害：§e%s
+
+## Extreme Industrial Greenhouse
+kubatech.infodata.eig.running_mode.setup_mode.input=執行模式：§a設定模式（輸入）§r
+kubatech.infodata.eig.running_mode.setup_mode.output=執行模式：§a設定模式（輸出）§r
+kubatech.infodata.eig.uses.water=每次操作消耗 %s L 水
+kubatech.infodata.eig.uses.weedex=每秒消耗 %s L 除草劑-9000
+kubatech.infodata.eig.max_slots=最大槽位數：§a%s§r
+kubatech.infodata.eig.used_slots=已用槽位數：%s
+kubatech.infodata.bucket.humidity=溼度：
+kubatech.infodata.bucket.humidity.on=開啟
+kubatech.infodata.bucket.humidity.off=關閉
+kubatech.infodata.eig.too_many_types=§4裡面的種子型別太多了，無法執行！§r
+kubatech.infodata.eig.too_many_seeds=§4裡面的種子數量太多了，無法執行！§r
+
+## Mega Industrial Apiary
+kubatech.infodata.mia.running_mode.input=執行模式：§6輸入模式§r
+kubatech.infodata.mia.running_mode.output=執行模式：§6輸出模式§r
+kubatech.infodata.mia.running_mode.operating.normal=執行模式：§6工作模式（常規）§r
+kubatech.infodata.mia.running_mode.operating.swarmer=執行模式：§6工作模式（蜂群）§r
+kubatech.infodata.mia.running_mode.bee_storage=蜜蜂儲存（%s/%s）：
+kubatech.infodata.mia.inventory_full=沒有更多蜜蜂的欄位了！
+kubatech.gui.text.mia.inventory_full_warning=沒有更多可用的蜜蜂欄位了！
+kubatech.gui.text.mia.locked_while_running=當機器執行時，蜜蜂物品格將鎖定
+kubatech.infodata.mia.gui_locked_while_running=在執行時無法透過GUI修改蜜蜂物品欄
+
+#HTGR
+kubatech.infodata.htgr.stored_fuel=§f現存燃料：
+kubatech.infodata.htgr.stored_fuel_entry=§f- §b%s §f× §6%s (%s, %s, %s)
+kubatech.infodata.htgr.burned_fuel=§f已消耗燃料：
+kubatech.infodata.htgr.burned_fuel_entry=§f- §b%s §f× §6%s%% 至輸出
+kubatech.infodata.htgr.helium_supply=§f氦氣供應量：§6%sL
+kubatech.infodata.htgr.coolant_per_tick=§f每刻冷卻液：§6%sL
+kubatech.infodata.htgr.water_per_tick=§f每秒耗水量：§6%sL
+kubatech.infodata.htgr.fuel_supply=§f填充進度：%s / %s
+kubatech.infodata.htgr.fuel_properties=§f屬性：%s、%s、%s
+
+kubatech.MBTT.CoolantInputHatch=輸入倉（冷卻劑）
+kubatech.MBTT.HeliumInputHatch=輸入倉（氦）
+kubatech.MBTT.WaterInputHatch=輸入倉（水）
+kubatech.MBTT.CoolantOutputHatch=輸出倉（冷卻劑）
+kubatech.MBTT.SteamOutputHatch=輸出倉（蒸汽）
+
+#Waila
+kubatech.waila.eec.mob_type=生物型別：%s
+kubatech.waila.eec.no_mob=無
+kubatech.waila.eec.ritual_mode_connected=已連線至儀式
+kubatech.waila.eec.ritual_mode_error=未連線儀式！
+
+#Blocks
+kubablock.tea_acceptor.name=§4§l茶接收器
+kubablock.tea_storage.name=§4§l茶葉儲存擴充套件器
+
+#DEFC Casings
+defc.casing.name=聚變方塊
+defc.casing.tip=龍研聚合裝置外殼 T %d
+
+#Items
+item.kubaitems.name=茶 / 茶葉
+kubaitem.fromcollection=此物品來自
+kubaitem.notyours=那東西好像不是你的
+kubaitem.defc_schematic_t1.name=龍之核心圖紙
+kubaitem.defc_schematic_t1.tip=可以在冥王星地牢找到這個圖紙
+kubaitem.defc_schematic_t2.name=雙足飛龍核心圖紙
+kubaitem.defc_schematic_t3.name=覺醒核心圖紙
+kubaitem.defc_schematic_t4.name=混沌核心圖紙
+
+item.htgr_item.triso_mixture.name=TRISO混合燃料（%s）
+item.htgr_item.incomplete_biso_fuel.name=BISO燃料半成品（%s）
+item.htgr_item.incomplete_triso_fuel.name=TRISO燃料半成品（%s）
+item.htgr_item.triso_fuel.name=TRISO燃料（%s）
+item.htgr_item.burned.name=枯竭TRISO燃料（%s）
+
+item.arc_furnace_electrode.GraphiteElectrode.name=石墨電極
+item.arc_furnace_electrode.TantalumElectrode.name=鉭電極
+item.arc_furnace_electrode.MolybdenumElectrode.name=鉬電極
+item.arc_furnace_electrode.TungstenElectrode.name=鎢電極
+item.arc_furnace_electrode.TungstenSteelElectrode.name=鎢鋼電極
+item.arc_furnace_electrode.GrapheneElectrode.name=石墨烯電極
+item.arc_furnace_electrode.YBCOElectrode.name=釔鋇銅氧合金電極
+item.arc_furnace_electrode.NetheriteElectrode.name=下界合金電極
+item.arc_furnace_electrode.TritaniumElectrode.name=三鈦電極
+item.arc_furnace_electrode.InfinityElectrode.name=無盡電極
+item.arc_furnace_electrode.HypogenElectrode.name=海珀珍電極
+item.arc_furnace_electrode.NeutroniumNaniteElectrode.name=中子奈米蜂群電極
+item.arc_furnace_electrode.TranscendentNaniteElectrode.name=超時空金屬奈米蜂群電極
+item.arc_furnace_electrode.UniversiumNaniteElectrode.name=宇宙素奈米蜂群電極
+
+item.arc_furnace_electrode.tip.durability=耐久：%s/%s
+item.arc_furnace_electrode.tip.speed=速度: %s
+item.arc_furnace_electrode.tip.parallel_limit=並行：%s
+item.arc_furnace_electrode.tip.parallel_limit_none=無
+item.arc_furnace_electrode.tip.oc=超頻係數：%s%s
+item.arc_furnace_electrode.tip.eu_modifier=EU修正：%s
+item.arc_furnace_electrode.tip.startup_penalty=啟動懲罰：%s
+item.arc_furnace_electrode.tip.startup_amperage=啟動電流：%sA
+
+item.arc_furnace_electrode.tip.special_effect.GraphiteElectrode=§6§l麵包與黃油§r§6：無啟動懲罰
+item.arc_furnace_electrode.tip.special_effect.GrapheneElectrode=§6§l麵包與黃油§r§6：無啟動懲罰
+item.arc_furnace_electrode.tip.special_effect.YBCOElectrode=§6§l快速氧化§r§6：每級超頻使耐久消耗增加100%
+item.arc_furnace_electrode.tip.special_effect.NetheriteElectrode=§6§l熱重啟§r§6：無關機冷卻時間。若停機不足4秒，則完全跳過啟動流程
+item.arc_furnace_electrode.tip.special_effect.InfinityElectrode=§6§l邁向無盡！§r§6：每次成功處理，翻倍並行數量，直到跳電或機器停機（無論提供多少物品，電力消耗均按理論並行數計算）
+item.arc_furnace_electrode.tip.special_effect.NeutroniumNaniteElectrode=§6§l奈米蜂群修復§r§6：（可選）每次工作消耗1箇中子粉並以70%機率不消耗耐久
+item.arc_furnace_electrode.tip.special_effect.TranscendentNaniteElectrode=§6§l奈米蜂群維護§r§6：（可選）每次工作消耗1個超時空金屬粉以回覆1耐久
+item.arc_furnace_electrode.tip.special_effect.UniversiumNaniteElectrode=§6§l奈米蜂群復原§r§6：（可選）每次工作時消耗1個宇宙素粉以完全修復電極
+
+#Tea
+kubaitem.tea.black_tea.name=紅茶
+kubaitem.tea.earl_gray_tea.name=格雷伯爵茶
+kubaitem.tea.green_tea.name=綠茶
+kubaitem.tea.lemon_tea.name=檸檬茶
+kubaitem.tea.milk_tea.name=奶茶
+kubaitem.tea.oolong_tea.name=烏龍茶
+kubaitem.tea.peppermint_tea.name=薄荷茶
+kubaitem.tea.pu-erh_tea.name=普洱茶
+kubaitem.tea.white_tea.name=白茶
+kubaitem.tea.yellow_tea.name=黃茶
+kubaitem.teaingredient.black_tea_leaf.name=紅茶葉
+kubaitem.teaingredient.green_tea_leaf.name=綠茶葉
+kubaitem.teaingredient.oolong_tea_leaf.name=烏龍茶葉
+kubaitem.teaingredient.pu-erh_tea_leaf.name=普洱茶葉
+kubaitem.teaingredient.white_tea_leaf.name=白茶葉
+kubaitem.teaingredient.yellow_tea_leaf.name=黃茶葉
+kubaitem.teaingredient.tea_leaf_dehydrated.name=脫水茶葉
+kubaitem.teaingredient.steamed_tea_leaf.name=蒸製茶葉
+kubaitem.teaingredient.rolled_tea_leaf.name=揉製茶葉
+kubaitem.teaingredient.oxidized_tea_leaf.name=氧化茶葉
+kubaitem.teaingredient.fermented_tea_leaf.name=發酵茶葉
+kubaitem.teaingredient.bruised_tea_leaf.name=揉傷茶葉
+kubaitem.teaingredient.partially_oxidized_tea_leaf.name=部分氧化茶葉
+
+#Legendary Tea collection
+kubaitem.teacollection=傳奇秘製茶系列
+kubaitem.teacollection.mmm=Mmmm茶
+kubaitem.teacollection.black_tea.name=§6§lKuba紅茶
+kubaitem.teacollection.butterfly_tea.name=§1§lKuba蝶豆花茶
+kubaitem.teacollection.earl_gray_tea.name=§6§lKuba格雷伯爵茶
+kubaitem.teacollection.green_tea.name=§2§lKuba綠茶
+kubaitem.teacollection.lemon_tea.name=§e§lKuba檸檬茶
+kubaitem.teacollection.milk_tea.name=§f§lKuba奶茶
+kubaitem.teacollection.oolong_tea.name=§e§lKuba烏龍茶
+kubaitem.teacollection.peppermint_tea.name=§a§lKuba薄荷茶
+kubaitem.teacollection.pu-erh_tea.name=§4§lKuba普洱茶
+kubaitem.teacollection.red_tea.name=§c§lKuba洛神花茶
+kubaitem.teacollection.white_tea.name=§e§lKuba白茶
+kubaitem.teacollection.yellow_tea.name=§6§lKuba黃茶
+kubaitem.teacollection.ultimate_tea.name=§6§lKuba%s §6§l茶
+
+kubaitem.tea_acceptor_research_note.name=茶接收器研究筆記
+
+#Achievements
+achievement.teacollection.black_tea=§6§lKuba紅茶
+achievement.teacollection.butterfly_tea=§1§lKuba蝶豆花茶
+achievement.teacollection.earl_gray_tea=§6§lKuba格雷伯爵茶
+achievement.teacollection.green_tea=§2§lKuba綠茶
+achievement.teacollection.lemon_tea=§e§lKuba檸檬茶
+achievement.teacollection.milk_tea=§f§lKuba奶茶
+achievement.teacollection.oolong_tea=§e§lKuba烏龍茶
+achievement.teacollection.peppermint_tea=§a§lKuba薄荷茶
+achievement.teacollection.pu-erh_tea=§4§lKuba普洱茶
+achievement.teacollection.red_tea=§c§lKuba洛神花茶
+achievement.teacollection.white_tea=§e§lKuba白茶
+achievement.teacollection.yellow_tea=§6§lKuba黃茶
+achievement.teacollection.ultimate_tea=§4§l§k??????
+
+achievement.teacollection.black_tea.desc=§6最常見也最受歡迎的茶
+achievement.teacollection.butterfly_tea.desc=§1甚至不是茶
+achievement.teacollection.earl_gray_tea.desc=§6為真正的英國人準備
+achievement.teacollection.green_tea.desc=§2萬茶之源
+achievement.teacollection.lemon_tea.desc=§e帶檸檬的紅茶，你在期待什麼？
+achievement.teacollection.milk_tea.desc=§f奶與紅茶的結合，我的最愛
+achievement.teacollection.oolong_tea.desc=§e對於真正的鑑賞家
+achievement.teacollection.peppermint_tea.desc=§a可以養胃
+achievement.teacollection.pu-erh_tea.desc=§4助消化，味道也像泥土
+achievement.teacollection.red_tea.desc=§c為什麼會有人喝這個？
+achievement.teacollection.white_tea.desc=§e最健康的一款
+achievement.teacollection.yellow_tea.desc=§6青草味更濃的綠茶
+achievement.teacollection.ultimate_tea.desc=§4§l一茶飲盡
+
+#Thaumcraft
+tc.research_category.KUBATECH=§l茶
+tc.research_name.KT_UltimateTea=%s §6§l茶
+tc.research_text.KT_UltimateTea=§4§l純粹的能源
+KT.research.ultimatetea=你找到一種方法，將這些茶轉化為純粹的能源，並獲得%s§6§l茶
+
+#Tooltip
+kubatech.tooltip.tea=茶
+kubatech.tooltip.tea_acceptor.0=接受茶葉物品並將其加入您的網路
+kubatech.tooltip.tea_acceptor.1=每tick最多可疊加10層
+kubatech.tooltip.tea_storage.0=將茶葉儲存空間擴充套件§c%s
+kubatech.tooltip.tea_ingredient.0=這是茶的原料
+
+kubatech.tooltip.structure.flowers=花
+
+kubatech.tooltip.htgr_material=高溫氣冷反應堆材料
+defc.casing.7.name=矽巖合金聚合機械方塊
+defc.casing.8.name=血腥靈寶聚合機械方塊
+defc.casing.9.name=龍聚合機械方塊
+defc.casing.10.name=雙足飛龍聚合機械方塊
+defc.casing.11.name=覺醒龍聚合機械方塊
+defc.casing.12.name=混沌聚合機械方塊
+
+kubatech.multiblock.DEFusionCrafter.machine_type=聚合裝置，DEFC
+kubatech.multiblock.DEFusionCrafter.fusion_casing=聚變方塊
+kubatech.multiblock.DEFusionCrafter.fusion_machine_casing=聚變機械方塊
+kubatech.multiblock.DEFusionCrafter.footer=§c控制器的配方會消耗元始珍珠！
+
+kubatech.multiblock.ExtremeEntityCrusher.machine_type=電動刷怪籠，EEC
+kubatech.multiblock.ExtremeEntityCrusher.steel_frame_box=鋼框架
+kubatech.multiblock.ExtremeEntityCrusher.diamond_spike=鑽石錐刺
+
+kubatech.multiblock.ExtremeIndustrialGreenhouse.machine_type=作物農場，EIG
+kubatech.multiblock.ExtremeIndustrialGreenhouse.sterile_farm_casing=無菌農場機械方塊
+kubatech.multiblock.ExtremeIndustrialGreenhouse.frame_box=鎢鋼框架
+kubatech.multiblock.ExtremeIndustrialGreenhouse.fertilized_dirt=沃土 （來自RandomThings）
+kubatech.multiblock.ExtremeIndustrialGreenhouse.purple_lamp=紫色燈 （普通或反向的，來自ProjectRed Illumination）
+kubatech.multiblock.ExtremeIndustrialGreenhouse.footer=土壤需要耕過，結構成型後水會自動生成
+
+
+kubatech.multiblock.MegaIndustrialApiary.machine_type=巨型工業蜂箱，Mapiary
+kubatech.multiblock.MegaIndustrialApiary.dirt_or_grass=泥土或草方塊
+kubatech.multiblock.MegaIndustrialApiary.wood_plank=木板
+kubatech.multiblock.MegaIndustrialApiary.water=水
+kubatech.multiblock.MegaIndustrialApiary.alveary_fan=蜂箱組風扇
+kubatech.multiblock.MegaIndustrialApiary.alveary_heater=蜂箱組加熱器
+kubatech.multiblock.MegaIndustrialApiary.alveary_hygroregulator=蜂箱組保溼器
+kubatech.multiblock.MegaIndustrialApiary.alveary=蜂箱組
+kubatech.multiblock.MegaIndustrialApiary.alveary_stabiliser=蜂箱組穩定器
+kubatech.multiblock.MegaIndustrialApiary.apiary=蜂箱
+kubatech.multiblock.MegaIndustrialApiary.wood_slab=木臺階
+kubatech.multiblock.MegaIndustrialApiary.flower=花（取決於蜜蜂）
+kubatech.multiblock.MegaIndustrialApiary.any_casing_luv=任意機械方塊（LuV+）
+kubatech.multiblock.MegaIndustrialApiary.footer=手動放置水或蒸餾水
+
+# Multiblocks
+gt.blockmachines.htgr.name=高溫氣冷反應堆
+gt.blockmachines.industrialarcfurnace.controller.tier.single.name=工業電弧爐
+gt.blockmachines.multimachine.defusioncrafter.name=龍研聚合裝置
+gt.blockmachines.multimachine.extremegreenhouse.name=極限工業溫室
+
+# HTGR fuel items
+item.HTGR.fuel.Plutonium=鈽
+item.HTGR.fuel.Thorium=釷
+item.HTGR.fuel.Uranium=鈾
+item.HTGRBISOPebbleCompound.name=BISO複合材料（%s）
+item.HTGRBurnedOutTRISOBall.name=枯竭TRISO燃料球（%s）
+item.HTGRBurnedOutTRISOPebble.name=枯竭TRISO燃料丸（%s）
+item.HTGRHTGRFuelMixture.name=HTGR混合燃料（%s）
+item.HTGRTRISOBall.name=TRISO燃料球（%s）
+item.HTGRTRISOPebble.name=TRISO燃料丸（%s）
+item.HTGRTRISOPebbleCompound.name=TRISO複合材料（%s）

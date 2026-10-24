@@ -1,0 +1,13 @@
+angermod.commands.angerprotection.usage=/angerprotection <玩家> give/remove
+angermod.commands.angerprotection.disabled=未啟用出生點保護。
+angermod.commands.angerprotection.wrong_action=未知操作：必須指定為“give”或“remove”
+angermod.commands.angerprotection.given=已為 %s 玩家提供保護
+angermod.commands.angerprotection.removed=已移除 %s 玩家的保護
+
+angermod.config.friendly-animal-revenge=友好生物復仇
+angermod.config.kamikaze=神風
+angermod.config.block-break-anger=被破壞方塊激怒
+angermod.config.spawn-protection=玩家出生點保護
+
+yamcore.char.protection.give=一道魔法護盾出現……
+yamcore.char.protection.remove=你的魔法護盾消失了……

@@ -1,0 +1,212 @@
+# Items THIS IS ALL UPDATED ALL OF THE OTHER LANGUAGE IS NOT
+
+## Component Items For Crafting
+item.adventurebackpack:backpackComponent.name=揹包元件
+item.adventurebackpack:sleepingBag.name=睡袋
+item.adventurebackpack:backpackTank.name=揹包儲罐
+item.adventurebackpack:macheteHandle.name=彎刀手柄
+item.adventurebackpack:hoseHead.name=軟管噴嘴
+item.adventurebackpack:copterEngine.name=雙缸柴油機
+item.adventurebackpack:copterBlades.name=直升機槳葉
+item.adventurebackpack:hydroBlades.name=水力發電槳葉
+item.adventurebackpack:inflatableBoat.name=充氣艇
+item.adventurebackpack:inflatableBoatMotorized.name=充氣艇（機動化）
+
+## Entity 
+entity.adventurebackpack.inflatableBoat.name=充氣艇
+entity.adventurebackpack.rideableSpider.name=可以騎的蜘蛛
+
+## Tools and consumables
+item.adventurebackpack:clockworkCrossbow.name=發條弩
+item.adventurebackpack:melonJuiceBottle.name=西瓜汁
+item.adventurebackpack:machete.name=彎刀
+
+item.adventurebackpack:backpackHose.name=揹包軟管
+item.adventurebackpack:hose_leftTank_suck.name=軟管：左側儲罐 / 吸取模式
+item.adventurebackpack:hose_leftTank_spill.name=軟管：左側儲罐 / 噴灑模式
+item.adventurebackpack:hose_leftTank_drink.name=軟管：左側儲罐 / 飲用模式
+
+item.adventurebackpack:hose_rightTank_suck.name=軟管：右側儲罐 / 吸取模式
+item.adventurebackpack:hose_rightTank_spill.name=軟管：右側儲罐 / 噴灑模式
+item.adventurebackpack:hose_rightTank_drink.name=軟管：右側儲罐 / 飲用模式
+item.adventurebackpack:hoseUseless.name=軟管：無法使用 / 沒有揹包
+
+## Wearables
+item.adventurebackpack:adventureBackpack.name=探險揹包
+item.adventurebackpack:copterPack.name=直升機揹包
+item.adventurebackpack:coalJetpack.name=煤噴氣揹包
+
+## Armor
+item.adventurebackpack:adventureHat.name=探險者軟呢帽
+item.adventurebackpack:adventureSuit.name=探險者外套
+item.adventurebackpack:adventurePants.name=探險者褲子
+item.adventurebackpack:pistonBoots.name=活塞靴子
+
+## Blocks
+blockAdventureBackpack.name=探險揹包
+blockCampFire.name=篝火
+blockSleepingBag.name=睡袋
+
+## CreativeTab
+itemGroup.adventurebackpack=探險揹包
+
+## Keybindings
+keys.adventureBackpack.category=探險揹包
+keys.adventureBackpack.openInventory=開啟揹包
+keys.adventureBackpack.toggleActions=切換動作
+
+## Fluids
+fluid.melonJuice=西瓜汁
+fluid.milk=牛奶
+fluid.mushrromstew=燉蘑菇
+
+## Messages
+adventurebackpack:messages.already.equipped.backpack=你已經裝備了探險揹包.
+adventurebackpack:messages.already.equipped.copterpack=你已經裝備了直升機揹包.
+adventurebackpack:messages.already.equipped.jetpack=你已經裝備了煤噴氣揹包.
+adventurebackpack:messages.already.impossibru=你沒有裝備任何揹包.
+adventurebackpack:messages.backpack.cant.bag=無法開啟睡袋！請檢查周圍區域.
+adventurebackpack:messages.cant.sleep.here=來自東方的神秘力量禁止你在這裡入睡.
+adventurebackpack:messages.copterpack.hover=直升機揹包：懸停模式
+adventurebackpack:messages.copterpack.normal=直升機揹包：常規模式
+adventurebackpack:messages.copterpack.outoffuel=直升機揹包：燃料耗盡
+adventurebackpack:messages.copterpack.cantwater=直升機揹包：不能在水中工作
+adventurebackpack:messages.copterpack.off=直升機揹包：關閉
+adventurebackpack:messages.jetpack.on=煤噴氣揹包：開啟
+adventurebackpack:messages.jetpack.off=煤噴氣揹包：關閉
+adventurebackpack:messages.nightvision.on=夜視：開啟
+adventurebackpack:messages.nightvision.off=夜視：關閉
+adventurebackpack:messages.cycling.on=工具迴圈：開啟
+adventurebackpack:messages.cycling.off=工具迴圈：關閉
+adventurebackpack:messages.crossbow.outofammo=發條弩：彈藥耗盡
+
+## Tooltips
+adventurebackpack:tooltips.on=開啟
+adventurebackpack:tooltips.off=關閉
+adventurebackpack:tooltips.empty=空
+adventurebackpack:tooltips.meters=米
+adventurebackpack:tooltips.error=錯誤
+adventurebackpack:tooltips.steam=蒸汽
+adventurebackpack:tooltips.press=按
+adventurebackpack:tooltips.hold.shift=按住Shift
+adventurebackpack:tooltips.hold.ctrl=按住Ctrl
+adventurebackpack:tooltips.mouse.wheel=滾輪
+adventurebackpack:tooltips.max.altitude=最大海拔
+
+adventurebackpack:tooltips.backpack.slots.used=已用欄位
+adventurebackpack:tooltips.backpack.tank.left=左側儲罐
+adventurebackpack:tooltips.backpack.tank.right=右側儲罐
+adventurebackpack:tooltips.backpack.cycling=工具迴圈
+adventurebackpack:tooltips.backpack.cycling.key1=穿著時
+adventurebackpack:tooltips.backpack.cycling.key2=揹包 切換工具迴圈
+adventurebackpack:tooltips.backpack.vision=夜視
+adventurebackpack:tooltips.backpack.vision.key1=穿著時
+adventurebackpack:tooltips.backpack.vision.key2=揹包 開啟夜視功能
+adventurebackpack:tooltips.backpack.equip=背起揹包
+adventurebackpack:tooltips.backpack.unequip.key1=卸下揹包
+adventurebackpack:tooltips.backpack.unequip.key2=§7按住Shift鍵：使用睡袋§r
+adventurebackpack:tooltips.backpack.sleepingbag=使用睡袋
+
+adventurebackpack:tooltips.jetpack.fuel=燃料
+adventurebackpack:tooltips.jetpack.tank.water=左側油箱
+adventurebackpack:tooltips.jetpack.tank.steam=右側油箱
+adventurebackpack:tooltips.jetpack.key.onoff1=穿著時
+adventurebackpack:tooltips.jetpack.key.onoff2=噴氣揹包 啟動
+adventurebackpack:tooltips.jetpack.equip=背起煤炭噴氣揹包
+adventurebackpack:tooltips.jetpack.unequip=卸下煤炭噴氣揹包
+
+adventurebackpack:tooltips.copter.tank.fuel=燃料箱
+adventurebackpack:tooltips.copter.rate.fuel=燃料消耗率
+adventurebackpack:tooltips.copter.key.onoff1=穿著時
+adventurebackpack:tooltips.copter.key.onoff2=直升機揹包 啟動
+adventurebackpack:tooltips.copter.key.hover1=飛行期間
+adventurebackpack:tooltips.copter.key.hover2=切換懸停模式
+adventurebackpack:tooltips.copter.equip=背起直升機揹包
+adventurebackpack:tooltips.copter.unequip=卸下直升機揹包
+
+adventurebackpack:tooltips.hose.key.header=當手持軟管時:
+adventurebackpack:tooltips.hose.key.tank=更換儲罐
+adventurebackpack:tooltips.hose.key.mode=切換模式
+adventurebackpack:tooltips.hose.dump1=將軟管放入可穿戴揹包的輸出欄中
+adventurebackpack:tooltips.hose.dump2=清空對應儲罐
+adventurebackpack:tooltips.hose.dump.warn=警告! 流體將被傾倒並丟失. 覆水難收.
+
+## Skins
+adventurebackpack:skin.name.standard=標準
+adventurebackpack:skin.name.bat=蝙蝠
+adventurebackpack:skin.name.black=黑色
+adventurebackpack:skin.name.blaze=烈焰
+adventurebackpack:skin.name.blue=藍色
+adventurebackpack:skin.name.bookshelf=書架
+adventurebackpack:skin.name.brown=棕色
+adventurebackpack:skin.name.brown_mushroom=棕色蘑菇
+adventurebackpack:skin.name.cactus=仙人掌
+adventurebackpack:skin.name.cake=蛋糕
+adventurebackpack:skin.name.carrot=胡蘿蔔
+adventurebackpack:skin.name.chest=箱子
+adventurebackpack:skin.name.chicken=雞
+adventurebackpack:skin.name.coal=煤
+adventurebackpack:skin.name.cookie=曲奇
+adventurebackpack:skin.name.cow=牛
+adventurebackpack:skin.name.creeper=苦力怕
+adventurebackpack:skin.name.cyan=青色
+adventurebackpack:skin.name.deluxe=豪華
+adventurebackpack:skin.name.diamond=鑽石
+adventurebackpack:skin.name.dragon=末影龍
+adventurebackpack:skin.name.egg=蛋
+adventurebackpack:skin.name.electric=電子
+adventurebackpack:skin.name.emerald=翡翠
+adventurebackpack:skin.name.end=末地門
+adventurebackpack:skin.name.enderman=末影人
+adventurebackpack:skin.name.ghast=惡魂
+adventurebackpack:skin.name.glowstone=熒石
+adventurebackpack:skin.name.gold=金色
+adventurebackpack:skin.name.gray=灰色
+adventurebackpack:skin.name.green=綠色
+adventurebackpack:skin.name.haybale=乾草塊
+adventurebackpack:skin.name.horse=馬
+adventurebackpack:skin.name.iron=鐵
+adventurebackpack:skin.name.iron_golem=鋼鐵傀儡
+adventurebackpack:skin.name.lapis=青金石
+adventurebackpack:skin.name.leather=皮革
+adventurebackpack:skin.name.light_blue=淡藍色
+adventurebackpack:skin.name.light_gray=淡灰色
+adventurebackpack:skin.name.lime=黃綠色
+adventurebackpack:skin.name.magenta=品紅色
+adventurebackpack:skin.name.magma_cube=岩漿怪
+adventurebackpack:skin.name.melon=西瓜
+adventurebackpack:skin.name.modded_network=模組網路
+adventurebackpack:skin.name.mooshroom=哞菇
+adventurebackpack:skin.name.nether=地獄
+adventurebackpack:skin.name.obsidian=黑曜石
+adventurebackpack:skin.name.ocelot=豹貓
+adventurebackpack:skin.name.orange=橘色
+adventurebackpack:skin.name.overworld=主世界
+adventurebackpack:skin.name.pig=豬
+adventurebackpack:skin.name.pigman=殭屍豬人
+adventurebackpack:skin.name.pink=粉色
+adventurebackpack:skin.name.pumpkin=南瓜
+adventurebackpack:skin.name.purple=紫色
+adventurebackpack:skin.name.quartz=石英
+adventurebackpack:skin.name.rainbow=彩虹
+adventurebackpack:skin.name.red=紅色
+adventurebackpack:skin.name.red_mushroom=紅蘑菇
+adventurebackpack:skin.name.redstone=紅石
+adventurebackpack:skin.name.sandstone=沙石
+adventurebackpack:skin.name.sheep=羊
+adventurebackpack:skin.name.silverfish=蠹蟲
+adventurebackpack:skin.name.skeleton=骷髏
+adventurebackpack:skin.name.slime=史萊姆
+adventurebackpack:skin.name.snow=雪
+adventurebackpack:skin.name.spider=蜘蛛
+adventurebackpack:skin.name.sponge=海綿
+adventurebackpack:skin.name.squid=魷魚
+adventurebackpack:skin.name.sunflower=向日葵
+adventurebackpack:skin.name.villager=村民
+adventurebackpack:skin.name.white=白色
+adventurebackpack:skin.name.wither=凋靈
+adventurebackpack:skin.name.wither_skeleton=凋靈骷髏
+adventurebackpack:skin.name.wolf=狼
+adventurebackpack:skin.name.yellow=黃色
+adventurebackpack:skin.name.zombie=殭屍
+adventurebackpack:skin.name.unknown=未知

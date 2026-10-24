@@ -1,0 +1,195 @@
+item.kekztech_error_item.name=KekzTech錯誤硬幣
+
+# -------- Multiblock Tooltip Builder Keywords
+# -------- Context can be found in the class util.MultiBlockTooltipBuilder
+mbdesc.beginStructureBlock.Dimensions=外型尺寸
+mbdesc.beginStructureBlock.Structure=結構
+mbdesc.addController.Controller=控制器
+mbdesc.addCasing.atleast=(至少)
+mbdesc.addEnergyHatch.EnergyHatch=能源倉
+mbdesc.addDynamoHatch.DynamoHatch=動力倉
+mbdesc.addMaintenanceHatch.MaintenanceHatch=維護倉
+mbdesc.addIOHatches.IOHatches=輸入/出倉(TFFT)
+mbdesc.addInputBus.InputBus=輸入匯流排
+mbdesc.addInputHatch.InputHatch=輸入倉
+mbdesc.addOutputBus.OutputBus=輸出匯流排
+mbdesc.addOutputHatch.OutputHatch=輸出倉
+mbdesc.signAndFinalize.Hold=按住
+mbdesc.signAndFinalize.todisplay=以顯示結構指導
+mbdesc.signAndFinalize.createdby=新增者: 
+
+# -------- Fuel Cell: Structure Blocks
+tile.kekztech_gdcceramicelectrolyteunit_block.name=釓鈰陶瓷電解質單元
+tile.kekztech_yszceramicelectrolyteunit_block.name=釔鋯陶瓷電解質單元
+
+# -------- Fuel Cell: Crafting Components
+item.kekztech_crafting_item.name=合成元件
+item.kekztech_crafting_item.9.name=釔鋯陶瓷粉
+item.kekztech_crafting_item.10.name=釓鈰陶瓷粉
+item.kekztech_crafting_item.11.name=氧化釔粉
+item.kekztech_crafting_item.12.name=氧化鋯粉
+item.kekztech_crafting_item.13.name=氧化鈰粉
+item.kekztech_crafting_item.14.name=釔鋯陶瓷板
+item.kekztech_crafting_item.15.name=釓鈰陶瓷板
+
+# -------- TFFT: Structure Blocks
+tile.kekztech_tfftstoragefield_block.name=TFFT 機械外殼/儲存庫方塊
+tile.kekztech_tfftstoragefield_block.0.name=TFFT機械方塊
+tile.kekztech_tfftstoragefield_block.1.name=TFFT 儲存庫方塊（T1）
+tile.kekztech_tfftstoragefield_block.2.name=TFFT 儲存庫方塊（T2）
+tile.kekztech_tfftstoragefield_block.3.name=TFFT 儲存庫方塊（T3）
+tile.kekztech_tfftstoragefield_block.4.name=TFFT 儲存庫方塊（T4）
+tile.kekztech_tfftstoragefield_block.5.name=TFFT 儲存庫方塊（T5）
+tile.kekztech_tfftstoragefield_block.6.name=TFFT 儲存庫方塊（T6）
+tile.kekztech_tfftstoragefield_block.7.name=TFFT 儲存庫方塊（T7）
+tile.kekztech_tfftstoragefield_block.8.name=TFFT 儲存庫方塊（T8）
+tile.kekztech_tfftstoragefield_block.9.name=TFFT 儲存庫方塊（T9）
+tile.kekztech_tfftstoragefield_block.10.name=TFFT 儲存庫方塊（T10）
+tile.kekztech_tfftstoragefield_block.desc=這不是流體儲罐
+tile.kekztech_tfftstoragefield_block.hint.1=提示方塊[1]：TFFT機械方塊、能源倉、維護倉
+tile.kekztech_tfftstoragefield_block.hint.2=提示方塊[2]：TFFT機械方塊、能源倉、維護倉、TFFT多重輸入/輸出倉、輸入/輸出倉
+tile.kekztech_tfftstoragefield_block.hint.3=提示方塊[3]：EV+玻璃、TFFT多重輸入/輸出倉、輸入/輸出倉
+tile.kekztech_tfftstoragefield_block.hint.4=提示方塊[4]：EV+玻璃
+
+# -------- Lapotronic Super Capacitor: Structure Blocks
+tile.kekztech_lapotronicenergyunit_block.name=蘭波頓機械方塊/電容
+tile.kekztech_lapotronicenergyunit_block.0.name=蘭波頓超級電容機械方塊
+tile.kekztech_lapotronicenergyunit_block.1.name=蘭波頓電容（IV）
+tile.kekztech_lapotronicenergyunit_block.2.name=蘭波頓電容（LuV）
+tile.kekztech_lapotronicenergyunit_block.3.name=蘭波頓電容（ZPM）
+tile.kekztech_lapotronicenergyunit_block.4.name=蘭波頓電容（UV）
+tile.kekztech_lapotronicenergyunit_block.5.name=終極電容（UHV）
+tile.kekztech_lapotronicenergyunit_block.6.name=空電容（-）
+tile.kekztech_lapotronicenergyunit_block.7.name=蘭波頓電容（EV）
+tile.kekztech_lapotronicenergyunit_block.8.name=極·終極電容（UEV）
+tile.kekztech_lapotronicenergyunit_block.9.name=狂·終極電容（UIV）
+tile.kekztech_lapotronicenergyunit_block.10.name=太·終極電容（UMV）
+tile.kekztech_lapotronicenergyunit_block.desc=蘭波頓超級電容庫的組成部分
+
+# -------- Thaumium Reinforced Jar: Block
+tile.kekztech_thaumiumreinforcedjar_block.name=神秘源質罐子
+tile.kekztech_thaumiumreinforcedjar_block.0.name=神秘源質罐子
+tile.kekztech_thaumiumreinforcedjar_block.3.name=神秘虛空罐子
+
+# -------- Thaumium Reinforced Jar: Research
+# This is the name of the research
+tc.research_name.THAUMIUMREINFORCEDJAR=神秘源質罐子
+# This is the subtext for the research note
+tc.research_text.THAUMIUMREINFORCEDJAR=略好的罐子
+# Lore text for the research pages
+kekztech.research_page.THAUMIUMREINFORCEDJAR.0=你曾聽你的神秘使夥伴談起過數字化源質儲存的便利。<BR><BR>為高階注魔儲存足夠的源質，你現在面臨著同樣的問題。但是這些源質罐子實在太討人喜歡了，你甚至沒有考慮用某種更緊湊的技術結構來代替它們。<BR><BR>隨著研究的深入，你發現有了一層厚厚的神秘錠內襯，罐子的容量可以變為原來的4倍。要是有充足的時間，你相信還有更好的解決方式。
+kekztech.research_page.THAUMIUMREINFORCEDJAR.1=在如此狹小的空間中壓縮這麼多的源質會導致一些不穩定性。所以撿起這種加強罐子可能是個糟糕的主意……<BR><BR>可以想象，如果有某種材料比鑽石，或比目前為止你所見過的任何其他神秘金屬更堅硬的話，以此製成的源質罐子一定能給你驚喜。
+
+# -------- Ichor Jar: Block
+tile.kekztech_ichorjar_block.name=靈液源質罐子
+tile.kekztech_ichorjar_block.0.name=靈液源質罐子
+tile.kekztech_ichorjar_block.3.name=靈液虛空罐子
+
+# -------- Ichor Jar: Research
+tc.research_name.ICHORJAR=靈液源質罐子
+tc.research_text.ICHORJAR=非常好的罐子
+kekztech.research_page.ICHORJAR.0=就是這個！<BR><BR>將一點靈液注魔進源質罐子，你獲得了可以與數字化源質儲存相匹敵，同時還不用犧牲美感的新罐子。<BR><BR>靈液源質罐子可以裝下驚人的4096點源質，非常適合你剛解鎖的這些基於靈液的注魔。<BR><BR>你絕對不會想打擾這些罐子的。不過幸運的是，靈液源質罐子擁有足夠的柔韌性，不太容易被誤操作摧毀。
+
+# -------- Cosmetic Blocks
+tile.kekztech_largehextile_block.name=大六角瓷磚
+
+# -------- Achievements
+achievement.tile.kekztech_lapotronicenergyunit_block.2.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.kekztech_lapotronicenergyunit_block.2=蘭波頓電容（LuV）
+achievement.tile.kekztech_lapotronicenergyunit_block.3.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.kekztech_lapotronicenergyunit_block.3=蘭波頓電容（ZPM）
+achievement.tile.kekztech_lapotronicenergyunit_block.4.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.kekztech_lapotronicenergyunit_block.4=蘭波頓電容（UV）
+achievement.tile.kekztech_lapotronicenergyunit_block.5.desc=撿起此物品以在NEI內解鎖該合成表
+achievement.tile.kekztech_lapotronicenergyunit_block.5=終極電容（UHV）
+achievement.tile.kekztech_lapotronicenergyunit_block.8.desc=超神！
+achievement.tile.kekztech_lapotronicenergyunit_block.8=極·終極電容（UEV）
+achievement.tile.kekztech_lapotronicenergyunit_block.9.desc=狂亂·如影隨形！
+achievement.tile.kekztech_lapotronicenergyunit_block.9=狂·終極電容（UIV）
+achievement.tile.kekztech_lapotronicenergyunit_block.10.desc=我們能走多遠？
+achievement.tile.kekztech_lapotronicenergyunit_block.10=太·終極電容（UMV）
+
+
+# -------- GUI
+gui.kekztech_lapotronicenergyunit.wireless=無線模式
+gui.kekztech_lapotronicenergyunit.wireless_rebalance=重新平衡無線電網（只能使用一次）
+gui.kekztech_lapotronicenergyunit.warning.header=警告！
+gui.kekztech_lapotronicenergyunit.warning.text=請務必在啟用無線模式前仔細閱讀並理解提示資訊。此操作可能導致您的基地損壞且無法修復。該警告僅顯示一次。
+
+kekztech.gui.lapotronic_super_capacitor.total_capacity=總容量：§9%s§f EU
+kekztech.gui.lapotronic_super_capacitor.used_capacity=已用容量：§9%s§f
+kekztech.gui.lapotronic_super_capacitor.text.stored=能量儲存：§a%s§f EU
+kekztech.gui.lapotronic_super_capacitor.text.avg_eu_in=平均EU輸入：§a%s§f（最近5秒）
+kekztech.gui.lapotronic_super_capacitor.text.avg_eu_out=平均EU輸出：§c%s§f（最近5秒）
+kekztech.gui.lapotronic_super_capacitor.passive_loss=被動損耗：§c%s§f EU/t
+kekztech.gui.lapotronic_super_capacitor.wireless_eu=無線EU總量：§d%s§f EU
+kekztech.gui.lapotronic_super_capacitor.time_to.full=預計充滿時間：§b%s
+kekztech.gui.lapotronic_super_capacitor.time_to.sth=預計充滿/耗盡時間：§b永遠
+kekztech.gui.lapotronic_super_capacitor.time_to.empty=預計耗盡時間：§b%s
+
+# -------- Tooltips
+tooltip.kekztech.crafting_component=KekzTech物品的合成元件
+tooltip.kekztech.lapotronic_energy_unit.capacity=容量：§c%s§7 EU
+tooltip.kekztech.lapotronic_energy_unit.wire_less_transfer=每個%2$s§7電容支援以最大§c%1$s§7 EU/t從網路中抽取能量。
+tooltip.kekztech.lapotronic_energy_unit.capacity.none=容量：無
+tooltip.kekztech.tfft.capacity=容量：§9%s§7 L
+tooltip.kekztech.tfft.capacity.per_fluid=每流體容量：§9%s§7 L
+tooltip.kekztech.tfft.power_draw=能量消耗：§9%d§7 EU/t
+tooltip.kekztech.wrong=提醒：KekzTech配方僅在GTNH中測試有效！\n若出現錯誤，此物品作為佔位符使用。\n若在GTNH中發現此物品，可提交至：\nhttps://github.com/kekzdealer/KekzTech
+
+# -------- InfoData
+kekztech.infodata.operational_data=§e運算元據:§r
+kekztech.infodata.multi.maintenance_status=維護狀態：%s
+kekztech.infodata.multi.maintenance_status.ok=維護狀態：§a工作正常§r
+kekztech.infodata.multi.maintenance_status.bad=維護狀態：§c存在故障§r
+kekztech.infodata.lapotronic_super_capacitor.eu_stored=EU快取：%s EU
+kekztech.infodata.lapotronic_super_capacitor.used_capacity=已用容量：%s
+kekztech.infodata.lapotronic_super_capacitor.total_capacity=總容量：%s EU
+kekztech.infodata.lapotronic_super_capacitor.passive_loss=被動損耗：%s EU/t
+kekztech.infodata.lapotronic_super_capacitor.eu_in=EU輸入：%s EU/t
+kekztech.infodata.lapotronic_super_capacitor.eu_out=EU輸出：%s EU/t
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_in.sec=EU平均輸入：%s（最近%d秒）
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_out.sec=EU平均輸出：%s（最近%d秒）
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_in.min5=EU平均輸入：%s（最近5分鐘）
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_out.min5=EU平均輸出：%s（最近5分鐘）
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_in.hour1=EU平均輸入：%s（最近1小時）
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_out.hour1=EU平均輸出：%s（過去1小時）
+kekztech.infodata.lapotronic_super_capacitor.time_to.full=預計充滿時間：%s
+kekztech.infodata.lapotronic_super_capacitor.time_to.sth=預計充滿/耗盡時間：永遠
+kekztech.infodata.lapotronic_super_capacitor.time_to.empty=預計耗盡時間：%s
+kekztech.infodata.lapotronic_super_capacitor.wireless_mode=無線模式：%s
+kekztech.infodata.lapotronic_super_capacitor.wireless_mode.enabled=無線模式：§a已啟用§r
+kekztech.infodata.lapotronic_super_capacitor.wireless_mode.disabled=無線模式：§c已禁用§r
+kekztech.infodata.lapotronic_super_capacitor.capacitors=檢測到%s電容器：%d
+kekztech.infodata.lapotronic_super_capacitor.wireless_eu=無線EU總量：%s EU
+kekztech.infodata.tank.tfft.stored_fluids=§e已儲存流體：§r
+kekztech.infodata.tank.tfft.stored_fluids.null=無效
+kekztech.infodata.tank.tfft.used=已用容量：%s L
+kekztech.infodata.tank.tfft.total=總容量：%s L
+kekztech.infodata.tank.tfft.per_fluid_capacity=每流體容量：%sL
+kekztech.infodata.tank.tfft.running_cost=執行成本：%d EU/t
+kekztech.infodata.tank.tfft.auto_voiding=自動銷燬：%b
+
+kekztech.structure.glass_incompatible=§c玻璃配置不相容
+
+kekztech.multiblock.LapotronicSuperCapacitor.machine_type=能量快取器，LSC
+kekztech.multiblock.LapotronicSuperCapacitor.casing=蘭波頓超級電容庫機械方塊
+kekztech.multiblock.LapotronicSuperCapacitor.capacitor=蘭波頓電容
+kekztech.multiblock.LapotronicSuperCapacitor.structure_footer=至少50%電容需要為非空電容
+
+kekztech.multiblock.SOFuelCell.machine_type=燃氣輪機，SOFC
+kekztech.multiblock.SOFuelCellMK1.electrolyte_unit=釔鋯陶瓷電解質單元
+kekztech.multiblock.SOFuelCellMK2.electrolyte_unit=釓鈰陶瓷電解質單元
+
+kekztech.multiblock.TankTFFT.machine_type=流體儲罐
+kekztech.multiblock.TankTFFT.multi_io_hatch=TFFT多重輸入/輸出倉
+kekztech.multiblock.TankTFFT.any_casing_glass_adjacent=任意與儲存庫方塊相鄰的機械方塊或玻璃
+kekztech.multiblock.TankTFFT.field_storage_block=儲存庫方塊
+kekztech.multiblock.TankTFFT.footer1=不允許留空，但允許混合不同等級的儲存庫方塊
+kekztech.multiblock.TankTFFT.footer2=在多重輸入/輸出倉上放置流體儲存匯流排，可以直接和所有流體互動
+
+# Multiblocks
+gt.blockmachines.multimachine.fuelcellmk1.name=固體氧化物燃料電池 Mk-I
+gt.blockmachines.multimachine.fuelcellmk2.name=固體氧化物燃料電池 Mk-II
+gt.blockmachines.multimachine.supercapacitor.name=蘭波頓超級電容庫
+gt.blockmachines.multimachine.tfft.name=TFFT

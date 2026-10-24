@@ -1,0 +1,12 @@
+item.wrcbe_addons:sniffer.name=無線嗅探器
+item.wrcbe_addons:psniffer.name=私有嗅探器
+item.wrcbe_addons:empty_map.name=空白紅石地圖
+item.wrcbe_addons:map.name=紅石地圖
+item.wrcbe_addons:rep.name=紅石脈衝器
+item.wrcbe_addons:triangulator.name=紅石三角定位器
+item.wrcbe_addons:remote.name=紅石遙控器
+item.wrcbe_addons:tracker.name=紅石追蹤器
+
+wrcbe_addons.triangulator.short=三角定位器
+wrcbe_addons.remote.short=遙控器
+wrcbe_addons.tracker.short=追蹤器

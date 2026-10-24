@@ -1,0 +1,159 @@
+# Items
+item.vendingmachine.placeholder.name=佔位符物品
+
+# Blocks
+gt.blockmachines.multimachine.vendingmachine.name=自動售貨機
+gt.blockmachines.multimachine.vendingmachine.name.gui=自動售貨機
+casing.0.name=自動售貨機機械方塊
+
+hatch.vendinguplink.me.name=ME自動售貨機上行鏈路倉
+
+# Tooltips
+vendingmachine.vendinguplink.me.no_cached_stacks=沒有等待輸入ME網路的物品
+vendingmachine.vendinguplink.me.contains_cached_stacks=%s%d%s份物品等待輸入ME網路：
+vendingmachine.vendinguplink.me.and_more_stacks=%s以及另外%d個...
+
+# Gui
+vendingmachine.gui.requirementHeader=需求：
+vendingmachine.gui.requirement.unknown=未知需求
+vendingmachine.gui.requirement.betterquesting=任務
+vendingmachine.gui.requirement.betterquesting.missing=缺少任務
+vendingmachine.gui.item_eject=彈出物品
+vendingmachine.gui.coin_eject=彈出所有錢包內的硬幣
+vendingmachine.gui.single_coin_type_eject_hint=按住Shift鍵點選從錢包中提取該硬幣
+vendingmachine.gui.search=搜尋
+vendingmachine.gui.required_inputs=需要：
+vendingmachine.gui.nc_inputs=需求（不消耗）：
+vendingmachine.gui.alternative_oredict=接受礦物辭典：
+vendingmachine.gui.shared_trades_tooltip=與%s個其他交易共享冷卻時間
+vendingmachine.gui.cooldown_remaining_tooltip=剩餘 %s/%s 交易次數
+vendingmachine.gui.cooldown_started_tooltip=交易限額將在 %s 後重置
+vendingmachine.gui.cooldown_idle_tooltip=交易限額將在交易後%s重置
+vendingmachine.gui.trades_scale_tooltip=交易次數限制隨線上團隊成員數量而變化
+vendingmachine.gui.trade_hint=按住Shift鍵點選購買
+vendingmachine.gui.favourite_hint=Ctrl+點選以收藏/取消收藏
+vendingmachine.gui.display_mode=顯示：
+vendingmachine.gui.display_mode_tile=方塊
+vendingmachine.gui.display_mode_list=列表
+vendingmachine.gui.display_sort=排序：
+vendingmachine.gui.display_sort_smart=智慧
+vendingmachine.gui.display_sort_alphabet=字母順序
+vendingmachine.gui.display_wallet_personal=個人錢包
+vendingmachine.gui.display_wallet_team=團隊錢包
+vendingmachine.gui.display_track=音樂：
+vendingmachine.gui.display_track_none=無
+vendingmachine.gui.display_track_lunch_break=Lunch Break，作者：Sol IX
+vendingmachine.gui.cooldown_display.second=秒
+vendingmachine.gui.cooldown_display.minute=分
+vendingmachine.gui.cooldown_display.hour=時
+vendingmachine.gui.cooldown_display.day=天
+vendingmachine.gui.in=輸入
+vendingmachine.gui.out=輸出
+vendingmachine.gui.volume.tooltip_volume_display=音量：%s%%
+vendingmachine.gui.volume.tooltip_open_panel=Shift點選進行調整
+vendingmachine.gui.volume.title=音樂音量
+vendingmachine.gui.volume.percent=%s%%
+vendingmachine.gui.error.incomplete_structure=結構不完整。
+vendingmachine.gui.error.player_using=有其他玩家正在使用此自動售貨機。
+
+# Chat
+vendingmachine.chat.trade_restock=自動售貨機已補貨：%s
+
+# Command
+vendingmachine.command.usage=用法：%s
+vendingmachine.command.error.player_not_found=未找到玩家“%s”。
+vendingmachine.command.error.integer_format=無效數量“%s”，數量應當為整數。
+vendingmachine.command.no_wallet=未找到錢包。
+vendingmachine.command.error.invalid_currency_with_list=未知硬幣型別“%s”。有效的硬幣型別為%s。將滑鼠懸停在硬幣名稱上，即可檢視此命令接受的未本地化名稱。
+
+vendingmachine.command.add.all_currency=已給予 %s 所有種類的硬幣各 %s 個。
+vendingmachine.command.add.specific_currency=已將 %s 個%s新增給 %s。
+vendingmachine.command.add.remove_all_currency=已從 %2$s 移除 %1$s 個所有種類的硬幣。
+vendingmachine.command.add.remove_specific_currency=已從 %3$s 移除 %1$s 個%2$s 。
+
+vendingmachine.command.set.all_currency=已將 %2$s 所有硬幣設定到 %1$s 個。
+vendingmachine.command.set.specific_currency=已將 %3$s %1$s設定到 %2$s 個。
+
+vendingmachine.command.reset.all_coins=已重置 %s 所有硬幣。
+vendingmachine.command.reset.specific_coin=已重置 %2$s %1$s。
+vendingmachine.command.reset.reloaded_trade_db=已重新載入交易資料庫。
+
+# Categories
+vendingmachine.category.favourites=收藏
+vendingmachine.category.unknown=未知類別
+vendingmachine.category.all=所有物品
+vendingmachine.category.components=元件
+vendingmachine.category.raw=原料
+vendingmachine.category.farming=農藝
+vendingmachine.category.chemistry=化學
+vendingmachine.category.magic=魔法
+vendingmachine.category.bees=蜜蜂
+vendingmachine.category.misc=雜項
+
+# Coins
+vendingmachine.coin.adventure=探險家幣
+vendingmachine.coin.bees=養蜂員幣
+vendingmachine.coin.blood=吸血鬼幣
+vendingmachine.coin.chemist=化學家幣
+vendingmachine.coin.cook=廚師幣
+vendingmachine.coin.darkWizard=魔法師幣
+vendingmachine.coin.farmer=農民幣
+vendingmachine.coin.flower=園藝家幣
+vendingmachine.coin.forestry=護林員幣
+vendingmachine.coin.smith=匠師幣
+vendingmachine.coin.space=太空侵略者幣
+vendingmachine.coin.survivor=倖存者幣
+vendingmachine.coin.technician=技術員幣
+vendingmachine.coin.witch=巫師幣
+
+# Config
+vendingmachine.config.title.main=自動售貨機設定
+vendingmachine.config.title.main.tooltip=自動售貨機的設定項。
+
+vendingmachine.config.title.main_settings=主要設定
+vendingmachine.config.title.main_settings.tooltip=自動售貨機的全域性設定
+vendingmachine.config.title.gui_settings=GUI設定
+vendingmachine.config.title.gui_settings.tooltip=GUI顯示設定
+vendingmachine.config.title.team_settings=團隊設定
+vendingmachine.config.title.team_settings.tooltip=設定團隊選項
+vendingmachine.config.title.music_settings=音樂設定
+vendingmachine.config.title.music_settings.tooltip=設定音樂選項
+vendingmachine.config.title.dev_settings=開發者設定
+vendingmachine.config.title.dev_setting.tooltips=設定開發者選項
+
+vendingmachine.config.main.data_refresh=重新整理頻率
+vendingmachine.config.main.data_refresh.tooltip=自動售貨機重新整理資料的頻率（以遊戲刻數為單位）
+vendingmachine.config.main.restock=補貨通知
+vendingmachine.config.main.restock.tooltip=啟用補貨通知\n若在伺服器上禁用，將禁用所有人的通知
+vendingmachine.config.main.restock_check=補貨檢查頻率
+vendingmachine.config.main.restock_check.tooltip=伺服器檢查已補貨交易的頻率（以遊戲刻數為單位）
+vendingmachine.config.main.eject_frequency=彈出頻率
+vendingmachine.config.main.eject_frequency.tooltip=物品彈出的頻率（以遊戲刻數為單位）
+vendingmachine.config.main.dispense_frequency=彈出數量
+vendingmachine.config.main.dispense_frequency.tooltip=佇列中一次最多彈出多少個物品
+
+vendingmachine.config.gui.trade_display=交易展示格式
+vendingmachine.config.gui.trade_display.tooltip=預設交易顯示格式\n區分大小寫
+vendingmachine.config.gui.sort_mode=排序模式
+vendingmachine.config.gui.sort_mode.tooltip=預設排序模式\n區分大小寫
+vendingmachine.config.gui.show_coins=顯示硬幣欄
+vendingmachine.config.gui.show_coins.tooltip=顯示自動售貨機內的硬幣存量
+vendingmachine.config.gui.wallet_mode=錢包模式
+vendingmachine.config.gui.wallet_mode.tooltip=預設錢包模式\n區分大小寫
+
+vendingmachine.config.team.allow_in_teams=使用團隊錢包
+vendingmachine.config.team.allow_in_teams.tooltip=允許在單人團隊中使用團隊錢包
+vendingmachine.config.team.cooldown_increase=交易冷卻限制
+vendingmachine.config.team.cooldown_increase.tooltip=團隊中的每位玩家使冷卻交易限制增加 1\n數值為 -1 則不設上限
+
+vendingmachine.config.music.track=音樂曲目
+vendingmachine.config.music.track.tooltip=自動售貨機播放的音樂曲目\n區分大小寫
+vendingmachine.config.music.volume=音樂音量
+vendingmachine.config.music.volume.tooltip=自動售貨機音樂音量
+
+vendingmachine.config.dev.subdirectory=子目錄
+vendingmachine.config.dev.subdirectory.tooltip=世界存檔中自動售貨機資料的子目錄
+vendingmachine.config.dev.folder=資料庫交易資料夾
+vendingmachine.config.dev.folder.tooltip=交易資料庫檔案所在的資料夾
+vendingmachine.config.dev.database=資料庫強制重寫
+vendingmachine.config.dev.database.tooltip=在載入時強制重寫資料庫，用於新增/移除交易或更改格式

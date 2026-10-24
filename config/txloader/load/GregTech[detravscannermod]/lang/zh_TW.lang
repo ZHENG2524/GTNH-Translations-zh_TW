@@ -1,0 +1,55 @@
+detrav.scanner.mode.0=設定模式：礦石
+detrav.scanner.mode.1=設定模式：礦石(含貧瘠礦石)
+detrav.scanner.mode.2=設定模式：地下流體
+detrav.scanner.mode.3=設定模式：汙染
+detrav.scanner.mode.error=設定模式：錯誤
+
+detrav.scanner.distance.texts.0= §n位於當前區塊§r， 
+detrav.scanner.distance.texts.1= §n距離1-2區塊§r， 
+detrav.scanner.distance.texts.2= §n距離3-5區塊§r， 
+detrav.scanner.distance.texts.3= §n距離6-8區塊§r， 
+detrav.scanner.distance.texts.4= §n距離9區塊及以上§r，
+
+detrav.scanner.small_ore.keyword=貧瘠
+
+detrav.scanner.found.texts.0=沒有發現礦石
+detrav.scanner.found.texts.1= §8零星(1-9)§r.
+detrav.scanner.found.texts.2= §7少量(10-29)§r.
+detrav.scanner.found.texts.3= §2中等(30-59)§r.
+detrav.scanner.found.texts.4= §e較多(60-99)§r.
+detrav.scanner.found.texts.5= §d極多(100+)§r.
+detrav.scanner.found.texts.6=發現 %s
+
+# Don't translate "%badluck"
+detrav.scanner.success=全部區塊勘探成功!
+detrav.scanner.fail=%badluck區塊勘探失敗，祝你下次好運！
+
+detrav.scanner.prospecting=正在勘探
+
+tooltip.detrav.scanner.durability=耐久：%s / %s
+tooltip.detrav.scanner.range=勘探範圍(區塊)：%s x %s
+tooltip.detrav.scanner.usage.0=右鍵岩石方塊以勘探當前區塊!
+tooltip.detrav.scanner.usage.1=右鍵基岩以勘探地下流體!
+tooltip.detrav.scanner.usage.2=右鍵空氣進行全範圍掃描!
+tooltip.detrav.scanner.usage.3=Shift+右鍵空氣以切換模式
+tooltip.detrav.scanner.usage.4=雙擊任何條目以反轉背景顏色!
+tooltip.detrav.scanner.success.chance=掃描成功機率：§r%s%%
+tooltip.detrav.scanner.distance.0=在你旁邊(距離0區塊)，離你很近(1-2)
+tooltip.detrav.scanner.distance.1=中等距離(3-5)，長距離(6-8)，很遠(9+)
+
+gui.detrav.scanner.pollution=汙染
+gui.detrav.scanner.gibbl=單位
+gui.detrav.scanner.unknown_fluid=未知流體!
+
+gui.detrav.scanner.tooltip.fluid_name=流體名：%s
+gui.detrav.scanner.tooltip.fluid_amount=流體儲量：%s L
+gui.detrav.scanner.tooltip.no_fluid=空
+gui.detrav.scanner.tooltip.ore_pos=X：%d，Z：%d
+gui.detrav.scanner.tooltip.ore_depth=Y：%d
+gui.detrav.scanner.tooltip.mark_hint=右鍵以標記
+gui.detrav.scanner.search.hint=搜尋...
+gui.detrav.scanner.hint.invert=雙擊以反轉背景顏色
+
+# Prospector scanners
+gt.detrav.metatool.01.name=探礦儀（%s）
+gt.detrav.metatool.01.electric.name=電子探礦儀（%s）

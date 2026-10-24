@@ -1,0 +1,182 @@
+# Blocks
+tile.nodeTransmodifier.name=節點傳輸調節器
+
+# Items
+item.nodeAugmentation.name=節點強化裝置
+item.wandAugmentationCore.name=法杖強化核心
+
+# Augments
+tm.tooltip.augments_installed=已安裝法杖強化：
+tm.tooltip.augmented=法杖強化
+tm.tooltip.hold_control=按住 [Ctrl]
+tm.augmentation.charge_buffer=魔子快取
+tm.augmentation.contact_discharge=接觸放能
+tm.augmentation.taint_capping=腐化杖端
+tm.augmentation.tainted_core=腐化核心
+tm.augmentation.vis_channel=Vis隧道
+
+# Commands
+tm.command.thaumicmachina.usage=/thaumicmachina <help|wandaugmentation> ...
+tm.command.thaumicmachina.hint_alias=可使用 /tm 替代 /thaumimachina。
+tm.command.thaumicmachina.command_list=指令：
+tm.command.thaumicmachina.wandaugmentation.usage=/thaumicmachina wandaugmentation <add|remove|reset> <強化名稱>
+tm.command.thaumicmachina.error.no_wand_held=玩家必須手持法杖。
+tm.command.thaumicmachina.error.unknown_augment=強化不存在
+tm.command.thaumicmachina.error.is_present=所持法杖已安裝該強化。
+tm.command.thaumicmachina.error.is_absent=所持法杖未安裝該強化。
+
+# Creative tab
+itemGroup.thaumicMachina=神秘力學
+
+# Thaumonomicon tab
+tc.research_category.THAUMIC_MACHINA_CAT=神秘力學
+
+# Thaumonomicon entry description prefix
+tm.research.prefix.concept=概念
+
+#  
+# Special formatting codes:
+# <BR> or <BR/>         Paragraph break (<BR/> is included for people using XML for their localization)
+# <LINE> or <LINE/>     Insert a fancy linebreak between sections of text.
+# <IMG>...</IMG>  Insert a centered image into text. Parameters are separated by ':' and are:
+#                    - mod resource location name
+#                    - png file location (assumed to be a 256x256 texture, a sub-image will be grabbed from this png as specified below)
+#                    - x location of sub-image in png
+#                    - y location of sub-image in png
+#                    - x size of sub-image (255 if full x size of png must be used)
+#                    - y size of sub-image (255 if full y size of png must be used)
+#                    - scaling - 1.0 for normal 256x256 images, or smaller for proportionately smaller .png files (a 16x16 image will be 0.0625)   
+#               Examples: 
+#                   <IMG>thaumcraft:textures/gui/gui_researchbook.png:24:184:96:4:1.0</IMG>   <-- line break image as used in <LINE> above
+#                   <IMG>thaumcraft:textures/items/alumentum.png:0:0:255:255:0.0625</IMG>     <-- alumentum item icon
+#
+# Research entries
+
+# Information: Concepts
+tm.research.name.INFORMATION_CONCEPTS=概念
+tm.research.desc.INFORMATION_CONCEPTS=它們的本質是什麼？
+tm.research.page.INFORMATION_CONCEPTS.1=用外行人的話來說，概念是宇宙中某些東西如何運作的基礎理論，你可以從一個概念出發來建立其他概念。概念是不可或缺的，如果你不理解某些東西是如何運作的，你就永遠無法利用它。大多數情況下，概念不會直接解鎖新物品或新配方，而是開啟通往下一部分研究的大門。概念通常是圓形研究節點。<BR>概念可以在配置檔案中自定義（轉為簡單模式（可使用研究點解鎖），或完全關閉（自動解鎖））。
+
+# Nodal Studies
+tm.research.name.NODAL_STUDIES=節點學研究
+tm.research.desc.NODAL_STUDIES=可再生能源
+tm.research.page.NODAL_STUDIES.1=諷刺的是，神秘使的主要能源來源似乎恰恰是其最不瞭解之物，你決心要解決這一問題。<BR>透過研究靈氣節點的構成、運作原理以及可能賦予人的能力，你對其本質有了更深刻的理解。雖然未能理解一切，但基本概念已然明晰，這使你能夠進一步研究與學習靈氣節點。
+
+# Aura Fields
+tm.research.name.AURA_FIELD=靈氣場
+tm.research.desc.AURA_FIELD=全球資訊網……
+tm.research.page.AURA_FIELD.1=透過研究破壞節點產生的天域之華，你發現了一個前人並未發現的新領域。<BR>宇宙由許多小空間區域組成，所有這些區域都被一個特殊的場包裹，該場控制Vis的流動。你將這個場稱為靈氣場。<BR>靈氣場類似於引力場，它是一個動態且不斷變化的特殊場，任何物質和能量都能扭曲周圍的場。靈氣場實際上控制了什麼？當然是Vis。
+tm.research.page.AURA_FIELD.2=嗯，更具體地說，靈氣場控制著整個宇宙中的vis流動。Vis將從具有較高靈氣密度的區域流向較低靈氣密度的區域。靈氣場只能以一種方式改變：它的一部分可以被變得更加密集或稀疏。<LINE>如果你以幾何方式考慮靈氣場，將場看成一系列的線，當相鄰的線越接近，那麼就表示該點的場越密集。
+tm.research.page.AURA_FIELD.3=想象一個具有完全恆定的密度值的靈氣場，沒有任何區域密度更高或更低。如果我們在中心放置一塊vis碎片，由於其所具有的vis，靈氣場將會向物質彎曲。這樣，靈氣場的場線就會被推擠靠近，於是該區域的靈氣密度就會變得更高。但這種理想情況在現實世界裡並不存在，有許許多多的小靈氣場存在，而這些靈氣場會發生相互作用，這些相互作用會導致密度值的隨機上升和下降。
+tm.research.page.AURA_FIELD.4=你還發現這些場也產生類似於磁場的效果，可以吸引某些物質。對這種現象的進一步研究已經證明，這種類似磁場的作用對低魔抗的物質比較有效。
+
+# Vis General
+tm.research.name.VIS=Vis
+tm.research.desc.VIS=神秘使的能源
+tm.research.page.VIS.1=Vis是整個宇宙中普遍存在的魔法能量。它在空間中的某些被稱為靈氣節點的區域附近濃郁得多。你對vis的現有知識十分有限，雖然也足以讓你進入神秘學的基礎領域，但你相信要探索神秘學的更復雜的分支，你會需要對vis的更深理解。
+
+# Vis Studies
+tm.research.name.VIS_STUDIES=Vis研究
+tm.research.desc.VIS_STUDIES=來掌控能量吧
+tm.research.page.VIS_STUDIES.1=對Vis的進一步研究表明，Vis是由多種基礎能量的混合物組成的。這些能量是宇宙的基石，包括引力、熱力、動力、核能、量子和其他一些你尚未分離出來的成分。不同要素的vis含有不同比例的各種形式能量。<LINE>透過更好地理解Vis構造，你或許可以在更基礎的層次上使用Vis……
+
+# Charge
+tm.research.name.VIS_CHARGE=魔子，以及它是如何運作的
+tm.research.desc.VIS_CHARGE=與電荷相似，但比它更好！
+tm.research.page.VIS_CHARGE.1=Vis和物質如何相互作用的研究向你展示了神秘使之前未發現的Vis另一面。你發現vis穿過物體時經常產生一種魔法充能效應。因此，你決定將vis的這種屬性稱為魔子。<BR>魔子是一種複雜的物件，觀察顯示隨著一系列引數的不同其產生的效果也不同。這些引數包括穿過的物體、vis的要素、物件受到的擾動以及觀測的方式等。
+tm.research.page.VIS_CHARGE.2=每種材料都有一個被稱為“魔子抗性”（簡稱魔抗）的數值。當魔子試圖穿過物體的原子晶格時，其可能受到阻力，取決於晶格的具體狀態和行為。原子振動、電子運動、原子密度等引數都會對充魔抗性作出貢獻。
+tm.research.page.VIS_CHARGE.3=對魔子在宇宙中的運動方式的進一步研究顯示，它通常選取最小魔抗路徑運動。這點對於法杖也是一樣的；不同的法杖材料有不同的魔抗值。這從某種意義上解釋了為什麼某些杖芯和杖端相比於別的杖芯在儲存與使用Vis方面做得更好。<LINE>對魔子概念的進一步研究揭示了其運動似乎會導致自發的靈氣場產生。
+
+# Essentia Studies
+tm.research.name.ESS_STUDIES=源質研究
+tm.research.desc.ESS_STUDIES=拆開那聯絡
+tm.research.page.ESS_STUDIES.1=對源質的進一步研究使你發現源質並不像你認為的那麼簡單。你原本認為源質只是簡單的Vis，區別僅僅在於源質是一種物理的，液體形式的Vis。雖然這個理論仍然基本正確，但這個解釋還不夠完整。<BR>源質的確包含了物理形式的Vis，但是Vis自身太強大而且太不穩定了，難以保持物理狀態；它會直接變回能量。所以你從理論上認為必須有某種東西使Vis保持它的物理狀態，而事實證明你是對的。
+tm.research.page.ESS_STUDIES.2=透過研究源質的基本構成，你發現源質是由兩種基礎元件構成的，Vis和咒波黏漿。咒波黏漿似乎既可以作為Vis的表面，也可以作為Vis的介面，束縛Vis保持其物理狀態。然而，它似乎也作為Vis的穩定劑，使其更穩定，更能夠在物理狀態下操縱。由於這種緊密的關係，這兩個基礎元件緊密地結合在一起，至少以你目前的知識，想要將其分離是幾乎不可能的。
+
+# Wand Studies
+tm.research.name.WAND_STUDIES=法杖研究
+tm.research.desc.WAND_STUDIES=重新定義'技術突破'一詞
+tm.research.page.WAND_STUDIES.1=法杖是你在神秘世界跋山涉水過程中所仰賴的技術。考慮到法杖如此的強大與可靠，你開始深入研究它。<BR>透過研究你的法杖，它們如何運作，它們是如何被創造出來的，以及主要是如何強化它們，你得出的結論是這種你至今一直依賴的技術似乎在基礎上就未完成。你認為透過進一步研究，你可以找到升級並最終完善你的法杖的方法。
+
+# Wand Augmentation
+tm.research.name.WAND_AUGMENTATION=法杖強化基礎
+tm.research.desc.WAND_AUGMENTATION=正確地升級
+tm.research.page.WAND_AUGMENTATION.1=你覺得你已經知道了關於法杖如何運作的一切，你以為你達到了法杖的上限。提升似乎只能依靠用越來越好的材料製造新的法杖了，但你已經用光了可用於法杖的新材料。然而，對法杖本質的進一步研究已經向你展示了你錯得離譜。你剛剛發現了突破性的全新領域的大門鑰匙。
+tm.research.page.WAND_AUGMENTATION.2=法杖強化是一種模組化的升級，可以將其新增到法杖上來修改法杖的運作方式。它們可以在你的法杖上新增各種各樣的能力，例如，你可以新增一個允許你在法杖中儲存更多Vis的強化，或是減少Vis消耗，甚至是一個為你的法杖新增一絲黑暗力量的強化，使你的法杖能用於各種邪術領域中的建築。每種強化只能在每根法杖上新增一次。所有強化都需要一個法杖強化核心。
+
+# Wand Augmentation: Charge Buffer
+tm.research.name.WAND_AUGMENTATION_CHARGE_BUFFER=法杖強化： 魔子快取
+tm.research.desc.WAND_AUGMENTATION_CHARGE_BUFFER=塞得更多
+tm.research.page.WAND_AUGMENTATION_CHARGE_BUFFER.1=對法杖儲存實際vis方式的研究已經向你展示了你可以有效地在你的法杖中儲存更多的vis，只需改變杖芯某些部分的魔抗。<LINE>將這個強化應用到法杖中可額外增加25%vis儲量。
+
+# Wand Augmentation: Vis Channel
+tm.research.name.WAND_AUGMENTATION_VIS_CHANNEL=法杖強化： Vis隧道
+tm.research.desc.WAND_AUGMENTATION_VIS_CHANNEL=條條大路通羅馬
+tm.research.page.WAND_AUGMENTATION_VIS_CHANNEL.1=你對法杖的研究表明，使用更好的杖端材料可以提高引導vis的效率。為此你花了大量時間和心思來尋找合適的新材料，但如果你能從現有材料中榨取更多效率呢？你最新的發現表明，大部分損耗都來自杖芯與杖端之間的傳輸。加入專門的神秘錠-水銀通道來連線兩者，可以形成低阻通路，從而有效降低法杖使用時的vis消耗。
+tm.research.page.WAND_AUGMENTATION_VIS_CHANNEL.3=在法杖上安裝此強化後，杖端的vis消耗將在基礎上乘以90%。例如，神秘杖端的vis消耗倍率為90%，安裝此強化後將變為81%。來自裝備、飾品和權杖的額外vis減免會在此效果之後正常計算。
+
+# Wand Augmentation: Tainted Core
+tm.research.name.WAND_AUGMENTATION_TAINTED_CORE=法杖強化： 腐化核心
+tm.research.desc.WAND_AUGMENTATION_TAINTED_CORE=[WIP] 這讓我的骨頭不大舒服
+tm.research.page.WAND_AUGMENTATION_TAINTED_CORE.1=一切都有光明的一面和黑暗的一面，魔法也不例外。你作為神秘使的這段時間已經看到了黑暗藝術的一些產物，以及這些產物對你精神的副作用。你已經決定要‘在黑暗的一面暢遊’，升級你的法杖將會使你能涉獵這些黑暗藝術。<LINE>將這個強化應用到法杖將賦予其與更黑暗更邪惡的魔法一起工作的能力，但有時會讓你的思維被穿過這個核心的黑暗魔法影響（咒流）。
+
+# Wand Augmentation: Taint Capping
+tm.research.name.WAND_AUGMENTATION_TAINT_CAPPING=法杖強化： 腐化杖端
+tm.research.desc.WAND_AUGMENTATION_TAINT_CAPPING=[WIP]迴圈再利用
+tm.research.page.WAND_AUGMENTATION_TAINT_CAPPING.1=你對魔法的研究經驗告訴你，你做出的每一個選擇都可能產生黑暗的後果。粗心的神秘使經常導致咒波的積累。透過你的研究，你發現咒波僅僅是一種被腐蝕、並且轉變成了一種淡紫色的物質的vis。你已經找到了一種方法，可以將一種強化整合到你的杖端中，使你可以直接從咒波和腐化的物體中吸取vis。不幸的是，這種轉化並非1：1，在轉化過程中vis常常會中途崩潰。
+tm.research.page.WAND_AUGMENTATION_TAINT_CAPPING.3=將這個強化應用到法杖中將給予法杖從咒波和腐化的物體中吸取Vis的能力。Vis非常不穩定，有50%的機率散失在環境中而無法被法杖吸收，還有25%（如果吸收成功）的機率變異成Perditio（混沌）。<LINE>這個強化需要先安裝“腐化核心”強化。
+
+# Wand Augmentation: Contact Discharge
+tm.research.name.WAND_AUGMENTATION_CONTACT_DISCHARGE=法杖強化： 接觸放能
+tm.research.desc.WAND_AUGMENTATION_CONTACT_DISCHARGE=Vis武器化
+tm.research.page.WAND_AUGMENTATION_CONTACT_DISCHARGE.1=你對血腥教徒們的發現進行的研究獲得了一定的收穫。當物體被vis穿過原子晶格時，vis在晶格中感應出魔子。這不是什麼新鮮事，但隨之而來的是，如果vis穿過的速度足夠快並且足夠緻密，那麼就會造成vis變異成為熱動能，從而劇烈振動晶格。在生物體內，這會引起一些痛苦。
+tm.research.page.WAND_AUGMENTATION_CONTACT_DISCHARGE.3=將這個強化應用到法杖中將使其在擊中實體時造成2心傷害，同時消耗法杖中所有種類vis0.15點。此傷害可以穿過通常護甲，但某些神秘類保護和附魔可能可以抵消此傷害。
+
+# Life and Living
+tm.research.name.LIFE=生命與生物
+tm.research.desc.LIFE=[WIP]神秘學危險一面的開始
+tm.research.page.LIFE.1=你不斷增長的好奇心已經無法滿足。你最近對神秘學的研究更多地關注環境和基本方面，你現在想要冒險進入神秘學研究的危險方面，即生物的神奇藝術。
+
+# Body
+tm.research.name.BODY=身體和肉體
+tm.research.desc.BODY=[WIP]生物的渡世寶筏
+tm.research.page.BODY.1=身體一直是一個奇蹟，它在生命中扮演了重要角色，有些人認為它只是一個生物的控制中樞————靈魂————的容器，其他人認為它只是一個有機組織，是化學反應的場地，所有這些化學反應都會驅動身體並使其發揮作用。在你作為神秘使的生涯中，你發現這兩種說法在技術上都是正確的，你已經遇到足夠的證據來證明靈魂確實存在。
+
+# Soul
+tm.research.name.SOUL=精神與靈魂
+tm.research.desc.SOUL=[WIP]生物的控制中樞
+tm.research.page.SOUL.1=對於許多人來說，靈魂是一個有爭議的主題，但這是一個沒有很好記錄的主題。許多人認為我們都有一個與我們身體相關的靈魂，但也有許多人覺得沒有。透過對神秘學神奇藝術的研究，你會遇到無數的發現和經驗，這些發現和經驗指向靈魂確實存在的事實。你推論它可能是一種vis體，被包含在宇宙中區域性靈氣場中。<BR>你在物理狀態下操縱它的程度目前還不得而知。
+
+# Crimson Philosophy
+tm.research.name.CRIMSON_PHILOSOPHY=血腥教徒們的哲學
+tm.research.desc.CRIMSON_PHILOSOPHY=進入宇宙黑暗面的切入點……
+tm.research.page.CRIMSON_PHILOSOPHY.1=作為一名神秘使，你聽過很多關於一群被稱為血腥邪徒的邪教徒的訊息。絕大多數訊息都將它們粉飾為一群相信儀式式宗教信仰的傻子，其終極目標是一個稱為“開眼”的儀式。在親自閱讀了血腥儀式之後，你發現看起來他們對宇宙的瞭解比你那些思維封閉的同行們想象的要多得多。
+tm.research.page.CRIMSON_PHILOSOPHY.2=雖然它們尚未觸及神秘學的秘密，血腥儀式中的許多頁面似乎致力於某些非常細節的理論和公式。不幸的是，書中的行文難以置信地晦澀，很多條目不進行進一步研究就無法理解。
+
+# Crimson Astronomy
+tm.research.name.CRIMSON_ASTRONOMY=血腥天文學
+tm.research.desc.CRIMSON_ASTRONOMY=對宇宙的不同看法
+tm.research.page.CRIMSON_ASTRONOMY.1=血腥儀式中的許多條目似乎在談論天體和整個宇宙。你不確定這些條目到底反映了什麼樣的宏大圖景，但你確信它們會對你對宇宙基本力的研究有所幫助。
+
+# Crimson - Realisation
+tm.research.name.CRIMSON_REALISATION=認識
+tm.research.desc.CRIMSON_REALISATION=揭開破碎的真相……
+tm.research.page.CRIMSON_REALISATION.1=血腥教徒和他們的發現讓你瞭解了神秘學的強大而黑暗的一面。你讀過的所有條目，從最基本到最高階的每一個條目，似乎都在談論宇宙中的“缺失環節”，一個讓血腥教徒陷入困境、打亂了哪怕最簡單的計算的缺失概念。<BR>依靠你的神秘學背景知識，你意識到答案其實在他們的鼻子底下：他們缺失的正是靈氣場。
+tm.research.page.CRIMSON_REALISATION.2=然而，只依靠你對靈氣場的理解並不能完美地解釋你解讀出的理論中的所有錯誤。你越是思考，就越開始懷疑這是否是完整的圖景。或許你並不像你想的那樣瞭解宇宙？<LINE>現在看來得從頭開始了……
+
+# Crimson - Celestial Fields
+tm.research.name.CRIMSON_CELESTIAL_FIELD=天體場
+tm.research.desc.CRIMSON_CELESTIAL_FIELD=缺失的環節！
+tm.research.page.CRIMSON_CELESTIAL_FIELD.1=經過數小時艱苦的學習和研究，你對靈氣和靈氣場有了新的發現。似乎靈氣場最終控制的不僅僅是透過宇宙的Vis流。你的研究暗示或許靈氣是從另一重存在中進入我們的世界的。很有可能在那個維度中的不同於我們世界的法則才最終控制著宇宙。<LINE>靈氣場這個名字不再適合這種現象了。因此，你給它起了新的名字：天體場。
+
+# Crimson - Thaumaturgy
+tm.research.name.CRIMSON_THAUMATURGY=血腥神秘學
+tm.research.desc.CRIMSON_THAUMATURGY=進一步研究
+tm.research.page.CRIMSON_THAUMATURGY.1=儘管血腥教徒不瞭解神秘學，但他們確實對能量的管理很瞭解。。很多條目都談到了一種非常強大的能量，在宇宙中無處不在，並且這種能量常常會引起物質中的“正向充能”，並且有時會進入我們的物質世界。在自己整理了他們的理論後，你意識到那些教士實際上已經發現了操縱vis的基礎，即使它們將其稱為“天體能量”。
+tm.research.page.CRIMSON_THAUMATURGY.2=一些條目似乎包括了vis注入不同材料的實驗的詳細分析，並且得出了你意料之外的結果。其中許多都包含了對非自願的實驗物件的vis使用……或許研究這些資訊可以讓你獲得關於武器化vis的更深理解。
+
+# Crimson - Wand Augmentation
+tm.research.name.CRIMSON_WAND_AUGMENTATION=血腥法杖強化
+tm.research.desc.CRIMSON_WAND_AUGMENTATION=更進一步！
+tm.research.page.CRIMSON_WAND_AUGMENTATION.1=研究血腥教徒們對vis的實驗極大地加深了你的理解。你在法杖強化領域有了一些新的想法，或許能讓你在使用法杖時進行更強力的攻擊……
+

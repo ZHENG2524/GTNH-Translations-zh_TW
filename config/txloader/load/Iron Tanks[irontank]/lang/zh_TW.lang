@@ -1,0 +1,39 @@
+# Item localizations
+item.irontank:copperIronUpgrade.name=儲罐升級：銅>鐵
+item.irontank:copperSilverUpgrade.name=儲罐升級：銅>鋼
+item.irontank:diamondObsidianUpgrade.name=儲罐升級：鑽石>黑曜石
+item.irontank:diamondEmeraldUpgrade.name=儲罐升級：鑽石>鋁
+item.irontank:goldDiamondUpgrade.name=儲罐升級：金>鑽石
+item.irontank:ironGoldUpgrade.name=儲罐升級：鐵>金
+item.irontank:silverGoldUpgrade.name=儲罐升級：鋼>金
+item.irontank:glassCopperUpgrade.name=儲罐升級：玻璃>銅
+item.irontank:glassIronUpgrade.name=儲罐升級：玻璃>鐵
+item.irontank:silverDiamondUpgrade.name=儲罐升級：鋼>鑽石
+item.irontank:emeraldStainlesssteelUpgrade.name=儲罐升級：鋁>不鏽鋼
+item.irontank:stainlesssteelTitaniumUpgrade.name=儲罐升級：不鏽鋼>鈦
+item.irontank:titaniumTungstensteelUpgrade.name=儲罐升級：鈦>鎢鋼
+# Block localizations
+tile.irontank:ironTank.name=鐵儲罐
+tile.irontank:goldTank.name=金儲罐
+tile.irontank:diamondTank.name=鑽石儲罐
+tile.irontank:emeraldTank.name=鋁儲罐
+tile.irontank:obsidianTank.name=黑曜石儲罐
+tile.irontank:copperTank.name=銅儲罐
+tile.irontank:silverTank.name=鋼儲罐
+tile.irontank:stainlesssteelTank.name=不鏽鋼儲罐
+tile.irontank:titaniumTank.name=鈦儲罐
+tile.irontank:tungstensteelTank.name=鎢鋼儲罐
+# Iron Tank Tooltips
+tile.ironTank.tooltip=最多可儲存32桶同種液體\n§4不可拆卸，請使用手推車
+tile.goldTank.tooltip=最多可儲存48桶同種液體\n§4不可拆卸，請使用手推車
+tile.diamondTank.tooltip=最多可儲存64桶同種液體\n§4不可拆卸，請使用手推車
+tile.obsidianTank.tooltip=最多可儲存64桶同種液體\n§4不可拆卸，請使用手推車\n（防爆）
+tile.copperTank.tooltip=最多可儲存27桶同種液體\n§4不可拆卸，請使用手推車
+tile.silverTank.tooltip=最多可儲存43桶同種液體\n§4不可拆卸，請使用手推車
+tile.emeraldTank.tooltip=最多可儲存96桶同種液體\n§4不可拆卸，請使用手推車
+tile.stainlesssteelTank.tooltip=最多可儲存128桶同種液體\n§4不可拆卸，請使用手推車
+tile.titaniumTank.tooltip=最多可儲存256桶同種液體\n§4不可拆卸，請使用手推車
+tile.tungstensteelTank.tooltip=最多可儲存512桶同種液體\n§4不可拆卸，請使用手推車
+
+# Misc localizations
+itemGroup.irontank=更多儲罐

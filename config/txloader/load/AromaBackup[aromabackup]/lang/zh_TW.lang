@@ -1,0 +1,13 @@
+#Backup
+aromabackup:backup.start.server=開始備份. 伺服器可能會有點卡!
+aromabackup:backup.start.client=開始備份. 世界可能會有點卡!
+aromabackup:backup.done.server=伺服器備份完畢!
+aromabackup:backup.done.client=世界備份完畢!
+aromabackup:backup.failed.server=伺服器備份失敗!
+aromabackup:backup.failed.client=世界備份失敗!
+aromabackup:backup.next.server=預計離下一次備份還有 %s 分鐘.
+aromabackup:backup.next.client=預計離下一次備份還有 %s 分鐘.
+
+#Command
+aromabackup:command.alreadyrunning=備份正在進行中.
+aromabackup:command.playerstarted=%s 啟動了備份.

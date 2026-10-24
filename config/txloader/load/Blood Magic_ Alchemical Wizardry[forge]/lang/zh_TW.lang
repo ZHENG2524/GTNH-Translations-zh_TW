@@ -1,0 +1,5 @@
+commands.forge.usage=指令：/forge <subcommand>。子命令包括：tps、track
+commands.forge.usage.tracking=指令：/forge track <type> <duration>. 可用型別有：te (實體方塊). 持續時間 < 60. 
+commands.forge.tps.summary=%s : 平均每刻耗時: %d ms. 平均TPS: %d
+
+commands.forge.tracking.te.enabled=已啟用實體方塊追蹤 %d 秒.

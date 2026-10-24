@@ -1,0 +1,161 @@
+# Galacticraft Asteroids Language File = UNITED STATES ENGLISH
+
+# GENERAL ITEMS
+item.itemTier3Rocket.name=3階火箭
+item.itemTier3Rocket.t3Rocket.name=3階火箭
+item.itemAstroMiner.name=太空採礦機
+item.heavyNoseCone.name=重型前錐體
+item.compressedTitanium.name=航天鈦板
+item.ingotTitanium.name=鈦錠
+item.shardTitanium.name=鈦碎片
+item.shardIron.name=鐵碎片
+item.rocketFinsT2.name=重型火箭鰭
+item.engineT2.name=重型火箭引擎
+item.itemBasicAsteroids.name=資源
+item.reinforcedPlateT3.name=重型裝甲板
+item.grapple.name=攀緣鉤爪
+item.atmosphericValve.name=氣閘
+item.thermalCloth.name=隔熱布匹
+item.beamCore.name=粒子束核心
+item.orionDrive.name=離子推進器
+item.tier3.desc=3階
+
+# TOOLS
+item.titanium_pickaxe.name=鈦鎬
+item.titanium_axe.name=鈦斧
+item.titanium_hoe.name=鈦鋤
+item.titanium_shovel.name=鈦鏟
+item.titanium_sword.name=鈦劍
+
+# ARMOR
+item.thermalPadding.name=隔熱充能頭盔
+item.thermalHelm.name=隔熱充能頭盔
+item.thermalChestplate.name=隔熱充能胸甲
+item.thermalLeggings.name=隔熱充能護腿
+item.thermalBoots.name=隔熱充能靴
+item.titanium_helmet.name=鈦頭盔
+item.titanium_chestplate.name=鈦胸甲
+item.titanium_leggings.name=鈦護腿
+item.titanium_boots.name=鈦靴
+
+# CANISTERS ETC
+item.methaneCanisterPartial.name=甲烷氣體罐
+item.methaneCanister.name=甲烷氣體罐（滿）
+item.canister.gas.name=甲烷
+item.canisterPartialLOX.name=罐裝液態氧
+item.canister.LOX.partial.name=罐裝液態氧
+item.canister.LOX.full.name=罐裝液態氧（滿）
+item.canister.LOX.name=氧
+item.canisterPartialLN2.name=灌裝液態氮
+item.canister.liquidNitrogen.partial.name=灌裝液態氮
+item.canister.liquidNitrogen.full.name=灌裝液態氮（滿）
+item.canister.liquidNitrogen.name=氮
+item.canister.liquidArgon.partial.name=灌裝液態氬
+item.canister.liquidArgon.full.name=灌裝液態氬（滿）
+item.canister.liquidArgon.name=氬
+item.emptyGasCanister.name=氣體罐（空）
+
+# FLUIDS AND GASES
+fluid.methane=甲烷
+fluid.oxygen=氧氣
+fluid.nitrogen=氮氣
+fluid.hydrogen=氫氣
+fluid.carbondioxide=二氧化碳
+fluid.helium=氦氣
+fluid.argon=氬氣
+fluid.atmosphericgases=大氣氣體
+fluid.liquidmethane=液態甲烷
+fluid.liquidoxygen=液態氧
+fluid.liquidnitrogen=液態氮
+fluid.liquidargon=液態氬
+fluid.fuel=燃油
+
+# BLOCKS
+tile.asteroidsBlock.0.name=行星巖/礦石
+tile.asteroidsBlock.asteroid0.name=行星巖
+tile.asteroidsBlock.asteroid1.name=行星巖
+tile.asteroidsBlock.asteroid2.name=行星巖
+tile.asteroidsBlock.oreIron.name=鐵礦石
+tile.asteroidsBlock.oreIlmenite.name=鈦鐵礦石
+tile.asteroidsBlock.oreAluminum.name=鋁礦石
+tile.beamReflector.name=能量射束反射器
+tile.beamReceiver.name=能量射束接收器
+tile.telepadFake.name=短距離傳送臺
+tile.telepadShort.name=短距離傳送臺
+tile.walkway.name=通道
+tile.walkwayWire.name=通道
+tile.walkwayOxygenPipe.name=通道
+tile.treasureT3.name=3階寶箱
+tile.denseIce.name=堅冰
+tile.minerBaseFull.name=太空採礦機基地
+tile.minerBase.name=太空採礦機基地方塊
+
+# GUI
+planet.asteroids=小行星帶
+
+	# Dollar sign ($) will split text onto a new line
+	# Do not remove %s or %d, since that will be replaced in-game
+gui.telepad.desc.0=這是本傳送臺的$唯一座標
+gui.telepad.desc.1=另一個傳送臺的座標.$實體會被傳送到那裡.
+gui.message.address.name=座標
+gui.message.destAddress.name=目標座標
+gui.message.invalidAddress.name=無效的唯一座標
+gui.message.invalidTargetAddress.name=無效的目標座標
+gui.message.receivingActive.name=啟用接受
+gui.message.telepadTooFar.name=目標太遠！（最遠 %d）
+gui.message.telepadWrongDim.name=目標處於錯誤的維度！
+gui.message.telepadNotFound.name=未找到傳送臺！
+gui.message.sendingActive.name=啟用傳送
+gui.message.range.name=範圍: %dm
+gui.message.notEnoughEnergy.name=能量不足
+gui.message.targetNoEnergy.name=目標沒有足夠的能量
+gui.message.grapple.fail=我需要有足夠的線來丟擲攀緣鉤爪！
+gui.message.astroMiner.fail=該基地已經繫結過太空採礦機
+gui.message.astroMiner1.fail=停泊區已經被佔用: 
+gui.message.astroMiner1A.fail=太空採礦機的行進路線被阻擋:
+gui.message.astroMiner2.fail=有一臺太空採礦機是多餘的！
+gui.message.astroMiner3.fail=太空採礦機停泊區被移除！
+gui.message.astroMiner4.fail=太空採礦機能源耗盡，無法返回基地！
+gui.message.astroMiner5.fail=太空採礦機返回基地的路線好像被阻擋了！
+gui.message.astroMiner6.fail=太空採礦機已經完成該區域的採礦任務，即將停止工作！
+gui.message.astroMiner7.fail=空間站沒有任何可供太空採礦機採集的東西！
+gui.message.astroMiner8.fail=同一停泊區檢測到第二臺太空採礦機，第一臺將會被封存。
+gui.button.recall.name=返回
+gui.miner.outOfRange=超出範圍
+gui.miner.offline=待機
+gui.miner.stuck=被卡住位置:  
+gui.miner.docked=已停泊
+gui.miner.travelling=行進中
+gui.miner.mining=正在採集
+gui.miner.returning=正在返回
+gui.miner.docking=停泊中
+gui.miner.mined=採集完成
+
+tile.treasureT3.description=3階寶箱目前無法使用.
+tile.walkway.description=通道現作為裝飾,可在保持太空主題的同時,用於連線方塊.
+tile.walkwayAluminumWire.description=鋁線通道在其可行走的表面下可佈置線纜.
+tile.walkwayOxygenPipe.description=氧氣管道在其可行走的表面下可佈置管道.
+tile.beamReflector.description=能量射束反射器用於改變源頭來的鐳射束的方向.右擊以在不同目標間迴圈切換.
+tile.beamReceiver.description=能量射束接收器連線到機器以輸入和輸出能量,使用鐳射束傳輸能量.
+tile.telepadShort.description=短距離傳送臺可用於短距離傳送(250格),將玩家和其他生物傳送至其他已建立連線的傳送臺.
+tile.minerBase.description=太空採礦機基地用於停靠太空採礦機。它很大……嘗試用它們做一個2x2x2的立方體
+
+# SCHEMATICS
+schematic.astroMiner.name=太空採礦機
+
+# ENTITIES
+entity.GalacticraftMars.SmallAsteroidGC.name=小行星
+entity.GalacticraftMars.GrappleHookGC.name=攀緣鉤爪
+entity.GalacticraftMars.Tier3RocketGC.name=3階火箭
+entity.GalacticraftMars.EntryPodAsteroids.name=登陸艙
+entity.GalacticraftMars.AstroMiner.name=太空採礦機
+
+# CONTAINERS
+container.shortRangeTelepad.name=短距離傳送臺
+container.entryPod.name=登陸艙
+
+# CONFIG GUI
+gc.configgui.dimensionIDAsteroids=小行星帶維度ID
+gc.configgui.idSchematicRocketT3=3階火箭設計圖ID
+gc.configgui.disableGalacticraftHelium=禁用星系氦氣
+gc.configgui.astroMinersMax=每名玩家擁有的太空採礦機數量上限

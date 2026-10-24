@@ -1,0 +1,36 @@
+itemGroup.tabHarvesttheNether=下界豐收
+
+# Blocks
+tile.netherLog.name=下界原木
+tile.netherLeaves.name=下界樹葉
+tile.netherPlanks.name=下界木板
+tile.netherSapling.name=炙炎果樹苗
+tile.ignisFruit.name=炙炎果
+tile.netherBed.name=下界床
+tile.netherGarden.name=下界菜園
+tile.bloodleafCrop.name=血腥葉片作物
+tile.fleshrootCrop.name=血肉之根作物
+tile.marrowberryCrop.name=骨髓漿果作物
+tile.glowFlower.name=輝光花
+tile.glowflowerCrop.name=輝光花作物
+
+# Items
+item.quartzingotItem.name=石英錠
+item.quartzhelmItem.name=石英頭盔
+item.quartzchestItem.name=石英胸甲
+item.quartzleggingsItem.name=石英護腿
+item.quartzbootsItem.name=石英靴
+item.quartzaxeItem.name=石英斧
+item.quartzhoeItem.name=石英鋤
+item.quartzpickaxeItem.name=石英鎬
+item.quartzshovelItem.name=石英鍬
+item.quartzswordItem.name=石英劍
+item.ignisfruitItem.name=炙炎果
+item.netherbedItem.name=下界床
+item.bloodleafItem.name=血腥葉片
+item.fleshrootItem.name=血肉之根
+item.marrowberryItem.name=骨髓漿果
+item.bloodleafseedItem.name=血腥葉片種子
+item.fleshrootseedItem.name=血肉之根種子
+item.marrowberryseedItem.name=骨髓漿果種子
+item.glowflowerseedItem.name=輝光花種子

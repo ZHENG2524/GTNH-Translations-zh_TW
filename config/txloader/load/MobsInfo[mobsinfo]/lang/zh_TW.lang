@@ -1,0 +1,130 @@
+#This file is a translation file for Mobs Info
+
+#NEI
+mobsinfo.mobhandler.normal_drops=常規掉落
+mobsinfo.mobhandler.rare_drops=稀有掉落
+mobsinfo.mobhandler.additional_drops=額外掉落
+mobsinfo.mobhandler.infernal_drops=精英掉落
+mobsinfo.mobhandler.infernal_cannot=無法生成精英怪
+mobsinfo.mobhandler.infernal_can=可以生成精英怪
+mobsinfo.mobhandler.infernal_always=必然生成精英怪
+mobsinfo.mobhandler.mod=Mod：
+mobsinfo.mobhandler.max_health=最大生命值：
+mobsinfo.mobhandler.boss=BOSS
+mobsinfo.mobhandler.cannot_use_vial=無法裝入靈魂瓶
+mobsinfo.mobhandler.chance=機率：%.2f%%
+mobsinfo.mobhandler.average_reminder=§7§o注意，這些是平均期望掉落
+mobsinfo.mobhandler.lootable=搶奪附魔有效
+mobsinfo.mobhandler.player_only=§7僅限非偽玩家擊殺時掉落
+mobsinfo.mobhandler.peaceful_allowed=支援和平模式
+mobsinfo.mobhandler.locked=為了解鎖更多資訊,
+mobsinfo.mobhandler.locked_1=你必須殺死怪物!
+mobsinfo.mobhandler.unlocked=§6你已經解鎖了新的怪物資訊!
+mobsinfo.mobhandler.extended_info=請注意掉落機率基於
+mobsinfo.mobhandler.extended_info_1=所有情況的平均值
+mobsinfo.mobhandler.extended_info_2=因而100%機率並不代表始終掉落
+mobsinfo.mobhandler.extended_info_3=例如，這可能意味著
+mobsinfo.mobhandler.extended_info_4=有相同的機率掉落0，1或2個此物品
+mobsinfo.mobhandler.extended_info_5=因為平均每次掉落為1個（100%）。
+mobsinfo.mobhandler.spawns_everywhere=在所有地方均會生成
+mobsinfo.mobhandler.spawns_in=在 %d 生成
+mobsinfo.mobhandler.spawns_not_in=除了 %d 處均會生成
+mobsinfo.mobhandler.wither_skeleton_name=凋靈骷髏
+
+mobsinfo.villagertradeshandler.name=名稱：
+mobsinfo.villagertradeshandler.mod=Mod：
+mobsinfo.villagertradeshandler.chance=機率：%.2f%%
+mobsinfo.villagertradeshandler.real_chance=每級上升機率：%.2f%%
+
+mobsinfo.mobhandlerinfernal.title=精英怪 - 掉落表
+mobsinfo.mobhandlerinfernal.format=格式：
+mobsinfo.mobhandlerinfernal.format_1=掉落物名 - x% (y%)
+mobsinfo.mobhandlerinfernal.format_2=x - 獲得機率
+mobsinfo.mobhandlerinfernal.format_3=y - 獲得機率-當怪物被
+mobsinfo.mobhandlerinfernal.format_4=必然生成精英怪
+mobsinfo.mobhandlerinfernal.elite=稀有掉落 - %.2f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.ultra=精英掉落 - %.3f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.inferno=惡魔掉落 - %.3f%% (%.3f%%)
+mobsinfo.mobhandlerinfernal.tooltip_chance=綜合期望機率：%.4f%%
+mobsinfo.mobhandlerinfernal.tooltip_chance_always=總是精英怪時，綜合期望機率：%.4f%%
+
+mobsinfo.mobhandlerfishing.title=釣魚戰利品表
+mobsinfo.mobhandlerfishing.format=格式：
+mobsinfo.mobhandlerfishing.format_1=類別名稱 - x%
+mobsinfo.mobhandlerfishing.format_2=物品機率為每次釣獲
+mobsinfo.mobhandlerfishing.format_3=基礎機率為：
+mobsinfo.mobhandlerfishing.format_4=海之幸運 0 且誘餌 0
+mobsinfo.mobhandlerfishing.fish=魚 - %.2f%%
+mobsinfo.mobhandlerfishing.junk=垃圾 - %.2f%%
+mobsinfo.mobhandlerfishing.treasure=寶藏 - %.2f%%
+mobsinfo.mobhandlerfishing.tooltip_chance=獲得機率：%.4f%%
+
+#Extras (compatibility)
+mobsinfo.extras.minecraft_slime=僅在史萊姆最小時掉落
+mobsinfo.extras.minecraft_magma_cube=僅在岩漿怪不是最小是掉落
+mobsinfo.extras.chance=機率：%.2f%%
+mobsinfo.extras.base_chance=基礎機率：%.2f%%
+mobsinfo.extras.variable_chance=可變機率
+mobsinfo.extras.drops_only_using=僅在被%s擊殺時掉落
+mobsinfo.extras.drops_only_in_dimension=僅在%s維度掉落
+mobsinfo.extras.drops_only_with_weakness=僅在怪物帶有虛弱藥水效果時掉落
+mobsinfo.extras.drops_only_with_weakness_3=僅在怪物處於虛弱藥水效果（III級或更高）時掉落。
+mobsinfo.extras.drops_only_with_enchant=僅在%s附魔生效時掉落
+mobsinfo.extras.each_level_of_gives=%s每級增加%s
+mobsinfo.extras.or_biome=或在%2$s生物群系增加%1$.2f%%
+mobsinfo.extras.or_using=或使用%2$s擊殺增加%1$.2f%%
+mobsinfo.extras.halloween_only=僅在萬聖節才會掉落
+mobsinfo.extras.yuletide_only=僅在聖誕節期間才會掉落
+mobsinfo.extras.yuletide_day_only=僅在聖誕節當天才會掉落
+
+mobsinfo.extras.avaritia_skull_sword=僅在使用啄顱劍擊殺且未掉落頭顱時掉落
+mobsinfo.extras.draconic_evolution_mob_soul=基於收割者附魔等級 - 與武器增加 |
+mobsinfo.extras.draconic_evolution_mob_soul_1= 等 級  | 無 | I  | II | III | IV | V
+mobsinfo.extras.draconic_evolution_mob_soul_2=任意/無 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_3=雙足飛龍劍/弓 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_4=龍之劍/弓 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_5=龍之權杖  | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.powered_creeper=僅閃電苦力怕掉落
+mobsinfo.extras.forbidden_magic_non_player=僅在被非玩家實體擊殺時掉落
+mobsinfo.extras.open_blocks_small_chance=機率：小
+mobsinfo.extras.tinkers_construct_beheading=武器的每級斬首提供額外%.2f%%
+mobsinfo.extras.tinkers_construct_beheading_1=當使用劈刀時，提供額外%.2f%%
+mobsinfo.extras.witchery_vampire_book=僅在玩家擁有吸血鬼之書時掉落
+mobsinfo.extras.witchery_warewolf=僅在被狼人擊殺時掉落
+mobsinfo.extras.bloodmagic_demon_shards=僅在透過惡魔傳送站生成或使用獻祭刀擊殺時掉落
+mobsinfo.extras.bloodmagic_demon_placer=僅在不透過惡魔傳送站生成或不使用獻祭刀擊殺時掉落
+mobsinfo.extras.etfuturum_powered_creeper=僅當被閃電苦力怕殺死時掉落
+mobsinfo.extras.etfuturum_wither_rose=僅當被凋靈殺死時掉落或放置*
+mobsinfo.extras.etfuturum_wither_rose_1=*若可能，放置於該生物所處的地面上
+mobsinfo.extras.lycanites_mobs_or_on_yuletide_day=或者在聖誕節當天的掉率為%.2f%%
+
+#Spawn info
+mobsinfo.spawninfo.biome=生物群系：
+mobsinfo.spawninfo.structure=結構：
+mobsinfo.spawninfo.event=事件：
+
+#Commands
+mobsinfo.commandhandler.invalid=§c無效使用！該指令的正確使用為 /%s
+mobsinfo.commandhandler.cant_find=§c找不到指令選項 %s
+mobsinfo.commandhandler.generic_help=§c你還可以使用 "/mobsinfo help" 獲取可能的指令
+mobsinfo.commandhandler.usage=<選項>
+mobsinfo.command.help.possible_commands=可能的指令：
+mobsinfo.command.help.usage=- 顯示所有可能的指令
+mobsinfo.command.config.invalid_option=§c無效選項！可能的選項：reload
+mobsinfo.command.config.success=§a配置過載成功！
+mobsinfo.command.config.usage=<選項>
+mobsinfo.command.hidden.usage=<玩家> <unlock/lock/reset/unlockall> [怪物名]
+mobsinfo.command.hidden.invalid_mob=§c無效怪物名!
+mobsinfo.command.hidden.lock_error=§c玩家尚未解鎖該怪物或者怪物名無效!
+mobsinfo.command.hidden.success=§a成功!
+mobsinfo.command.hidden.invalid=§c無效選項! 正確的用法為：%s
+
+mobsinfo.extras.minefantasy2_guts_looting=機率會除以（1 + 搶奪等級）。
+mobsinfo.extras.minefantasy2_burning=僅當生物著火時。
+mobsinfo.extras.minefantasy2_not_burning=僅當生物未著火時。
+mobsinfo.extras.minefantasy2_hunting_weapon=擊殺時需使用狩獵武器。
+mobsinfo.extras.minefantasy2_bow_skeleton=僅當骷髏持有弓時。
+mobsinfo.extras.minefantasy2_original_item=僅在取代 %s 的一般掉落物時。
+mobsinfo.extras.minefantasy2_tagged_sack=僅來自 MineFantasy II 升級的殭屍。
+mobsinfo.extras.lootplusplus_player_credit=需要玩家擊殺認定。
+mobsinfo.extras.lootplusplus_skeleton_kill=僅當被骷髏擊殺時。

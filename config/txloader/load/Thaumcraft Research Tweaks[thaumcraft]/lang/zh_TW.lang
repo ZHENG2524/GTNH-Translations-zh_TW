@@ -1,0 +1,20 @@
+# Patch to explain how to batch craft
+tc.research_page.RESEARCHER1.1=你越發擅長於研究。<BR>當你移除放入六邊形的要素，會有25%的機率取回研究點。<BR>另外，當滑鼠懸停在上方時，你還能看到該要素所需的合成要素。<BR>最後，你在合成要素方面的技巧已經足夠熟練，按住Ctrl合成，即可一次最多合成10點要素。
+tc.research_page.RESEARCHER2.1=你越發精通於研究。<BR>當你移除放入六邊形的要素，會有50%的機率取回研究點。<BR>此外放置要素時也有10%的機率不消耗研究點。<BR>最後，在研究臺介面中，你還能夠透過按住Shfit點選你想要製造出的要素，以融合要素得到它。如果你有足夠用以融合的要素，它們會自動融合成你要製造的複合要素。在這一操作時按住Ctrl即可批次合成。
+tc.research_page.RESEARCHDUPE.1=你已發現複製完整研究筆記的方法。<BR>當完成研究或將研究筆記放入研究臺時，並且攜有筆墨及紙張，還擁有足夠多的可用要素時，你會看到一個可用的複製按鈕，點選它就能製成一份研究複製。<BR>為某項研究製備越多的複製，之後製作複製的成本就會越昂貴。
+
+# Patch to show new UI, explain about combining and researching using aspect drag & drop or right click while dragging
+tc.research_page.RESEARCH.6=<IMG>thaumcraft:textures/research/table/research-table-tutorial-schematic.png:0:0:256:227:.45</IMG>§l3§r 號區域會列出全部的元始源質以及可能出現的一些複合源質，且下標會註明數量。當你首次進入世界時，會獲得少量元始源質作為初始獎勵。
+tc.research_page.RESEARCH.7=若你之前透過魔導透鏡做過一些探索研究，則會列出相關的元始源質以及複合源質。<BR>現在你可以開始融合更加複雜的要素了，僅需要拖動1號要素至2號要素上方再鬆開左鍵放下即可完成融合，或是按住左鍵拖動1號要素到2號要素上方右鍵放下但保持1號要素仍然處於拖動狀態，再到3號要素上方繼續此操作。如若融合成功，你應該能在右下方看到得到了什麼，它會出現在§l3§r號區域中。<BR>即使沒有實際獲得複合要素，參與融合的要素也會被消耗掉。
+tc.research_page.RESEARCH.8=§l   §n(3)基礎研究§r<IMG>thaumcraft:textures/research/table/research-table-tutorial-filled.png:0:0:256:200:.50</IMG>完成此步驟時你需要隨身帶著一套筆與墨以及紙張。<BR>翻開魔導手冊，你能夠查閱你已學會的所有知識，也能夠檢視你目前能夠繼續探求哪些知識。
+tc.research_page.RESEARCH.9=閃爍的方塊或圓形的圖示標誌著前置的研究。若你能看到其名稱（而非只是些怪異的符文），那你就可以點選它們，消耗掉一些物品欄中的紙張和墨水，獲得一份研究筆記。現在將這份研究筆記放入研究臺的§l2§r號格子即可開始研究。<BR>§l4§r號區域會顯示出一張紙卷，上面排滿了外緣繪有要素圖示的六邊形格子。若你看到的是問號圖示，說明你尚不瞭解這種要素，需要先進行學習。<LINE>
+tc.research_page.RESEARCH.10=要完成你的研究，只需連結並啟用全部要素。為此，你需要將要素寫入六邊形格子中，並使其要麼與能融合成它的要素相連，要麼與其能與其他要素融合成的要素相連。至於怎麼將要素寫入六邊形，你可以像之前一樣左鍵拖拽要素，到六邊形上方，鬆開左鍵放下;也可以透過右鍵保持拖拽放下要素。<IMG>thaumcraft:textures/misc/research3.png:0:0:150:80:.65</IMG>放置要素會消耗一個研究點。若出現了錯誤，可以點選要素以移除它，但這不會讓你取回付出的研究點。
+
+# Hint button on the table
+researchtable.usagehint.header=使用指南
+researchtable.usagehint.description=拖動要素並鬆開滑鼠, 或拖動要素並右鍵點選格子以繪製和連線要素
+researchtable.usagehint.research_expertise=在融合要素時按住Ctrl以一次合成10點要素(需要研究精通)
+
+# In case notes get corrupted
+tc.research.notes.corrupted.line.1=筆記損壞了!
+tc.research.notes.corrupted.line.2=試著從頭開始吧.

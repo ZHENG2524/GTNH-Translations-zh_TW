@@ -1,0 +1,30 @@
+bdlib.multiblock.face.north=北方
+bdlib.multiblock.face.south=南方
+bdlib.multiblock.face.east=東方
+bdlib.multiblock.face.west=西方
+bdlib.multiblock.face.up=頂部
+bdlib.multiblock.face.down=底部
+
+bdlib.multiblock.disabled=停用
+bdlib.multiblock.incomplete=這臺多方塊結構機器未搭建完成。它至少需要安裝一個：
+bdlib.multiblock.notconnected=未連線有效機器
+bdlib.multiblock.toomanyoutputs=連線的輸出介面過多，無法連線新的介面
+bdlib.multiblock.tip.module=可以安裝在:
+bdlib.multiblock.tip.controller=可能的模組:
+bdlib.multiblock.tip.module.range= * %s (%s - %s)
+bdlib.multiblock.tip.module.max= * %s (最大 %s)
+
+bdlib.rsmode.always=一直啟用
+bdlib.rsmode.never=一直停用
+bdlib.rsmode.rs_on=接收到紅石訊號時啟用
+bdlib.rsmode.rs_off=接收到紅石訊號時停用
+
+bdlib.label.empty=空
+
+bdlib.oredistribution.usage=/oredistribution <半徑> [<最小高度>] [<最大高度>] [--file]
+bdlib.oredistribution.start1=檢查 (%s,%s,%s) 至 (%s,%s,%s) dim %s 的礦石分佈
+bdlib.oredistribution.start2=伺服器可能滯後一段時間
+bdlib.oredistribution.entry=%s %s - %s (%s%%)
+bdlib.oredistribution.warn=%s 警告: %s 產生多個變數:
+bdlib.oredistribution.saved=礦石分佈匯出至 %s
+bdlib.oredistribution.error=未能儲存礦石分佈匯出: %s

@@ -1,0 +1,29 @@
+potion.wellfedPotion=飽食
+potion.newSlowdownPotionHO=緩慢
+
+# tooltip strings
+hungeroverhaul.crop.grows.best.in=適宜種植環境：
+
+# these should all be in lowercase
+hungeroverhaul.hearty=豐盛的%s
+hungeroverhaul.wholesome=健康的%s
+hungeroverhaul.nourishing=營養的%s
+hungeroverhaul.unfulfilling=乏味的%s
+hungeroverhaul.morsel=塞牙之物
+hungeroverhaul.snack=零嘴點心
+hungeroverhaul.lightmeal=便餐
+hungeroverhaul.meal=佳餚
+hungeroverhaul.largemeal=大餐
+hungeroverhaul.feast=饕餮盛宴
+
+# if necessary, special cases for the meal descriptors can be handled by
+# defining combined strings like so (remove the #)
+#hungeroverhaul.hearty.largemeal=hearty large meal
+
+# health/hunger status text
+hungeroverhaul.dying=瀕死
+hungeroverhaul.injured=重傷
+hungeroverhaul.hurt=受傷
+hungeroverhaul.starving=飢不擇食
+hungeroverhaul.hungry=飢腸轆轆
+hungeroverhaul.peckish=略有餓意

@@ -1,0 +1,4 @@
+malisiscore.commands.usage=使用/malisis <config|version> [modid]來顯示當前版本或者開啟配置GUI.
+malisiscore.commands.modversion=%s的當前版本 : %s.
+malisiscore.commands.modnotfound=沒有使用ID %s 註冊的mod.
+malisiscore.commands.noconfiguration=%s無可用配置.

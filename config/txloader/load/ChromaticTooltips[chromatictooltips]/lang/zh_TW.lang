@@ -1,0 +1,92 @@
+key.categories.chromatictooltips=彩色提示框
+key.chromatictooltips.next_page=下一頁
+key.chromatictooltips.previous_page=上一頁
+
+chromatictooltips.navigation.page=§8頁碼：%s / %s [按 %s 進入下一頁， 按%s 返回上一頁]
+chromatictooltips.navigation.page.next_only=§8頁碼：%s / %s [按 %s 進入下一頁]
+chromatictooltips.navigation.page.previous_only=§8頁碼：%s / %s [按 %s 返回上一頁]
+
+chromatictooltips.enricher.stacksize.item=§8數量：§7%s
+chromatictooltips.enricher.stacksize.item.short=§8數量：§7%s = %s * %s
+chromatictooltips.enricher.stacksize.item.full=§8數量：§7%s = %s * %s + %s
+
+chromatictooltips.enricher.stacksize.fluid=§8數量：§7%s
+chromatictooltips.enricher.stacksize.fluid.short=§8數量：§7%s = %s * %s
+chromatictooltips.enricher.stacksize.fluid.full=§8數量：§7%s = %s * %s + %s
+
+chromatictooltips.enricher.stacksize.container=§8容器大小：§7%s
+chromatictooltips.enricher.stacksize.container.short=§8容器大小：§7%s = %s * %s
+chromatictooltips.enricher.stacksize.container.full=§8容器大小：§7%s = %s * %s + %s
+
+chromatictooltips.enricher.modinfo.modname=§9§o%s
+chromatictooltips.enricher.modinfo.identifier=§8%s:%s
+
+chromatictooltips.enricher.hotkeys.keybind.entry=§6%s§7 - §7%s
+chromatictooltips.enricher.hotkeys.keybind.keys=§8 / §6
+
+chromatictooltips.enricher.oreDictionary.title=§7礦物辭典名稱：
+chromatictooltips.enricher.oreDictionary.entry=§8 - §e%s
+
+chromatictooltips.enricher.attributes.addition.text.plus=§3+%s %s
+chromatictooltips.enricher.attributes.addition.text.minus=§3-%s %s
+chromatictooltips.enricher.attributes.addition.icon.plus=%s
+chromatictooltips.enricher.attributes.addition.icon.minus=§c-%s
+
+chromatictooltips.enricher.attributes.percent.text.plus=§3+%s%% %s
+chromatictooltips.enricher.attributes.percent.text.minus=§3-%s%% %s
+chromatictooltips.enricher.attributes.percent.icon.plus=%s%%
+chromatictooltips.enricher.attributes.percent.icon.minus=§c-%s%%
+
+chromatictooltips.enricher.attributes.durability.text=§3耐久度: %s / %s
+chromatictooltips.enricher.attributes.durability.icon=%s§7 / %s
+
+chromatictooltips.enricher.attributes.fuel.text=§3燃燒時間： %s
+chromatictooltips.enricher.attributes.fuel.icon=%s
+
+chromatictooltips.enricher.attributes.armor.text=§3+%s 護甲值
+chromatictooltips.enricher.attributes.armor.icon=%s
+
+chromatictooltips.enricher.attributes.hunger.text=§2飢餓值：%s
+chromatictooltips.enricher.attributes.hunger.icon=%s
+
+chromatictooltips.enricher.attributes.saturation.text=§6飽和度：%s
+chromatictooltips.enricher.attributes.saturation.icon=%s
+
+chromatictooltips.enricher.attributes.food.potion.text.plus=§b%s （%s）
+chromatictooltips.enricher.attributes.food.potion.text.plus.probability=§b%s （%s） [%s%%]
+
+chromatictooltips.enricher.attributes.food.potion.text.minus=§c%s (%s)
+chromatictooltips.enricher.attributes.food.potion.text.minus.probability=§c%s (%s) [%s%%]
+
+chromatictooltips.enricher.keyboard-modifier.shift.inactive=§8[shift]§r
+chromatictooltips.enricher.keyboard-modifier.shift.active=§6[shift]§r
+chromatictooltips.enricher.keyboard-modifier.ctrl.inactive=§8[ctrl]§r
+chromatictooltips.enricher.keyboard-modifier.ctrl.active=§6[ctrl]§r
+chromatictooltips.enricher.keyboard-modifier.alt.inactive=§8[alt]§r
+chromatictooltips.enricher.keyboard-modifier.alt.active=§6[alt]§r
+
+chromatictooltips.config.general.enabledResourcePackThemes=資源包主題
+chromatictooltips.config.general.transformDisabled=禁用動畫
+chromatictooltips.config.general.tooltipBlacklistLines=黑名單（正則）
+chromatictooltips.config.general.scaleFactor=Tooltip縮放比例
+chromatictooltips.config.general.maxWidth=Tooltip最大寬度
+chromatictooltips.config.general.tooltipShowUpDelay=Tooltip顯示延遲
+
+chromatictooltips.config.enricher.hotkeysEnabled=顯示快捷鍵
+chromatictooltips.config.enricher.attributeModifierIconsEnabled=展示屬性圖示
+chromatictooltips.config.enricher.burnTimeEnabled=顯示燃燒時間
+chromatictooltips.config.enricher.foodStatsEnabled=顯示食物屬性
+chromatictooltips.config.enricher.foodEffectsEnabled=顯示食物效果
+chromatictooltips.config.enricher.durabilityEnabled=顯示耐久度
+chromatictooltips.config.enricher.oreDictionaryEnabled=顯示礦物辭典名稱
+chromatictooltips.config.enricher.enchantmentIconsEnabled=顯示附魔圖示
+chromatictooltips.config.enricher.enchantmentHintEnabled=顯示附魔提示
+chromatictooltips.config.enricher.keyboardModifiersEnabled=顯示鍵盤修飾鍵
+chromatictooltips.config.enricher.modInfoEnabled=顯示模組資訊
+chromatictooltips.config.enricher.itemIdEnabled=顯示物品ID
+chromatictooltips.config.enricher.stackAmountEnabled=顯示堆疊數量
+
+chromatictooltips.config.stackamount.itemCompactThreshold=物品堆疊閾值
+chromatictooltips.config.stackamount.fluidCompactThreshold=流體堆疊閾值
+chromatictooltips.config.stackamount.includeContainerInventory=包含容器內部物品
+chromatictooltips.config.stackamount.hideWhenBelowMaxStackSize=當物品數量未達到最大堆疊數時隱藏

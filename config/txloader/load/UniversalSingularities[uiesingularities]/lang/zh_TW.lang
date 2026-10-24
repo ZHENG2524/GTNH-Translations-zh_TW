@@ -1,0 +1,176 @@
+//en_US Localization File - Universal Singularities
+//Creator of Localization File: Wealthyturtle
+//Localization File Version: 8.0
+
+//Contact Wealthyturtle/WanionCane If You Would Like to Volunteer to Create a Localization File for Another Language.
+
+//Vanilla
+item.universalSingularities.vanilla.coal.name=煤炭奇點
+item.universalSingularities.vanilla.diamond.name=鑽石奇點
+item.universalSingularities.vanilla.emerald.name=綠寶石奇點
+item.universalSingularities.vanilla.water.name=水奇點
+
+//General
+item.avaritia_singularity.name=奇點
+item.universalSingularities.general.aluminum.name=鋁奇點
+item.universalSingularities.general.brass.name=黃銅奇點
+item.universalSingularities.general.bronze.name=青銅奇點
+item.universalSingularities.general.charcoal.name=木炭奇點
+item.universalSingularities.general.electrum.name=琥珀金奇點
+item.universalSingularities.general.invar.name=殷鋼奇點
+item.universalSingularities.general.magnesium.name=鎂奇點
+item.universalSingularities.general.osmium.name=鋨奇點
+item.universalSingularities.general.peridot.name=綠橄欖石奇點
+item.universalSingularities.general.ruby.name=紅寶石奇點
+item.universalSingularities.general.sapphire.name=藍寶石奇點
+item.universalSingularities.general.steel.name=鋼奇點
+item.universalSingularities.general.titanium.name=鈦奇點
+item.universalSingularities.general.tungsten.name=鎢奇點
+item.universalSingularities.general.uranium.name=鈾奇點
+item.universalSingularities.general.zinc.name=鋅奇點
+item.universalSingularities.general.palladium.name=鈀奇點
+item.universalSingularities.general.saltpeter.name=硝石奇點
+item.universalSingularities.general.quicksilver.name=水銀奇點
+item.universalSingularities.general.blackSteel.name=黑鋼奇點
+item.universalSingularities.general.damascusSteel.name=大馬士革鋼奇點
+item.universalSingularities.general.tricalciumphosphate.name=磷酸三鈣奇點
+item.universalSingularities.general.shadowSteel.name=暗影鋼奇點
+item.universalSingularities.general.sulfur.name=硫奇點
+item.universalSingularities.general.iridium.name=銥奇點
+item.universalSingularities.general.netherstar.name=下界之星奇點
+item.universalSingularities.general.platinum.name=鉑奇點
+item.universalSingularities.general.electrumFlux.name=通流琥珀金奇點
+item.universalSingularities.general.naquadria.name=超能矽巖奇點
+item.universalSingularities.general.plutonium.name=鈽奇點
+item.universalSingularities.general.desh.name=戴斯奇點
+item.universalSingularities.general.meteoricIron.name=隕鐵奇點
+item.universalSingularities.general.europium.name=銪奇點
+item.universalSingularities.general.gangue.name=脈石奇點
+item.universalSingularities.general.roseGold.name=玫瑰金奇點
+
+//Rubber
+item.universalSingularities.rubber.rubber.name=橡膠奇點
+item.universalSingularities.rubber.styrenebutadiene.name=丁苯橡膠奇點
+item.universalSingularities.rubber.silicone.name=矽橡膠奇點
+item.universalSingularities.rubber.polyphenylene.name=聚苯硫醚奇點
+item.universalSingularities.rubber.pvc.name=聚氯乙烯奇點
+item.universalSingularities.rubber.elastic.name=彈性奇點
+
+//Toxic
+item.universalSingularities.toxic.contaminated.name=汙染奇點
+
+//Circuit
+item.universalSingularities.circuit.ulv.name=ULV算力奇點
+item.universalSingularities.circuit.lv.name=LV算力奇點
+item.universalSingularities.circuit.mv.name=MV算力奇點
+item.universalSingularities.circuit.hv.name=HV算力奇點
+item.universalSingularities.circuit.ev.name=EV算力奇點
+item.universalSingularities.circuit.iv.name=IV算力奇點
+item.universalSingularities.circuit.luv.name=LuV算力奇點
+item.universalSingularities.circuit.zpm.name=ZPM算力奇點
+item.universalSingularities.circuit.uv.name=UV算力奇點
+item.universalSingularities.circuit.uhv.name=UHV算力奇點
+item.universalSingularities.circuit2.uev.name=UEV算力奇點
+item.universalSingularities.circuit2.uiv.name=UIV算力奇點
+item.universalSingularities.circuit2.umv.name=UMV算力奇點
+item.universalSingularities.circuit2.uxv.name=UXV算力奇點
+item.universalSingularities.circuit2.max.name=MAX算力奇點
+item.universalSingularities.circuit2.erv.name=ERV算力奇點
+item.universalSingularities.circuit2.computronium.name=空白算力奇點
+
+//Big Reactors
+item.universalSingularities.bigReactors.blutonium.name=藍鈽奇點
+item.universalSingularities.bigReactors.cyanite.name=藍晶奇點
+item.universalSingularities.bigReactors.graphite.name=石墨奇點
+item.universalSingularities.bigReactors.ludicrite.name=純鎦奇點
+item.universalSingularities.bigReactors.yellorium.name=黃鈾奇點
+//Big Reactors
+
+//Draconic Evolution
+item.universalSingularities.draconicEvolution.draconium.name=龍奇點
+item.universalSingularities.draconicEvolution.draconiumAwakened.name=覺醒龍奇點
+//Draconic Evolution
+
+//Ender IO
+item.universalSingularities.enderIO.conductiveIron.name=導電鐵奇點
+item.universalSingularities.enderIO.electricalSteel.name=磁鋼奇點
+item.universalSingularities.enderIO.energeticAlloy.name=充能合金奇點
+item.universalSingularities.enderIO.darkSteel.name=玄鋼奇點
+item.universalSingularities.enderIO.pulsatingIron.name=脈衝鐵奇點
+item.universalSingularities.enderIO.redstoneAlloy.name=紅石合金奇點
+item.universalSingularities.enderIO.soularium.name=魂金奇點
+item.universalSingularities.enderIO.vibrantAlloy.name=脈衝合金奇點
+//Ender IO
+
+//ExtraPlanets
+item.universalSingularities.extraPlanets.blueGem.name=藍色寶石奇點
+item.universalSingularities.extraPlanets.carbon.name=碳奇點
+item.universalSingularities.extraPlanets.crystal.name=水晶奇點
+item.universalSingularities.extraPlanets.redGem.name=紅色寶石奇點
+item.universalSingularities.extraPlanets.whiteGem.name=白色寶石奇點
+//ExtraPlanets
+
+//ExtraTiC
+item.universalSingularities.extraTiC.fairy.name=精靈奇點
+item.universalSingularities.extraTiC.pokefennium.name=鐵血奇點
+//ExtraTiC
+
+//Extra Utilities
+item.universalSingularities.extraUtilities.unstable.name=不穩定金屬奇點
+//Extra Utilities
+
+//Utilities in Excess
+item.universalSingularities.utilitiesinexcess.inverted.name=反相鐵奇點
+//Utilities in Excess
+
+//Mekanism
+item.universalSingularities.mekanism.refinedGlowstone.name=強化熒石奇點
+item.universalSingularities.mekanism.refinedObsidian.name=強化黑曜石奇點
+//Mekanism
+
+//Metallurgy 4
+//Utility
+item.universalSingularities.metallurgy.bitumen.name=瀝青奇點
+item.universalSingularities.metallurgy.potash.name=碳酸鉀奇點
+//Alloys - Base
+item.universalSingularities.metallurgy.angmallen.name=金鐵奇點
+item.universalSingularities.metallurgy.hepatizon.name=魂晶奇點
+//Alloys - Ender
+item.universalSingularities.metallurgy.desichalkos.name=虛空魂石奇點
+//Alloys - Fantasy
+item.universalSingularities.metallurgy.celenegil.name=幽冥毒晶奇點
+item.universalSingularities.metallurgy.haderoth.name=幻銅奇點
+item.universalSingularities.metallurgy.tartarite.name=熔火之石奇點
+//Alloys - Nether
+item.universalSingularities.metallurgy.amordrine.name=魔石奇點
+item.universalSingularities.metallurgy.inolashite.name=暗影秘銀藍金奇點
+//Metallurgy 4
+
+//PneumaticCraft
+item.universalSingularities.pneumaticCraft.compressedIron.name=緻密鐵奇點
+//PneumaticCraft
+
+//ProjectRed
+item.universalSingularities.projectRed.electrotine.name=藍石奇點
+//ProjectRed
+
+//Redstone Arsenal
+item.universalSingularities.redstoneArsenal.crystalFlux.name=紅石水晶奇點
+//Redstone Arsenal
+
+//Tinkers' Construct
+item.universalSingularities.tinkersConstruct.aluminumBrass.name=鋁黃銅奇點
+item.universalSingularities.tinkersConstruct.alumite.name=耐酸鋁奇點
+item.universalSingularities.tinkersConstruct.ardite.name=阿迪特奇點
+item.universalSingularities.tinkersConstruct.cobalt.name=鈷奇點
+item.universalSingularities.tinkersConstruct.ender.name=末影奇點
+item.universalSingularities.tinkersConstruct.glue.name=凝膠奇點
+item.universalSingularities.tinkersConstruct.manyullyn.name=瑪玉靈奇點
+//item.universalSingularities.tinkersConstruct.pigIron.name=生鐵奇點
+//Tinkers' Construct
+
+
+/*Removed
+ * item.universalSingularities.general.salt.name=鹽奇點
+ * item.universalSingularities.extraTiC.red_aurum.name=紅金奇點
+ */

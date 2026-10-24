@@ -1,0 +1,68 @@
+ggfab.waila.advassline.slice=片#%s：%s s / %s s
+ggfab.waila.advassline.slice.small=片#%s：%s t / %s t
+ggfab.waila.advassline.slice.idle=片#%s：待機
+ggfab.waila.advassline.slice.stuck=片#%s：§4堵塞
+ggfab.gui.advassline.slice.idle=片#%s：待機
+ggfab.gui.advassline.slice.stuck=片#%s：§4堵塞
+ggfab.gui.advassline.slice.unknown=片#%s：?
+ggfab.gui.advassline.shutdown=§4上次異常關機原因：
+ggfab.gui.advassline.shutdown_clear=§6清除
+ggfab.gui.advassline.shutdown.input_buses=§4輸入匯流排過少不足以支援當前配方
+ggfab.gui.advassline.shutdown.recipe_null=§4配方為 null （報告給作者）
+ggfab.gui.advassline.shutdown.fluid_null=§4流體獲取失敗（檢查你的ME流體儲存）
+ggfab.gui.advassline.shutdown.structure=§4不相容的結構變化
+ggfab.gui.advassline.shutdown.energy=§4功率不足
+ggfab.gui.advassline.shutdown.load.energy=§4載入了無效的電力資訊
+ggfab.gui.advassline.shutdown.load.recipe=§4不相容的配方切換
+
+ggfab.info.linked_input_bus.not_owned=§6該配置是從其他所有者處複製的!
+ggfab.info.linked_input_bus.no_data=§6找不到配置資料!
+ggfab.info.linked_input_bus.invalid_data=§6配置資料存在但已失效!
+ggfab.info.linked_input_bus.invalid_circuit=§6配置資料存在但包含對這個匯流排無效的電路板!
+ggfab.info.linked_input_bus.data_pasted=§2已貼上頻道 ("%s§2") 與程式設計電路設定!
+ggfab.info.linked_input_bus.data_copied=§2已複製頻道 ("%s§2") 與程式設計電路設定!
+ggfab.info.linked_input_bus.no_channel=§6尚未指定頻道!
+
+ggfab.info.biome=生物群系：
+
+ggfab.tooltip.linked_input_bus.change_freq_warn=修改一個頻道上最後一個匯流排的頻道，將導致剩餘物品全部掉出來!
+ggfab.tooltip.linked_input_bus.private=私人頻道不與他人共享.
+ggfab.tooltip.linked_input_bus.private.1=修改一個頻道上最後一個匯流排的頻道，將導致剩餘物品全部掉出來!
+
+ggfab.gui.linked_input_bus.private=私人
+ggfab.gui.linked_input_bus.channel=頻道
+
+# Advanced Assembly Line tooltip
+ggfab.tt.advassline.machine_type=裝配線，AAL
+ggfab.tt.advassline.structure.controller=第三層，第一片
+ggfab.tt.advassline.structure.data_access_location=任意非第一片格柵機械方塊
+ggfab.tt.advassline.structure.energy_location=任意第四層機械方塊
+ggfab.tt.advassline.structure.layer1_side_casing=任意第一片側面機械方塊
+ggfab.tt.advassline.structure.input_bus_location=每片的底面中心
+ggfab.tt.advassline.structure.output_bus_location=任意最後一片的第一層機械方塊
+ggfab.tt.advassline.structure.layer4=§f第四層：§7空，脫氧鋼機械方塊，空
+ggfab.tt.advassline.structure.layer3=§f第三層：§7格柵機械方塊，裝配線外殼，格柵機械方塊
+ggfab.tt.advassline.structure.layer2=§f第二層：§7任意等級玻璃，裝配線方塊，任意等級玻璃
+ggfab.tt.advassline.structure.layer1=§f第一層：§7脫氧鋼機械方塊，輸入匯流排，脫氧鋼機械方塊
+ggfab.tt.advassline.structure.footer=最大16片，每片允許配方中多一項輸入
+
+# Multiblocks
+gt.blockmachines.ggfab.machine.adv_assline.name=進階裝配線
+
+# Single use tools
+gt.ggfab.d1.0.name=一次性銼刀
+gt.ggfab.d1.1.name=一次性扳手
+gt.ggfab.d1.2.name=一次性撬棍
+gt.ggfab.d1.3.name=一次性剪線鉗
+gt.ggfab.d1.30.name=模具（一次性銼刀）
+gt.ggfab.d1.31.name=模具（一次性扳手）
+gt.ggfab.d1.32.name=模具（一次性撬棍）
+gt.ggfab.d1.33.name=模具（一次性剪線鉗）
+gt.ggfab.d1.34.name=模具（一次性鍛造錘）
+gt.ggfab.d1.35.name=模具（一次性軟錘）
+gt.ggfab.d1.36.name=模具（一次性螺絲刀）
+gt.ggfab.d1.37.name=模具（一次性鋸子）
+gt.ggfab.d1.4.name=一次性鍛造錘
+gt.ggfab.d1.5.name=一次性軟錘
+gt.ggfab.d1.6.name=一次性螺絲刀
+gt.ggfab.d1.7.name=一次性鋸子

@@ -1,0 +1,11 @@
+itemGroup.avaritiaddons=無盡貪婪拓展
+
+tile.CompressedChest.name=壓縮箱子
+tile.InfinityChest.name=無盡箱子
+tile.ExtremeAutoCrafter.name=夢魘工作臺
+
+container.CompressedChest=壓縮箱子
+container.InfinityChest=無盡箱子
+container.ExtremeAutoCrafter=夢魘工作臺
+
+tooltip.fillingRange=%1$s / %2$s

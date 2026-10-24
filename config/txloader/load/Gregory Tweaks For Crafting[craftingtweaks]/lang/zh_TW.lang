@@ -1,0 +1,14 @@
+key.categories.craftingtweaks=格雷的合成輔助
+key.craftingtweaks.rotate=旋轉
+key.craftingtweaks.clear=清空
+key.craftingtweaks.balance=均分
+key.craftingtweaks.toggleButtons=切換按鈕
+key.craftingtweaks.compress=壓縮物品
+key.craftingtweaks.decompress=解壓物品
+
+tooltip.craftingtweaks.rotate=旋轉
+tooltip.craftingtweaks.balance=均分
+tooltip.craftingtweaks.spread=展開
+tooltip.craftingtweaks.clear=清空
+tooltip.craftingtweaks.forceClear=強制清空
+tooltip.craftingtweaks.forceClearInfo=必要時掉落物品

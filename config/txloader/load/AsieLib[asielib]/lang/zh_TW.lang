@@ -1,0 +1,8 @@
+commands.realname.usage=/realname <暱稱>
+commands.realname.is=這個人的真名是 %s
+commands.realname.isNot=這個人沒有真名!
+commands.me.usage=/me <...>
+commands.nick.usage=/nick <暱稱> ('-' 來移除暱稱)
+commands.nick.usage.op=/nick [目標玩家] <暱稱> ('-' 來移除暱稱)
+commands.nick.done=暱稱變更為 %s
+item.asielib.unknown.name=未知部分

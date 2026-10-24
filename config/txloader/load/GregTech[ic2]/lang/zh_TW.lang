@@ -1,0 +1,35 @@
+ic2.itemEnergeticRotor=充能合金轉子
+ic2.itemTungstenSteelRotor=鎢鋼轉子
+ic2.itemVibrantRotor=脈衝合金轉子
+ic2.itemIridiumRotor=銥轉子
+
+ic2.itemMagnaliumRotor=鎂鋁合金轉子
+ic2.itemUltimetRotor=哈氏合金轉子
+
+ic2.blockGenerator=放射性同位素溫差發電機之力
+ic2.blockGenerator.0=放射性同位素溫差發電機之力
+ic2.blockGenerator.1=動 能 之 力
+ic2.blockGenerator.2=錯 誤 之 力
+ic2.blockGenerator.3=更 多 錯 誤 之 力
+
+ic2.blockRTGenerator2=放射性同位素溫差發電機之力2
+ic2.blockKineticGenerator2=動 能 之 力2
+
+ic2.HydrofluoricAcid=工業氫氟酸單元
+ic2.SulfurDioxide=二氧化硫單元
+ic2.SulfuricApatite=硫酸磷灰石單元
+ic2.SulfurousAcid=亞硫酸單元
+
+ic2.HydrogenChloride=工業氯化氫單元
+ic2.LithiumHydroxide=氫氧化鋰單元
+ic2.SulfuricLithium=硫酸鋰單元
+
+ic2.UraniumHexaFluoride=六氟化鈾單元
+ic2.ThoriumTetraFluoride=四氟化釷單元
+ic2.UraniumTetraFluoride=四氟化鈾單元
+
+
+ic2.itemArmorHazmatHelmetEx=高階防化頭盔
+ic2.itemArmorHazmatChestplateEx=高階防化服
+ic2.itemArmorHazmatLeggingsEx=高階防化護腿
+ic2.itemArmorRubBootsEx=高階防化靴子

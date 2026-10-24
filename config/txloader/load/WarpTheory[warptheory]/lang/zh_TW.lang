@@ -1,0 +1,146 @@
+
+# << creative tab name >>
+itemGroup.warptheory.tab=神秘扭曲學
+
+# << chat item effects >>
+chat.warptheory.purgeminor=你感覺好些了
+chat.warptheory.purge=對此你有一種糟糕的預感...
+chat.warptheory.purgefail=沒什麼特別的事情發生
+chat.warptheory.purgefailed=它看起來沒什麼用
+chat.warptheory.addwarp=你恍覺什麼奇怪的東西朝你蠕動而來...
+chat.warptheory.minorwarp=沒什麼反應.
+chat.warptheory.averagewarp=試紙呈現出一種病態的顏色.
+chat.warptheory.majorwarp=試紙碎成了粉屑.
+chat.warptheory.deadlywarp=試紙燃燒起來.
+chat.warptheory.permanentwarp=陰魂不散的扭曲.
+chat.warptheory.normalwarp=一般的扭曲.
+chat.warptheory.tempwarp=浮於表面的扭曲.
+chat.warptheory.potionwarning.1=§c§l§n警告§r§c：飲用此藥水將重置§l所有扭曲、研究、掃描物品以及已發現要素§r§c！
+chat.warptheory.potionwarning.2=如果你真的確定要重置所有內容，§c請繼續保持飲用§l10秒§r§c。
+
+# << Item names >>
+item.warptheory.cleanserminor.name=汙穢淚水
+item.warptheory.cleanser.name=純淨淚水
+item.warptheory.amulet.name=淨化護身符
+item.warptheory.something.name=塊狀物
+item.warptheory.paper.name=奧術石蕊試紙
+item.warptheory.oblivionpotion.name=極樂遺忘藥水
+
+# << entity names >>
+entity.WarpTheory.taintSheepSafe.name=腐化羊
+entity.WarpTheory.creeperFake.name=虛假苦力怕
+entity.WarpTheory.creeperPassive.name=友好苦力怕
+entity.WarpTheory.doppelganger.name=另一個自我
+entity.WarpTheory.phantom.name=幻影
+
+# << tooltips >>
+tooltip.warptheory.cleanserminor=它缺了些什麼...
+tooltip.warptheory.cleanser=咔咔作響
+tooltip.warptheory.amulet=祛除扭曲
+tooltip.warptheory.something=沒準能吃...
+tooltip.warptheory.paper=對扭曲產生反應
+tooltip.warptheory.portableshower=洗掉你的汙垢
+tooltip.warptheory.oblivionpotion=§c§l§n終極應急預案§r
+
+# << portable shower >>
+tc.research_name.warptheory.portableshower=行動式沐浴器
+tc.research_text.warptheory.portableshower=一種更世俗的方法來洗淨思維
+research.warptheory.portableshower=你意識到,當你穿上你最喜歡的盔甲時,你仍然感到很瘋狂.因此,你花了很長時間思考解決這個問題的方法……當你在擺弄你的SPA設施時,你突然靈光一現:“洗澡一時爽,一直洗澡一直爽!”.於是,你製作了這個簡單的護身符,它會為你釀造神秘的SPA水,使用天然的精華以及從環境中汲取的一些能量.
+
+# << hunk of something >>
+tc.research_name.warptheory.something=腐化梅
+tc.research_text.warptheory.something=絕對不是什麼令人愉快的東西
+research.warptheory.warpsomething=你無意之中發現如果把一些肉暴露在邪術能量中它們會變成別的玩意兒.額……什麼事情都追究到底可不是好事.
+
+# << Impure tear >>
+tc.research_name.warptheory.cleanserminor=汙穢淚水
+tc.research_text.warptheory.cleanserminor=魔法藥劑
+research.warptheory.warpcleanserminor=你為了處理扭曲已經花了太多時間,是時候嘗試找到一種擺脫它的方法了.你決定嘗試將發現的幾種清潔類物品混合起來.<BR>你成功了,但它的效果基於百分比,所以你無法完全擺脫扭曲.但至少可以避免那些最嚴重的扭曲效果(人形自走凋靈刷怪籠,拆家冠軍)(50扭曲時,生效機率為1%.150扭曲時,生效機率為100%)<BR>你懷疑如果有更好的材料,也許你能製作出更有效的版本.
+
+# << pure tear >>
+tc.research_name.warptheory.cleanser=純淨淚水
+tc.research_text.warptheory.cleanser=魔法藥劑
+research.warptheory.warpcleanser=透過融合幽魂眼淚治癒的特性,世界鹽的魔力特性以及水晶的穩定特性,你發現一種祛除體內負面魔法能量的方法.<BR>但這種方法並非毫無代價,所有這些負面的魔法能量都彙集往某個地方.
+
+# << purification talisman >>
+tc.research_name.warptheory.amulet=淨化護身符
+tc.research_text.warptheory.amulet=不僅僅是一個簡單的幸運符
+research.warptheory.amulet=你已經找到一種處理純淨淚水的方式, 經過這種處理, 淨化淚水的持續時間延長而且不會產生消化不良.<BR>透過簡單地將兩個淚水合成護身符並使其具有某種魔力, 一種能夠持續吸收負面魔法能量並釋放到環境中的護身符就做好了.
+
+# << litmus paper >>
+tc.research_name.warptheory.paper=奧術石蕊試紙
+tc.research_text.warptheory.paper=近乎科學
+research.warptheory.paper=你已經決定, 你需要更精確的東西來衡量你體內負面魔法能量的積累, 而不是統計你周圍發生了什麼扭曲反應.<BR>透過將世界鹽與水之源質注入紙張中, 你製造出一種能精確讀取你自己究竟暴露在多高的危險之中的試紙.
+
+# << Oblivion Potion >>
+tc.research_name.warptheory.oblivionpotion=極樂遺忘藥水
+tc.research_text.warptheory.oblivionpotion=緊急時開啟
+research.warptheory.oblivionpotion.1=知識或許是力量，但有人說無知便是福。若你發現自己陷入了真正的絕境，頭腦因扭曲而負擔過重，無法恢復，你便設計出了一套終極應急方案：極樂遺忘藥水。<BR>飲用此藥水後，你身上的扭曲將被徹底清除。然而，這份安寧會帶來可怕的代價：你所有研究的知識、所有用神秘視鏡掃描過的物品，以及發現的所有要素，都將被遺忘。
+research.warptheory.oblivionpotion.2=這種損失是絕對且不可逆轉的。你將被迫從頭開始你的求知之路。儘管可能存在更精妙的淨化心靈的方法，但這種藥水仍然是一種絕望但可靠的最後手段。
+
+# << chat warp effects >>
+chat.warptheory.bats=撲響聲迴盪在空氣中...
+chat.warptheory.blink=你突然迷失了方向...
+chat.warptheory.poison=你的血管裡彷彿流淌著火焰...
+chat.warptheory.nausea=你的胃開始疼痛...
+chat.warptheory.jump=你感到身體輕盈起來...
+chat.warptheory.blind=世界陷入黑暗當中...
+chat.warptheory.biomeDecay=你感到陷入了衰老...
+chat.warptheory.ears=你聽到一陣耳鳴...
+chat.warptheory.biomeSwamp=你感到充滿活力...
+chat.warptheory.tongue=你的舌頭麻木了...
+chat.warptheory.friend=孤獨感突然襲上心頭...
+chat.warptheory.livestock=你覺得有一點餓了...
+chat.warptheory.wind=一陣怪風颳過...
+chat.warptheory.chests=一陣涼意順著脊骨爬下...
+chat.warptheory.blood=你嗅到一陣內臟的腥味...
+chat.warptheory.acceleration=好像是很快的東西...
+chat.warptheory.lightning=你的頭髮根根豎立...
+chat.warptheory.fall=你猛然間覺得暈頭轉向...
+chat.warptheory.rain=你聽到遠處隆隆作響...
+chat.warptheory.wither=你感到惶恐而不知所措...
+
+# << GTNH new warp effects >>
+chat.warptheory.blazefireball=你感到喉嚨陣陣灼痛
+chat.warptheory.coin=你的腳邊發現有閃閃發亮的東西！
+chat.warptheory.countdownbomb.10=10
+chat.warptheory.countdownbomb.9=9
+chat.warptheory.countdownbomb.8=8
+chat.warptheory.countdownbomb.7=7
+chat.warptheory.countdownbomb.6=6
+chat.warptheory.countdownbomb.5=5
+chat.warptheory.countdownbomb.4=4
+chat.warptheory.countdownbomb.3=3
+chat.warptheory.countdownbomb.2=2
+chat.warptheory.countdownbomb.1=1
+chat.warptheory.countdownbomb.0=BOOM！
+chat.warptheory.doppelganger=你察覺到自己旁邊...
+chat.warptheory.doppelganger.name=%s的幻影
+chat.warptheory.doppelganger.heal=你感覺另一個自己正在助你度過難關
+chat.warptheory.doppelganger.hurt=你感覺到自己的幻影在吶喊
+chat.warptheory.doppelganger.die=你感覺到自己的幻影消失了
+chat.warptheory.enderpearl=你咳出了一些奇怪的東西
+chat.warptheory.endermen=他們在這兒！快跑！
+chat.warptheory.firebats=撲響聲迴盪在空氣中...
+chat.warptheory.insomnia=你感覺自己精神抖擻
+chat.warptheory.insomnia.wakeup=你無法入睡！
+chat.warptheory.junk=嘿，免費的東西！
+chat.warptheory.litmuspaper=在你耳邊的聲音低語著,"你應該需要這個"
+chat.warptheory.message.0=你好像聽到了風妖的嚎叫...
+chat.warptheory.message.1=你記不起來之前要做什麼了
+chat.warptheory.message.2=感覺身體被掏空
+chat.warptheory.message.3=你顫抖了一會兒
+chat.warptheory.message.4=你感覺很糟...
+chat.warptheory.message.5=你有點心不在焉
+chat.warptheory.message.6=你的餘光好像看到了些什麼
+chat.warptheory.message.7=黑暗的景象充斥著你的腦海
+chat.warptheory.message.8=該停下玩耍休息一下了
+chat.warptheory.biomeMushrooms=孢子和黴菌的氣息充斥著你的鼻腔...
+chat.warptheory.obsidian=你的思維實質化
+chat.warptheory.pumpkin=你看起來陰森可怖...
+chat.warptheory.biomeSnow=你的吐息在寒冷的空氣中凝結...
+chat.warptheory.wanddrain=你的法杖摸起來微微發熱...
+chat.warptheory.witherpotion=你感覺非常糟糕...
+
+# << Research stuff >>
+tc.research_category.WT_Category=神秘扭曲學

@@ -1,0 +1,16 @@
+# gui - categories
+lunatriuscore.config.category.versioncheck=版本檢測
+lunatriuscore.config.category.tweaks=微調
+
+# gui - config - update checker
+lunatriuscore.config.checkForUpdates=檢測版本更新
+lunatriuscore.config.checkForUpdates.tooltip=是否讓該Mod檢測版本更新?
+lunatriuscore.config.silenceKnownUpdates=靜默更新已知的新版本
+lunatriuscore.config.silenceKnownUpdates.tooltip=是否讓該Mod只提醒你新版本的更新(每個版本只提醒一次)?
+
+# gui - config - tweaks
+lunatriuscore.config.replaceInGameConfig=替換Config GUI
+lunatriuscore.config.replaceInGameConfig.tooltip=將FML測試config GUI替換為working GUI.
+
+# messages
+lunatriuscore.message.updatesavailable=有新的%s更新可用.

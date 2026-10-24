@@ -1,0 +1,363 @@
+----Item Names----
+item.thaumicexploration:tentacleRing.name=腐化指環
+item.thaumicexploration:stabilizerBelt.name=奧法加護腰帶
+item.thaumicexploration:pureZombieBrain.name=淨化殭屍之腦
+item.thaumicexploration:transmutationCore.name=轉化杖柄
+item.thaumicexploration:transmutationStaffCore.name=轉化杖芯
+item.thaumicexploration:amberCore.name=琥珀杖柄
+item.thaumicexploration:amberStaffCore.name=琥珀杖芯
+item.thaumicexploration:breadCore.name=麵包杖柄
+item.thaumicexploration:necroStaffCore.name=亡靈杖芯
+item.thaumicexploration:capSojourner.name=寄生杖端
+item.thaumicexploration:capSojournerInert.name=惰性寄生杖端
+item.thaumicexploration:capMechanist.name=機械杖端
+item.thaumicexploration:capMechanistInert.name=惰性機械杖端
+item.thaumicexploration:maskEvil.name=殘暴面具
+item.thaumicexploration:bootsMeteor.name=流星之靴
+item.thaumicexploration:bootsComet.name=彗星之靴
+item.thaumicexploration:runicBootsMeteor.name=符文流星之靴
+item.thaumicexploration:runicBootsComet.name=符文彗星之靴
+item.thaumicexploration:theCandle.name=蠟燭
+
+item.thaumicexploration:enhancedHelmetRunic.name=增強符文頭巾
+item.thaumicexploration:enhancedChestplateRunic.name=增強符文胸甲
+item.thaumicexploration:enhancedLeggingsRunic.name=增強符文腿甲
+item.thaumicexploration:enhancedBootsRunic.name=增強符文之靴
+
+item.thaumicexploration:dreamcatcher.name=辟邪符
+item.thaumicexploration:ringTaint.name=腐化之環
+item.thaumicexploration:talismanFood.name=補給之符
+item.thaumicexploration:taintBerry.name=腐化漿果
+item.thaumicexploration:necroAltar.name=巫術基座
+thaumicexploration.bread0=你會和我做朋友麼?
+thaumicexploration.bread1=請吃了我(English)
+thaumicexploration.bread2=你餓了麼?
+thaumicexploration.bread3=你好，先生
+thaumicexploration.bread4=請吃了我(French)
+
+item.thaumicexploration:discountRing.name=戒指
+item.thaumicexploration:discountRing:0.name=風之指環
+item.thaumicexploration:discountRing:1.name=地之指環
+item.thaumicexploration:discountRing:2.name=火之指環
+item.thaumicexploration:discountRing:3.name=水之指環
+item.thaumicexploration:discountRing:4.name=秩序指環
+item.thaumicexploration:discountRing:5.name=混沌指環
+
+tc.aspect.Necromantic Energy=亡靈的力量
+
+----Creative Tab----
+itemGroup.thaumicExploration=神秘探險
+
+----Death Messages----
+death.attack.witherMask=%1$s因%2$s枯萎了
+death.attack.noTaint=%1$s被腐化了
+potion.binding=束縛
+potion.taintWithdrawl=腐化
+
+----Misc---
+soulbrazier.invalidplayer=火盆發出抱怨並吐出了它，因為火盆拒絕為未知靈魂工作。
+soulbrazier.nopower=火盆拒絕工作,因為它都快被燒乾了.
+soulbrazier.noWarp=你沒有需要擺脫的永久扭曲了.
+soulbrazier.norange=火盆離你太遠了，無法與你的靈魂建立連線。
+soulbrazier.storeWarp=隨著火盆接過永久扭曲的負擔，你感到意識清明。
+soulbrazier.returnWarp=隨著火盆中的永久扭曲迴歸，你感到頭痛欲裂。
+txitems.boundJar.networkInfo=網路 ID: %s
+txitems.boundJar.noNetworkInfo=沒有網路
+
+txwaila.boundJar.network=網路: %s
+txwaila.boundJar.colour=顏色: %S
+
+ttwaila.soulBrazier.essentia=源質: %d
+ttwaila.soulBrazier.vis=Vis: %d
+ttwaila.soulBrazier.active=工作中
+ttwaila.soulBrazier.notActive=不工作
+ttwaila.soulBrazier.warp=扭曲: %d
+ttwaila.soulBrazier.owner=擁有者: %s
+----Enchantment Names----
+enchantment.binding=束縛
+enchantment.nightVision=夜視
+enchantment.disarm=繳械
+
+----Wand Names----
+item.Wand.AMBER.rod=琥珀杖
+item.Wand.BREAD.rod=麵包杖
+item.Wand.TRANSMUTATION.rod=轉化杖
+item.Wand.NECROMANCER.rod=亡靈杖
+item.Wand.SOJOURNER.cap=寄生端
+item.Wand.MECHANIST.cap=機械端
+
+----Blank Seals----
+item.thaumicexploration:blankSeal:Pale.name=白色空封蠟
+item.thaumicexploration:blankSeal:Orange.name=橙色空封蠟
+item.thaumicexploration:blankSeal:Magenta.name=品紅色空封蠟
+item.thaumicexploration:blankSeal:Light Blue.name=淡藍色空封蠟
+item.thaumicexploration:blankSeal:Yellow.name=黃色空封蠟
+item.thaumicexploration:blankSeal:Lime.name=黃綠色空封蠟
+item.thaumicexploration:blankSeal:Pink.name=粉色空封蠟
+item.thaumicexploration:blankSeal:Gray.name=灰色空封蠟
+item.thaumicexploration:blankSeal:Light Gray.name=淡灰色空封蠟
+item.thaumicexploration:blankSeal:Cyan.name=青色空封蠟
+item.thaumicexploration:blankSeal:Purple.name=紫色空封蠟
+item.thaumicexploration:blankSeal:Blue.name=藍色空封蠟
+item.thaumicexploration:blankSeal:Brown.name=棕色空封蠟
+item.thaumicexploration:blankSeal:Green.name=綠色空封蠟
+item.thaumicexploration:blankSeal:Red.name=紅色空封蠟
+item.thaumicexploration:blankSeal:Dark.name=黑色空封蠟
+
+----Chest Seals----
+item.thaumicexploration:chestSeal.name=箱子封蠟
+item.thaumicexploration:chestSeal:Pale.name=白色箱子封蠟
+item.thaumicexploration:chestSeal:Orange.name=橙色箱子封蠟
+item.thaumicexploration:chestSeal:Magenta.name=品紅色箱子封蠟
+item.thaumicexploration:chestSeal:Light Blue.name=淡藍色箱子封蠟
+item.thaumicexploration:chestSeal:Yellow.name=黃色箱子封蠟
+item.thaumicexploration:chestSeal:Lime.name=黃綠色箱子封蠟
+item.thaumicexploration:chestSeal:Pink.name=粉色箱子封蠟
+item.thaumicexploration:chestSeal:Gray.name=灰色箱子封蠟
+item.thaumicexploration:chestSeal:Light Gray.name=淡灰色箱子封蠟
+item.thaumicexploration:chestSeal:Cyan.name=青色箱子封蠟
+item.thaumicexploration:chestSeal:Purple.name=紫色箱子封蠟
+item.thaumicexploration:chestSeal:Blue.name=藍色箱子封蠟
+item.thaumicexploration:chestSeal:Brown.name=棕色箱子封蠟
+item.thaumicexploration:chestSeal:Green.name=綠色箱子封蠟
+item.thaumicexploration:chestSeal:Red.name=紅色箱子封蠟
+item.thaumicexploration:chestSeal:Dark.name=黑色箱子封蠟
+
+----Jar Seals----
+item.thaumicexploration:jarSeal.name=罐子封蠟
+item.thaumicexploration:jarSeal:Pale.name=白色罐子封蠟
+item.thaumicexploration:jarSeal:Orange.name=橙色罐子封蠟
+item.thaumicexploration:jarSeal:Magenta.name=品紅色罐子封蠟
+item.thaumicexploration:jarSeal:Light Blue.name=淡藍色罐子封蠟
+item.thaumicexploration:jarSeal:Yellow.name=黃色罐子封蠟
+item.thaumicexploration:jarSeal:Lime.name=黃綠色罐子封蠟
+item.thaumicexploration:jarSeal:Pink.name=粉色罐子封蠟
+item.thaumicexploration:jarSeal:Gray.name=灰色罐子封蠟
+item.thaumicexploration:jarSeal:Light Gray.name=淡灰色罐子封蠟
+item.thaumicexploration:jarSeal:Cyan.name=青色罐子封蠟
+item.thaumicexploration:jarSeal:Purple.name=紫色罐子封蠟
+item.thaumicexploration:jarSeal:Blue.name=藍色罐子封蠟
+item.thaumicexploration:jarSeal:Brown.name=棕色罐子封蠟
+item.thaumicexploration:jarSeal:Green.name=綠色罐子封蠟
+item.thaumicexploration:jarSeal:Red.name=紅色罐子封蠟
+item.thaumicexploration:jarSeal:Dark.name=黑色罐子封蠟
+
+----Block Names----
+tile.thaumicexploration:thinkTankJar.name=冥想之缸
+tile.thaumicexploration:everfullUrn.name=無盡之壺
+tile.thaumicexploration:everburnUrn.name=煉獄之壺
+tile.thaumicexploration:crucibleSouls.name=靈魂坩堝
+tile.thaumicexploration:replicator.name=神秘複製器
+tile.thaumicexploration:trashJar.name=泯滅之罐
+tile.thaumicexploration:soulBrazier.name=靈魂火盆
+tile.boundJar.name=繫結罐子
+tile.boundChest.name=繫結箱子
+tile.thaumicexploration:floatCandle.name=浮燭
+tile.thaumicexploration:floatCandle.0.name=白色浮燭
+tile.thaumicexploration:floatCandle.1.name=橙色浮燭
+tile.thaumicexploration:floatCandle.2.name=品紅色浮燭
+tile.thaumicexploration:floatCandle.3.name=淡藍色浮燭
+tile.thaumicexploration:floatCandle.4.name=黃色浮燭
+tile.thaumicexploration:floatCandle.5.name=黃綠色浮燭
+tile.thaumicexploration:floatCandle.6.name=粉色浮燭
+tile.thaumicexploration:floatCandle.7.name=灰色浮燭
+tile.thaumicexploration:floatCandle.8.name=淡灰色浮燭
+tile.thaumicexploration:floatCandle.9.name=青色浮燭
+tile.thaumicexploration:floatCandle.10.name=紫色浮燭
+tile.thaumicexploration:floatCandle.11.name=藍色浮燭
+tile.thaumicexploration:floatCandle.12.name=棕色浮燭
+tile.thaumicexploration:floatCandle.13.name=綠色浮燭
+tile.thaumicexploration:floatCandle.14.name=紅色浮燭
+tile.thaumicexploration:floatCandle.15.name=黑色浮燭
+tile.thaumicexploration:autoSorter.name=自動分揀器
+
+----Thaumonomicon Entries----
+te.researchPrefix=[TX]
+tc.research_category.TAINT=腐化學
+tc.research_category.NECROMANCY=死靈學
+tc.research_category.TX=秘術學
+
+--Oblivion Jar
+te.name.TRASHJAR=泯滅之罐
+te.tag.TRASHJAR=源質銷燬
+te.text.TRASHJAR.1=儘管虛空罐子在大量消除某種源質時很有用，多數情況下你的注魔室總是溢滿了多種源質。與其浪費時間給每種準備一個虛空罐子，你覺得還有更簡單的解決方法。顯然這個方法就是使用泯滅之罐。<BR><BR>雖然比起作為原料的虛空罐子和守衛著玻璃要昂貴些，但一個管道系統中僅需一個泯滅之罐就可以處理所有過剩的源質。它會像盛滿的虛空罐子一樣消除所有進入其中的源質。
+te.text.TRASHJAR.2=泯滅之罐的吸力在所有罐子中是最弱的，這意味著它只會接受那些無處可去的源質。傀儡也能與它互動，前提是他們找不到其它能放入他們所帶源質的罐子。
+
+--Soul Brazier
+te.name.SOULBRAZIER=靈魂火盆
+te.tag.SOULBRAZIER=扭曲可不是鬧著玩的？
+te.text.SOULBRAZIER.1=扭曲是一個危險邪惡的力量。雖然保留在神智裡它是糟糕的，但讓其散發到世界裡將會更加糟糕，這就是我們為什麼要保持原有的扭曲。它需要節點提供vis和死亡源質，但它可以保持玩家原有的扭曲，且不會對環境造成太大的傷害
+
+
+--Taintacle Ring
+te.name.TENTACLERING=腐化指環
+te.tag.TENTACLERING=幫手
+te.text.TENTACLERING.1=你找到了一種方法利用從研究腐化之地所得的知識。你能召喚出小觸手怪協助戰鬥，類似你旅途中所見的腐化觸手怪。<BR><BR>在你的一個指環欄裡裝備上就能啟用該效果。你在土地上受到傷害的時候，會長出一個小觸手怪，攻擊它附近的敵人。
+
+--Discount Rings
+te.name.DISCOUNTRINGS=碎片指環
+te.tag.DISCOUNTRINGS=Vis減免
+te.text.DISCOUNTRINGS.1=你發現一種方法減免法杖合成所需的源質。只需將你在地下找到的神秘碎片雕琢為指環的形式，再給它們施予魔力。<BR><BR>可以製作六種初始源質對應的指環。如果你一次性裝備兩個指環。那麼它們的減免效果就會疊加。
+
+--Thaumostatic Stabilizer
+te.name.STABILIZERBELT=奧法加護腰帶
+te.tag.STABILIZERBELT=擊退無效
+te.text.STABILIZERBELT.1=利用類似奧法韁繩中發現的技術，你做出了一條能無視擊退的特殊腰帶。每當受傷害時，你將停在原地而不是被擊退。這個裝備不管是在戰鬥，夜間旅行還是穿戴韁繩飛行時都很實用。<BR><BR>每次受到傷害時，你不會被擊飛，而是留在原地。你發現這個裝置不僅對利用裝具飛行極為有用，在夜間旅行時也同樣實用。
+
+--Floating Candles
+te.name.FLOATCANDLE=浮空蠟燭
+te.tag.FLOATCANDLE=羽加迪姆 勒維奧薩
+te.text.FLOATCANDLE.1=你總覺得油脂蠟燭還缺點什麼……<BR>利用在魔法學校所學，配合風之碎片，施上一點魔法，讓它們看著更舒服些。<BR>浮空蠟燭能直接放置在半空中，無需支撐。這些蠟燭緩慢上下浮動，讓空間變得更為神秘。<BR><BR>不幸的是，這些蠟燭對注魔似乎毫無作用。你確信在不遠的將來可以解決這個問題。
+
+--Flesh Curing
+te.name.FLESHCURE=腐肉煉製
+te.tag.FLESHCURE=變廢為寶
+te.text.FLESHCURE.1=給腐肉注入特定的源質，你發現這能使你移除腐肉中幾乎所有的腐爛和毒害作用，使它變得更有用。<BR><BR>儘管這不是十分實用的，你相信它也能做出些絕妙的東西。
+
+--Brain Curing
+te.name.BRAINCURE=僵腦淨化
+te.tag.BRAINCURE=洗腦
+te.text.BRAINCURE.1=你意識到透過類似淨化殭屍村民的過程，你可以將大腦殭屍化的過程逆轉。這些淨化的大腦有著高於殭屍之腦的智慧，所以你希望它們能在以後的創造中大顯身手。<BR><BR>注意任何種類和時長的虛弱藥水都可用。
+TO BE IMPLEMENTED: The brains also serve as a bait for zombified creatures, when dropped or placed on an arcane pedestal.
+
+--Think Tank
+te.name.THINKTANK=冥想之缸
+te.tag.THINKTANK=書是人類進步的階梯
+te.text.THINKTANK.1=自動化研究的探索最終結束了。你發現淨化的殭屍之腦能提供極好的研究協助。把幾個連同一些神秘裝置放入罐子中提供充足的書就能產生一定量的知識碎片。這個系統並不完美，並且所提供的書也在過程中消耗掉了。
+te.text.THINKTANK.2=冥想之缸有著很特別的放置要求。要建立一個工作的冥想之缸，你必須將它放在書架上，以它為中心3x3x3範圍內沒有其它佔位的東西除了書架。注意安裝冥想之缸的時候不需要用到法杖。
+
+--Chest Sealing
+te.name.CHESTSEAL=箱子封蠟
+te.tag.CHESTSEAL=神奇的容器連線
+te.text.CHESTSEAL.1=將普通的油脂製成的封蠟浸泡在各種源質的混合物中，你發現了一種方法讓箱子相互繫結從而共享所有物品。出於區分的目的可以給封蠟染上不同的顏色，而可建立的箱子繫結網路數量是無限制的。<BR><BR>用箱子封蠟右擊箱子，你能建立一個網路。右擊繫結箱子會將封蠟與該網路關聯。再用已關聯的封蠟右擊未繫結的箱子會將它他加入連線網路。注意只有空箱子才能被繫結。
+
+--Jar Sealing
+te.name.JARSEAL=罐子封蠟
+te.tag.JARSEAL=源質，無處不在的源質
+te.text.JARSEAL.1=透過調整油脂封蠟浸泡的源質混合來探究源質的神秘性，使你能繫結源質容器，尤其是，源質罐子。就像之前的封蠟一樣，罐子封蠟也能染色並且有無限制的網路數量。<BR><BR>如何建立網路參見箱子封蠟繫結相關頁面。注意只有空的罐子才能繫結。你無法繫結虛空罐子或是標籤罐子。<BR><BR>封蠟罐子有比未貼標籤的罐子強，比標籤罐子弱的吸力。
+
+--Everfull Urn
+te.name.URN=無盡之壺
+te.tag.URN=似曾相識……
+te.text.URN.1=你在研究中讀到了許多關於'無盡之壺'的東西，一個由偉大的神秘使Azanor創作的神秘裝置，作為一個無限水源而工作。你終於做出了一個能那樣工作並有其他功能的裝置。<BR><BR>你的無盡之壺不僅可以裝滿無限桶水，它也能從頂部用管道匯出水到外部容器。你的壺也能主動填滿附近的坩堝，給著火的玩家滅火。
+te.text.URN.1B=你在研究中讀到了許多關於'無盡之壺'的東西，一個由偉大的神秘使Azanor創作的神秘裝置，作為一個無限水源而工作。你終於做出了一個能那樣工作並有其他功能的裝置。<BR><BR>你的無盡之壺不僅可以裝滿無限桶水，它也能從頂部用管道匯出水到外部容器。你的壺也能主動填滿附近的坩堝，給著火的玩家滅火。<BR><BR>若是你選擇涉獵植物魔法的話，這個壺也能主動填滿附近的花葯臺。
+
+
+
+
+--Everburn Urn
+te.name.BURN=煉獄之壺
+te.tag.BURN=為什麼我要用火做？？
+te.text.BURN.1=在研究無盡之壺之後，你找到一種生成岩漿的方法。<BR><BR>你發現它和水有所不同，岩漿需要能源，所以你將其稱之為煉獄之罐，它需要Centivis驅動。你的煉獄之壺不僅能夠用桶來裝岩漿，它也能夠從頂部輸出到外部的儲罐。
+
+--Crucible of Souls
+te.name.CRUCSOULS=靈魂坩堝
+te.tag.CRUCSOULS=注意：遠離兒童。
+te.text.CRUCSOULS.1=你已發現了一種方法利用從未開發過的源質來源-活的生物。給鍊金爐注入多種神秘藥劑和精確數量的源質，就做出了一個靈魂坩堝，一個會搜尋附近的生物並緩慢抽取它們生命力的裝置，最後一擊時抽取出源質。這個過程的代價就是消除了生物正常的掉落物。產生的源質能用管道在除了頂部以外的面匯出。
+te.text.CRUCSOULS.2=靈魂坩堝十分不穩定，且有很大的機率將一些源質轉為咒波或是分解為低階源質。你得在出現問題前做些處理咒波的準備。<BR><BR>你給它裝上了基礎的保護措施使得這個裝置不會攻擊人類，但請讓你的寵物遠離。神秘的傀儡也應不。
+
+--Replicator
+te.name.REPLICATOR=神秘複製器
+te.tag.REPLICATOR=等價交換
+te.text.REPLICATOR.1=你能用鍊金爐把方塊分解為源質，現在你找到了一種方法反其道而行。你做出了一個用源質就能複製簡單建築方塊的裝置。<BR><BR>手持方塊右擊神秘複製器，就能設定模板。再用法杖右擊啟動複製器。帶上揭示之護目鏡就能看到複製器需要哪些源質，就像注魔那樣由附近的罐子提供源質。
+te.text.REPLICATOR.2=這些源質就會將模板設定的方塊塑造出來。再次啟動複製前需要取下造出的方塊。右擊會取下複製器上的任何方塊，再次右擊將會重置模板。<BR><BR>這個過程也能自動進行，用紅石訊號開啟複製和漏斗匯出方塊。
+
+--Amber Wand Core
+te.name.ROD_AMBER=琥珀杖柄
+te.tag.ROD_AMBER=再生的Vis儲存
+te.text.ROD_AMBER.1=最終你發現了琥珀實用的一面，用在製作杖柄上。琥珀的Vis儲存容量很少，儘管每種只能儲存10單位，但它有其它的長處。<BR><BR>琥珀杖柄在空的時候似乎能儲存閃現的Vis。透過這一點，你做出了一個可以在Vis未滿時快速補充所有Vis的杖柄。儘管你做出的其它一些杖柄也有回覆Vis的能力，琥珀杖柄以兩倍速回復每種vis1點而不是單獨限定某一種。
+
+--Amber Staff Core
+te.name.ROD_AMBER_staff=琥珀杖芯
+te.tag.ROD_AMBER_staff=再生的Vis儲存
+te.text.ROD_AMBER_staff.1=由琥珀製成的杖芯，可儲存各種vis25點。<BR>同琥珀杖柄一樣它也會緩慢恢復Vis儲存。
+
+--Transmutation Staff Core
+te.name.ROD_TRANSMUTATION_staff=轉化杖芯
+te.tag.ROD_TRANSMUTATION_staff=一個變為另一個
+te.text.ROD_TRANSMUTATION_staff.1=由元始魔力和各種元素碎片做成的杖芯，可儲存各種vis175點。<BR>就像轉化杖柄那樣它會將某一超出容量90%的vis轉化為其他vis。
+
+--Necromancer's Staff Core
+te.name.ROD_NECROMANCER_staff=亡靈杖芯
+te.tag.ROD_NECROMANCER_staff=亡靈之力
+te.text.ROD_NECROMANCER_staff.1=透過向白骨杖芯注入亡靈的遺留之物你做出了一個駭人的杖芯。<BR><BR>這個杖芯對嗜血的法師來說是絕佳的選擇。它擁有200點vis的儲存上限，並且4倍獲得殺怪掉落的源質。此外，這個杖芯是個近身戰鬥的能手。擊打怪物會施加凋零的力量。不幸的是，這也帶來了缺點。用於注入的黑魔法是的它對其他途徑的魔力接收能力更弱，只相當於普通法杖從節點或是其他途徑接收量的75%。
+
+--Bread Wand Core
+te.name.ROD_BREAD=麵包杖柄
+te.tag.ROD_BREAD=法式Vis儲存
+te.text.ROD_BREAD.1=Bonjour（法語你好）！昨天，你給我買了太多的法式長棍。無法就這樣放著這些麵包浪費，所以你想方設法將麵包做成了杖柄。Bon Appetit（法語祝好胃口）！
+
+--Sojourner's Wand Cap
+te.name.CAP_SOJOURNER=寄生杖端
+te.tag.CAP_SOJOURNER=靈性杖端
+te.text.CAP_SOJOURNER.1=即便有了法杖充能基座，充能仍然是個煩心事。需要經過安裝充能基座和在附近放置節點的過程。你做出了個特別的杖端，被拿在手上時它會像法杖充能基座那樣被動從周圍的節點中抽取Vis。<BR><BR>這個杖端在傳輸Vis上能力介於金杖端和神秘杖端之間。
+
+--Mechanist's Wand Cap
+te.name.CAP_MECHANIST=機械杖端
+te.tag.CAP_MECHANIST=機械師的法杖端
+te.text.CAP_MECHANIST.1=廣泛研究了節點，你意識到你已經到了除改良法杖本身提升傳輸速度外別無他法的地步。做出了一個能比普通杖端更快從節點解構並吸收Vis的杖端，結合了機械與魔法。<BR><BR>這個杖端在傳輸Vis上能力介於金杖端和神秘杖端之間。
+
+--Wispy Dreamcatcher
+te.name.DREAMCATCHER=纖細的捕夢網
+te.tag.DREAMCATCHER=被過濾的想法
+te.text.DREAMCATCHER.1=他們說捕夢網（Asabikeshiinh，又稱夢罟，源自北美印第安蘇族的護身符，印第安小孩做惡夢時，父母會在床頭掛上捕夢網）是為了驅走夢魘，不讓他們到夢裡。儘管腐化咒波汙染並不是你精神上的構成，你認為或許可以用改造的捕夢網來應付這些咒波對肉體的不良影響。<BR><BR>當你把這個捕夢網放在工具欄時，有很大的機率會避免來自咒波或是腐化生物的傷害。儘管它並不能消除所有的傷害，它一定能讓你在腐化之地的時候更安全些。
+
+--Talisman of Nourishment
+te.name.TALISMANFOOD=補給之符
+te.tag.TALISMANFOOD=填飽肚子
+te.text.TALISMANFOOD.1=在馬拉松式的研究過程中，你常常需要停下來吃東西來充飢。終於，你找到了一種可以擺脫食物需求的方法。<BR><BR>透過將飢餓之精華注入紅寶石，你製作出了一個能夠從快捷欄中的各種食物中汲取營養能量並儲存在內部的物品。當飢餓值不足時，它會自動為你補充。<BR><BR>該裝置只對普通食物有效，而那些會帶來特殊效果的食物（如腐肉和金蘋果）仍需正常食用。
+
+--Disarming Enchantment
+te.name.ENCHDISARM=附魔： 繳械
+te.tag.ENCHDISARM=卑劣手段
+te.text.ENCHDISARM.1=你做出了一個有小几率從生物手中打落武器的附魔。<BR><BR>該附魔能用於劍。附魔後，擊打生物時有機率掉落它們所持的武器。這個附魔對其他玩家無效。附魔等級越高武器掉落機率越大。
+
+--Binding Enchantment
+te.name.ENCHBINDING=附魔： 束縛
+te.tag.ENCHBINDING=還想跑？
+te.text.ENCHBINDING.1=你做出了一個能封鎖生物行動的附魔。<BR><BR>該附魔能用於劍。附魔1級的劍擊打生物會暫時減緩它們的行動。用附魔2級的劍攻擊末影人將會阻止它們的瞬間移動。擊打苦力怕則會暫時使它們無法爆炸。
+
+--Night Vision Enchantment
+te.name.ENCHNIGHTVISION=附魔： 夜視
+te.tag.ENCHNIGHTVISION=微光視力
+te.text.ENCHNIGHTVISION.1=你做出了一個能讓你在黑暗中看見的附魔。<BR><BR>該附魔能用於頭部裝備。附魔後，穿戴者將能在微光條件下保有視力，就像使用了夜視藥水一樣。<BR><BR>§o 如果安裝了§lEnderIO§r§o模組，就可以使用 “玄鋼護甲夜視 ”熱鍵來切換此功能。
+
+--Boots of the Meteor
+te.name.METEORBOOTS=流星之靴
+te.tag.METEORBOOTS=來吧，嗖~
+te.text.METEORBOOTS.1=你的旅行者之靴著實不錯，但有時你渴望著更優越的機動效能。給它灌入火與能量的原力，你做出了一雙有著無與倫比的機動力的靴子。<BR><BR>如果在蹲下時起跳，它會將以流星的力量將穿戴者朝著所視方向推進。而在半空中按下shift鍵則會將玩家以不可置信的速度推向地面，對著陸點附近的一切目標造成傷害。
+
+--Boots of the Comet
+te.name.COMETBOOTS=彗星之靴
+te.tag.COMETBOOTS=冰凍吧！
+te.text.COMETBOOTS.1=旅行者之靴很快，不過你認為它還有提升的空間。給它注入水與寒冰的力量，你做出了一雙有無比速度的靴子。<BR><BR>它讓使用者以彗星般的速度奔跑，幾秒內就能跑過大片土地。縱使有水也不能阻止你的前行。穿著彗星之靴時，水將在你的腳下暫時凍結為冰面。
+
+--Runic Boots
+te.name.RUNICBOOTS=符文元素之靴
+te.tag.RUNICBOOTS=保護和機動，一個都不能少
+te.text.RUNICBOOTS.1=想辦法將旅行者之靴與符文護甲融合很簡單，現在你準備在它的升級版上做些同樣的事情。那就是終極版的靴子，提供了機動性與保護力的融合。<BR>只要將符文的魔力加上一點神秘的能量賦予流星之靴或者彗星之靴，你就做出了一個有著符文護甲強度和你所選靴子的機動性的升級版。
+
+--Enhanced Runic Armor
+te.name.ENHANCEDRUNICARMOR=增強符文護甲
+te.tag.ENHANCEDRUNICARMOR=如此……巨大的……力量！
+te.text.ENHANCEDRUNICARMOR.1=你對符文護甲升級的大量研究讓你對只能有一個升級而失望。你也懷念神秘發泡所有的Vis減免。你沒有洩氣，製作出了一個彌補了這些不足的增強符文護甲。<BR><BR>該護甲的每一部分都可以擁有兩個而不是一個升級，為了提供更好的防護。像你的法袍那樣這套護甲也有被動的Vis減免。只有一個問題-製作成本。
+te.text.ENHANCEDRUNICARMOR.2=注意增強符文護甲的製作會移除現有的升級。<BR><BR>如果你想要覆蓋增強護甲的一個升級，你可以手持它右擊交換升級的位置。排在前面的升級就是會被覆蓋的那一個。<BR><BR>[Recipes pending……leave feedback]
+
+--Transmutative Wand Core
+te.name.ROD_TRANSMUTATION=轉化杖柄
+te.tag.ROD_TRANSMUTATION=一個變為另一個
+te.text.ROD_TRANSMUTATION.1=研究元始魔力的性質時，你發現你能偶發地將一種vis轉化為另一種。你覺得這個性質用在大多數地方不太可靠，但如果給元始魔力注入某種材料，它就能作為一個有著獨特屬性的杖柄而使用。<BR><BR>當法杖中有一種vis點數即將超過90%，它就會轉化為其他種類的vis，儘管比率低一些。<BR><BR>它還有比普通宏偉杖高的Vis儲存容量，每種vis75點。
+
+--Necro Wand
+te.name.ROD_NECROMANCER=亡靈杖柄
+te.tag.ROD_NECROMANCER=邪惡的Vis儲存
+te.text.ROD_NECROMANCER.1=對你而言到處找節點補充法杖魔力是個麻煩事。為了解決這一問題，你製作了這一有效利用死亡能量的杖柄。<BR><BR>它能兩倍吸收怪物死後遺留的魔力，快速充能法杖。不幸的是，用於注入的黑暗能量與其它形式的魔力適用性不佳。抽取節點以及其他方式獲得的魔力會有四分之一的損失。又因為該杖柄有相當於銀樹杖的儲存容量，使得二選一成為了艱難的選項。
+
+--Taint Basics
+te.name.TAINTBASICS=腐化
+te.tag.TAINTBASICS=邪惡的魔法
+te.text.TAINTBASICS.1=有時候，神秘學會變得糟糕可怖。奇蹟變成了扭曲的災難以及大片醜陋的景觀。腐化的大地是被魔法裝置排出的扭曲魔力咒波汙染了的地方。當地的花花草草會發生扭曲的變異，動物也會從普通的野獸轉變成敵對的怪物。腐化極端嚴重的腐化區域還會感染那些踐踏它脈動的鬚根的傢伙。
+te.text.TAINTBASICS.2=腐化之地能在自然界發現，但也會因糊塗的神秘使放著咒波汙染淤塞太久而生成。可以透過紫色的纖維和亮紫色的莖辨別。放著不管的話，腐化之地就會一點點向外擴張卷鬚汙染越來越多的周邊地區。泥土變為黏稠，泥濘的腐化土壤同時樹木和其它自然材料被纖維緩慢覆蓋，變為隨時可能瓦解或溶解為黏漿的不完全的硬殼包裹物。
+
+# NEI
+te.nei.replicator=神秘複製

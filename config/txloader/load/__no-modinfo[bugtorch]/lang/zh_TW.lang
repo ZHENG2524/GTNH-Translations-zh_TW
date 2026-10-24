@@ -1,0 +1,11 @@
+# Missing lang entries for Mystcraft
+myst.symbol.TerrainFlat.name=超平坦世界
+myst.symbol.TerrainVoid.name=虛空世界
+
+# Missing lang entries for Thaumcraft
+tile.blockCosmeticDoubleSlabStone.name=奧術臺階
+tile.blockCosmeticDoubleSlabWood.name=宏偉之木臺階
+
+# Missing lang entries for Extra Utilities
+tile.dirt.name=泥土
+tile.sand.name=沙子

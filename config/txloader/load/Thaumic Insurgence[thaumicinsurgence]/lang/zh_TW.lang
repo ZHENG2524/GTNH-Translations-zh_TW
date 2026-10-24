@@ -1,0 +1,69 @@
+language.name=簡體中文
+language.region=CN
+language.code=zh_CN
+
+# Miscellaneous strings
+# -- Updater strings. Please try to keep these to one line if possible.
+thaumicinsurgence.versioning.newVersion=有新版本神秘革命可用: %s
+thaumicinsurgence.versioning.critical=神秘革命已準備好關鍵更新: %s - 請更新!
+thaumicinsurgence.versioning.clickDownload=點選開啟下載頁面. 懸停獲取更新資訊.
+thaumicinsurgence.config.category.general=常規
+thaumicinsurgence.config.category.general.tooltip=常規mod配置
+thaumicinsurgence.config.category.debug=除錯
+thaumicinsurgence.config.category.debug.tooltip=啟用debug和/或資訊性訊息的選項
+thaumicinsurgence.config.category.modules=模組
+thaumicinsurgence.config.category.modules.tooltip=啟用或禁用整合的選項
+tc.research_category.THAUMICINSURGENCE=神秘革命
+
+tc.research_name.TI_InfusionIntercepter=注魔截流者
+tc.research_text.TI_InfusionIntercepter=太哈人了，我[搞成]了什麼？
+
+tc.research_name.TI_ThaumicInterfacer=狂人透鏡
+tc.research_text.TI_ThaumicInterfacer=管中窺豹
+InfusionIntercepter.1=最終,經過這麼長時間…<BR><BR>你終於做到了…<BR><BR>經過多年的努力,並與那個該死的[實體]達成了協議…<BR><BR>你終於做到了…<BR><BR>你把自己的[靈魂]注入了這個方塊<BR><BR>不知道為什麼,但你把它放在中央基座下,並將管道連線到這個方塊的底部,然後它居然[生效了!!]<BR><BR>他說他會讓你成為一個[大人物],但現在發生了什麼?
+
+PreviousIntercepterLore=你痛恨緩慢的注魔嗎?你受夠了世界加速器產生的卡頓嗎?我們有適合你的解決方案!!!只需要付出一點點[$4.99扭曲],我可以為你破解注魔矩陣,並使其支援源質供應器!將注魔截流者置於注魔祭壇中央的奧術基座下方，截流者會從底面抽取源質)
+
+item.ItemPactRing.name=誓約之戒
+
+
+tc.research_name.TI_SanitizingSoapAlpha=祛邪肥皂α
+tc.research_text.TI_SanitizingSoapAlpha=洗去過往的罪惡
+
+tc.research_name.TI_SanitizingSoapBeta=憤怒之皂
+tc.research_text.TI_SanitizingSoapBeta=他說在[無盡深淵]裡有一件[絕佳的商品]……但代價是什麼？
+
+
+unintelligbleLaughter=以前我只不過是個發郵件的傢伙，現在我已經是個[[好燙！嗷！快停下！救命啊！燙死我啦！]]的傢伙了！                                                [[令人震驚的變化不是嗎？你也可以的]]去和那個[[莫名其妙的笑聲]][[親密交流]]一下吧
+SoapAlpha.1=令你擔憂的是,你製作的祛邪肥皂雖然在奧術上無可挑剔,卻遠遠不能滿足你內心的惡魔.但是透過一點手法,你讓它的效果更進了一步!<BR><BR>你在想還有沒有辦法做到更好...
+SoapBeta.1=在回顧了上一次對肥皂的研究改進之後,你發現還有提升的空間...<BR><BR>你原來可以縫補神智上的缺口,但是仍然能感覺到心靈深處永久的裂痕,它們影響侵蝕你的神智,你卻無能為力...<BR>但現在不同了.<BR>雖然你馬上意識到不可能直接移除這些裂痕,但是在偶然中成功地把它們轉化了.
+SoapBeta.2=但還有些注意事項...<BR><BR>它的基礎成功率非常低,而且一旦失敗將會在你內心的最深處造成損害.<BR><BR>這種轉化的代價是,你每去除一點靈魂上的損傷,便會對你的神智造成兩倍的傷害.<BR><BR>你覺得還有一些辦法可以再次改進它...
+
+
+ThaumicInterfacer.1=我不太確定我是在哪找到的這套設計圖.它看起來像是某種製造或是升級魔導透鏡時的早期試作品,所以我還沒給他取好名字.這個試做品似乎能揭示一些東西,但距離完善的裝置還有很遠.                              考慮到它的製作方法和對符文矩陣的反應,它應該是某人試圖倒騰注魔過程的產物.大概只是出於好奇,畢竟一般的神秘使不會去倒騰注魔的底層機制.                             年輕的神秘使,這東西大概對你的旅途沒什麼幫助.
+
+tc.research_name.TI_DeliciousKromer=[[趕時髦的]]小[[蠕蟲]]
+tc.research_text.TI_DeliciousKromer=一次[購買]，終身[後悔]！
+
+#Tiles
+tile.pillarAlpha.name=奧術大理石柱
+tile.arcaneMarble.name=奧術大理石塊
+tile.arcaneMarbleBrick.name=奧術大理石磚
+tile.matrixAlpha.name=奧術大理石祭壇
+tile.pedestalAlpha.name=大理石基座
+
+#Items
+tile.infusionIntercepter.name=注魔截流者
+
+item.ItemRedCrown.name=紅色王冠
+item.ItemEightBitRedCrown.name=紅色王冠
+item.ItemAlastorsWand.name=憤怒魔鬼的第一支權杖
+item.ItemSanitySoapAlpha.name=祛邪肥皂α
+item.ItemSanitySoapBeta.name=憤怒之皂
+item.ItemBIGSHOT.name=[連結已遮蔽]
+
+item.ItemThaumicInterfacer.name=狂人透鏡
+
+
+
+itemGroup.Thaumic Insurgence=神秘革命

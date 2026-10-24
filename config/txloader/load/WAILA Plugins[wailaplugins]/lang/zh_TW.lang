@@ -1,0 +1,165 @@
+## General Stuff ##
+
+wp.hud.msg.yes=是
+wp.hud.msg.no=否
+
+wailaplugins.config.title=WAILA外掛 配置
+wailaplugins.config.section.blood_magic=血魔法設定
+wailaplugins.config.section.railcraft=鐵路設定
+wailaplugins.config.section.plugins=全域性設定
+
+## Blood Magic ##
+
+wp.hud.msg.currentLP=LP: 
+wp.hud.msg.capacity=祭壇容量: 
+wp.hud.msg.tier=祭壇層數: 
+wp.hud.msg.progress=轉換進度: 
+
+wp.hud.msg.owner=主人: 
+
+wp.config.AWWayofTime.altar=顯示祭壇資訊
+wp.config.AWWayofTime.chemistrySet=顯示鍊金術臺資訊
+wp.config.AWWayofTime.masterStone=顯示儀式資訊
+wp.config.AWWayofTime.teleposer=顯示傳送器資訊
+
+
+## Flaxbeard's Steam Power ##
+
+wp.hud.msg.pressure=壓力
+wp.hud.msg.open=閥門開啟
+wp.hud.msg.closed=閥門關閉
+
+wp.config.Steamcraft.crucible=顯示坩堝資訊
+wp.config.Steamcraft.gauge=顯示蒸汽壓力計資訊
+wp.config.Steamcraft.tank=顯示汽罐資訊
+wp.config.Steamcraft.valve=顯示閥門資訊
+
+
+## Forestry ##
+
+wp.hud.msg.notAnalyzed=無分析物件
+wp.hud.msg.notOwner=你不是該機器的主人
+wp.hud.msg.pollen=花粉: %s
+wp.hud.msg.pollinated=授粉物件: %s
+
+wp.hud.msg.mainbee=蜂后 %s: %s
+wp.hud.msg.secondarybee=雄蜂 %s: %s
+wp.hud.msg.breedProgress=飼養進度: %s
+wp.hud.msg.breedError=錯誤：%s
+
+wp.hud.msg.effectiveProductionMul=有效出產: %s
+wp.hud.msg.revealYield=按住Shift檢視歡欣鼓舞的額外收益
+wp.hud.msg.yieldPerHour=每小時
+wp.hud.msg.isJubilant=處於歡欣鼓舞
+wp.hud.msg.isNotJubilant=並不歡欣鼓舞
+
+wp.hud.msg.queen=蜂后
+wp.hud.msg.princess=公主蜂
+wp.hud.msg.drone=雄蜂
+
+wp.hud.msg.engineHeat=溫度: %s
+
+wp.config.Forestry.apiary=顯示蜂箱資訊
+wp.config.Forestry.heat=顯示引擎溫度
+wp.config.Forestry.leaves=顯示樹葉資訊
+wp.config.Forestry.power=顯示能量
+wp.config.Forestry.sapling=顯示樹苗資訊
+
+
+## Gregtech 5U
+
+wp.config.Gregtech5U.fluidFilter=顯示流體過濾器資訊
+wp.config.Gregtech5U.transformer=顯示變壓器
+wp.config.Gregtech5U.solar=顯示太陽能鈣化
+wp.config.Gregtech5U.machineFacing=顯示機器朝向
+wp.config.Gregtech5U.multiblock=顯示多方塊資訊
+wp.config.Gregtech5U.basicmachine=顯示基本機器資訊
+
+## IC2 Crops
+
+wp.config.IC2Crops.cropName=顯示作物名稱
+wp.config.IC2Crops.cropStats=顯示作物屬性
+wp.config.IC2Crops.plantInfo=顯示作物資訊
+wp.config.IC2Crops.envInfo=顯示環境資訊
+
+## Magical Crops ##
+
+wp.config.magicalcrops.showHover=顯示產物圖示
+
+
+## Mekanism ##
+
+wp.config.Mekanism.salination=顯示Salination Mult
+wp.config.Mekanism.portableTank=顯示Portable Tank Fluid
+wp.config.Mekanism.gas=顯示Gas
+wp.config.Mekanism.factoryType=顯示Factory Type
+wp.config.Mekanism.energy=顯示Energy
+
+
+## Railcraft ##
+
+wp.hud.msg.formed=已成型: %s
+
+wp.hud.msg.generating=產能: %d RF/t
+wp.hud.msg.engineTemp=溫度: %d / %d °C
+wp.hud.msg.temp=溫度: %d °C
+wp.hud.msg.energyStored=能量儲存: %s
+
+wp.hud.msg.charge=已充能: %s
+wp.hud.msg.needMeter=手持電錶
+
+wp.hud.msg.currentRate=當前速率：%d (%d L/s)
+wp.hud.msg.biomeHumidityRate=生物群系溼度係數: %d
+wp.hud.msg.rainingRate=降雨係數: %d
+wp.hud.msg.snowingRate=降雪係數: %d
+wp.hud.msg.cantSeeTheSkyRate=遮擋天空係數: %d
+
+wp.config.Railcraft.charge=顯示充能
+wp.config.Railcraft.energy=顯示RF能量
+wp.config.Railcraft.engines=顯示引擎資訊
+wp.config.Railcraft.heat=顯示熱量資訊
+wp.config.Railcraft.locomotives=顯示機車資訊
+wp.config.Railcraft.multiblocks=顯示多方塊核心
+wp.config.Railcraft.tanks=顯示機器流體資訊
+
+
+## RedLogic ##
+
+wp.config.RedLogic.overlay=顯示Gate Overlay
+wp.config.RedLogic.data=顯示Gate Data
+wp.config.RedLogic.strength=顯示Wire Strength
+
+# Flippable
+wp.hud.msg.flipped=翻轉: %s
+
+# Repeater
+wp.hud.msg.delay=延遲: %d
+
+# TimedGateLogic
+wp.hud.msg.interval=間隔: %s
+
+# Timer
+wp.hud.msg.currentTime=時間: %s
+
+# Counter
+wp.hud.msg.count=數量: %d
+wp.hud.msg.countMax=最大數量: %d
+wp.hud.msg.incrAmnt=增量: %d
+wp.hud.msg.decrAmnt=減量: %d
+
+# Comparator
+wp.hud.msg.mode=模式: %s
+wp.hud.msg.subtract=減法
+wp.hud.msg.compare=比較
+
+# Red Alloy Wire
+wp.hud.msg.strength=強度: %s
+
+## Resourceful Crops ##
+wp.config.ResourcefulCrops.showHover=顯示Hovering Item
+wp.config.ResourcefulCrops.showOutputItem=碎片 -> 輸出懸停
+
+## Thermal Expansion ##
+
+wp.hud.msg.augments.hidden=按住 Shift 查看強化資訊
+wp.hud.msg.augments.shown=強化資訊：
