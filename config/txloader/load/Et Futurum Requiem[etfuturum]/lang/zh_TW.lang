@@ -153,8 +153,8 @@ subtitle.entity.fox.hurt=狐狸：受傷
 subtitle.entity.fox.sniff=狐狸：嗅探
 subtitle.entity.fox.spit=狐狸：吐出
 
-subtitle.entity.boat.paddle_water=船：水中划動
-subtitle.entity.boat.paddle_land=船：陸上划動
+subtitle.entity.boat.paddle_water=船：水中劃動
+subtitle.entity.boat.paddle_land=船：陸上劃動
 
 subtitle.random.fizz=某物：嘶嘶作響
 subtitle.random.drink=啜飲
@@ -186,8 +186,8 @@ subtitle.footsteps=腳步聲
 subtitle.note.harp=音符盒：播放
 
 subtitle.liquid.water=水：流動
-subtitle.liquid.lava=岩漿：流動
-subtitle.liquid.lavapop=岩漿：迸裂
+subtitle.liquid.lava=巖漿：流動
+subtitle.liquid.lavapop=巖漿：迸裂
 
 subtitle.item.bucket.empty=鐵桶：倒空
 subtitle.item.bucket.fill=鐵桶：裝滿
@@ -304,8 +304,8 @@ subtitle.mob.endermen.idle=末影人：低鳴
 subtitle.mob.endermen.portal=末影人：傳送
 subtitle.mob.endermen.hit=末影人：受傷
 subtitle.mob.endermen.death=末影人：死亡
-subtitle.mob.magmacube.big=岩漿怪：跳動
-subtitle.mob.magmacube.small=岩漿怪：擠壓
+subtitle.mob.magmacube.big=巖漿怪：跳動
+subtitle.mob.magmacube.small=巖漿怪：擠壓
 subtitle.mob.wolf.bark=狼：嚎叫
 subtitle.mob.wolf.panting=狼：喘息
 subtitle.mob.wolf.shake=狼：搖動
@@ -437,20 +437,20 @@ item.etfuturum.tipped_arrow.potion.damageBoost.name=力量之箭
 item.etfuturum.tipped_arrow.potion.weakness.name=虛弱之箭
 
 # Blocks
-tile.etfuturum.granite.name=花崗岩
-tile.etfuturum.polished_granite.name=磨製花崗岩
+tile.etfuturum.granite.name=花崗巖
+tile.etfuturum.polished_granite.name=磨製花崗巖
 tile.etfuturum.diorite.name=閃長巖
 tile.etfuturum.polished_diorite.name=磨製閃長巖
 tile.etfuturum.andesite.name=安山岩
 tile.etfuturum.polished_andesite.name=磨製安山岩
-tile.etfuturum.granite_slab.name=花崗岩臺階
-tile.etfuturum.polished_granite_slab.name=磨製花崗岩臺階
+tile.etfuturum.granite_slab.name=花崗巖臺階
+tile.etfuturum.polished_granite_slab.name=磨製花崗巖臺階
 tile.etfuturum.diorite_slab.name=閃長巖臺階
 tile.etfuturum.polished_diorite_slab.name=磨製閃長巖臺階
 tile.etfuturum.andesite_slab.name=安山岩臺階
 tile.etfuturum.polished_andesite_slab.name=磨製安山岩臺階
-tile.etfuturum.granite_stairs.name=花崗岩樓梯
-tile.etfuturum.polished_granite_stairs.name=磨製花崗岩樓梯
+tile.etfuturum.granite_stairs.name=花崗巖樓梯
+tile.etfuturum.polished_granite_stairs.name=磨製花崗巖樓梯
 tile.etfuturum.diorite_stairs.name=閃長巖樓梯
 tile.etfuturum.polished_diorite_stairs.name=磨製閃長巖樓梯
 tile.etfuturum.andesite_stairs.name=安山岩樓梯
@@ -666,7 +666,7 @@ tile.etfuturum.twisting_vines.name=纏怨藤
 tile.etfuturum.sculk.name=幽匿塊
 tile.etfuturum.sculk_catalyst.name=幽匿催發體
 
-tile.etfuturum.magma.name=岩漿塊
+tile.etfuturum.magma.name=巖漿塊
 tile.etfuturum.bone.name=骨塊
 
 tile.etfuturum.cave_vines.name=洞穴藤蔓
@@ -1232,7 +1232,7 @@ tile.etfuturum.brick_wall.name=紅磚牆
 tile.etfuturum.nether_brick_wall.name=地獄磚牆
 tile.etfuturum.andesite_wall.name=安山岩牆
 tile.etfuturum.diorite_wall.name=閃長巖牆
-tile.etfuturum.granite_wall.name=花崗岩牆
+tile.etfuturum.granite_wall.name=花崗巖牆
 tile.etfuturum.red_sandstone_wall.name=紅砂岩牆
 tile.etfuturum.prismarine_wall.name=海晶石牆
 tile.etfuturum.red_nether_brick_wall.name=紅色地獄磚牆
@@ -1260,7 +1260,7 @@ util.totemBreak=§a§o你的不死圖騰碎掉了…
 
 # Damage types
 
-death.attack.hotFloor=%1$s 發現地板是岩漿做的
+death.attack.hotFloor=%1$s 發現地板是巖漿做的
 death.attack.hotFloor.player=%1$s因%2$s而步入危險之地
 death.attack.sweetBerryBush=%1$s被甜漿果叢刺死了
 death.attack.sweetBerryBush.player=%1$s在試圖逃離%2$s時被甜漿果叢刺死了
@@ -2256,3 +2256,4 @@ item.etfuturum.tipped_arrow.potion.confusion.name=反胃之箭
 item.etfuturum.tipped_arrow.potion.wither.name=凋零之箭
 
 # PATRIOTS IN CONTROL  😎 🇺🇸 🦅 #
+entity.etfuturum.armor_stand.name=盔甲架

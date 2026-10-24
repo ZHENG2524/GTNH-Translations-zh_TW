@@ -62,3 +62,4 @@ message.sensitivity_monsters.name=靈敏性:怪物生成亮度臨界點切換狀
 message.sensitivity_dynamic.name=靈敏性:輸出紅石訊號強度根據太陽位置變化.
 
 # </file>
+entity.CarpentersTile.name=木匠瓷磚

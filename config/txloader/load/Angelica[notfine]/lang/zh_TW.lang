@@ -85,3 +85,5 @@ options.zoom_smooth_speed=平滑縮放速率
 options.zoom_smooth_speed.tooltip=決定平滑縮放至目標大小的速率。數值越高越快，越低越慢。需開啟平滑縮放選項才可用。
 options.zoom_cinematic=電影式視角縮放
 options.zoom_cinematic.tooltip=是否啟用電影式視角的平滑移動。關：採用標準Minecraft滑鼠視角移動，視角跟隨滑鼠位置。開：移動滑鼠後進入不間斷的平滑移動，且在滑鼠停止移動後，視角仍會繼續變化。
+options.fog_disable=禁用地形迷霧
+options.fog_disable.tooltip=禁用地形迷霧

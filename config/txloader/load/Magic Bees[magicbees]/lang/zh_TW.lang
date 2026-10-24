@@ -173,7 +173,7 @@ capsule.void=%s虛空膠囊
 #Liquids
 liquid.=空
 liquid.water=水
-liquid.lava=岩漿
+liquid.lava=巖漿
 liquid.biomass=生物質
 liquid.bioethanol=乙醇
 liquid.oil=石油
@@ -737,7 +737,7 @@ magicbees.botania.lexicon.beegonia.crafting=Syncrostrike的完美解決方案
 magicbees.botania.lexicon.beegonia.2=嗯.要麼就是它,要麼就是&2飛行 蜜蜂陷阱&0,但是那個也有它自 己的問題.
 
 magicbees.botania.lexicon.hiveacynth.0=為了庫存而到處尋找蜜蜂 是個痛苦的工作。幸運的是， 我們可以以高達74%的準確率 從花的記憶裡重組出蜜蜂！ 或許吧(笑)。<br>&1蜂信子&0將會從附近的魔力池 中吸取魔力，一旦吸取了足夠 多的魔力，它就會開始將其轉 化為生命精華並最終重組為 一個蜜蜂！
-magicbees.botania.lexicon.hiveacynth.1=看起來重組出的蜜蜂基因是 隨機的，然而只有“平凡的”蜜 蜂才可能被重組出來，其屬性 也大概和野外發現的差不多。<br>有時候這些花兒們也會給她 們自己放個假，然後就產出了 一隻自吹自擂的公主蜂，而不 是平時那些普普通通的雄蜂。 紅石訊號將會停止&1蜂信子&0 消耗魔力並生產蜜蜂的程序。
+magicbees.botania.lexicon.hiveacynth.1=看起來重組出的蜜蜂基因是 隨機的，然而只有“平凡的”蜜 蜂才可能被重組出來，其屬性 也大概和野外發現的差不多。<br>有時候這些花兒們也會給她 們自己放個假，然後就產出了 一隻自吹自擂的公主蜂，而不 是平時那些普普通通的雄蜂。 紅石訊號將會停止&1蜂信子&0 消耗魔力並生產蜜蜂的程式。
 magicbees.botania.lexicon.hiveacynth.crafting=點選連結瞭解詳情> beesbeesbees.com
 
 magicbees.botania.lexicon.hibeescus.0=&5卑賤種&0蜜蜂，儘管和它們的同 類&2始祖種&0一樣有用，但還是有 點瑕疵：大概在100代以後，它們 會開始患病，變得虛弱，甚至會 在你面前死去，就正好在你要 得到夢寐以求的新品種時候， 就正好在你要引發同行的憤 怒和嫉妒的時候。儘管，你知道 這個問題應該是可以解決的!

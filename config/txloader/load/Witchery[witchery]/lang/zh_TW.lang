@@ -89,7 +89,7 @@ item.witchery:poppet.voodoo.name=巫蠱娃娃
 item.witchery:poppet.vampiric.name=吸血鬼娃娃
 item.witchery:circletalisman.name=環形護身符
 item.witchery:divinerwater.name=水源探測符
-item.witchery:divinerlava.name=岩漿探測符
+item.witchery:divinerlava.name=巖漿探測符
 item.witchery:chalkheart.name=金色粉筆
 item.witchery:chalkritual.name=儀式粉筆
 item.witchery:chalkotherwhere.name=他處粉筆
@@ -215,7 +215,7 @@ witchery.rite.imprisonment=拘魔儀式{r||怪物不能離開這個圓環法陣�
 witchery.rite.barrier=保護儀式{r||生成一個圓頂， 迷惑怪物， 讓其無法看到你。 無限時長， 但會每秒消耗24點能量。
 witchery.rite.barrierlarge=保護儀式{r||生成一個圓頂 迷惑所有生物， 讓其無法看到你。 無限時長， 但會每秒消耗28點能量。
 witchery.rite.barrierportable=保護儀式{r||生成一個持續60秒的圓頂。
-witchery.rite.volcano=大地之怒儀式{r||隆起一座火山， 下方必須有一個岩漿池。
+witchery.rite.volcano=大地之怒儀式{r||隆起一座火山， 下方必須有一個巖漿池。
 witchery.rite.storm=蒼穹之怒儀式{r||召喚一團集中在圓環內的閃電風暴。
 witchery.rite.stormlarge=蒼穹之怒儀式{r||召喚一團聚集在圓環外的閃電風暴。
 witchery.rite.stormportable=蒼穹之怒儀式{r||召喚一團聚集在圓環外的閃電風暴。
@@ -278,7 +278,7 @@ witchery.rite.missingitem=缺少匯魔物品……
 witchery.rite.missinglivingsacrifice=缺少作為祭品的活物。
 witchery.rite.missingpowersource=附近沒有祭壇。
 witchery.rite.insufficientpower=祭壇未能提供充沛能量……
-witchery.rite.missinglava=下邊沒有岩漿……
+witchery.rite.missinglava=下邊沒有巖漿……
 
 item.witchery:ingredient.brewIce.name=寒霜之釀藥水
 item.witchery:ingredient.brewDepths.name=深淵之釀藥水
@@ -401,7 +401,7 @@ tile.witchery:crittersnare.empty.name=生物陷阱
 tile.witchery:crittersnare.bat.name=生物陷阱（蝙蝠）
 tile.witchery:crittersnare.silverfish.name=生物陷阱（蠹蟲）
 tile.witchery:crittersnare.slime.name=生物陷阱（史萊姆）
-tile.witchery:crittersnare.magmacube.name=生物陷阱（岩漿史萊姆）
+tile.witchery:crittersnare.magmacube.name=生物陷阱（巖漿史萊姆）
 
 
 entity.witchery.babayaga.name=芭芭雅嘎
@@ -526,7 +526,7 @@ witchery.rite.slippersoncooldown=無事發生（等待%s分鐘）。
 witchery.rite.forestation=森林儀式{r||生長出一片森林，將樹苗替換成希望之型別。
 witchery.rite.toofaraway=這麼遠的距離外無法完成儀式（需要一個大型女巫集會）。
 
-item.witchery:iceslippers.tip=摸起來很涼……||{5凍結附近的水，而且可以{0|{5把岩漿變成黑曜石 （消耗耐久）{0
+item.witchery:iceslippers.tip=摸起來很涼……||{5凍結附近的水，而且可以{0|{5把巖漿變成黑曜石 （消耗耐久）{0
 item.witchery:brewbag.name=釀造袋
 item.witchery:huntsmanspear.name=獵手之矛
 item.witchery:huntsmanspear.tip={5被攻擊時格擋可召喚出狼群{0。
@@ -1290,7 +1290,7 @@ witchery:cauldronbook.fastmove=[h1 藥效：加速]帶有此效果的生物移�
 witchery:cauldronbook.slowmove=[h1 藥效：減速]帶有此效果的生物移動速 度降低。
 witchery:cauldronbook.waterbreathing=[h1 藥效：水下呼吸]帶有此效果的生物在水下 不消耗氧氣。
 witchery:cauldronbook.resistfire=[h1 藥效：抗火]帶有此效果的生物免疫火 焰傷害。
-witchery:cauldronbook.partlava=[h1 藥效：熔岩退散]臨時性推開岩漿。
+witchery:cauldronbook.partlava=[h1 藥效：熔岩退散]臨時性推開巖漿。
 witchery:cauldronbook.repel=[h1 藥效：反震]帶有此效果的生物被攻擊 時攻擊者會被擊退。
 witchery:cauldronbook.poison=[h1 藥效：中毒]帶有此效果的生物會持續 掉血。
 witchery:cauldronbook.regeneration=[h1 藥效：生命恢復]帶有此效果的生物會持續 回覆生命值。
@@ -1541,7 +1541,7 @@ item.witchery:glassgoblet.seemswrong=這看起來有點問題
 item.witchery:glassgoblet.lilithquest=某個聲音頌唱道：“將我的女兒送往煉獄烈火之湖泊”
 item.witchery:glassgoblet.lilithquestsummon= 你有資格成為我的主人麼？！
 item.witchery:glassgoblet.lilithquestsummon2=我的主人在這……
-item.witchery:glassgoblet.lilithquestcomplete=你證明了自己的價值，這次你選擇魔法……還是死亡？
+item.witchery:glassgoblet.lilithquestcomplete=你證明瞭自己的價值，這次你選擇魔法……還是死亡？
 item.witchery:glassgoblet.lilithquestcomplete2=如果你渴望魔法，給我一件要附魔的裝備。
 item.witchery:glassgoblet.lilithquestcompletelife=我接受了你的血液，並賜予你我的血液，趁熱喝了……
 item.witchery:glassgoblet.lilithquestcompletemagic=收下這個，就當是我的禮物吧……
@@ -1599,7 +1599,7 @@ witchery:vampirebook.ritual1=[next=ritual2]我真不願意寫下我所見聞的 
 witchery:vampirebook.ritual2=[next=ritual3][br]……今夜的晚餐上，他 回憶了他“初生”的經歷， 那邪惡的事兒……[br][br]……「在骷髏頭顱上用伯萊恩匕首 屠宰一隻雞，用玻璃高腳 杯去收集留下的血液，是 無比殘忍的事情」，我告 訴他……
 witchery:vampirebook.ritual3=[next=ritual4][br]……顯然，這是早已被 遺忘的儀式的開始（我畫 了個草圖）……夜，以 月，線，紅石，火把，及 骷髏頭顱為引……
 witchery:vampirebook.ritual4=[next=ritual5][br][br]……斟血入顱……[br][br]……他低吟著將帶領她 步入熔岩之湖……   ……下界……
-witchery:vampirebook.ritual5=[next=transfix|1][br]……他對她證明了他的價值……[br][br][br]……而那玻璃高腳杯裝載的，真有 人會喝這種東西？……
+witchery:vampirebook.ritual5=[next=transfix|1][br]……他對她證明瞭他的價值……[br][br][br]……而那玻璃高腳杯裝載的，真有 人會喝這種東西？……
 witchery:vampirebook.transfix=[next=knockback|2][br]……今日，或者我應該說今晚，他告 訴了我他第一次獵殺的經歷……[br][br][br]……那第一夜的飢渴，他說， 完全無法抵抗，他只能遵 從自己的慾望……
 witchery:vampirebook.knockback=[next=speed|3]……他發現他可以凝視受害 者……[br][br]……只要不過半，他就能 貪婪地吸取而不會引起他 人的注意……[br][br]……像這樣，五次……
 witchery:vampirebook.speed=[next=resistsun|4][br]……力量慢慢地流入他的體內，夜 復一夜，他喝得越多，他 就感到更加的強大……[br][br]……那是第14夜，自從他掌 握了這種能力，除他以外， 整個世界都似乎遲鈍了

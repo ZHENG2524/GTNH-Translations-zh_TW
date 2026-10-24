@@ -124,19 +124,19 @@ tile.andesite.10.desc=現代磨製安山岩
 tile.andesite.11.desc=風化安山岩
 
 #Granite
-tile.chisel.granite.name=花崗岩
+tile.chisel.granite.name=花崗巖
 tile.granite.0.desc=會生成在世界中
-tile.granite.1.desc=拋光花崗岩
-tile.granite.2.desc=豎紋花崗岩
-tile.granite.3.desc=花崗岩磚塊
-tile.granite.4.desc=鏨制花崗岩
-tile.granite.5.desc=稜角花崗岩
-tile.granite.6.desc=小方磚花崗岩
-tile.granite.7.desc=碎石花崗岩
-tile.granite.8.desc=苔蘚花崗岩
-tile.granite.9.desc=現代花崗岩
-tile.granite.10.desc=現代磨製花崗岩
-tile.granite.11.desc=花崗岩礦砂
+tile.granite.1.desc=拋光花崗巖
+tile.granite.2.desc=豎紋花崗巖
+tile.granite.3.desc=花崗巖磚塊
+tile.granite.4.desc=鏨制花崗巖
+tile.granite.5.desc=稜角花崗巖
+tile.granite.6.desc=小方磚花崗巖
+tile.granite.7.desc=碎石花崗巖
+tile.granite.8.desc=苔蘚花崗巖
+tile.granite.9.desc=現代花崗巖
+tile.granite.10.desc=現代磨製花崗巖
+tile.granite.11.desc=花崗巖礦砂
 
 #Auto Chisel
 tile.chisel.autoChisel.name=自動雕刻機
@@ -1270,7 +1270,7 @@ tile.glass.5.desc=輕型玻璃
 tile.glass.6.desc=無框玻璃
 tile.glass.7.desc=精緻鋼架玻璃
 tile.glass.8.desc=屏風
-tile.glass.9.desc=頁岩框玻璃
+tile.glass.9.desc=頁巖框玻璃
 tile.glass.10.desc=鋼框玻璃
 tile.glass.11.desc=石框玻璃
 tile.glass.12.desc=條紋玻璃
@@ -1459,7 +1459,7 @@ tile.netherBrick.2.desc=汙穢地獄磚
 tile.netherBrick.3.desc=內臟砌成的地獄磚
 tile.netherBrick.4.desc=內臟砌成的深色地獄磚
 tile.netherBrick.5.desc=小塊內臟砌成的深色地獄磚
-tile.netherBrick.6.desc=溢位岩漿的藍色地獄磚
+tile.netherBrick.6.desc=溢位巖漿的藍色地獄磚
 tile.netherBrick.7.desc=棕色地獄磚
 tile.netherBrick.8.desc=黑曜石質地獄磚
 tile.netherBrick.9.desc=石質地獄磚
@@ -1485,7 +1485,7 @@ tile.hellrock.10.desc=肉塊砌成的地獄巖
 tile.hellrock.11.desc=肉塊砌成的鮮紅色地獄巖
 tile.hellrock.12.desc=小肉塊砌成的地獄巖
 tile.hellrock.13.desc=深紅色地獄巖
-tile.hellrock.14.desc=溢位岩漿的地獄巖
+tile.hellrock.14.desc=溢位巖漿的地獄巖
 
 #Mossy Stone
 tile.chisel.mossy_cobblestone.name=苔石

@@ -257,7 +257,7 @@ witchinggadgets_research_page.ETHEREALWALL.2=其次，你能將它偽裝成大�
 #
 witchinggadgets_research_name.STONEEXTRUDER=神秘造石機
 witchinggadgets_research_text.STONEEXTRUDER=[WG]圓石不嫌多
-witchinggadgets_research_page.STONEEXTRUDER.1=即便是神秘學的麻瓜也知道流動的岩漿被水冷卻時會凝固成圓石。而精於魔法的傢伙們可不想將時間浪費在挖石頭上，因此他們想出了自動化的方法。<BR>這臺機器會在內部生成圓石，破壞它並將其拋在一邊或輸入到相連的容器中。當容器已滿或有紅石訊號時則會停止執行。你也可以用法杖來旋轉它。
+witchinggadgets_research_page.STONEEXTRUDER.1=即便是神秘學的麻瓜也知道流動的巖漿被水冷卻時會凝固成圓石。而精於魔法的傢伙們可不想將時間浪費在挖石頭上，因此他們想出了自動化的方法。<BR>這臺機器會在內部生成圓石，破壞它並將其拋在一邊或輸入到相連的容器中。當容器已滿或有紅石訊號時則會停止執行。你也可以用法杖來旋轉它。
 #
 witchinggadgets_research_name.ICESOLIDIFIER=神秘造雪機
 witchinggadgets_research_text.ICESOLIDIFIER=[WG]雪永遠不嫌多
@@ -283,7 +283,7 @@ witchinggadgets_research_page.CALCULATOR.2=§o已知最高的注魔風險來自*
 #
 witchinggadgets_research_name.LABYRINTHSTRING=引路線卷
 witchinggadgets_research_text.LABYRINTHSTRING=[WG]阿里阿德涅的驕傲（希臘神話中給愛人線團幫其走出迷宮）
-witchinggadgets_research_page.LABYRINTHSTRING.1=迷宮一直以來都被用於從入侵者的手中守護秘密。那其中真正的危險便是再也找不到回去的路。<BR>為了解決那個問題，你發明了引路線卷。當你在暗中摸索前行時，它會在你所經之處留下一道光徑。右擊就可以啟用或者關閉。啟用時它會記錄你轉過的每一個彎。只有手持線卷時才能看見光徑，潛行時右擊可以清除記錄。
+witchinggadgets_research_page.LABYRINTHSTRING.1=迷宮一直以來都被用於從入侵者的手中守護秘密。那其中真正的危險便是再也找不到回去的路。<BR>為瞭解決那個問題，你發明瞭引路線卷。當你在暗中摸索前行時，它會在你所經之處留下一道光徑。右擊就可以啟用或者關閉。啟用時它會記錄你轉過的每一個彎。只有手持線卷時才能看見光徑，潛行時右擊可以清除記錄。
 #
 witchinggadgets_research_name.LABELLIB=要素標記庫
 witchinggadgets_research_text.LABELLIB=[WG]目錄創造的簡單！
@@ -414,7 +414,7 @@ witchinggadgets_research_name.INFERNALBLASTFURNACE=煉獄高爐
 witchinggadgets_research_text.INFERNALBLASTFURNACE=[WG]火焰躍動……
 witchinggadgets_research_page.INFERNALBLASTFURNACE.1.GT5u=這種熔爐燃燒著熾熱無比的魔法火焰，是神秘使對工程師繁瑣礦石淨化步驟的回應。任何投入其中的金屬團塊都會被熔鍊成三塊錠，偶爾還會額外產出少許金屬粒。<BR>與地獄熔爐相同，可透過相同方式提升該裝置的熔鍊速度。
 witchinggadgets_research_page.INFERNALBLASTFURNACE.1.External=燃燒著熾熱魔法火焰的熔爐，是神秘使對工程師繁瑣礦石提純步驟的回應。任何投入其中的金屬簇都將被熔鍊為三塊金屬錠，偶爾還會額外產出些許金屬粒。<BR>此外，若您需要鋼鐵進行其他操作，這件惡魔造物不純的火焰正是獲取鋼鐵的可靠途徑。只需投入鐵錠或鐵塊並靜候即可。<BR>與地獄熔爐同理，可透過相同方式提升此裝置的熔鍊速度。
-witchinggadgets_research_page.INFERNALBLASTFURNACE.2=對於普通的燒製而言，它的火焰溫度實在是太高了，因此請不要將雞肉投入煉獄高爐。<BR>免責宣告：儘管爐子中的岩漿經過了魔法的增強，危險性依然存在。任何不該投入的物品在爐中都會被氣化，包括那些蠢到掉進爐子的神秘使。
+witchinggadgets_research_page.INFERNALBLASTFURNACE.2=對於普通的燒製而言，它的火焰溫度實在是太高了，因此請不要將雞肉投入煉獄高爐。<BR>免責宣告：儘管爐子中的巖漿經過了魔法的增強，危險性依然存在。任何不該投入的物品在爐中都會被氣化，包括那些蠢到掉進爐子的神秘使。
 witchinggadgets_research_page.INFERNALBLASTFURNACE.3=§o魔導手冊中對於建造結構的顯示不太準確。該結構頂部的樓梯方塊需要對著中心放置，四角的則與其相適。§r
 
 
@@ -422,7 +422,7 @@ witchinggadgets_research_page.INFERNALBLASTFURNACE.3=§o魔導手冊中對於建
 #MIRRORPUMP
 witchinggadgets_research_name.MIRRORPUMP=源質泵
 witchinggadgets_research_text.MIRRORPUMP=[WG]吸乾它！
-witchinggadgets_research_page.MIRRORPUMP.1=源質魔鏡能讓注魔祭壇遠距離抽取源質，但大部分其他的裝置卻沒法使用這些源質。為了省去鋪設管道的麻煩，你發明了源質泵。當它接入管道系統時，它會識別系統中當前的吸力並從鄰近的鏡子抽取源質。
+witchinggadgets_research_page.MIRRORPUMP.1=源質魔鏡能讓注魔祭壇遠距離抽取源質，但大部分其他的裝置卻沒法使用這些源質。為了省去鋪設管道的麻煩，你發明瞭源質泵。當它接入管道系統時，它會識別系統中當前的吸力並從鄰近的鏡子抽取源質。
 
 witchinggadgets_research_name.ROSEVINE=玫瑰藤
 witchinggadgets_research_text.ROSEVINE=[WG]尖刺！
@@ -485,7 +485,7 @@ witchinggadgets_research_page.GEMCUTTING.2=你可以用新造的切割臺來製�
 witchinggadgets_research_page.GEMCUTTING.3=§l自然親和§r<BR>一些石頭與生俱來就對特定的源質有自然親和，這會增強它們的效果。如果親和屬性與注入的源質匹配，寶石就會被附魔“閃耀”，附魔等級取決於製作時所用的源質量。<BR>§l自然疏離§r<BR>類似的，一些寶石對特定源質也會有自然疏離，如果向寶石注入了這些源質就會使其變得脆弱，削弱它們的效果，並且會讓可反覆使用的寶石的損壞機率增大。<BR>按住shift就可以檢視寶石的自然親和與自然疏離屬性。
 
 witchinggadgets_research_page.GEMCUTTING.4=            §l結晶體琢型§r<LINE>結晶體琢型是蘊魔寶石最基礎的琢型。儘管它能儲存魔法能量，但你只能透過粉碎寶石來釋放。使用過後的寶石會變為一攤寶石粉末。各種源質的效果如下：<BR>§e§lAer:§r§0讓你短暫獲得大幅的跳躍力提升。<BR>§2§lTerra:§r§0賦予你對擊退效果的抗性。<BR>§c§lIgnis:§r§0用臨時的光源照亮你周圍的區域。
-witchinggadgets_research_page.GEMCUTTING.5=§3§lAqua:§r§0釋放出一陣極寒的能量，使附近的水結冰，岩漿凝固。<BR>§f§lOrdo:§r§0讓你回覆一些生命值。<BR>§8§lPerditio:§r§0增加一些臨時扭曲值。
+witchinggadgets_research_page.GEMCUTTING.5=§3§lAqua:§r§0釋放出一陣極寒的能量，使附近的水結冰，巖漿凝固。<BR>§f§lOrdo:§r§0讓你回覆一些生命值。<BR>§8§lPerditio:§r§0增加一些臨時扭曲值。
 
 witchinggadgets_research_page.GEMCUTTING.6=              §l橢圓琢型§r<LINE>橢圓琢型是蘊魔寶石的高階琢型。增多雕琢的翻光面後，它就能儲存更多的能量。並且會以更集中的脈衝來釋放能量。它們的效果與結晶體琢型的截然不同，此外這種琢型的寶石能透過相應的源質魔力充能。<BR>由於其結構的複雜性，將沒有自然親和的原石用於雕琢會使成品十分脆弱，同時製作閃耀寶石所需的源質也會增多。
 witchinggadgets_research_page.GEMCUTTING.7=§e§lAer:§r§0風之力會推動你前行，每次使用消耗1充能。<BR>§2§lTerra:§r§0在一個方塊上使用時，它會檢測相連的方塊來搜尋礦物，每次使用消耗1充能。<BR>§c§lIgnis:§r§0在所指方塊上燃起一團火焰，每次使用消耗1充能。<BR>§3§lAqua:§r§0在所指方塊上生成水方塊。每次使用消耗2充能。<BR>§7§lOrdo:§r§0為你指出最近的節點所在的方位。每次使用消耗2充能。<BR>§8§lPerditio:§r§0對魔鏡使用時，會將你傳送到相連的另一個魔鏡，每次使用消耗16充能。（需要shift右擊）
@@ -587,7 +587,7 @@ witchinggadgets_research_text.TERRAFORMFOCUS_JUNGLE=[WG]歡迎！
 witchinggadgets_research_page.TERRAFORMFOCUS_JUNGLE.1=這位熱愛動物的神秘使竭盡全力讓他的貓咪們開心。住在叢林中雖然極其容易出汗，但應該能讓它們回想起自己曾是灌木叢中兇猛捕食者的過去……在它們變成擋箱子的煩人傢伙之前。<BR>……<BR>為了讓此核心生效，需要§6Arbor§0源質。
 witchinggadgets_research_name.TERRAFORMFOCUS_HELL=群系核心：地獄
 witchinggadgets_research_text.TERRAFORMFOCUS_HELL=[WG]鑽穿地獄
-witchinggadgets_research_page.TERRAFORMFOCUS_HELL.1=實話說，就算這些神智被扭曲的傢伙們都不會想要住在岩漿和硫磺環繞的地方。<BR>……<BR>什麼？！你想？！好吧，隨你了。給這個核心供應Tenebrae源質，然後享受你的人間地獄吧。
+witchinggadgets_research_page.TERRAFORMFOCUS_HELL.1=實話說，就算這些神智被扭曲的傢伙們都不會想要住在巖漿和硫磺環繞的地方。<BR>……<BR>什麼？！你想？！好吧，隨你了。給這個核心供應Tenebrae源質，然後享受你的人間地獄吧。
 witchinggadgets_research_name.TERRAFORMFOCUS_MUSHROOM=群系核心：蘑菇島
 witchinggadgets_research_text.TERRAFORMFOCUS_MUSHROOM=[WG]哞~！
 witchinggadgets_research_page.TERRAFORMFOCUS_MUSHROOM.1=顏色可能令人不適，牛的樣子也很滑稽，但憑藉其保證無怪物的特性，蘑菇島是理想的度假勝地。<BR>…… <BR>現在，你可以將這種感覺帶到你家門口，只需為此核心提供§aLimus§0源質。
@@ -678,7 +678,7 @@ witchinggadgets_research_page.ANGELIC_LEGS.1=當你在某位神秘使自力更�
 #
 witchinggadgets_research_name.ANGELIC_BOOTS=女武神的安息日
 witchinggadgets_research_text.ANGELIC_BOOTS=[WG]羽毛般輕靈的腳步
-witchinggadgets_research_page.ANGELIC_BOOTS.1=這雙靴子的魔法讓你跑得更快，同時免疫跌落傷害。<BR>此外，你獲得了能在任何液體表面行走的能力。包括水和岩漿。按住下蹲會下沉。
+witchinggadgets_research_page.ANGELIC_BOOTS.1=這雙靴子的魔法讓你跑得更快，同時免疫跌落傷害。<BR>此外，你獲得了能在任何液體表面行走的能力。包括水和巖漿。按住下蹲會下沉。
 #
 witchinggadgets_research_name.THAUMICAPPLICATOR=
 witchinggadgets_research_text.THAUMICAPPLICATOR=[WG] 
@@ -688,3 +688,4 @@ witchinggadgets_research_page.THAUMICAPPLICATOR.1=
 tc.research_page.PRIMORDRIALPEARL.1=你開始理解如何使用元始珍珠，還發現了一種複製的方法以便日後使用。將元始珍珠錘成3枚碎片，你發現它們正在快速流失能量。應該有辦法把這些碎片重新變回元始珍珠。
 tc.research_name.PRIMORDRIALPEARL=元始珍珠
 tc.research_text.PRIMORDRIALPEARL=[GT:NH]你發現一種神秘的複製方法;
+witchinggadgets_research_page.INFERNALBLASTFURNACE.1=研究科技的人們想盡各種辦法來提純它們的礦物,而這個爐子就是神秘使對他們的嘲諷.那其中搖曳著的魔法火焰,會將任何礦簇熔為三份金屬錠,同時這也不會影響金屬粒的生成.<BR>其次,如果你需要鋼材,它那高純度的烈焰也能助你一臂之力,你只需要投入鐵錠或鐵塊然後靜待即可.<BR>你也能將加速煉獄熔爐的方法用在這個結構上.

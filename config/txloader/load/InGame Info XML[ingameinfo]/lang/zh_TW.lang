@@ -44,7 +44,7 @@ gui.ingameinfoxml.taglist=標籤列表
 # gui - tag list - categories
 ingameinfoxml.tag.category.formatting.name=文字樣式
 ingameinfoxml.tag.category.misc.name=雜項
-ingameinfoxml.tag.category.mouseover.name=游標懸停
+ingameinfoxml.tag.category.mouseover.name=遊標懸停
 ingameinfoxml.tag.category.nearbyplayer.name=附近玩家
 ingameinfoxml.tag.category.playerequipment.name=玩家 - 裝備
 ingameinfoxml.tag.category.playergeneral.name=玩家 - 常規
@@ -101,10 +101,10 @@ ingameinfoxml.tag.ping.desc=當前ping值，如果沒有資料則顯示為-1。
 ingameinfoxml.tag.pingicon.desc=對應當前ping值的圖示，如果沒有資料則不顯示任何東西。
 
 # gui - tag list - mouse over
-ingameinfoxml.tag.mouseovername.desc=游標下實體或方塊的名稱，如果游標下什麼都沒有則不顯示任何東西。
-ingameinfoxml.tag.mouseoveruniquename.desc=游標下實體或方塊的唯一標記名稱，如果游標下什麼都沒有則不顯示任何東西。
-ingameinfoxml.tag.mouseoverid.desc=游標下實體或方塊的ID，如果游標下什麼都沒有則顯示為0。
-ingameinfoxml.tag.mouseovermetadata.desc=游標下方塊的metadata（後設資料），如果游標下什麼都沒有則顯示為0。
+ingameinfoxml.tag.mouseovername.desc=遊標下實體或方塊的名稱，如果遊標下什麼都沒有則不顯示任何東西。
+ingameinfoxml.tag.mouseoveruniquename.desc=遊標下實體或方塊的唯一標記名稱，如果遊標下什麼都沒有則不顯示任何東西。
+ingameinfoxml.tag.mouseoverid.desc=遊標下實體或方塊的ID，如果遊標下什麼都沒有則顯示為0。
+ingameinfoxml.tag.mouseovermetadata.desc=遊標下方塊的metadata（後設資料），如果遊標下什麼都沒有則顯示為0。
 ingameinfoxml.tag.mouseoverpowerweak.desc=該方塊紅石訊號的最小強度，如果什麼都沒有則顯示為-1。
 ingameinfoxml.tag.mouseoverpowerstrong.desc=該方塊紅石訊號的最大強度，如果什麼都沒有則顯示為-1。
 ingameinfoxml.tag.mouseoverpowerinput.desc=該方塊紅石訊號的輸入強度，如果什麼都沒有則顯示為-1。

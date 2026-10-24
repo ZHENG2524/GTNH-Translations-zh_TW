@@ -69,3 +69,5 @@ bq_standard.tooltip.fixed_loot=獎勵設定: %s
 bq_standard.tooltip.fixed_loot_size=包含 %s 物品
 bq_standard.tooltip.loot_table=獎勵列表: %s
 bq_standard.tooltip.loot_chest=稀有度: %s
+bq_standard.gui.neiQuestNameColor=000000
+bq_standard.gui.neiQuestNameHoveredColor=A87A5E

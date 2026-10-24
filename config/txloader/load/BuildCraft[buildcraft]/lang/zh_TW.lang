@@ -619,3 +619,4 @@ command.buildcraft.buildcraft.op.format=格式: /%s
 command.buildcraft.buildcraft.deop.desc=- %s：移除 FakePlayer 管理員權限
 command.buildcraft.buildcraft.deop.help=撤銷BC模擬玩家(以採石場，機器人等名義執行動作)伺服器op許可權.
 command.buildcraft.buildcraft.deop.format=格式: /%s
+item.pipePlug.name=管塞

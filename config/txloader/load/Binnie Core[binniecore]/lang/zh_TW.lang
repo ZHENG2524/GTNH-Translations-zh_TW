@@ -343,7 +343,7 @@ binniecore.gui.tooltip.owner=所有者
 binniecore.gui.tooltip.help=幫助
 binniecore.gui.tooltip.help.0=要檢視幫助提示，
 binniecore.gui.tooltip.help.1=請先按下 Tab 鍵，
-binniecore.gui.tooltip.help.2=然後將游標移動至控制介面上
+binniecore.gui.tooltip.help.2=然後將遊標移動至控制介面上
 
 binniecore.gui.tooltip.processing=正在處理
 binniecore.gui.tooltip.task.canceled=任務取消

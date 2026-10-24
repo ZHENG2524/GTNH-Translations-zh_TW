@@ -66,3 +66,5 @@ gt.ggfab.d1.4.name=一次性鍛造錘
 gt.ggfab.d1.5.name=一次性軟錘
 gt.ggfab.d1.6.name=一次性螺絲刀
 gt.ggfab.d1.7.name=一次性鋸子
+ggfab.recipe.toolcast=工具鑄造機
+ggfab.gui.advassline.shutdown.input_busses=§4輸入匯流排數量過少，無法支援當前配方

@@ -767,8 +767,8 @@ cropsnh_growthReq.subSoil.soulSand=需要在其下方放置靈魂沙才能生長
 cropsnh_growthReq.subSoil.netherrack=需要在其下方放置地獄巖才能生長
 cropsnh_growthReq.subSoil.endStone=需要在其下方放置末地石才能生長
 # GT Stone Lily Growth Requirements
-cropsnh_growthReq.subSoil.redGranite=需要在其下方放置紅花崗岩才能生長
-cropsnh_growthReq.subSoil.blackGranite=需要在其下方放置黑花崗岩才能生長
+cropsnh_growthReq.subSoil.redGranite=需要在其下方放置紅花崗巖才能生長
+cropsnh_growthReq.subSoil.blackGranite=需要在其下方放置黑花崗巖才能生長
 cropsnh_growthReq.subSoil.marble=需要在其下方放置大理石才能生長
 cropsnh_growthReq.subSoil.basalt=需要在其下方放置玄武岩才能生長
 # Et EtFuturum Stone Lily Requirements
@@ -777,7 +777,7 @@ cropsnh_growthReq.subSoil.tuff=需要在其下方放置凝灰岩才能生長
 # Modern Stone Lily Growth Requirements
 cropsnh_growthReq.subSoil.modernAndesite=需要在其下方放置安山岩才能生長
 cropsnh_growthReq.subSoil.modernDiorite=需要在其下方放置閃長巖才能生長
-cropsnh_growthReq.subSoil.modernGranite=需要在其下方放置花崗岩才能生長
+cropsnh_growthReq.subSoil.modernGranite=需要在其下方放置花崗巖才能生長
 # Vanilla Ore Growth Requirements
 cropsnh_growthReq.subSoil.coal=需要在其下方放置煤炭塊才能生長
 cropsnh_growthReq.subSoil.iron=需要在其下方放置鐵塊才能生長

@@ -17,7 +17,7 @@ mobsinfo.mobhandler.average_reminder=§7§o注意，這些是平均期望掉落
 mobsinfo.mobhandler.lootable=搶奪附魔有效
 mobsinfo.mobhandler.player_only=§7僅限非偽玩家擊殺時掉落
 mobsinfo.mobhandler.peaceful_allowed=支援和平模式
-mobsinfo.mobhandler.locked=為了解鎖更多資訊,
+mobsinfo.mobhandler.locked=為瞭解鎖更多資訊,
 mobsinfo.mobhandler.locked_1=你必須殺死怪物!
 mobsinfo.mobhandler.unlocked=§6你已經解鎖了新的怪物資訊!
 mobsinfo.mobhandler.extended_info=請注意掉落機率基於
@@ -61,7 +61,7 @@ mobsinfo.mobhandlerfishing.tooltip_chance=獲得機率：%.4f%%
 
 #Extras (compatibility)
 mobsinfo.extras.minecraft_slime=僅在史萊姆最小時掉落
-mobsinfo.extras.minecraft_magma_cube=僅在岩漿怪不是最小是掉落
+mobsinfo.extras.minecraft_magma_cube=僅在巖漿怪不是最小是掉落
 mobsinfo.extras.chance=機率：%.2f%%
 mobsinfo.extras.base_chance=基礎機率：%.2f%%
 mobsinfo.extras.variable_chance=可變機率

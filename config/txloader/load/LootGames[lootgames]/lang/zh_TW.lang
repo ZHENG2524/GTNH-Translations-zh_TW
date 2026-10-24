@@ -72,3 +72,4 @@ lootgames.command.usage=請輸入'/lootgames help'以檢視可用子命令
 lootgames.command.reloadconfigs.success=配置已過載
 lootgames.command.reloadconfigs.usage=%s - 過載LootGame的所有配置
 lootgames.command.help.usage=%s - 顯示幫助選單
+tile.chessGame.name=象棋

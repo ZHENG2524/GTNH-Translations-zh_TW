@@ -313,3 +313,6 @@ ig.sp.upgrade.improvedcomputation=算力提升升級
 ig.sp.upgrade.improvedcomputation.description=本項升級允許小行星前哨站上的量子計算機能夠以更高的頻率工作,並能更好地耐受宇宙射線的影響
 ig.sp.upgrade.reinforcedstructure=結構強化升級
 ig.sp.upgrade.reinforcedstructure.description=本項升級強化了結構,使其能夠承受任何快速移動的小行星撞擊,並保護無人機免受意外事故的影響
+gt.blockmachines.multimachine.ig.elevator.desc8=禁用此控制器也會暫停所有模組
+gt.blockmachines.multimachine.project.ig.miner.desc5.1=並行會消耗算力。
+gt.blockmachines.multimachine.project.ig.miner.desc5.2=採礦無人機必須放置在常規輸入匯流排中（既不能是共享輸入匯流排也不能是儲存輸入匯流排）。

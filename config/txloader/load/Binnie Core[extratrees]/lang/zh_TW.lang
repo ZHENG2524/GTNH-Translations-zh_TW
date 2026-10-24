@@ -138,7 +138,7 @@ extratrees.block.planks.pear.desc=不像蘋果木，梨木並不是那麼獨特�
 extratrees.block.planks.hawthorn.desc=一種質地均勻的軟木。|伐木工
 extratrees.block.planks.rowan.desc=一種顏色柔和的木材，木板之間帶有好看的色差。|伐木工
 extratrees.block.planks.elder.desc=一種質地均勻的木材，卻不像其它木板一樣吹得玄乎其玄。|伐木工
-extratrees.block.planks.maclura.desc=桑橙樹木質那濃郁的橙色使它很令人滿意。|伐木工
+extratrees.block.planks.maclura.desc=桑橙樹木質那濃鬱的橙色使它很令人滿意。|伐木工
 extratrees.block.planks.syzgium.desc=蒲桃因其木質的粉色而獨一無二。|伐木工
 extratrees.block.planks.brazilwood.desc=巴西紅木因其木質上紫色的陰影而出名。|伐木工
 extratrees.block.planks.logwood.desc=你可以根據一些樹來找到紅木，墨水樹就是這其中之一。|伐木工
@@ -449,3 +449,7 @@ extratrees.gui.database.tab.butterfly.breeder=雜交路線
 
 extratrees.gui.database.log=原木
 extratrees.gui.database.leaves=樹葉
+extratrees.block.planks.gingko=銀杏
+extratrees.block.planks.gingko.desc=和黃楊類似，銀杏木顏色很淡。|伐木工
+extratrees.species.gingko.name=銀杏
+for.extratrees.item.food.gingkonut=白果

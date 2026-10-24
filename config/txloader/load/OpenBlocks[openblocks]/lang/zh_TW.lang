@@ -211,7 +211,7 @@ tile.openblocks.beartrap.name=捕獸夾
 tile.openblocks.beartrap.description=將捕獸夾放置在地上,再右鍵開啟它,這樣一來當有生物路過上方時就會被夾住動彈不得.
 
 tile.openblocks.sponge.name=海綿
-tile.openblocks.sponge.description=這種海綿是原版海綿的重置版.它十分利於清理一片範圍內的水或岩漿.但在清理一大片液體的時候要注意了,因為它會讓液體的流動變的相當混亂.
+tile.openblocks.sponge.description=這種海綿是原版海綿的重置版.它十分利於清理一片範圍內的水或巖漿.但在清理一大片液體的時候要注意了,因為它會讓液體的流動變的相當混亂.
 
 item.openblocks.spongeonastick.name=海綿棒
 item.openblocks.spongeonastick.description=類似海綿,海綿棒可用於清理一片範圍內的液體.但它比海綿更方便,也很容易壞掉.
@@ -232,7 +232,7 @@ tile.openblocks.paintmixer.name=調色器
 tile.openblocks.paintmixer.description=調色器可以調出任何你想要的顏色。\n在調色器最上方的格子中放入牛奶桶或任意顏料桶，在下方的四格中分別放入青色、品紅色、黃色和黑色染料，然後點選按鈕調色吧！
 
 tile.openblocks.canvas.name=畫布
-tile.openblocks.canvas.description=畫布是一種純白色的方塊,適合用作繪畫.翻閱調色器的相關介紹來了解如何製作繪畫所需的顏料桶.
+tile.openblocks.canvas.description=畫布是一種純白色的方塊,適合用作繪畫.翻閱調色器的相關介紹來瞭解如何製作繪畫所需的顏料桶.
 
 tile.openblocks.fan.name=風扇
 tile.openblocks.fan.description=風扇會把正對方向的玩家,生物以及實體全都吹走.

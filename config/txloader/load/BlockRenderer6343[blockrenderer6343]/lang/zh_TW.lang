@@ -20,3 +20,4 @@ nei.options.blockrenderer6343.auto_fill_pattern.false=否
 nei.options.blockrenderer6343.filter_hatch=使用NEI覆蓋時過濾GT倉室
 nei.options.blockrenderer6343.filter_hatch.true=是
 nei.options.blockrenderer6343.filter_hatch.false=否
+gui.blockrenderer6343.BgColor=C6C6C6

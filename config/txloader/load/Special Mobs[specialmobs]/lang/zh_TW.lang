@@ -291,7 +291,7 @@ death.attack.cooked=§c%1$s§f被烤熟了，從頭到腳
 
 //Lava Monster
 entity.SpecialMobs.LavaMonster.desc.1=向敵人噴吐火球
-entity.SpecialMobs.LavaMonster.desc.2=在岩漿湖中生成
+entity.SpecialMobs.LavaMonster.desc.2=在巖漿湖中生成
 
 //Blazes
 entity.SpecialMobs.CinderBlaze.desc.1=近戰烈焰人

@@ -323,7 +323,7 @@ tm.text.SHADOWFORTRESSARMOR.1=在發現了神秘要塞套裝和虛空要塞套�
 
 tm.name.CAP_cloth=魔力布匹杖端
 tm.tag.CAP_cloth=記得把它包起來
-tm.text.CAP_cloth.1=隨著對法杖工藝的深入研究和魔力布匹的發現，你曾自己思考過一個問題：魔力布匹能否作為一個杖端？<BR>答案是§l能§r。<BR>你用幾塊布匹和一點魔力編制出了一個相當有用的法杖杖端。<BR>這個杖端將給予5%的Vis減免……漂亮的藍色只是個額外的好處。
+tm.text.CAP_cloth.1=隨著對法杖工藝的深入研究和魔力布匹的發現，你曾自己思考過一個問題：魔力布匹能否作為一個杖端？<BR>答案是§l能§r。<BR>你用幾塊布匹和一點魔力編製出了一個相當有用的法杖杖端。<BR>這個杖端將給予5%的Vis減免……漂亮的藍色只是個額外的好處。
 
 #CAP_crimsoncloth
 
@@ -407,3 +407,5 @@ tm.text.VOIDGOGGLES.1=在你向扭曲揭示之護目鏡中注入了虛空金屬�
 tm.name.FOCUSSHARD=法杖核心：魔力碎片
 tm.tag.FOCUSSHARD=短暫的噪音
 tm.text.FOCUSSHARD.1=隨著對各種碎片的研究，一個不可思議的想法出現在你的腦海中--如果能在戰鬥中用Vis產生一個用於攻擊敵人的碎片會怎麼樣？<BR>當你看見一個敵人時你就可以用這個核心向敵人釋放一個魔力碎片。這個碎片會浮在空中，接著去追逐你的目標。<BR>看起來這個碎片也能在方塊上彈射。
+focus.upgrade.persistant.name=持續
+focus.upgrade.persistant.text=當你的目標死亡後，魔力碎片將會追蹤附近的同類目標

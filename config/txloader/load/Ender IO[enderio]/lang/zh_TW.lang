@@ -1455,3 +1455,5 @@ enderio.tooltip.meta=中繼資料：
 enderio.tooltip.uid=UID:
 enderio.tooltip.anvilupgrades=鐵砧升級:
 enderio.waila.config.hiddenfacades=隱形柵欄
+enderio.machine.tooltip.upgrade.tooltip.detailed.line1=增加機器能量儲存與
+enderio.machine.tooltip.upgrade.tooltip.detailed.line2=速度/範圍

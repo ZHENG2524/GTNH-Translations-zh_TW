@@ -308,3 +308,9 @@ mm.tooltip.moving.cut_b=剪下座標B：%s
 mm.tooltip.exchanging.removable=可移動方塊：%s
 mm.tooltip.exchanging.replacing=將方塊替換為：%s
 mm.tooltip.cable=線纜：%s
+mm.info.warning=方塊%d，%d，%d%s出現警告：%s
+mm.info.error=方塊%d，%d，%d%s出現錯誤：%s
+mm.info.error.could_not_move_block=無法移動位於X=%d，Y=%d，Z=%d的方塊：%s
+mm.info.error.could_not_move_protected_block=無法移動位於X=%d，Y=%d，Z=%d的受保護方塊：%s
+mm.info.error.could_not_move_invulnerable_block=無法移動位於X=%d，Y=%d，Z=%d的不可破壞方塊：%s
+mm.info.error.could_not_move_blocked_block=位於X=%d，Y=%d，Z=%d的源方塊%s的目標位置被阻擋

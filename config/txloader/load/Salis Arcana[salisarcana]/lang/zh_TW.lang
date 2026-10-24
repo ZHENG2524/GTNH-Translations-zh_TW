@@ -287,3 +287,5 @@ salisarcana:wand_rod.special.tbvoid=§5每2.5秒隨機為§5一個未達上限�
 tc.key.change_wand_focus=更換法杖核心
 tc.key.hover_harness=啟用韁繩懸浮
 tc.key.wand_toggle=法杖雜項切換
+salisaracan:error.potion_array_too_long=在安全範圍內已無可分配的藥水ID。如果有其他模組提高了安全上限，請在Salis Arcana設定中將“_uncapped_potion_ids”設為“true”。
+salisarcana:wand_rod.special.NECROMANCER_staff=§5將從怪物身上掉落的要素球中收集到的vis翻四倍，但從其他所有來源獲得的vis減少25%。

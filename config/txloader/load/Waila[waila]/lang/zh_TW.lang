@@ -156,3 +156,4 @@ option.general.showcrop=顯示作物生長狀態
 option.thaumcraft.aspects=顯示源質
 
 nei.options.keys.showenchant=顯示附魔值
+hud.msg.none=<無>

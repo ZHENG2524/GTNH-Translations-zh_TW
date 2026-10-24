@@ -15,8 +15,8 @@ tile.rocks.limestone.name=石灰岩
 tile.rocks.limestonesmooth.name=磨製石灰岩
 tile.rocks.siltstone.name=粉砂岩
 tile.rocks.siltstonesmooth.name=磨製粉砂岩
-tile.rocks.shale.name=頁岩
-tile.rocks.shalesmooth.name=磨製頁岩
+tile.rocks.shale.name=頁巖
+tile.rocks.shalesmooth.name=磨製頁巖
 
 tile.ash.name=灰燼塊
 tile.flesh.name=肉塊

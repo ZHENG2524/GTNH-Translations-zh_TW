@@ -313,3 +313,5 @@ neicustomdiagram.generators.gregtech5.recipedebugger.extruderlabel=壓模機合�
 neicustomdiagram.generators.gregtech5.recipedebugger.forgehammerlabel=鍛造錘合成表
 neicustomdiagram.generators.gregtech5.recipedebugger.nanoforgelabel=奈米鍛爐配方
 neicustomdiagram.generators.gregtech5.recipedebugger.pcbfactorylabel=PCB工廠配方
+neicustomdiagram.generators.enderstorage.tankoverview.nodatasubheader=抱歉，在伺服器中，儲罐資料不可用
+neicustomdiagram.generators.gregtech5.recipedebugger.fluidcannerlabel=流體灌裝機合成表

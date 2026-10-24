@@ -248,7 +248,7 @@ te.text.URN.1B=你在研究中讀到了許多關於'無盡之壺'的東西，一
 --Everburn Urn
 te.name.BURN=煉獄之壺
 te.tag.BURN=為什麼我要用火做？？
-te.text.BURN.1=在研究無盡之壺之後，你找到一種生成岩漿的方法。<BR><BR>你發現它和水有所不同，岩漿需要能源，所以你將其稱之為煉獄之罐，它需要Centivis驅動。你的煉獄之壺不僅能夠用桶來裝岩漿，它也能夠從頂部輸出到外部的儲罐。
+te.text.BURN.1=在研究無盡之壺之後，你找到一種生成巖漿的方法。<BR><BR>你發現它和水有所不同，巖漿需要能源，所以你將其稱之為煉獄之罐，它需要Centivis驅動。你的煉獄之壺不僅能夠用桶來裝巖漿，它也能夠從頂部輸出到外部的儲罐。
 
 --Crucible of Souls
 te.name.CRUCSOULS=靈魂坩堝
@@ -351,7 +351,7 @@ te.text.ROD_TRANSMUTATION.1=研究元始魔力的性質時，你發現你能偶�
 --Necro Wand
 te.name.ROD_NECROMANCER=亡靈杖柄
 te.tag.ROD_NECROMANCER=邪惡的Vis儲存
-te.text.ROD_NECROMANCER.1=對你而言到處找節點補充法杖魔力是個麻煩事。為了解決這一問題，你製作了這一有效利用死亡能量的杖柄。<BR><BR>它能兩倍吸收怪物死後遺留的魔力，快速充能法杖。不幸的是，用於注入的黑暗能量與其它形式的魔力適用性不佳。抽取節點以及其他方式獲得的魔力會有四分之一的損失。又因為該杖柄有相當於銀樹杖的儲存容量，使得二選一成為了艱難的選項。
+te.text.ROD_NECROMANCER.1=對你而言到處找節點補充法杖魔力是個麻煩事。為瞭解決這一問題，你製作了這一有效利用死亡能量的杖柄。<BR><BR>它能兩倍吸收怪物死後遺留的魔力，快速充能法杖。不幸的是，用於注入的黑暗能量與其它形式的魔力適用性不佳。抽取節點以及其他方式獲得的魔力會有四分之一的損失。又因為該杖柄有相當於銀樹杖的儲存容量，使得二選一成為了艱難的選項。
 
 --Taint Basics
 te.name.TAINTBASICS=腐化
@@ -361,3 +361,12 @@ te.text.TAINTBASICS.2=腐化之地能在自然界發現，但也會因糊塗的�
 
 # NEI
 te.nei.replicator=神秘複製
+ttwaila.everburnUrn.fluid=岩漿: %d mb
+te.name.NECROENERGY=亡靈之力
+te.tag.NECROENERGY=不死的能量
+te.text.NECROENERGY.1=使用亡靈祭壇注魔時,需要特定量的亡靈之力.這種能量可透過在祭壇獻祭特殊物品提供,這裡給出了這些物品的列表.
+te.name.NECROINFUSION=亡靈注魔
+te.tag.NECROINFUSION=Kali ma! Kali maaa!
+te.text.NECROINFUSION.1=利用自然界的神秘能量固然好,不過你還想要更多.活體生物的能量是你長久以來的所求之物.終於,這一天到來了.<BR><BR>透過給奧術基座注入邪惡能量,裝飾上亡靈生物的頭顱,圍繞著基座擺放五芒星形的蠟燭,你做出了一個能讓你融合擁有邪惡能量的物品的祭壇.法杖右擊就能啟動祭壇.拿物品右擊祭壇放入物品,shift並右擊祭壇移除物品.
+te.text.NECROINFUSION.2=要注魔一個物品,只需用法杖點選一下.每次注魔都需要一定量的亡靈能量,或稱NE(Necromantic Energy),可透過向祭壇獻祭含有NE的物品來提供.為此,在祭壇上方點火然後投入物品.NE提供足夠時,注魔就完成了.
+te.text.NECROINFUSION.3=下面展示了一個亡靈注魔祭壇的安裝示例.<IMG>thaumicexploration:textures/tabs/altarSetup.png:0:0:255:255:0.5</IMG> 放在祭壇的頭顱可以來自殭屍,骷髏射手,或是凋靈骷髏.

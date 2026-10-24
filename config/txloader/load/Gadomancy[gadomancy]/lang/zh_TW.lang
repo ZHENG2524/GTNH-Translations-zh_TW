@@ -335,3 +335,5 @@ potion.eldritch=邪術
 potion.visdiscount=Vis親和
 
 gadomancy.enchantment.revealer=神秘視覺
+gadomancy.eldritch.portalSpawned=你感覺應該在開門時保持一段距離。
+tile.BlockStoneMachine.name=隨機核心

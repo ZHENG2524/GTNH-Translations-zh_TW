@@ -350,7 +350,7 @@ forbidden.research_page.BLOODWELL.1=沒有比研究到一半卻需要補充墨�
 #
 forbidden.research_name.ELDRITCHORB=邪術氣血寶珠
 forbidden.research_text.ELDRITCHORB=噬靈者的寶珠
-forbidden.research_page.ELDRITCHORB.1=即便是神也不敢遙望的星隙之間，奇怪的低語吐訴著黑暗之力。不管其所說是否屬實，它讓你清楚這些空間能被注入許多東西。<BR><BR>透過給一個氣血寶珠注入虛空之力，塑以奧術之形，你創造出了一個能儲存巨量生命能量的寶珠。足足有80,000,000 LP的儲量。將生命能量存於不受歐幾里得幾何所侷限的空間之內是不可能出錯的！
+forbidden.research_page.ELDRITCHORB.1=即便是神也不敢遙望的星隙之間，奇怪的低語吐訴著黑暗之力。不管其所說是否屬實，它讓你清楚這些空間能被注入許多東西。<BR><BR>透過給一個氣血寶珠注入虛空之力，塑以奧術之形，你創造出了一個能儲存巨量生命能量的寶珠。足足有80,000,000 LP的儲量。將生命能量存於不受歐幾裡得幾何所侷限的空間之內是不可能出錯的！
 #
 forbidden.research_name.BLOODRAPIER=血鴞西洋劍
 forbidden.research_text.BLOODRAPIER=血魔法的剋星
@@ -401,3 +401,4 @@ forbidden.lexicon.bloodthorn.0=源自一些令人作嘔並且極度 扭曲的血
 
 # Rituals
 ritual.SpiteSanity.name=暫抑扭曲
+tooltip.divineorb=儲存原始的生命本質:

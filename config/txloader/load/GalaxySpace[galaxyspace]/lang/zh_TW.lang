@@ -356,8 +356,8 @@ tile.TCetiEBlockDandelions.TCetiEDandelion6.name=鯨魚座T星E藻類
 
 tile.AssemblyMachine.name=熔合機
 tile.AssemblyMachine.desc=壓縮機的高階版本。用鐳射熔合材料。
-tile.GeothermalGenerator.name=岩漿發電機
-tile.GeothermalGenerator.desc=把岩漿的熱量轉化為可用能量。
+tile.GeothermalGenerator.name=巖漿發電機
+tile.GeothermalGenerator.desc=把巖漿的熱量轉化為可用能量。
 tile.FuelGenerator.name=燃油發電機
 tile.FuelGenerator.desc=燃油發電機消耗燃油，產生大量的能量。燃料大亨的最佳選擇。
 tile.SolarWindPanel.name=太陽風發電機
@@ -544,8 +544,8 @@ gui.ssjetplate.desc=整合的噴氣揹包讓你在星球上快速移動。
 gui.ssboots.desc=附加的緻密鎂板能增加你的重量。
 
 gui.module.desc=火箭模組
-gui.status.nolava.name=沒有岩漿
-gui.message.lava.name=岩漿
+gui.status.nolava.name=沒有巖漿
+gui.message.lava.name=巖漿
 gui.message.water.name=水
 gui.status.nofuelgenerator.name=沒有燃料
 gui.warning.atmosphericPressure=高壓！

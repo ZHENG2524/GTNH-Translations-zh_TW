@@ -174,7 +174,7 @@ thaumicenergistics.research_page.TECERTUSDUPE.1=你現在能用鍊金術複製§
 # Research Knowledge Inscriber + Core
 tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER=知識記錄儀
 tc.research_text.thaumicenergistics.TEKNOWLEDGEINSCRIBER=魔力模板
-thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.1=做出了§l奧術裝配室§r，你需要告訴它該裝配什麼。你發明了一個可儲存有限的奧術配方的裝置。§l知識核心§r就可以儲存這些配方的模板，將其放入裝配室來協助它組裝物品。<BR>為了將配方模板寫入核心，你就需要用到§l知識記錄儀§r。
+thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.1=做出了§l奧術裝配室§r，你需要告訴它該裝配什麼。你發明瞭一個可儲存有限的奧術配方的裝置。§l知識核心§r就可以儲存這些配方的模板，將其放入裝配室來協助它組裝物品。<BR>為了將配方模板寫入核心，你就需要用到§l知識記錄儀§r。
 thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.2=使用知識記錄儀<BR>首先在右上角的槽放入一個§l知識核心§r。接下來，用合成欄來設定物品的合成配方。如果你有配方所需的知識（研究），就會顯示出可合成的物品。再按下儲存按鈕就會將配方寫入核心。製作的成品會顯示在模板儲存區。<BR>若要從核心移除一個配方，先在模板儲存區選擇一個模板。選擇的配方模板就會顯示在合成區。最後，點選刪除按鈕就會移除模板。
 
 # Research Arcane Assembler
@@ -217,4 +217,20 @@ thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.ADVANCEDGOLEM=§n高階傀�
 # Research Cell Microscope
 tc.research_name.thaumicenergistics.TECELLMICROSCOPE=元件顯微學
 tc.research_text.thaumicenergistics.TECELLMICROSCOPE=風夸克與地夸克
-thaumicenergistics.research_page.TECELLMICROSCOPE.1=經過仔細的研究與實驗，你發明了一種顯微掃描裝置，可以生成儲存元件中所包含能量的詳細影象。 這個過程十分複雜，在此過程中元件需要處於地面上。<LINE>元件中包含的所有物品都將被掃描，就像使用§l魔導透鏡§r掃描一樣。
+thaumicenergistics.research_page.TECELLMICROSCOPE.1=經過仔細的研究與實驗，你發明瞭一種顯微掃描裝置，可以生成儲存元件中所包含能量的詳細影象。 這個過程十分複雜，在此過程中元件需要處於地面上。<LINE>元件中包含的所有物品都將被掃描，就像使用§l魔導透鏡§r掃描一樣。
+thaumicenergistics.fluid.gaseous=超臨界流體
+thaumicenergistics.block.essentia.cell.workbench.name=源質元件工作臺
+thaumicenergistics.aeparts.essentia.levelemitter.name=源質發信器
+thaumicenergistics.aeparts.essentia.terminal.name=源質終端
+thaumicenergistics.aeparts.essentia.storage.monitor.name=源質儲存監控器
+thaumicenergistics.aeparts.essentia.conversion.monitor.name=源質交換監控器
+thaumicenergistics.item.wireless.essentia.terminal.name=無線源質終端
+thaumicenergistics.gui.arcane.crafting.terminal.title=奧術終端
+thaumicenergistics.gui.essentia.cell.title=源質元件
+thaumicenergistics.gui.essentia.cell.workbench.title=源質元件工作臺
+tc.research_name.thaumicenergistics.TEESSTERM=源質終端
+tc.research_text.thaumicenergistics.TEESSTERM=已知你有多少源質.
+thaumicenergistics.research_page.TEESSTERM.1=§l源質終端§r讓你能看到網路中儲存了多少源質,並提供了用源質容器向終端輸入源質或從中抽取源質的方法.§l源質發信器§r會持續監測網路中的源質等級,並在條件符合時發出紅石訊號.
+thaumicenergistics.research_page.TEESSTERM.2=§l源質儲存監控器§r和§l源質交換監控器§r則能讓你看到此刻有多少某源質儲存於網路之中.轉換監視器還能讓你向網路中輸入或從中抽取源質.<BR>使用扳手右鍵將會鎖定/解鎖監視器.<BR>手持標籤,裝有源質的罐子或者安瓿右擊解鎖狀態下的監視器將會設定當前顯示的源質種類,空手右鍵則會清空.<BR>右擊鎖定的交換監視器可以填充源質罐子或安瓿,潛行並右擊則會清空罐子或安瓿並將源質匯入網路.<BR>潛行並右鍵雙擊將會清空你物品欄裡所有的源質,並匯入進網路.
+thaumicenergistics.research_page.TEESSTERM.3=§l源質發信器§r可在網路中源質低於或高於指定水平時發出紅石訊號.
+thaumicenergistics.research_page.TEESSTERM.4=§l源質儲存監控器§r和§l源質交換監控器§r可以讓你知道在某一刻時網路內有多少指定源質.源質交換監控器還可以讓你將源質輸入網路,或是從網路中提取源質.<BR>使用扳手右擊即可鎖定/解鎖監控器.<BR>手持罐子標籤或者填滿的罐子或填滿的安瓿右擊未鎖定的監控器可設定顯示的源質種類,空手右擊則可清空.<BR>右擊鎖定的監控器可填滿罐子或安瓿,按住Shift右擊則可清空它們.<BR>按住Shift時右鍵雙擊可清空你物品欄中的所有源質.

@@ -24,7 +24,7 @@ emt.remaining_second=剩餘秒數：
 #This comes after a player name. The 's is depicting ownership.
 tooltip.EMT.hammer.broken.The Hammer of Thor=破碎的雷神之錘
 tooltip.EMT.hammer.electric=%player%的雷神之錘
-tooltip.EMT.hammer.broken.thor=它曾經是屬於托爾的雷神之錘
+tooltip.EMT.hammer.broken.thor=它曾經是屬於託爾的雷神之錘
 tooltip.EMT.hammer.broken.danger=現在它充滿著危險的能量
 tooltip.EMT.hammer.broken.plsNoRightClick=千萬不要使用
 tooltip.EMT.hammer.broken.plsRightClick=右鍵使用
@@ -222,7 +222,7 @@ emt.text.Nanosuit Goggles of Revealing=你已發現了一種無需移動太多�
 
 emt.rsname.Quantum Goggles of Revealing=量子揭示護目鏡
 emt.tag.Quantum Goggles of Revealing=更高階的雙重保護
-emt.text.Quantum Goggles of Revealing=經過大量的試錯，你終於找到了將Vis感應器嵌入量子頭盔的方法。給量子頭盔注魔後，你就能用它來觀測靈氣節點了。在設計的過程中，你不得不將幾個涉及夜視和自動餵食的控制電路，替換為Vis偵測電路和用於吸收過剩魔法能量的電容器。你發現藉助鐳射采礦槍來約束能量，能夠安全地聚焦並引導爆炸脈衝，指向頭盔內夜視與餵食元件的位置。好好享受被強行灌輸能量的滋味吧。
+emt.text.Quantum Goggles of Revealing=經過大量的試錯，你終於找到了將Vis感應器嵌入量子頭盔的方法。給量子頭盔注魔後，你就能用它來觀測靈氣節點了。在設計的過程中，你不得不將幾個涉及夜視和自動餵食的控制電路，替換為Vis偵測電路和用於吸收過剩魔法能量的電容器。你發現藉助鐳射採礦槍來約束能量，能夠安全地聚焦並引導爆炸脈衝，指向頭盔內夜視與餵食元件的位置。好好享受被強行灌輸能量的滋味吧。
 
 emt.rsname.Iron Omnitool=鐵製鑽鋸
 emt.tag.Iron Omnitool=為農夫準備的便利工具
@@ -238,7 +238,7 @@ emt.text.Thaumium Omnitool=在創作了鑽石鑽鋸和鐵鑽鋸之後,下一步�
 
 emt.rsname.Explosion Focus=法杖核心:爆炸
 emt.tag.Explosion Focus=請在開闊處使用
-emt.text.Explosion Focus=你已發現了一種修改九獄核心的方法:將蝙蝠換為更具爆炸性的採礦鐳射.<BR>這個核心工作時類似鐳射采礦槍,但是它使用Vis而不是電力.<BR>這個核心很不穩定,所以記著小心點.
+emt.text.Explosion Focus=你已發現了一種修改九獄核心的方法:將蝙蝠換為更具爆炸性的採礦鐳射.<BR>這個核心工作時類似鐳射採礦槍,但是它使用Vis而不是電力.<BR>這個核心很不穩定,所以記著小心點.
 
 emt.rsname.Kris-tmas Focus=法杖核心:聖誕
 emt.tag.Kris-tmas Focus=吼!吼!吼!
@@ -298,7 +298,7 @@ emt.text.Mjolnir=你走遍了世界,為了找到這個可能存在的雷神之�
 
 emt.rsname.The Legend=傳說之物
 emt.tag.The Legend=童年的記憶...
-emt.text.The Legend=你總是聽到關於那個錘子的傳說.<BR><BR>傳說有一個閃電之神,托爾,有一把能夠召喚閃電的錘子.<BR><BR>傳說神在他的次元隱退,留下了他的錘子,在某個被保護好的地牢裡藏了起來,只有有能力的傢伙才能找到它.<BR><BR>你有很多時間去探索這個世界,去試著找到這把錘子.
+emt.text.The Legend=你總是聽到關於那個錘子的傳說.<BR><BR>傳說有一個閃電之神,託爾,有一把能夠召喚閃電的錘子.<BR><BR>傳說神在他的次元隱退,留下了他的錘子,在某個被保護好的地牢裡藏了起來,只有有能力的傢伙才能找到它.<BR><BR>你有很多時間去探索這個世界,去試著找到這把錘子.
 
 emt.rsname.Lightning Summoner=雷電碎片
 emt.tag.Lightning Summoner=從死敵那裡所得
@@ -306,7 +306,7 @@ emt.text.Lightning Summoner=這個物品是你的死敵:高壓苦力怕所掉落
 
 emt.rsname.Supercharged Mjolnir=高壓雷神之錘
 emt.tag.Supercharged Mjolnir=將它據為己有
-emt.text.Supercharged Mjolnir=在對各個世界和維度中的地牢進行探索之後，你已經成功地找到了一種方法來壓制托爾(雷神)的力量，使得他的錘子變為你的所有物。此外，你可以用你的錘子召喚守衛(類似雪傀儡的奇怪生物)來保護你。然而，這把錘子失去了在你所指之處召喚閃電的力量，並且使用時會在你的周圍召喚一圈閃電。
+emt.text.Supercharged Mjolnir=在對各個世界和維度中的地牢進行探索之後，你已經成功地找到了一種方法來壓制託爾(雷神)的力量，使得他的錘子變為你的所有物。此外，你可以用你的錘子召喚守衛(類似雪傀儡的奇怪生物)來保護你。然而，這把錘子失去了在你所指之處召喚閃電的力量，並且使用時會在你的周圍召喚一圈閃電。
 
 emt.rsname.Industrial Wand Charging Station=工業法杖充能站
 emt.tag.Industrial Wand Charging Station=用工業的方式為你的法杖充能
@@ -326,7 +326,7 @@ emt.text.Diamond Chainsaw=你不知道為何用鑽石升級電鋸就像鑽石升
 
 emt.rsname.Thaumium Plate=神秘板
 emt.tag.Thaumium Plate=神秘錠的工業處理
-emt.text.Thaumium Plate=就如每個電子工程師所知道的，板材是許多裝置的基礎。我們知道把神秘錠壓制成板材將會是把魔法方便地融入工具的必要途徑，但這讓魔法學院的魔法師們十分心煩。他們不願意讓我們對珍貴的金屬材料瞎搗鼓。你可以像所示的那樣製作出這些貴重的板材，或是在金屬成型機內製作，只需要一個神秘錠，但別讓那些惱火的魔法師們看見。
+emt.text.Thaumium Plate=就如每個電子工程師所知道的，板材是許多裝置的基礎。我們知道把神秘錠壓製成板材將會是把魔法方便地融入工具的必要途徑，但這讓魔法學院的魔法師們十分心煩。他們不願意讓我們對珍貴的金屬材料瞎搗鼓。你可以像所示的那樣製作出這些貴重的板材，或是在金屬成型機內製作，只需要一個神秘錠，但別讓那些惱火的魔法師們看見。
 
 emt.rsname.Macerating Native Ore Clusters=礦簇粉碎工藝
 emt.tag.Macerating Native Ore Clusters=增加你的礦物產量
@@ -358,7 +358,7 @@ emt.text.Water Infused Solar Panels=你總是討厭下雨,他別是當你所有�
 
 emt.rsname.Entropy Infused Solar Panels=混沌注魔太陽能
 emt.tag.Entropy Infused Solar Panels=不要懼怕黑暗
-emt.text.Entropy Infused Solar Panels=你知道太陽能晚上會停止工作.為了解決這個問題,你找到了一種讓你的太陽能在晚上工作的方法!(只能在晚上工作)
+emt.text.Entropy Infused Solar Panels=你知道太陽能晚上會停止工作.為瞭解決這個問題,你找到了一種讓你的太陽能在晚上工作的方法!(只能在晚上工作)
 
 emt.rsname.Order Infused Solar Panels=秩序注魔太陽能
 emt.tag.Order Infused Solar Panels=我得到了能量!

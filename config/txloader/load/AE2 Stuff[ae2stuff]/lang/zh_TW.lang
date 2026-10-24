@@ -78,3 +78,5 @@ itemGroup.bdew.ae2stuff=應用能源附加機器
 ae2stuff.key.mode=模式切換
 
 ae2stuff.config.client=客戶端
+ae2stuff.wireless.advtool.pop=已從佇列中移除位於%s，%s，%s 的接入器
+ae2stuff.visualiser.mode.nonum=顯示頻道與節點

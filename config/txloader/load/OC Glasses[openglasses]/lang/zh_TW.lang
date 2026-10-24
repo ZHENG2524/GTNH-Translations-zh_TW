@@ -1,7 +1,7 @@
 tile.openglassesterminal.name=眼鏡終端
 item.openglasses.name=AR眼鏡
-key.openglasses.interact=自由游標(按住)
-key.openglasses.interactToggle=自由游標(切換)
+key.openglasses.interact=自由遊標(按住)
+key.openglasses.interactToggle=自由遊標(切換)
 key.categories.openGlasses=OC眼鏡
 tooltip.openglasses.link_to=連結至：\nX: %d Y: %d Z: %d\n維度: %d\nKey: %d
 tooltip.openglasses.installed_chatbox=已安裝聊天視窗

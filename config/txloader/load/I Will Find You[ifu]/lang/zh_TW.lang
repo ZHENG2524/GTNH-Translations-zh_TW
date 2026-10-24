@@ -13,3 +13,5 @@ IFU.NameTip=名稱：%s
 IFU.SearchTip=搜尋：%s
 IFU.SearchNoMatch=無匹配
 IFU.Empty=空
+itemGroup.DayNModTools=尋礦魔杖
+IFU.BlacklistedBlock=! 黑名單方塊 !

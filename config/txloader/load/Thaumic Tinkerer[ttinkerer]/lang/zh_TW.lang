@@ -222,7 +222,7 @@ tc.research_category.TT_CATEGORY=神秘工匠
 # -- COMPUTERCRAFT PERIPHERALS
 ttresearch.name.PERIPHERALS=電腦外設
 ttresearch.lore.PERIPHERALS=當科學遇見魔法
-ttresearch.page.PERIPHERALS.0=神秘工匠讓其新增的某些方塊以及神秘時代新增的一些方塊可以作為電腦外設（ComputerCraft的外設）使用。<BR><BR>為方便起見，使用這些外設的文件放置在網上以供查詢。按下回車可以訪問對應的頁面。
+ttresearch.page.PERIPHERALS.0=神秘工匠讓其新增的某些方塊以及神秘時代新增的一些方塊可以作為電腦外設（ComputerCraft的外設）使用。<BR><BR>為方便起見，使用這些外設的檔案放置在網上以供查詢。按下回車可以訪問對應的頁面。
 # Note: For people who localize the mod. If you have custom documentation, feel free to include in your PR a
 # link to it and the short URL (see above) you want for it on my website and I'll add it.
 ttresearch.webpage.peripherals=https://github.com/Vazkii/ThaumicTinkerer/wiki/Peripheral-Documentation
@@ -273,7 +273,7 @@ ttresearch.page.GASEOUS_SHADOW.0=對紛繁難懂的影的研究讓你能夠透�
 # -- FUME DISSIPATOR
 ttresearch.name.GAS_REMOVER=煙霧驅散器
 ttresearch.lore.GAS_REMOVER=高須龍兒的好幫手
-ttresearch.page.GAS_REMOVER.0=在製作出光明氣瓶和暗影氣瓶後，你發現如何驅散這些氣體成了麻煩。於是你發明了這件工具，手持它，按住shift加右鍵便可以驅散附近所有氣體。
+ttresearch.page.GAS_REMOVER.0=在製作出光明氣瓶和暗影氣瓶後，你發現如何驅散這些氣體成了麻煩。於是你發明瞭這件工具，手持它，按住shift加右鍵便可以驅散附近所有氣體。
 
 # -- SPELLBINDING CLOTH
 ttresearch.name.SPELL_CLOTH=祛魔之布
@@ -314,7 +314,7 @@ ttresearch.page.FOCUS_TELEKINESIS.0=你製作了一種法杖核心能夠使用�
 # -- KINETIC ATTRACTION
 ttresearch.name.MAGNETS=奧術磁鐵
 ttresearch.lore.MAGNETS=啥原理呢？
-ttresearch.page.MAGNETS.0=在研究念力核心時，你試圖將相關知識應用到能夠向磁鐵那樣吸引物品或者生物的新裝置上。於是你發明了這兩臺新裝置。<BR><BR>它們都具有兩種狀態：北極（紅色）模式和南極（藍色）模式。紅色模式推開物品或者生物；藍色模式吸引物品或者生物。
+ttresearch.page.MAGNETS.0=在研究念力核心時，你試圖將相關知識應用到能夠向磁鐵那樣吸引物品或者生物的新裝置上。於是你發明瞭這兩臺新裝置。<BR><BR>它們都具有兩種狀態：北極（紅色）模式和南極（藍色）模式。紅色模式推開物品或者生物；藍色模式吸引物品或者生物。
 ttresearch.page.MAGNETS.1=你設計了兩種新裝置：奧術念力磁鐵以及奧術生物磁鐵、它們分佈針對物品或者生物有效。<BR><BR>奧術生物磁鐵支援一些更加複雜的機制，你可以手持鑄造法杖右鍵打開啟一個設定過濾的介面，可以選擇特定生物，如果可能還能設定該生物是否成年。裝置使用的模板可以使用靈魂模具右鍵生物得到。
 
 # -- OSMOTIC ENCHANTER
@@ -628,7 +628,7 @@ ttresearch.page.INFUSED_POTIONS.1=你只能直接做出元始源質種子，但�
 ttresearch.page.INFUSED_POTIONS.2=培育作物因不同的源質傾向將會受特定效果影響。Terra源質可以增加土壤中魔法物質的殘留量。Ignis源質有助於融合源質的形成。Ordo源質增加產量。Perditio源質增加種子掉落量。Aer源質使得作物受其他源質的影響效果更顯著。同一株作物受源質影響所產生的傾向不超過50點。
 ttresearch.page.INFUSED_POTIONS.3=有兩種方法能夠賦予作物元始源質傾向。首先，作物會偶然地受相鄰特定源質作物的影響而產生傾向，然而以這種方式同一株植物最多隻能增加同種源質傾向5點。
 ttresearch.page.INFUSED_POTIONS.4=另外，作物還會直接抽走臨近作物的要素傾向，被抽走要素傾向的作物必須擁有相等或更多的要素傾向點。
-ttresearch.page.INFUSED_POTIONS.5=有些作物會產出特殊的穀物，可用於釀造藥水。<BR>地元藥水會在攻擊你的怪物與你之間召喚出障礙物。<BR>火元藥水會讓你的敵人陷入灼燒火球的包圍。<BR>風元藥水會讓你的敵人一衝飛天。<BR>水元藥水則會凝固鄰近的岩漿。
+ttresearch.page.INFUSED_POTIONS.5=有些作物會產出特殊的穀物，可用於釀造藥水。<BR>地元藥水會在攻擊你的怪物與你之間召喚出障礙物。<BR>火元藥水會讓你的敵人陷入灼燒火球的包圍。<BR>風元藥水會讓你的敵人一衝飛天。<BR>水元藥水則會凝固鄰近的巖漿。
 
 # -- WAILA
 ttwaila.nothing=空無一物
@@ -658,3 +658,4 @@ ttwaila.pushingChildType=推開:幼體%s
 # -- NEI
 tt.nei.category.infusedseeds=蘊魔種子掉落
 tt.nei.chance=掉落機率
+ttmisc.shareTomb.offlineshare=離線分享
