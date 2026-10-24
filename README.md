@@ -39,11 +39,26 @@ GT: New Horizons 的 zh_TW 語言檔。涵蓋既有翻譯，加上補齊剩餘 7
 ## 已知限制
 - 部分字串刻意保留英文（指令、曲名、梗、Mod 名），或標為 TRUNCATED（原始字串被截斷，待從模組 jar 取完整字串）。
 - notes 標 `TERM?` 的譯名未經 GTNH 維基核對，歡迎 PR。
-- 本專案與 GTNH、各模組作者無官方關係；遊戲文字著作權屬原作者。授權條款尚待確認。
+- 本專案為非官方的社群繁體中文（台灣）語言包，與 GTNH 團隊、各模組作者無官方關係，也未獲其認可或背書。
 
-## 授權
-本專案的翻譯內容以 [CC BY-NC-SA 4.0](LICENSE)（姓名標示－非商業性－相同方式分享）釋出，與 [GT New Horizons 模組包](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack) 的授權一致。
+## 來源與授權說明
+### 翻譯來源
+- **簡體中文來源**：[GTNewHorizons/GTNH-Translations](https://github.com/GTNewHorizons/GTNH-Translations) 的 `zh_CN`（例如 `GregTech_zh_CN.lang`），經 OpenCC `s2twp` 簡轉繁、用語調整（`tools/normalize_terms.py`）及 AI 輔助處理而來。本倉庫**不含**簡體中文原始檔，只含轉換後的繁體檔。
+- **既有繁中**：沿用 GTNH 整合包內既有的 `zh_TW` 語言檔。
+- **新增翻譯**：780 條剩餘字串與部分提示為 AI 翻譯，詳見上方「翻譯進度與品質說明」。
 
-- 原文（英文與簡體中文來源字串）著作權屬 GTNH 團隊及各模組作者；本專案僅提供繁體中文（台灣）翻譯。
-- 各模組語言檔的原始授權可能不同（如 MIT、LGPL 或保留所有權利）。若任何作者要求移除，請開 issue，將立即處理。
-- 僅限非商業使用。
+### 授權
+不同內容適用不同授權，**本倉庫不主張整個倉庫都能以同一授權自由使用**：
+
+| 內容 | 原始授權 | 說明 |
+|---|---|---|
+| GTNH-Translations（簡體來源） | [GPL-3.0](https://github.com/GTNewHorizons/GTNH-Translations/blob/master/LICENSE) | 由其轉換而來的內容，應遵守 GPL-3.0 |
+| GT New Horizons 整合包 | [CC BY-NC-SA 4.0](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/blob/master/LICENSE) | 整合包內既有語言檔 |
+| GregTech 5 Unofficial | LGPL-3.0 | 原文字串來源 |
+| 其他各模組 | 各自不同（MIT、LGPL、保留所有權利等） | 以各模組附帶的授權為準 |
+
+- 本倉庫的 [LICENSE](LICENSE) 為 GPL-3.0，與簡體來源 GTNH-Translations 一致，並使本倉庫的衍生內容符合其條件。原為 CC BY-NC-SA 4.0，已因兩者不相容而更換；因此本倉庫**不再限制商業使用**（仍須遵守 GPL-3.0）。
+- 整合包既有語言檔（CC BY-NC-SA 4.0）及各模組的個別授權，仍以其原始授權為準，尚未逐一核對。
+- 若任何權利人認為本專案不符其授權條件，請開 issue，將立即調整或移除。
+- 本專案免費提供，僅供個人遊玩使用。免費不代表第三方內容可不受原始授權限制。
+- 遊戲原文及原始翻譯的著作權屬 GTNH 團隊、各模組作者及原翻譯貢獻者。
