@@ -1,0 +1,16 @@
+{
+  "baseline": "e24b6a44a3f73fac84189c4a46b8238dfb7c8108",
+  "gtnh_version": "2.8.4",
+  "reviewed_entries": 159,
+  "changed_values": 60,
+  "changed_language_files": 5,
+  "batches": {
+    "A-washer": 24,
+    "B-processing": 15,
+    "C-quests": 21
+  },
+  "previous_tooltip_repairs_preserved": 26,
+  "source_checks": "Exact English values from installed jar, runtime defaults and quest JSON",
+  "scope": "逐條術語對照，非全部配方或整包語意校對；副本只核對指定片語。",
+  "errors": []
+}

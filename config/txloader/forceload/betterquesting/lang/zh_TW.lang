@@ -978,8 +978,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=§2§l掃描蜜蜂、種子以�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=自動化掃描你的蜜蜂、樹苗和作物種子。%n%n到了後期，這臺機器會變得非常有用，可以用於掃描高等級機器部件的裝配線資料，或者將UU物質生產資料寫入資料球。帶有原始勘探資料的快閃記憶體也需要用到掃描器。
 
 # Quest: Basic Ore Washer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.name=§2§l基礎洗礦廠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.desc=研磨礦石通常會使產出翻倍。如果你還想要更更更更多，那就造一臺洗礦機，洗出一些稀有材料吧。%n%n注意，洗礦廠需要用水，而且速度慢得令人抓狂。%n%n請放入粉碎的礦石。%n%n[note]你也可以考慮使用蒸汽多方塊版本的洗礦廠。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.name=§2§l基礎洗礦機
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.desc=研磨礦石通常會使產出翻倍。如果你還想要更更更更多，那就造一臺洗礦機，洗出一些稀有材料吧。%n%n注意，洗礦機需要用水，而且速度慢得令人抓狂。%n%n請放入粉碎的礦石。%n%n[note]你也可以考慮使用蒸汽多方塊版本的洗礦機。[/note]
 
 # Quest: Round and Round and Round...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACGw.name=§2§l轉啊轉啊轉啊轉……
@@ -1059,7 +1059,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.desc=要得到電池所需的銻，�
 
 # Quest: Thermal Centrifuge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.name=§2§l熱力離心機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.desc=這是一種可以從粉碎或洗淨的礦石粉中提取各類副產物的機器。它能從粉碎的鋅礦石中提取少量鎵，用於製作優質電路所需的二極體。%n%n當你有了 IC2 核反應爐，想要回收枯竭燃料棒時，這臺機器是唯一的選擇。%n%n如果你現在還無法為這臺機器提供 2A 的 LV 電力，那就等到進入 MV 階段後，用變壓器給 LV 版本供電吧。%n%n在 LV 階段，你也可以透過不同的方法獲得相同的礦石副產物。熱力離心機只有在 HV 階段，能與HV研磨機配合使用時，才會變得非常重要。%n%n[warn]直接將 MV 電壓的電輸入 LV 機器，就算機器能消耗不止 1A 電流，也會導致爆炸，請勿嘗試。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.desc=這是一種可以從粉碎或洗淨的礦石中提取各類副產物的機器。它能從粉碎的鋅礦石中提取少量鎵，用於製作優質電路所需的二極體。%n%n當你有了 IC2 核反應爐，想要回收枯竭燃料棒時，這臺機器是唯一的選擇。%n%n如果你現在還無法為這臺機器提供 2A 的 LV 電力，那就等到進入 MV 階段後，用變壓器給 LV 版本供電吧。%n%n在 LV 階段，你也可以透過不同的方法獲得相同的礦石副產物。熱力離心機只有在 HV 階段，能與HV研磨機配合使用時，才會變得非常重要。%n%n[warn]直接將 MV 電壓的電輸入 LV 機器，就算機器能消耗不止 1A 電流，也會導致爆炸，請勿嘗試。[/warn]
 
 # Quest: A Lead About Lead That Leads to Lead
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACYA.name=§2§l鉛辛萬苦找到鉛
@@ -1155,7 +1155,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.desc=使用高壓釜將你的粉末�
 
 # Quest: Basic Circuit Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.name=§2§l基礎電路組裝機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc=高階電路板（HV）需要一臺LV電路組裝機。用它來合成基礎電路板（LV）和優質電路板（MV），可以大幅度提升效率。%n%n不過，所有電路組裝機都需要比同電壓其他機器更高等級的電路板。這意味著你必須用MV電路板，而不是現在一直在用的LV電路板。我知道你想要它，所以趕緊做出來吧！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc=高階電路（HV）需要一臺LV電路組裝機。用它來合成基礎電路（LV）和優質電路（MV），可以大幅度提升效率。%n%n不過，所有電路組裝機都需要比同電壓其他機器更高等級的電路。這意味著你必須用MV電路，而不是現在一直在用的LV電路。我知道你想要它，所以趕緊做出來吧！
 
 # Quest: Gallium Arsenide Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.name=§2§l砷化鎵晶體
@@ -2213,11 +2213,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjA.desc=通用研磨機是HV階段的�
 
 # Quest: Advanced Circuit Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.name=§5§l進階電路組裝機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.desc=EV電路板需要MV的電路組裝機，製造一臺吧。%n%n[note]不久之後，所有的電路板配方都會需要超淨間環境，儘快搭建好超淨間吧！[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.desc=EV電路需要MV的電路組裝機，製造一臺吧。%n%n[note]不久之後，所有的電路配方都會需要超淨間環境，儘快搭建好超淨間吧！[/note]
 
 # Quest: Advanced Circuit Assembler II
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.name=§5§l進階電路組裝機II
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.desc=工作站電路可以用來製造HV電路組裝機。這臺機器可以生產更加先進的電路板（IV）。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.desc=工作站電路可以用來製造HV電路組裝機。這臺機器可以生產更加先進的電路（IV）。
 
 # Quest: Mainframes, Your First IV Circuit 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.name=§5§l主機，你的第一種IV電路板
@@ -8425,7 +8425,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFig.desc=……在我的夢裡。要是�
 
 # Quest: Who Cares About a Little Cancer...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiw.name=誰在乎一點癌症……
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiw.desc=……要是你可以不必脫光衣服為奈米套裝充電？%n無線充電器可以為你的裝甲和工具充電，而無需將其放入電池緩衝區。%n%n僅能為小於或等於充電器電壓等級的裝甲或工具充電。%n%n輻射？你並不需要生孩子……
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiw.desc=……要是你可以不必脫光衣服為奈米套裝充電？%n無線充電器可以為你的裝甲和工具充電，而無需將其放入電池箱。%n%n僅能為小於或等於充電器電壓等級的裝甲或工具充電。%n%n輻射？你並不需要生孩子……
 
 # Quest: Lapotronic Energy Storage Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHHA.name=蘭波頓能量儲存矩陣（LESU）

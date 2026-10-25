@@ -1,0 +1,2125 @@
+{
+  "date": "2026-10-25",
+  "baseline": "e24b6a44a3f73fac84189c4a46b8238dfb7c8108",
+  "gtnh_version": "2.8.4",
+  "gregtech_version": "5.09.51.482",
+  "jar_sha256": "4ab7ce174a8f6fb7a90d8d11d56056aab2de577c36c6084b37ce890d7b1d67bf",
+  "scope": "逐條術語對照，非全部配方或整包語意校對；副本只核對指定片語。",
+  "rows": [
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.01.name",
+      "before": "基礎洗礦廠",
+      "after": "基礎洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Ore Washing Plant",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.01.name",
+      "before": "基礎洗礦廠",
+      "after": "基礎洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Ore Washing Plant",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.02.name",
+      "before": "進階洗礦廠",
+      "after": "進階洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Ore Washing Plant",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.02.name",
+      "before": "進階洗礦廠",
+      "after": "進階洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Ore Washing Plant",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.03.name",
+      "before": "進階洗礦廠 II",
+      "after": "進階洗礦機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Ore Washing Plant II",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.03.name",
+      "before": "進階洗礦廠 II",
+      "after": "進階洗礦機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Ore Washing Plant II",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.04.name",
+      "before": "進階洗礦廠 III",
+      "after": "進階洗礦機 III",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Ore Washing Plant III",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.04.name",
+      "before": "進階洗礦廠 III",
+      "after": "進階洗礦機 III",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Ore Washing Plant III",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.05.name",
+      "before": "波輪洗礦廠I-360",
+      "after": "改裝洗衣機 I-360",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Repurposed Laundry-Washer I-360",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.05.name",
+      "before": "波輪洗礦廠I-360",
+      "after": "改裝洗衣機 I-360",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Repurposed Laundry-Washer I-360",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.06.name",
+      "before": "精英洗礦廠",
+      "after": "精英洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Elite Ore Washing Plant",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.06.name",
+      "before": "精英洗礦廠",
+      "after": "精英洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Elite Ore Washing Plant",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.07.name",
+      "before": "精英洗礦廠 II",
+      "after": "精英洗礦機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Elite Ore Washing Plant II",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.07.name",
+      "before": "精英洗礦廠 II",
+      "after": "精英洗礦機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Elite Ore Washing Plant II",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.08.name",
+      "before": "終極滾筒洗礦廠",
+      "after": "終極洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Ultimate Ore Washing Machine",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.08.name",
+      "before": "終極滾筒洗礦廠",
+      "after": "終極洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Ultimate Ore Washing Machine",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.09.name",
+      "before": "史詩滾筒洗礦廠",
+      "after": "史詩洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Epic Ore Washing Machine",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.09.name",
+      "before": "史詩滾筒洗礦廠",
+      "after": "史詩洗礦機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Epic Ore Washing Machine",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.10.name",
+      "before": "史詩滾筒洗礦廠 II",
+      "after": "史詩洗礦機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Epic Ore Washing Machine II",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.10.name",
+      "before": "史詩滾筒洗礦廠 II",
+      "after": "史詩洗礦機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Epic Ore Washing Machine II",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.11.name",
+      "before": "史詩滾筒洗礦廠 III",
+      "after": "史詩洗礦機 III",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Epic Ore Washing Machine III",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.11.name",
+      "before": "史詩滾筒洗礦廠 III",
+      "after": "史詩洗礦機 III",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Epic Ore Washing Machine III",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.12.name",
+      "before": "史詩滾筒洗礦廠 IV",
+      "after": "史詩洗礦機 IV",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Epic Ore Washing Machine IV",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.orewasher.tier.12.name",
+      "before": "史詩滾筒洗礦廠 IV",
+      "after": "史詩洗礦機 IV",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Epic Ore Washing Machine IV",
+      "batch": "A-washer",
+      "note": "單方塊設備統一洗礦機；tier.05 的 Repurposed Laundry-Washer 保留洗衣機梗，等級與羅馬數字保持原值。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.macerator.tier.01.name",
+      "before": "基礎研磨機",
+      "after": "基礎研磨機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Macerator",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.macerator.tier.01.name",
+      "before": "基礎研磨機",
+      "after": "基礎研磨機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Macerator",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.macerator.tier.02.name",
+      "before": "進階研磨機",
+      "after": "進階研磨機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Macerator",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.macerator.tier.02.name",
+      "before": "進階研磨機",
+      "after": "進階研磨機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Macerator",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.macerator.tier.03.name",
+      "before": "通用研磨機",
+      "after": "通用研磨機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Universal Macerator",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.macerator.tier.03.name",
+      "before": "通用研磨機",
+      "after": "通用研磨機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Universal Macerator",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.centrifuge.tier.01.name",
+      "before": "基礎離心機",
+      "after": "基礎離心機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Centrifuge",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.centrifuge.tier.01.name",
+      "before": "基礎離心機",
+      "after": "基礎離心機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Centrifuge",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.centrifuge.tier.02.name",
+      "before": "進階離心機",
+      "after": "進階離心機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Centrifuge",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.centrifuge.tier.02.name",
+      "before": "進階離心機",
+      "after": "進階離心機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Centrifuge",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.centrifuge.tier.03.name",
+      "before": "渦輪離心機",
+      "after": "渦輪離心機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Turbo Centrifuge",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.centrifuge.tier.03.name",
+      "before": "渦輪離心機",
+      "after": "渦輪離心機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Turbo Centrifuge",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.electrolyzer.tier.01.name",
+      "before": "基礎電解機",
+      "after": "基礎電解機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Electrolyzer",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.electrolyzer.tier.01.name",
+      "before": "基礎電解機",
+      "after": "基礎電解機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Electrolyzer",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.electrolyzer.tier.02.name",
+      "before": "進階電解機",
+      "after": "進階電解機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Electrolyzer",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.electrolyzer.tier.02.name",
+      "before": "進階電解機",
+      "after": "進階電解機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Electrolyzer",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.electrolyzer.tier.03.name",
+      "before": "進階電解機 II",
+      "after": "進階電解機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Electrolyzer II",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.electrolyzer.tier.03.name",
+      "before": "進階電解機 II",
+      "after": "進階電解機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Electrolyzer II",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.chemicalreactor.tier.01.name",
+      "before": "基礎化學反應釜",
+      "after": "基礎化學反應釜",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Chemical Reactor",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.chemicalreactor.tier.01.name",
+      "before": "基礎化學反應釜",
+      "after": "基礎化學反應釜",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Chemical Reactor",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.chemicalreactor.tier.02.name",
+      "before": "進階化學反應釜",
+      "after": "進階化學反應釜",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Chemical Reactor",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.chemicalreactor.tier.02.name",
+      "before": "進階化學反應釜",
+      "after": "進階化學反應釜",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Chemical Reactor",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.chemicalreactor.tier.03.name",
+      "before": "進階化學反應釜 II",
+      "after": "進階化學反應釜 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Chemical Reactor II",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.chemicalreactor.tier.03.name",
+      "before": "進階化學反應釜 II",
+      "after": "進階化學反應釜 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Chemical Reactor II",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.circuitassembler.tier.01.name",
+      "before": "基礎電路組裝機",
+      "after": "基礎電路組裝機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Circuit Assembler",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.circuitassembler.tier.01.name",
+      "before": "基礎電路組裝機",
+      "after": "基礎電路組裝機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Circuit Assembler",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.circuitassembler.tier.02.name",
+      "before": "進階電路組裝機",
+      "after": "進階電路組裝機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Circuit Assembler",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.circuitassembler.tier.02.name",
+      "before": "進階電路組裝機",
+      "after": "進階電路組裝機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Circuit Assembler",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.circuitassembler.tier.03.name",
+      "before": "進階電路組裝機 II",
+      "after": "進階電路組裝機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Circuit Assembler II",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.circuitassembler.tier.03.name",
+      "before": "進階電路組裝機 II",
+      "after": "進階電路組裝機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Circuit Assembler II",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.wiremill.tier.01.name",
+      "before": "基礎線材軋機",
+      "after": "基礎線材軋機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Wiremill",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.wiremill.tier.01.name",
+      "before": "基礎線材軋機",
+      "after": "基礎線材軋機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Basic Wiremill",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.wiremill.tier.02.name",
+      "before": "進階線材軋機",
+      "after": "進階線材軋機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Wiremill",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.wiremill.tier.02.name",
+      "before": "進階線材軋機",
+      "after": "進階線材軋機",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Wiremill",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.wiremill.tier.03.name",
+      "before": "進階線材軋機 II",
+      "after": "進階線材軋機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Wiremill II",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.basicmachine.wiremill.tier.03.name",
+      "before": "進階線材軋機 II",
+      "after": "進階線材軋機 II",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Advanced Wiremill II",
+      "batch": "review",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.assembler",
+      "before": "組裝機",
+      "after": "組裝機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Assembler",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.assembler.description",
+      "before": "復仇者們，集結！",
+      "after": "復仇者們，集結！",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Avengers, Assemble!",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.metalbender",
+      "before": "卷板機",
+      "after": "卷板機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Bending Machine",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.metalbender.description",
+      "before": "噓,他是壞的!我們要本德! ! !",
+      "after": "噓,他是壞的!我們要本德! ! !",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Boo, he's bad! We want BENDER!!!",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.centrifuge",
+      "before": "離心機",
+      "after": "離心機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Centrifuge",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.centrifuge.description",
+      "before": "分離分子",
+      "after": "分離分子",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Separating Molecules",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.chemicalbath",
+      "before": "化學浸洗機",
+      "after": "化學浸洗機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Chemical Bath",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.chemicalbath.description",
+      "before": "用化學品浸漬以分離礦物",
+      "after": "用化學品浸漬以分離礦物",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Bathing Ores in Chemicals to separate them",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.chemicalreactor",
+      "before": "化學反應釜",
+      "after": "化學反應釜",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Chemical Reactor",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.chemicalreactor.description",
+      "before": "讓化學物質互相反應",
+      "after": "讓化學物質互相反應",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Letting Chemicals react with each other",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.circuitassembler",
+      "before": "電路組裝機",
+      "after": "電路組裝機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Circuit Assembler",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.circuitassembler.description",
+      "before": "易裝卸！",
+      "after": "易裝卸！",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Pick-n-Place all over the place",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.electrolyzer",
+      "before": "電解機",
+      "after": "電解機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Electrolyzer",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.electrolyzer.description",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.electromagneticseparator",
+      "before": "電磁離析機",
+      "after": "電磁離析機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Electromagnetic Separator",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.electromagneticseparator.description",
+      "before": "將帶磁性的礦物與其他部分分離開來",
+      "after": "將帶磁性的礦物與其他部分分離開來",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Separating the magnetic Ores from the rest",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.lathe",
+      "before": "車床",
+      "after": "車床",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Lathe",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.lathe.description",
+      "before": "更高效地生產桿",
+      "after": "更高效地生產桿",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Produces Rods more efficiently",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.macerator",
+      "before": "研磨機",
+      "after": "研磨機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Macerator",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.macerator.description",
+      "before": "粉碎你的礦物",
+      "after": "粉碎你的礦物",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Schreddering your Ores",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.orewasher",
+      "before": "洗礦機",
+      "after": "洗礦機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Ore Washer",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.orewasher.description",
+      "before": "從你的礦石中獲取更多的副產",
+      "after": "從你的礦石中獲取更多副產物",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Getting more Byproducts from your Ores",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.thermalcentrifuge",
+      "before": "熱力離心機",
+      "after": "熱力離心機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Thermal Centrifuge",
+      "batch": "review",
+      "note": "核對術語；保留既有參數及跨行顏色碼。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.thermalcentrifuge.description",
+      "before": "更細緻地分離礦石",
+      "after": "更細緻地分離礦石",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Separating Ores more precisely",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.wiremill",
+      "before": "線材軋機",
+      "after": "線材軋機",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Wiremill",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.wiremill.description",
+      "before": "更有效地生產導線",
+      "after": "更有效地生產導線",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Produces Wires more efficiently",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.largechemicalreactor",
+      "before": "大型化學反應釜",
+      "after": "大型化學反應釜",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Large Chemical Reactor",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "gt.recipe.category.macerator_recycling",
+      "before": "研磨機回收",
+      "after": "研磨機回收",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Macerator Recycling",
+      "batch": "B-processing",
+      "note": "對照 2.8.4 英文核對本條術語；不代表其他條目已校對。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "achievement.washing.desc",
+      "before": "得到純淨的粉碎礦石",
+      "after": "取得洗淨的粉碎礦石",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Get purified crushed ores",
+      "batch": "B-processing",
+      "note": "與 crushedPurified 洗淨階段一致；不等同 dustPure。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_00371_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_00372_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_00373_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_00374_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_00375_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_10850_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_10851_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_10852_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_10853_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_10854_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_10855_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "TileEntity_DESCRIPTION_10856_Index_00",
+      "before": "電離分子",
+      "after": "電解分子",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Electrolyzing Molecules",
+      "batch": "B-processing",
+      "note": "Electrolyzing 是電解，不是 ionizing（電離）。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.batterybuffer.01.tier.01.name",
+      "before": "低壓電池箱",
+      "after": "低壓電池箱",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Low Voltage Battery Buffer",
+      "batch": "review",
+      "note": "Battery Buffer 指儲存與充放電的設備，沿用電池箱。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.batterybuffer.01.tier.02.name",
+      "before": "中壓電池箱",
+      "after": "中壓電池箱",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "Medium Voltage Battery Buffer",
+      "batch": "review",
+      "note": "Battery Buffer 指儲存與充放電的設備，沿用電池箱。"
+    },
+    {
+      "file": "GregTech_zh_TW.lang",
+      "key": "gt.blockmachines.batterybuffer.01.tier.03.name",
+      "before": "高壓電池箱",
+      "after": "高壓電池箱",
+      "source": {
+        "kind": "runtime",
+        "file": "GregTech_US.lang"
+      },
+      "english": "High Voltage Battery Buffer",
+      "batch": "review",
+      "note": "Battery Buffer 指儲存與充放電的設備，沿用電池箱。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "GT5U.machines.battery_slot.tooltip",
+      "before": "電力槽",
+      "after": "電力槽",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Power Slot",
+      "batch": "review",
+      "note": "核對術語；保留既有參數及跨行顏色碼。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "GT5U.machines.battery_slot.tooltip.1",
+      "before": "§7使用 %1$s§7 電池供能",
+      "after": "§7使用 %1$s§7 電池供能",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "§7Draws from %1$s§7 batteries",
+      "batch": "review",
+      "note": "核對術語；保留既有參數及跨行顏色碼。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "GT5U.machines.battery_slot.tooltip.2",
+      "before": "§7可以為 %1$s§7 工具&電池充電",
+      "after": "§7可以為 %1$s§7 工具&電池充電",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "§7Charges %1$s§7 tools & batteries",
+      "batch": "review",
+      "note": "核對術語；保留既有參數及跨行顏色碼。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "GT5U.machines.battery_slot.tooltip.extended",
+      "before": "§4警告：§7 如果透過線纜輸入 ",
+      "after": "§4警告：§7 如果透過線纜輸入 ",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "§4Caution:§7 Will violently explode if",
+      "batch": "review",
+      "note": "核對術語；保留既有參數及跨行顏色碼。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "GT5U.machines.battery_slot.tooltip.extended.1",
+      "before": "§7%2$s§7+ 電壓將導致爆炸.",
+      "after": "§7%2$s§7+ 電壓將導致爆炸.",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "§7fed %2$s§7+ power through cables.",
+      "batch": "review",
+      "note": "核對術語；保留既有參數及跨行顏色碼。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "GT5U.tooltip.purify.1",
+      "before": "投入煉藥鍋以獲得洗淨的粉末",
+      "after": "投入煉藥鍋以獲得洗淨的粉末",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Throw into Cauldron to get clean Dust",
+      "batch": "review",
+      "note": "核對術語；保留既有參數及跨行顏色碼。"
+    },
+    {
+      "file": "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang",
+      "key": "GT5U.tooltip.purify.2",
+      "before": "丟進煉藥鍋即可得到乾淨的粉碎礦石",
+      "after": "丟進煉藥鍋即可得到乾淨的粉碎礦石",
+      "source": {
+        "kind": "jar",
+        "entry": "assets/gregtech/lang/en_US.lang"
+      },
+      "english": "Can be used as Enriched Naquadah Fuel Substitute",
+      "batch": "review",
+      "note": "僅核對術語與呼叫語境；purify.2 英文錯置，依 BWMetaGeneratedItems.addAdditionalToolTips 的 crushed 分支保留洗淨語意。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.name",
+      "before": "§2§l基礎電路組裝機",
+      "after": "§2§l基礎電路組裝機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicCircuitAsse-AAAAAAAAAAAAAAAAAAADGw==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lBasic Circuit Assembler",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc",
+      "before": "高階電路板（HV）需要一臺LV電路組裝機。用它來合成基礎電路板（LV）和優質電路板（MV），可以大幅度提升效率。%n%n不過，所有電路組裝機都需要比同電壓其他機器更高等級的電路板。這意味著你必須用MV電路板，而不是現在一直在用的LV電路板。我知道你想要它，所以趕緊做出來吧！",
+      "after": "高階電路（HV）需要一臺LV電路組裝機。用它來合成基礎電路（LV）和優質電路（MV），可以大幅度提升效率。%n%n不過，所有電路組裝機都需要比同電壓其他機器更高等級的電路。這意味著你必須用MV電路，而不是現在一直在用的LV電路。我知道你想要它，所以趕緊做出來吧！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicCircuitAsse-AAAAAAAAAAAAAAAAAAADGw==.json",
+        "field": "english"
+      },
+      "english": "Advanced (HV) circuits require an LV circuit assembling machine. Basic (LV) and Good (MV) ones can also be made much more efficiently with this machine.\n\nHowever, all circuit assemblers need higher tier circuits than the other machines of their tier. This means you have to use MV circuits instead of the LV ones you've been using until now. I know you want it, so make it already!",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name",
+      "before": "§2§l電力研磨機",
+      "after": "§2§l電力研磨機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ElectricMacerato-AAAAAAAAAAAAAAAAAAAAXg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lElectric Macerator",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc",
+      "before": "強烈推薦做一個，因為使用電力進行研磨時，煤炭或蒸汽的利用效率會大大提高。%n%n到了HV階段，研磨機會解鎖一個額外槽位，隨後在EV和IV階段又會各增加一個槽位。第二個槽位可以產出更多副產物，非常§o非常§r有用。第三個槽位會產出礦石材質對應的粉。第四個槽位基本僅用於回收物品。%n%n[note]你也可以考慮使用蒸汽多方塊版本的研磨機。[/note]",
+      "after": "強烈推薦做一個，因為使用電力進行研磨時，煤炭或蒸汽的利用效率會大大提高。%n%n到了HV階段，研磨機會解鎖一個額外槽位，隨後在EV和IV階段又會各增加一個槽位。第二個槽位可以產出更多副產物，非常§o非常§r有用。第三個槽位會產出礦石材質對應的粉。第四個槽位基本僅用於回收物品。%n%n[note]你也可以考慮使用蒸汽多方塊版本的研磨機。[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ElectricMacerato-AAAAAAAAAAAAAAAAAAAAXg==.json",
+        "field": "english"
+      },
+      "english": "It is highly recommended to get one of these, as the efficiency in terms of coal/steam used to macerate something is a lot better when using EU.\n\nYou get the first extra slot at HV, then +1 for EV and IV. The 2nd slot is for more byproducts, and is super §osuper§r useful. The 3rd slot is for ore block dusts. The 4th slot is basically only used for recycling stuff.\n\n[note]You can also consider using the steam multiblock instead if you want.[/note]",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name",
+      "before": "§2§l空電池（藍石）",
+      "after": "§2§l空電池（藍石）",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ElectrotineBatte-AAAAAAAAAAAAAAAAAAAChg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lElectrotine Battery",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc",
+      "before": "空電池這種藍石電池專門用於PR的機器跟噴氣揹包中。藍石粉由紅石跟琥珀金粉攪拌而成，或者直接在地獄挖礦獲取。",
+      "after": "空電池這種藍石電池專門用於PR的機器跟噴氣揹包中。藍石粉由紅石跟琥珀金粉攪拌而成，或者直接在地獄挖礦獲取。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ElectrotineBatte-AAAAAAAAAAAAAAAAAAAChg==.json",
+        "field": "english"
+      },
+      "english": "The electrotine battery is exclusively used in project red machines and the jetpack. Electrotine is made by mixing redstone and electrum dust in a mixer, or mined from the Nether.",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.name",
+      "before": "§2§lIC2電池",
+      "after": "§2§lIC2電池",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/IC2Battery-AAAAAAAAAAAAAAAAAAACbA==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lIC2 Battery",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.desc",
+      "before": "有些配方會用到IC2電池，將你的小型電池外殼填充熔融紅石，即可獲得充電電池。",
+      "after": "有些配方會用到IC2電池，將你的小型電池外殼填充熔融紅石，即可獲得充電電池。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/IC2Battery-AAAAAAAAAAAAAAAAAAACbA==.json",
+        "field": "english"
+      },
+      "english": "A few recipes require IC2 batteries. Fill your small battery hull with some molten redstone and you'll get an RE-Battery.",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcA.name",
+      "before": "§2§l無損LV線纜",
+      "after": "§2§l無損LV線纜",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/LosslessLVCables-AAAAAAAAAAAAAAAAAAAEcA==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lLossless LV Cables",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcA.desc",
+      "before": "無損的32 EU線纜怎麼樣？紅石合金是一種超導材料，可以無損傳輸你的能量。%n%n紅石合金是一種需要工業高爐才能冶煉的新合金。將紅石、矽粉和煤粉手動混合，或者使用攪拌機獲得更多產出。%n%n[note]別把它和紅色合金弄混了，那是ULV的材料。[/note]",
+      "after": "無損的32 EU線纜怎麼樣？紅石合金是一種超導材料，可以無損傳輸你的能量。%n%n紅石合金是一種需要工業高爐才能冶煉的新合金。將紅石、矽粉和煤粉手動混合，或者使用攪拌機獲得更多產出。%n%n[note]別把它和紅色合金弄混了，那是ULV的材料。[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/LosslessLVCables-AAAAAAAAAAAAAAAAAAAEcA==.json",
+        "field": "english"
+      },
+      "english": "How about lossless 32 EU cables? Redstone alloy is a superconductor and will transfer your energy without any loss.\n\nRedstone Alloy is a new alloy which requires an EBF. Mix redstone, silicon and coal by hand, or in the mixer for a better result.\n\n[note]Remember not to mix it up with Red Alloy, that's the ULV one.[/note]",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.name",
+      "before": "§2§l熱力離心機",
+      "after": "§2§l熱力離心機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ThermalCentrifug-AAAAAAAAAAAAAAAAAAACVw==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lThermal Centrifuge",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.desc",
+      "before": "這是一種可以從粉碎或洗淨的礦石粉中提取各類副產物的機器。它能從粉碎的鋅礦石中提取少量鎵，用於製作優質電路所需的二極體。%n%n當你有了 IC2 核反應爐，想要回收枯竭燃料棒時，這臺機器是唯一的選擇。%n%n如果你現在還無法為這臺機器提供 2A 的 LV 電力，那就等到進入 MV 階段後，用變壓器給 LV 版本供電吧。%n%n在 LV 階段，你也可以透過不同的方法獲得相同的礦石副產物。熱力離心機只有在 HV 階段，能與HV研磨機配合使用時，才會變得非常重要。%n%n[warn]直接將 MV 電壓的電輸入 LV 機器，就算機器能消耗不止 1A 電流，也會導致爆炸，請勿嘗試。[/warn]",
+      "after": "這是一種可以從粉碎或洗淨的礦石中提取各類副產物的機器。它能從粉碎的鋅礦石中提取少量鎵，用於製作優質電路所需的二極體。%n%n當你有了 IC2 核反應爐，想要回收枯竭燃料棒時，這臺機器是唯一的選擇。%n%n如果你現在還無法為這臺機器提供 2A 的 LV 電力，那就等到進入 MV 階段後，用變壓器給 LV 版本供電吧。%n%n在 LV 階段，你也可以透過不同的方法獲得相同的礦石副產物。熱力離心機只有在 HV 階段，能與HV研磨機配合使用時，才會變得非常重要。%n%n[warn]直接將 MV 電壓的電輸入 LV 機器，就算機器能消耗不止 1A 電流，也會導致爆炸，請勿嘗試。[/warn]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ThermalCentrifug-AAAAAAAAAAAAAAAAAAACVw==.json",
+        "field": "english"
+      },
+      "english": "A machine to get different byproducts out of your crushed or purified ore dust. It's useful for getting a bit of Gallium out of crushed Zinc Ore for your Diodes needed in good circuits.\n\nWhen you have IC2 nuclear reactors and want to recycle your depleted fuel rods, it's the only way to do so.\n\nIf you can't produce the 2A of LV power for this machine right now, wait until you get to MV and use transformers to power an LV version.\n\nIn LV, you can obtain the same ore byproducts via different methods. The Thermal Centrifuge only becomes really important in HV when you can combine it with the HV macerator.\n\n[warn]Sending MV power to an LV device, even if it uses more than 1A will cause an explosion, so don't do that.[/warn]",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKg.name",
+      "before": "§6§l進階離心機",
+      "after": "§6§l進階離心機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/AdvancedCentrifu-AAAAAAAAAAAAAAAAAAAFKg==.json",
+        "field": "english_name"
+      },
+      "english": "§6§lAdvanced Centrifuge",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKg.desc",
+      "before": "MV離心機的速度是LV版本的2倍，但功耗是其4倍。",
+      "after": "MV離心機的速度是LV版本的2倍，但功耗是其4倍。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/AdvancedCentrifu-AAAAAAAAAAAAAAAAAAAFKg==.json",
+        "field": "english"
+      },
+      "english": "The MV centrifuge is twice as fast as the LV one but uses 4x the power.",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKQ.name",
+      "before": "§6§l進階研磨機",
+      "after": "§6§l進階研磨機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/AdvancedMacerato-AAAAAAAAAAAAAAAAAAAFKQ==.json",
+        "field": "english_name"
+      },
+      "english": "§6§lAdvanced Macerator",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKQ.desc",
+      "before": "MV研磨機的速度是LV版本的2倍，但功耗是其4倍。",
+      "after": "MV研磨機的速度是LV版本的2倍，但功耗是其4倍。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/AdvancedMacerato-AAAAAAAAAAAAAAAAAAAFKQ==.json",
+        "field": "english"
+      },
+      "english": "The MV macerator is twice as fast as the LV one but uses 4x the power.",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-w.name",
+      "before": "§6§l電解硼砂",
+      "after": "§6§l電解硼砂",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/BoraxElectrolyzi-AAAAAAAAAAAAAAAAAAAH-w==.json",
+        "field": "english_name"
+      },
+      "english": "§6§lBorax Electrolyzing",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-w.desc",
+      "before": "有了MV電解機，你就能從硼砂中電解出硼。這種元素稍後可用於製作硼玻璃和玻璃纖維，但現在你可以用它來製作有精確容量的容量瓶。這對某些只需少量流體的配方很有用。",
+      "after": "有了MV電解機，你就能從硼砂中電解出硼。這種元素稍後可用於製作硼玻璃和玻璃纖維，但現在你可以用它來製作有精確容量的容量瓶。這對某些只需少量流體的配方很有用。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/BoraxElectrolyzi-AAAAAAAAAAAAAAAAAAAH-w==.json",
+        "field": "english"
+      },
+      "english": "Now that you have an MV Electrolyzer, you can extract Boron from Borax. This element is used later on for Borosilicate Glass and fiber, but for now you can use it to make some volumetric flasks to hold precise amounts. This is handy for recipes that may only need a tiny amount of a substance, like 1L.",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.name",
+      "before": "§6§l電解黏土",
+      "after": "§6§l電解黏土",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/ClayElectrolyzin-AAAAAAAAAAAAAAAAAAAC-A==.json",
+        "field": "english_name"
+      },
+      "english": "§6§lClay Electrolyzing",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.desc",
+      "before": "要是翻過NEI，你可能已經發現：電解黏土粉可以得到氧化鋁、二氧化矽、鈉和鋰粉，以及水——不過你大概已經直接銷燬了，對吧？在峽谷（Canyon）、平頂山（Mesa）、繁茂沙漠（Lush Desert）這類生物群系中，存在著大量的陶瓦，山脈（Mountains）上也能找到幾塊到幾十塊不等，把它們粉碎就能得到黏土粉。%n%n到了MV階段，獲取氧化鋁的途徑會多起來，等你到EV階段時，它基本上就不值什麼錢了。",
+      "after": "要是翻過NEI，你可能已經發現：電解黏土粉可以得到氧化鋁、二氧化矽、鈉和鋰粉，以及水——不過你大概已經直接銷燬了，對吧？在峽谷（Canyon）、平頂山（Mesa）、繁茂沙漠（Lush Desert）這類生物群系中，存在著大量的陶瓦，山脈（Mountains）上也能找到幾塊到幾十塊不等，把它們粉碎就能得到黏土粉。%n%n到了MV階段，獲取氧化鋁的途徑會多起來，等你到EV階段時，它基本上就不值什麼錢了。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/ClayElectrolyzin-AAAAAAAAAAAAAAAAAAAC-A==.json",
+        "field": "english"
+      },
+      "english": "If you looked through NEI you may have found out that electrolyzing clay dust will give you Alumina, Silicon Dioxide, Sodium, and Lithium dust. And water, but you're probably just voiding that already, right? There are plenty of stained clay blocks found in canyon, mesa, lush desert biomes or several to a couple dozen on mountains that can be pulverized to clay dust.\n\nThere are more ways to get alumina now that you're in MV, enough that it's basically worthless by the time you get to EV.",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.name",
+      "before": "§6§l電解萬物",
+      "after": "§6§l電解萬物",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/ElectrolyzingAll-AAAAAAAAAAAAAAAAAAAAfg==.json",
+        "field": "english_name"
+      },
+      "english": "§6§lElectrolyzing All the Things",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.desc",
+      "before": "自從開始粉碎、洗礦和離心礦石以來，你是不是攢了一堆派不上用場的各種粉？現在終於可以把裡面的有用材料全都提取出來了。%n%n這臺機器對推進MV階段§o非常§r重要。如果你找到了一個有著大量陶瓦的生物群系，就可以用這臺機器（加上其他幾臺機器）把它們處理成鈉、鋰、矽、鋁和氧！",
+      "after": "自從開始粉碎、洗礦和離心礦石以來，你是不是攢了一堆派不上用場的各種粉？現在終於可以把裡面的有用材料全都提取出來了。%n%n這臺機器對推進MV階段§o非常§r重要。如果你找到了一個有著大量陶瓦的生物群系，就可以用這臺機器（加上其他幾臺機器）把它們處理成鈉、鋰、矽、鋁和氧！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/ElectrolyzingAll-AAAAAAAAAAAAAAAAAAAAfg==.json",
+        "field": "english"
+      },
+      "english": "Collected a lot of dusts you can't do anything with since you started with macerating, washing and centrifuging ores? It's finally time to get all the useful materials out of them.\n\nThis machine is §overy§r important for your MV progression. If you find a biome with tons of Stained or Hardened Clay, you can process it here, plus some other machines, into Sodium, Lithium, Silicon, Aluminium and Oxygen!",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.name",
+      "before": "§6§l電解紅寶石",
+      "after": "§6§l電解紅寶石",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/RubyElectrolyzin-AAAAAAAAAAAAAAAAAAAC9Q==.json",
+        "field": "english_name"
+      },
+      "english": "§6§lRuby Electrolyzing",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.desc",
+      "before": "紅寶石礦是鉻和少量氧化鋁的優質來源。如果你的紅寶石儲量不足，可以離心紅石獲取它。%n%n氧化鋁和氧的另一個優秀來源是紅花崗岩粉。你可以從紅花崗蓮中獲取它。關於作物的介紹，詳見“綠色革命”任務章節。",
+      "after": "紅寶石礦是鉻和少量氧化鋁的優質來源。如果你的紅寶石儲量不足，可以離心紅石獲取它。%n%n氧化鋁和氧的另一個優秀來源是紅花崗岩粉。你可以從紅花崗蓮中獲取它。關於作物的介紹，詳見“綠色革命”任務章節。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/RubyElectrolyzin-AAAAAAAAAAAAAAAAAAAC9Q==.json",
+        "field": "english"
+      },
+      "english": "Ruby is a good source for chrome and a little alumina. Once you get low on Ruby, you can centrifuge Redstone to get more.\n\nAnother good source of alumina and oxygen is red granite dusts. You can get those from red stonelillies. Check out the Fishing Farming Cooking tab for more details about IC2 crops.",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.name",
+      "before": "§5§l進階電路組裝機",
+      "after": "§5§l進階電路組裝機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExQ==.json",
+        "field": "english_name"
+      },
+      "english": "§9§lAdvanced Circuit Assembler",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.desc",
+      "before": "EV電路板需要MV的電路組裝機，製造一臺吧。%n%n[note]不久之後，所有的電路板配方都會需要超淨間環境，儘快搭建好超淨間吧！[/note]",
+      "after": "EV電路需要MV的電路組裝機，製造一臺吧。%n%n[note]不久之後，所有的電路配方都會需要超淨間環境，儘快搭建好超淨間吧！[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExQ==.json",
+        "field": "english"
+      },
+      "english": "EV circuits need an MV Circuit Assembler, so make one.\n\n[note]Shortly after this, all circuit recipes will need a cleanroom, so get started on it![/note]",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.name",
+      "before": "§5§l進階電路組裝機II",
+      "after": "§5§l進階電路組裝機II",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExg==.json",
+        "field": "english_name"
+      },
+      "english": "§9§lAdvanced Circuit Assembler II",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.desc",
+      "before": "工作站電路可以用來製造HV電路組裝機。這臺機器可以生產更加先進的電路板（IV）。",
+      "after": "工作站電路可以用來製造HV電路組裝機。這臺機器可以生產更加先進的電路（IV）。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExg==.json",
+        "field": "english"
+      },
+      "english": "With your workstation circuits you can craft an HV circuit assembler. This is needed for IV circuits.",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjA.name",
+      "before": "§5§l通用研磨機",
+      "after": "§5§l通用研磨機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/UniversalMacerat-AAAAAAAAAAAAAAAAAAAEjA==.json",
+        "field": "english_name"
+      },
+      "english": "§9§lUniversal Macerator",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjA.desc",
+      "before": "通用研磨機是HV階段的重要機器之一。 它有一個額外的輸出槽，在研磨的過程中這個額外的輸出槽可以獲得更多的材料。 你非常，非常，非常需要這臺機器。有了它，你就能對鎵危機說再見了！",
+      "after": "通用研磨機是HV階段的重要機器之一。 它有一個額外的輸出槽，在研磨的過程中這個額外的輸出槽可以獲得更多的材料。 你非常，非常，非常需要這臺機器。有了它，你就能對鎵危機說再見了！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/UniversalMacerat-AAAAAAAAAAAAAAAAAAAEjA==.json",
+        "field": "english"
+      },
+      "english": "One of the most important machines in HV is the Universal Macerator. It has an additional output slot to get more materials when macerating ores. You want this, really, really, badly. If you get it, you can say goodbye to your Gallium worries!",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiw.name",
+      "before": "誰在乎一點癌症……",
+      "after": "誰在乎一點癌症……",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/WhoCaresAboutaLi-AAAAAAAAAAAAAAAAAAAFiw==.json",
+        "field": "english_name"
+      },
+      "english": "Who Cares About a Little Cancer...",
+      "batch": "review",
+      "note": "任務術語對照閱讀；顏色與部分機制內容有版本差異，不宣稱已完全驗證配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiw.desc",
+      "before": "……要是你可以不必脫光衣服為奈米套裝充電？%n無線充電器可以為你的裝甲和工具充電，而無需將其放入電池緩衝區。%n%n僅能為小於或等於充電器電壓等級的裝甲或工具充電。%n%n輻射？你並不需要生孩子……",
+      "after": "……要是你可以不必脫光衣服為奈米套裝充電？%n無線充電器可以為你的裝甲和工具充電，而無需將其放入電池箱。%n%n僅能為小於或等於充電器電壓等級的裝甲或工具充電。%n%n輻射？你並不需要生孩子……",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/WhoCaresAboutaLi-AAAAAAAAAAAAAAAAAAAFiw==.json",
+        "field": "english"
+      },
+      "english": "...when it means you don't have to strip naked to recharge your nanosuit?\nThe Wireless Charger will keep your armor and tools charged up without having to put them into a battery buffer.\n\nIt will charge armor and tools at the tier and below.\n\nYou didn't want kids anyways...",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.name",
+      "before": "§2§l基礎洗礦廠",
+      "after": "§2§l基礎洗礦機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicOreWasher-AAAAAAAAAAAAAAAAAAACGg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lBasic Ore Washer",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.desc",
+      "before": "研磨礦石通常會使產出翻倍。如果你還想要更更更更多，那就造一臺洗礦機，洗出一些稀有材料吧。%n%n注意，洗礦廠需要用水，而且速度慢得令人抓狂。%n%n請放入粉碎的礦石。%n%n[note]你也可以考慮使用蒸汽多方塊版本的洗礦廠。[/note]",
+      "after": "研磨礦石通常會使產出翻倍。如果你還想要更更更更多，那就造一臺洗礦機，洗出一些稀有材料吧。%n%n注意，洗礦機需要用水，而且速度慢得令人抓狂。%n%n請放入粉碎的礦石。%n%n[note]你也可以考慮使用蒸汽多方塊版本的洗礦機。[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicOreWasher-AAAAAAAAAAAAAAAAAAACGg==.json",
+        "field": "english"
+      },
+      "english": "Macerating ores usually doubles the output. If you want MOOOOOOORE, craft an ore washer and wash out some rare materials.\n\nNote that these both use water, and are painfully slow.\n\nPut crushed ore in them.\n\n[note]You can also consider using the steam multiblock instead if you want.[/note]",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.name",
+      "before": "§5§l基礎洗礦廠",
+      "after": "§5§l基礎洗礦機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicOreWasher-AAAAAAAAAAAAAAAAAAACGg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lBasic Ore Washer",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest538.name",
+      "before": "§5§l基礎洗礦廠",
+      "after": "§5§l基礎洗礦機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicOreWasher-AAAAAAAAAAAAAAAAAAACGg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lBasic Ore Washer",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.desc",
+      "before": "使用粉碎機處理礦物可以使你獲得了雙倍的產量.但是如果你想獲得更多,那麼你就需要製造一臺洗礦廠來清洗那些非常珍貴的礦石,以獲得更多的產物.%n%n請注意,洗礦廠需要用水,而且慢得令人痛苦.%n%n請放入粉碎的礦石.%n%n[note]如果你想要的話,也可以考慮蒸汽多方塊機器.[/note]",
+      "after": "使用研磨機處理礦物可以使你獲得雙倍的產量.但是如果你想獲得更多,那麼你就需要製造一臺洗礦機來清洗那些非常珍貴的礦石,以獲得更多的產物.%n%n請注意,洗礦機需要用水,而且慢得令人痛苦.%n%n請放入粉碎的礦石.%n%n[note]如果你想要的話,也可以考慮蒸汽多方塊機器.[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicOreWasher-AAAAAAAAAAAAAAAAAAACGg==.json",
+        "field": "english"
+      },
+      "english": "Macerating ores usually doubles the output. If you want MOOOOOOORE, craft an ore washer and wash out some rare materials.\n\nNote that these both use water, and are painfully slow.\n\nPut crushed ore in them.\n\n[note]You can also consider using the steam multiblock instead if you want.[/note]",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest538.desc",
+      "before": "使用粉碎機處理礦物可以使你獲得了雙倍的產量.但是如果你想獲得更多,那麼你就需要製造一臺洗礦廠來清洗那些非常珍貴的礦石,以獲得更多的產物.%n%n請注意,洗礦廠需要用水,而且慢得令人痛苦.%n%n§3PS,請使用粉碎的礦石.",
+      "after": "使用研磨機處理礦物可以使你獲得雙倍的產量.但是如果你想獲得更多,那麼你就需要製造一臺洗礦機來清洗那些非常珍貴的礦石,以獲得更多的產物.%n%n請注意,洗礦機需要用水,而且慢得令人痛苦.%n%n§3PS,請使用粉碎的礦石.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicOreWasher-AAAAAAAAAAAAAAAAAAACGg==.json",
+        "field": "english"
+      },
+      "english": "Macerating ores usually doubles the output. If you want MOOOOOOORE, craft an ore washer and wash out some rare materials.\n\nNote that these both use water, and are painfully slow.\n\nPut crushed ore in them.\n\n[note]You can also consider using the steam multiblock instead if you want.[/note]",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc",
+      "before": "高階電路板(HV)需要一臺LV級電路組裝機.用它來合成基礎的電路板(LV)和不錯的電路板(MV),可以大幅度提升效率.%n%n但是,所有的電路組裝機都需要比其他機器所需求的更高一級的電路板.這意味著你需要用MV電路板來替代你現在一直在用的LV電路板.我知道你想要它,製造一臺吧!",
+      "after": "高階電路(HV)需要一臺LV級電路組裝機.用它來合成基礎的電路(LV)和優質電路(MV),可以大幅度提升效率.%n%n但是,所有的電路組裝機都需要比其他機器所需求的更高一級的電路.這意味著你需要用MV電路來替代你現在一直在用的LV電路.我知道你想要它,製造一臺吧!",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicCircuitAsse-AAAAAAAAAAAAAAAAAAADGw==.json",
+        "field": "english"
+      },
+      "english": "Advanced (HV) circuits require an LV circuit assembling machine. Basic (LV) and Good (MV) ones can also be made much more efficiently with this machine.\n\nHowever, all circuit assemblers need higher tier circuits than the other machines of their tier. This means you have to use MV circuits instead of the LV ones you've been using until now. I know you want it, so make it already!",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest795.desc",
+      "before": "高階電路板(HV)需要一臺LV級電路組裝機.用它來合成基礎的電路板(LV)和不錯的電路板(MV),可以大幅度提升效率.%n%n但是,所有的電路組裝機都需要比其他機器所需求的更高一級的電路板.這意味著你需要用MV電路板來替代你現在一直在用的LV電路板.我知道你想要它,製造一臺吧!",
+      "after": "高階電路(HV)需要一臺LV級電路組裝機.用它來合成基礎的電路(LV)和優質電路(MV),可以大幅度提升效率.%n%n但是,所有的電路組裝機都需要比其他機器所需求的更高一級的電路.這意味著你需要用MV電路來替代你現在一直在用的LV電路.我知道你想要它,製造一臺吧!",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicCircuitAsse-AAAAAAAAAAAAAAAAAAADGw==.json",
+        "field": "english"
+      },
+      "english": "Advanced (HV) circuits require an LV circuit assembling machine. Basic (LV) and Good (MV) ones can also be made much more efficiently with this machine.\n\nHowever, all circuit assemblers need higher tier circuits than the other machines of their tier. This means you have to use MV circuits instead of the LV ones you've been using until now. I know you want it, so make it already!",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.desc",
+      "before": "EV電路板需要MV的電路組裝機,製造一臺吧.%n%n[note]不久之後,所有的電路板配方都會需要超淨間環境,儘快搭建好超淨間吧![/note]",
+      "after": "EV電路需要MV的電路組裝機,製造一臺吧.%n%n[note]不久之後,所有的電路配方都會需要超淨間環境,儘快搭建好超淨間吧![/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExQ==.json",
+        "field": "english"
+      },
+      "english": "EV circuits need an MV Circuit Assembler, so make one.\n\n[note]Shortly after this, all circuit recipes will need a cleanroom, so get started on it![/note]",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest1221.desc",
+      "before": "EV電路板需要MV的電路組裝機,製造一臺吧.%n%n§y§3不久之後,所有的電路板配方都會需要超淨間環境,儘快搭建好超淨間吧!",
+      "after": "EV電路需要MV的電路組裝機,製造一臺吧.%n%n§y§3不久之後,所有的電路配方都會需要超淨間環境,儘快搭建好超淨間吧!",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExQ==.json",
+        "field": "english"
+      },
+      "english": "EV circuits need an MV Circuit Assembler, so make one.\n\n[note]Shortly after this, all circuit recipes will need a cleanroom, so get started on it![/note]",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.desc",
+      "before": "工作站電路可以用來製造HV電路組裝機.這臺機器可以生產更加先進的電路板(IV).",
+      "after": "工作站電路可以用來製造HV電路組裝機.這臺機器可以生產更加先進的電路(IV).",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExg==.json",
+        "field": "english"
+      },
+      "english": "With your workstation circuits you can craft an HV circuit assembler. This is needed for IV circuits.",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest1222.desc",
+      "before": "工作站電路可以用來製造HV電路組裝機.這臺機器可以生產更加先進的電路板(IV).",
+      "after": "工作站電路可以用來製造HV電路組裝機.這臺機器可以生產更加先進的電路(IV).",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/AdvancedCircuitA-AAAAAAAAAAAAAAAAAAAExg==.json",
+        "field": "english"
+      },
+      "english": "With your workstation circuits you can craft an HV circuit assembler. This is needed for IV circuits.",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiw.desc",
+      "before": "...要是你可以不必脫光衣服為奈米套裝充電？%n無線充電器可以為你的裝甲和工具充電(等於或小於充電器的電壓等級)(譯者注: 實測大於也能充- -),而無需將其放入電池緩衝區.%n%n你還是不想要孩子...",
+      "after": "...要是你可以不必脫光衣服為奈米套裝充電？%n無線充電器可以為你的裝甲和工具充電(等於或小於充電器的電壓等級)(譯者注: 實測大於也能充- -),而無需將其放入電池箱.%n%n你還是不想要孩子...",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/WhoCaresAboutaLi-AAAAAAAAAAAAAAAAAAAFiw==.json",
+        "field": "english"
+      },
+      "english": "...when it means you don't have to strip naked to recharge your nanosuit?\nThe Wireless Charger will keep your armor and tools charged up without having to put them into a battery buffer.\n\nIt will charge armor and tools at the tier and below.\n\nYou didn't want kids anyways...",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest1419.desc",
+      "before": "...要是你可以不必脫光衣服為奈米套裝充電？%n無線充電器可以為你的裝甲和工具充電(等於或小於充電器的電壓等級)(譯者注: 實測大於也能充- -),而無需將其放入電池緩衝區.%n%n你還是不想要孩子...",
+      "after": "...要是你可以不必脫光衣服為奈米套裝充電？%n無線充電器可以為你的裝甲和工具充電(等於或小於充電器的電壓等級)(譯者注: 實測大於也能充- -),而無需將其放入電池箱.%n%n你還是不想要孩子...",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/WhoCaresAboutaLi-AAAAAAAAAAAAAAAAAAAFiw==.json",
+        "field": "english"
+      },
+      "english": "...when it means you don't have to strip naked to recharge your nanosuit?\nThe Wireless Charger will keep your armor and tools charged up without having to put them into a battery buffer.\n\nIt will charge armor and tools at the tier and below.\n\nYou didn't want kids anyways...",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.desc",
+      "before": "想從粉碎礦石或者純淨礦石粉中獲得不同的副產物,熱力離心機是個選擇.%n%n熱力離心機還是回收IC2核反應爐產物-枯竭燃料棒的唯一方式.%n%n它還可以從粉碎鋅礦石中獲取一點點鎵,這是不錯的電路板上二極體的必需品. 打粉離心過後的閃鋅礦,在粉碎機第二格內也有機率出現鎵.%n%n如果你無法穩定提供2A的LV電能,等你到達MV後,將MV變壓成LV再使用它吧.%n%n在LV階段,你也可以透過不同的方法獲得相同的礦石副產物.熱力離心機,只有和HV以上研磨機結合使用,才會顯出其真正的價值.%n%n[warn]直接將MV電壓輸入LV機器,就算機器消耗不止1A也會導致爆炸,所以請勿這樣操作.[/warn]",
+      "after": "想從粉碎礦石或者洗淨礦石中獲得不同的副產物,熱力離心機是個選擇.%n%n熱力離心機還是回收IC2核反應爐產物-枯竭燃料棒的唯一方式.%n%n它還可以從粉碎鋅礦石中獲取一點點鎵,這是製作優質電路所需二極體的必要材料. 打粉離心過後的閃鋅礦,在研磨機第二格內也有機率出現鎵.%n%n如果你無法穩定提供2A的LV電能,等你到達MV後,將MV變壓成LV再使用它吧.%n%n在LV階段,你也可以透過不同的方法獲得相同的礦石副產物.熱力離心機,只有和HV以上研磨機結合使用,才會顯出其真正的價值.%n%n[warn]直接將MV電壓輸入LV機器,就算機器消耗不止1A也會導致爆炸,所以請勿這樣操作.[/warn]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ThermalCentrifug-AAAAAAAAAAAAAAAAAAACVw==.json",
+        "field": "english"
+      },
+      "english": "A machine to get different byproducts out of your crushed or purified ore dust. It's useful for getting a bit of Gallium out of crushed Zinc Ore for your Diodes needed in good circuits.\n\nWhen you have IC2 nuclear reactors and want to recycle your depleted fuel rods, it's the only way to do so.\n\nIf you can't produce the 2A of LV power for this machine right now, wait until you get to MV and use transformers to power an LV version.\n\nIn LV, you can obtain the same ore byproducts via different methods. The Thermal Centrifuge only becomes really important in HV when you can combine it with the HV macerator.\n\n[warn]Sending MV power to an LV device, even if it uses more than 1A will cause an explosion, so don't do that.[/warn]",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest599.desc",
+      "before": "想從粉碎礦石或者純淨礦石粉中獲得不同的副產物,熱力離心機是個選擇.%n%n熱力離心機還是回收IC2核反應爐產物-枯竭燃料棒的唯一方式.%n%n它還可以從粉碎鋅礦石中獲取一點點鎵,這是不錯的電路板上二極體的必需品. 打粉離心過後的閃鋅礦,在粉碎機第二格內也有機率出現鎵.%n%n如果你無法穩定提供2A的LV電能,等你到達MV後,將MV變壓成LV再使用它吧.%n%n在LV階段,你也可以透過不同的方法獲得相同的礦石副產物.熱力離心機,只有和HV以上研磨機結合使用,才會顯出其真正的價值.%n%n§4直接將MV電壓輸入LV機器,就算機器消耗不止1A也會導致爆炸,所以請勿這樣操作.",
+      "after": "想從粉碎礦石或者洗淨礦石中獲得不同的副產物,熱力離心機是個選擇.%n%n熱力離心機還是回收IC2核反應爐產物-枯竭燃料棒的唯一方式.%n%n它還可以從粉碎鋅礦石中獲取一點點鎵,這是製作優質電路所需二極體的必要材料. 打粉離心過後的閃鋅礦,在研磨機第二格內也有機率出現鎵.%n%n如果你無法穩定提供2A的LV電能,等你到達MV後,將MV變壓成LV再使用它吧.%n%n在LV階段,你也可以透過不同的方法獲得相同的礦石副產物.熱力離心機,只有和HV以上研磨機結合使用,才會顯出其真正的價值.%n%n§4直接將MV電壓輸入LV機器,就算機器消耗不止1A也會導致爆炸,所以請勿這樣操作.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ThermalCentrifug-AAAAAAAAAAAAAAAAAAACVw==.json",
+        "field": "english"
+      },
+      "english": "A machine to get different byproducts out of your crushed or purified ore dust. It's useful for getting a bit of Gallium out of crushed Zinc Ore for your Diodes needed in good circuits.\n\nWhen you have IC2 nuclear reactors and want to recycle your depleted fuel rods, it's the only way to do so.\n\nIf you can't produce the 2A of LV power for this machine right now, wait until you get to MV and use transformers to power an LV version.\n\nIn LV, you can obtain the same ore byproducts via different methods. The Thermal Centrifuge only becomes really important in HV when you can combine it with the HV macerator.\n\n[warn]Sending MV power to an LV device, even if it uses more than 1A will cause an explosion, so don't do that.[/warn]",
+      "batch": "C-quests",
+      "note": "僅修正已核對片語；Circuit 為電路，Circuit Board 才是電路板。副本的額外段落及版本差異保持原值。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "base": "e24b6a44a3f73fac84189c4a46b8238dfb7c8108",
+  "language_files": 299,
+  "entries": 168337,
+  "existing_duplicate_keys": 56,
+  "existing_empty_values": 2637,
+  "changed_values": {
+    "GregTech_zh_TW.lang": 24,
+    "config/txloader/forceload/betterquesting/lang/zh_TW.lang": 7,
+    "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang": 15,
+    "config/txloader/load/betterquesting/lang/zh_TW.lang": 7,
+    "config/txloader/load/minecraft/lang/zh_TW.lang": 7
+  },
+  "total_changed_values": 60,
+  "reproduction_and_idempotence": true,
+  "errors": [],
+  "scope": "Structural regression checks only; existing blanks/duplicates need separate review."
+}

@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 """Apply Taiwan-usage term normalization to lang values only (keys untouched).
 Usage: normalize_terms.py <repo_root>   (edits files in place; use git to review/revert)"""
-import sys, pathlib, collections
+import sys, pathlib, collections, json
+
+# 經來源核對的逐鍵批次；僅接受審查前／後值，避免覆蓋未來的新翻譯。
+CALIBRATION = json.loads((pathlib.Path(__file__).resolve().parent /
+                          "term_calibration_2026-10-25.json").read_text(encoding="utf-8"))
+CALIBRATION_FIXES = {(r["file"], r["key"]): r for r in CALIBRATION["rows"]
+                     if r["before"] != r["after"]}
 
 # 順序有意義：較長詞先換
 RULES = [
@@ -315,6 +321,15 @@ def process(path, stat):
                 nv = file_fixes[k.strip()] + ("\n" if v.endswith("\n") else "")
                 if nv != v:
                     stat["key:" + k.strip()] += 1
+            key = k.strip().removeprefix("S:").strip('"') if is_gt else k.strip()
+            row = CALIBRATION_FIXES.get((relative_path, key))
+            if row is not None:
+                value = nv.rstrip("\n")
+                if value not in (row["before"], row["after"]):
+                    raise ValueError(f"Calibration conflict: {relative_path}: {key}")
+                if value != row["after"]:
+                    nv = row["after"] + ("\n" if v.endswith("\n") else "")
+                    stat["calibration:" + row["batch"]] += 1
             if nv != v:
                 changed = True
             line = k + "=" + nv
@@ -324,6 +339,18 @@ def process(path, stat):
 
 root = pathlib.Path(sys.argv[1])
 stat = collections.Counter()
+# 先檢查整批，避免發現新值衝突時，其他檔案已被局部改寫。
+for relative_path in {file for file, key in CALIBRATION_FIXES}:
+    values = {}
+    for line in (root / relative_path).read_text(encoding="utf-8").splitlines():
+        if "=" in line and not line.lstrip().startswith("#"):
+            key, value = line.split("=", 1)
+            key = key.strip().removeprefix("S:").strip('"')
+            values.setdefault(key, []).append(value)
+    for (file, key), row in CALIBRATION_FIXES.items():
+        if file == relative_path and (len(values.get(key, [])) != 1 or
+                                     values[key][0] not in (row["before"], row["after"])):
+            raise ValueError(f"Calibration conflict: {file}: {key}")
 for p in list(root.glob("*.lang")) + list(root.glob("config/**/*.lang")):
     process(p, stat)
 for k, n in stat.most_common():
