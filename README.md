@@ -1,16 +1,75 @@
-# GTNH 繁體中文（台灣）語言包
+<div align="center">
 
-> 本專案由使用者與 [Claude](https://claude.com/claude-code)（Anthropic）協力製作：大部分翻譯為機器簡轉繁加 AI 翻譯，再由人工與 AI 逐步校對。
+# 🌏 GTNH 繁體中文（台灣）語言包
 
-GT: New Horizons 的 zh_TW 語言檔。涵蓋既有翻譯，加上補齊剩餘 780 條未翻譯字串（見 `tools/GTNH_remaining_translated.csv`，含 notes 欄）。
+**GregTech New Horizons · Traditional Chinese (Taiwan)**
 
-## 安裝
-把 `config/` 與 `GregTech_zh_TW.lang` 複製到 GTNH 實例根目錄（與既有 `config/txloader/load/...` 合併），遊戲語言選「繁體中文（台灣）」。安裝前請備份。GregTech 主檔可能包含遊戲執行時新增的 key，合併時請保留本機獨有條目。
+讓 GTNH 的物品、機器、任務與提示更符合台灣玩家的閱讀習慣。
 
-## 用語校準（v0.1.0）
-統一為台灣常用說法：鐳射→雷射、末影→終界、下界→地獄、反應堆→反應爐、核聚變→核融合、巖→岩（`tools/normalize_terms.py`，可重跑）。「倉」（Hatch）維持全檔一致，暫不改「艙口」。
+![Language](https://img.shields.io/badge/語言-繁體中文%20zh__TW-276749?style=for-the-badge)
+![GTNH](https://img.shields.io/badge/校對基準-GTNH%202.8.4-2563eb?style=for-the-badge)
+![Status](https://img.shields.io/badge/進度-持續校對中-f59e0b?style=for-the-badge)
 
-後續維護以[統一術語表](docs/TERMINOLOGY.md)與[持續校對進度／未完成清單](docs/TRANSLATION_PROGRESS.md)為入口。新修正使用檔案與 key 限定規則，不能僅依英文單字全域取代；例如 Chemical Reactor 沿用「化學反應釜」，單方塊洗礦機與工業洗礦廠分別處理。
+**[快速安裝](#快速安裝)** · **[最新進度](#最新進度速覽)** · **[術語規範](docs/TERMINOLOGY.md)** · **[問題回報](../../issues)**
+
+</div>
+
+> [!IMPORTANT]
+> **這是非官方社群翻譯專案，尚未完成全面人工校對。** 大部分基礎內容由簡轉繁與 AI 輔助產生，再依原文、程式與遊戲版本逐批檢查。自動檢查通過不等於已在遊戲中實測。
+
+## ✨ 最新進度速覽
+
+**更新日期：2026-10-25** · 基準：**GTNH 2.8.4 / GregTech 5.09.51.482**
+
+| 項目 | 目前成果 | 狀態 |
+| :--- | ---: | :--- |
+| 電力與常用術語兩輪校準 | **190 條修改** | ✅ 已提交，文字待實測 |
+| 統一術語規範 | **57 組** | 🔄 持續擴充 |
+| 語言檔結構驗證 | **299 個檔案** | ✅ 既有批次驗證通過 |
+| 礦物命名樣板一致性掃描 | **1,706 條** | ✅ 無差異；不算逐條語意校對 |
+| 連續任務閱讀／校準 | **至第 100 篇** | 🔄 第 101 篇接續 |
+| LV／MV／HV 電壓等級顯示 | **已恢復** | ✅ 使用者遊戲實測通過 |
+
+> [!NOTE]
+> 190 條是 2026-10-25 兩輪累計**修改筆數**（60 + 130），可能包含不同檔案中的相同 key，不能當成 190 個獨立物品或全專案校對百分比。第二輪另記錄 518 條路徑／key 對照；目前新增文字尚未同步遊戲、仍待實測。
+
+### 🎯 下一步
+
+- **優先校對**：MV～HV 常見材料、機器與任務說明；連續任務從 **第 101 篇〈鋅的來源〉**接續。
+- **需要查證**：HV SMD、掃描器／作物版本差異、Electrotine Battery、導管格式碼與其他歷史鍵。
+- **遊戲確認**：新修正的電路名稱、導管設定、任務文字與其餘 Tooltip。
+- **避免誤改**：保留已實測電壓提示；不全域替換未核對的術語，也不刪除空白或重複 key。
+
+詳細紀錄請看 **[持續校對進度與待查清單](docs/TRANSLATION_PROGRESS.md)**、**[2026-10-25 第二輪校對報告](docs/PROOFREAD_2026-10-25_CONTINUATION.md)**、**[統一術語表](docs/TERMINOLOGY.md)**。
+
+## 📦 快速安裝
+
+1. 在本頁點選 **Code → Download ZIP**，下載並解壓縮。
+2. 備份現有 GTNH 實例中的語言檔與 `config` 資料夾。
+3. 將本專案的 `config/` 與 `GregTech_zh_TW.lang` 複製到 **GTNH 實例根目錄**，與既有 `config/txloader/load/...` 合併。
+4. 在 Minecraft 語言設定選擇 **繁體中文（台灣）**。
+
+> [!CAUTION]
+> **不要直接刪除原本的整個 `config` 資料夾。** GregTech 主檔可能有遊戲執行時新增的 key，合併前請保留本機獨有條目。這次 README 更新**不會自動安裝翻譯至遊戲**。
+
+## 🧭 文件導覽
+
+| 文件 | 用途 |
+| --- | --- |
+| [持續校對進度](docs/TRANSLATION_PROGRESS.md) | 已完成、待查證、尚未處理與接續工作 |
+| [統一術語表](docs/TERMINOLOGY.md) | 電力、機器、礦物、跨模組運輸的台灣用語 |
+| [第二輪校對報告](docs/PROOFREAD_2026-10-25_CONTINUATION.md) | 518 條對照、130 條修改與來源驗證 |
+| [前次校對紀錄](docs/PROOFREAD_2026-10-24.md) | 早期任務、樹脂及其他校對紀錄 |
+| [AI 接續交接](HANDOFF_next_ai.md) | 後續協作者的操作背景與注意事項 |
+
+## 🤝 專案與貢獻
+
+本專案由使用者與 [Claude](https://claude.com/claude-code)（Anthropic）協力建立，並透過人工及 AI 持續校對。歡迎提供台灣常用譯法、遊戲畫面、對照原文或提交 PR。**回報問題請使用 [GitHub Issues](../../issues)**，盡量附上模組名稱、畫面、原文字串與建議譯法。
+
+---
+
+<details>
+<summary><strong>📚 展開歷史紀錄、品質說明、來源與授權</strong></summary>
 
 ## 2026-10-25 更新
 
@@ -78,3 +137,5 @@ GT: New Horizons 的 zh_TW 語言檔。涵蓋既有翻譯，加上補齊剩餘 7
 - 若任何權利人認為本專案不符其授權條件，請開 issue，將立即調整或移除。
 - 本專案免費提供。免費不代表第三方內容可不受原始授權限制。
 - 遊戲原文及原始翻譯的著作權屬 GTNH 團隊、各模組作者及原翻譯貢獻者。
+
+</details>
