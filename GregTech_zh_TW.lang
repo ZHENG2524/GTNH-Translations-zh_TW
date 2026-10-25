@@ -53813,7 +53813,7 @@ languagefile {
     S:gt.metaitem.01.32700.tooltip=一個簡單的電路板
     S:gt.metaitem.01.32701.name=整合邏輯電路
     S:gt.metaitem.01.32701.tooltip=一個基礎的電路板
-    S:gt.metaitem.01.32702.name=優質電子電路板
+    S:gt.metaitem.01.32702.name=優質電子電路
     S:gt.metaitem.01.32702.tooltip=一個不錯的電路板
     S:gt.metaitem.01.32703.name=處理器叢集
     S:gt.metaitem.01.32703.tooltip=一個進階電路板
@@ -64571,7 +64571,7 @@ languagefile {
     S:gt.metaitem.03.32077.tooltip=生物CPU
     S:gt.metaitem.03.32078.name=微型處理器
     S:gt.metaitem.03.32078.tooltip=一個基礎的電路板
-    S:gt.metaitem.03.32079.name=不錯的積體電路
+    S:gt.metaitem.03.32079.name=優質積體電路
     S:gt.metaitem.03.32079.tooltip=一個不錯的電路板
     S:gt.metaitem.03.32080.name=整合處理器
     S:gt.metaitem.03.32080.tooltip=一個不錯的電路板

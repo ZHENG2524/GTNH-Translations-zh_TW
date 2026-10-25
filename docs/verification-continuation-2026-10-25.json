@@ -1,0 +1,55 @@
+{
+  "baseline": "084ed7a2eb317e6cda1e80a5733b5759f7882ee6",
+  "gtnh_version": "2.8.4",
+  "reviewed_entries": 518,
+  "changed_values": 130,
+  "changed_language_files": 6,
+  "batches": {
+    "D-power-circuits": 58,
+    "F-quests65-100": 26,
+    "E-transport": 46
+  },
+  "previous_tooltip_repairs_preserved": 26,
+  "ore_prefix_group_scan": [
+    {
+      "english": "Crushed %material Ore",
+      "translation": "粉碎的%material礦石",
+      "count": 222,
+      "mismatches": 0
+    },
+    {
+      "english": "Purified %material Ore",
+      "translation": "洗淨的%material礦石",
+      "count": 222,
+      "mismatches": 0
+    },
+    {
+      "english": "Centrifuged %material Ore",
+      "translation": "離心%material礦石",
+      "count": 222,
+      "mismatches": 0
+    },
+    {
+      "english": "Impure Pile of %material Dust",
+      "translation": "含雜%material粉",
+      "count": 228,
+      "mismatches": 0
+    },
+    {
+      "english": "Purified Pile of %material Dust",
+      "translation": "潔淨%material粉",
+      "count": 219,
+      "mismatches": 0
+    },
+    {
+      "english": "%material Dust",
+      "translation": "%material粉",
+      "count": 593,
+      "mismatches": 0
+    }
+  ],
+  "diff_checked": true,
+  "source_checks": "Exact English values from installed jar, runtime defaults and quest JSON",
+  "scope": "逐條術語與正文對照，機制差異及譯者註另列待查；樣板群組掃描不計人工逐鍵語意校對。",
+  "errors": []
+}

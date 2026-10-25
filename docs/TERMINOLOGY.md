@@ -27,8 +27,8 @@
 | Current / Amperage | 電流 | 採用於 GT 電力；保留 A，勿以 EU/t 取代。current 表「目前」時不能譯電流。 |
 | Voltage Tier | 電壓等級 | 採用；保留 LV、MV、HV 等縮寫，等級由程式產生。 |
 | Transformer | 變壓器 | 採用於電力設備；既有譯名保留。 |
-| Circuit | 電路 | 採用於分級電路及礦典電路需求；不能一律稱為電路板。 |
-| Circuit Board | 電路板 | 採用於板材與基板物品；與 Circuit 區分。 |
+| Circuit | 電路 | 已核對 GT 分級電路物品與任務需求；IC2 內建物品專名另列，不能一律稱電路板。 |
+| Circuit Board | 電路板／電路基板 | 採用於板材與基板物品；GT 既有進階／高階電路基板保持原名，與 Circuit 區分。 |
 | Battery Buffer | 電池箱 | 已核對 GT 實際設備與任務；不是電池快取／電池緩衝區。 |
 | Macerator | 研磨機 | 已核對 GT LV～HV 與配方頁；其他模組同名設備另核對。 |
 | Ore Washing Plant / Ore Washer | 洗礦機 | 已核對 GT 單方塊設備及配方分類；不可全域替換洗礦廠。 |
@@ -45,8 +45,8 @@
 | Purified Ore / crushedPurified | 洗淨礦石／洗淨的…礦石 | 採用；與粉碎階段、純淨粉末區分。 |
 | Centrifuged Ore / crushedCentrifuged | 離心礦石 | 沿用；不是普通離心機產出的所有物品的統稱。 |
 | Impure Dust / dustImpure | 含雜粉 | 沿用；特定礦物處理階段。 |
-| Purified Dust / dustPure | 潔淨粉 | 沿用既有生成名稱；純淨粉末等副本用語尚待逐鍵統一。 |
-| Clean Dust / dust | 粉／潔淨粉末（依句子） | 普通粉末階段；不要與 dustPure 混為同一物品。 |
+| Purified Dust / dustPure | 潔淨粉 | 已核對 OrePrefixes 與 BW 生成樣板；仍含可離心的副產物，煉藥鍋可轉為普通粉。 |
+| Clean Dust / dust | 粉／普通粉末 | 已核對煉藥鍋產物是 dust；英文敘述中的 pure/clean 不一定代表 dustPure。 |
 | Ingot | 錠 | 沿用；hot ingot 為熱錠。 |
 | Plate | 板 | 沿用；保留雙重、緻密等前綴。 |
 | Rod | 桿 | 沿用；stick 的其他模組語境另查。 |
@@ -61,13 +61,28 @@
 | Filter | 過濾器 | 沿用；覆蓋板、篩選配方及模組專名另核對。 |
 | Rare Earth / Rarer Earth | 稀土／罕土 | 保留遊戲刻意區別；禁止將罕土全部改稀土。 |
 | Buffer / Cache | 緩衝／快取 | 依用途；Battery Buffer 為電池箱，電腦 cache 保留快取。 |
+| Ore Dictionary | 礦物辭典 | 採用；可簡稱礦典，不用錯字礦辭；保留 ore* 等礦典運算式。 |
+| Programmed Circuit | 程式設計電路 | 沿用 GT 物品名稱；機器配方中的設定電路不是電路板。 |
+| Good Electronic Circuit / Good Integrated Circuit | 優質電子電路／優質積體電路 | 已核對物品、任務與目標 ID；同階電路仍是不同物品，不互換名稱。 |
+| Electronic Circuit / Advanced Circuit（IC2） | 一般電子元件／進階電子元件 | 使用安裝 IC2 zh_TW.properties 的實際名稱；一般語境的分級電路仍稱電路。 |
+| Borosilicate Glass | 硼玻璃；化學全名硼矽酸鹽玻璃 | 已核對 GT 材料、流體與現行 BartWorks 方塊；保留遊戲簡稱，避免同一物品多套譯名。 |
+| Conduit | 導管 | 已核對 Ender IO；與 GT、LP 的物品／流體管道區分。 |
+| Conduit Facade | 導管偽裝板 | 已核對 Ender IO：可噴塗並覆蓋導管，並非結構框架。 |
+| Conduit Bundle / Conduit Connector | 導管束／導管連接器 | 依各英文 key 分別翻譯；原名均為導管介面，不再混稱。 |
+| Round Robin | 輪流分配 | Ender IO 導管分配模式；不誤稱一般循環。 |
+| Metadata / NBT | 中繼資料／NBT | 採用於物品過濾器；保留 NBT 縮寫，不將不同條件合併。 |
+| Extract / Insert | 提取／存入 | Ender IO 設定描述相連容器的提取／存入；不擅自對調端口方向。 |
+| Type Filter ItemSink Module | 礦物辭典字首過濾收納模組 | 已檢查 LP 1.4.24 位元碼，確實依 GT OrePrefixes 篩選，保留精確既有名稱。 |
+| Modifier Slot / Upgrade Slot | 強化槽 | 匠魂工具語境；現行任務按本機 Iguana 指定升級等級增加，非隨機給槽，舊版副本數字另列版本差異。 |
 
-共 44 組對照；部分列含多個相近但不可混用的英文術語。
+共 57 組對照；部分列含多個相近但不可混用的英文術語。
 
 ## 可重現的限定修改
 
 - 舊規則保存在 `tools/normalize_terms.py`；舊有全域規則僅記錄歷史行為，**新增規則不得照抄成無條件全域替換**。
-- 本批 159 條對照閱讀紀錄與 60 條修改存於 `tools/term_calibration_2026-10-25.json`，含路徑、key、英文來源、前後值、批次與限制。
+- 第一輪 159 條對照閱讀紀錄與 60 條修改存於 `tools/term_calibration_2026-10-25.json`，含路徑、key、英文來源、前後值、批次與限制。
+- 第二輪清單見 `tools/term_calibration_2026-10-25-continuation.json`：518 條對照紀錄、130 條修改，另有 1,706 條六組礦物樣板掃描，不併入逐條語意校對數。
+- 工具依 date／order 載入各批 `term_calibration_*.json`，同 key 的後續修訂必須以前一批 after 為 before，斷裂的歷史直接報錯，不能回滾成舊譯文。
 - 新批次以路徑與 key 套用，只接受已審查的 before 或 after；遇到第三種新值直接報衝突，避免撤回別人的新翻譯。不能以刪除衝突檢查處理遠端更新。
 - 保護 `%s`、索引、旗標、精度、`%material`、`§`、標記、跳脫換行、指令、URL 及 key。必要參數變更須另有程式呼叫點與精確驗證，不能為了通過檢查直接刪參數。
 - 工具只證明結構、來源與重現性；遊戲渲染與配方機制需分別記錄。
@@ -79,3 +94,9 @@
 - [5.09.51.482 OrePrefixes](https://github.com/GTNewHorizons/GT5-Unofficial/blob/5.09.51.482/src/main/java/gregtech/api/enums/OrePrefixes.java)：crushed、crushedPurified、crushedCentrifuged、dustPure 等不同階段。
 - `bartworks.system.material.BWMetaGeneratedItems.addAdditionalToolTips`：本機 jar 位元碼確認 `purify.2` 用於 crushed，`nqgen` 才用於 Tiberium 燃料提示；英文值錯置不得照搬。詳見進度紀錄。
 - 既有材料與中文 Wiki 依據、限制見 [2026-10-24 紀錄](PROOFREAD_2026-10-24.md)；本批未宣稱新增完成 Wiki 化學名校對。
+
+## 第二輪補充來源（2026-10-25）
+
+- [教育部：硼玻璃](https://dict.revised.moe.edu.tw/dictView.jsp?ID=24205)支持保留台灣既有詞；[臺大 CASE：玻璃種類](https://case.ntu.edu.tw/blog/?p=43831)提供硼矽酸鹽玻璃用語。本批採遊戲簡稱與化學全名並列的策略，不將兩頁視為 GT 配方依據。
+- [5.09.51.482：MetaGeneratedItem01](https://github.com/GTNewHorizons/GT5-Unofficial/blob/5.09.51.482/src/main/java/gregtech/common/items/MetaGeneratedItem01.java)的煉藥鍋分支、[BWMetaGeneratedItems](https://github.com/GTNewHorizons/GT5-Unofficial/blob/5.09.51.482/src/main/java/bartworks/system/material/BWMetaGeneratedItems.java)建構子與[Materials](https://github.com/GTNewHorizons/GT5-Unofficial/blob/5.09.51.482/src/main/java/gregtech/api/enums/Materials.java)的 `%material` 替換流程。
+- 安裝 Ender IO 2.9.28、Logistics Pipes 1.4.24、IC2 2.2.828 的英文與內建繁中；IguanaTweaksTConstruct 2.6.6 位元碼及實例設定。各來源 SHA-256 存於第二輪清單，驗證工具只讀來源。

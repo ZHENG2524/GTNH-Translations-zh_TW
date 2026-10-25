@@ -163,10 +163,10 @@ item.PipeItemsFirewall.tip3=   同時只允許特定物品透過
 
 item.PipeItemsFluidSupplier=物流流體容器補給管道
 item.PipeItemsFluidSupplier.name=物流流體容器補給管道
-item.PipeItemsFluidSupplier.tip1=用桶或其他流體容器裡的流體來填充與管道連線的儲液器
+item.PipeItemsFluidSupplier.tip1=用桶或其他流體容器中的流體填充相連的儲罐
 item.PipeFluidSupplierMk2=物流流體補給管道
 item.PipeFluidSupplierMk2.name=物流流體補給管道
-item.PipeFluidSupplierMk2.tip1=從網路中請求配置的流體並輸入至連線的流體儲罐
+item.PipeFluidSupplierMk2.tip1=從網路請求設定的流體，再輸入相連的流體儲罐
 item.LogisticsFluidConnectorPipe=物流流體連線管道
 item.PipeFluidBasic=物流流體基礎管道
 item.PipeFluidBasic.name=物流流體基礎管道
@@ -348,7 +348,7 @@ misc.extractionmode.LeaveFirstAndLast=留下第一組和最後一組物品
 misc.extractionmode.Leave1PerStack=每組物品留一個
 misc.extractionmode.Leave1PerType=每種物品留一個
 misc.selectType=選擇類型
-misc.selectOreDict=選擇礦辭類型
+misc.selectOreDict=選擇礦物辭典類型
 
 LogisticsPipes Pipe Block.name=LogisticsPipes管道方塊
 
@@ -416,13 +416,13 @@ gui.fluidsuppliermk2.partial.no=否
 gui.fluidsuppliermk2.partial.no.tip=§e否§7：只有當網路中有足夠的資源完全填充所需空間時，流體才會被抽取
 gui.fluidsuppliermk2.partial.yes=是
 gui.fluidsuppliermk2.partial.yes.tip=§e是§7：即使網路中沒有足夠的資源完全填充所需空間，流體也會被抽取。
-gui.fluidsuppliermk2.refill_if_depleted=重新填充的損耗閾值
-gui.fluidsuppliermk2.refill_if_depleted.tip=僅在空間至少被消耗§e%s§r mB時允許請求流體。
+gui.fluidsuppliermk2.refill_if_depleted=補充觸發量
+gui.fluidsuppliermk2.refill_if_depleted.tip=儲罐至少消耗§e%s§r mB流體後才允許請求。
 gui.fluidsuppliermk2.refill_if_depleted.tip.zero=§7設定為§e0§7以關閉該功能
 gui.fluidsuppliermk2.TargetInv=要補給的流體
 
 gui.fluidsupplier.TargetInv=要補給的流體
-gui.fluidsupplier.Partialrequests=不完整請求
+gui.fluidsupplier.Partialrequests=部分請求
 gui.fluidsupplier.Yes=是
 gui.fluidsupplier.No=否
 

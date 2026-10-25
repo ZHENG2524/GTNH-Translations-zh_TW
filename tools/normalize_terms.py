@@ -4,10 +4,21 @@ Usage: normalize_terms.py <repo_root>   (edits files in place; use git to review
 import sys, pathlib, collections, json
 
 # 經來源核對的逐鍵批次；僅接受審查前／後值，避免覆蓋未來的新翻譯。
-CALIBRATION = json.loads((pathlib.Path(__file__).resolve().parent /
-                          "term_calibration_2026-10-25.json").read_text(encoding="utf-8"))
-CALIBRATION_FIXES = {(r["file"], r["key"]): r for r in CALIBRATION["rows"]
-                     if r["before"] != r["after"]}
+CALIBRATIONS = sorted(
+    (json.loads(p.read_text(encoding="utf-8")) for p in
+     pathlib.Path(__file__).resolve().parent.glob("term_calibration_*.json")),
+    key=lambda batch: (batch["date"], batch.get("order", 0)))
+CALIBRATION_FIXES = {}
+for calibration in CALIBRATIONS:
+    for row in calibration["rows"]:
+        if row["before"] == row["after"]:
+            continue
+        identity = row["file"], row["key"]
+        previous = CALIBRATION_FIXES.get(identity)
+        if previous and previous["after"] != row["before"]:
+            raise ValueError(f"Discontinuous calibration history: {identity}")
+        CALIBRATION_FIXES[identity] = dict(
+            row, accepted=(previous["accepted"] if previous else [row["before"]]) + [row["after"]])
 
 # 順序有意義：較長詞先換
 RULES = [
@@ -325,7 +336,7 @@ def process(path, stat):
             row = CALIBRATION_FIXES.get((relative_path, key))
             if row is not None:
                 value = nv.rstrip("\n")
-                if value not in (row["before"], row["after"]):
+                if value not in row["accepted"]:
                     raise ValueError(f"Calibration conflict: {relative_path}: {key}")
                 if value != row["after"]:
                     nv = row["after"] + ("\n" if v.endswith("\n") else "")
@@ -349,7 +360,7 @@ for relative_path in {file for file, key in CALIBRATION_FIXES}:
             values.setdefault(key, []).append(value)
     for (file, key), row in CALIBRATION_FIXES.items():
         if file == relative_path and (len(values.get(key, [])) != 1 or
-                                     values[key][0] not in (row["before"], row["after"])):
+                                     values[key][0] not in row["accepted"]):
             raise ValueError(f"Calibration conflict: {file}: {key}")
 for p in list(root.glob("*.lang")) + list(root.glob("config/**/*.lang")):
     process(p, stat)

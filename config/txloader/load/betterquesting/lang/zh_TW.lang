@@ -277,7 +277,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.desc=你已經發現棉花的諸多�
 
 # Quest: Your First Tool
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.name=§2§l你的第一把工具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=當你準備好了匠魂裡面各種組裝臺、工具臺什麼的,你就可以開始製作你第一個§o真正的§r匠魂工具了. 如果你沒找到一個有匠魂冶煉爐的村莊來白嫖箱子中的部件,那麼你只能從燧石工具開始製作.%n%n讓我們首先來製作稿子、鏟子和斧頭.%n%n記住,匠魂中大多數的原始工具部件都沒有顯示,但這不意味著你不能合成它們 - 模板和模具上的tooltip可以作為指引. %n%n剛做好的工具可能會比你現在用的GT工具要弱一點,但是隨著你使用時間的增加,這些工具也會越來越好.提升工具等級時有機率附送一個升級槽,而升級所需經驗隨著等級提升而增加.工具最高等級為99級,一共會增加20個升級槽. 組成工具的各個部件可被替換,但你必須將工具完全修復才可以替換部件.%n%n每次更換鎬頭後,你都需要重新提高採掘等級,才能發揮其全部的能力. 這把鎬子就可以從石頭->銅. 如果你有殭屍、骷髏或苦力怕的頭顱,那麼完全可以跳過這個提升採掘等級的步驟. 在這裡使用頭顱不會使用升級槽,但會改變工具外觀.%n%n物品=當採掘等級小於等於X時可用%n殭屍=1%n骷髏=2%n苦力怕=4%n凋靈骷髏=7%n地獄之星=8%n%n你可以使用紙繫結結增加一個升級槽,但你也可以透過工具等級獲得升級槽.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=當你準備好了匠魂裡面各種組裝台、工具臺什麼的,你就可以開始製作你第一個§o真正的§r匠魂工具了. 如果你沒找到一個有匠魂冶煉爐的村莊來白嫖箱子中的部件,那麼你只能從燧石工具開始製作.%n%n讓我們首先來製作鎬子、鏟子和斧頭.%n%n記住,匠魂中大多數的原始工具部件都沒有顯示,但這不意味著你不能合成它們 - 模板和模具上的物品提示可以作為指引. %n%n剛做好的工具可能會比你現在用的GT工具要弱一點,但是隨著你使用時間的增加,這些工具也會越來越好.提升工具等級時有機率附送一個升級槽,而升級所需經驗隨著等級提升而增加.工具最高等級為99級,一共會增加20個升級槽. 組成工具的各個部件可被替換,但你必須將工具完全修復才可以替換部件.%n%n每次更換鎬頭後,你都需要重新提高採掘等級,才能發揮其全部的能力. 這把鎬子就可以從石頭->銅. 如果你有殭屍、骷髏或苦力怕的頭顱,那麼完全可以跳過這個提升採掘等級的步驟. 在這裡使用頭顱不會使用升級槽,但會改變工具外觀.%n%n物品=當採掘等級小於等於X時可用%n殭屍=1%n骷髏=2%n苦力怕=4%n凋靈骷髏=7%n地獄之星=8%n%n你可以使用紙繫結結增加一個升級槽,但你也可以透過工具等級獲得升級槽.
 
 # Quest: Upgrade 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.name=§2§l升級2.0
@@ -289,11 +289,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.desc=銅的另一個來源就是"孔
 
 # Quest: Creosote
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.name=§2§l雜酚油
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.desc=我猜你已經將一些原木處理為了木炭，但是不知道如何處理產生的雜酚油。你可以將其作為你熔爐燃料來烹飪食物或者製作一些的火把。這樣可以節約下各種焦煤製品，同時還能讓焦爐一直產生你更加需要的焦煤製品。%n%n你可以直接用鐵桶或者黏土桶來裝雜酚油。直接在GUI中用桶點選雜酚油的圖示，或者手持空桶右鍵焦爐都可以。%n%n之後你肯定會想要將焦爐自動化用來當做產能。這基本就是LV全部可以做的了。但還有一個單方塊消耗雜酚油的方案，GT++的半流質發電機，以及一個多方塊方案使用RC液體燃料燃燒室。之後你會解鎖這些裝置相關的任務。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.desc=我猜你已經將一些原木處理為了木炭，但是不知道如何處理產生的雜酚油。你可以將其作為你熔爐燃料來烹飪食物或者製作一些的火把。這樣可以節約下各種焦煤製品，同時還能讓焦爐一直產生你更加需要的焦煤製品。%n%n你可以直接用鐵桶或者黏土桶來裝雜酚油。直接在介面中用桶點選雜酚油的圖示，或者手持空桶右鍵焦爐都可以。%n%n之後你肯定會想要將焦爐自動化用來當做產能。這基本就是LV全部可以做的了。但還有一個單方塊消耗雜酚油的方案，GT++的半流質發電機，以及一個多方塊方案使用RC液體燃料燃燒室。之後你會解鎖這些裝置相關的任務。
 
 # Quest: Animal Farms
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.name=§2§l動物農場
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.desc=你需要皮革或者羊毛嗎？ 你可能需要花費很多時間來在外面狩獵,或者你可以在基地附近造個簡單的動物農場來獲得數量可觀的皮革、羊毛或者肉.確保你不要在牧場放太多動物,否則它們會過度擁擠並互相殘殺,這一點放在村民身上也一樣.%n%n動物將優先向草方塊移動,如果周圍沒有草方塊,動物更傾向於發光的方塊. 把圍欄周圍以及地下的草方塊換成其他方塊,然後在圍欄中間插一根火把,就能讓你的動物乖乖呆在圍欄裡,或者至少不擠在邊緣處. 對於羊這種需要吃草(提早成年、長出被剪的羊毛)的動物,將其放在非草方塊邊框的清空了的區域中心.%n%n另外,大量動物會導致伺服器延遲,尤其是當他們相互碰撞時.所以在伺服器中,請確保小型動物(比如雞)每隻至少有1格的區域,而大型動物(比如牛)每隻至少有2格的區域.%n%n另一個選項是,大多數動物以及怪物掉落物都可以透過較低延遲的IC2作物農場獲得.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.desc=你需要皮革或者羊毛嗎？ 你可能需要花費很多時間來在外面狩獵,或者你可以在基地附近造個簡單的動物農場來獲得數量可觀的皮革、羊毛或者肉.確保你不要在牧場放太多動物,否則它們會過度擁擠並互相殘殺,這一點放在村民身上也一樣.%n%n動物將優先向草方塊移動,如果周圍沒有草方塊,動物更傾向於有光照的方塊. 把圍欄周圍以及地下的草方塊換成其他方塊,然後在圍欄中間插一根火把,就能讓你的動物乖乖待在圍欄裡,或者至少不擠在邊緣處. 對於羊這種需要吃草(提早成年、長出被剪的羊毛)的動物,將其放在非草方塊邊框的清空了的區域中心.%n%n另外,大量動物會導致伺服器延遲,尤其是當他們相互碰撞時.所以在伺服器中,請確保小型動物(比如雞)每隻至少有1格的區域,而大型動物(比如牛)每隻至少有2格的區域.%n%n另一個選項是,大多數動物以及怪物掉落物都可以透過較低延遲的IC2作物農場獲得.
 
 # Quest: Gardener
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.name=§2§l園丁
@@ -365,7 +365,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADOg.desc=有了鐵工具,你可以開採
 
 # Quest: Chad - A Better Way to Make Paper
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADsQ.name=§2§l紙屑,更好的造紙方法
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADsQ.desc=使用木漿和水來造紙既單調又麻煩. 既然這樣讓我們換一種造紙工藝,用研缽搗碎甘蔗得到一些紙屑,將紙屑放在兩塊石臺階中間,用力一壓. 可能你感覺這還是很麻煩,那就等以後可以使用化學浸洗機來快速造紙吧.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADsQ.desc=使用木漿和水來造紙既單調又麻煩. 既然這樣讓我們換一種造紙工藝,用研缽搗碎甘蔗得到一些紙屑,將紙屑放在兩塊石半磚中間,用力一壓. 可能你感覺這還是很麻煩,那就等以後可以使用化學浸洗機來快速造紙吧.
 
 # Quest: Punji Sticks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADsw.name=§2§l尖竹釘
@@ -377,19 +377,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaQ.desc=用稿子或者鏟子挖掘真�
 
 # Quest: Divine Rod of the Gods?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4A.name=§2§l眾神的神聖權柄？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4A.desc=尋礦魔杖能讓尋找礦石不再那麼枯燥乏味。如果你還不確定如何合成其中的磁鐵桿，去NEI的無序合成頁面看看。%n%n在你把一個礦石放到魔杖裡之後，它會告訴你附近是否有這種礦石。如果你離目標礦石足夠近，你就能聽到魔杖發出的聲音，並且如果附近有很多目標礦石，魔杖會向下傾斜到顛倒的程度。%n%n先用NEI找出哪種礦石是你目前最需要的。如果你沒有所需的礦石，一些基礎的礦石可以在硬幣工作列購買。%n%n對著地面Shift+右鍵以開啟魔杖的物品欄，並將樣本礦石放入物品槽中。%n它的搜尋範圍是上下60格，所以如果你在海拔太高的地方，或者礦脈的生成處太低，魔杖可能錯過目標礦脈。%n%n尋礦魔杖的工作機制似乎是基於GT的“材料”系統，所以任何相同“材料”的東西都能找到。%n包括粉碎礦石、粉、錠、寶石、板，等等。而沒有註冊材料的，魔杖似乎只會搜尋特定的方塊 - 比如，你沒法拿著黏土球去搜尋黏土塊。%n%n 如果被尋找的礦石屬於一個礦脈，當魔杖發現目標時，你能在聊天框中看到發現的資訊，並且礦脈資訊會自動記錄到地圖中。%n%n尋礦魔杖無論在快捷欄還是揹包欄中都會工作，所以不需要手持它，雖然手持時能更容易地看到訊號。%n%n魔杖中的礦石並不是儲存在魔杖內，而是跟隨玩家的。所以如果你想要把魔杖給別人用，請先將其中的礦石拿出來。%n%n尋礦魔杖在太空無法使用！海量的恆星輻射能量干擾了它的工作！也可能是開發者想讓你用一個比棒子更復雜的東西來找礦。這取決於你怎麼看。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4A.desc=尋礦魔杖能讓尋找礦石不再那麼枯燥乏味。如果你還不確定如何合成其中的磁鐵桿，去NEI的無序合成頁面看看。%n%n在你把一個礦石放到魔杖裡之後，它會告訴你附近是否有這種礦石。如果你離目標礦石足夠近，你就能聽到魔杖發出的聲音，並且如果附近有很多目標礦石，魔杖會向下傾斜到顛倒的程度。%n%n先用NEI找出哪種礦石是你目前最需要的。如果你沒有所需的礦石，一些基礎的礦石可以在硬幣工作列購買。%n%n對著地面Shift+右鍵以開啟魔杖的物品欄，並將樣本礦石放入物品槽中。%n它的搜尋範圍是上下60格，所以如果你在海拔太高的地方，或者礦脈的生成處太低，魔杖可能錯過目標礦脈。%n%n尋礦魔杖的工作機制似乎是基於GT的“材料”系統，所以任何相同“材料”的東西都能找到。%n包括粉碎礦石、粉、錠、寶石、板，等等。而沒有註冊材料的，魔杖似乎只會搜尋特定的方塊 - 比如，你沒法拿著黏土球去搜尋黏土塊。%n%n 如果被尋找的礦石屬於一個礦脈，當魔杖發現目標時，你能在聊天框中看到發現的資訊，並且礦脈資訊會自動記錄到地圖中。%n%n尋礦魔杖無論在快捷欄還是揹包欄中都會工作，所以不需要手持它，雖然手持時能更容易地看到訊號。%n%n魔杖中的礦石並不是儲存在魔杖內，而是跟隨玩家的。所以如果你想要把魔杖給別人用，請先將其中的礦石拿出來。%n%n尋礦魔杖在太空無法使用！海量的恆星輻射能量干擾了它的工作！也可能是開發者想讓你用一個比棒子更複雜的東西來找礦。這取決於你怎麼看。
 
 # Quest: A Better Crafting Table
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5A.name=§2§l一個更好的工作台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5A.desc=每次一走開,你的東西就會從工作台上掉下來嗎？ 這個來自匠魂的工作台有一些可以容納合成表中物品的欄位.%n%n你也可以在其中給工具一次完成8個附加物升級.用來打上速度(紅石)或搶奪(青金石)強化十分方便!%n%n當它被放置在原版箱子旁邊時,還會在製作視窗中顯示箱子的庫存. 單個或大型原版箱子都是可以的.%n%n再次切割它,可以得到一個光潔、低調的版本.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5A.desc=每次一走開,你的東西就會從工作台上掉下來嗎？ 這個來自匠魂的工作台有一些可以容納合成表中物品的欄位.%n%n你也可以在其中給工具一次完成8個附加物升級.用來打上速度(紅石)或搶奪(青金石)強化十分方便!%n%n當它被放置在原版箱子旁邊時,還會在製作視窗中顯示箱子的物品欄. 單個或大型原版箱子都是可以的.%n%n再次切割它,可以得到一個光潔、低調的版本.
 
 # Quest: All the Finest Cuts of Meat
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxA.name=§2§l所有最優質的肉品
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxA.desc=這把刀不能用於屠殺數百種動物,製成食物或材料. 製作你自己的GT屠刀吧. 它可以阻止爆炸,並且可以更快地殺死牛,更別說還有搶奪了. 稍後當你拿到不鏽鋼時,你可以製造一個新的屠刀,一擊就可以殺死牛.%n%n注意:GT工具耐久消耗是基於匠魂採掘等級的.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxA.desc=這把刀不能用於屠殺數百種動物,製成食物或材料. 製作你自己的GT屠刀吧. 它可以阻止爆炸,並且可以更快地殺死牛,更別說還有搶奪了. 稍後當你拿到不鏽鋼時,你可以製造一個新的屠刀,一擊就可以殺死牛.%n%n注意:GT工具的攻擊傷害與材料的採掘等級有關.
 
 # Quest: Rare Ores
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.name=§2§l稀有礦石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.desc=你有沒有花幾天時間尋找鑽石,紅石,鉭鐵礦石,賽特斯石英或雲母的經歷？ %n%n礦脈會混有幾種礦石,你可以用其中一種礦石來找另一種,比如鑽石礦脈可用煤礦石尋找,賽特斯石英礦脈可用石英岩礦石尋找. 如果你有錫石礦石(不是錫石礦砂),可以找到雲母礦石.  %n%n地獄黝銅礦礦石可以用銅礦石找到.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.desc=你有沒有花幾天時間尋找鑽石,紅石,鉭鐵礦石,賽特斯石英或雲母的經歷？ %n%n礦脈會混有幾種礦石,你可以用其中一種礦石來找另一種,比如鑽石礦脈可用煤礦石尋找,賽特斯石英礦脈可用石英岩礦石尋找. 如果你有錫石礦石(不是錫石礦砂),可以找到雲母礦石.  %n%n地獄黝銅礦石可以用銅礦石找到.
 
 # Quest: Wooden Door
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_g.name=§2§l木門
@@ -401,7 +401,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyg.desc=…整個世界都像是個釘�
 
 # Quest: Circle Shapes Give Me Comfort
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHJw.name=§2§l圓形使我愉悅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHJw.desc=想要修建風車,你需要一個發射器,但你得到下一階段才能做.去尋找巫術的野外祭壇,它們就像縮小版的巨石陣一樣,或許你能在那裡的寶箱裡找到一個.  %n%n在多方塊工作列尋找這個主線任務.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHJw.desc=想要修建風車,你需要一個發射器,但你得到下一階段才能做.去尋找巫術的野外祭壇,它們就像縮小版的巨石陣一樣,或許你能在那裡的寶箱裡找到一個.  %n%n在多方塊任務章節尋找這個主線任務.
 
 # Quest: Stick a Finger in the Air
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOw.name=§2§l伸出你的手指
@@ -875,7 +875,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=哎呀,你好呢!看來你已�
 
 # Quest: Damn You, Wire Cutter!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.name=§5§l去死吧,剪線鉗!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=這應該是你首先要製作的機器之一.你可以透過它用每個錠得到2根導線.你可以把導線再次放進這個機器來獲得4根細導線,或是切換程式設計電路板(3號)以直接加工錠得到細導線.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=這應該是你首先要製作的機器之一.你可以透過它用每個錠得到2根導線.你可以把導線再次放進這個機器來獲得4根細導線,或是切換程式設計電路(3號)以直接加工錠得到細導線.
 
 # Quest: You're Gonna Hate This #1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name=§5§l你會討厭它們的#1
@@ -983,7 +983,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=第六種你需要很多的部�
 
 # Quest: Scanning Bees, Crops and Moooooore!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=§5§l掃描蜜蜂、種子以及更多
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=自動化掃描你的蜜蜂、樹苗和作物種子。對於作物來說，在你獲得行動式掃描器（它需要下階段才可做的HV電路板）之前，這是你得知作物狀態的唯一可行方法。%n%n之後，這臺機器可以用於掃描高階機器零件的裝配線資料，或者將UU物質生產資料寫入資料球。帶有勘探資料的快閃記憶體也需要用到掃描器。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=自動化掃描你的蜜蜂、樹苗和作物種子。對於作物來說，在你獲得行動式掃描器（它需要下階段才可做的HV電路）之前，這是你得知作物狀態的唯一可行方法。%n%n之後，這臺機器可以用於掃描高階機器零件的裝配線資料，或者將UU物質生產資料寫入資料球。帶有勘探資料的快閃記憶體也需要用到掃描器。
 
 # Quest: Basic Ore Washer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.name=§5§l基礎洗礦機
@@ -1159,7 +1159,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.desc=為了製造發射器和感測�
 
 # Quest: Good Circuits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.name=§5§l優質電子電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.desc=優質電子電路是基礎電子電路的改良版.它是MV等級的電路板,是所有MV機器的必要元件.%n%n想要開啟MV時代,你還需要建造一臺工業高爐並完成鋁任務,因為§o所有東西§r都需要鋁.%n%n此任務也會解鎖紅石計劃的任務,紅石計劃是可選的早期自動化方案之一.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.desc=優質電子電路是基礎電子電路的改良版.它是MV等級的電路,是所有MV機器的必要元件.%n%n想要開啟MV時代,你還需要建造一臺工業高爐並完成鋁任務,因為§o所有東西§r都需要鋁.%n%n此任務也會解鎖紅石計劃的任務,紅石計劃是可選的早期自動化方案之一.
 
 # Quest: Dust to Crystals
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.name=§5§l化塵為晶
@@ -1636,19 +1636,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADGA.desc=將單晶矽放入板材切割�
 
 # Quest: Good Integrated Circuits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGQ.name=§6§l不錯的積體電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADGQ.desc=話說,你之前試過看看電路板的礦辭嗎? 你可以從礦辭中看出電路板的等級.%n電路板等級有: 簡單的(ULV)、基礎的(LV)、不錯的(MV)、進階(HV)、等等. %n%n現在,去製造不錯的積體電路吧.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADGQ.desc=話說,你之前試過看看電路的礦物辭典嗎? 你可以從礦物辭典中看出電路的等級.%n電路等級有: 簡單的(ULV)、基礎的(LV)、優質(MV)、進階(HV)、等等. %n%n現在,去製造不錯的積體電路吧.
 
 # Quest: Integrated Circuit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGg.name=§6§l整合邏輯電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADGg.desc=想要製造HV機器,就需要HV電路板.你能製造的第一種HV電路板是IC2的高階電路板. 你需要先製造LV電路,然後套娃製造MV電路,最後再次套娃製成HV電路.遞迴合成!始於LV整合邏輯電路板. 而且你不能用IC2的基礎電路板套娃.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADGg.desc=想要製造HV機器,就需要HV電路.你能製造的第一種HV電路是IC2的進階電子元件. 你需要先製造LV電路,然後套娃製造MV電路,最後再次套娃製成HV電路.遞迴合成!始於LV整合邏輯電路. 而且你不能用IC2的一般電子元件套娃.
 
 # Quest: ILC and RAM
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=§6§l整合邏輯電路和RAM晶片
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=先進的電路板需要整合邏輯電路和RAM晶片。%n你可以透過切割整合邏輯電路晶圓和RAM晶片晶圓來獲得他們。
 
 # Quest: Advanced Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=§6§l高階電路板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=最後,HV電路板.製造它需要不錯的積體電路、整合邏輯電路、RAM、電晶體、細琥珀金導線和銅螺栓.%n%n另外,隨著科技提升,電路板的造價會隨之降低,不過需要在HV之後才能享受到.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=§6§l高階電路
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=最後,HV電路.製造它需要不錯的積體電路、整合邏輯電路、RAM、電晶體、細琥珀金導線和銅螺栓.%n%n另外,隨著科技提升,電路的造價會隨之降低,不過需要在HV之後才能享受到.
 
 # Quest: Methane Gas
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.name=§6§l甲烷
@@ -2100,8 +2100,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.name=§9§l貼片電路元件
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.desc=貼片元件(SMD)是一種更先進的電路板零件. 在生產下一階高階電路板的時候你需要用到它們.而且它們要比基礎的電容、電晶體、二極體、電阻便宜. 等到你搭建了一條可靠的聚乙烯生產線,你就可以使用貼片元件來節省大量資源.%n%n建議你檢查下自己還有多少鎵存貨.現階段製作貼片二極體和貼片電晶體可能並不划算,除非你已經做出HV粉碎機獲取礦物副產，或者雜交蜜蜂提供穩定的鎵來源. 使用IC2對應的雜交作物可以讓你的鋅、閃鋅和鋁土擁有4倍產出.
 
 # Quest: Workstations, Your First EV Circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.name=§9§l工作站,你的第一種EV電路板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.desc=你的第一種EV電路板是工作站。%n%n你可以在合金爐中將銀和藍石混合製成藍色合金。如果你沒有藍石，用攪拌機將紅石與琥珀金混合即可。玩得開心！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.name=§9§l工作站,你的第一種EV電路
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.desc=你的第一種EV電路是工作站。%n%n你可以在合金爐中將銀和藍石混合製成藍色合金。如果你沒有藍石，用攪拌機將紅石與琥珀金混合即可。玩得開心！
 
 # Quest: Playing With Dust
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.name=§9§l玩泥巴
@@ -2200,8 +2200,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.name=§9§l進階電路組裝機II
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.desc=工作站電路可以用來製造HV電路組裝機.這臺機器可以生產更加先進的電路(IV).
 
 # Quest: Mainframes, Your First IV Circuit 
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.name=§9§l主機,你的第一種IV電路板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.desc=主機是你可以製造的第一種IV電路板.它可以用於合成部分EV機器,以及所有基礎IV機器及部件.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.name=§9§l主機,你的第一種IV電路
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.desc=主機是你可以製造的第一種IV電路.它可以用於合成部分EV機器,以及所有基礎IV機器及部件.
 
 # Quest: You're Gonna Hate This 1-4 in HV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzw.name=§9§lHV階段你最討厭的4個物品
@@ -2280,8 +2280,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsQ.name=§9§l簡單的SoC-晶片級系
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsQ.desc=SoC是晶片級系統(Systems on a Chip)的簡稱,它可以簡化電路板的製造. 在這裡,用簡單的SoC可以替換真空管,ULV電路板更便宜了.
 
 # Quest: Cheaper Simple Circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.name=§9§l更便宜的簡單電路板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.desc=NAND晶片是真空管的工業替代品,便宜得多. 不過它們不能用來套娃製造電路板,只能作為ULV電路板使用. 請仔細檢視所有可選的合成表!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.name=§9§l更便宜的簡單電路
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.desc=NAND晶片是真空管的工業替代品,便宜得多. 不過它們不能用來套娃製造電路,只能作為ULV電路使用. 請仔細檢視所有可選的合成表!
 
 # Quest: Farming a Little Easier
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyw.name=§9§l讓耕種更容易一點
@@ -7548,7 +7548,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACZw.desc=鈉、鎘、鋰電池都是可�
 
 # Quest: Battery Buffer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=電池箱
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=電池直接裝在機器的電池槽時,與放在電池箱中時的工作方式基本一致.電池箱主要用途就是緩衝能量,提供一個穩定的輸出.%n%n有1、4、9(!)、16槽可以選擇. 每個在電池箱內的電池可以接收2A,並可以輸出1A-請注意這一點,別燒線了! 線纜有1x、2x、4x、8x、12x和16x,以錫為例,每x可以傳輸1A. 請確保不要超過其最大電流,不然線纜會被融化,化為火焰,而且有機率引爆機器.%n%n請記住,電池箱接收EU時也會有損失,所以用4個4槽電池箱排成一列會損失8,而1個16槽電池箱只會損失2. 而且這個損耗也是每A計算的.%n%n[note]你可以用物流輸入電池,但只有空的酸性電池可以從電池箱中輸出. 不,你無法迴圈利用它.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=電池直接裝在機器的電池槽時,與放在電池箱中時的工作方式基本一致.電池箱主要用途就是緩衝能量,提供一個穩定的輸出.%n%n有1、4、9(!)、16槽可以選擇. 每個在電池箱內的電池可以接收2A,並可以輸出1A-請注意這一點,別燒線了! 線纜有1x、2x、4x、8x、12x和16x,以錫為例,每x可以傳輸1A. 請確保不要超過其最大電流,不然線纜會被融化,化為火焰,而且有機率引爆機器.%n%n請記住,電池箱輸出EU時也會有損失,所以用4個4槽電池箱排成一列會損失8,而1個16槽電池箱只會損失2. 而且這個損耗也是每A計算的.%n%n[note]你可以用物流輸入電池,但只有空的酸性電池可以從電池箱中輸出. 不,你無法迴圈利用它.[/note]
 
 # Quest: 16 Slot LV Battery Buffer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACmA.name=16槽LV級電池箱
@@ -7576,7 +7576,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE8Q.desc=想要更便宜的EV電池? 把
 
 # Quest: Low Voltage Transformer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE8g.name=LV變壓器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE8g.desc=使用LV電壓驅動MV機器是可以實現的.製造一個變壓器,並使用4個32EU/t的電源來給一個128EU/t的裝置供電.%n%n變壓器可將電壓升高或降低(升壓模式/降壓模式),用軟錘切換. 升壓模式就是將4A-LV輸入轉換為1A-MV輸出;降壓模式相反. %n%n如果你不想讓你的基地成為火山口,確保你理解了下面的內容: %n%n降壓模式是預設模式.在降壓模式,大點的一面是輸入面. 而升壓模式時,這一面是輸出面. 要是不想爆炸,千萬不要弄混了!LV機器接收到MV電就會爆炸! %n%n如果變壓器直接與電源相連,或是經過電源,在連線了電器的情況下請勿切換變壓器模式.最好拆掉後重新放以清空快取的能量,而不是用扳手旋轉後炸掉一排機器. 請確認已經用剪線鉗斷開了附近的線纜. %%不過值得記住的是,如果安培數超過了機器所需的,是不會爆炸的. 它們會因為更高等級的電壓爆炸.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE8g.desc=使用LV電壓驅動MV機器是可以實現的.製造一個變壓器,並使用4個32EU/t的電源來給一個128EU/t的裝置供電.%n%n變壓器可將電壓升高或降低(升壓模式/降壓模式),用軟錘切換. 升壓模式就是將4A-LV輸入轉換為1A-MV輸出;降壓模式相反. %n%n如果你不想讓你的基地成為火山口,確保你理解了下面的內容: %n%n降壓模式是預設模式.在降壓模式,大點的一面是輸入面. 而升壓模式時,這一面是輸出面. 要是不想爆炸,千萬不要弄混了!LV機器接收到MV電就會爆炸! %n%n如果變壓器直接與電源相連,或是先前曾接過電源,在連線了電器的情況下請勿切換變壓器模式.最好拆掉後重新放以清空儲存的能量,而不是用扳手旋轉後炸掉一排機器. 請確認已經用剪線鉗斷開了附近的線纜. %%不過值得記住的是,如果安培數超過了機器所需的,是不會爆炸的. 它們會因為更高等級的電壓爆炸.
 
 # Quest: Medium Voltage Transformer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE8w.name=MV變壓器
@@ -7592,7 +7592,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9Q.desc=如果你需要更大的電流,
 
 # Quest: MV Battery Buffers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEOg.name=中壓電池箱
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEOg.desc=MV機器可以內建一個電池.但有時你需要儲存更多能量,或者你想讓整個能量線共享電池.你可以使用電池箱來儲存大量電池.它們有很多規格,像1格、4格、9格和16格. %n%n[note]你只需完成其中一項要求即可.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEOg.desc=MV機器可以內建一個電池.但有時你需要儲存更多能量,或者你想讓整個供電線路共享電池.你可以使用電池箱來儲存大量電池.它們有很多規格,像1格、4格、9格和16格. %n%n[note]你只需完成其中一項要求即可.[/note]
 
 # Quest: MV Batteries
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEOw.name=中型鋰電池
@@ -7612,7 +7612,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEeA.desc=更好的機器需要更好的�
 
 # Quest: EU packets flowing everywhere...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFig.name=電流得到處都是
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFig.desc=……在我的夢裡。要是我們可以將所有發電機組集中在一個位置，而不是在每臺發電機上連一堆電池，該多好啊！把它們放在基地裡遠離活動範圍的部分？放在家外鄉下的某處？讓動物面對汙染去吧。無論如何，來著手搭建能源站吧，它可以儲存EU並供給我們的基地。%n%n[note]譯者注：更推薦使用蘭波頓超級電容庫，詳見“EU的儲存與變壓”工作列的“開充!(Take charge!)”任務。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFig.desc=……在我的夢裡。要是我們可以將所有發電機組集中在一個位置，而不是在每臺發電機上連一堆電池，該多好啊！把它們放在基地裡遠離活動範圍的部分？放在家外鄉下的某處？讓動物面對汙染去吧。無論如何，來著手搭建能源站吧，它可以儲存EU並供給我們的基地。%n%n[note]譯者注：更推薦使用蘭波頓超級電容庫，詳見“EU的儲存與變壓”任務章節的“開充!(Take charge!)”任務。[/note]
 
 # Quest: Who Cares About a Little Cancer...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiw.name=誰在乎一點癌症...
@@ -7664,7 +7664,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhA.desc=為真正的用電狂人準備,
 
 # Quest: Energy Buffers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAQ.name=能量緩衝器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAQ.desc=你在能量方面的研究進展使你發明了能量緩衝器-一種簡單的方塊,可以儲存巨量能量,而且可攜帶.比電池更好,這些裝置可以設定輸出1-16A,再加上高電流變壓器,你就能把電壓等級強行提高兩級.  這個HV能量快取器可以為HV機器供能幾小時,或為EV機器供能將近一小時.非常適合遠距離採礦作業.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAQ.desc=你在能量方面的研究進展使你發明了能量緩衝器-一種簡單的方塊,可以儲存巨量能量,而且可攜帶.比電池更好,這些裝置可以設定輸出1-16A,再加上高電流變壓器,你就能把電壓等級強行提高兩級.  這個HV能量緩衝器可以為HV機器供能幾小時,或為EV機器供能將近一小時.非常適合遠距離採礦作業.
 
 # Quest: Engraved Lapotrons
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIZA.name=蝕刻蘭波頓
