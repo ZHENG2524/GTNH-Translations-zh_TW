@@ -1,0 +1,55 @@
+{
+  "gtnh_version": "2.8.4",
+  "checks": [
+    {
+      "jar": "gregtech-5.09.51.482.jar",
+      "jar_sha256": "4ab7ce174a8f6fb7a90d8d11d56056aab2de577c36c6084b37ce890d7b1d67bf",
+      "class": "goodgenerator/blocks/tileEntity/GTMetaTileEntity/MTENeutronSensor.class",
+      "class_sha256": "0dd914bb20bff26ff8fa852313f99411f80a282707994070d5737ee703d30d43",
+      "javap_sha256": "575e3fac397e7d62963534e77bfa7ba99a4e99c53c8031a1d417ad500ff8f827"
+    },
+    {
+      "jar": "gregtech-5.09.51.482.jar",
+      "jar_sha256": "4ab7ce174a8f6fb7a90d8d11d56056aab2de577c36c6084b37ce890d7b1d67bf",
+      "class": "goodgenerator/blocks/tileEntity/MTENeutronActivator.class",
+      "class_sha256": "c9cfd67133cbc3fa2f61fbd07560824569cc8fb929ef793b5cca0eb5dfa85624",
+      "javap_sha256": "bd1fe109afc58607b06f4d97e858a3e70de6d0cab9b447170f1c49b2ccd2ad50"
+    },
+    {
+      "jar": "gregtech-5.09.51.482.jar",
+      "jar_sha256": "4ab7ce174a8f6fb7a90d8d11d56056aab2de577c36c6084b37ce890d7b1d67bf",
+      "class": "kubatech/tileentity/gregtech/multiblock/MTEDEFusionCrafter.class",
+      "class_sha256": "84ba88061fb576006189165f05e9ac3342047e12a76dd27a1d84533b3ee2a5b4",
+      "javap_sha256": "b274be1f7755c6e5ac6e1de4c6846d78e863d1ec7497fb858afd801dc94094b7"
+    },
+    {
+      "jar": "gregtech-5.09.51.482.jar",
+      "jar_sha256": "4ab7ce174a8f6fb7a90d8d11d56056aab2de577c36c6084b37ce890d7b1d67bf",
+      "class": "kubatech/tileentity/gregtech/multiblock/MTEDEFusionCrafter$1.class",
+      "class_sha256": "7d47cbdeb4d33bb66b081cbb6d11a06edaaf804c0e2228be3c9bdf85fca98505",
+      "javap_sha256": "ea51d769ce68d84b9c450d14a9bf8231ceb2e3bcb6be1105e8b85a1268f114ce"
+    },
+    {
+      "jar": "industrialcraft-2-2.2.828-experimental-zhTW.jar",
+      "jar_sha256": "c5843c430720d847ce3742a941ca206d23d354e756969718cfc82ea5332e21cf",
+      "class": "ic2/core/block/generator/tileentity/TileEntityRTGenerator.class",
+      "class_sha256": "c6be6d09beef534936b243cbb89f38896d71e720cabfec15284524ee69097df0",
+      "javap_sha256": "cd05c2ba93ee38672fc6fd85f37da16c034caee1d3c4dd57961e218a80af7691"
+    }
+  ],
+  "scope": "指定類別與呼叫點的唯讀位元碼核對；非遊戲內渲染或所有配方驗證。",
+  "findings": [
+    {
+      "sequence": 1827,
+      "finding": "已查證：MTENeutronActivator將自身eV傳入感測器；MTENeutronSensor.updateRedstoneOutput為(eV>=threshold) XOR inverted。修正中子加速器誤稱與嚴格大於。"
+    },
+    {
+      "sequence": 1865,
+      "finding": "已查證：安裝版MTEDEFusionCrafter及其$1的createOverclockCalculator使用1800*(外殼級-配方級)、setHeatOC(true)，Tooltip亦寫每超一級一次perfect OC。保留現行4/4中文，英文耗時除級差已過時。"
+    },
+    {
+      "sequence": 2010,
+      "finding": "已查證：本機任務要求IC2:blockGenerator:6及6個IC2:itemRTGPellet；IC2的gainEnergy按2^(靶丸數-1)*efficiency增能，6槽、IC2.ini效率1.0。修正誤貼的GT++同位素／壽命表；2011仍保留GT++版本。"
+    }
+  ]
+}

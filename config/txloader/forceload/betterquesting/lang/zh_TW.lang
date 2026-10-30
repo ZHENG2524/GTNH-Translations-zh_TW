@@ -4204,11 +4204,11 @@ betterquesting.questline.D_aFb1hFQH2PDkN0_KvAEQ.desc=你還在這裡？你現在
 
 # Quest: Capturing Light on a Circuit Board
 betterquesting.quest.-HJY3n4bQaiGgzsmFcVd6A.name=§5§l§n在電路板上捕捉光線
-betterquesting.quest.-HJY3n4bQaiGgzsmFcVd6A.desc=使用各種精心挑選的材料，你成功製作了一個可以容納光子流的新電路基板，
+betterquesting.quest.-HJY3n4bQaiGgzsmFcVd6A.desc=使用各種精心挑選的材料，你成功製作了一種電路基板，能容納這些新電路元件中的光子流。
 
 # Quest: Stopping the Infinity Bleed
 betterquesting.quest.3yz1WCEzQ_KQxW8p7_29-Q.name=§5§l§n止住無盡流失
-betterquesting.quest.3yz1WCEzQ_KQxW8p7_29-Q.desc=已經對於無盡的需求難以招架了？放寬心，部件裝配線也許正是你所需要的。你可能已經有一臺了，把他升級到UEV來以顯著降價的配方來製作UEV部件。
+betterquesting.quest.3yz1WCEzQ_KQxW8p7_29-Q.desc=已經對於無盡的需求難以招架了？放寬心，部件裝配線也許正是你所需要的。你可能已經有一臺了，把它升級到UEV，就能以顯著降低的成本製作UEV部件。
 
 # Quest: My Eyes Hurt! #2
 betterquesting.quest.4MzUrkH5QsWnE_4APuHhNg.name=§5§l§n好刺眼！ #2
@@ -4276,11 +4276,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpA.desc=你終於做到了……但還�
 
 # Quest: Tesseract
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpw.name=§5§l§n超立方體
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpw.desc=你無法理解的工程學。不過，這個奇怪的高維物件還是很容易用粉碎機打碎的。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpw.desc=你無法理解的工程學。不過，這個奇怪的高維物件還是很容易用研磨機打碎的。
 
 # Quest: Dragonblood
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsA.name=§5§l§n龍血
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsA.desc=你需要龍血製造第一批海珀珍。也許你已經有了些龍血，是很久以前擊殺終界龍掉落的，正躺在某個地方。不過還有兩個其他選擇：蜜蜂和龍研聚合裝置。%n%n對於蜜蜂路線，你需要深入研究蜜蜂培育線，但說不定你已經完成了？不論如何，看看“蜜蜂育種”工作列吧。%n%n在龍研聚合裝置中有兩個配方。較好的一個要用到巫術mod的無限之蛋。如果你沒有巫術進度的話，就只能用普通龍蛋，使用較弱的配方了。%n%n只要你有了些海珀珍，就能以此開始在超維度電漿鍛爐中製造更多，而不需要龍血了。我不知道為何這麼設計，要抱怨就找Colen吧。%n%n不過，你最終還是需要更多的龍血，以製造UMV超導。%n%n[note]實際上還有另一種方法獲得龍血，這與龍研聚合裝置的配方相似，不過是用攪拌機，它的速度更慢，資源利用率更低。尤其要注意的是，這個配方會消耗龍蛋。所以只有在你需要完全避開魔法和蜜蜂線的時候，才使用這個配方。[/note]%n%n[note]只是個提醒：流體任務目標只要求你物品欄內某個容器中有相應的流體。（單元、通用流體單元、大型單元、容量瓶，等等。）[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsA.desc=你需要龍血製造第一批海珀珍。也許你已經有了些龍血，是很久以前擊殺終界龍掉落的，正躺在某個地方。不過還有兩個其他選擇：蜜蜂和龍研聚合裝置。%n%n對於蜜蜂路線，你需要深入研究蜜蜂培育線，但說不定你已經完成了？不論如何，看看“蜜蜂育種”任務章節吧。%n%n在龍研聚合裝置中有兩個配方。較好的一個要用到巫術mod的無限之蛋。如果你沒有巫術進度的話，就只能用普通龍蛋，使用較弱的配方了。%n%n只要你有了些海珀珍，就能以此開始在超維度電漿鍛爐中製造更多，而不需要龍血了。我不知道為何這麼設計，要抱怨就找Colen吧。%n%n不過，你最終還是需要更多的龍血，以製造UMV超導。%n%n[note]實際上還有另一種方法獲得龍血，這與龍研聚合裝置的配方相似，不過是用攪拌機，它的速度更慢，資源利用率更低。尤其要注意的是，這個配方會消耗龍蛋。所以只有在你需要完全避開魔法和蜜蜂線的時候，才使用這個配方。[/note]%n%n[note]只是個提醒：流體任務目標只要求你物品欄內某個容器中有相應的流體。（單元、通用流體單元、大型單元、容量瓶，等等。）[/note]
 
 # Quest: Metastable Oganesson
 betterquesting.quest.AOBApHluTUurGwTeOzxj4g.name=§5§l§n亞穩態鿫
@@ -4344,15 +4344,15 @@ betterquesting.quest._TtL1y6-SfCCNKRrWSvrNQ.desc=最終，你做到了。超維�
 
 # Quest: UEV Energy Hatch
 betterquesting.quest._hHt1iRERrywJiRVFpOnxw.name=§5§l§nUEV能源倉
-betterquesting.quest._hHt1iRERrywJiRVFpOnxw.desc=又一個電壓等級，又一個能源倉，你可以用它們把裝配線超頻到UIV來給它加加速，
+betterquesting.quest._hHt1iRERrywJiRVFpOnxw.desc=又一個電壓等級，又一個能源倉。你可以用它們把裝配線超頻到UIV電壓，提升處理速度。
 
 # Quest: Introducing the NAC™
 betterquesting.quest.c9yhGUSqSBKfUE-I0l_kbw.name=§5§l§n隆重介紹奈米晶片組裝複合體§r§5§n™§r§5§n§l
 betterquesting.quest.c9yhGUSqSBKfUE-I0l_kbw.desc=你已經走了很遠了，你知道該怎麼做。你已經制作了數不清的電路，但如果這還不夠呢？是時候放棄堆機器的老路子，開始像一個真正的後期工程師一樣製造你的工廠了。%n%n奈米晶片組裝複合體並不僅是一臺更華麗的電路裝配線或裝配線——它將是你整個基地運作的核心。只需要讓你的機器跑一個廉價的小訂單*，你就能擁有這臺電路製作科技的最新成果！%n%n§o免責宣告*：“小訂單”可能並不能準確反映貴方的產能，對於諸如“怎麼要這麼多UHV超導”或者“我們昨天就該多堆些雷射蝕刻機”之類的專業事故，本公司概不負責。§r%n%n§o奈米晶片組裝複合體™一經售出，概不退換。另行製作模組以體驗完整功能。
 
 # Quest: Cheaper ZPM Circuits
-betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.name=§5§l§n更廉價的ZPM電路板
-betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.desc=活性生物晶片可以同時處理更多的任務，你的ZPM電路板也更便宜了！%n%n[note]這個配方會消耗不少海珀珍，也許你可以等到海珀珍更加便宜的時候再使用這個配方。[/note]
+betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.name=§5§l§n更廉價的ZPM電路
+betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.desc=活性生物晶片可以同時處理更多的任務，你的ZPM電路也更便宜了！%n%n[note]這個配方會消耗不少海珀珍，也許你可以等到海珀珍更加便宜的時候再使用這個配方。[/note]
 
 # Quest: Download More RAM
 betterquesting.quest.eEJocLDBTkmdsCKo7Qhegw.name=§5§l§n下載更多記憶體
@@ -4380,7 +4380,7 @@ betterquesting.quest.m0Xg_WY_ToWE8Mc-8J28vg.desc=飛米功率IC用於製作UIV->
 
 # Quest: One Last Time
 betterquesting.quest.msIxGO5gQCWJPmEyp_JhtQ.name=§5§l§n最後一次
-betterquesting.quest.msIxGO5gQCWJPmEyp_JhtQ.desc=為了目前遊戲中的最後一條電路板產線，你需要製作最後一個電路組裝機，或者為電路裝配線製作一個UEV能源倉。
+betterquesting.quest.msIxGO5gQCWJPmEyp_JhtQ.desc=為了目前遊戲中的最後一條電路產線，你需要製作最後一臺電路組裝機，或者為電路裝配線製作一個UEV能源倉。
 
 # Quest: Stabilized Baryonic Matter
 betterquesting.quest.n8PKF63sSSi0y8ZBb2RIKQ.name=§5§l§n穩定重子物質
@@ -4465,7 +4465,7 @@ betterquesting.quest.9BXDpECuTP-36XxE8TfKMw.desc=使用超維度電漿鍛爐，�
 
 # Quest: Chaotic Core
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.name=§9§l§n混沌核心
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.desc=在末地最黑暗的角落，你找到了一條不太一樣的龍。原始的力量以混沌的形式湧出，好像就要撕裂現實本身！但即使是那條龍，也被你打敗了。將這種原始力量集中在一個核心中當然不容易，但看起來你找到了方法。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.desc=在終界最黑暗的角落，你找到了一條不太一樣的龍。原始的力量以混沌的形式湧出，好像就要撕裂現實本身！但即使是那條龍，也被你打敗了。將這種原始力量集中在一個核心中當然不容易，但看起來你找到了方法。
 
 # Quest: The Darkness of Choice for Edgelords
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbQ.name=§9§l§n漆黑之門！
@@ -4480,7 +4480,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpQ.name=§9§l§n老規矩，你懂的 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpQ.desc=希望你已經準備好了大量的超時空金屬:)
 
 # Quest: UMV Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqg.name=§9§l§nUMV電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqg.name=§9§l§nUMV電路
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqg.desc=皮米電路，光學主機的直接升級版本，未來的合成會大量需要這種UMV電路。%n%n[note]你需要NAC。[/note]%n%n[warn]有傳言說，這些電路可能存在不了多久了……[/warn]
 
 # Quest: Six-Phased Copper
@@ -4573,11 +4573,11 @@ betterquesting.quest.kvqtI5rrRrOhi5jhPR-s4A.desc=沒想到還要魯格諾吧？%
 
 # Quest: Heliothermal Plasma Fabricator
 betterquesting.quest.mr9r3y_kQbWxO2Gm_RvEIg.name=§9§l太陽熱能電漿製造機
-betterquesting.quest.mr9r3y_kQbWxO2Gm_RvEIg.desc=隨著對引力子碎片理解的不斷深入，你改進了控制它們的方式，讓它們可以更好的操控物質。引力子碎片提供了一種替代電磁約束電漿的方法，透過時空操控代替電磁場，從而使神鍛能夠直接將物質以電漿的形式輸出。%n%n[note]太陽熱能電漿製造機是神鍛的第三個模組。它可以直接把物質轉換成其電漿形式，代價是耗費極多的能量。這種方法對大部分電漿來說都不理想，不過用在某些耐聚王上可以節約大量的時間。此外，之後的升級允許此模組製作用其它方法無法制作的異星電漿。[/note]%n%n[note]使用此模組需要“引離約束”升級。[/note]
+betterquesting.quest.mr9r3y_kQbWxO2Gm_RvEIg.desc=隨著對引力子碎片理解的不斷深入，你改進了控制它們的方式，讓它們可以更好的操控物質。引力子碎片提供了一種替代電磁約束電漿的方法，透過時空操控代替電磁場，從而使神鍛能夠直接將物質以電漿的形式輸出。%n%n[note]太陽熱能電漿製造機是神鍛的第三個模組。它可以直接把物質轉換成其電漿形式，代價是耗費極多的能量。這種方法對大部分電漿來說都不理想，不過用在某些製作特別緩慢的電漿上，可以節省大量時間。此外，之後的升級允許此模組製作用其它方法無法製作的異星電漿。[/note]%n%n[note]使用此模組需要“引離約束”升級。[/note]
 
 # Quest: Project Godforge
 betterquesting.quest.n2AqI9hGSEegVf6hfygemQ.name=§9§l神鍛計劃
-betterquesting.quest.n2AqI9hGSEegVf6hfygemQ.desc=經過您的研究，您終於完成了它——諸神之鍛爐。%n%n諸神之鍛爐是圍繞一顆穩定的中子星建造的宏偉巨構——它的先程序度超乎想象，其全部功能尚未被完全理解。不過，透過持續使用，人們可以逐步升級並擴充套件神鍛的能力範圍， 揭示出一種隱藏在宇宙最極端區域的力量:[note]引力子碎片[/note]%n%n.這種深奧的材料只能在常規物質與中子星簡併中子質殼物質的交界處找到。在那裡，引力子更為常見，它們輻射著交界處混合的物質，產生極不穩定的引力子碎片。這些碎片目前僅可用於神鍛的內部升級。雖然這些碎片尚且不能在神鍛的極端環境之外存在，但隨著不斷的研究和利用，最終將其分離並提取到神鍛外部是有可能的——但這又是為了什麼呢？%n%n[note]請點選GUI中的標誌以瞭解更多關於如何操作神鍛的資訊.[/note]
+betterquesting.quest.n2AqI9hGSEegVf6hfygemQ.desc=經過您的研究，您終於完成了它——諸神之鍛爐。%n%n諸神之鍛爐是圍繞一顆穩定的中子星建造的宏偉巨構——它的先進程度超乎想象，其全部功能尚未被完全理解。不過，透過持續使用，人們可以逐步升級並擴充套件神鍛的能力範圍， 揭示出一種隱藏在宇宙最極端區域的力量:[note]引力子碎片[/note]。%n%n這種深奧的材料只能在常規物質與中子星簡併中子質殼物質的交界處找到。在那裡，引力子更為常見，它們輻射著交界處混合的物質，產生極不穩定的引力子碎片。這些碎片目前僅可用於神鍛的內部升級。雖然這些碎片尚且不能在神鍛的極端環境之外存在，但隨著不斷的研究和利用，最終將其分離並提取到神鍛外部是有可能的——但這又是為了什麼呢？%n%n[note]請點選GUI中的標誌以瞭解更多關於如何操作神鍛的資訊.[/note]
 
 # Quest: Space Modules Galore
 betterquesting.quest.nghPgh6-TuSKXUlzGXGrpw.name=§9§l§n數不勝數的太空電梯模組
@@ -4618,11 +4618,11 @@ betterquesting.quest.-fvTafFJRo67bYWh46USSw.desc=§3先進§r壓縮時空場發�
 
 # Quest: Finally, Universium!
 betterquesting.quest.21tDEYptRuOgSJym30Watg.name=§c§l§n最後--宇宙素！
-betterquesting.quest.21tDEYptRuOgSJym30Watg.desc=你終於解決了這個問題。誰能想到，讓死去的恆星保持足夠長的時間，會導致你的人造太陽系內爆，進而引發宇宙大爆炸？%n%n如果你能在恆星再次開始膨脹之前，立刻充分利用那麼多質量，你就能把整個宇宙握在手心了。%n%n這是你從鴻蒙之眼中獲得的第三種也是最後一種材料。%n%n[note]它主要用於UXV的合成，但你的前幾批宇宙素應該放在永恒生產迴圈中。它的任務位於“終極目標”篇章中！%n%n恭喜！現在你可以製造磁流體約束恆星物質（藍框岩漿）了。[/note]
+betterquesting.quest.21tDEYptRuOgSJym30Watg.desc=你終於解決了這個問題。誰能想到，讓死去的恆星保持足夠長的時間，會導致你的人造太陽系內爆，進而引發宇宙大爆炸？%n%n如果你能在恆星再次開始膨脹之前，立刻充分利用那麼多質量，你就能把整個宇宙握在手心了。%n%n這是你從鴻蒙之眼中獲得的第三種也是最後一種材料。%n%n[note]它主要用於UXV的合成，但你的前幾批宇宙素應該放在永恆生產迴圈中。它的任務位於“終極目標”篇章中！%n%n恭喜！現在你可以製造磁流體約束恆星物質（藍框岩漿）了。[/note]
 
 # Quest: Wireless Multi-Amp Hatches
 betterquesting.quest.2TXAUm6oQ0OhtMK79tC5cw.name=§c§l§n無線多安倉
-betterquesting.quest.2TXAUm6oQ0OhtMK79tC5cw.desc=現在有了調律源金，你可以製作4A,16A和64A無線能源倉了。這些倉室對那些接受多A能源倉，但又用不上雷射艙提供的極高功率的機器非常有用。%n%n[note]這些東西曾經用的很多，是用在處理陣列上最好的能源倉。願它們安息。[/note]
+betterquesting.quest.2TXAUm6oQ0OhtMK79tC5cw.desc=現在有了調律源金，你可以製作4A,16A和64A無線能源倉了。這些倉室對那些接受多A能源倉，但又用不上雷射倉提供的極高功率的機器非常有用。%n%n[note]這些東西曾經用的很多，是用在處理陣列上最好的能源倉。願它們安息。[/note]
 
 # Quest: Magnetohydrodynamically Constrained Star Matter
 betterquesting.quest.52Yelo6KSLGumzXo-_F5DQ.name=§c§l§n磁流體約束恆星物質
@@ -4649,7 +4649,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqw.name=§c§l§n還沒到頭呢
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqw.desc=還能再強一點。
 
 # Quest: UXV Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrA.name=§c§l§nUXV電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrA.name=§c§l§nUXV電路
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrA.desc=量子電路，光學主機與皮米電路的再次升級。這些UXV級電路將成為未來大量合成配方中不可或缺的材料。%n%n[note]你需要先擁有皮米電路奈米晶片組裝複合體才能開始製作。%n%n你知道嗎，所有特殊電路都會為校準提供加成？[/note]%n%n[warn]傳聞這些電路可能很快就會退出歷史舞臺……%n%n不過，傳聞或許並不可信……[/warn]
 
 # Quest: What is this, Tekxit?
@@ -4754,7 +4754,7 @@ betterquesting.quest.lU1caedNR6G6fdJqbivacw.desc=§4太初§r壓縮時空場發�
 
 # Quest: Shirabon
 betterquesting.quest.o8_pX-OSRJKBGzDsGujvNw.name=§c§l§n調律源金
-betterquesting.quest.o8_pX-OSRJKBGzDsGujvNw.desc=某些UMV和UXV元件需要的輔助材料。請盡情享受制作數百萬個調律源金的樂趣。%n%n[note]這種材料的製作和加工速度都非常緩慢。[/note]
+betterquesting.quest.o8_pX-OSRJKBGzDsGujvNw.desc=某些UMV和UXV元件需要的輔助材料。請盡情享受製作數百萬個調律源金的樂趣。%n%n[note]這種材料的製作和加工速度都非常緩慢。[/note]
 
 # Quest: UMV Field Generator
 betterquesting.quest.rdzpjzaCS2epgavzZr6L9A.name=§c§l§nUMV力場發生器
@@ -4786,7 +4786,7 @@ betterquesting.quest.va9yzhTSSUWxgareXVIaXQ.desc=§a卓越§r壓縮時空場發�
 
 # Quest: Eternity
 betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.name=§c§l§n永恆
-betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.desc=請務必考慮使用它來改進磁流體約束恆星物質的生產。你還需要它來製造藍框岩漿部件。%n%n這個生產迴圈的敲門磚是隨機產生且昂貴的。為了一個催化劑和頭5次搖獎機會，你總共需要20,736L宇宙素。%n%n量子操縱者的配方每次嘗試有25%%的機率生產永恆。你也許應該用電漿來開啟量子操縱者的聚焦模式，並聚焦生產永恆。%n%n[note]你知道量子操縱者有流體模式嗎？它可以用來提取熔融調律源金。只要用§a螺絲刀§r右擊控制器就可以了.[/note]%n%n[note]用永恆塊建造一個完整的信標可能有點奢侈，你覺得呢?[/note]
+betterquesting.quest.wGq5FvuuROyyMPbT_SkMYg.desc=請務必考慮使用它來改進磁流體約束恆星物質的生產。你還需要它來製造藍框岩漿部件。%n%n啟動這個生產迴圈不但昂貴，還得靠運氣。為了一個催化劑和頭5次搖獎機會，你總共需要20,736L宇宙素。%n%n量子操縱者的配方每次嘗試有25%%的機率生產永恆。你也許應該用電漿來開啟量子操縱者的聚焦模式，並聚焦生產永恆。%n%n[note]你知道量子操縱者有流體模式嗎？它可以用來提取熔融調律源金。只要用§a螺絲刀§r右擊控制器就可以了.[/note]%n%n[note]用永恆塊建造一個完整的信標可能有點奢侈，你覺得呢?[/note]
 
 
 ## Quest Line: Endgame Goals
@@ -4831,7 +4831,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKEA.desc=想要讓星門可以跨維度�
 
 # Quest: You'll Only Need a Few of These
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKIg.name=§6§l§n你只需要一點點這些
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKIg.desc=實際上它可能不會用於儲存任何能量，但你還是得製作它們，對吧？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKIg.desc=它可能實際上不會用來儲存能量，但仍是製作其他終局物品的有用材料。
 
 # Quest: Stargate Command
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKJQ.name=§6§l§n星門命令
@@ -4839,7 +4839,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKJQ.desc=好吧，如果你真的想使�
 
 # Quest: What, How?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKJg.name=§6§l§n什麼？你是怎麼做到的？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKJg.desc=恭喜你！完成此最終任務意味著你已攻克《格雷科技：新視野》中最艱難的挑戰！%n%n全體GT:NH開發團隊感謝您在此整合包中投入的時間。您已成為社群頂尖0.5%%的成員！%n%n既然已建造第一座星門，領取這第二座星門並把他們連線起來吧！（當然，若您更傾向親手合成第二座也悉聽尊便）%n%n歡迎在Discord伺服器的 #screenshot-brag 頻道分享您的基地，領取 stargate 專屬身份組。若對終局遊戲程序有任何建議，我們將不勝感激！%n%n此刻，或許您該暫離遊戲接觸現實…… 亦或是繼續征程？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKJg.desc=恭喜你！完成此最終任務意味著你已攻克《格雷科技：新視野》中最艱難的挑戰！%n%n全體GT:NH開發團隊感謝您在此整合包中投入的時間。您已成為社群頂尖0.5%%的成員！%n%n既然已建造第一座星門，領取這第二座星門並把它們連線起來吧！（當然，若您更傾向親手合成第二座也悉聽尊便）%n%n歡迎在Discord伺服器的 #screenshot-brag 頻道分享您的基地，領取 stargate 專屬身份組。若對終局遊戲程序有任何建議，我們將不勝感激！%n%n此刻，或許您該暫離遊戲接觸現實…… 亦或是繼續征程？
 
 # Quest: You Made It!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4A.name=§4§l§n你成功了！
@@ -4887,7 +4887,7 @@ betterquesting.quest.fTEQD_w8TTerm_ETSVcBmA.desc=星門的框架。你不會想�
 
 # Quest: Simulating a Solar System
 betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.name=§4§l§n模擬一個太陽系
-betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.desc=幾乎和真的一樣昂貴，對吧？不用擔心，這個星門和目前的成就只是個開始。%n%n[note]我們的旅程暫時告一段落，進入了UXV時代，也就是鴻蒙之眼時代。%n%n2023年，遊戲不斷被推向新的高度。鴻蒙之眼和直到UXV級別的機器部件都已經出現。多方塊結構已經獲得了無數的便利性提升，包括1toc、批處理、溢位保護，以及眾多AE2新增內容：如樣板輸入匯流排、儲存輸入倉、請求器等。自動化從未如此簡單，但目標卻從未如此遙遠。矽岩燃料現在有了多個等級。能夠一直用到遊戲後期。甚至可以與（現已修復的）戴森雲競爭，但仍然不及最大化的鴻蒙之眼產生的巨大能量（12.8T EU/t！）%n%n最初，星門的配方似乎不可能實現，需要在數百個最大化的鴻蒙之眼上執行數月，這促使進行了一些後期的調整使星門的實現更現實。在調整之後，競賽再次開始，這次是在§aJohny709§r和§aGDCloud§r之間。§aJohny§r在最後階段耗盡了精力，而§aGDCloud§r被另一個默默的競爭者§aStarStack§r超越，後者於§a2023年6月26日§r首次攻克了這一挑戰。%n%n這不僅僅是第一次，還標誌著“團隊挑戰賽時代”的開始，出現了更大量的挑戰，例如§aBallers Run§r（推動該時代的發展）、§aBee Run§r（對GTNH專案及其整體管理產生了廣泛影響）和§aCell Run 2§r（當時最快的星門挑戰，用時僅用73天，推廣了許多自動化技術，如請求器下單產線）。%n%n此外，這個版本見證了第一位玩家達成“GTNH之神”，即第三次完成星門挑戰。§aGDCloud§r作為§aCell Run 2§r的一員於§a2024年6月23日§r獲得了這個稱號。此後，還有三位玩家達成了這一成就：§aRamspace§r於§a2024年9月29日§r。以及§aStaffiX§r和§aserenibyss§r在一次團隊挑戰中於§a2024年11月17日§r。%n%nP.S.：以下是和往常一樣的清單：%n-新的多方塊結構，如高強度雷射蝕刻機、流體塑形機、工業高壓釜等。%n-諸神之鍛爐、黑洞壓縮機、反物質發電、T4精密組裝機。%n-DTPF維度收斂、部件裝配線的等級加速、大型真空冷凍機的亞空間冷卻模式、MK-V核融合提速亞穩態鿫。%n-無線資料倉、無線光學介面、Debug未定元解析器。%n-人造宇宙儲存元件、智慧阻擋模式。[/note]
+betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.desc=幾乎和真的一樣昂貴，對吧？不用擔心，這個星門和目前的成就只是個開始。%n%n[note]我們的旅程暫時告一段落，進入了UXV時代，也就是鴻蒙之眼時代。%n%n2023年，遊戲不斷被推向新的高度。鴻蒙之眼和直到UXV級別的機器部件都已經出現。多方塊結構已經獲得了無數的便利性提升，包括低於1 tick的超頻、批處理、溢位保護，以及眾多AE2新增內容：如樣板輸入匯流排、儲存輸入倉、請求器等。自動化從未如此簡單，但目標卻從未如此遙遠。矽岩燃料現在有了多個等級。能夠一直用到遊戲後期。甚至可以與（現已修復的）戴森雲競爭，但仍然不及最大化的鴻蒙之眼產生的巨大能量（12.8T EU/t！）%n%n最初，星門的配方似乎不可能實現，需要在數百個最大化的鴻蒙之眼上執行數月，這促使進行了一些後期的調整使星門的實現更現實。在調整之後，競賽再次開始，這次是在§aJohny709§r和§aGDCloud§r之間。§aJohny§r在最後階段耗盡了精力，而§aGDCloud§r被另一個默默的競爭者§aStarStack§r超越，後者於§a2023年6月26日§r首次攻克了這一挑戰。%n%n這不僅僅是第一次，還標誌著“團隊挑戰賽時代”的開始，出現了更大量的挑戰，例如§aBallers Run§r（推動該時代的發展）、§aBee Run§r（對GTNH專案及其整體管理產生了廣泛影響）和§aCell Run 2§r（當時最快的星門挑戰，用時僅用73天，推廣了許多自動化技術，如請求器下單產線）。%n%n此外，這個版本見證了第一位玩家達成“GTNH之神”，即第三次完成星門挑戰。§aGDCloud§r作為§aCell Run 2§r的一員於§a2024年6月23日§r獲得了這個稱號。此後，還有三位玩家達成了這一成就：§aRamspace§r於§a2024年9月29日§r。以及§aStaffiX§r和§aserenibyss§r在一次團隊挑戰中於§a2024年11月17日§r。%n%nP.S.：以下是和往常一樣的清單：%n-新的多方塊結構，如高強度雷射蝕刻機、流體塑形機、工業高壓釜等。%n-諸神之鍛爐、黑洞壓縮機、反物質發電、T4精密組裝機。%n-DTPF維度收斂、部件裝配線的等級加速、大型真空冷凍機的亞空間冷卻模式、MK-V核融合提速亞穩態鿫。%n-無線資料倉、無線光學介面、Debug未定元解析器。%n-人造宇宙儲存元件、智慧阻擋模式。[/note]
 
 # Quest: T3 Exo-Foundry
 betterquesting.quest.iLn_-6-LSk-wEOfi9muW3w.name=§4§l§nT3 異星鑄造塔
@@ -4916,7 +4916,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=別擔心，喬治老爹會
 
 # Quest: Hunger No More
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACWA.name=不再飢餓
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACWA.desc=飢餓問題一直跟隨著你，消耗你的精力，從不讓你休息。這世界充滿各種營養的水果、蔬菜、餐點。靠這些解決你永不滿足的飢渴吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACWA.desc=飢餓問題一直跟隨著你，消耗你的精力，從不讓你休息。這世界充滿各種營養的水果、蔬菜、餐點。靠這些解決你永不滿足的飢餓吧。
 
 # Quest: Grain Bait
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.name=穀物誘餌
@@ -4952,7 +4952,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=是時候種些小麥，用於�
 
 # Quest: Floury Flurry
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=麵粉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=做麵包的第一步是使用研缽或磨粉機磨碎小麥以取得麵粉。%n%n麵粉可以用於許多潘馬斯的食物配方。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=做麵包的第一步是使用研缽或研磨機磨碎小麥以取得麵粉。%n%n麵粉可以用於許多潘馬斯的食物配方。
 
 # Quest: First Handmade Bread
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=第一個手作麵包
@@ -4996,7 +4996,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPg.desc=大部分的水果都可以榨�
 
 # Quest: Potato Cakes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPw.name=馬鈴薯蛋糕
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPw.desc=用土豆、洋蔥、黃油和平底鍋來製作非常美味的馬鈴薯蛋糕！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPw.desc=用馬鈴薯、洋蔥、黃油和平底鍋來製作非常美味的馬鈴薯蛋糕！
 
 # Quest: Fried Eggs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQA.name=煎雞蛋
@@ -5004,7 +5004,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQA.desc=超簡單！用平底鍋來煎�
 
 # Quest: Hearty Breakfast
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQQ.name=豐盛的早餐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQQ.desc=現在讓我們吧所有的東西放在一起，來做一頓豐盛而美味的早餐。%n%n一些烹飪熟的肉、馬鈴薯蛋糕、烤麵包、煎雞蛋和美味的果汁將會讓你早餐很有營養！%n%n在這裡只能使用熟肉和果汁。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQQ.desc=現在讓我們把所有的東西放在一起，來做一頓豐盛而美味的早餐。%n%n一些烹飪熟的肉、馬鈴薯蛋糕、烤麵包、煎雞蛋和美味的果汁將會讓你的早餐很有營養！%n%n這裡可以使用任何種類的熟肉與水果果汁。
 
 # Quest: Korn and Doppelkorn
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_A.name=Korn and Doppelkorn（科恩酒和經過兩次蒸餾的科恩酒）
@@ -5020,7 +5020,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_g.desc=“伏特加”在俄語中是�
 
 # Quest: Food 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEmg.name=食物2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEmg.desc=忘記你有關食物的一切知識吧！有了全新的裝罐機，你可以將食物變成營養豐富的罐頭來填飽肚子了。 罐頭可以快速恢復你的飽和度，這會讓你感覺很快樂！而且隨便吃多少都不會有減持。%n%n別等飽和度掉到底才吃罐頭，罐頭恢復的飽和度非線性。一次吃3個效率最高。（此資料為玩家提供）  然鵝譯者認為罐頭根本不值錢，想怎麼吃就怎麼吃。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEmg.desc=忘記你有關食物的一切知識吧！有了全新的裝罐機，你可以將食物變成營養豐富的罐頭來填飽肚子了。 罐頭可以快速恢復你的飽和度，這會讓你感覺很快樂！而且隨便吃多少都不會有遞減懲罰。%n%n別等飽和度掉到底才吃罐頭，罐頭恢復的飽和度非線性。一次吃3個效率最高。（此資料為玩家提供）  然鵝譯者認為罐頭根本不值錢，想怎麼吃就怎麼吃。
 
 # Quest: Dezil's Marshmallow
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF0A.name=Dezil的棉花糖
@@ -5028,10 +5028,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF0A.desc=最後一步，你需要用一�
 
 # Quest: The industrial way
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAA.name=工業之路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAA.desc=生產朗姆酒也可以是自動化的，但是你要遵循工業製造原則。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAA.desc=生產蘭姆酒也可以是自動化的，但是你要遵循工業製造原則。
 
 # Quest: Rum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAQ.name=朗姆酒
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAQ.name=蘭姆酒
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAQ.desc=好喝！
 
 # Quest: Sugar: The Gathering
@@ -5044,7 +5044,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFAw.desc=蜂蜜中含有大量的糖，�
 
 # Quest: Wasps honey
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBA.name=黃蜂蜂蜜
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBA.desc=在地獄可以找到巨型黃蜂。 快！ 潛入蜂巢偷一些蜂蜜！%n%n這些巨大的蜂巢懸掛在地獄天花板上。其中只有大概一般含有蜂蜜，聚集在蜂巢下半部分的一層蜂蜜塊下。如果你遇到的是空的，可以另找一個。%n%n[note]只要揹包中有單元或者桶裝的流體就可以提交了。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBA.desc=在地獄可以找到巨型黃蜂。 快！ 潛入蜂巢偷一些蜂蜜！%n%n這些巨大的蜂巢懸掛在地獄天花板上。其中只有大概一半含有蜂蜜，聚集在蜂巢下半部分的一層蜂蜜塊下。如果你遇到的是空的，可以另找一個。%n%n[note]只要揹包中有單元或者桶裝的流體就可以提交了。[/note]
 
 # Quest: Really OP Food
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFyw.name=真正op的食物
@@ -5068,7 +5068,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLA.desc=小刀這樣的GT工具在處�
 
 # Quest: Just Like Mom Used to Make
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPg.name=就像媽媽以前做的
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPg.desc=果醬三明治是一種很好的食物來源，提供不錯的飽和度，且容易製作。幾乎所有的水果都可以用燉鍋加糖製成果醬。有幾種不同的堅果奶油可供選擇。花生可在森林、山巒或冰原生物群系中的陸地菜園找到。腰果可在叢林或者沼澤的樹上找到。板栗可在更溫暖的森林裡找到。開心果樹在叢林裡。許多這些樹苗都可與村民交易獲得。你需要使用軟錘或榨汁機將這些堅果榨成奶油糊糊！%n%n為了儲存你的所有配方，你可以用廚房多方塊結構（如果你想要看到所有可用的配方），或者林業的工作台（如果對你來說只有有限的9個配方也沒問題的話）。%n%n有些三明治提供更多的飽和度，所以在購買對應樹苗前請先檢視NEI！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPg.desc=果醬三明治是一種很好的食物來源，提供不錯的飽和度，且容易製作。幾乎所有的水果都可以用燉鍋加糖製成果醬。有幾種不同的堅果奶油可供選擇。花生可在森林、山巒或針葉林生物群系中的陸地菜園找到。腰果可在叢林或者沼澤的樹上找到。板栗可在更溫暖的森林裡找到。開心果樹在叢林裡。許多這些樹苗都可與村民交易獲得。你需要使用軟錘或榨汁機將這些堅果榨成奶油糊糊！%n%n為了儲存你的所有配方，你可以用廚房多方塊結構（如果你想要看到所有可用的配方），或者林業的工作台（如果對你來說只有有限的9個配方也沒問題的話）。%n%n有些三明治提供更多的飽和度，所以在購買對應樹苗前請先檢視NEI！
 
 # Quest: I Like Big Sandwiches
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPw.name=我喜歡大三明治
@@ -5076,7 +5076,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPw.desc=現在你有了麵糰，有多�
 
 # Quest: No Chicken Escapes!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.name=雞，一隻也別想跑！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.desc=你喜歡派嗎？當然！  有許多種派可供選擇。  雞肉派是最容易做的派之一。只需生雞肉、土豆、胡蘿蔔和麵團。水果派要簡單一點，所以提供的飽和度不太多，但是在你等待最好食物的過程中，它們對填飽肚子很有用。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.desc=你喜歡派嗎？當然！  有許多種派可供選擇。  雞肉派是最容易做的派之一。只需生雞肉、馬鈴薯、胡蘿蔔和麵糰。水果派要簡單一點，所以提供的飽和度不太多，但是在你等待較佳食物的遞減懲罰消退期間，它們對填飽肚子很有用。
 
 # Quest: Pumpkin Pie
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJhw.name=南瓜派
@@ -5782,7 +5782,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=如果你想跳下懸崖，而�
 
 # Quest: Electrotine Jetpack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=噴氣揹包
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=滑翔翼讓你可以安全降落，但沒辦法讓你往上飛。研究藍石後，你發現他的能量足夠讓你做出第一個噴氣揹包。%n%n一個鑽石胸甲加上四個空電池，就足夠讓你飛上天。%n%n但它並沒有懸停模式，所以最好帶著你的滑翔翼。%n%n提示：這個噴氣揹包無法飛到超過Y-128的高度。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=滑翔翼讓你可以安全降落，但沒辦法讓你往上飛。研究藍石後，你發現它的能量足夠讓你做出第一個噴氣揹包。%n%n一個鑽石胸甲加上四個空電池，就足夠讓你飛上天。%n%n但它並沒有懸停模式，所以最好帶著你的滑翔翼。%n%n提示：這個噴氣揹包無法飛到超過Y-128的高度。
 
 # Quest: Refill Your Jetpack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.name=裝填噴氣揹包
@@ -5794,7 +5794,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=你的燃煤噴氣揹包需要�
 
 # Quest: Copterpack, More 'Hover' than 'Jet'
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.name=直升機揹包，更擅懸停
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.desc=直升機揹包是第一個有盤旋模式的噴氣揹包。它可以使用所有桶裝的燃料。%n%n桶裝雜酚油、岩漿、石油，或燃料都可以。%n%n裝備你的直升機揹包，按住潛行鍵並按下探險揹包動作鍵來啟動它。你可以在正常模式跟盤旋模式間切換。%n%n最大飛行高度是200層。%n%n垂直速度在超過理想高度後，會線性降低。噴氣揹包的理想高度是135層，直升機揹包的理想高度是100層。%n%n[note]掉落物會被吹走，就像現實裡的直升機一樣，所以在末地或懸崖邊需要注意這一點。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.desc=直升機揹包是第一個有盤旋模式的噴氣揹包。它可以使用多種桶裝燃料。%n%n桶裝雜酚油、岩漿、石油，或燃料都可以。%n%n裝備你的直升機揹包，按住潛行鍵並按下探險揹包動作鍵來啟動它。你可以在正常模式跟盤旋模式間切換。%n%n最大飛行高度是200層。%n%n垂直速度在超過理想高度後，會線性降低。噴氣揹包的理想高度是135層，直升機揹包的理想高度是100層。%n%n[note]掉落物會被吹走，就像現實裡的直升機一樣，所以在終界或懸崖邊需要注意這一點。[/note]
 
 # Quest: Electric Jetpack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiw.name=電力噴氣揹包
@@ -5806,7 +5806,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACjA.desc=這個噴氣揹包使用IC2的�
 
 # Quest: Advanced Electric Jetpack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACjQ.name=進階電力噴氣揹包
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjQ.desc=進階電力噴氣揹包是電力噴氣揹包的升級版。%n裝備為胸甲並且充有EU時，它可讓飛行。進階電力噴氣揹包不提供護甲，但其內部儲存的3M EU可以為你的工具充電，類似於進階蘭波頓電池揹包。%n%n進階噴氣揹包的最大飛行高度是256層。%n%n[note]開啟噴氣揹包的按鍵是GraviSuite一欄下的Gravi Fly Key。空格鍵提升高度。按住空格時按下IC2的Mode Switch Key可以啟用懸停模式。進階電力噴氣揹包也可以為工具充電。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACjQ.desc=進階電力噴氣揹包是電力噴氣揹包的升級版。%n裝備為胸甲並且充有EU時，它可讓玩家飛行。進階電力噴氣揹包不提供護甲，但其內部儲存的3M EU可以為你的工具充電，類似於進階蘭波頓電池揹包。%n%n進階噴氣揹包的最大飛行高度是256層。%n%n[note]開啟噴氣揹包的按鍵是GraviSuite一欄下的Gravi Fly Key。空格鍵提升高度。按住空格時按下IC2的Mode Switch Key可以啟用懸停模式。進階電力噴氣揹包也可以為工具充電。[/note]
 
 # Quest: Row, Row, Row Your Boat
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACmg.name=讓我們蕩起雙槳
@@ -5830,11 +5830,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=與其他小艇不同，這驚�
 
 # Quest: Electric Boat
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.name=電動船
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.desc=電動船的運作和原版的船相似，以相當快的速度穿過水麵。當撞擊時將會掉出他的原型，而不是通常的木棒。這當然非常好，但如果我們利用電力引擎呢？在胸甲一欄穿上電力儲存裝置，例如電池揹包或儲電揹包。電動船將會吸取揹包的電力，並推動你以超音速前進！每前進一格約消耗100EU，所以就算很好的電池揹包也持續不了多久！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.desc=電動船的運作和原版的船相似，以相當快的速度穿過水面。當撞擊時將會掉出船本身，而不是通常的木棒。這當然非常好，但如果我們利用電力引擎呢？在胸甲一欄穿上電力儲存裝置，例如電池揹包或儲電揹包。電動船將會吸取揹包的電力，並推動你以超音速前進！每前進一格約消耗100EU，所以就算很好的電池揹包也持續不了多久！
 
 # Quest: Boat Shape?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=船模具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=認真的？為了做更高階的船，你需要一個新的模頭。%n%n但是首先你需要製作一臺壓模機。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=認真的？為了做更高階的船，你需要一個新的模頭。%n%n但是首先你需要製作一臺擠壓機。
 
 # Quest: Wooden Rail Variants
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.name=更多不同的木軌
@@ -5850,7 +5850,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACpA.desc=撬棍有RC版本跟GT版本（
 
 # Quest: Minecart
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.name=礦車
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=當你製作出第一輛礦車後，就可以啟程了……%n%n好吧，其實並沒有。你首先需要某種軌道。%n%n[note]任務書有限公司在此宣告，我們不以任何形式擔保礦車或列車的實用性。尤其是當你有了錘子和揹包後，一次性挖空一整條礦脈完全不成問題。[/note]%n%n[warn]警告：未受保護的礦車可能會因雷擊而脫軌。請用方塊遮蓋該區域，以防止礦車消失。[/warn]%n%n[warn]另外，請確保你的礦車待在同一個區塊內，或者使用區塊載入器覆蓋礦車工作範圍內的整個區域。區塊的載入/解除安裝可能會導致礦車消失或複製。[/warn]%n%n[note]除非純粹為了娛樂，否則不建議製作此類物品。因為礦車所能實現的功能，其他替代方案（包括但不限於長距離流體管道）能做得更好。過多的礦車和火車極易引發伺服器卡頓，屆時你可能仍會被要求改用其他方案。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=當你製作出第一輛礦車後，就可以啟程了……%n%n好吧，其實並沒有。你首先需要某種軌道。%n%n[note]任務書有限公司在此宣告，我們不以任何形式擔保礦車或列車的實用性。尤其是當你有了錘子和揹包後，一次性挖空一整條礦脈完全不成問題。[/note]%n%n[warn]警告：未受保護的礦車可能會因雷擊而脫軌。請用方塊遮蓋該區域，以防止礦車消失。[/warn]%n%n[warn]另外，請確保你的礦車待在同一個區塊內，或者使用區塊載入器覆蓋礦車工作範圍內的整個區域。區塊的載入／卸載可能會導致礦車消失或複製。[/warn]%n%n[note]除非純粹為了娛樂，否則不建議製作此類物品。因為礦車所能實現的功能，其他替代方案（包括但不限於長距離流體管道）能做得更好。過多的礦車和火車極易引發伺服器卡頓，屆時你可能仍會被要求改用其他方案。[/note]
 
 # Quest: The Transcontinental Railroad
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.name=橫貫鐵路
@@ -5865,8 +5865,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnQ.name=讓礦車可以蓄水、儲物�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnQ.desc=想運輸石油或者其他的流體？想在礦車上安裝工作台或者儲物箱？ 那麼我們來製造這些各種功能的礦車吧！
 
 # Quest: Fluid Loader and Unloader
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEng.name=流體裝載機和解除安裝機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEng.desc=如果你想把石油從很遠的油田運輸回來，並且實現自動化。那麼你需要一套流體裝載/解除安裝機。在石油裝載或解除安裝過程中，封鎖軌道會讓列車長時間停留。%n%n[note]PS： 在進入LV階段後應該儘可能轉換為使用長距離流體管道，除非你真的很喜歡火車。[/note]%n%n關於如何使用這些裝置的詳細資訊，需要你親自去研究（GTNH僅更改了配方，並未更改Railcraft的功能），這裡簡單羅列一些可能該做的事情：%n%n1. 從你的基地到油井鋪設好一圈軌道。%n2. 在油井側放置一個封鎖軌道，在軌道上方兩格高出放流體裝載機。封鎖軌道應該處於鎖定模式，用撬棍右鍵軌道來切換模式。%n3. 在流體裝載機的過濾器標記儲罐車，並調整至空載發車模式。%n4. 用你喜歡的方式將油從油井自動匯入流體裝載機。%n5. 在基地側放置一個封鎖軌道並在軌道下放置流體解除安裝機，其他就像裝載機那邊一樣。%n6. 同樣設定機車的自動化 - 蒸汽機車上方放置裝載機並設定為手動模式和過濾機車。%n%n或者把它修好，或者研究更細緻點，或者你意識到它一趟能運32桶然後決定就這樣吧，或者你可以去Discord問怎麼會有人用火車。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEng.name=流體裝載機和卸載機
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEng.desc=如果你想把石油從很遠的油田運輸回來，並且實現自動化。那麼你需要一套流體裝載/卸載機。在石油裝載或卸載過程中，封鎖軌道會讓列車長時間停留。%n%n[note]PS： 在進入LV階段後應該儘可能轉換為使用長距離流體管道，除非你真的很喜歡火車。[/note]%n%n關於如何使用這些裝置的詳細資訊，需要你親自去研究（GTNH僅更改了配方，並未更改Railcraft的功能），這裡簡單羅列一些可能該做的事情：%n%n1. 從你的基地到油井鋪設好一圈軌道。%n2. 在油井側放置一個封鎖軌道，在軌道上方兩格高處放流體裝載機。封鎖軌道應該處於鎖定模式，用撬棍右鍵軌道來切換模式。%n3. 在流體裝載機的過濾器標記儲罐車，並調整至空載發車模式。%n4. 用你喜歡的方式將油從油井自動匯入流體裝載機。%n5. 在基地側放置一個封鎖軌道並在軌道下放置流體卸載機，其他就像裝載機那邊一樣。%n6. 同樣設定機車的自動化 - 蒸汽機車上方放置裝載機並設定為手動模式和過濾機車。%n%n或者把它修好，或者研究更細緻點，或者你意識到它一趟能運32桶然後決定就這樣吧，或者你可以去Discord問怎麼會有人用火車。
 
 # Quest: Locomotive 0.1 Alpha
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnw.name=火車頭0.1測試版
@@ -5930,11 +5930,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8w.desc=活塞靴子是為探險者準�
 
 # Quest: Boost Your Speed v2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEg.name=增加你的速度 v2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEg.desc=高速過渡軌道和推進軌道讓你的礦車以匪夷所思的速度移動。  不要完全使用普通軌道，否則你的礦車將會爆炸。  不要試圖在高速行駛時轉彎，否則……你猜對了，你的礦車將會爆炸。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEg.desc=高速過渡軌道和推進軌道讓你的礦車以匪夷所思的速度移動。  接入普通軌道前，務必先經過數段高速過渡軌道，否則你的礦車會爆炸。  不要試圖在高速行駛時轉彎，否則……你猜對了，你的礦車將會爆炸。
 
 # Quest: So Much Nicer Than Ladders
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.name=比梯子好多了
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.desc=電梯非常適合在你的基地用於快速垂直運輸。離開有色電梯將停在同一顏色的電梯上。用一些更多門(Malisis-doors)mod的門來做出“真正”電梯的效果。%n旋轉電梯會根據玩家面朝的方向將玩家向下或向上傳送。很適合於你的電梯井位於某一層的一側，而另一側是另外一層。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.desc=電梯非常適合在你的基地用於快速垂直運輸。離開有色電梯將停在同一顏色的電梯上。用一些更多門(Malisis-doors)mod的門來做出“真正”電梯的效果。%n旋轉電梯會在玩家向上或向下傳送時，將玩家轉向指定方向。很適合於你的電梯井位於某一層的一側，而另一側是另外一層。
 
 # Quest: Better Boots with a little pizzazz
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1A.name=更炫酷的靴子
@@ -5954,7 +5954,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDA.desc=奧法韁繩使你能夠飛翔�
 
 # Quest: Flying With the Greatest of Ease
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDQ.name=無憂無慮地飛翔
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDQ.desc=啊哈，這個更棒！  有了這根腰帶，你可以像個真正的巫師一樣飛來飛去了。可惜這需要消耗額外的能量（Potentia）源質，所以繼續你的研究吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDQ.desc=啊哈，這個更棒！  有了這根腰帶，你可以像個真正的巫師一樣飛來飛去了。可惜這需要消耗額外的能量（Potentia）源質，所以要留意你的飛行時間。
 
 # Quest: Working While Flying?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDg.name=飛行時工作？ 
@@ -5970,15 +5970,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEg.desc=這個斗篷是滑翔翼不錯�
 
 # Quest: 'Easy' Teleportation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnQ.name=‘簡便’傳送
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnQ.desc=傳送器非常好用，雖然製作起來比較痛苦…… 對著1號傳送器使用傳送方位核心可以記錄座標，將這個核心放入2號傳送器中，給2號傳送器一個紅石訊號即可將範圍內的物品、實體、還有方塊傳送到1號傳送器上方。 當然這會消耗LP。 跟高階的核心擁有更大的範圍。%n%n譯者注： 在伺服器使用此裝置傳送含NBT的方塊時需要特別注意，伺服器效能不夠或者網路卡頓可能造成資料丟失。 沒錯我說的就是GT機器，我不會告訴你我用這玩意弄丟過好幾個礦機……
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnQ.desc=傳送器非常好用，雖然製作起來比較痛苦…… 對著1號傳送器使用傳送方位核心可以記錄座標，將這個核心放入2號傳送器中，給2號傳送器一個紅石訊號即可將範圍內的物品、實體、還有方塊傳送到1號傳送器上方。 當然這會消耗LP。 更高階的核心擁有更大的範圍。%n%n譯者注： 在伺服器使用此裝置傳送含NBT的方塊時需要特別注意，伺服器效能不夠或者網路卡頓可能造成資料丟失。 沒錯我說的就是GT機器，我不會告訴你我用這玩意弄丟過好幾個礦機……
 
 # Quest: Flippers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALUw.name=腳蹼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALUw.desc=可能你運氣不錯，在寶箱或地牢裡找到了腳蹼。%n%n腳蹼可以讓玩家的游泳速度與行走速度一致。唯一的問題是它不提供護甲值。%n%n如果你正在建造水面建築，或在水下挖掘黏土或沙礫，你就會發現這玩意真好用。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALUw.desc=可能你運氣不錯，在寶箱或地牢裡找到了腳蹼。%n%n腳蹼可以讓玩家的游泳速度與行走速度一致。唯一的問題是它不提供護甲值。%n%n如果你正在建造水下建築，或在水下挖掘黏土或沙礫，你就會發現這玩意真好用。
 
 # Quest: Travelocity²
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3Q.name=傳送²
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3Q.desc=如果能用傳送的，那為啥還用走的？本次全新升級的傳送之杖更快、更遠，而且絕無斷電風險。%n%n右鍵：%n*若指向一個旅行錨：傳送到其位置，2048格範圍%n*若指向一個方塊：傳送到其位置，512格範圍%n*若範圍內沒有指向方塊：向前傳送，64格範圍%n*若指向一個2格內的方塊：傳送到這面牆的另一端，16格範圍%n*沒有任何冷卻時間%n%nShift右鍵：與右鍵相同，但是忽略旅行錨%n*旅行錨會在按住shift時隱藏%n%n[note]提示：你可能無法看到太遠的傳送錨，但只要它們在範圍內且被載入，你仍然可以傳送過去；可以用JounneyMap路徑點來標註旅行錨。[/note]%n%n[note]注意：右鍵和shift右鍵的功能是完全可配置的。檢視EnderIO的config配置檔案！%n配置動作值：%n0：不執行任何操作%n1：向前傳送/傳送到所看的位置%n2：傳送到旅行錨%n3：傳送到旅行錨，若沒有錨則向前傳送/傳送到所看的位置[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3Q.desc=如果能用傳送的，那為啥還用走的？本次全新升級的傳送之杖更快、更遠，而且絕無斷電風險。%n%n右鍵：%n*若指向一個旅行錨：傳送到其位置，2048格範圍%n*若指向一個方塊：傳送到其位置，512格範圍%n*若範圍內沒有指向方塊：向前傳送，64格範圍%n*若指向一個2格內的方塊：傳送到這面牆的另一端，16格範圍%n*沒有任何冷卻時間%n%nShift右鍵：與右鍵相同，但是忽略旅行錨%n*旅行錨會在按住shift時隱藏%n%n[note]提示：你可能無法看到太遠的傳送錨，但只要它們在範圍內且被載入，你仍然可以傳送過去；可以用JourneyMap路徑點來標註旅行錨。[/note]%n%n[note]注意：右鍵和shift右鍵的功能是完全可配置的。檢視EnderIO的config配置檔案！%n配置動作值：%n0：不執行任何操作%n1：向前傳送/傳送到所看的位置%n2：傳送到旅行錨%n3：傳送到旅行錨，若沒有錨則向前傳送/傳送到所看的位置[/note]
 
 # Quest: Let's Go Lava Surfing!
 betterquesting.quest.BC7LS6iHTYW_U0-SuIA4Sg.name=讓我們在岩漿上衝浪吧！
@@ -5994,7 +5994,7 @@ betterquesting.quest.SxCNz5_RSym0Q-uKaG2JRA.desc=它們的耐久有限。因此�
 
 # Quest: Planar Gateways
 betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.name=異界之門
-betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.desc=神秘視界的異界傳送門可以讓你進入口袋世界。可以為一個口袋世界設定多個（最多四個）異界傳送門，它們甚至可以讓你往返於其他其他位面之間。
+betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.desc=神秘視界的異界傳送門可以讓你進入口袋世界。可以為一個口袋世界設定多個（最多四個）異界傳送門，它們甚至可以讓你往返於其他位面之間。
 
 # Quest: Chaos Locator
 betterquesting.quest._D1VyrEFSICL70afdVd1YQ.name=混沌定位器
@@ -6043,7 +6043,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=再一次升級你的牆壁和�
 
 # Quest: Almost Unbreakable
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.name=§b§l幾乎牢不可破
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.desc=你可能已經不需要它了，但是既然你已經制作了這麼多的牆，到了最後為什麼不用一些最好的呢？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.desc=你可能已經不需要它了，但是既然你已經製作了這麼多的牆，到了最後為什麼不用一些最好的呢？
 
 # Quest: Protect Your Base: Tier 5
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=§b§l保護你的基地：第5級
@@ -6063,7 +6063,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=巨大的攻擊力，和美妙�
 
 # Quest: Protect Your Base: Tier 1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=§5§l保護你的基地：第1級
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=一個人要用適當的方式來保衛他的家。那麼為什麼不用炮塔來保衛安全呢？目前有2種炮塔可供選擇：“土豆”和“一次性物品”。我想你能猜到它們是用來幹什麼的，以及它們是如何工作的……（不，我不能）
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=一個人要用適當的方式來保衛他的家。那麼為什麼不用炮塔來保衛安全呢？目前有2種炮塔可供選擇：“馬鈴薯”和“一次性物品”。我想你能猜到它們是用來幹什麼的，以及它們是如何工作的……（不，我不能）
 
 # Quest: Passive Defence
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeQ.name=§5§l被動防禦
@@ -6115,15 +6115,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqw.desc=防禦反擊下一波殭屍、�
 
 # Quest: Protect Your Base: Tier 3
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAArA.name=§9§l保護你的基地：第3級
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArA.desc=來，讓我們大聲喊出來：R——P——G——!!Allahu akbar（安拉胡阿克巴）!!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArA.desc=這才像話：榴彈！讓爆炸威力更上一層樓的新武器。
 
 # Quest: Tier 3 Base
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.name=§9§l3級炮臺基座
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.name=§9§l3級炮台基座
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.desc=更多的儲存，更多的能量，以及更多的升級插槽。
 
 # Quest: This is Relatively Useful
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.name=§9§l這個炮臺可能會比較有用
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.desc=恩……可能會有點用，至少看著它執行還挺有趣？ 備註：這個炮臺不會造成傷害，但是可以將怪物困在原地。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.name=§9§l這個炮台可能會比較有用
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.desc=恩……可能會有點用，至少看著它執行還挺有趣？ 備註：這個炮台不會造成傷害，但是可以將怪物困在原地。
 
 # Quest: Fire in the Hole
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.name=§9§l小心！我要扔手雷了！（Fire in the hole）
@@ -6135,7 +6135,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=更大的索敵範圍，更高�
 
 # Quest: Iron Shields
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACkA.name=§2§l鐵盾
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkA.desc=你的皮盾已經用夠久了。第一批工具到手後，挖些鐵礦，做一面精良的鐵盾吧，
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACkA.desc=你的皮盾已經用夠久了。第一批工具到手後，挖些鐵礦，做一面精良的鐵盾吧。
 
 # Quest: Stone spear
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACkQ.name=§2§l石頭矛
@@ -6155,7 +6155,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=你的鐵盾已經破舊不堪�
 
 # Quest: Bow, Arrows and Quiver
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=§5§l弓，箭，與箭袋
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=哇，你的第一把手製……§o咳咳§r……機器制弓。現在是時候做些箭和一個箭袋了。%n%n想要將箭放入箭袋裡，你需要把箭袋和一組箭放入合成欄。確保控制中的“Special”按鍵與其他按鍵沒有衝突。預設為Z.當你選中弓時，按下Z來交換箭袋裡的箭。%n%n雖然看起來這些可能毫無價值，但這些箭確實有特殊用途。 你真想跟你的朋友分享一塊曲奇餅乾，對吧？%n%n開始狩獵吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=哇，你的第一把手製……§o咳咳§r……機器製弓。現在是時候做些箭和一個箭袋了。%n%n想要將箭放入箭袋裡，你需要把箭袋和一組箭放入合成欄。確保控制中的“Special”按鍵與其他按鍵沒有衝突。預設為Z.當你選中弓時，按下Z來交換箭袋裡的箭。%n%n雖然看起來這些可能毫無價值，但這些箭確實有特殊用途。 你真想跟你的朋友分享一塊曲奇餅乾，對吧？%n%n開始狩獵吧。
 
 # Quest: Wet Dirt Armor?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqw.name=泥巴護甲？
@@ -6203,11 +6203,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3w.desc=為了升級玄鋼護甲，你�
 
 # Quest: Dark Steel Armor Advanced Upgrades
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5Q.name=玄鋼護甲高階升級
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5Q.desc=你的玄鋼護甲可以透過和多種物品相結合來增強他們的能力。 因此你需要一個鐵砧和大量的經驗值。%n%n製作藥水時務必一次製作三瓶，以保證NBT資料匹配。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5Q.desc=你的玄鋼護甲可以透過和多種物品相結合來增強它們的能力。 因此你需要一個鐵砧和大量的經驗值。%n%n製作藥水時務必一次製作三瓶，以保證NBT資料匹配。
 
 # Quest: Carbon Parts
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.name=碳纖零件
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.desc=這些零件是你最愛的奈米裝甲所需要的。%n%n[note]想要真正完成奈米裝甲，你還需要EV電路板和奈米晶體（請檢視“EU的儲存與變壓”工作列）。[/note]%n%n[warn]IC2正逐步從整合包中移除！請檢視附近的“模組化魔改”任務以獲取替代方案。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.desc=這些零件是你最愛的奈米裝甲所需要的。%n%n[note]想要真正完成奈米裝甲，你還需要EV電路和奈米晶體（請檢視“EU的儲存與變壓”任務章節）。[/note]%n%n[warn]IC2正逐步從整合包中移除！請檢視附近的“模組化魔改”任務以獲取替代方案。[/warn]
 
 # Quest: Seeing Things Brighter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADCA.name=看得更清楚
@@ -6311,7 +6311,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLw.desc=鐵木盔甲是一種魔法盔�
 
 # Quest: Armor of the Dead
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOA.name=靈魂護甲
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOA.desc=我找到了靈氣的其他用途-製作靈魂之鐵。用它製成的護甲比鑽石護甲更好，且具有更高的可附魔性。%n%n它還會掉落治癒球，最近的玩家收到這些球后會得到治療。%n%n不幸的是，它的副作用就是會使你變得透明。副作用？我覺得是增強啊！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOA.desc=我找到了靈氣的其他用途-製作靈魂之鐵。用它製成的護甲比鑽石護甲更好，且具有更高的可附魔性。%n%n它還會掉落治癒球，最近的玩家收到這些球後會得到治療。%n%n不幸的是，它的副作用就是會使你變得透明。副作用？我覺得是增強啊！
 
 # Quest: "Oh, Magic" Armor II
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAICQ.name=“噢，魔法”裝甲II
@@ -6330,7 +6330,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQQ.name=像蝙蝠一樣……“看”�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQQ.desc=夜視是一個很棒的揹包能力。
 
 # Quest: Swim Like a ... Squid?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQg.name=像魷魚一樣……“遊”？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQg.name=像魷魚一樣……“游”？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQg.desc=如果你想深潛或者進行水下探險，這種揹包就是為你準備的。
 
 # Quest: Walk Through Fire
@@ -6347,7 +6347,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRQ.desc=在儲存欄裡放小麥就可�
 
 # Quest: Here There be Dragons
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRg.name=化身巨龍
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRg.desc=龍揹包給予你火焰保護、力量、夜視和生命回覆效果。%n%n[note]它的功能的確很強大，但它也會消耗一個龍蛋，所以請確定你真的需要它，或者你有把握再做個龍蛋。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRg.desc=龍揹包給予你火焰保護、力量、夜視和生命恢復效果。%n%n[note]它的功能的確很強大，但它也會消耗一個龍蛋，所以請確定你真的需要它，或者你有把握再做個龍蛋。[/note]
 
 # Quest: Oink!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWw.name=哼哼！（Oink!）
@@ -6440,7 +6440,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACWQ.desc=手動放置方塊有時非常�
 
 # Quest: Base Too Big? I've Got a Fix For You!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADuA.name=§2§l基地太大？我有一個好辦法！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADuA.desc=為了防止汙染或者防止機器爆炸你可能會將你的基地裝置放置的十分分散，這樣來回移動真的很累，所以何不製造一些混凝土加快移動速度呢？%n%n嘗試去採集一些大理石。大理石磨成粉末後離心可以獲得很多方解石，在攪拌機里加水將它和石粉、黏土粉、石英砂攪拌。接下來攪拌物輸出到一個流體固化器中使其固化為混凝土塊。%n%n在這些混凝土塊上你會走的更快。並且你可以將它們合成為混凝土磚，混凝土磚可以阻止怪物生成。%n%n提示：10桶濕混凝土可以合成160塊混凝土。它們還可以用鑿子加工成不同的樣式。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADuA.desc=為了防止汙染或者防止機器爆炸你可能會將你的基地裝置放置的十分分散，這樣來回移動真的很累，所以何不製造一些混凝土加快移動速度呢？%n%n嘗試去採集一些大理石。大理石磨成粉末後離心可以獲得很多方解石，在攪拌機裡加水將它和石粉、黏土粉、石英砂攪拌。接下來攪拌物輸出到一個流體固化器中使其固化為混凝土塊。%n%n在這些混凝土塊上你會走的更快。並且你可以將它們合成為混凝土磚，混凝土磚可以阻止怪物生成。%n%n提示：10桶濕混凝土可以合成160塊混凝土。它們還可以用鑿子加工成不同的樣式。
 
 # Quest: Chisel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHjw.name=§a§l更好的鑿子
@@ -6500,7 +6500,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHoA.desc=植物學(Botany)這個mod為�
 
 # Quest: Finding Flowers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHoQ.name=§a§l尋花
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHoQ.desc=想要開始植物學這個mod，你需要找一些花。然後用你的泥鏟把泥土變成普通花土。然後將你找到的花種在這些普通花土上，這樣它們會變成植物學這個mod的花。  如果你已經達到了MV階段，檢視“人來瘋（蜂）”工作列以獲知基因工程（注意與基因工業區分）方面的資訊。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHoQ.desc=想要開始植物學這個mod，你需要找一些花。然後用你的泥鏟把泥土變成普通花土。然後將你找到的花種在這些普通花土上，這樣它們會變成植物學這個mod的花。  如果你已經達到了MV階段，檢視“人來瘋（蜂）”任務章節以獲知基因工程（注意與基因工業區分）方面的資訊。
 
 # Quest: Powder Power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHow.name=§a§l粉末的力量（Powder Power）
@@ -6516,7 +6516,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHpQ.desc=土壤檢測計將告訴你花�
 
 # Quest: 80 New Colors to Play With
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHpg.name=§a§l又多了80種新顏色給你玩
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHpg.desc=當你種植原版花，在其成熟後。用剪刀收割獲得幼苗-可以重新種植繁殖。破壞花就會獲得一朵成熟的花。用工作台處理這花，你就能獲得染料。%n%n想要雜交，你需要將花與空花土相鄰種植。留神雜草。最後一個小幼苗就會開始生長。%n%n記住，做這些事情時要在地下或是封閉空間，否則TPS會讓你後悔的。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHpg.desc=當你把原版花種下時，它已經是成熟狀態。用剪刀收割獲得幼苗-可以重新種植繁殖。破壞花就會獲得一朵成熟的花。用工作台處理這花，你就能獲得染料。%n%n想要雜交，你需要將花與空花土相鄰種植。留神雜草。最後一個小幼苗就會開始生長。%n%n記住，做這些事情時要在地下或是封閉空間，否則TPS會讓你後悔的。
 
 # Quest: Glass of Many Colors
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHpw.name=§a§l五顏六色的玻璃
@@ -6524,7 +6524,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHpw.desc=種類豐富的染料帶來了�
 
 # Quest: Ceramics
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHqA.name=§a§l陶瓷
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHqA.desc=用一些黏土和染料，你可以製作染色黏土。將染色黏土燒製，你就能獲得基礎的陶瓷塊。如果你想要造出一片擁有均勻過度顏色的區域，這些方塊會很有用。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHqA.desc=用一些黏土和染料，你可以製作染色黏土。將染色黏土燒製，你就能獲得基礎的陶瓷塊。如果你想要造出一片擁有均勻色彩的區域，這些方塊會很有用。
 
 # Quest: Mortar and Tiles
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHqQ.name=§a§l研缽和瓷磚
@@ -6604,7 +6604,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHvA.desc=EIO也有自己的燈。這些�
 
 # Quest: BetterIO?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHvQ.name=更好的EIO？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHvQ.desc=EIO的電燈和無線電燈可以照亮最多10格，而普通火把只能照亮7格。你需要離心液態空氣才能過去製作燈泡所需的氣體。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHvQ.desc=EIO的電燈和無線電燈可以照亮最多10格，而普通火把只能照亮7格。你需要離心液態空氣才能取得製作燈泡所需的氣體。
 
 # Quest: What's Behind Door #3?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHvg.name=§2§l門後有什麼#3？
@@ -6616,7 +6616,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHvw.desc=你可以的！建築指導儀�
 
 # Quest: Faster, Better, Buildi-er
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwA.name=§6§l更快、更好、更“建築”
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwA.desc=強化建築指導儀提供了更有特徵的指導。最重要的是，你可以手持你想要放置的方塊右鍵這臺機器任意白色部分，然後這個方塊就會被放置在世界中。你需要提供紅石訊號來啟用這臺機器。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwA.desc=強化建築指導儀比標準版本提供更多功能。最重要的是，你可以手持你想要放置的方塊右鍵這臺機器任意白色部分，然後這個方塊就會被放置在世界中。你需要提供紅石訊號來啟用這臺機器。
 
 # Quest: More Like Ouch-i-tect
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwg.name=§a§l更像 Ouch-i-tect
@@ -6636,7 +6636,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcA.desc=另一個自定義方塊系統�
 
 # Quest: Catwalks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.name=§c§l棧橋
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.desc=棧橋Mod新增了多種裝飾性方塊來裝飾你的工廠。%n%n腳手架和施工腳手架對於你可以飛行之前的空中建造很有用。它們像梯子一樣可以攀爬，並在輕擊時立刻破壞掉落。即使在攀爬時鬆開移動鍵，也不會從腳手架上摔落。如果使用固體方塊右擊施工腳手架，腳手架將會被替換為該固體方塊。%n%n棧橋可以相互連線形成一條寬闊的通道。可以透過警示膠帶和霓虹燈裝飾棧橋，後者可以提供昏暗的照明。%n%n籠式扶梯可以讓你上下移動而不會摔落，並且比原版梯子快得多。%n%n支柱只是一個裝飾性方塊，它們可以在任意方向互相連線，並向具有梯子的功能。%n%n堅實鐵軌可以讓礦車在沒有方塊支撐的情況下透過。使用焊槍右鍵堅實鐵軌可以永久為其充能，而不需要紅石火把。如果你還沒有足夠的娛樂專案，用它們建造一個過山車吧！%n%n焊槍可以讓你透過右鍵單擊移除棧橋的欄桿或地板。用焊槍可以在棧橋欄桿上開啟一個允許你進出的通道，但不要違反“安全生產管理條例”。GT或Forge相容的扳手也有相同的功能，所以你沒有必要製作焊槍。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3g.desc=棧橋Mod新增了多種裝飾性方塊來裝飾你的工廠。%n%n腳手架和施工腳手架對於你可以飛行之前的空中建造很有用。它們像梯子一樣可以攀爬，並在輕擊時立刻破壞掉落。即使在攀爬時鬆開移動鍵，也不會從腳手架上摔落。如果使用固體方塊右擊施工腳手架，腳手架將會被替換為該固體方塊。%n%n棧橋可以相互連線形成一條寬闊的通道。可以透過警示膠帶和霓虹燈裝飾棧橋，後者可以提供昏暗的照明。%n%n籠式扶梯可以讓你上下移動而不會摔落，並且比原版梯子快得多。%n%n支柱只是一個裝飾性方塊，它們可以在任意方向互相連線，並且具有梯子的功能。%n%n堅實鐵軌可以讓礦車在沒有方塊支撐的情況下透過。使用焊槍右鍵堅實鐵軌可以永久為其充能，而不需要紅石火把。如果你還沒有足夠的娛樂專案，用它們建造一個過山車吧！%n%n焊槍可以讓你透過右鍵單擊移除棧橋的欄桿或地板。用焊槍可以在棧橋欄桿上開啟一個允許你進出的通道，但不要違反“安全生產管理條例”。GT或Forge相容的扳手也有相同的功能，所以你沒有必要製作焊槍。
 
 # Quest: Excavation Upgrade
 betterquesting.quest.Avz75EgSTdG48xI3HPGUMA.name=§8§l挖掘升級元件
@@ -6720,7 +6720,7 @@ betterquesting.quest.dbax1OsmRpWMg6Pt4tE_ig.desc=銅桶的便攜版。%n%n擁有
 
 # Quest: Crystal Chest
 betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.name=§b§l水晶箱子
-betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.desc=你已經制作了一個可以讓你看到裡面內容的箱子，是不是很有用？%n%n[note]就像之前的箱子一樣，你也可以用合適的升級物品來升級它。
+betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.desc=你已經製作了一個可以讓你看到裡面內容的箱子，是不是很有用？%n%n[note]就像之前的箱子一樣，你也可以用合適的升級物品來升級它。
 
 # Quest: Cooper's Mallet
 betterquesting.quest.gZFHuyfRQYWePJcOA4hBZA.name=Cooper's Mallet
@@ -6765,7 +6765,7 @@ betterquesting.quest.3N-sNy89SWawxdvYsFWk5A.desc=造雨機是一臺能停止和�
 
 # Quest: Forestry Core Block
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACQQ.name=林業mod核心方塊
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACQQ.desc=堅固部件幾乎是所有林業機器的基礎，你可以理解為他是林業mod裡面的機械外殼！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACQQ.desc=堅固部件幾乎是所有林業機器的基礎，你可以理解為它是林業mod裡面的機械外殼！
 
 # Quest: The Carpenter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACQg.name=木工機
@@ -6773,7 +6773,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACQg.desc=木工機類似一個自動化�
 
 # Quest: Thermionic Fabricator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACRA.name=熱電子加工臺
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACRA.desc=熱電子加工臺可以製作各種真空管或者彩色玻璃，他需要RF能量才能執行。%n%n這是林業mod的第一臺機器，你可以透過木工機來製作出來。這個裝置在工作之前需要預熱，一旦開始工作就需要保持一定的工作溫度來持續運轉。 而提供的能量多少將決定熱電子加工臺的工作溫度。而如果你沒有足夠的能量來維持這個溫度，那麼溫度就將慢慢的下降。它會持續消耗能量，所以不需要用的時候可以斷開能量供應。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACRA.desc=熱電子加工臺可以製作各種真空管或者彩色玻璃，它需要RF能量才能執行。%n%n這是林業mod的第一臺機器，你可以透過木工機來製作出來。這個裝置在工作之前需要預熱，一旦開始工作就需要保持一定的工作溫度來持續運轉。 而提供的能量多少將決定熱電子加工臺的工作溫度。而如果你沒有足夠的能量來維持這個溫度，那麼溫度就將慢慢的下降。它會持續消耗能量，所以不需要用的時候可以斷開能量供應。
 
 # Quest: A Series of Tubes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACRQ.name=磷灰石電子管
@@ -6789,11 +6789,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACRw.desc=此晶片可以使你能夠選�
 
 # Quest: Changing Your Foresty Circuit Configuration
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACSA.name=更改你的農場電路配置
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACSA.desc=林業MOD裡面的電烙鐵是用來將電子管連線到電路板上面的一種工具，電路板除了能放入林業榨汁機和離心機外，還可以透過在電路板上配置不同的電子管可以改變林業引擎的工作方式或者農場的工作模式。不過老實說，一般也就用來改改農場模式了。%n%n一旦電子管被焊接到電路板上後就就只能被更換而無法被移除。一旦放入電烙鐵中的配方滿足要求電路板就會自動焊接完畢，因此最好先放入電子管，檢查確認無誤後再放入電路板。%n%n電烙鐵還可以將放入引擎、農場、榨汁機和離心機中的電路板拆卸下來。具體操作方法是開啟機器的GUI，拿著電烙鐵點選電路板。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACSA.desc=林業MOD裡面的電烙鐵是用來將電子管連線到電路板上面的一種工具，電路板除了能放入林業榨汁機和離心機外，還可以透過在電路板上配置不同的電子管可以改變林業引擎的工作方式或者農場的工作模式。不過老實說，一般也就用來改改農場模式了。%n%n一旦電子管被焊接到電路板上後就只能被更換而無法被移除。一旦放入電烙鐵中的配方滿足要求電路板就會自動焊接完畢，因此最好先放入電子管，檢查確認無誤後再放入電路板。%n%n電烙鐵還可以將放入引擎、農場、榨汁機和離心機中的電路板拆卸下來。具體操作方法是開啟機器的GUI，拿著電烙鐵點選電路板。
 
 # Quest: Heating Coils
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACSQ.name=加熱線圈
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACSQ.desc=你的熱電子加工臺需要一些零件一遍在工作時提高溫度。所以用磁化鋼桿和銅線來製作一些加熱線圈。%n%n[note]為什麼這又是一個單獨的任務？[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACSQ.desc=你的熱電子加工臺需要一些零件以便在工作時提高溫度。所以用磁化鋼桿和銅線來製作一些加熱線圈。%n%n[note]為什麼這又是一個單獨的任務？[/note]
 
 # Quest: Finding Apatite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACTA.name=找到磷灰石
@@ -6809,7 +6809,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.desc=大部分農場裡面的作物�
 
 # Quest: Multifarm: Control
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACTw.name=農場控制盒
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACTw.desc=有了農場控制盒你可以透過紅石訊號來控制你的農場是否工作。在農場控制盒上方或者下方提供一個紅石訊號將會將關閉整個農場，而從側面提供訊號將僅僅會禁用這一個面。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACTw.desc=有了農場控制盒你可以透過紅石訊號來控制你的農場是否工作。在農場控制盒上方或者下方提供一個紅石訊號將會關閉整個農場，而從側面提供訊號將僅僅會禁用這一個面。
 
 # Quest: Multifarm: Gearbox
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.name=農場齒輪箱
@@ -6817,11 +6817,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.desc=農場齒輪箱可以為你的�
 
 # Quest: Enhanced Farm Logic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=中型電子板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=這個晶片也是可選的，它比小型電子版更加的先進。可以提供2個電子管的焊接位置，可以指定你的農場2/4面積的模式。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=這個晶片也是可選的，它比小型電子板更加的先進。可以提供2個電子管的焊接位置，可以指定你的農場2/4面積的模式。
 
 # Quest: Refined Farm Logic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=大型電子板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=這個晶片也是可選的，它比中型電子版更加的先進。可以提供3個電子管的焊接位置，可以用於指定你的農場3/4面積的模式。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=這個晶片也是可選的，它比中型電子板更加的先進。可以提供3個電子管的焊接位置，可以用於指定你的農場3/4面積的模式。
 
 # Quest: Intricate Farm Logic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.name=先進電子板
@@ -6833,15 +6833,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD4g.desc=林業離心機能從蜂窩中�
 
 # Quest: Clockwork Engine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEvg.name=發條引擎
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEvg.desc=傳說中的手擼發電引擎，擼完之後就可以發電了。你可以用它來給炮塔充電。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEvg.desc=手動產生RF能量，很適合用來讓林業機器執行一兩次配方。你也可以用它為炮塔充電。
 
 # Quest: Bio Gas Engine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEvw.name=生物燃油引擎
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEvw.desc=加熱生物質來產生RF能量的引擎。 首先你需要向引擎中加入岩漿作為熱源，燃料可以選用水、菜籽油、牛奶、生物質或者其他什麼玩意。 引擎最大輸出50RF/t，具體的輸出功率取決於你的燃料類型。 水：10RF/t，可燃燒1000t. 果汁：10RF/t，可燃燒2500t. 蜂蜜：20RF/t，可燃燒2500t. 種子油：30RF/t，可燃燒2500t. 牛奶：10RF/t，可燃燒10000t. 生物質：50RF/t，可燃燒2500t。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEvw.name=生物燃氣引擎
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEvw.desc=加熱生物質來產生RF能量的引擎。 首先你需要向引擎中加入岩漿作為熱源，燃料可以選用水、種子油、牛奶、生物質或者其他什麼玩意。 引擎最大輸出50RF/t，具體的輸出功率取決於你的燃料類型。 水：10RF/t，可燃燒1000t. 果汁：10RF/t，可燃燒2500t. 蜂蜜：20RF/t，可燃燒2500t. 種子油：30RF/t，可燃燒2500t. 牛奶：10RF/t，可燃燒10000t. 生物質：50RF/t，可燃燒2500t。
 
 # Quest: Peat Fired Engine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwA.name=泥炭引擎
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwA.desc=泥炭引擎可以用泥炭或者瀝青泥碳作為燃料。 泥炭可以燃燒5000t（250秒），功率為10RF/t。每個泥炭燃燒後都會得到0.66個灰燼，因此你燒3個泥炭將會得到2個灰燼。%n瀝青泥炭可以燃燒6000t（300秒），功率為20RF/t。%n%n你可以使用錫電子管來建造自動的泥炭農場，或者手動農場也可以。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwA.desc=泥炭引擎可以用泥炭或者瀝青泥炭作為燃料。 泥炭可以燃燒5000t（250秒），功率為10RF/t。每個泥炭燃燒後都會得到0.66個灰燼，因此你燒3個泥炭將會得到2個灰燼。%n瀝青泥炭可以燃燒6000t（300秒），功率為20RF/t。%n%n你可以使用錫電子管來建造自動的泥炭農場，或者手動農場也可以。
 
 # Quest: Copper, Tin, Bronze Tubes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwQ.name=銅、錫、青銅電子管
@@ -6945,7 +6945,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIUw.desc=檸檬樹最適合生產果汁�
 
 # Quest: Plum
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIVA.name=李樹
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIVA.desc=李子樹是一種多用途樹。產量很高，果實覆蓋率最高。它的多汁屬性也不錯，適合用於生產生物質。由山丘櫻和檸檬樹雜交培育而來。%n%n§d李子和覆蓋物Get！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIVA.desc=李子樹是一種多用途樹。產量很高，果實產出覆蓋物的機率最高。它的多汁屬性也不錯，適合用於生產生物質。由山丘櫻和檸檬樹雜交培育而來。%n%n§d李子和覆蓋物Get！
 
 # Quest: Desert Acacia
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIVQ.name=沙漠刺槐
@@ -6973,7 +6973,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALKw.desc=燃油引擎透過燃燒物品�
 
 # Quest: Kinesis Pipes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALLA.name=能量管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALLA.desc=想要將RF能量傳輸1格以上，你需要一些能量管道。 首先使用木質管道連線到管道網路，然後再透過其他種類的管道輸送能量。 而且，其中的某些似乎是有損的，而更貴的管道一般更好。 另外，你需要電容庫來儲存RF。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALLA.desc=想要將RF能量傳輸1格以上，你需要一些能量管道。 首先使用木質管道連線到管道網路，然後再透過其他種類的管道輸送能量。 而且，其中的某些似乎是有損的，因此雖然導管較貴，卻是更好的選擇。 另外，你需要電容庫來儲存RF。
 
 # Quest: Coast Sequoia
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALLg.name=海岸紅杉
@@ -7025,7 +7025,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALOQ.desc=將樹莓和橙子樹雜交，�
 
 # Quest: Forestry Core Block #2
 betterquesting.quest.X54R4jrtQu2rI9j4eHC7lw.name=林業mod核心方塊 #2
-betterquesting.quest.X54R4jrtQu2rI9j4eHC7lw.desc=林業機械方塊的升級版，用於合成基因工業的很多畢業機器以及造雨機
+betterquesting.quest.X54R4jrtQu2rI9j4eHC7lw.desc=林業機械方塊的升級版，用於合成基因工業的很多畢業機器以及造雨機。
 
 
 ## Quest Line: Multiblock Goals
@@ -7102,7 +7102,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.desc=現在這種線圈是可選的�
 
 # Quest: An Industrial Mobfarm
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.name=§6§l工業化怪物農場
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.desc=§6§l工業屠宰場§r是最新的，並且可能是§l最好的§r刷怪籠+怪物磨床。有了它，你不僅可以在不影響§lTPS§r的情況下獲取掉落物，而且§l極其§r高效，頗具風度。%n%n當然了，這也取決於你的劍；它的傷害、搶奪和耐久是僅有的與機器效率有關的屬性。§3（不過也可以不用武器，畢竟機器內部還有錐刺！）§r%n%n在允許的情況下，偶爾會生成精英怪，這將消耗§2§l8倍§r的電力，記住這點！%n%n如果你正在使用血魔法的“§c§l苦難之井§r”儀式為你的祭壇提供lp，可以將這個多方塊結構與儀式連線，它會自動“生成”並“殺死”怪物，獲取生命本質，這樣你就不需要含有真正的刷怪籠的裝置了！%n%n§l注：§r%n每輪執行將會生產§2§l120L§r液態經驗。%n如果多方塊結構的動畫出現了什麼問題，可以使用§5電烙鐵§r右鍵主機以關閉動畫。%n閱讀它的tooltip！它有一些獨特的改善遊戲體驗的設定，你可能會用到。%n%n[warn]對多方塊中的錐刺附魔不會影響機器的效率。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.desc=§6§l工業屠宰場§r是最新的，並且可能是§l最好的§r刷怪籠+怪物粉碎機。有了它，你不僅可以在不影響§lTPS§r的情況下獲取掉落物，而且§l極其§r高效，頗具風度。%n%n當然了，這也取決於你的劍；它的傷害、搶奪和耐久是僅有的與機器效率有關的屬性。§3（不過也可以不用武器，畢竟機器內部還有錐刺！）§r%n%n在允許的情況下，偶爾會生成精英怪，這將消耗§2§l8倍§r的電力，記住這點！%n%n如果你正在使用血魔法的“§c§l苦難之井§r”儀式為你的祭壇提供lp，可以將這個多方塊結構與儀式連線，它會自動“生成”並“殺死”怪物，獲取生命本質，這樣你就不需要含有真正的刷怪籠的裝置了！%n%n§l注：§r%n每輪執行將會生產§2§l120L§r液態經驗。%n如果多方塊結構的動畫出現了什麼問題，可以使用§5電烙鐵§r右鍵主機以關閉動畫。%n閱讀它的tooltip！它有一些獨特的改善遊戲體驗的設定，你可能會用到。%n%n[warn]對多方塊中的錐刺附魔不會影響機器的效率。[/warn]
 
 # Quest: Powderbarrels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.name=§6§l火藥桶
@@ -7110,7 +7110,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.desc=火藥桶很不適合用於聚�
 
 # Quest: TNT
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.name=§6§lTNT
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.desc=TNT比火藥桶威力更強但也難做得多。有LV和HV兩種不同方法可選。 在LV階段，你需要用重燃油或輕燃油來製作甲苯。甲苯可以直接固化成膠凝甲苯。也可以放入化學反應釜中，加入聚乙烯末和糖，使甲苯的利用率更高。將膠凝甲苯與硫酸攪拌即可製成TNT. %n%nHV的方法需要石油裂化機用於製造所有的裂化燃料或裂化石腦油，還需要一臺蒸餾塔將甲苯提煉出來。%n不過你還可以走木焦油路線，MV中期即可。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.desc=TNT比火藥桶威力更強但也難做得多。有LV和HV兩種不同方法可選。 在LV階段，你需要用重燃油或輕燃油來製作甲苯。甲苯可以直接固化成膠凝甲苯。也可以放入化學反應釜中，加入聚乙烯粉末和糖，使甲苯的利用率更高。將膠凝甲苯與硫酸攪拌即可製成TNT. %n%nHV的方法需要石油裂化機用於製造所有的裂化燃料或裂化石腦油，還需要一臺蒸餾塔將甲苯提煉出來。%n不過你還可以走木焦油路線，MV中期即可。
 
 # Quest: iTNT
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.name=§6§l工業TNT
@@ -7150,7 +7150,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.desc=炸藥是聚爆壓縮機所使�
 
 # Quest: Time to Drill for Oil!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.name=§6§l鑽機時刻！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.desc=泵是很好用，但你現在到了一個需要更多多多多多多石油的階段。這個多方塊結構能幫你鑽油（或其他地下流體），但你還需要使用地震探礦去搜尋石油。你可以找到原油、輕油、石油或重油。也有機率找到天然氣。%n%n供給鑽機越高電壓就可以使其鑽得越快。使用對應的能源倉來接收電力。%n%n稍後你可以升級鑽機，使其可以同時從多個區塊抽取地下流體。%n%n你需要將採礦管道放入機器的控制器方塊GUI中。如果要用到超過64個採礦管道，還可以使用輸入匯流排。%n%n鑽機和發電機都是GT機器，所以別忘了防雨。然後在旅行地圖上標記好位置，這樣你就再也不會忘記自己把鑽機放哪了！%n%n在宇宙中的各個星球維度，基岩下方有可能有各種流體，檢視“提示、技巧”工作列獲取相關資訊。%n%n[note]中文wiki 油氣流體鑽機：  §1§n[url]https://gtnh.huijiwiki.com/p/928[/url]§r[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.desc=泵是很好用，但你現在到了一個需要更多多多多多多石油的階段。這個多方塊結構能幫你鑽油（或其他地下流體），但你還需要使用地震探礦去搜尋石油。你可以找到原油、輕油、石油或重油。也有機率找到天然氣。%n%n供給鑽機越高電壓就可以使其鑽得越快。使用對應的能源倉來接收電力。%n%n稍後你可以升級鑽機，使其可以同時從多個區塊抽取地下流體。%n%n你需要將採礦管道放入機器的控制器方塊GUI中。如果要用到超過64個採礦管道，還可以使用輸入匯流排。%n%n鑽機和發電機都是GT機器，所以別忘了防雨。然後在旅行地圖上標記好位置，這樣你就再也不會忘記自己把鑽機放哪了！%n%n在宇宙中的各個星球維度，基岩下方有可能有各種流體，檢視“提示、技巧”任務章節獲取相關資訊。%n%n[note]中文wiki 油氣流體鑽機：  §1§n[url]https://gtnh.huijiwiki.com/p/928[/url]§r[/note]
 
 # Quest: Let's Get Crackin!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_g.name=§6§l裂化石油
@@ -7166,7 +7166,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACuA.desc=你想要比管道更好的自�
 
 # Quest: 2x Steel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACuQ.name=§6§l雙倍鋼鐵
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACuQ.desc=鋼鐵的製作過程實在太慢了。如果你有足夠的紅磚和黏土，建造第二個磚高爐(BBF)。將它蓋在第一個爐的旁邊，所以他們可以共享一道牆體，就可以省下一些紅磚、黏土，以及混凝土。%n%n[warn]請注意，它會產生總共雙倍的汙染--最好考慮把它們搬遠點。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACuQ.desc=鋼鐵的製作過程實在太慢了。如果你有足夠的紅磚和黏土，建造第二個磚高爐(BBF)。將它蓋在第一個爐的旁邊，所以它們可以共享一道牆體，就可以省下一些紅磚、黏土，以及混凝土。%n%n[warn]請注意，它會產生總共雙倍的汙染--最好考慮把它們搬遠點。[/warn]
 
 # Quest: 4x Steel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACug.name=§6§l四倍鋼鐵
@@ -7186,7 +7186,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.desc=在你有能力儲存大量的�
 
 # Quest: Steam is Never Enough
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEg.name=§6§l蒸汽永遠不夠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADEg.desc=現在你可以製造高階電路板了，也是時候造幾臺大型鋼鍋爐了。每臺鍋爐可以產出相當於1000EU/t的蒸汽，這意味著你需要多臺蒸汽渦輪才能將這些蒸汽都轉化為電能！注意，MV鍋爐的效率較低，所以在建造之前先算清楚你的損失吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADEg.desc=現在你可以製造高階電路板了，也是時候造幾臺大型鋼鍋爐了。每臺鍋爐可以產出相當於1000EU/t的蒸汽，這意味著你需要多臺蒸汽渦輪才能將這些蒸汽都轉化為電能！注意，MV蒸汽渦輪的效率較低，所以在建造之前先算清楚你的損失吧。
 
 # Quest: Moooooore Steam
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEw.name=§6§l更多更多更多蒸汽
@@ -7194,15 +7194,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADEw.desc=大型鈦鍋爐是青銅鍋爐�
 
 # Quest: Even More Steam? Are You Sure?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFA.name=§6§l還要更多蒸汽？你確定嗎？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFA.desc=在四種鍋爐中，大型鎢鋼鍋爐是最大也是最強的。它與鈦鍋爐類似，只接受特定燃料，主要就是固體超級燃料，不過它輸出過熱蒸汽的速度相當於100%%效率下的16000EU/t。如果你有更好的渦輪轉子材料，比如奧利哈鋼，那麼你就能獲得遠超這個數字的功率輸出，約為24000EU/t或是更高。%n%n你建造的大型鍋爐數量，決定了你可能需要大量的大型渦輪。而為了解決這個問題，你可以考慮讓每臺渦輪進入超載狀態，或者直接切換到松模式，不過只有在松模式下匹配最佳流量，這才算是個不錯的選擇。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFA.desc=在四種鍋爐中，大型鎢鋼鍋爐是最大也是最強的。它與鈦鍋爐類似，只接受特定燃料，主要就是固體超級燃料，不過它輸出過熱蒸汽的速度相當於100%%效率下的16000EU/t。如果你有更好的渦輪轉子材料，比如奧利哈鋼，那麼你就能獲得遠超這個數字的功率輸出，約為24000EU/t或是更高。%n%n你建造的大型鍋爐數量，決定了你可能需要大量的大型渦輪。而為了解決這個問題，你可以考慮讓每臺渦輪進入超載狀態，或者直接切換到鬆模式，不過只有在鬆模式下匹配最佳流量，這才算是個不錯的選擇。
 
 # Quest: Cleanroom
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADrA.name=§6§l超淨間
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADrA.desc=更加先進（也更加潔淨！）的電路板需要在無塵環境下才能製作。為了得到無塵環境我們需要超淨間。超淨間是個有趣的多方塊結構，因為你將在它的§o內部§r放置其他機器！%n%n超淨間是整體大小在3x4x3到15x15x15之間的中空多方塊結構。超淨間的底部並不需要是正方形，長方形也可以。頂層由過濾機外殼構成，除了邊緣，它是塑膠混凝土方塊。控制器必須位於頂層的中心。如果超淨間的長或寬是雙數，那麼控制器可以放在中心兩塊（或四塊）中的任意一塊。結構的其餘部分均由塑膠混凝土方塊搭建而成。%n%n其中最多30%%的塑膠混凝土方塊可以用其它的方塊或材料代替：%n%n一扇防爆門可以讓你進出無塵室。請確保門是關著的，否則超淨間會迅速失去潔淨度。旅行錨和電梯也可以使用，如果需要，甚至可以將它們嵌入地板中。如果你喜歡的話，也可以使用超凡玻璃作為“門”。%n%n你可以使用線纜二極體或機器外殼，來自動透過牆壁輸送電力和材料。但是在為你的內部機器更新換代時你要萬分小心。務必拆下舊的機器外殼和線纜二級管，然後用新的更高電壓的替換，否則你一定會很傷心的。如果只是用於傳輸物品，那就不用管等級的事。%n%n如果你想看到內部，可以使用任何EV級別以上的玻璃，例如防爆玻璃、魔力玻璃和超凡玻璃。如果超淨間沒有成型，請注意30%%的限制：問題往往由你放置了太多玻璃導致的。%n%n最後，超淨間本身還需要維護倉和能源倉來運轉。這個多方塊結構的耗電量有點不同尋常，一開始是40EU/t，然後逐漸降低。但即使是在使用40EU/t的情況下，要給它足夠的電，單個LV能源倉就足夠了，因為它接收2A-LV。請記住，這隻適用於超淨間，並不是一個普適規則。%n%n讓我們現在先造一個5x5x5大小的超淨間，你以後可以根據需要對它進行擴建。給它通電，讓它執行，直到潔淨度達到100%%。如果潔淨度低於100%%，超淨間內的機器就有機率吞掉在其中製作的物品，因此您要讓超淨間始終保持執行狀態！%n%n任何維護問題都會使潔淨度上限降低10%%。你可以使用行動式掃描器手動監控超淨間，或是使用工業資訊屏或維護提示覆蓋板配上紅石燈或蜂鳴報警器來自動監控。%n%n[note]多方塊機器，如大型化學反應釜或是高強度雷射蝕刻機，都可以提供無塵環境，所以這些機器無需放入超淨間。不過，你在使用其他機器，例如生物實驗室時還是會需要超淨間的。[/note]%n%n[note]其它有用的提示：你可以使用AE的無線接入器或向量變換介面，來跳過機器外殼，進行物品運輸，你還可以使用更高階的能源倉以更快地達到100%%的潔淨度。[/note]%n%n[warn]請注意：你不能在超淨間內使用任何會產生汙染的機器，否則超淨間會停止工作。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADrA.desc=更加先進（也更加便宜！）的電路需要在無塵環境下才能製作。為了得到無塵環境我們需要超淨間。超淨間是個有趣的多方塊結構，因為你將在它的§o內部§r放置其他機器！%n%n超淨間是整體大小在3x4x3到15x15x15之間的中空多方塊結構。超淨間的底部並不需要是正方形，長方形也可以。頂層由過濾機外殼構成，除了邊緣，它是塑膠混凝土方塊。控制器必須位於頂層的中心。如果超淨間的長或寬是雙數，那麼控制器可以放在中心兩塊（或四塊）中的任意一塊。結構的其餘部分均由塑膠混凝土方塊搭建而成。%n%n其中最多30%%的塑膠混凝土方塊可以用其它的方塊或材料代替：%n%n一扇防爆門可以讓你進出無塵室。請確保門是關著的，否則超淨間會迅速失去潔淨度。旅行錨和電梯也可以使用，如果需要，甚至可以將它們嵌入地板中。如果你喜歡的話，也可以使用超凡玻璃作為“門”。%n%n你可以使用線纜二極體或機器外殼，來自動透過牆壁輸送電力和材料。但是在為你的內部機器更新換代時你要萬分小心。務必拆下舊的機器外殼和線纜二極體，然後用新的更高電壓的替換，否則你一定會很傷心的。如果只是用於傳輸物品，那就不用管等級的事。%n%n如果你想看到內部，可以使用任何EV級別以上的玻璃，例如防爆玻璃、魔力玻璃和超凡玻璃。如果超淨間沒有成型，請注意30%%的限制：問題往往由你放置了太多玻璃導致的。%n%n最後，超淨間本身還需要維護倉和能源倉來運轉。這個多方塊結構的耗電量有點不同尋常，一開始是40EU/t，然後逐漸降低。但即使是在使用40EU/t的情況下，要給它足夠的電，單個LV能源倉就足夠了，因為它接收2A-LV。請記住，這只適用於超淨間，並不是一個普適規則。%n%n讓我們現在先造一個5x5x5大小的超淨間，你以後可以根據需要對它進行擴建。給它通電，讓它執行，直到潔淨度達到100%%。如果潔淨度低於100%%，超淨間內的機器就有機率吞掉在其中製作的物品，因此您要讓超淨間始終保持執行狀態！%n%n任何維護問題都會使潔淨度上限降低10%%。你可以使用行動式掃描器手動監控超淨間，或是使用工業資訊屏或維護提示覆蓋板配上紅石燈或蜂鳴報警器來自動監控。%n%n[note]多方塊機器，如大型化學反應釜或是高強度雷射蝕刻機，都可以提供無塵環境，所以這些機器無需放入超淨間。不過，你在使用其他機器，例如生物實驗室時還是會需要超淨間的。[/note]%n%n[note]其它有用的提示：你可以使用AE的無線接入器或向量變換介面，來跳過機器外殼，進行物品運輸，你還可以使用更高階的能源倉以更快地達到100%%的潔淨度。[/note]%n%n[warn]請注意：你不能在超淨間內使用任何會產生汙染的機器，否則超淨間會停止工作。[/warn]
 
 # Quest: A Very Useful Scanner
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADrQ.name=§6§l一個非常有用的掃描器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADrQ.desc=這個便攜掃描器是一個非常有用的工具，他可以掃描遊戲中幾乎每一個方塊並且顯示很多有用的資訊。 這個工具首先你需要給它充電。它可以接受MV級別128EU/t的充電速率，並且可以儲存400kEU的電量。%n%n它可以右鍵掃描在作物架上面的作物。%n%n它可以掃描GT的各種機器，能看到當前工作的進度，儲存的能量、效率、CPU負載等。%n%n對於遊戲中任何方塊，它都會獲得它的ID、後設資料、位置及硬度值。 並且還可以掃描當前區塊的汙染數值！%n%n除此之外還可顯示超淨間內的潔淨水平。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADrQ.desc=這個便攜掃描器是一個非常有用的工具，它可以掃描遊戲中幾乎每一個方塊並且顯示很多有用的資訊。 這個工具首先你需要給它充電。它可以接受MV級別128EU/t的充電速率，並且可以儲存400kEU的電量。%n%n它可以右鍵掃描在作物架上面的作物。%n%n它可以掃描GT的各種機器，能看到當前工作的進度，儲存的能量、效率、CPU負載等。%n%n對於遊戲中任何方塊，它都會獲得它的ID、後設資料、位置及硬度值。 並且還可以掃描當前區塊的汙染數值！%n%n除此之外還可顯示超淨間內的潔淨水平。
 
 # Quest: The 'Water Problems' Are Solved
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADug.name=§6§l解決‘用水問題’
@@ -7242,7 +7242,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHKQ.desc=要處理最高階的材料，�
 
 # Quest: Helium is Not Just for Balloons
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcA.name=§6§l氦氣可不僅僅能用來充氣球
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcA.desc=高階超導導線和能源倉需要用到氦。  壓縮空氣然後將其冷凍液化，然後離心再離心，用這種方法生產9個氦單元需要用1802個壓縮空氣單元。 更明智的做法是從末地石或者月球上的獨居石中獲取氦。另一個選擇是檢視你的原油處理，並看看你如何能從那裡獲得氦氣。%n%n[note]PS：電解暮色冰雪女王的宮殿的極光塊與極光柱可1:1得獲取氦，你需要解決的就是開採問題，建議初期使用更替核心，後期直接用終界採石場。 至於冰雪女王……她不會介意的。[/note]%n%n譯者再注：現在可以蒸餾裂化煉油氣獲取大量的氦。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcA.desc=高階超導導線和能源倉需要用到氦。  壓縮空氣然後將其冷凍液化，然後離心再離心，用這種方法生產9個氦單元需要用1802個壓縮空氣單元。 更明智的做法是從終界石或者月球上的獨居石中獲取氦。另一個選擇是檢視你的原油處理，並看看你如何能從那裡獲得氦氣。%n%n[note]PS：電解暮色冰雪女王的宮殿的極光塊與極光柱可1:1地獲取氦，你需要解決的就是開採問題，建議初期使用更替核心，後期直接用終界採石場。 至於冰雪女王……她不會介意的。[/note]%n%n譯者再注：現在可以蒸餾裂化煉油氣獲取大量的氦。
 
 # Quest: Hot Hot Hot!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIFQ.name=§6§l熱，熱，熱！
@@ -7282,7 +7282,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKAw.desc=某些培養缸配方要求一�
 
 # Quest: Making the Vat More Efficient!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBA.name=§6§l讓培養缸更有效率！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBA.desc=檢視培養缸的合成表時，你可能會覺得每次執行產生的流體實在太少。不用擔心！ NEI中顯示的流體消耗和產量僅僅是最低效率的基準。輸出倉內的流體量決定了培養缸的效率。%n%n隨著輸出倉內流體增多，培養缸的效率會隨之上升，直到輸出倉§c精確半滿§r時達到最大效率。超過一半繼續增加時，效率會再次降低，所以嘗試保持其中流體儘量靠近半滿！最高效率時，單次執行的流體消耗和產出是NEI顯示基礎值的1001倍，而物品消耗和培養皿不受影響。%n%n有許多不同的方法可以保持輸出倉半滿，包括OC（但不包括SFM，它對Bartworks的流體不太感冒），流體探測+機器控制覆蓋板，或者流體校準器，還有一些在機器壁上做文章的方法比如框架或者方塊共用。如果你選擇覆蓋板這種方法，記得用一個大一點的輸出倉，這樣更容易靠近半滿狀態。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBA.desc=檢視培養缸的合成表時，你可能會覺得每次執行產生的流體實在太少。不用擔心！ NEI中顯示的流體消耗和產量僅僅是最低效率的基準。輸出倉內的流體量決定了培養缸的效率。%n%n隨著輸出倉內流體增多，培養缸的效率會隨之上升，直到輸出倉§c精確半滿§r時達到最大效率。超過一半繼續增加時，效率會再次降低，所以嘗試保持其中流體儘量靠近半滿！最高效率時，單次執行的流體消耗和產出是NEI顯示基礎值的1001倍，而物品消耗和培養皿不受影響。%n%n有許多不同的方法可以保持輸出倉半滿，包括OC（但不包括SFM，它對Bartworks的流體不太感冒），流體探測+機器控制覆蓋板，或者流體校準器，還有一些較不尋常的方法，例如框架或方塊共用。如果你選擇覆蓋板這種方法，記得用一個大一點的輸出倉，這樣更容易靠近半滿狀態。
 
 # Quest: Something From Nothing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKbA.name=§6§l無中生有
@@ -7330,19 +7330,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALeA.desc=中子活化器是一種獨具�
 
 # Quest: Neutron Sensor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALeQ.name=§6§l中子感測器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALeQ.desc=中子感測器會基於中子加速器的中子動能發出紅石訊號。%n%n它工作起來像一個覆蓋板：輸入以 eV 為單位的閾值，當中子加速器的中子動能高於閾值時，它就會發出紅石訊號。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALeQ.desc=中子感測器會基於中子活化器的中子動能發出紅石訊號。%n%n它工作起來像一個覆蓋板：輸入以eV為單位的閾值。一般模式下，當中子動能大於或等於閾值時，它就會發出紅石訊號；反相模式則相反。
 
 # Quest: Neutron Accelerator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALeg.name=§6§l中子加速器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALeg.desc=用於加速中子，獲得中子動能。你只需要給它接上一根線纜，它就會持續耗電。%n%n[note]PS：可使用機器控制覆蓋板關閉。%n%n譯者注：最高等級的中子加速器是UMV的，在嘗試使用前請三思。[/note]
 
 # Quest: Oops
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALew.name=§6§lOops
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALew.name=§6§l哎呀
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALew.desc=如果你未能讓中子動能與NEI顯示合成表所需中子動能匹配的話，至少在這裡還能稍微回收點有用的東西。
 
 # Quest: Air-Filter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALpQ.name=§6§l空氣過濾機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALpQ.desc=大型空氣過濾機%n%n這種超棒的多方塊機器有3個版本：LV階段解鎖的T1，HV階段後期解鎖的T2，和IV階段解鎖的T3。%n%n它有兩種模式：%n%n- 普通模式：每次汙染清理週期中，按順序清理工作範圍內一個區塊的汙染。%n- 隨機模式：每次汙染清理週期中，在工作範圍內的所有汙染區塊中隨機選取一個區塊進行清理。%n手持螺絲刀右鍵控制器方塊即可在兩種模式之間切換。%n%n手持螺絲刀Shift+右鍵點選控制器方塊可以調節工作範圍，從1x1區塊到(2*等級+1)x(2*等級+1)區塊可調。預設工作範圍即為最大工作範圍。%n%n預設設定下，汙染清理值=30*機器等級係數*消聲倉數*渦輪效率*機器效率*2.5^有效等級。其中：%n%n- 機器等級係數：機器等級提供的增益係數，T1=1（0%%增益）、T2=1.05（5%%增益）、T3=1.10（10%%增益）%n%n- 消聲倉數：字面意思，至多為8。%n%n- 渦輪效率：用於執行該機器的渦輪效率值。若控制器中沒有渦輪，則大型空氣過濾器無法工作。%n%n- 機器效率：無維護問題時為100%%，每有一個維護問題-10%%。%n%n- 有效等級：電壓等級與消聲倉等級的較小者。%n%n，預設設定下，使用吸附過濾網可以使汙染清理效率翻倍。將其放入輸入匯流排後，吸附過濾網會被消耗並供接下來的30次成功的汙染清理週期使用。汙染低於10k單位的區塊會被該機器視為無汙染。清理無汙染區塊的汙染清理週期不計入“成功的汙染清理週期”次數。30次成功的汙染清理週期後，輸出匯流排中會生產出一個髒的吸附過濾網。%n%n對控制器方塊使用行動式掃描器，即可獲知其是否在使用吸附過濾網，以及吸附過濾網的剩餘週期數。%n%n一個汙染清理週期持續10秒，汙染清理每秒進行一次。%n%n[note]PS：如果你鴿了這個任務並做了T2或者T3版本作為代替，這個任務也會完成！[/note]%n%n譯者注：渦輪不會損耗，這是個bug。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALpQ.desc=大型空氣過濾機%n%n這種超棒的多方塊機器有3個版本：LV階段解鎖的T1，HV階段後期解鎖的T2，和IV階段解鎖的T3。%n%n它有兩種模式：%n%n- 普通模式：每次汙染清理週期中，按順序清理工作範圍內一個區塊的汙染。%n- 隨機模式：每次汙染清理週期中，在工作範圍內的所有汙染區塊中隨機選取一個區塊進行清理。%n手持螺絲刀右鍵控制器方塊即可在兩種模式之間切換。%n%n手持螺絲刀Shift+右鍵點選控制器方塊可以調節工作範圍，從1x1區塊到(2*等級+1)x(2*等級+1)區塊可調。預設工作範圍即為最大工作範圍。%n%n預設設定下，汙染清理值=30*機器等級係數*消聲倉數*渦輪效率*機器效率*2.5^有效等級。其中：%n%n- 機器等級係數：機器等級提供的增益係數，T1=1（0%%增益）、T2=1.05（5%%增益）、T3=1.10（10%%增益）%n%n- 消聲倉數：字面意思，至多為8。%n%n- 渦輪效率：用於執行該機器的渦輪效率值。若控制器中沒有渦輪，則大型空氣過濾器無法工作。%n%n- 機器效率：無維護問題時為100%%，每有一個維護問題-10%%。%n%n- 有效等級：電壓等級與消聲倉等級的較小者。%n%n預設設定下，使用吸附過濾網可以使汙染清理效率翻倍。將其放入輸入匯流排後，吸附過濾網會被消耗並供接下來的30次成功的汙染清理週期使用。汙染低於10k單位的區塊會被該機器視為無汙染。清理無汙染區塊的汙染清理週期不計入“成功的汙染清理週期”次數。30次成功的汙染清理週期後，輸出匯流排中會生產出一個髒的吸附過濾網。%n%n對控制器方塊使用行動式掃描器，即可獲知其是否在使用吸附過濾網，以及吸附過濾網的剩餘週期數。%n%n一個汙染清理週期持續10秒，汙染清理每秒進行一次。%n%n[note]PS：如果你鴿了這個任務並做了T2或者T3版本作為代替，這個任務也會完成！[/note]%n%n譯者注：渦輪不會損耗，這是個bug。
 
 # Quest: Absorption Filter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALpg.name=§6§l吸附過濾網
@@ -7354,7 +7354,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALqQ.desc=完全自己手搓建造非常�
 
 # Quest: Focusing Science and Mystery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2A.name=§6§l聚焦的科學與奧秘
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2A.desc=這一機制是完全可選的，且從不用於合成。不過，當並行數很高，或者需要製作解鎖更高等級的獨特物品時，它十分有用。“聚焦”---總的來說，就是提高量子操縱者的產物輸出機率。有兩種可選的聚焦方式。每種聚焦方式都需要一種新的電漿，分別是錼電漿和鐨電漿。它們需要在MK4核融合中由其他電漿制作。兩種電漿可以單獨也可以同時使用。%n%n當供應錼電漿時，你可以指定當前配方中的一種產物作為聚焦產物；這一產物需要在輸入匯流排中使用程式設計電路指定（這也是程式設計電路對該多方塊的唯一作用），程式設計電路1代表NEI中的第1種產物，電路2代表NEI中的第2種，以此類推。玩家可以選擇他們最需要所有產物中的哪一種；正因這一機制的存在，所有的配方都有多種不同的輸出。%n%n當一種產物由錼電漿聚焦時，該產物的產出機率上升，同時其餘所有產物的產出機率下降。其改變機制如下：%n%n->當沒有聚焦時，每種產物的機率均為100/產物種類數；%n當聚焦時，%n->若結構等級與配方等級一致，其餘所有產物的機率將減半，減少部分的機率轉移到聚焦產物機率上（例如，20/20/20/20/20變為60/10/10/10/10）；%n->若結構等級比配方等級高1，其餘產物機率將再次減半（例如，60/10/10/10/10將進一步變為80/5/5/5/5）；%n->若結構等級比配方等級高2或3，聚焦產物機率變為100%%而其餘所有產物機率變為0%%。%n%n總的來說，使用錼電漿聚焦並不能增加總產量，留著用來增產那些稀有的、隨該多方塊一起新增的物品吧；相對的，透過選擇聚焦產物，它允許玩家自己選擇、並用更有用的產物替代不那麼有用的產物。%n%n當提供鐨電漿時，當前配方的所有產出機率將全部增加，除非機率已經是100%%。鐨電漿提供的增幅隨著增幅前的機率減少而增加，在產出機率為0%%（高等級結構並使用錼電漿聚焦）時達到最大。%n%n使用鐨電漿聚焦時，其機率的變化由它與100%%的距離決定；這一增幅同時應用於所有產物，其機制如下：%n%n->若結構等級與配方等級一致，每種產物機率增加其“失敗”機率的1/4（例如，一種50%%機率產出的產物有50%%機率失敗，因而它會獲得12.5%%增幅，變為62.5%%）。%n->若結構等級比配方等級高1，每種產物機率增加其“失敗”機率的1/3。%n->若結構等級比配方等級高2或3，每種產物機率增加其“失敗”機率的1/2%n%n如果同時提供兩種電漿，並使用比配方等級高2或3級的結構，一個5種產物的配方的產出機率將從20/20/20/20/20變為100/50/50/50/50。%n%n許多後期多方塊機器都有並行功能，即它們能同時處理多次同一配方，但也需要更多的EU；這使得功率成為這些多方塊結構的最大限制，而對量子操縱者來說也是一樣，特別是它的配方輸入都相當簡單便宜：功率越高，產量越多。%n%n也就是說，想要量子操縱者執行更快的玩家會做更多的催化劑來解鎖更高的並行，但這種方式最多隻能達到64並行。而聚焦能改變產物的產出機率，從而顯著增加每次執行的產物數量。按產出速率計算，如果用錼電漿聚焦得到100%%產出機率，64並行的4產物配方對聚焦產物能達到相當於256並行的速率。%n%n對高等級、高並行的量子操縱者而言，這將節省大量的EU；這將是聚焦的主要使用原因，兩種聚焦方式在這裡都很有用。不過，電漿的使用量並非與並行數無關，而是與配方催化劑數，也即並行數的平方根成正比。%n%n聚焦對3種用於升級結構等級的物品格外有用：因為產出機率比一般情況小得多，聚焦時它們能獲得更多的加成，以激勵玩家在升級多方塊時更多地使用聚焦機制。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2A.desc=這一機制是完全可選的，且從不用於合成。不過，當並行數很高，或者需要製作解鎖更高等級的獨特物品時，它十分有用。“聚焦”---總的來說，就是提高量子操縱者的產物輸出機率。有兩種可選的聚焦方式。每種聚焦方式都需要一種新的電漿，分別是錼電漿和鐨電漿。它們需要在MK4核融合中由其他電漿製作。兩種電漿可以單獨也可以同時使用。%n%n當供應錼電漿時，你可以指定當前配方中的一種產物作為聚焦產物；這一產物需要在輸入匯流排中使用程式設計電路指定（這也是程式設計電路對該多方塊的唯一作用），程式設計電路1代表NEI中的第1種產物，電路2代表NEI中的第2種，以此類推。玩家可以選擇他們最需要所有產物中的哪一種；正因這一機制的存在，所有的配方都有多種不同的輸出。%n%n當一種產物由錼電漿聚焦時，該產物的產出機率上升，同時其餘所有產物的產出機率下降。其改變機制如下：%n%n->當沒有聚焦時，每種產物的機率均為100/產物種類數；%n當聚焦時，%n->若結構等級與配方等級一致，其餘所有產物的機率將減半，減少部分的機率轉移到聚焦產物機率上（例如，20/20/20/20/20變為60/10/10/10/10）；%n->若結構等級比配方等級高1，其餘產物機率將再次減半（例如，60/10/10/10/10將進一步變為80/5/5/5/5）；%n->若結構等級比配方等級高2或3，聚焦產物機率變為100%%而其餘所有產物機率變為0%%。%n%n總的來說，使用錼電漿聚焦並不能增加總產量，但隨該多方塊一起新增、原本產量較低的物品是例外；相對的，透過選擇聚焦產物，它允許玩家自己選擇、並用更有用的產物替代不那麼有用的產物。%n%n當提供鐨電漿時，當前配方的所有產出機率將全部增加，除非機率已經是100%%。鐨電漿提供的增幅隨著增幅前的機率減少而增加，在產出機率為0%%（高等級結構並使用錼電漿聚焦）時達到最大。%n%n使用鐨電漿聚焦時，其機率的變化由它與100%%的距離決定；這一增幅同時應用於所有產物，其機制如下：%n%n->若結構等級與配方等級一致，每種產物機率增加其“失敗”機率的1/4（例如，一種50%%機率產出的產物有50%%機率失敗，因而它會獲得12.5%%增幅，變為62.5%%）。%n->若結構等級比配方等級高1，每種產物機率增加其“失敗”機率的1/3。%n->若結構等級比配方等級高2或3，每種產物機率增加其“失敗”機率的1/2%n%n如果同時提供兩種電漿，並使用比配方等級高2或3級的結構，一個5種產物的配方的產出機率將從20/20/20/20/20變為100/50/50/50/50。%n%n許多後期多方塊機器都有並行功能，即它們能同時處理多次同一配方，但也需要更多的EU；這使得功率成為這些多方塊結構的最大限制，而對量子操縱者來說也是一樣，特別是它的配方輸入都相當簡單便宜：功率越高，產量越多。%n%n也就是說，想要量子操縱者執行更快的玩家會做更多的催化劑來解鎖更高的並行，但這種方式最多隻能達到64並行。而聚焦能改變產物的產出機率，從而顯著增加每次執行的產物數量。按產出速率計算，如果用錼電漿聚焦得到100%%產出機率，64並行的4產物配方對聚焦產物能達到相當於256並行的速率。%n%n對高等級、高並行的量子操縱者而言，這將節省大量的EU；這將是聚焦的主要使用原因，兩種聚焦方式在這裡都很有用。不過，電漿的使用量並非與並行數無關，而是與配方催化劑數，也即並行數的平方根成正比。%n%n聚焦對3種用於升級結構等級的物品格外有用：因為產出機率比一般情況小得多，聚焦時它們能獲得更多的加成，以激勵玩家在升級多方塊時更多地使用聚焦機制。
 
 # Quest: Catalyzing Miracles
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM2Q.name=§6§l催化奇蹟
@@ -7378,7 +7378,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMSA.desc=研磨處理線是另一種可�
 
 # Quest: Infinity Coil Upgrade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkQ.name=§6§l升級無盡線圈
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkQ.desc=以宇宙自身的偉力熔鍊。%n%n這種不可思議的材料在此前似乎根本無法加工成線圈方塊。其特性極為理想，即便在極端溫度下也非常穩定，可也正是這一點，導致它無法被卷繞成線圈。%n%n不過，當你開始考慮引入更“智慧”的東西時，情況便發生了改變。透過整合一個濕件主機或更高階的UHV電路板，無盡線圈終於問世，由你耗費數月創造出的電路板上那永不倦怠的智慧之眼所掌控。從此，這些眼睛將守護你的多方塊機器。%n%n提供11701K的基礎爐溫。你可以用它來升級工業高爐，不過到了這個階段，它更可能是用在巨型工業高爐或超維度電漿鍛爐上。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkQ.desc=以宇宙自身的偉力熔鍊。%n%n這種不可思議的材料在此前似乎根本無法加工成線圈方塊。其特性極為理想，即便在極端溫度下也非常穩定，可也正是這一點，導致它無法被卷繞成線圈。%n%n不過，當你開始考慮引入更“智慧”的東西時，情況便發生了改變。透過整合一個濕件主機或更高階的UHV電路，無盡線圈終於問世，由你耗費數月創造出的電路上那永不倦怠的智慧之眼所掌控。從此，這些眼睛將守護你的多方塊機器。%n%n提供11701K的基礎爐溫。你可以用它來升級工業高爐，不過到了這個階段，它更可能是用在巨型工業高爐或超維度電漿鍛爐上。
 
 # Quest: Eternal Coil Upgrade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkw.name=§9§l§n§6§l升級永恆線圈
@@ -7386,7 +7386,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkw.desc=超越時空，突破現實。�
 
 # Quest: Algae Pond
 betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.name=§6§l藻類池塘
-betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.desc=可持續性。這並非一個遊戲的名字……但是它可以是！%n%n如果你曾希望僅僅從一個來源就能夠生產多種化學品，你可能已經看過了石油化工和苯環反應。然而，這裡還有一座藻類農場。%n%n從ULV（50s每批）到IV（25s每批），每個機械方塊等級都會將該結構進行一批藻類生產的時間間隔降低5秒；超出IV等級後，每個機械方塊等級會將該間隔減半。每次生產的時間仍然有可能隨機地翻倍甚至翻三倍，不過這種情況相對偶然。%n%n每個機械方塊等級同時也會提升單個生產迴圈生產的藻類數量和種類。每個生產迴圈會有一個精確的生產數量，以及10%%機率獲得的額外數量。藻類農場也接受堆肥輸入以提高一級等級，其中堆肥由產出的藻類加工而成。這在初期可能會比較昂貴，不過大多數情況下，這種做法是極度推薦的。ULV等級的機械方塊允許生產藻類生物質和綠藻生物質，HV等級額外允許褐藻生物質的生產，EV等級額外允許金褐藻生物質，而紅藻生物質則需要至少IV等級的機械方塊才能生產。儘管如此，對於高階的藻類生物質，在結構剛達到允許生產的機械方塊等級時，生產非常緩慢。%n%n要了解具體的產出數量和濕件，請查閱維基：[url]https://gtnh.huijiwiki.com/p/1696[/url]%n%n藻類可用於生產各種各樣的化學品，如甲醇、氨、硫酸、碳酸鈉、乙烯、氯化鋰甚至是一些可用於發電的流體。不過你通常會需要一臺化工廠以完成這些加工。在擁有IV等級的結構後，你也可以將綠藻生物質和螢光石粉合成夜光珊瑚，並從中製造陽光化合物。如果你對整條生產鏈很好奇，在NEI查閱他們吧！涵蓋這一生產鏈的任務，以及一些不依賴化工廠的加工配方，可能很快就會上線。
+betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.desc=可持續性。這並非一個遊戲的名字……但是它可以是！%n%n如果你曾希望僅僅從一個來源就能夠生產多種化學品，你可能已經看過了石油或苯的處理。然而，這裡還有一座藻類農場。%n%n從ULV（50s每批）到IV（25s每批），每個機械方塊等級都會將該結構進行一批藻類生產的時間間隔降低5秒；超出IV等級後，每個機械方塊等級會將該間隔減半。每次生產的時間仍然有可能隨機地翻倍甚至翻三倍，不過這種情況相對偶然。%n%n每個機械方塊等級同時也會提升單個生產迴圈生產的藻類數量和種類。每個生產迴圈會有一個精確的生產數量，以及10%%機率獲得的額外數量。藻類農場也接受堆肥輸入以提高一級等級，其中堆肥由產出的藻類加工而成。這在初期可能會比較昂貴，不過大多數情況下，這種做法是極度推薦的。ULV等級的機械方塊允許生產藻類生物質和綠藻生物質，HV等級額外允許褐藻生物質的生產，EV等級額外允許金褐藻生物質，而紅藻生物質則需要至少IV等級的機械方塊才能生產。儘管如此，對於高階的藻類生物質，在結構剛達到允許生產的機械方塊等級時，生產非常緩慢。%n%n要了解具體的產出數量和時間，請查閱維基：[url]https://gtnh.huijiwiki.com/p/1696[/url]%n%n藻類可用於生產各種各樣的化學品，如甲醇、氨、硫酸、碳酸鈉、乙烯、氯化鋰甚至是一些可用於發電的流體。不過你通常會需要一臺化工廠以完成這些加工。在擁有IV等級的結構後，你也可以將綠藻生物質和螢光石粉合成夜光珊瑚，並從中製造陽光化合物。如果你對整條生產鏈很好奇，在NEI查閱它們吧！涵蓋這一生產鏈的任務，以及一些不依賴化工廠的加工配方，可能很快就會上線。
 
 # Quest: Tier 2 Manipulating
 betterquesting.quest.Mf1D7e-LTaW3rbBRYmxBAQ.name=§6§lT2 操控
@@ -7413,7 +7413,7 @@ betterquesting.quest.RLJR8nFySzSaZLeCRsabDg.name=§6§l斯特恩-蓋拉赫實驗
 betterquesting.quest.RLJR8nFySzSaZLeCRsabDg.desc=束流分流器可以有序分流粒子束流。大型強子對撞機（LHC）輸出的粒子是隨機的，而這臺機器可以讓你用過濾式束流輸出倉把不同粒子分到不同的通路里。同時，它會把每種粒子的數量除以有效輸出位置的總數。%n%n[note]舉個例子：假設你設了一個質子輸出通道，兩個電子輸出通道。混合輸入束流裡每種粒子各有 100 個，那麼最終會分出三束——一束質子束流（數量 100），以及兩束電子束流（每束數量 50）。[/note]
 
 # Quest: Hundreds of Thousands of eV
-betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.name=§6§l成百上千的eV
+betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.name=§6§l數十萬eV
 betterquesting.quest.Y1kiJC_kRGKkW7h3qOPI8A.desc=線性加速器（LINAC）可以用於提高粒子束的能量，前提是粒子束的粒子是帶電的。你需要不斷地為其提供冷卻劑，否則每次冷卻劑耗盡時，你都會遇到維護問題。%n%n輸出能量可以透過增加EU/t（隨立方根比例增長）或增加長度（線性增長）來提高。然而，增加長度也會降低聚焦程度。%n%n聚焦程度可以透過使用更好/溫度更低的冷卻劑來提高（在tooltip中列出了選項）。%n%n請注意，粒子數量不會改變。
 
 # Quest: Playing with Colors!
@@ -7434,7 +7434,7 @@ betterquesting.quest.b_Ll4zvSRfCMgmqiBa4Xkw.desc=採礦場可容易弄丟了。�
 
 # Quest: Using That Algae
 betterquesting.quest.eur7SqfIT8GEE_NxscJj8Q.name=§6§l利用那些藻類
-betterquesting.quest.eur7SqfIT8GEE_NxscJj8Q.desc=很好！你已經制造了化工廠和一臺藻類農場。是時候好好利用它了，而不是把它們棄之不顧。你可以用藻類製作很多配方，但讓我們從一個簡單的開始。%n%n為此，你需要一些褐藻生物質和綠藻生物質。這意味著藻類農場底部至少需要HV機械方塊。HV藻類農場每35秒最多可生產8個褐藻生物質，而最差情況下每105秒只能生產2個，而EV藻類農場每30秒最多可生產20個，在最差情況下90秒只能生產12個。%n%n有了綠藻生物質和褐藻生物質後，將它們與蒸餾水一起放入二級化工廠（鋼製）就能得到硫酸。硫酸本身的生產成本很低，但這些機器做起來可有點貴！以後還可以使用另一種硫酸配方，但需要更高階的藻類生物質和更高等級的化工廠。
+betterquesting.quest.eur7SqfIT8GEE_NxscJj8Q.desc=很好！你已經製造了化工廠和一臺藻類農場。是時候好好利用它了，而不是把它們棄之不顧。你可以用藻類製作很多配方，但讓我們從一個簡單的開始。%n%n為此，你需要一些褐藻生物質和綠藻生物質。這意味著藻類農場底部至少需要HV機械方塊。HV藻類農場每35秒最多可生產8個褐藻生物質，而最差情況下每105秒只能生產2個，而EV藻類農場每30秒最多可生產20個，在最差情況下90秒只能生產12個。%n%n有了綠藻生物質和褐藻生物質後，將它們與蒸餾水一起放入二級化工廠（鋼製）就能得到硫酸。硫酸本身的生產成本很低，但這些機器做起來可有點貴！以後還可以使用另一種硫酸配方，但需要更高階的藻類生物質和更高等級的化工廠。
 
 # Quest: A Little More Sigma (Squared)
 betterquesting.quest.gkKzmpgkQguIfPwKqFB5Xg.name=§6§l再多幾個標準差（平方）
@@ -7442,11 +7442,11 @@ betterquesting.quest.gkKzmpgkQguIfPwKqFB5Xg.desc=最終，你的 LHC 會開始�
 
 # Quest: No More (IC) Engraving
 betterquesting.quest.isBmh7T0Sr63O2m5N4pCIQ.name=§6§l丟掉（IC）蝕刻吧
-betterquesting.quest.isBmh7T0Sr63O2m5N4pCIQ.desc=既然你已經達到了ZPM，你就得采用普通雷射蝕刻之外的方法來滿足你的光刻需求了。%n%n當然，我們馬上就要大幹一場，需要一整套粒子加速器裝置來產生用於蝕刻更高階IC的超相干超高能光束。%n%n首先，你需要一個§6束流源室§r來產生電子（當然，能量極低）。在NEI 上檢視可用的配方，你會需要那個帶有手繪圖示的配方的。
+betterquesting.quest.isBmh7T0Sr63O2m5N4pCIQ.desc=既然你已經達到了ZPM，你就得採用普通雷射蝕刻之外的方法來滿足你的光刻需求了。%n%n當然，我們馬上就要大幹一場，需要一整套粒子加速器裝置來產生用於蝕刻更高階IC的超相干超高能光束。%n%n首先，你需要一個§6束流源室§r來產生電子（當然，能量極低）。在NEI 上檢視可用的配方，你會需要那個帶有手繪圖示的配方的。
 
 # Quest: Digging Deep for Water
 betterquesting.quest.jreOZVXRQa2sGXViV7-3Gg.name=§6§l深層取水
-betterquesting.quest.jreOZVXRQa2sGXViV7-3Gg.desc=集水器不夠用了嗎？你是否在乾燥的生物群系中建立了基地，急需更多的水？不用擔心，蒸汽水泵可以解決你的問題！只要用蒸汽餵飽這個多方塊結構（1500L/s），它就能產生大量的水。%n%n類似於其他蒸汽多方塊結構，你可以用鋼框架替換青銅框架來升級它。這將使水的產量翻倍，還不會增加額外的蒸汽消耗。%n%n§4然而，請記住這一點它依然依賴於你所在生物群系的濕度。§r%n%n§9提示：你可以在地獄找到貧瘠鉛礦石，或者足夠幸運的話，在地牢的最底層找到鉛錠！§r%n%n[note]注：可選任務目標的材料數量包括了控制器的消耗。[/note]
+betterquesting.quest.jreOZVXRQa2sGXViV7-3Gg.desc=集水器不夠用了嗎？你是否在乾燥的生物群系中建立了基地，急需更多的水？不用擔心，蒸汽水泵可以解決你的問題！只要用蒸汽餵飽這個多方塊結構（1500L/s），它就能產生大量的水。%n%n類似於其他蒸汽多方塊結構，你可以用鋼框架替換青銅框架來升級它。這將使水的產量翻倍，還不會增加額外的蒸汽消耗。%n%n§4然而，請記住，它依然依賴於你所在生物群系的濕度。§r%n%n§9提示：你可以在地獄找到貧瘠鉛礦石，或者足夠幸運的話，在地牢的最底層找到鉛錠！§r%n%n[note]注：可選任務目標的材料數量包括了控制器的消耗。[/note]
 
 # Quest: UMV Glass
 betterquesting.quest.m5N5Q9QEREyzF1B4eObk0Q.name=§c§l§nUMV玻璃
@@ -7470,7 +7470,7 @@ betterquesting.quest.pd68ySXjTD6yW1MN6x6swg.desc=……但卻是非常有用的�
 
 # Quest: Drones are not Drones!
 betterquesting.quest.prKPwVNgSgOE1NGPiEEF-g.name=§6§l是無人機不是雄蜂！
-betterquesting.quest.prKPwVNgSgOE1NGPiEEF-g.desc=……但是它們可以像蜜蜂一樣勤奮。這些新型的電動夥伴是多方塊結構的絕佳伴侶：維護，控制，管理——它們樣樣精通。%n%n§6§l維護§r%n§5§l無人機控制中心§r是一臺全新設計出的機器。它無需供能——只需要講一個無人機放入輸入匯流排，它就能開始執行。%n%n將多方塊結構上的維護倉替換為§l無人機下行模組§r，即可將其接入無人機網路。%n%n一旦啟動，無人機控制中心將會自動掃描在範圍內的所有下行模組，並且嘗試與其建立連線。只要無人機控制中心保持運作，所有已連線的多方塊結構將[bold]永遠[/bold]不再受惱人的維護問題困擾！%n%n[note]再見了，我那因維護故障損失的珍貴的256個超導粗胚錠……[/note]%n%n%n§6§l實體無人機§r%n無人機現在以實體形式存在，解鎖了多項新功能：%n%n- 當發生維護問題時，無人機會從下行模組出動，並繞受影響機器進行環形巡檢飛行。%n- 我們為無人機配備了攝像頭！點選 GUI 中的 §9§l觀察§r 按鈕，即可檢視無人機的實時影片畫面。只要您處於同一維度，無論距離多遠均可連線無人機。%n- 在觀察模式下，WAILA HUD 會顯示比平時更多的資訊。此外，將準星對準一臺機器並按下 §2§lG§r 鍵，即可遠端開啟其 GUI！目前支援所有 GT 機器及倉室。不過，由於無人機未配備機械臂，物品和流體槽位無法互動。%n%n%n§6§l分組控制與統計§r%n無人機控制中心提供了強大的機器管理介面，支援分組、遠端觀察、批次電源控制及機器重新命名：%n%n- 已連線的機器可被組織為最多 §664§r 個自定義分組。分組可重新命名，一臺機器可同時屬於多個分組。%n- 選中分組後，電源控制操作將應用於該分組內所有機器。具體而言，§6§l按住 Shift 點選§r 關機按鈕會將所有機器控制覆蓋板設定為“禁用”模式。%n- 啟用內建的 §5§l生產記錄器§r 後，無人機控制中心可收集所有已連線機器的實時統計資料，包括 EU 消耗、物品吞吐量和流體吞吐量。所有記錄資料均直接儲存在無人機控制中心內部。%n%n%n§6§l無人機等級§r%n[warn]無人機在執行過程中可能墜毀。墜毀機率從 T1 到 T3 逐級遞減，T3 和 T4 無人機永不墜毀。[/warn]%n%n不必擔心——如果輸入匯流排中有備用無人機，無人機控制中心會立即消耗它。%n%n使用更高等級的無人機會增加無人機控制中心的有效範圍：%n%n  §6•§r §l§3無人機（T1）§r%n    - 範圍：§6128 格§r%n    - 墜毀機率：§61/28,800 每秒§r（平均約 8 小時）%n%n  §6•§r §l§3無人機（T2）§r%n    - 範圍：§6512 格§r%n    - 墜毀機率：§61/172,800 每秒§r（平均約 48 小時）%n%n  §6•§r §l§3無人機（T3）§r%n    - 範圍：§64,096 格§r%n    - 墜毀機率：§2永不§r%n%n  §6•§r §l§3無人機（T4）§r%n    - 範圍：§64,096 格（自動）/ 無限（匹配金鑰）§r%n    - 墜毀機率：§2永不§r%n    - 跨維度：§2是§r%n%n%n要啟用 T4 無人機的跨維度連線，需在無人機控制中心和下行模組上配置匹配金鑰。%n%n下行模組可使用 §l快閃記憶體§r 複製匹配金鑰。%n%n&g&#FFD700&#FF4500我們的無人機現在可以跨其他星球操控機器……曲速引擎啟動！&r%n%n%n§6§l結構§r%n請參考 NEI 結構預覽來建造新的多方塊結構。中心還有一個全新的無人機模型！%n[note]漢麻混凝土可以是任意顏色！[/note]
+betterquesting.quest.prKPwVNgSgOE1NGPiEEF-g.desc=……但是它們可以像蜜蜂一樣勤奮。這些新型的電動夥伴是多方塊結構的絕佳伴侶：維護，控制，管理——它們樣樣精通。%n%n§6§l維護§r%n§5§l無人機控制中心§r是一臺全新設計出的機器。它無需供能——只需要將一個無人機放入輸入匯流排，它就能開始執行。%n%n將多方塊結構上的維護倉替換為§l無人機下行模組§r，即可將其接入無人機網路。%n%n一旦啟動，無人機控制中心將會自動掃描在範圍內的所有下行模組，並且嘗試與其建立連線。只要無人機控制中心保持運作，所有已連線的多方塊結構將[bold]永遠[/bold]不再受惱人的維護問題困擾！%n%n[note]再見了，我那因維護故障損失的珍貴的256個超導粗胚錠……[/note]%n%n%n§6§l實體無人機§r%n無人機現在以實體形式存在，解鎖了多項新功能：%n%n- 當發生維護問題時，無人機會從下行模組出動，並繞受影響機器進行環形巡檢飛行。%n- 我們為無人機配備了攝像頭！點選 GUI 中的 §9§l觀察§r 按鈕，即可檢視無人機的實時影片畫面。只要您處於同一維度，無論距離多遠均可連線無人機。%n- 在觀察模式下，WAILA HUD 會顯示比平時更多的資訊。此外，將準星對準一臺機器並按下 §2§lG§r 鍵，即可遠端開啟其 GUI！目前支援所有 GT 機器及倉室。不過，由於無人機未配備機械臂，物品和流體槽位無法互動。%n%n%n§6§l分組控制與統計§r%n無人機控制中心提供了強大的機器管理介面，支援分組、遠端觀察、批次電源控制及機器重新命名：%n%n- 已連線的機器可被組織為最多 §664§r 個自定義分組。分組可重新命名，一臺機器可同時屬於多個分組。%n- 選中分組後，電源控制操作將應用於該分組內所有機器。具體而言，§6§l按住 Shift 點選§r 關機按鈕會將所有機器控制覆蓋板設定為“禁用”模式。%n- 啟用內建的 §5§l生產記錄器§r 後，無人機控制中心可收集所有已連線機器的實時統計資料，包括 EU 消耗、物品吞吐量和流體吞吐量。所有記錄資料均直接儲存在無人機控制中心內部。%n%n%n§6§l無人機等級§r%n[warn]無人機在執行過程中可能墜毀。墜毀機率從 T1 到 T3 逐級遞減，T3 和 T4 無人機永不墜毀。[/warn]%n%n不必擔心——如果輸入匯流排中有備用無人機，無人機控制中心會立即消耗它。%n%n使用更高等級的無人機會增加無人機控制中心的有效範圍：%n%n  §6•§r §l§3無人機（T1）§r%n    - 範圍：§6128 格§r%n    - 墜毀機率：§61/28,800 每秒§r（平均約 8 小時）%n%n  §6•§r §l§3無人機（T2）§r%n    - 範圍：§6512 格§r%n    - 墜毀機率：§61/172,800 每秒§r（平均約 48 小時）%n%n  §6•§r §l§3無人機（T3）§r%n    - 範圍：§64,096 格§r%n    - 墜毀機率：§2永不§r%n%n  §6•§r §l§3無人機（T4）§r%n    - 範圍：§64,096 格（自動）/ 無限（匹配金鑰）§r%n    - 墜毀機率：§2永不§r%n    - 跨維度：§2是§r%n%n%n要啟用 T4 無人機的跨維度連線，需在無人機控制中心和下行模組上配置匹配金鑰。%n%n下行模組可使用 §l快閃記憶體§r 複製匹配金鑰。%n%n&g&#FFD700&#FF4500我們的無人機現在可以跨其他星球操控機器……曲速引擎啟動！&r%n%n%n§6§l結構§r%n請參考 NEI 結構預覽來建造新的多方塊結構。中心還有一個全新的無人機模型！%n[note]漢麻混凝土可以是任意顏色！[/note]
 
 # Quest: UIV Glass
 betterquesting.quest.qnXgpGxbRc-nHbshgUs1jA.name=§9§l§nUIV玻璃
@@ -7490,7 +7490,7 @@ betterquesting.quest.tQecVBhjRRyfR3sqeNBrtA.desc=如果你覺得普通的超級�
 
 # Quest: Tier 4 Manipulating
 betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.name=§6§lT4 操控
-betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.desc=§l終於，你做到了§r！現在你可以透過將§3無盡強化脈衝控制方塊§r替換為§3時空連續體撕裂方塊§r，將量子操縱者升級至最高等級。這次終極升級解鎖了所有產線跳過能力，包括跳過§6生物細胞、凱夫拉，以及拉多X+異氙§r的能力。%n%n即便完成了之前的各種升級，這最後一步仍遙不可及。對早期量子操縱者使用的基礎元件，如生物電路板，跳過其化學產線的能力始終無法實現——§o到目前為止§r。你需要一種遠超以往的全新材料才能達到量子操縱者的理論極限，它深藏在矽岩產線的後半段。%n%n你所需的材料將成為你的巔峰之作——§3超固態超能矽岩黑體§r。這種非凡物質既是完美黑體（能吸收所有輻射而無反射），又表現為超固態，能像零黏度的流體般流動。將這些特性結合於單一材料中，可確保在任何電壓等級（甚至包括MAX等級！）下都能實現穩定、毫不費力的量子能量流。%n%n憑藉這一突破，你的量子操縱者已完全解鎖，能夠製作高至UHV階段的元件。
+betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.desc=§l終於，你做到了§r！現在你可以透過將§3無盡強化脈衝控制方塊§r替換為§3時空連續體撕裂方塊§r，將量子操縱者升級至最高等級。這次終極升級解鎖了所有產線跳過能力，包括跳過§6生物細胞、凱夫拉，以及拉多X+異氙§r的能力。%n%n即便完成了之前的各種升級，這最後一步仍遙不可及。對早期量子操縱者使用的基礎元件，如生物電路，跳過其化學產線的能力始終無法實現——§o到目前為止§r。你需要一種遠超以往的全新材料才能達到量子操縱者的理論極限，它深藏在矽岩產線的後半段。%n%n你所需的材料將成為你的巔峰之作——§3超固態超能矽岩黑體§r。這種非凡物質既是完美黑體（能吸收所有輻射而無反射），又表現為超固態，能像零黏度的流體般流動。將這些特性結合於單一材料中，可確保在任何電壓等級（甚至包括MAX等級！）下都能實現穩定、毫不費力的量子能量流。%n%n憑藉這一突破，你的量子操縱者已完全解鎖，能夠製作高至UHV階段的元件。
 
 # Quest: Tier 3 Manipulating
 betterquesting.quest.vK1Ed8HPTTms4QxfaA_P8Q.name=§6§lT3 操控
@@ -7498,7 +7498,7 @@ betterquesting.quest.vK1Ed8HPTTms4QxfaA_P8Q.desc=藉助更先進的材料，你�
 
 # Quest: More Algae Uses
 betterquesting.quest.wgxwGsMBScCIIWzrgyfb8w.name=§6§l藻類的更多用途
-betterquesting.quest.wgxwGsMBScCIIWzrgyfb8w.desc=現在你擁有了藻類池塘，為什麼不利用金褐藻來製造一些廉價的氨氣呢？每個金褐藻能製作50mb的氨氣。藻類農場在EV電壓下每工作60秒大約有90%%的機率獲得四個金褐藻生物質。%n%n這個過程不需要化工廠，最低僅需要MV等級的組裝機和MV等級的流體提取各一臺。
+betterquesting.quest.wgxwGsMBScCIIWzrgyfb8w.desc=現在你擁有了藻類池塘，為什麼不利用金褐藻來製造一些廉價的氨氣呢？每個金褐藻能製作50mb的氨氣。藻類農場在EV電壓下每工作60秒大約有90%%的機率獲得四個金褐藻生物質。%n%n這個過程不需要化工廠，最低僅需要MV等級的組裝機和MV等級的流體提取機各一臺。
 
 
 ## Quest Line: Mass Processing
@@ -7511,7 +7511,7 @@ betterquesting.quest.0rUmaWIPQPaL93q-_pgKXw.desc=在蒸汽時代，如何離心�
 
 # Quest: Big Beautiful Brewery
 betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.name=§5§l大而美的釀造室
-betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.desc=有了大型啤酒釀造室，你都能開個酒廠了！你可以用它來製作成噸的藥水，冷門酒精飲品，或者，更可能的——工業用量的潤滑油
+betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.desc=有了大型啤酒釀造室，你都能開個酒廠了！你可以用它來製作成噸的藥水，冷門酒精飲品，或者，更可能的——工業用量的潤滑油。
 
 # Quest: This Kinda Burns...
 betterquesting.quest.4-HZ9i5AQ4qLN7cgSDaL3Q.name=§9§l有點燒……
@@ -7543,7 +7543,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.desc=生產圓石的終極機器。�
 
 # Quest: You Smell Like a Distillery!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.name=§5§l你聞起來像掉到了酒桶裡！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=在你處理裂解燃料或熱解爐配方時，這個狠角色會極大地提高副產率。如此一來你就可以更有效率的製造工業TNT、塑膠、聚四氟乙烯，以及其他塑膠產品。你也需要這臺機器來完成你的鉑線。%n%n你需要在超淨間中製造EV電路板，然後才能製作這臺機器。%n%n至於倉室，你可以自由選擇。一個MV能源倉就可以勝任大多數有用的配方。兩個MV能源倉或者一個HV能源倉就可以覆蓋除了汙染物或丙酮外幾乎所有的配方。 你還需要一個輸入倉、至少五個輸出倉，以及一個輸出匯流排用於收集那些固體產出。%n%nNEI不太適合確定哪種裂化方案最佳，點選下面的石油裂化機wiki頁面連結來獲得一張方便又清晰的完整配置表格！%n%n[url]https://wiki.gtnewhorizons.com/wiki/Oil_Cracking_Unit[/url]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=在你處理裂解燃料或熱解爐配方時，這個狠角色會極大地提高副產率。如此一來你就可以更有效率的製造工業TNT、塑膠、聚四氟乙烯，以及其他塑膠產品。你也需要這臺機器來完成你的鉑線。%n%n你需要在超淨間中製造EV電路，然後才能製作這臺機器。%n%n至於倉室，你可以自由選擇。一個MV能源倉就可以勝任大多數有用的配方。兩個MV能源倉或者一個HV能源倉就可以覆蓋除了汙染物或丙酮外幾乎所有的配方。 你還需要一個輸入倉、至少五個輸出倉，以及一個輸出匯流排用於收集那些固體產出。%n%nNEI不太適合確定哪種裂化方案最佳，點選下面的石油裂化機wiki頁面連結來獲得一張方便又清晰的完整配置表格！%n%n[url]https://wiki.gtnewhorizons.com/wiki/Oil_Cracking_Unit[/url]
 
 # Quest: Bring Me My Vat of Polyethylene!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.name=§5§l給我一大桶聚乙烯！
@@ -7578,7 +7578,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.name=§9§l大男孩大女孩的大�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.desc=我不想長大，我想跟§5§l大壓模機§r玩。它提供§2§l3.5倍§r的工作速度，電壓每提升一級，增加§6§l6§r次並行。%n%n你可以安裝多個輸入匯流排，然後每個輸入匯流排放一個不同的模頭，之後就可以把物品放進壓制對應物品的匯流排裡。%n%n你也可以使用壓模匯流排。這種輸入匯流排更貴，但預置了所有的模頭可供手動設定，因此你無需自己製作。
 
 # Quest: Best Thing Since Sliced Bread
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.name=§9§l最好的切面包機
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.name=§9§l最好的切麵包機
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.desc=當你有了一臺裝滿了小刀的機器，你看啥都像麵包了。%n%n為了讓§5§l工業切割機§r正常工作，需要在其內部安裝鋸刃。機器的效能與所安裝鋸刃的質量直接相關。%n%n第一種可製造的鋸刃類型為§l碳化鎢鈦合金鋸刃§r。它能提供每電壓等級§6§l2§r並行，§2§l2.5倍§r加速，以及§3§l10%%§r的能量減免。
 
 # Quest: ZzzZZZzzzZtt
@@ -7591,7 +7591,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8w.desc=凜冰冷凍機是§5§l真空�
 
 # Quest: Hephaestus' EBF
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9A.name=§9§l赫菲斯托斯的工業高爐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9A.desc=熾焱高爐能以難以置信的速度處理物品。想要正常使用這臺機器，你需要給它持續供應烈焰之熾焱，還得配上好的線圈。%n%n[note]這臺多方塊機器可以在IV階段製造，但需要兩個ZPM電路板。[/note]%n%n譯者注：熾焱高爐沒有電壓等級帶來的額外爐溫獎勵，其餘機制和工業高爐一致。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9A.desc=熾焱高爐能以難以置信的速度處理物品。想要正常使用這臺機器，你需要給它持續供應烈焰之熾焱，還得配上好的線圈。%n%n[note]這臺多方塊機器可以在IV階段製造，但需要兩個ZPM電路。[/note]%n%n譯者注：熾焱高爐沒有電壓等級帶來的額外爐溫獎勵，其餘機制和工業高爐一致。
 
 # Quest: Spools and Spools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9Q.name=§9§l繞了一圈又一圈
@@ -7627,11 +7627,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJEA.desc=嗯……如果將64個蒸餾�
 
 # Quest: Circuit Assembly Line
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKQ.name=§d§l電路裝配線
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKQ.desc=這些用於構建4臺7片的電路裝配線，足夠滿足一個系列的電路板製造。如果你僅需要某個系列中的一種電路板（比如微型處理器），那就把它除以4。%n%n假設你在LuV工作列已經獲得了所需的壓印電路，現在就可以開始製造晶體系列的電路裝配線了。我們一上來就要求4臺是因為每臺電路裝配線只能銘刻一次，無法移除銘刻。是的，你想用電路裝配線製造的每種電路板都需要一臺專用電路裝配線。%n%n作為裝配線，它與普通裝配線的工作方式一致，每個匯流排按順序提供原料，但由於是單臺專用，所以用起來就容易多了，同時合成表也便宜多了。%n%n電路裝配線使用“封裝”的原料，一次可以製造16個電路板（除了ULV和LV的），節約時間、EU還有焊錫（或鉍鉛合金）。在組裝機中使用16個對應物品和聚乙烯可以製造封裝元件。%n%n[note]順便一提，你可以選擇安裝更高階的倉/匯流排，不過合成時的原料順序還是得與NEI一致。另外，電路裝配線可以 4/4 超頻。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKQ.desc=這些用於構建4臺7片的電路裝配線，足夠滿足一個系列的電路製造。如果你僅需要某個系列中的一種電路（比如微型處理器），那就把它除以4。%n%n假設你在LuV任務章節已經獲得了所需的壓印電路，現在就可以開始製造晶體系列的電路裝配線了。我們一上來就要求4臺是因為每臺電路裝配線只能銘刻一次，無法移除銘刻。是的，你想用電路裝配線製造的每種電路都需要一臺專用電路裝配線。%n%n作為裝配線，它與普通裝配線的工作方式一致，每個匯流排按順序提供原料，但由於是單臺專用，所以用起來就容易多了，同時合成表也便宜多了。%n%n電路裝配線使用“封裝”的原料，一次可以製造16個電路（除了ULV和LV的），節約時間、EU還有焊錫（或鉍鉛合金）。在組裝機中使用16個對應物品和聚乙烯可以製造封裝元件。%n%n[note]順便一提，你可以選擇安裝更高階的倉/匯流排，不過合成時的原料順序還是得與NEI一致。另外，電路裝配線可以 4/4 超頻。[/note]
 
 # Quest: Cool Guys Don't Look At Explosions
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxQ.name=§9§l真男人從來不回頭看爆炸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxQ.desc=他們用自動化來完成。%n%n和普通的聚爆壓縮機相比，§5§l進階聚爆壓縮機§r擁有§2§l2倍§r速度，並提供§6§l1+（電壓等級/2）§r並行數。%n%n[note]這臺多方塊機器可以在IV階段製造，不過還要用到鉑線材料和ZPM電路板。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxQ.desc=他們用自動化來完成。%n%n和普通的聚爆壓縮機相比，§5§l進階聚爆壓縮機§r擁有§2§l2倍§r速度，並提供§6§l1+（電壓等級/2）§r並行數。%n%n[note]這臺多方塊機器可以在IV階段製造，不過還要用到鉑線材料和ZPM電路。[/note]
 
 # Quest: Let Me Fabricate a New Universe...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxg.name=§b§l讓我製造一個新的宇宙……
@@ -7687,7 +7687,7 @@ betterquesting.quest.VJN1qfd5SjCkm7CXVd9Pag.desc=一刻也沒有為建造AE系�
 
 # Quest: Steam Blender?
 betterquesting.quest.WEwrzX4ZRkSxJ3M6cBesfA.name=§c§l蒸汽攪拌機？
-betterquesting.quest.WEwrzX4ZRkSxJ3M6cBesfA.desc=既然可以用蒸汽和活塞來混合粉末，為什麼還要使用複雜的導線和電路呢？大型蒸汽攪拌機是這些蒸汽多方塊中最大的一個，可以滿足您一段時間的攪拌需求，比LV單方塊攪拌機有著更多的並行數。%n%n[note]該多方塊機器只能處理LV級以下的配方。[/note]
+betterquesting.quest.WEwrzX4ZRkSxJ3M6cBesfA.desc=既然可以用蒸汽和活塞來混合粉末，為什麼還要使用複雜的導線和電路呢？大型蒸汽攪拌機是這些蒸汽多方塊中最大的一個，可以滿足您一段時間的攪拌需求，比LV單方塊攪拌機有著更多的並行數。%n%n[note]該多方塊機器只能處理LV級及以下的配方。[/note]
 
 # Quest: Steam Fusing?
 betterquesting.quest.WGhhKERfRTiJXKZEPoRf1Q.name=§c§l蒸汽合金？
@@ -7723,7 +7723,7 @@ betterquesting.quest.d5Fxz8ClQQCXy9GN_m9BrA.desc=您到底需要多少石油？�
 
 # Quest: An End To Deforestation
 betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.name=§9§l濫砍濫伐的終結
-betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.desc=這臺多方塊機器是獲取大量木材的完美解決方案。您是否在為木炭或者苯發電時所需的大量木材發愁？您是否苦於無法獲取大量堅果來榨取種子油？亦或者因為裝飾性樹葉的來源而大傷腦筋？踏破鐵鞋無覓處，得來全不費工夫！%n%n原木擬生場可以種植遊戲內幾乎全部種類的樹木並且輸出你砍樹時會獲得的正常掉落。這一切都被整合在緊湊的空間中，無需忍受樹木真實生長時帶來的卡頓。%n%n首先，將任意一種樹苗放入控制器GUI中。其次，在輸入匯流排中放入你所需求的產物所對應的工具。最後，給機器通電，並且開啟它。接著你就準備好被產物所淹沒吧。%n%n樹的不同部分需要不同種類的工具。%n - 鋸對應木材%n - 剪枝器（GT）對應樹苗%n - 剪刀對應樹葉%n - 小刀對應水果%n高階工具（鏈鋸，剪枝器（林業），……）會提供更多產出！具體請檢視控制器的tooltip%n%n您甚至可以同時使用多個不同的工具，機器就能同時收穫多個不同的產品！%n%n請注意，使用的工具會緩慢失去耐久值。因此，為了長期執行，你可能需要設定一些自動更換功能。%n%n[note]在建造時你也可以用草方塊代替泥土。[/note]%n%n[warn]雖然這臺機器在IV階段就能製作，但在IV初期卻相當昂貴，需要16個 ZPM電路板和一些高階合金。[/warn]
+betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.desc=這臺多方塊機器是獲取大量木材的完美解決方案。您是否在為木炭或者苯發電時所需的大量木材發愁？您是否苦於無法獲取大量堅果來榨取種子油？亦或者因為裝飾性樹葉的來源而大傷腦筋？踏破鐵鞋無覓處，得來全不費工夫！%n%n原木擬生場可以種植遊戲內幾乎全部種類的樹木並且輸出你砍樹時會獲得的正常掉落。這一切都被整合在緊湊的空間中，無需忍受樹木真實生長時帶來的卡頓。%n%n首先，將任意一種樹苗放入控制器GUI中。其次，在輸入匯流排中放入你所需求的產物所對應的工具。最後，給機器通電，並且開啟它。接著你就準備好被產物所淹沒吧。%n%n樹的不同部分需要不同種類的工具。%n - 鋸對應木材%n - 剪枝器（GT）對應樹苗%n - 剪刀對應樹葉%n - 小刀對應水果%n高階工具（鏈鋸，剪枝器（林業），……）會提供更多產出！具體請檢視控制器的tooltip%n%n您甚至可以同時使用多個不同的工具，機器就能同時收穫多個不同的產品！%n%n請注意，使用的工具會緩慢失去耐久值。因此，為了長期執行，你可能需要設定一些自動更換功能。%n%n[note]在建造時你也可以用草方塊代替泥土。[/note]%n%n[warn]雖然這臺機器在IV階段就能製作，但在IV初期卻相當昂貴，需要16個 ZPM電路和一些高階合金。[/warn]
 
 # Quest: Can It!
 betterquesting.quest.gMRufFtRRRa30LE21boFNQ.name=§5§l把它裝進罐子裡！（Can it!）
@@ -7738,7 +7738,7 @@ betterquesting.quest.pKSx6HEUS0WkL6qkwo742g.name=§5§lHV階段的多方塊機�
 betterquesting.quest.pKSx6HEUS0WkL6qkwo742g.desc=是時候擴大生產規模了！在HV階段中，你可以使用一些新的功能強大的多方塊機器。特別是§l大型化學反應釜§r，它總能無損超頻。此外還有§l蒸餾塔§r，它能讓你從蒸餾中獲得所有副產物，而不是僅僅獲得一種。
 
 # Quest: Under Pressure
-betterquesting.quest.qDZZLi21TrmdWXwo_KimIw.name=§8§lUnder Pressure
+betterquesting.quest.qDZZLi21TrmdWXwo_KimIw.name=§8§l壓力之下
 betterquesting.quest.qDZZLi21TrmdWXwo_KimIw.desc=更大，更好，更快！這臺大型電動壓縮機和你預料的差不多。
 
 # Quest: STEAM-POWERED BREAKTHROUGH
@@ -7755,11 +7755,11 @@ betterquesting.quest.s6AEHSKiQe2XveT_oDZbZg.desc=鍛造錘的速度已經相當�
 
 # Quest: Engraving With Style
 betterquesting.quest.uP_FwHb_QTyAPaoZ80u74A.name=§9§l精緻蝕刻
-betterquesting.quest.uP_FwHb_QTyAPaoZ80u74A.desc=厭倦了不停更換透鏡，或者往超淨間裡塞十幾臺雷射蝕刻機？高強度雷射蝕刻機正是你所需要的。這臺多方塊能夠處理你所有的雷射蝕刻需求。%n%n透過在結構中使用更強大的§l雷射源倉§r，你可以獲得更多的並行並處理更高等級的配方。%n%n[note]雷射源倉一般是用作電力傳輸的，但在這裡僅做裝飾！不管你用什麼雷射源倉，都不會影響高強度雷射蝕刻機的能量輸入——它僅取決於你使用的能源倉。[/note]
+betterquesting.quest.uP_FwHb_QTyAPaoZ80u74A.desc=厭倦了不停更換透鏡，或者往超淨間裡塞十幾臺雷射蝕刻機？高強度雷射蝕刻機正是你所需要的。這臺多方塊能夠處理你所有的雷射蝕刻需求。%n%n透過在結構中使用更強大的§l雷射源倉§r，你可以獲得更多的並行並處理更高等級的配方。%n%n[note]雷射源倉一般是用作電力傳輸的，但在這裡不作電力傳輸用途！不管你用什麼雷射源倉，都不會影響高強度雷射蝕刻機的能量輸入——它僅取決於你使用的能源倉。[/note]
 
 # Quest: Extreme Voltage Multiblocks
 betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.name=§8§lEV階段的多方塊機器
-betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.desc=你可能已經用上了蒸汽多方塊裝置或者工業篩選機。但在EV、IV以及之後的電壓等級中，你將解鎖許多多方塊機器，它們對應幾乎所有的GT單方塊機器。甚至還有更強大的裝置。%n%n它們中的大多數和你之前的GT的處理流程相同，但是速度更快。多方塊機器有三個好處：節省能源、更快的配方處理時間以及並行。並行意味著在能量供應足夠的情況下，配方單次的處理時間裡一次可以同時合成多個物品。%n%n這些新的多方塊機器的多樣性和複雜性遠遠超出了工業高爐、大型化學反應釜或者真空冷凍機等簡單的多方塊機器。雖然有些是簡單的立方體，但有些則具有更多樣化的機制和工作條件。作為回報，它們是非常強大的，因此務必留意他們。
+betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.desc=你可能已經用上了蒸汽多方塊裝置或者工業篩選機。但在EV、IV以及之後的電壓等級中，你將解鎖許多多方塊機器，它們對應幾乎所有的GT單方塊機器。甚至還有更強大的裝置。%n%n它們中的大多數和你之前的GT的處理流程相同，但是速度更快。多方塊機器有三個好處：節省能源、更快的配方處理時間以及並行。並行意味著在能量供應足夠的情況下，配方單次的處理時間裡一次可以同時合成多個物品。%n%n這些新的多方塊機器的多樣性和複雜性遠遠超出了工業高爐、大型化學反應釜或者真空冷凍機等簡單的多方塊機器。雖然有些是簡單的立方體，但有些則具有更多樣化的機制和工作條件。作為回報，它們是非常強大的，因此務必留意它們。
 
 # Quest: Pressure Washing!
 betterquesting.quest.zorY0c3BQuqLJp7ThOLG-g.name=§c§l氣壓洗滌！
@@ -7772,11 +7772,11 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAACQ.desc=在這個章節，幾乎蒐
 
 # Quest: Marie Curium?
 betterquesting.quest.3r7tJ7_bTuePzsh-B_jyIQ.name=瑪麗鋦？
-betterquesting.quest.3r7tJ7_bTuePzsh-B_jyIQ.desc=就像是醃肉……哦不，完全不是，人們在研究放射性材料的道路上做出了許多犧牲，願他們永垂不朽，在此向你們致敬，瑪麗和皮埃爾·居里。%n%n這是整條核融合產鏈上生產出的唯一一種非電漿。但這不是重點： 重點是[warn]這是這條產線上的瓶頸之一。[/warn]每一臺用以生產最終配方的核融合堆，你都會需要大約0.144臺核融合堆生產鋦來維持，因此如果你想使用壓縮核融合反應爐來生產最終產物，僅靠一臺普通mk1反應爐來生產鋦是不夠的。你真正需要的數量取決於倒數第二步配方，也就是生產高階鎳鈦諾的那個。
+betterquesting.quest.3r7tJ7_bTuePzsh-B_jyIQ.desc=就像是醃肉……哦不，完全不是，人們在研究放射性材料的道路上做出了許多犧牲，願他們永垂不朽，在此向你們致敬，瑪麗和皮埃爾·居里。%n%n這是整條核融合產鏈上生產出的唯一一種非電漿。但這不是重點： 重點是[warn]這是這條產線上的瓶頸之一。[/warn]每一臺用以生產最終配方的核融合反應爐，你都會需要大約0.144臺核融合反應爐生產鋦來維持，因此如果你想使用壓縮核融合反應爐來生產最終產物，僅靠一臺普通mk1反應爐來生產鋦是不夠的。你真正需要的數量取決於倒數第二步配方，也就是生產高階鎳鈦諾的那個。
 
 # Quest: XL Turbo Steam Turbine
 betterquesting.quest.4HoSq97QT3G63VJFeV_0ZQ.name=§8§l特大蒸汽渦輪
-betterquesting.quest.4HoSq97QT3G63VJFeV_0ZQ.desc=這是第一個特大渦輪機。因為這是第一個，所以此任務將解釋一些特大渦輪機共有的機制。%n%n每個特大渦輪機可以容納12個渦輪轉子，但它的總速度比常規同等多方塊高出16倍。請確保每個轉子材料相同，並且確保足夠的輸入流速匹配多方塊裝置需求！如果還需要更快的速度，可以使用螺絲刀在控制器上啟用松模式，這會在提高渦輪機流量的同時降低效率。%n%n這些特大渦輪機還支援TecTech倉室，所以你可以用比常規輸出更高的多A動力倉，甚至之後使用雷射倉來處理最強渦輪機產生的數億EU/t。%n%n這五臺渦輪機與它們的下位替換燃料消耗相同，但也有一些例外情況將在相應的任務中提到。特大蒸汽渦輪機只消耗蒸汽，如其名字所述。%n%n[note]玻璃可使用任意等級。[/note]
+betterquesting.quest.4HoSq97QT3G63VJFeV_0ZQ.desc=這是第一個特大渦輪機。因為這是第一個，所以此任務將解釋一些特大渦輪機共有的機制。%n%n每個特大渦輪機可以容納12個渦輪轉子，但它的總速度比常規同等多方塊高出16倍。請確保每個轉子材料相同，並且確保足夠的輸入流速匹配多方塊裝置需求！如果還需要更快的速度，可以使用螺絲刀在控制器上啟用鬆模式，這會在提高渦輪機流量的同時降低效率。%n%n這些特大渦輪機還支援TecTech倉室，所以你可以用比常規輸出更高的多A動力倉，甚至之後使用雷射倉來處理最強渦輪機產生的數億EU/t。%n%n這五臺渦輪機與它們的下位替換燃料消耗相同，但也有一些例外情況將在相應的任務中提到。特大蒸汽渦輪機只消耗蒸汽，如其名字所述。%n%n[note]玻璃可使用任意等級。[/note]
 
 # Quest: Calcium Bottlenecking
 betterquesting.quest.9j1Iwd3KRG6jqLI9m6YDKQ.name=鈣瓶頸
@@ -7792,11 +7792,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWQ.desc=來到MV階段後，你可以�
 
 # Quest: Standard Nuclear Fuel: Uranium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.name=§8§l標準核燃料：鈾
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=這僅僅是“普通”的鈾燃料，沒有什麼特殊的。它產生的能量是釷的5倍，而產生的熱量為其4倍，同時持續時間為其2/5。%n%n大多數燃料棒都大同小異。通常在火星及其衛星上獲取鈾，別忘了從釷中也可以離心出一點鈾。%n%n順便一提，有一種“脈衝”型的反應爐，就是在反應爐溫度太高的時候關掉它。你可以停掉這些燃料棒，讓它們冷卻一會兒，這樣每個燃料棒能達到更高的利用效率。喜歡爆炸的話就試試吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=這僅僅是“普通”的鈾燃料，沒有什麼特殊的。它產生的能量是釷的5倍，而產生的熱量為其4倍，同時持續時間為其2/5。%n%n大多數燃料棒都大同小異。通常在火星及其衛星上獲取鈾，別忘了從釷中也可以離心出一點鈾。%n%n順便一提，有一種“脈衝”型的反應爐，就是在反應爐溫度太高的時候關掉它。你可以密集放置燃料棒，再讓反應爐冷卻一會兒，這樣每個燃料棒能達到更高的利用效率。喜歡爆炸的話就試試吧。
 
 # Quest: Tricky Nuclear Fuel: MOX
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.name=§8§l棘手的核燃料：MOX
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=在正常情況下，MOX的發電與鈾棒相同，但隨著反應爐升溫，MOX可以產出更多能量。想要利用這一優勢，你需要嘗試設計出一種接近極限溫度的熱平衡堆。它的燃燒時間只有鈾棒的一半，且當反應爐溫度超過50％時，MOX棒會放出更多熱量。一根棒子頂所有引擎！%n%n[note]如果沒有其他方式獲取鈽的話，你需要先執行一個普通的鈾堆，再離心枯竭鈾。別忘了MOX棒不止一種！[/note]%n%n[warn]請確保在創造模式測試過且/或做好防爆工作！[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=在正常情況下，MOX的發電與鈾棒相同，但隨著反應爐升溫，MOX可以產出更多能量。想要利用這一優勢，你需要嘗試設計出一種接近極限溫度的熱平衡堆。它的燃燒時間只有鈾棒的一半，且當反應爐溫度超過50％時，MOX棒會放出更多熱量。這是獻給各位工程師的燃料！%n%n[note]如果沒有其他方式獲取鈽的話，你需要先執行一個普通的鈾堆，再離心枯竭鈾。別忘了MOX棒不止一種！[/note]%n%n[warn]請確保在創造模式測試過且/或做好防爆工作！[/warn]
 
 # Quest: Alternate Nuclear Fuel: Tiberium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxg.name=§d§l可選核燃料：泰伯利亞
@@ -7812,7 +7812,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6w.desc=現在你可以製造MV級別�
 
 # Quest: Power of the Sun 1x1 MV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD7A.name=§a§l太陽之力（MV）1x1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD7A.desc=把那些128EU的太陽能板製造成方塊，這樣他們能夠被放置到世界中。 使用HV級別的組裝機將MV級太陽能板、MV機器外殼、一個電池和一個機械臂組裝到一起。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD7A.desc=把那些128EU的太陽能板製造成方塊，這樣它們能夠被放置到世界中。 使用HV級別的組裝機將MV級太陽能板、MV機器外殼、一個電池和一個機械臂組裝到一起。
 
 # Quest: Power of the Sun at HV Level
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD7g.name=§9§l太陽之力（HV）
@@ -7848,7 +7848,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFNg.desc=這臺發電機相當棘手。�
 
 # Quest: Infused Solars
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFNw.name=注魔太陽能
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFNw.desc=壓縮太陽能可透過注魔提高發電量。檢視它們的tooltip，選擇一種吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFNw.desc=壓縮太陽能板可透過注入要素獲得額外功能。檢視它們的tooltip，選擇一種吧。
 
 # Quest: Double Compressed Solar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFOA.name=§6§l雙重壓縮太陽能
@@ -7856,7 +7856,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFOA.desc=用64個1EU/t的太陽能換取
 
 # Quest: Even More Infused
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFOQ.name=更多壓縮注魔
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFOQ.desc=你可以注魔壓縮太陽能，獲得某種場合下更高的發電量。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFOQ.desc=你也可以為雙重或三重壓縮太陽能板注魔。
 
 # Quest: Triple Compressed Solar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFOg.name=§9§l三重壓縮的太陽能
@@ -7868,7 +7868,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFOw.desc=所以，你擺脫了多餘的�
 
 # Quest: Essentia Generator: Arbor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFPA.name=§6§l木之源質發電機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFPA.desc=當使用神奇的植物來獲得源質時，你最終會得到幾十個裝滿木之源質的罐子。 但不用擔心！ 這臺發電機使用木之源質執行！真棒！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFPA.desc=當使用神奇的植物來獲得魔法（Praecantatio）源質時，你最終會得到幾十個裝滿木之源質的罐子。 但不用擔心！ 這臺發電機使用木之源質執行！真棒！
 
 # Quest: Essentia Generator: Aer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFPQ.name=§6§l風之源質發電機
@@ -7908,7 +7908,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGzA.desc=你老式但可靠的內燃發�
 
 # Quest: The Church of Benzene's Holy Altar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTQ.name=§6§l大苯環神教聖堂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTQ.desc=MV燃氣輪機是苯的完美搭檔，現在你能真正製造它了。請到“大眾生物學”工作列檢視詳情，學習如何自動化製造大量的苯，或者直接檢視NEI也行。從樹木中獲取苯是可再生的，也是一種發電的強力手段，而且如果你使用新解鎖的多方塊機器對產線不斷升級的話，它能支援你數個階段的發展。%n%n適時放棄蒸汽是個明智的決定，因為隨著用電需求的不斷提升，你需要巨大的管道來輸送蒸汽，而且現階段的蒸汽輪機效率較低。 相反，製造熱解爐或高階焦爐，讓木炭生產更加迅速，再從中提煉出苯，通入燃氣輪機發電，太妙了，我大苯環神教！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTQ.desc=MV燃氣輪機是苯的完美搭檔，現在你能真正製造它了。請到“大眾生物學”任務章節檢視詳情，學習如何自動化製造大量的苯，或者直接檢視NEI也行。從樹木中獲取苯是可再生的，也是一種發電的強力手段，而且如果你使用新解鎖的多方塊機器對產線不斷升級的話，它能支援你數個階段的發展。%n%n適時放棄蒸汽是個明智的決定，因為隨著用電需求的不斷提升，你需要巨大的管道來輸送蒸汽，而且現階段的蒸汽輪機效率較低。 相反，製造熱解爐或高階焦爐，讓木炭生產更加迅速，再從中提煉出苯，通入燃氣輪機發電，太妙了，我大苯環神教！
 
 # Quest: Diesel Power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTg.name=§6§l柴油的力量
@@ -7920,7 +7920,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHZQ.desc=渦輪需要精確控制流量�
 
 # Quest: Gas Turbine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHZg.name=§8§l大型燃氣渦輪
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHZg.desc=大型燃氣渦輪相比於單方塊燃氣輪機，擁有更高的燃料效率，還可以透過升級消聲倉來降低汙染。%n%n你還需要消聲倉、維護倉、輸入倉和動力倉才能構建一臺完整的多方塊機器。別忘了流體校準器，用以控制多方塊的輸入流速！由於大型燃氣渦輪每t需要的最佳流量遠低於大型蒸汽渦輪所需的蒸汽流量，所以不需要太高階的流體校準器（目前LV就夠了）。%n%n每種渦輪材料都有特定的渦輪效率（效率越高，相同量的燃料獲得的EU越多），而且只有燃料的通入速度與最佳流量匹配時，多方塊才能達到此渦輪效率。%n%n再次重複，當你為渦輪提供超過最佳流速的燃料時（稱之為超載狀態），渦輪的輸出電壓提高，但燃料效率降低，同時最高輸出電壓取決於渦輪轉子類型及其超載效率等級。對於燃氣渦輪，超載效率等級1：最高超載150％，輸出功率112％；超載效率等級2：最高超載300％，輸出功率180％；超載效率等級3：最高超載450％，輸出功率252％。越接近超載極限，損失的燃料效率越多。%n%n要得知最佳渦輪材料的資訊，請看Discord頻道中的大型渦輪計算器以及資料表格。譯者注：也可以看看固體氧化物燃料電池MK-II（輸出1A-LuV以上）或者特大燃氣渦輪（輸出無限制）。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHZg.desc=大型燃氣渦輪相比於單方塊燃氣輪機，擁有更高的燃料效率，還可以透過升級消聲倉來降低汙染。%n%n你還需要消聲倉、維護倉、輸入倉和動力倉才能構建一臺完整的多方塊機器。別忘了流體校準器，用以控制多方塊的輸入流速！由於大型燃氣渦輪每t需要的最佳流量遠低於大型蒸汽渦輪所需的蒸汽流量，所以不需要太高階的流體校準器（目前LV就夠了）。%n%n每種渦輪材料都有特定的渦輪效率（效率越高，相同量的燃料獲得的EU越多），而且只有燃料的通入速度與最佳流量匹配時，多方塊才能達到此渦輪效率。%n%n再次重複，當你為渦輪提供超過最佳流速的燃料時（稱之為超載狀態），渦輪的輸出功率提高，但燃料效率降低，同時最高輸出功率取決於渦輪轉子類型及其超載效率等級。對於燃氣渦輪，超載效率等級1：最高超載150％，輸出功率112％；超載效率等級2：最高超載300％，輸出功率180％；超載效率等級3：最高超載450％，輸出功率252％。越接近超載極限，損失的燃料效率越多。%n%n要得知最佳渦輪材料的資訊，請看Discord頻道中的大型渦輪計算器以及資料表格。譯者注：也可以看看固體氧化物燃料電池MK-II（輸出1A-LuV以上）或者特大燃氣渦輪（輸出無限制）。[/warn]
 
 # Quest: Standard Nuclear Fuel II: Naquadah
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHaA.name=§9§l標準核燃料II：矽岩
@@ -7932,11 +7932,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHaQ.desc=它們同樣意義不大，我�
 
 # Quest: Large Heat Exchanger - Fermat's Last
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcQ.name=§8§l大型熱交換機-“費馬大定理”
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcQ.desc=大型熱交換機是一種產能多方塊機器，可以接受非直接的燃料，輸出的也不是EU。那是它是用來做什麼的呢？ §7燒開水！§r%n%n實際上，它是一種蒸汽鍋爐，使用某些流體替代了固體燃料，不過機制更加複雜。它的三種主要“燃料”是岩漿，熱冷卻液和太陽能鹽（熱），其中太陽能鹽（熱）最強，但獲取也最困難。 透過煉獄之壺或無數其他選擇都可以輕易實現岩漿自動化，熱冷卻液通常出產於流體核反應爐，而太陽能鹽（熱）則在太陽能塔中生產。%n%n使用岩漿時，大型熱交換機§d每1L岩漿輸出160L蒸汽，輸入岩漿速度最高為1000L/s§r（也就是100%%渦輪效率下§a4000 EU/t§r）。使用冷卻液時，大型熱交換機§d每1L熱冷卻液輸出400L蒸汽，輸入熱冷卻液速度最高為800L/s§r（也就是100%%渦輪效率下§a8000 EU/t§r）。使用太陽能鹽（熱）時，大型熱交換機§d每1L太陽能鹽（熱）輸出2000L蒸汽，輸入太陽能鹽（熱）速度最高為160L/s§r（也就是100%%渦輪效率下§a8000 EU/t§r）。%n%n§c當你超出此輸入速度時，輸出變為過熱蒸汽，需要透過高壓蒸汽渦輪才能變回普通蒸汽。§r這時的最大輸入速度為之前的兩倍，轉換率變為§d岩漿1:80§r，§d熱冷卻液1:200§r，而§d太陽能鹽（熱）1:1000§r，同時100%%渦輪效率下能量輸出為岩漿的§a12000 EU/t§r，熱冷卻液的§a24000 EU/t§r以及太陽能鹽（熱）的§a24000 EU/t§r。%n%n§6§l非常強大，但也很複雜，需要大型蒸汽渦輪！§r%n%n想要獲知更多資訊，請到[url]https://wiki.gtnewhorizons.com/wiki/Large_Heat_Exchanger[/url]閱讀其機制，或去到[url]https://wiki.gtnewhorizons.com/wiki/Fluid_Reactor[/url]，學習如何使用流體反應爐。%n%n[note]中文wiki 大型熱交換機：  §1§n[url]https://gtnh.huijiwiki.com/p/959[/url]§r[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcQ.desc=大型熱交換機是一種產能多方塊機器，可以接受非直接的燃料，輸出的也不是EU。那它是用來做什麼的呢？ §7燒開水！§r%n%n實際上，它是一種蒸汽鍋爐，使用某些流體替代了固體燃料，不過機制更加複雜。它的三種主要“燃料”是岩漿，熱冷卻液和太陽能鹽（熱），其中太陽能鹽（熱）最強，但獲取也最困難。 透過煉獄之壺或無數其他選擇都可以輕易實現岩漿自動化，熱冷卻液通常出產於流體核反應爐，而太陽能鹽（熱）則在太陽能塔中生產。%n%n使用岩漿時，大型熱交換機§d每1L岩漿輸出160L蒸汽，輸入岩漿速度最高為1000L/s§r（也就是100%%渦輪效率下§a4000 EU/t§r）。使用冷卻液時，大型熱交換機§d每1L熱冷卻液輸出400L蒸汽，輸入熱冷卻液速度最高為800L/s§r（也就是100%%渦輪效率下§a8000 EU/t§r）。使用太陽能鹽（熱）時，大型熱交換機§d每1L太陽能鹽（熱）輸出2000L蒸汽，輸入太陽能鹽（熱）速度最高為160L/s§r（也就是100%%渦輪效率下§a8000 EU/t§r）。%n%n§c當你超出此輸入速度時，輸出變為過熱蒸汽，需要透過高壓蒸汽渦輪才能變回普通蒸汽。§r這時的最大輸入速度為之前的兩倍，轉換率變為§d岩漿1:80§r，§d熱冷卻液1:200§r，而§d太陽能鹽（熱）1:1000§r，同時100%%渦輪效率下能量輸出為岩漿的§a12000 EU/t§r，熱冷卻液的§a24000 EU/t§r以及太陽能鹽（熱）的§a24000 EU/t§r。%n%n§6§l非常強大，但也很複雜，需要大型蒸汽渦輪！§r%n%n想要獲知更多資訊，請到[url]https://wiki.gtnewhorizons.com/wiki/Large_Heat_Exchanger[/url]閱讀其機制，或去到[url]https://wiki.gtnewhorizons.com/wiki/Fluid_Reactor[/url]，學習如何使用流體反應爐。%n%n[note]中文wiki 大型熱交換機：  §1§n[url]https://gtnh.huijiwiki.com/p/959[/url]§r[/note]
 
 # Quest: Rocket Engine EV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9g.name=§8§l火箭引擎（EV）
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9g.desc=這種火箭引擎是一種高汙染髮電裝置，燃料效率為80％。每秒產生250-2000點汙染。%n%n[note]有4種火箭燃料。請在太空競賽工作列下檢視剩餘燃料的製造方式。如果要自動化生產這些燃料，預計需要多個化工廠。[/note] 另外火箭引擎也有多方塊版本。%n%n[note]中文wiki 火箭燃料產線：  §1§n[url]https://gtnh.huijiwiki.com/p/742[/url]§r[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9g.desc=這種火箭引擎是一種高汙染發電裝置，燃料效率為80％。每秒產生250-2000點汙染。%n%n[note]有4種火箭燃料。請在太空競賽任務章節下檢視剩餘燃料的製造方式。如果要自動化生產這些燃料，預計需要多個化工廠。[/note] 另外火箭引擎也有多方塊版本。%n%n[note]中文wiki 火箭燃料產線：  §1§n[url]https://gtnh.huijiwiki.com/p/742[/url]§r[/note]
 
 # Quest: Kinetic Wind Power EV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAK-A.name=§8§l風力動能發生機（EV）
@@ -8012,7 +8012,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAK4w.desc=在HV階段，你不但解鎖�
 
 # Quest: Putting the 'Semi' Back Into Generators LV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAK5A.name=§2§l把‘半流質’塞回發電機裡（LV）
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAK5A.desc=你可能收集了大量的雜酚油，卻幾乎沒有怎麼用它。為了解決這一點，製造一臺半流質發電機，然後將雜酚油作為蒸汽外的第二能源吧！單方塊發電機只會在有EU需求時使用燃料，所以如果你沒有消耗足夠的EU，可能最終雜酚油會塞滿你的快取。%n%n想要將你焦爐中的雜酚油提取出來，你可以使用焦爐倉和你喜歡的流體管道。%n%n燃燒雜酚油的方法還有不少，比方說RC的液態燃燒室，不過半流質發電機便宜得多，使用也更加方便，同時效率也相當出色（就雜酚油而言，是內燃發電機的6倍）。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAK5A.desc=你可能收集了大量的雜酚油，卻幾乎沒有怎麼用它。為了解決這一點，製造一臺半流質發電機，然後將雜酚油作為蒸汽外的第二能源吧！單方塊發電機只會在有EU需求時使用燃料，所以如果你沒有消耗足夠的EU，可能最終雜酚油會塞滿你的緩衝儲存空間。%n%n想要將你焦爐中的雜酚油提取出來，你可以使用焦爐倉和你喜歡的流體管道。%n%n燃燒雜酚油的方法還有不少，比方說RC的液態燃燒室，不過半流質發電機便宜得多，使用也更加方便，同時效率也相當出色（就雜酚油而言，是內燃發電機的6倍）。
 
 # Quest: Putting the 'Semi' Back Into Generators MV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAK5Q.name=§6§l把‘半流質’塞回發電機裡（MV）
@@ -8064,7 +8064,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAK8A.desc=這是LuV版本。就算配合�
 
 # Quest: Radioisotope Thermoelectric Generator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAK8Q.name=§8§l放射性同位素溫差發電機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAK8Q.desc=可以執行相當相當長的時間。根據提供的靶丸輸出能量。%n%n鋂-241：16EU/t，69875天%n鍶-90：30EU/t，62640天%n鈽-238：64EU/t，42982天%n釙-210：480EU/t，34560天%n%n坦白來說，這玩意完全不值。特別是考慮到為了製造這些靶丸，還需要新修一臺迴旋加速器……甚至製造過程還要看臉！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAK8Q.desc=這是IC2的放射性同位素溫差發電機，可使用放射性同位素燃料靶丸持續發電。%n%n放入1個靶丸：1EU/t%n2個：2EU/t%n3個：4EU/t%n4個：8EU/t%n5個：16EU/t%n6個（上限）：32EU/t
 
 # Quest: Radioisotope Thermoelectric Generator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAK8g.name=§9§l放射性同位素溫差發電機
@@ -8124,15 +8124,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3g.desc=§o*拍拍耐超高溫網* 這�
 
 # Quest: Quintuple Compressed Solar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALAA.name=§b§l五重壓縮太陽能
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALAA.desc=32,768個太陽能發電機！可輸出100，000-131，072EU/t。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALAA.desc=32,768個太陽能發電機！可輸出100,000-131,072EU/t。
 
 # Quest: Sextuple Compressed Solar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALAQ.name=§2§l§n六重壓縮太陽能
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALAQ.desc=262,144個太陽能發電機！可輸出1,000，000-2，097，152EU/t。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALAQ.desc=262,144個太陽能發電機！可輸出1,000,000-2,097,152EU/t。
 
 # Quest: Septuple Compressed Solar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALAg.name=§4§l§n七重壓縮太陽能
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALAg.desc=2,097,152個太陽能發電機！可輸出10,000，000-33，554，432EU/t。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALAg.desc=2,097,152個太陽能發電機！可輸出10,000,000-33,554,432EU/t。
 
 # Quest: Toss Your Magic Junk in Here LV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALAw.name=§6§l把你的魔法垃圾都扔到這裡來（LV）
@@ -8240,11 +8240,11 @@ betterquesting.quest.DPl-UUZfTAa-ezdD_m8Huw.desc=要完成這條核融合產線�
 
 # Quest: I'll teach you... how to Praise the Sun!
 betterquesting.quest.Hn_igsosSbKsnATeYgvPgw.name=§9§l我來教你……怎麼讚美太陽！
-betterquesting.quest.Hn_igsosSbKsnATeYgvPgw.desc=太長；不看：這個任務需求的機械方塊數量是造一個最強的太陽能塔用的，這個塔要超多不鏽鋼，鈦，HV電路板，加上一些其他材料，但是它能產出大概2A LuV。%n%n你嘗試用過太陽能板嗎？可能造過一些？我問你哦，這些太陽能板有什麼共同點……它們不是產蒸汽就是直接產EU，太沒效率了。所有人都忘記了這件事！%n%n單方塊太陽很適合塞在任何有太陽的地方，給機器提供一個穩點的供電。然而，鑑於EU的儲存和運輸相當容易，來嘗試點好東西。不同於直接發電，用周圍環狀排列太陽能反射器將這些太陽能光束集中到中間結構上，然後沐浴在太陽系最強的核融合反應爐的超強力量中吧！%n%n（如果你最後造了更大的核融合，別來和我咬文嚼字）%n%n大致的原理就是，將太陽光直接照在一種比水更好的儲能流體上，太陽能鹽。太陽能塔會加熱所有塔中儲存的流體，但是注意，如果裡面有太多冷的太陽能鹽，它們會吸走大部分熱量從而降低整體的執行效率。%n%n實際上太陽能塔的熱量區間是0到100000,但它只會加熱30000以上熱量的太陽能鹽。每個迴圈中增加的能量取決於反射器的數量以及當前溫度。理想溫度剛好是上限的一半,50000熱量。為了讓太陽能塔工作在最高效率上，你需要慢慢加入冷的太陽能鹽以維持恰當的溫度。具體以什麼流速加入太陽能鹽就留給你自己算了，這取決於你所使用的反射器的數量。%n%n在以上的基礎上像用熱冷卻液那樣透過熱交換產生蒸汽或過熱蒸汽。如果你想要太陽能塔的工作效率最大化，請把它建在永遠白天的個人維度裡。
+betterquesting.quest.Hn_igsosSbKsnATeYgvPgw.desc=太長；不看：這個任務需求的機械方塊數量是造一個最強的太陽能塔用的，這個塔要超多不鏽鋼，鈦，HV電路，加上一些其他材料，但是它能產出大概2A LuV。%n%n你嘗試用過太陽能板嗎？可能造過一些？我問你哦，這些太陽能板有什麼共同點……它們不是產蒸汽就是直接產EU，太沒效率了。所有人都忘記了這件事！%n%n單方塊太陽很適合塞在任何有太陽的地方，給機器提供一個穩定的供電。然而，鑑於EU的儲存和運輸相當容易，來嘗試點好東西。不同於直接發電，用周圍環狀排列太陽能反射器將這些太陽能光束集中到中間結構上，然後沐浴在太陽系最強的核融合反應爐的超強力量中吧！%n%n（如果你最後造了更大的核融合，別來和我咬文嚼字）%n%n大致的原理就是，將太陽光直接照在一種比水更好的儲能流體上，太陽能鹽。太陽能塔會加熱所有塔中儲存的流體，但是注意，如果裡面有太多冷的太陽能鹽，它們會吸走大部分熱量從而降低整體的執行效率。%n%n實際上太陽能塔的熱量區間是0到100000,但它只會加熱30000以上熱量的太陽能鹽。每個迴圈中增加的能量取決於反射器的數量以及當前溫度。理想溫度剛好是上限的一半,50000熱量。為了讓太陽能塔工作在最高效率上，你需要慢慢加入冷的太陽能鹽以維持恰當的溫度。具體以什麼流速加入太陽能鹽就留給你自己算了，這取決於你所使用的反射器的數量。%n%n在以上的基礎上像用熱冷卻液那樣透過熱交換產生蒸汽或過熱蒸汽。如果你想要太陽能塔的工作效率最大化，請把它建在永遠白天的個人維度裡。
 
 # Quest: Turbine Housing
 betterquesting.quest.J2ok3rFLS7quyIlHPaN0FQ.name=§2§l§n渦輪倉
-betterquesting.quest.J2ok3rFLS7quyIlHPaN0FQ.desc=在UV你解鎖了給渦輪自動重灌轉子的能力。%n%n特大渦輪則能更早的預設重灌轉子……
+betterquesting.quest.J2ok3rFLS7quyIlHPaN0FQ.desc=在UV你解鎖了給渦輪自動補充轉子的能力。%n%n特大渦輪則能更早的預設補充轉子……
 
 # Quest: Naquadah Based Fuel MkVI
 betterquesting.quest.KHL_yx4XTKOtsHHZ60ZZpg.name=矽岩基流體燃料 Mk-VI
@@ -8260,7 +8260,7 @@ betterquesting.quest.Ko5ln-tKSFiZZWtAmSWv8w.desc=來自GTNH的究極燃氣吞噬
 
 # Quest: Celestial Tungsten Plasma - The Mk3 Finale
 betterquesting.quest.LSqzsH4oS7OQrZyolb7C0A.name=天體鎢電漿 - MK-III終曲
-betterquesting.quest.LSqzsH4oS7OQrZyolb7C0A.desc=到這就是MK-III核融合產線的結尾了，也是三條核融合產線的總和。在氦電漿的基礎上進行了14次核融合之後，終於將這來之不易的天體鎢電漿收入囊中，其高達720M的熱值可以免疫一眾巨型渦輪的懲罰，直至巨型時空渦輪。%n%n要擴大電漿發電規模直至終極目標和戴森雲，很可能就依靠天體鎢電漿或鋂電漿了，後者雖然是單步配方，但在單堆上的發電量要遜色於前者。64並行的天體鎢電漿的MK3壓縮核融合反應爐配合無盡渦輪有著超過80億EU/t的發電量。要擴大上述發電的規模並沒有那麼……那麼的難，只需要清楚哪些配方會成為最大的瓶頸並且擁有充足的原料。%n%n到目前為止，還沒電漿需要用天體鎢電漿制作，但在將來可能會新增這樣的電漿，尤其是諸如龍血等一眾GT++材料。恭喜你完成這條核融合產線！願原力與你同在。
+betterquesting.quest.LSqzsH4oS7OQrZyolb7C0A.desc=到這就是MK-III核融合產線的結尾了，也是三條核融合產線的總和。在氦電漿的基礎上進行了14次核融合之後，終於將這來之不易的天體鎢電漿收入囊中，其高達720M的熱值可以免疫一眾巨型渦輪的懲罰，直至巨型時空渦輪。%n%n要擴大電漿發電規模直至終極目標和戴森雲，很可能就依靠天體鎢電漿或鋂電漿了，後者雖然是單步配方，但在單堆上的發電量要遜色於前者。64並行的天體鎢電漿的MK3壓縮核融合反應爐配合無盡渦輪有著超過80億EU/t的發電量。要擴大上述發電的規模並沒有那麼……那麼的難，只需要清楚哪些配方會成為最大的瓶頸並且擁有充足的原料。%n%n到目前為止，還沒有電漿需要用天體鎢電漿製作，但在將來可能會新增這樣的電漿，尤其是諸如龍血等一眾GT++材料。恭喜你完成這條核融合產線！願原力與你同在。
 
 # Quest: Zzzincing...
 betterquesting.quest.Ng5Ldnf3TZCefB4Mr3u-rQ.name=鋅ininininin……
@@ -8296,15 +8296,15 @@ betterquesting.quest.bz_RazGFSl6k7fUkEt1Lzw.desc=可用的最為緻密的蒸汽�
 
 # Quest: XL Turbo Plasma Turbine
 betterquesting.quest.dQ1k0UZVR8ObXotgcryKbw.name=§b§l特大電漿渦輪
-betterquesting.quest.dQ1k0UZVR8ObXotgcryKbw.desc=電漿流能讓渦輪旋轉嗎？不，只是水變成蒸汽，然後再凝成水，只有水在迴圈罷了。檢視上面有關特大蒸汽渦輪關於特大渦輪的共有機制說明。%n%n記住，這臺渦輪機與其他常規的多方塊渦輪機有非常重要的區別。鑑於電漿能很容易在壓縮核融合堆的加持下爆倉，特大電漿渦輪必須採取相應的措施，不然僅多餘一個電漿就會將程序中的EU數值提高到荒謬的程度。然而，特大渦輪機的產能現在有一個基於比較燃料密度與其所使用的轉子材料的減值。%n%n檢視[url]https://i.imgur.com/vifsk0P.png[/url]，關於各種電漿和材料的不同組合。MK-I電漿顯示為綠色，MK-II為黃色，MK-III為紅色。下方的3個是核融合的終產物。%n%n這個公式有點複雜，但這裡列出一些重要的數值：%n-> 氦電漿即使使用無盡催化劑也會受到86.1%%的巨大懲罰值，與此同時錫的懲罰只有53.5%%，這意味著如果使用錫電漿預期產能幾乎是翻倍；%n-> 三元金屬的數值分別為92.4%%和74.5%%；%n-> 使用無盡的懲罰數值更高，分別為97.4%%和91.1%%；%n-> 時空的數值為98.3%%和94.4%%。%n%n這意味著在UHV/UEV階段，沒法再依賴這兩種電漿直接塞給特大渦輪機。在一步配方的電漿中，最好的選擇是mk3鋂電漿，它在使用無盡催化劑時只有微不足道的0.8%%的懲罰。如果想要更快的發電速度，請檢視以熔融天體鎢結束的核融合，它在特大電漿渦輪機中沒有懲罰值為0,並且與以前的氦電漿產能相同。請檢視下方有關核融合的任務。
+betterquesting.quest.dQ1k0UZVR8ObXotgcryKbw.desc=電漿流能讓渦輪旋轉嗎？不，只是水變成蒸汽，然後再凝成水，只有水在迴圈罷了。檢視上面有關特大蒸汽渦輪關於特大渦輪的共有機制說明。%n%n記住，這臺渦輪機與其他常規的多方塊渦輪機有非常重要的區別。鑑於電漿能很容易在壓縮核融合反應爐的加持下爆倉，特大電漿渦輪必須採取相應的措施，不然僅多餘一個電漿就會將程序中的EU數值提高到荒謬的程度。然而，特大渦輪機的產能現在有一個基於比較燃料密度與其所使用的轉子材料的減值。%n%n檢視[url]https://i.imgur.com/vifsk0P.png[/url]，關於各種電漿和材料的不同組合。MK-I電漿顯示為綠色，MK-II為黃色，MK-III為紅色。下方的3個是核融合的終產物。%n%n這個公式有點複雜，但這裡列出一些重要的數值：%n-> 氦電漿即使使用無盡催化劑也會受到86.1%%的巨大懲罰值，與此同時錫的懲罰只有53.5%%，這意味著如果使用錫電漿預期產能幾乎是翻倍；%n-> 三元金屬的數值分別為92.4%%和74.5%%；%n-> 使用無盡的懲罰數值更高，分別為97.4%%和91.1%%；%n-> 時空的數值為98.3%%和94.4%%。%n%n這意味著在UHV/UEV階段，沒法再依賴這兩種電漿直接塞給特大渦輪機。在一步配方的電漿中，最好的選擇是mk3鋂電漿，它在使用無盡轉子時只有微不足道的0.8%%的懲罰。如果想要更快的發電速度，請檢視以天體鎢電漿結束的核融合產線，它在特大電漿渦輪機中的懲罰值為0，並且與以前的氦電漿產能相同。請檢視下方有關核融合的任務。
 
 # Quest: This is your Kryptonite!
 betterquesting.quest.pLCgOVmqTUCudSXZusnceg.name=這是你的氪星石！
-betterquesting.quest.pLCgOVmqTUCudSXZusnceg.desc=這是我和你提過的那個特殊的鈦，你需要加入泰坦精鋼在一起來製作接下來需要的東西，GT++材料於此捲入核融合洪流。%n%n這步反應需要你先搞定前置的鈮電漿和鋅電漿核融合產氪電漿——一種比你之前搞到的更稀有的惰性氣體，後面還有更稀有的氙。如果使用相同等級的核融合反應爐，這些配方的速度都是匹配好的，從核融合產氪電漿，到星體鈦電漿，再到先前最後的力量電漿！沒錯，每條生產鏈都需要之前做的一切來執行。%n%n得到星體鈦電漿後，你就可以去準備MK2階段最後一步了。
+betterquesting.quest.pLCgOVmqTUCudSXZusnceg.desc=這是我和你提過的那個特殊的鈦，你需要加入泰坦精鋼在一起來製作接下來需要的東西，GT++材料於此捲入核融合洪流。%n%n這步反應需要你先搞定前置的鈮電漿和鋅電漿核融合產氪電漿——一種比你之前搞到的更稀有的惰性氣體，後面還有更稀有的氙。如果使用相同等級的核融合反應爐，這些配方的速度都是匹配好的，先產出氪電漿，再加入上一條產線的最終產物——力量電漿，來合成星體鈦電漿！沒錯，每條生產鏈都需要之前做的一切來執行。%n%n得到星體鈦電漿後，你就可以去準備MK2階段最後一步了。
 
 # Quest: Force Plasma - The Mk1 Ending
 betterquesting.quest.tSCw6KSbR8a4TCNWlrmkYQ.name=力量電漿 - MK-I結束
-betterquesting.quest.tSCw6KSbR8a4TCNWlrmkYQ.desc=得到之前的兩種電漿後，即刻把他們核融合成新的東西——氖電漿。直接用的話，沒準你會做出來Neon（霓虹燈/氖氣）！當然更多還是用來生產後面更有用的材料，多留意一下。%n%n然而氖不是MK1最後一個需要做的電漿。你需要在適當的階段搞定三種電漿的生產，和一個非電漿材料，才能開始最後的步驟得到最終想要的發電用的電漿。 那個非電漿材料是奧金，你之前可能已經用過了。這一步你最好用合金冶煉爐來實現自動化，並附帶穩定的釷-232供應。%n%n翻合成表時你大概會發現製作1000L力量電漿只需要144L氖電漿，後面系列任務的最終目標產出步驟也是這個數量關係，而且都是一系列核融合配方的瓶頸步驟。一臺力量電漿核融合需要0.144臺氖電漿核融合，或者說，一臺核融合生產氖能供約7臺生產力量電漿（準確說是6.944……臺）。%n%nMK1部分的核融合產鏈到力量電漿為止，這是擁有每桶150M EU燃料值的電漿，它在使用無盡催化劑轉子的特大電漿渦輪中的效率懲罰為53.5％％，而氦電漿同情況下的效率懲罰為86.1％％。可能ZPM階段你還不需要這些，但這些將會是你未來發展的奠基石。
+betterquesting.quest.tSCw6KSbR8a4TCNWlrmkYQ.desc=得到之前的兩種電漿後，即刻把它們核融合成新的東西——氖電漿。直接用的話，沒準你會做出來Neon（霓虹燈/氖氣）！當然更多還是用來生產後面更有用的材料，多留意一下。%n%n然而氖不是MK1最後一個需要做的電漿。三條核融合產線都有最後的活化步驟：加入對應科技等級的非電漿材料，製取發電用的電漿。 那個非電漿材料是奧金，你之前可能已經用過了。這一步你最好用合金冶煉爐來實現自動化，並附帶穩定的釷-232供應。%n%n翻合成表時你大概會發現製作1000L力量電漿只需要144L氖電漿，後面系列任務的最終目標產出步驟也是這個數量關係，而且都是一系列核融合配方的瓶頸步驟。一臺力量電漿核融合需要0.144臺氖電漿核融合，或者說，一臺核融合生產氖能供約7臺生產力量電漿（準確說是6.944……臺）。%n%nMK1部分的核融合產鏈到力量電漿為止，這是擁有每桶150M EU燃料值的電漿，它在使用無盡催化劑轉子的特大電漿渦輪中的效率懲罰為53.5％，而氦電漿同情況下的效率懲罰為86.1％。可能ZPM階段你還不需要這些，但這些將會是你未來發展的奠基石。
 
 # Quest: Well, It Doesn't Produce Any Pollution...
 betterquesting.quest.xCs-hKv-SV23LlvnYVroZA.name=§8§l至少，它不會產生任何汙染……
@@ -8312,7 +8312,7 @@ betterquesting.quest.xCs-hKv-SV23LlvnYVroZA.desc=這是一種EV開始可用的�
 
 # Quest: XL Turbo HP Steam Turbine
 betterquesting.quest.yDY1ALr9QdG8zTbEszNaMw.name=§9§l特大高壓蒸汽渦輪
-betterquesting.quest.yDY1ALr9QdG8zTbEszNaMw.desc=高壓，過熱的能量荷載。看看上方關於特大蒸汽渦輪機的介紹來了解一下所有渦輪機之間的相同的機制。%n%n這個特大渦輪和特大蒸汽渦輪升級的方式完全相同：可接受的流體是過熱蒸汽，其他流體都沒用。他們應該造在一起，畢竟你這個階段可能有的蒸汽設施都肯定會用到這兩個渦輪。
+betterquesting.quest.yDY1ALr9QdG8zTbEszNaMw.desc=高壓，過熱的能量荷載。看看上方關於特大蒸汽渦輪機的介紹來了解一下所有渦輪機之間的相同的機制。%n%n這個特大渦輪和特大蒸汽渦輪升級的方式完全相同：可接受的流體是過熱蒸汽，其他流體都沒用。它們應該造在一起，畢竟你這個階段可能有的蒸汽設施都肯定會用到這兩個渦輪。
 
 
 ## Quest Line: Storing and Transforming EU

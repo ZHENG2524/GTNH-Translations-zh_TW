@@ -1,0 +1,16 @@
+{
+  "baseline": "d6c053b777eec7305ac6c0773d780341a24a7443",
+  "gtnh_version": "2.8.4",
+  "reviewed_entries": 1574,
+  "changed_values": 138,
+  "changed_language_files": 1,
+  "batches": {
+    "quests1047-2072": 138
+  },
+  "previous_tooltip_repairs_preserved": 26,
+  "ore_prefix_group_scan": [],
+  "diff_checked": true,
+  "source_checks": "Exact English values from installed jar, runtime defaults and quest JSON",
+  "scope": "第1047–2072篇連續中文閱讀；有來源者對照本機英文。缺來源／版本差異保留，未同步遊戲、未遊戲實測。全專案未完成。",
+  "errors": []
+}

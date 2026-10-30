@@ -1,0 +1,14 @@
+{
+  "base": "d6c053b777eec7305ac6c0773d780341a24a7443",
+  "language_files": 299,
+  "entries": 168337,
+  "existing_duplicate_keys": 56,
+  "existing_empty_values": 2637,
+  "changed_values": {
+    "config/txloader/forceload/betterquesting/lang/zh_TW.lang": 138
+  },
+  "total_changed_values": 138,
+  "reproduction_and_idempotence": true,
+  "errors": [],
+  "scope": "Structural regression checks only; existing blanks/duplicates need separate review."
+}

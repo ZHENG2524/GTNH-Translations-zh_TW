@@ -1,51 +1,43 @@
 # GTNH zh_TW 最新交接入口
 
-更新：2026-10-31。此文件可公開；不含本機私人路徑、伺服器位置或憑證。**以下是目前接續入口，後面的各批舊入口只是歷史。**
+更新：2026-10-31。此文件可公開；不含私人路徑或憑證。以下是最新入口，後方各批內容為歷史。
 
-## 現況與下一步
+## 現況
 
-- 基準版本：GTNH **2.8.4** / GregTech **5.09.51.482**。工作分支main；本批基準`d795a602d8dd3fd845bbaeed17e191188e1415ca`。最新提交／遠端請用Git核實。
-- 使用者要求繼續完成剩餘全部翻譯；**這個目標尚未完成**。不要因本次大批閱讀或完整來源盤點而宣稱全專案語意校對完成。
-- 已連續閱讀至第1046篇。**下一篇：第1047篇「第10階 - 超極限壓（UEV）」**，key `betterquesting.questline.D_aFb1hFQH2PDkN0_KvAEQ`。按現行forceload檔全部`.desc`順序，含questline章節說明；不是數字ID順序。
-- 本批242–1046篇共805篇；781篇有本機英文標題／正文對照，24篇缺來源保留。修改**187條語言值／1個現行任務檔**。沒有覆寫兩個舊任務副本。
-- 全部任務3,859篇，尚有**2,813篇未接續閱讀**。完整自動來源清單定位3,494篇，365篇未定位；來源清點不是語意校對。
-- 本批及10月25日、10月31日前三批新文字均**未同步遊戲、未遊戲內實測**。沒有新Release，未改jar／設定／配方／伺服器。
-- 前批26條Tooltip修復保留。LV／MV／HV電壓等級維持使用者已實測通過狀態；其餘Tooltip未因此自動算實測。
+- 基準GTNH **2.8.4**／GregTech **5.09.51.482**。本批基準`d6c053b777eec7305ac6c0773d780341a24a7443`；實際HEAD及遠端以Git核實。
+- 使用者已要求**完成剩下全部**，此目標仍未達成。不要再把來源盤點或已讀篇數當成全專案完成。
+- 已連續閱讀到第**2072篇**。下一篇第**2073篇「EU的儲存與變壓」**，key `betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIQ`。全部3,859篇，仍有**1,787篇未接續閱讀**。
+- 本批1047–2072共**1,026篇**，787篇本機英文標題／正文對照、239篇缺來源保留；修改**138條／1個現行任務檔**，未覆寫舊副本。
+- 所有本批文字**未同步遊戲、未遊戲內實測**；未改jar／設定／配方／伺服器，沒有Release。前批26條Tooltip保持原值；LV／MV／HV電壓維持使用者已實測狀態。
 
-## 先讀哪些檔案
+## 先讀
 
 1. `docs/TRANSLATION_PROGRESS.md`、`docs/TERMINOLOGY.md`。
-2. `docs/PROOFREAD_2026-10-31_QUESTS242-1046.md`：本批成果、24篇缺來源與版本差異待查表。
-3. `tools/term_calibration_2026-10-31-quests242-1046.json`：1,562條來源／key對照、187條修改、精確before/after。date/order＝2026-10-31/3。
-4. `docs/quest-source-inventory-2026-10-31.json`：3,859篇來源與閱讀狀態；歷史241篇只指向前批紀錄，不重複宣稱已驗證。
-5. 涉及前批問題時，再讀其LV／STEAM與更早報告。
+2. `docs/PROOFREAD_2026-10-31_QUESTS1047-2072.md`：成果及重要版本差異。
+3. `tools/term_calibration_2026-10-31-quests1047-2072.json`：date/order=2026-10-31/4；1,574條來源與key、138修改、239缺來源、逐篇待查。
+4. `docs/quest-source-inventory-2026-10-31.json`：逐篇閱讀與來源狀態。
+5. 前批242–1046的位元碼特例及報告仍有效，見下方歷史入口。
 
-## 已查證的重要例外
+## 本批已確認例外
 
-- 第355篇英文Flint Lens錯誤：本機`ScriptRailcraft.loadRecipes`是Diamond或Firestone透鏡，保留火石透鏡。
-- 第784篇英文碘回收half錯誤：本機`RecipeLoader.loadGeneral`投入4粉／4000L，回收4000L；保留全部回收。
-- 第862篇本機`BWMetaItems.init`使用高壓釜、576L焊料合金、75%機率，修正了雷射蝕刻機誤稱。
-- 第396篇本機任務目標為12乙烯單元、84氧單元、125聚乙烯單元，已修正文案；不是完整配方驗證。
-- 第281篇必要目標是ProjectRed emptybattery，保留空電池標題。第592篇目標為18鉑粒，正文改鉑粒。
-- 第772篇本機投入11046硝酸獨居石浸出混合物，產物含11025二氧化鈰與11018濃縮液。不能按英文leached concentrate把投入物改錯。
-- Nature's Compass本機按I18n翻譯後的搜尋鍵比對；不把中文鍵改成英文。
-- `quest`和`questline`命名空間可能有同UUID token；**不能用任務英文冒充章節說明**。
+- 第1827篇：感測的是**中子活化器**動能，條件`eV >= threshold`，再與`inverted`做XOR；已修正嚴格大於與加速器誤稱。
+- 第1865篇：安裝版DEFC提供每超出配方一級一次perfect OC，**保留現行4/4中文**，不照錯誤舊英文改成耗時除級差。
+- 第2010篇：目標是IC2 RTG與6個IC2靶丸，功率為`2^(n-1)`，本機效率1.0。已移除錯貼的GT++燃料表，改1～6靶丸對應1～32EU/t。第2011篇GT++版本保留。
+- 以上jar/class雜湊與方法見`docs/verification-quests1047-2072-bytecode-2026-10-31.json`。來源JSON、IC2.ini及IC2 jar加入manifest雜湊保護。
+- 新CropsNH、NAC、BEC、神鍛升級、玻璃用料、工業機器倍速及爆炸警告等有來源不足／版本差異，不用舊英文覆蓋現行機制。
+- 第1533篇鑽石大板可能指匠魂部件，沒有足夠配方證據所以保留；不能只按泛稱Diamond plates刪去「大」。
 
-位元碼、jar/class雜湊見`docs/verification-quests242-1046-bytecode-2026-10-31.json`。其他PBI跳過數量、Import/Export方向、CropsNH移轉、鍋爐燃料、維護倉共用、太空電梯槽數、異氙菌機率等仍見批次待查表。
-
-## 本批驗證與接續規則
+## 驗證
 
 ```sh
-python3 tools/verify_term_calibration.py --game /path/to/.minecraft --manifest tools/term_calibration_2026-10-31-quests242-1046.json
-python3 tools/verify_translation.py --base d795a60 --reproduce
+python3 tools/verify_term_calibration.py --game /path/to/.minecraft --manifest tools/term_calibration_2026-10-31-quests1047-2072.json
+python3 tools/verify_translation.py --base d6c053b --reproduce
 git diff --check
 ```
 
-報告：`docs/verification-quests242-1046-2026-10-31.json`與`docs/verification-quests242-1046-structure-2026-10-31.json`。299檔／168,337條結構、26條Tooltip、從基準重現187條修改及二次重跑都須通過；原有56個重複鍵多餘條目、2,637個空白值保留。
+報告：`docs/verification-quests1047-2072-2026-10-31.json`、`docs/verification-quests1047-2072-structure-2026-10-31.json`。299檔／168,337條結構、26條Tooltip、138條修改重現及二次重跑需通過；既有56個重複條目與2,637空值保留。
 
-新批次要改用自己的baseline與manifest。規則按date/order載入，同key後批before必須接前批after。未知值或斷鏈應查證，不可刪衝突檢查。`--skip-diff`只用於歷史批次，不略過本批白名單檢查。
-
-例行備份、校對、規則同步、驗證與既有授權的提交推送成批完成，不需逐項詢問。遊戲同步、重啟與Release仍是不同範圍。歧義保留原值、列待查；不全域替換未核對術語、不改已實測電壓提示。寫完交接後須讀回確認。
+例行備份、校對、規則同步、驗證與既有授權的提交推送成批完成，不需逐項詢問。遊戲同步、重啟及Release是不同範圍。歧義保留原值、列待查；不全域替換未核對術語、不改已實測電壓提示。新批次使用自己的baseline與manifest，後批before接前批after；`--skip-diff`只用於歷史檢查。寫完交接後讀回確認。
 
 ---
 
@@ -193,3 +185,55 @@ git diff --check
 - 賽特斯石英鋒利強化24倍已對照安裝TConstruct程式註冊，現行4改24；Wrought Iron為鍛鐵，修正現行鑄鐵誤稱；電路／基板、漏斗抽取方向、背部槽位等已校準。術語表58組。
 - 鋅曜鋼替代配方、地獄熔爐比較、作物模組移轉、匠魂歷史機制與第107／108／112／211篇缺來源仍待查。不把語意閱讀或部分位元碼檢視當作完整機制驗證。
 - 299檔結構、重現與重跑檢查通過；26條Tooltip保留。未同步遊戲、未遊戲實測、沒有Release；延續既有驗證後提交推送的授權。
+
+
+## 2026-10-31 前批242–1046入口（歷史）
+
+# GTNH zh_TW 最新交接入口
+
+更新：2026-10-31。此文件可公開；不含本機私人路徑、伺服器位置或憑證。**以下是目前接續入口，後面的各批舊入口只是歷史。**
+
+## 現況與下一步
+
+- 基準版本：GTNH **2.8.4** / GregTech **5.09.51.482**。工作分支main；本批基準`d795a602d8dd3fd845bbaeed17e191188e1415ca`。最新提交／遠端請用Git核實。
+- 使用者要求繼續完成剩餘全部翻譯；**這個目標尚未完成**。不要因本次大批閱讀或完整來源盤點而宣稱全專案語意校對完成。
+- 已連續閱讀至第1046篇。**下一篇：第1047篇「第10階 - 超極限壓（UEV）」**，key `betterquesting.questline.D_aFb1hFQH2PDkN0_KvAEQ`。按現行forceload檔全部`.desc`順序，含questline章節說明；不是數字ID順序。
+- 本批242–1046篇共805篇；781篇有本機英文標題／正文對照，24篇缺來源保留。修改**187條語言值／1個現行任務檔**。沒有覆寫兩個舊任務副本。
+- 全部任務3,859篇，尚有**2,813篇未接續閱讀**。完整自動來源清單定位3,494篇，365篇未定位；來源清點不是語意校對。
+- 本批及10月25日、10月31日前三批新文字均**未同步遊戲、未遊戲內實測**。沒有新Release，未改jar／設定／配方／伺服器。
+- 前批26條Tooltip修復保留。LV／MV／HV電壓等級維持使用者已實測通過狀態；其餘Tooltip未因此自動算實測。
+
+## 先讀哪些檔案
+
+1. `docs/TRANSLATION_PROGRESS.md`、`docs/TERMINOLOGY.md`。
+2. `docs/PROOFREAD_2026-10-31_QUESTS242-1046.md`：本批成果、24篇缺來源與版本差異待查表。
+3. `tools/term_calibration_2026-10-31-quests242-1046.json`：1,562條來源／key對照、187條修改、精確before/after。date/order＝2026-10-31/3。
+4. `docs/quest-source-inventory-2026-10-31.json`：3,859篇來源與閱讀狀態；歷史241篇只指向前批紀錄，不重複宣稱已驗證。
+5. 涉及前批問題時，再讀其LV／STEAM與更早報告。
+
+## 已查證的重要例外
+
+- 第355篇英文Flint Lens錯誤：本機`ScriptRailcraft.loadRecipes`是Diamond或Firestone透鏡，保留火石透鏡。
+- 第784篇英文碘回收half錯誤：本機`RecipeLoader.loadGeneral`投入4粉／4000L，回收4000L；保留全部回收。
+- 第862篇本機`BWMetaItems.init`使用高壓釜、576L焊料合金、75%機率，修正了雷射蝕刻機誤稱。
+- 第396篇本機任務目標為12乙烯單元、84氧單元、125聚乙烯單元，已修正文案；不是完整配方驗證。
+- 第281篇必要目標是ProjectRed emptybattery，保留空電池標題。第592篇目標為18鉑粒，正文改鉑粒。
+- 第772篇本機投入11046硝酸獨居石浸出混合物，產物含11025二氧化鈰與11018濃縮液。不能按英文leached concentrate把投入物改錯。
+- Nature's Compass本機按I18n翻譯後的搜尋鍵比對；不把中文鍵改成英文。
+- `quest`和`questline`命名空間可能有同UUID token；**不能用任務英文冒充章節說明**。
+
+位元碼、jar/class雜湊見`docs/verification-quests242-1046-bytecode-2026-10-31.json`。其他PBI跳過數量、Import/Export方向、CropsNH移轉、鍋爐燃料、維護倉共用、太空電梯槽數、異氙菌機率等仍見批次待查表。
+
+## 本批驗證與接續規則
+
+```sh
+python3 tools/verify_term_calibration.py --game /path/to/.minecraft --manifest tools/term_calibration_2026-10-31-quests242-1046.json
+python3 tools/verify_translation.py --base d795a60 --reproduce
+git diff --check
+```
+
+報告：`docs/verification-quests242-1046-2026-10-31.json`與`docs/verification-quests242-1046-structure-2026-10-31.json`。299檔／168,337條結構、26條Tooltip、從基準重現187條修改及二次重跑都須通過；原有56個重複鍵多餘條目、2,637個空白值保留。
+
+新批次要改用自己的baseline與manifest。規則按date/order載入，同key後批before必須接前批after。未知值或斷鏈應查證，不可刪衝突檢查。`--skip-diff`只用於歷史批次，不略過本批白名單檢查。
+
+例行備份、校對、規則同步、驗證與既有授權的提交推送成批完成，不需逐項詢問。遊戲同步、重啟與Release仍是不同範圍。歧義保留原值、列待查；不全域替換未核對術語、不改已實測電壓提示。寫完交接後須讀回確認。
