@@ -1,6 +1,56 @@
-# 交接：GTNH zh_TW 後續處理（給下一個 AI）
+# GTNH zh_TW 最新交接入口
 
-> 本檔可公開，不含伺服器位址或個人資訊。最後更新：2026-10-24（提交前複核）。
+更新：2026-10-31。此文件可公開；不含本機私人路徑、伺服器位置或憑證。**先讀本節，下面各批舊入口只作歷史背景。**
+
+## 現況與下一步
+
+- 基準版本：GTNH **2.8.4** / GregTech **5.09.51.482**。工作分支 `main`；本批基準 `a7fcb74`，完成後提交訊息為 `Review LV quests through entry 241 and prepare handoff`。最新提交與遠端狀態請用 `git log -3 --oneline`、`git status -sb` 及 fetch 核實，不從歷史段落推斷。
+- **下一篇：第242篇「你會恨死這玩意的 #6」**，key `betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg`。不要從第212篇重做。
+- 現行任務檔：`config/txloader/forceload/betterquesting/lang/zh_TW.lang`。篇數依**全部 `.desc` 的檔案順序**，包含 `questline` 章節說明，不是純任務數，也不是數字 ID 順序。
+- 10月31日三批：101–130篇改30條；131–211篇改85條；212–241篇改26條。合計**141條修改／3個語言檔**，不是141個獨立物品；有版本差異、缺來源與未實測範圍，不能宣稱全專案語意校對完成。
+- **缺英文來源、僅中文閱讀並保留**：第107、108、112、211、212、214篇。其餘已讀篇章的機制／譯者註待查部分，仍以各批報告為準。
+- 10月25日及本日三批新文字均**未同步遊戲、未遊戲內實測**。沒有新Release，未改jar、設定、配方或伺服器。
+- 既有26條Tooltip修復完整保留；LV／MV／HV電壓等級沿用使用者已實測通過狀態，不代表其他Tooltip完成實測。
+
+## 先讀哪些檔案
+
+1. `docs/TRANSLATION_PROGRESS.md`：當前進度與前批待查總表。
+2. `docs/TERMINOLOGY.md`：58組術語及限定套用原則。
+3. `docs/PROOFREAD_2026-10-31_LV.md`：最新212–241篇、缺來源與鋁任務目標差異。
+4. 如涉及前批內容，再讀 `docs/PROOFREAD_2026-10-31_STEAM.md`、`docs/PROOFREAD_2026-10-31.md`、`docs/PROOFREAD_2026-10-25_CONTINUATION.md`。
+
+## 本批結果與可重現檢查
+
+- 最新清單：`tools/term_calibration_2026-10-31-lv.json`，**74條對照、26條修改**；現行forceload 8、舊load/betterquesting 9、舊load/minecraft 9。
+- 新規則依 `date/order` 載入。三批順序為 `term_calibration_2026-10-31.json`（0）、`...-steam.json`（1）、`...-lv.json`（2）；同key後續before必須接前批after。未知新值或斷鏈必須停下查證，不能刪衝突檢查。
+- 最新來源／白名單及結構報告：`docs/verification-lv-2026-10-31.json`、`docs/verification-lv-structure-2026-10-31.json`，均無錯誤。
+- 全299語言檔／168,337條結構、26條Tooltip保護、從基準重現26條修改及二次重跑零差異通過。既有56個重複鍵、2,637個空白值未增加，不要順手刪除。
+- 備份：每批開始前已在倉庫外備份目錄保存Git bundle及基準ZIP；位置見本次聊天，公開文件不放私人路徑。
+
+```sh
+python3 tools/verify_term_calibration.py --game /path/to/.minecraft --manifest tools/term_calibration_2026-10-31-lv.json
+python3 tools/verify_translation.py --base a7fcb74 --reproduce
+git diff --check
+```
+
+上面是本批檢查；新增下一批時要換成自己的baseline與manifest。`--skip-diff`僅用歷史批次，不能略過當批白名單驗證；歷史保留值可能已由後批合法修訂，若舊檢查器報當前值不符須查修訂鏈，不可回滾新值。
+
+## 優先留意的差異
+
+- 第228篇英文首段說Raw Aluminum，本機JSON的8個生鋁是optional，8個鋁錠才是retrieval目標，故中文保留8鋁錠；舊minecraft同ID的8鋁粉不覆蓋。這不是整條鋁產線已驗證。
+- 第215篇`%%`與50%／85%效率、第216篇電路3號、第214篇儲罐機制，以及覆蓋板與研磨機槽位等仍待呼叫點／設定／遊戲查證。
+- 賽特斯石英鋒利24倍有本機TConstruct註冊證據，勿改回4；`docs/verification-steam-bytecode-2026-10-31.json`存有jar／class雜湊與方法位置。
+- Wrought Iron=鍛鐵；Rare Earth／Rarer Earth=稀土／罕土；電路、電路基板與IC2物品名稱不可混用。鋅曜鋼替代配方、地獄熔爐比較、作物移轉與舊譯者註仍待查。
+
+## 執行原則
+
+例行校對、備份、規則同步、驗證與已授權的提交推送成批完成，不需逐項詢問。每次先核實checkout、版本、狀態與遠端；來源優先本機jar／英文JSON／同版本程式。歧義保留原值、列待查；只改確認的路徑與key，保護格式、參數、連結、指令與舊修復。遊戲安裝、重啟、Release屬不同範圍，不從本次校對推導授權。交接寫入後要重讀核對。
+
+---
+
+# 歷史交接紀錄
+
+以下內容為歷史批次；目前狀態以上方最新交接與 `docs/TRANSLATION_PROGRESS.md` 為準。
 
 ## 專案概況
 - GTNH 2.8.4 的繁體中文（台灣）語言包；內容幾乎全是機器簡轉繁（OpenCC `s2twp`）+ AI 翻譯，**逐條校對進度仍很低**。

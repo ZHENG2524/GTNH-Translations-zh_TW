@@ -1,0 +1,1051 @@
+{
+  "date": "2026-10-31",
+  "order": 2,
+  "baseline": "a7fcb74a68de2877b2828a4bfdf7179cd644e30f",
+  "gtnh_version": "2.8.4",
+  "gregtech_version": "5.09.51.482",
+  "jar_sha256": "4ab7ce174a8f6fb7a90d8d11d56056aab2de577c36c6084b37ce890d7b1d67bf",
+  "scope": "第212–241篇：28篇英文標題／正文對照；1篇章節說明及1篇任務缺來源保留；英文與任務目標不同之處另記待查。",
+  "quest_sequence_reviewed": [
+    212,
+    241
+  ],
+  "rows": [
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.name",
+      "before": "§2§l像Bo$$一樣處理資源 #1",
+      "after": "§2§l像Bo$$一樣處理資源 #1",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/HandleResourcesL-53iZp0DzRzidBo4-kUsWGg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lHandle Resources Like a Bo$$ #1",
+      "batch": "quests212-241",
+      "note": "第213篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.desc",
+      "before": "人類工程學的一大壯舉已被你掌握！%n%n這臺機器可以讓你根據機器配方的類型來篩選物品，讓你輕鬆地實現自動化。只需簡單的將任意類型的一臺機器放進GUI中便可建立一個過濾器，舉個例子，一臺研磨機會讓過濾器只接受可以被研磨的物品。也可以用它來建立一個反轉過濾名單（GUI中的一個按鈕）來排除所有可被這臺機器處理的物品。",
+      "after": "人類工程學的一大壯舉已被你掌握！%n%n這臺機器可以讓你根據機器配方的類型來篩選物品，讓你輕鬆地實現自動化。只需簡單的將任意類型的一臺機器放進GUI中便可建立一個過濾器，舉個例子，一臺研磨機會讓過濾器只接受可以被研磨的物品。也可以用它來建立一個反轉過濾名單（GUI中的一個按鈕）來排除所有可被這臺機器處理的物品。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/HandleResourcesL-53iZp0DzRzidBo4-kUsWGg==.json",
+        "field": "english_desc"
+      },
+      "english": "A feat of human engineering at your disposal!\n\nThis machine allows you to filter by machine recipe type and allows you to effortlessly set up automations. To use it simply put a machine of any type into the GUI to create a filter, e.g. a Macerator will allow the machine to only accept items that can be macerated. The same machine can be used to create an inverse filter (a button in the GUI) that will allow you to exclude all items that can be processed by that machine.",
+      "batch": "quests212-241",
+      "note": "第213篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name",
+      "before": "§2§l歡迎來到第1階段，LV",
+      "after": "§2§l歡迎來到第1階段，LV",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/WelcometoTier1LV-AAAAAAAAAAAAAAAAAAAAWA==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lWelcome to Tier 1, LV",
+      "batch": "quests212-241",
+      "note": "第215篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc",
+      "before": "哎呀，你好呢！看來你已經進入了電氣時代。但是別急著扔了你的蒸汽機器，你可能還需要使用它們一段時間。%n%n為了讓自己更輕鬆些，你首先需要專注於製作線材軋機和卷板機……否則在製作那些機器部件時你會很痛苦的。%n%n在此之後，磁化機、組裝機、車床和化學反應釜+流體固化器（用於橡膠）都可以幫助你降低各種東西的造價。%n%nLV機器比對應的蒸汽裝置更節能，因為蒸汽裝置將蒸汽轉為能量的效率是50%%，而LV蒸汽輪機的效率為85%%。 %n%nULV？不存在的。%n%n[note]中文wiki 單方塊電力機器：§1§n[url]https://gtnh.huijiwiki.com/p/94715[/url]§r[/note]",
+      "after": "哎呀，你好呢！看來你已經進入了電氣時代。但是別急著扔了你的蒸汽機器，你可能還需要使用它們一段時間。%n%n為了讓自己更輕鬆些，你首先需要專注於製作線材軋機和卷板機……否則在製作那些機器部件時你會很痛苦的。%n%n在此之後，磁化機、組裝機、車床和化學反應釜+流體固化器（用於橡膠）都可以幫助你降低各種東西的造價。%n%nLV機器比對應的蒸汽裝置更節能，因為蒸汽裝置將蒸汽轉為能量的效率是50%%，而LV蒸汽輪機的效率為85%%。 %n%nULV？不存在的。%n%n[note]中文wiki 單方塊電力機器：§1§n[url]https://gtnh.huijiwiki.com/p/94715[/url]§r[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/WelcometoTier1LV-AAAAAAAAAAAAAAAAAAAAWA==.json",
+        "field": "english_desc"
+      },
+      "english": "Why, hello there! It seems you've made it into the electrical age. Don't be so quick to throw away your steam machines, you'll probably want to keep using them for a while.\n\nTo make your life easier, you'll want to focus on getting a wiremill and bender first... once you suffer through making all the machine components.\n\nAfter that, the polarizer, assembler, lathe, and chemical reactor+fluid solidifier (for rubber) all help make things cheaper.\n\nLV machines are more energy-efficient than their steam counterparts because steam machines convert Steam to Power with 50% efficiency, when the starting LV Steam Turbine has 85% efficiency.\n\nULV doesn't exist.",
+      "batch": "quests212-241",
+      "note": "第215篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.name",
+      "before": "§2§l去屎吧，剪線鉗！",
+      "after": "§2§l去屎吧，剪線鉗！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/DamnYouWireCutte-AAAAAAAAAAAAAAAAAAAAWg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lDamn You, Wire Cutter!",
+      "batch": "quests212-241",
+      "note": "第216篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc",
+      "before": "這應該是你首先要製作的機器之一。有了它，用1個錠就能得到2根導線。你可以把導線再次放入機器加工，每根導線能得到4根細導線；或是切換程式設計電路（3號），直接加工錠得到細導線。",
+      "after": "這應該是你首先要製作的機器之一。有了它，用1個錠就能得到2根導線。你可以把導線再次放入機器加工，每根導線能得到4根細導線；或是切換程式設計電路（3號），直接加工錠得到細導線。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/DamnYouWireCutte-AAAAAAAAAAAAAAAAAAAAWg==.json",
+        "field": "english_desc"
+      },
+      "english": "This should be one of your first machines. You get 2 wires for every ingot. You can run them back through to get 4 fine wires each or get them from ingots by changing the circuit.",
+      "batch": "quests212-241",
+      "note": "第216篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name",
+      "before": "§2§l你會恨死這玩意的 #1",
+      "after": "§2§l你會恨死這玩意的 #1",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAWw==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lYou're Gonna Hate This #1",
+      "batch": "quests212-241",
+      "note": "第217篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc",
+      "before": "第一種你會大量需要的東西。如果你想從箱子或桶中抽取物品，就需要一個。 %n%n它能與物品管道或GT機器完美配合，使用螺絲刀即可調節模式。%n%n空手Shift+右鍵覆蓋板可訪問其GUI。",
+      "after": "第一種你會大量需要的東西。如果你想從箱子或桶中抽取物品，就需要一個。 %n%n它能與物品管道或GT機器完美配合，使用螺絲刀即可調節模式。%n%n空手Shift+右鍵覆蓋板可訪問其GUI。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAWw==.json",
+        "field": "english_desc"
+      },
+      "english": "The first item you'll need a lot of. If you want to pull items out of chests or barrels you'll need one.\n\nIt works well with item pipes or GT machines, adjust with a screwdriver.\n\nYou can access the cover's interface with Shift+RMB.",
+      "batch": "quests212-241",
+      "note": "第217篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.name",
+      "before": "§2§l你會恨死這玩意的 #4",
+      "after": "§2§l你會恨死這玩意的 #4",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAXA==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lYou're Gonna Hate This #4",
+      "batch": "quests212-241",
+      "note": "第218篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.desc",
+      "before": "第四種你會大量需要的東西，而且製作過程也很折磨。在你需要大量製作的物品中，它是最令人頭疼的。%n%n它的工作方式類似於傳送帶，但可以指定物品槽，用螺絲刀可以調整槽位。",
+      "after": "第四種你會大量需要的東西，而且製作過程也很折磨。在你需要大量製作的物品中，它是最令人頭疼的。%n%n它的工作方式類似於傳送帶，但可以指定物品槽，用螺絲刀可以調整槽位。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAXA==.json",
+        "field": "english_desc"
+      },
+      "english": "The fourth item you'll need a lot of, and is also a pain to craft. The most painful item you need to make lots of.\n\nIt works like a conveyor but can work with selected item slots, adjust with a screwdriver.",
+      "batch": "quests212-241",
+      "note": "第218篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name",
+      "before": "§2§l你會恨死這玩意的 #2",
+      "after": "§2§l你會恨死這玩意的 #2",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAXQ==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lYou're Gonna Hate This #2",
+      "batch": "quests212-241",
+      "note": "第219篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc",
+      "before": "第二種你會大量需要的東西。當你想從儲罐中抽出流體時，就需要一個。%n%n可貼在流體管道或GT機器/方塊上。使用螺絲刀可調整流向和紅石行為。把它貼在朝向儲罐或機器的一側。當看向管道或機器時，你可以使用網格將其貼到看不到的其他面上。你也可以對著網格使用螺絲刀，調整相應面的覆蓋板。%n%n使用扳手拆除機器或管道，會保留貼在上面的覆蓋板。當此機器或管道再次放置後，覆蓋板將會在原有方向重新出現，且保留其中設定。透過這種方式，可以事先在開闊位置設定好機器的覆蓋板，然後再放置於比較狹小不便操作的位置。要移除覆蓋板，需要使用撬棍。%n%n該覆蓋板還可進一步升級為流體校準器，以精確控制流體傳輸速度。%n%n空手Shift+右鍵覆蓋板可訪問其GUI。%n%n[note]中文wiki 覆蓋板：§1§n[url]https://gtnh.huijiwiki.com/p/660[/url]§r[/note]",
+      "after": "第二種你會大量需要的東西。當你想從儲罐中抽出流體時，就需要一個。%n%n可貼在流體管道或GT機器/方塊上。使用螺絲刀可調整流向和紅石行為。把它貼在朝向儲罐或機器的一側。當看向管道或機器時，你可以使用網格將其貼到看不到的其他面上。你也可以對著網格使用螺絲刀，調整相應面的覆蓋板。%n%n使用扳手拆除機器或管道，會保留貼在上面的覆蓋板。當此機器或管道再次放置後，覆蓋板將會在原有方向重新出現，且保留其中設定。透過這種方式，可以事先在開闊位置設定好機器的覆蓋板，然後再放置於比較狹小不便操作的位置。要移除覆蓋板，需要使用撬棍。%n%n該覆蓋板還可進一步升級為流體校準器，以精確控制流體傳輸速度。%n%n空手Shift+右鍵覆蓋板可訪問其GUI。%n%n[note]中文wiki 覆蓋板：§1§n[url]https://gtnh.huijiwiki.com/p/660[/url]§r[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAXQ==.json",
+        "field": "english_desc"
+      },
+      "english": "The second item you'll need a lot of. When you want to get fluid out of tanks you'll need one.\n\nAttach it to fluid pipes or GT machines/blocks. Adjust the flow direction and redstone behavior with a screwdriver. Place it on the side facing the tank or machine. When looking at a pipe or machine, you can use the grid to place it on a side already touching another thing. You can use the grid with a screwdriver to adjust a cover on that side as well.\n\nWhen a GT pipe or machine has any cover, including a pump cover, wrenching the machine back into an item keeps the cover on that machine. The cover stays with the machine in the same direction when it is placed down again. This way you can arrange pump and conveyor covers on a machine outside a tight spot and place it there. To remove covers, use the crowbar.\n\nIt can also be further upgraded into a fluid regulator that allows precise control of fluid transfer speed.\n\nYou can access covers interface with Shift+RMB.",
+      "batch": "quests212-241",
+      "note": "第219篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name",
+      "before": "§2§l電力研磨機",
+      "after": "§2§l電力研磨機",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ElectricMacerato-AAAAAAAAAAAAAAAAAAAAXg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lElectric Macerator",
+      "batch": "quests212-241",
+      "note": "第220篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc",
+      "before": "強烈推薦做一個，因為使用電力進行研磨時，煤炭或蒸汽的利用效率會大大提高。%n%n到了HV階段，研磨機會解鎖一個額外槽位，隨後在EV和IV階段又會各增加一個槽位。第二個槽位可以產出更多副產物，非常§o非常§r有用。第三個槽位會產出礦石材質對應的粉。第四個槽位基本僅用於回收物品。%n%n[note]你也可以考慮使用蒸汽多方塊版本的研磨機。[/note]",
+      "after": "強烈推薦做一個，因為使用電力進行研磨時，煤炭或蒸汽的利用效率會大大提高。%n%n到了HV階段，研磨機會解鎖一個額外槽位，隨後在EV和IV階段又會各增加一個槽位。第二個槽位可以產出更多副產物，非常§o非常§r有用。第三個槽位會產出礦石材質對應的粉。第四個槽位基本僅用於回收物品。%n%n[note]你也可以考慮使用蒸汽多方塊版本的研磨機。[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ElectricMacerato-AAAAAAAAAAAAAAAAAAAAXg==.json",
+        "field": "english_desc"
+      },
+      "english": "It is highly recommended to get one of these, as the efficiency in terms of coal/steam used to macerate something is a lot better when using EU.\n\nYou get the first extra slot at HV, then +1 for EV and IV. The 2nd slot is for more byproducts, and is super §osuper§r useful. The 3rd slot is for ore block dusts. The 4th slot is basically only used for recycling stuff.\n\n[note]You can also consider using the steam multiblock instead if you want.[/note]",
+      "batch": "quests212-241",
+      "note": "第220篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name",
+      "before": "§2§l你會恨死這玩意的 #3",
+      "after": "§2§l你會恨死這玩意的 #3",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAXw==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lYou're Gonna Hate This #3",
+      "batch": "quests212-241",
+      "note": "第221篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc",
+      "before": "活塞，但它是……“電動的”。這是你以後會大量合成的第三件東西。",
+      "after": "活塞，但它是……“電動的”。這是你以後會大量合成的第三件東西。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAAAXw==.json",
+        "field": "english_desc"
+      },
+      "english": "A piston, but more... \"electrical\". The third item you're going to craft a lot of in the future.",
+      "batch": "quests212-241",
+      "note": "第221篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name",
+      "before": "§2§l節約紅石",
+      "after": "§2§l節約紅石",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/SavingRedstone-AAAAAAAAAAAAAAAAAAAAYA==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lSaving Redstone",
+      "batch": "quests212-241",
+      "note": "第222篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc",
+      "before": "厭倦使用四個紅石製作一個磁化鐵桿了嗎？好訊息！磁化機不需要紅石，只需要一點點電力。你不必把這臺機器接到持續工作的電源上，它耗電量極低，靠電池供電也能正常執行。",
+      "after": "厭倦使用四個紅石製作一個磁化鐵桿了嗎？好訊息！磁化機不需要紅石，只需要一點點電力。你不必把這臺機器接到持續工作的電源上，它耗電量極低，靠電池供電也能正常執行。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/SavingRedstone-AAAAAAAAAAAAAAAAAAAAYA==.json",
+        "field": "english_desc"
+      },
+      "english": "Tired of using 4 redstone for 1 magnetic iron rod? Well, good news for you! The polarizer doesn't need redstone, just a little bit of power. You don't need to attach this machine to a permanent power source, it runs fine on battery power, since it uses so little.",
+      "batch": "quests212-241",
+      "note": "第222篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name",
+      "before": "§2§l復仇者，集結！",
+      "after": "§2§l復仇者，集結！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/AvengersAssemble-AAAAAAAAAAAAAAAAAAAAYQ==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lAvengers, Assemble!",
+      "batch": "quests212-241",
+      "note": "第223篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc",
+      "before": "電影粉絲的必備之選（注：標題的Assemble既有集結又有組裝的意思）。哦，當然，它也是製作各種物品的關鍵。有不少配方在組裝機中製作所需的材料更少，甚至有些物品只能依靠它來合成，所以請儘快將它製作出來！%n%n你可以使用GUI中的電池槽和另一個額外槽位存放未使用的程式設計電路。%n%n如果你完成了第一章節的銀樹任務，那麼在製造出組裝機後，就可以去暮色森林了。請檢視“魔法學徒”工作列獲取更多資訊。",
+      "after": "電影粉絲的必備之選（注：標題的Assemble既有集結又有組裝的意思）。哦，當然，它也是製作各種物品的關鍵。有不少配方在組裝機中製作所需的材料更少，甚至有些物品只能依靠它來合成，所以請儘快將它製作出來！%n%n你可以使用GUI中的電池槽和另一個額外槽位存放未使用的程式設計電路。%n%n如果你完成了第一章節的銀樹任務，那麼在製造出組裝機後，就可以去暮色森林了。請檢視“魔法學徒”任務章節獲取更多資訊。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/AvengersAssemble-AAAAAAAAAAAAAAAAAAAAYQ==.json",
+        "field": "english_desc"
+      },
+      "english": "An absolute must have for fans of the movie. Oh, and to make all the things, of course. There are a number of recipes that take fewer materials to make in the assembler, or can only be made with it, so make it ASAP!\n\nYou can use the battery slot and the other extra slot in the GUI to store unused configuration circuits.\n\nIf you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.",
+      "batch": "quests212-241",
+      "note": "第223篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc",
+      "before": "電影粉絲絕對必須擁有它.哦,當然要用來做所有的東西. 有非常多的配方,用組裝機生產會比手搓造價低得多,還有的必須使用組裝機,所以儘快製造一臺吧!%n%n你可以使用GUI中的電池插槽和其他額外的插槽來儲存未使用的程式設計電路.%n%n如果你完成了第一章節的銀樹任務,在製造出組裝機後,就可以去暮色森林了. 請檢視\"魔法學徒\"工作列獲取更多資訊.",
+      "after": "電影粉絲絕對必須擁有它.哦,當然要用來做所有的東西. 有非常多的配方,用組裝機生產會比手搓造價低得多,還有的必須使用組裝機,所以儘快製造一臺吧!%n%n你可以使用GUI中的電池插槽和其他額外的插槽來儲存未使用的程式設計電路.%n%n如果你完成了第一章節的銀樹任務,在製造出組裝機後,就可以去暮色森林了. 請檢視\"魔法學徒\"任務章節獲取更多資訊.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/AvengersAssemble-AAAAAAAAAAAAAAAAAAAAYQ==.json",
+        "field": "english_desc"
+      },
+      "english": "An absolute must have for fans of the movie. Oh, and to make all the things, of course. There are a number of recipes that take fewer materials to make in the assembler, or can only be made with it, so make it ASAP!\n\nYou can use the battery slot and the other extra slot in the GUI to store unused configuration circuits.\n\nIf you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第223篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest97.desc",
+      "before": "電影粉絲絕對必須擁有它.哦,當然要用來做所有的東西. 有非常多的配方,用組裝機生產會比手搓造價低得多,還有的必須使用組裝機,所以儘快製造一臺吧!%n%n§3提示:你可以使用GUI中的電池插槽和其他額外的插槽來儲存未使用的程式設計電路.%n%n如果你完成了第一章節的銀樹任務,在製造出組裝機後,就可以去暮色森林了. 請檢視\"魔法學徒\"工作列獲取更多資訊.",
+      "after": "電影粉絲絕對必須擁有它.哦,當然要用來做所有的東西. 有非常多的配方,用組裝機生產會比手搓造價低得多,還有的必須使用組裝機,所以儘快製造一臺吧!%n%n§3提示:你可以使用GUI中的電池插槽和其他額外的插槽來儲存未使用的程式設計電路.%n%n如果你完成了第一章節的銀樹任務,在製造出組裝機後,就可以去暮色森林了. 請檢視\"魔法學徒\"任務章節獲取更多資訊.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/AvengersAssemble-AAAAAAAAAAAAAAAAAAAAYQ==.json",
+        "field": "english_desc"
+      },
+      "english": "An absolute must have for fans of the movie. Oh, and to make all the things, of course. There are a number of recipes that take fewer materials to make in the assembler, or can only be made with it, so make it ASAP!\n\nYou can use the battery slot and the other extra slot in the GUI to store unused configuration circuits.\n\nIf you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第223篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name",
+      "before": "§2§l再也不用銼刀了",
+      "after": "§2§l再也不用銼刀了",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/NoMoreFiling-AAAAAAAAAAAAAAAAAAAAYg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lNo More Filing",
+      "batch": "quests212-241",
+      "note": "第224篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc",
+      "before": "為什麼要浪費一整塊錠，用一把會消耗耐久度且使用更多材料的工具，只為了磨出一根金屬桿？ 有了這個小裝置，你對桿的所有需求都能得到滿足（至少目前是這樣，MV壓模機會是更進階的桿生產手段）。",
+      "after": "為什麼要浪費一整塊錠，用一把會消耗耐久度且使用更多材料的工具，只為了磨出一根金屬桿？ 有了這個小裝置，你對桿的所有需求都能得到滿足（至少目前是這樣，MV壓模機會是更進階的桿生產手段）。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/NoMoreFiling-AAAAAAAAAAAAAAAAAAAAYg==.json",
+        "field": "english_desc"
+      },
+      "english": "Why waste a full ingot to make a rod by using a tool which loses durability and takes even MORE ingots? With this little device, all your rod-needs shall be fulfilled (for now at least, the MV Extruder is the next step for rods).",
+      "batch": "quests212-241",
+      "note": "第224篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name",
+      "before": "§2§l衝壓萬物",
+      "after": "§2§l衝壓萬物",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/PressAlltheThing-AAAAAAAAAAAAAAAAAAAAZA==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lPress All the Things",
+      "batch": "quests212-241",
+      "note": "第225篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc",
+      "before": "使用基礎衝壓機床，你可以製作各種食物、玻璃箭頭和一些紅石計劃（Project-Red）部件。%n%n在MV/HV階段，你可以製造轉子、各種AE元件，還能複製已有的模具和模頭。",
+      "after": "使用基礎衝壓機床，你可以製作各種食物、玻璃箭頭和一些紅石計劃（Project-Red）部件。%n%n在MV/HV階段，你可以製造轉子、各種AE元件，還能複製已有的模具和模頭。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/PressAlltheThing-AAAAAAAAAAAAAAAAAAAAZA==.json",
+        "field": "english_desc"
+      },
+      "english": "With the basic forming press you can make different food items, glass arrows and some Project Red components.\n\nAt MV/HV stage you can make rotors, various AE components and make copies of your molds and extruder shapes.",
+      "batch": "quests212-241",
+      "note": "第225篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name",
+      "before": "§2§l雷神之錘！！！",
+      "after": "§2§l雷神之錘！！！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Mjolnir-AAAAAAAAAAAAAAAAAAAAZQ==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lMjolnir!!!",
+      "batch": "quests212-241",
+      "note": "第226篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc",
+      "before": "非必須品，但比蒸汽鍛造錘快得多，且支援自動化。如果你覺得洗礦太慢，使用這臺鍛造錘吧。%n%n[note]你也可以考慮使用蒸汽多方塊版本的鍛造錘。[/note]",
+      "after": "非必需品，但比蒸汽鍛造錘快得多，且支援自動化。如果你覺得洗礦太慢，使用這臺鍛造錘吧。%n%n[note]你也可以考慮使用蒸汽多方塊版本的鍛造錘。[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Mjolnir-AAAAAAAAAAAAAAAAAAAAZQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Not really required, but it is a lot faster than the steam one and it can be automated. If you feel like ore washing is too slow, use this hammer.\n\n[note]You can also consider using the steam multiblock instead if you want.[/note]",
+      "batch": "quests212-241",
+      "note": "第226篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc",
+      "before": "非必須品,但比蒸汽鍛造錘快得多,並可以自動化.如果你覺得洗礦太慢,使用這臺鍛造錘吧.%n%n[note]如果你想要的話,也可以考慮蒸汽多方塊機器.[/note]",
+      "after": "非必需品,但比蒸汽鍛造錘快得多,並可以自動化.如果你覺得洗礦太慢,使用這臺鍛造錘吧.%n%n[note]如果你想要的話,也可以考慮蒸汽多方塊機器.[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Mjolnir-AAAAAAAAAAAAAAAAAAAAZQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Not really required, but it is a lot faster than the steam one and it can be automated. If you feel like ore washing is too slow, use this hammer.\n\n[note]You can also consider using the steam multiblock instead if you want.[/note]",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第226篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest101.desc",
+      "before": "非必須品,但比蒸汽鍛造錘快得多,並可以自動化.如果你覺得洗礦太慢,使用這臺鍛造錘吧.",
+      "after": "非必需品,但比蒸汽鍛造錘快得多,並可以自動化.如果你覺得洗礦太慢,使用這臺鍛造錘吧.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Mjolnir-AAAAAAAAAAAAAAAAAAAAZQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Not really required, but it is a lot faster than the steam one and it can be automated. If you feel like ore washing is too slow, use this hammer.\n\n[note]You can also consider using the steam multiblock instead if you want.[/note]",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第226篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name",
+      "before": "§2§l切割萬物",
+      "after": "§2§l切割萬物",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/CuttingThingsApa-AAAAAAAAAAAAAAAAAAAAZg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lCutting Things Apart",
+      "batch": "quests212-241",
+      "note": "第227篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc",
+      "before": "絕對必備的機器。它能以最高效率，將桿切成螺栓，板切成外殼，原木切成木板。完全值回票價！%n%n可以使用水、蒸餾水或潤滑油來輔助切割。如果條件允許，推薦使用潤滑油，這是最佳選擇。",
+      "after": "絕對必備的機器。它能以最高效率，將桿切成螺栓，板切成外殼，原木切成木板。完全值回票價！%n%n可以使用水、蒸餾水或潤滑油來輔助切割。如果條件允許，推薦使用潤滑油，這是最佳選擇。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/CuttingThingsApa-AAAAAAAAAAAAAAAAAAAAZg==.json",
+        "field": "english_desc"
+      },
+      "english": "An absolutely mandatory machine to have. It will cut rods into bolts, plates into casings, logs into planks, and all of that will be done with the highest possible efficiency. Totally worth it!\n\nYou can use water, distilled water, or lubricant to run it. Use lubricant if possible, as it's the best.",
+      "batch": "quests212-241",
+      "note": "第227篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name",
+      "before": "§2§l準備好，第2階段，MV",
+      "after": "§2§l準備好，第2階段，MV",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/GettingReadyforT-AAAAAAAAAAAAAAAAAAAAZw==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lGetting Ready for Tier 2, MV",
+      "batch": "quests212-241",
+      "note": "第228篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc",
+      "before": "想要進一步發展，你需要生鋁，非常多的生鋁。但現在只需要8個鋁錠就可以完成這個任務。%n%n你的第一個選擇是氧化鋁粉。黏土或者從峽谷生物群系找到的陶瓦可能是最好的氧化鋁來源，但那需要MV級機器，所以在攢夠第一輪氧化鋁粉之前，你需要尋找替代方案。目前，你可以透過離心多種來自礦石的含雜粉，或是透過在工業高爐中把紅寶石、藍寶石或綠色藍寶石與碳粉一起熔鍊來獲得它。請檢視多方塊工作列內的工業高爐任務。%n%n你還需要用工業高爐將氧化鋁轉化為鋁錠。為了這一步你需要冰晶石，去暮色森林找個冰晶石礦脈吧。相關任務是魔法學徒頁面中的“鉛、方鉛、銀和冰晶石”。%n%n你的第二個選擇是使用鋁粉。但是你還不能直接冶煉鋁粉，即便有工業高爐也不行，因為熔鍊鋁粉需要更高的爐溫。現在，你要先用匠魂的冶煉爐或者GT的壓縮機將粉處理成生鋁，然後將其在工業高爐中熔鍊成錠。%n%n等你把這些都完成了之後，這個階段也就差不多了，不過你還需要優質電子電路（MV）才能解鎖下一階段。%n%n不要忘了看看“擺脫死亡”和“遊歷四方”工作列裡解鎖的新任務。",
+      "after": "想要進一步發展，你需要生鋁，非常多的生鋁。但現在只需要8個鋁錠就可以完成這個任務。%n%n你的第一個選擇是氧化鋁粉。黏土或者從峽谷生物群系找到的陶瓦可能是最好的氧化鋁來源，但那需要MV級機器，所以在攢夠第一輪氧化鋁粉之前，你需要尋找替代方案。目前，你可以透過離心多種來自礦石的含雜粉，或是透過在工業高爐中把紅寶石、藍寶石或綠色藍寶石與碳粉一起熔鍊來獲得它。請檢視多方塊任務章節內的工業高爐任務。%n%n你還需要用工業高爐將氧化鋁轉化為鋁錠。為了這一步你需要冰晶石，去暮色森林找個冰晶石礦脈吧。相關任務是魔法學徒頁面中的“鉛、方鉛、銀和冰晶石”。%n%n你的第二個選擇是使用鋁粉。但是你還不能直接冶煉鋁粉，即便有工業高爐也不行，因為熔鍊鋁粉需要更高的爐溫。現在，你要先用匠魂的冶煉爐或者GT的壓縮機將粉處理成生鋁，然後將其在工業高爐中熔鍊成錠。%n%n等你把這些都完成了之後，這個階段也就差不多了，不過你還需要優質電子電路（MV）才能解鎖下一階段。%n%n不要忘了看看“擺脫死亡”和“遊歷四方”任務章節裡解鎖的新任務。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/GettingReadyforT-AAAAAAAAAAAAAAAAAAAAZw==.json",
+        "field": "english_desc"
+      },
+      "english": "In order to proceed forward, you need to get Raw Aluminum. A lot of it. But for now, 8 is enough to complete this quest.\n\nYour first option is alumina dust. Probably the best source for alumina is clay or hardened clay from canyons, however you need an MV machine for that, so you need to find an alternative until you have enough dust for your initial setup. For now, you can get it by centrifuging various impure piles from your ores or by smelting ruby, sapphire, or green sapphire in an EBF with carbon. Check the EBF quest in the Multiblock Goals.\n\nYou will also need an EBF to turn the alumina into aluminium ingots. For that you need cryolite. Go visit the Twilight Forest for that and find a Cryolite vein. The related quest is \"Lead, Galena, Silver and Cryolite\" is the Novice Thaumaturgy tab.\n\nYour second option is to use aluminium dust. However, you can not smelt that directly yet, even if you have an EBF. That will require higher heat levels. For now, you will have to either use a Tinker's Smeltery or a GT Compressor to turn the dust into raw aluminium which you can then smelt into ingots in the EBF.\n\nBy the time you've completed this, you'll probably be done with most of the tab, but you'll still need Good Circuits (MV) to actually open up the next tier if you haven't done that yet.\n\nYou might also want to check the Getting Around and Without Dying tabs for new unlocks.",
+      "batch": "quests212-241",
+      "note": "第228篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc",
+      "before": "想要進一步發展，你需要生鋁，非常多的生鋁。但現在只需要8個鋁錠就可以完成這個任務。%n%n你的第一個選擇是氧化鋁粉。黏土或者從峽谷生物群系找到的硬化黏土可能是最好的氧化鋁來源，但那需要MV級機器，所以在攢夠第一輪氧化鋁粉之前，你需要尋找替代方案。目前,你可以透過離心多種來自礦石的含雜粉，或是透過在工業高爐中把紅寶石、藍寶石或綠色藍寶石與碳粉一起熔鍊來獲得它。請檢視多方塊工作列內的工業高爐任務.%n%n你還需要用工業高爐將氧化鋁轉化為鋁錠。為了這一步你需要冰晶石，去暮色森林找個冰晶石礦脈吧。相關任務是魔法學徒頁面中的“鉛、方鉛、銀和冰晶石”。%n%n你的第二個選擇是使用鋁粉。但是你還不能直接冶煉鋁粉，即便有工業高爐也不行，因為熔鍊鋁粉需要更高的爐溫。現在，你要先用匠魂的冶煉爐或者GT的壓縮機將粉處理成生鋁，然後將其在工業高爐中熔鍊成錠。%n%n等你把這些都完成了之後，這個階段也就差不多了，不過你還需要優質電子電路（MV）才能解鎖下一階段。%n%n不要忘了看看“擺脫死亡”和“遊歷四方”工作列裡解鎖的新任務。",
+      "after": "想要進一步發展，你需要生鋁，非常多的生鋁。但現在只需要8個鋁錠就可以完成這個任務。%n%n你的第一個選擇是氧化鋁粉。黏土或者從峽谷生物群系找到的硬化黏土可能是最好的氧化鋁來源，但那需要MV級機器，所以在攢夠第一輪氧化鋁粉之前，你需要尋找替代方案。目前,你可以透過離心多種來自礦石的含雜粉，或是透過在工業高爐中把紅寶石、藍寶石或綠色藍寶石與碳粉一起熔鍊來獲得它。請檢視多方塊任務章節內的工業高爐任務.%n%n你還需要用工業高爐將氧化鋁轉化為鋁錠。為了這一步你需要冰晶石，去暮色森林找個冰晶石礦脈吧。相關任務是魔法學徒頁面中的“鉛、方鉛、銀和冰晶石”。%n%n你的第二個選擇是使用鋁粉。但是你還不能直接冶煉鋁粉，即便有工業高爐也不行，因為熔鍊鋁粉需要更高的爐溫。現在，你要先用匠魂的冶煉爐或者GT的壓縮機將粉處理成生鋁，然後將其在工業高爐中熔鍊成錠。%n%n等你把這些都完成了之後，這個階段也就差不多了，不過你還需要優質電子電路（MV）才能解鎖下一階段。%n%n不要忘了看看“擺脫死亡”和“遊歷四方”任務章節裡解鎖的新任務。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/GettingReadyforT-AAAAAAAAAAAAAAAAAAAAZw==.json",
+        "field": "english_desc"
+      },
+      "english": "In order to proceed forward, you need to get Raw Aluminum. A lot of it. But for now, 8 is enough to complete this quest.\n\nYour first option is alumina dust. Probably the best source for alumina is clay or hardened clay from canyons, however you need an MV machine for that, so you need to find an alternative until you have enough dust for your initial setup. For now, you can get it by centrifuging various impure piles from your ores or by smelting ruby, sapphire, or green sapphire in an EBF with carbon. Check the EBF quest in the Multiblock Goals.\n\nYou will also need an EBF to turn the alumina into aluminium ingots. For that you need cryolite. Go visit the Twilight Forest for that and find a Cryolite vein. The related quest is \"Lead, Galena, Silver and Cryolite\" is the Novice Thaumaturgy tab.\n\nYour second option is to use aluminium dust. However, you can not smelt that directly yet, even if you have an EBF. That will require higher heat levels. For now, you will have to either use a Tinker's Smeltery or a GT Compressor to turn the dust into raw aluminium which you can then smelt into ingots in the EBF.\n\nBy the time you've completed this, you'll probably be done with most of the tab, but you'll still need Good Circuits (MV) to actually open up the next tier if you haven't done that yet.\n\nYou might also want to check the Getting Around and Without Dying tabs for new unlocks.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第228篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest103.desc",
+      "before": "想要進一步發展,你需要鋁,非常多的鋁.但現在只需要8個鋁粉就可以完成這個任務.%n%n你的第一個選擇是氧化鋁粉.粘土可能也是最好的氧化鋁來源.但那需要MV級機器,在攢夠鋁粉,完成準備工作之前,你需要尋找替代方案.目前,你能透過離心處理礦石獲得的多種含雜粉;或是透過在工業高爐中用碳粉配合熔鍊紅寶石、藍寶石或綠色藍寶石,都可以獲得它.請檢視多方塊工作列內的工業高爐(EBF)任務.%n%n你還需要用工業高爐將氧化鋁轉化為鋁錠.為了這一步你需要冰晶石,去暮色森林找它吧,順便再找個方鉛礦脈.%n%n你的第二個選擇是使用鋁粉.但是你還不能直接冶煉鋁粉,即便擁有工業高爐也不行.這需要更高的爐溫. 現在,你要麼用匠魂的冶煉廠,要麼用GT的壓縮機將粉處理成生鋁,然後將其在工業高爐中熔鍊成錠. 請檢視第0階段的任務,尋找幾種獲取鋁粉的選擇.%n%n等你把這些都完成了之後,這個階段也就差不多了,不過你還需要不錯的電路板(MV)才能解鎖下一階段.%n%n§3不要忘了看看\"擺脫死亡,遊歷四方\"工作列裡解鎖的新任務.%n注意:如果你在更新到2.1.1.4之前探索過暮色森林,在已生成區塊中是無法找到冰晶石的,需要探索新的區塊.%n請在\"魔法學徒\"工作列中檢視\"鉛、方鉛、銀和冰晶石\"任務.",
+      "after": "想要進一步發展,你需要鋁,非常多的鋁.但現在只需要8個鋁粉就可以完成這個任務.%n%n你的第一個選擇是氧化鋁粉.粘土可能也是最好的氧化鋁來源.但那需要MV級機器,在攢夠鋁粉,完成準備工作之前,你需要尋找替代方案.目前,你能透過離心處理礦石獲得的多種含雜粉;或是透過在工業高爐中用碳粉配合熔鍊紅寶石、藍寶石或綠色藍寶石,都可以獲得它.請檢視多方塊任務章節內的工業高爐(EBF)任務.%n%n你還需要用工業高爐將氧化鋁轉化為鋁錠.為了這一步你需要冰晶石,去暮色森林找它吧,順便再找個方鉛礦脈.%n%n你的第二個選擇是使用鋁粉.但是你還不能直接冶煉鋁粉,即便擁有工業高爐也不行.這需要更高的爐溫. 現在,你要麼用匠魂的冶煉爐,要麼用GT的壓縮機將粉處理成生鋁,然後將其在工業高爐中熔鍊成錠. 請檢視第0階段的任務,尋找幾種獲取鋁粉的選擇.%n%n等你把這些都完成了之後,這個階段也就差不多了,不過你還需要不錯的電路板(MV)才能解鎖下一階段.%n%n§3不要忘了看看\"擺脫死亡,遊歷四方\"任務章節裡解鎖的新任務.%n注意:如果你在更新到2.1.1.4之前探索過暮色森林,在已生成區塊中是無法找到冰晶石的,需要探索新的區塊.%n請在\"魔法學徒\"任務章節中檢視\"鉛、方鉛、銀和冰晶石\"任務.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/GettingReadyforT-AAAAAAAAAAAAAAAAAAAAZw==.json",
+        "field": "english_desc"
+      },
+      "english": "In order to proceed forward, you need to get Raw Aluminum. A lot of it. But for now, 8 is enough to complete this quest.\n\nYour first option is alumina dust. Probably the best source for alumina is clay or hardened clay from canyons, however you need an MV machine for that, so you need to find an alternative until you have enough dust for your initial setup. For now, you can get it by centrifuging various impure piles from your ores or by smelting ruby, sapphire, or green sapphire in an EBF with carbon. Check the EBF quest in the Multiblock Goals.\n\nYou will also need an EBF to turn the alumina into aluminium ingots. For that you need cryolite. Go visit the Twilight Forest for that and find a Cryolite vein. The related quest is \"Lead, Galena, Silver and Cryolite\" is the Novice Thaumaturgy tab.\n\nYour second option is to use aluminium dust. However, you can not smelt that directly yet, even if you have an EBF. That will require higher heat levels. For now, you will have to either use a Tinker's Smeltery or a GT Compressor to turn the dust into raw aluminium which you can then smelt into ingots in the EBF.\n\nBy the time you've completed this, you'll probably be done with most of the tab, but you'll still need Good Circuits (MV) to actually open up the next tier if you haven't done that yet.\n\nYou might also want to check the Getting Around and Without Dying tabs for new unlocks.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第228篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name",
+      "before": "§2§l你的魔法之路",
+      "after": "§2§l你的魔法之路",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YourMagicProgres-AAAAAAAAAAAAAAAAAAAAaA==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lYour Magic Progression",
+      "batch": "quests212-241",
+      "note": "第229篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc",
+      "before": "既然你已經能夠生產鋁，就可以開始深入研究魔法了。如果你還沒解鎖基礎神秘學，試著去找找銀樹樹苗跟宏偉之木樹苗。%n%n你還可以使用硬幣購買這些樹苗。如果你仍未找到的話，不妨去看看吧！",
+      "after": "既然你已經能夠生產鋁，就可以開始深入研究魔法了。如果你還沒解鎖基礎神秘學，試著去找找銀樹樹苗跟宏偉之木樹苗。%n%n你還可以使用硬幣購買這些樹苗。如果你仍未找到的話，不妨去看看吧！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YourMagicProgres-AAAAAAAAAAAAAAAAAAAAaA==.json",
+        "field": "english_desc"
+      },
+      "english": "Now that you're able to produce Aluminium, you may dig into magic. If you haven't unlocked basic thaumaturgy, try to find a Silverwood and a Greatwood sapling.\n\nThere is a coin quest that lets you purchase these saplings. If you haven't found any yet, go check it out!",
+      "batch": "quests212-241",
+      "note": "第229篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name",
+      "before": "§2§l靠卷板節約金屬",
+      "after": "§2§l靠卷板節約金屬",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/SavingMetalWithB-AAAAAAAAAAAAAAAAAAAAaQ==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lSaving Metal With Bending",
+      "batch": "quests212-241",
+      "note": "第230篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc",
+      "before": "不同於合金爐的3錠出2板，卷板機可以1:1地生產各種金屬板。這可以節約大量的金屬，所以儘快製造一臺吧。%n%n還有，如果需要製造箔的話，只需將板再次放入加工即可。此外，卷板機還支援其他的程式設計電路，不過那些可以留到以後再摸索。",
+      "after": "不同於原本3錠出2板的比例，卷板機可以1:1地生產各種金屬板。這可以節約大量的金屬，所以儘快製造一臺吧。%n%n還有，如果需要製造箔的話，只需將板再次放入加工即可。此外，卷板機還支援其他的程式設計電路，不過那些可以留到以後再摸索。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/SavingMetalWithB-AAAAAAAAAAAAAAAAAAAAaQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Instead of a 3:2 ratio of ingots to plates, this machine allows for 1:1. This saves an enormous amount of metal, so make it ASAP.\n\nBTW if you want foils, just run the plate back through. There are other circuit modes, but you can discover them later.",
+      "batch": "quests212-241",
+      "note": "第230篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc",
+      "before": "不同於合金爐的3錠出2板,卷板機可以1:1地生產各種金屬板. 這可以節約大量的金屬,所以儘快製造一臺吧.%n%n還有,如果需要製造箔的話,只需將板再次透過卷板機即可. 此外,不同電路板還代表了不同模式,稍後你就會發現了.",
+      "after": "不同於原本3錠出2板的比例,卷板機可以1:1地生產各種金屬板. 這可以節約大量的金屬,所以儘快製造一臺吧.%n%n還有,如果需要製造箔的話,只需將板再次透過卷板機即可. 此外,不同的程式設計電路設定代表不同模式,稍後你就會發現了.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/SavingMetalWithB-AAAAAAAAAAAAAAAAAAAAaQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Instead of a 3:2 ratio of ingots to plates, this machine allows for 1:1. This saves an enormous amount of metal, so make it ASAP.\n\nBTW if you want foils, just run the plate back through. There are other circuit modes, but you can discover them later.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第230篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest105.desc",
+      "before": "不同於合金爐的3錠出2板,卷板機可以1:1地生產各種金屬板. 這可以節約大量的金屬,所以儘快製造一臺吧.%n%n還有,如果需要製造箔的話,只需將板再次透過卷板機即可. 此外,不同電路板還代表了不同模式,稍後你就會發現了.",
+      "after": "不同於原本3錠出2板的比例,卷板機可以1:1地生產各種金屬板. 這可以節約大量的金屬,所以儘快製造一臺吧.%n%n還有,如果需要製造箔的話,只需將板再次透過卷板機即可. 此外,不同的程式設計電路設定代表不同模式,稍後你就會發現了.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/SavingMetalWithB-AAAAAAAAAAAAAAAAAAAAaQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Instead of a 3:2 ratio of ingots to plates, this machine allows for 1:1. This saves an enormous amount of metal, so make it ASAP.\n\nBTW if you want foils, just run the plate back through. There are other circuit modes, but you can discover them later.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第230篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name",
+      "before": "§2§l基礎運輸管道",
+      "after": "§2§l基礎運輸管道",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicTransportPi-AAAAAAAAAAAAAAAAAAAAcQ==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lBasic Transport Pipe",
+      "batch": "quests212-241",
+      "note": "第231篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.desc",
+      "before": "這些管道非常簡單，僅靠自身無法發揮任何作用。但與傳輸節點結合使用後，你很快就會體會到它們的強大之處。",
+      "after": "這些管道非常簡單，僅靠自身無法發揮任何作用。但與傳輸節點結合使用後，你很快就會體會到它們的強大之處。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicTransportPi-AAAAAAAAAAAAAAAAAAAAcQ==.json",
+        "field": "english_desc"
+      },
+      "english": "These pipes are rather simple and won't do anything on their own. But in combination with transfer nodes, you'll soon find out how great they are.",
+      "batch": "quests212-241",
+      "note": "第231篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name",
+      "before": "§2§l基礎運輸：物品",
+      "after": "§2§l基礎運輸：物品",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicTransportIt-AAAAAAAAAAAAAAAAAAAAcg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lBasic Transport: Items",
+      "batch": "quests212-241",
+      "note": "第232篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc",
+      "before": "為了傳輸物品，你需要所謂的“節點”。有些節點用於將物品推入管道系統，之後你還會獲得能夠從連線的容器中抽取物品的節點。",
+      "after": "為了傳輸物品，你需要所謂的“節點”。有些節點用於將物品推入管道系統，之後你還會獲得能夠從連線的容器中抽取物品的節點。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicTransportIt-AAAAAAAAAAAAAAAAAAAAcg==.json",
+        "field": "english_desc"
+      },
+      "english": "In order to transfer items, you need so called \"nodes\". There are some for pushing items into a pipe system, and later you'll have access to nodes that are able to pull items from attached inventories.",
+      "batch": "quests212-241",
+      "note": "第232篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.name",
+      "before": "§2§l基礎運輸：流體",
+      "after": "§2§l基礎運輸：流體",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicTransportFl-AAAAAAAAAAAAAAAAAAAAcw==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lBasic Transport: Fluids",
+      "batch": "quests212-241",
+      "note": "第233篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.desc",
+      "before": "就像物品節點一樣，液體節點傳輸……液體。但最棒的是：它們都能共用同一種傳輸管道！",
+      "after": "就像物品節點一樣，液體節點傳輸……液體。但最棒的是：它們都能共用同一種傳輸管道！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicTransportFl-AAAAAAAAAAAAAAAAAAAAcw==.json",
+        "field": "english_desc"
+      },
+      "english": "Just like item nodes, liquid nodes transfer... liquids. But probably the best thing: They can all utilize the same transfer pipe!",
+      "batch": "quests212-241",
+      "note": "第233篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.name",
+      "before": "§2§l合金爐",
+      "after": "§2§l合金爐",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/AlloySmelter-AAAAAAAAAAAAAAAAAAAAdA==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lAlloy Smelter",
+      "batch": "quests212-241",
+      "note": "第234篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc",
+      "before": "將你的蒸汽合金爐升級到LV，或者考慮換用大型蒸汽合金爐。",
+      "after": "將你的蒸汽合金爐升級到LV，或者考慮換用大型蒸汽合金爐。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/AlloySmelter-AAAAAAAAAAAAAAAAAAAAdA==.json",
+        "field": "english_desc"
+      },
+      "english": "Upgrade your steam alloy smelter to an LV one.",
+      "batch": "quests212-241",
+      "note": "第234篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name",
+      "before": "§2§l目標是寶〇夢大師",
+      "after": "§2§l目標是寶〇夢大師",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/GottaCatchemAll-AAAAAAAAAAAAAAAAAAAAdQ==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lGotta Catch 'em All",
+      "batch": "quests212-241",
+      "note": "第235篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc",
+      "before": "當然，你可以用小麥/土豆/胡蘿蔔，拐騙動物跟隨你回到基地，但這比較麻煩。黃金套索才是轉移動物的正確姿勢。%n%n你可以用黃金套索捕捉§o任何§r被動型生物，比如把村民帶回基地，或是帶著一匹馬過河。",
+      "after": "當然，你可以用小麥/馬鈴薯/胡蘿蔔，拐騙動物跟隨你回到基地，但這比較麻煩。黃金套索才是轉移動物的正確姿勢。%n%n你可以用黃金套索捕捉§o任何§r被動型生物，比如把村民帶回基地，或是帶著一匹馬過河。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/GottaCatchemAll-AAAAAAAAAAAAAAAAAAAAdQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Sure, you can use wheat/potatoes/carrots to make animals follow you back to your base, but that can be tedious. A golden lasso is a proper solution for animal transportation.\n\nYou can use it for §oany§r passive mob, like for getting villagers back to base, or a horse across a river.",
+      "batch": "quests212-241",
+      "note": "第235篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc",
+      "before": "當然,你可以用小麥/土豆/胡蘿蔔,拐騙動物跟隨你回到你的基地,但那樣太無聊了.黃金套索才是轉移動物的正確姿勢.%n%n你可以對§o任意§r被動型生物使用黃金套索,比如把村民帶回基地,或是帶著一匹馬過河.",
+      "after": "當然,你可以用小麥/馬鈴薯/胡蘿蔔,拐騙動物跟隨你回到你的基地,但那樣太無聊了.黃金套索才是轉移動物的正確姿勢.%n%n你可以對§o任意§r被動型生物使用黃金套索,比如把村民帶回基地,或是帶著一匹馬過河.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/GottaCatchemAll-AAAAAAAAAAAAAAAAAAAAdQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Sure, you can use wheat/potatoes/carrots to make animals follow you back to your base, but that can be tedious. A golden lasso is a proper solution for animal transportation.\n\nYou can use it for §oany§r passive mob, like for getting villagers back to base, or a horse across a river.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第235篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest117.desc",
+      "before": "當然,你可以用小麥/土豆/胡蘿蔔,拐騙動物跟隨你回到你的基地,但那樣太無聊了.黃金套索才是轉移動物的正確姿勢.%n%n你可以對§o任意§r被動型生物使用黃金套索,比如把村民帶回基地,或是帶著一匹馬過河.",
+      "after": "當然,你可以用小麥/馬鈴薯/胡蘿蔔,拐騙動物跟隨你回到你的基地,但那樣太無聊了.黃金套索才是轉移動物的正確姿勢.%n%n你可以對§o任意§r被動型生物使用黃金套索,比如把村民帶回基地,或是帶著一匹馬過河.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/GottaCatchemAll-AAAAAAAAAAAAAAAAAAAAdQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Sure, you can use wheat/potatoes/carrots to make animals follow you back to your base, but that can be tedious. A golden lasso is a proper solution for animal transportation.\n\nYou can use it for §oany§r passive mob, like for getting villagers back to base, or a horse across a river.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第235篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name",
+      "before": "§2§l基礎怪物預防",
+      "after": "§2§l基礎怪物預防",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicMonsterPrev-AAAAAAAAAAAAAAAAAAAAdg==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lBasic Monster Prevention",
+      "batch": "quests212-241",
+      "note": "第236篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc",
+      "before": "在你基地附近生成的怪物太煩人了，尤其是碰巧刷出火焰苦力怕的時候。幸運的是，有一種方法可以徹底阻止它們生成。",
+      "after": "在你基地附近生成的怪物太煩人了，尤其是碰巧刷出精英苦力怕的時候。幸運的是，有一種方法可以徹底阻止它們生成。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicMonsterPrev-AAAAAAAAAAAAAAAAAAAAdg==.json",
+        "field": "english_desc"
+      },
+      "english": "Monsters spawning in or near your base can be annoying. Especially if you happen to get infernal creepers. Luckily, there's a good way to prevent them from spawning at all.",
+      "batch": "quests212-241",
+      "note": "第236篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc",
+      "before": "在你基地附近生成的怪物太煩人了,特別是當你碰到火焰苦力怕的時候.幸運的是,有一種方法可以阻止它們生成.",
+      "after": "在你基地附近生成的怪物太煩人了,特別是當你碰到精英苦力怕的時候.幸運的是,有一種方法可以阻止它們生成.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicMonsterPrev-AAAAAAAAAAAAAAAAAAAAdg==.json",
+        "field": "english_desc"
+      },
+      "english": "Monsters spawning in or near your base can be annoying. Especially if you happen to get infernal creepers. Luckily, there's a good way to prevent them from spawning at all.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第236篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest118.desc",
+      "before": "在你基地附近生成的怪物太煩人了,特別是當你碰到火焰爬行者的時候.幸運的是,有一種方法可以阻止它們生成.",
+      "after": "在你基地附近生成的怪物太煩人了,特別是當你碰到精英苦力怕的時候.幸運的是,有一種方法可以阻止它們生成.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicMonsterPrev-AAAAAAAAAAAAAAAAAAAAdg==.json",
+        "field": "english_desc"
+      },
+      "english": "Monsters spawning in or near your base can be annoying. Especially if you happen to get infernal creepers. Luckily, there's a good way to prevent them from spawning at all.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第236篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.name",
+      "before": "§2§l橡膠化學制程",
+      "after": "§2§l橡膠化學製程",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ChemicalRubberPr-AAAAAAAAAAAAAAAAAAAC1g==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lChemical Rubber Production",
+      "batch": "quests212-241",
+      "note": "第237篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.desc",
+      "before": "製作絕緣線纜的一種更高效的方法，是在化學反應釜中製作熔融橡膠，然後透過組裝機將其包裹在導線上。把這兩臺機器相鄰放置，按下化學反應釜的“流體自動輸出”按鈕，就可以直接將熔融橡膠送進組裝機。記得用扳手將反應釜的輸出口調到正確的方向。也別忘了在組裝機中使用正確的程式設計電路。",
+      "after": "製作絕緣線纜的一種更高效的方法，是在化學反應釜中製作熔融橡膠，然後透過組裝機將其包裹在導線上。把這兩臺機器相鄰放置，按下化學反應釜的“流體自動輸出”按鈕，就可以直接將熔融橡膠送進組裝機。記得用扳手將反應釜的輸出口調到正確的方向。也別忘了在組裝機中使用正確的程式設計電路。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ChemicalRubberPr-AAAAAAAAAAAAAAAAAAAC1g==.json",
+        "field": "english_desc"
+      },
+      "english": "A much more efficient way to make insulated cables is by making molten rubber in a chemical reactor, which can be applied to a cable in the assembling machine. When you put both machines next to each other you can output the molten rubber directly to the assembling machine by clicking the fluid auto-output button on the chemical reactor. Make sure to set the correct side of the reactor as output side by wrenching it. Also remember to use the right circuit in the assembling machine.",
+      "batch": "quests212-241",
+      "note": "第237篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.name",
+      "before": "§5§l橡膠化學制程",
+      "after": "§5§l橡膠化學製程",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ChemicalRubberPr-AAAAAAAAAAAAAAAAAAAC1g==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lChemical Rubber Production",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第237篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.desc",
+      "before": "製作絕緣線纜的一個更高效率的方法,是在化學反應釜中製作熔融橡膠,然後可以在組裝機中將之裹在未絕緣導線上,製成線纜. 當你將兩臺機器放在一起,按下化學反應釜的'Fluid Auto-Output(流體自動輸出)'按鈕,就可以直接將熔融橡膠送進組裝機.記得用扳手將反應機的輸出口調到正確的方向. 也別忘了在組裝機中使用正確的程式設計電路.",
+      "after": "製作絕緣線纜的一個更高效率的方法,是在化學反應釜中製作熔融橡膠,然後可以在組裝機中將之裹在未絕緣導線上,製成線纜. 當你將兩臺機器放在一起,按下化學反應釜的'Fluid Auto-Output(流體自動輸出)'按鈕,就可以直接將熔融橡膠送進組裝機.記得用扳手將反應釜的輸出口調到正確的方向. 也別忘了在組裝機中使用正確的程式設計電路.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ChemicalRubberPr-AAAAAAAAAAAAAAAAAAAC1g==.json",
+        "field": "english_desc"
+      },
+      "english": "A much more efficient way to make insulated cables is by making molten rubber in a chemical reactor, which can be applied to a cable in the assembling machine. When you put both machines next to each other you can output the molten rubber directly to the assembling machine by clicking the fluid auto-output button on the chemical reactor. Make sure to set the correct side of the reactor as output side by wrenching it. Also remember to use the right circuit in the assembling machine.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第237篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest726.name",
+      "before": "§5§l橡膠化學制程",
+      "after": "§5§l橡膠化學製程",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ChemicalRubberPr-AAAAAAAAAAAAAAAAAAAC1g==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lChemical Rubber Production",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第237篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest726.desc",
+      "before": "製作絕緣線纜的一個更高效率的方法,是在化學反應釜中製作熔融橡膠,然後可以在組裝機中將之裹在未絕緣導線上,製成線纜. 當你將兩臺機器放在一起,按下化學反應釜的'Fluid Auto-Output(流體自動輸出)'按鈕,就可以直接將熔融橡膠送進組裝機.記得用扳手將反應機的輸出口調到正確的方向. 也別忘了在組裝機中使用正確的程式設計電路.",
+      "after": "製作絕緣線纜的一個更高效率的方法,是在化學反應釜中製作熔融橡膠,然後可以在組裝機中將之裹在未絕緣導線上,製成線纜. 當你將兩臺機器放在一起,按下化學反應釜的'Fluid Auto-Output(流體自動輸出)'按鈕,就可以直接將熔融橡膠送進組裝機.記得用扳手將反應釜的輸出口調到正確的方向. 也別忘了在組裝機中使用正確的程式設計電路.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ChemicalRubberPr-AAAAAAAAAAAAAAAAAAAC1g==.json",
+        "field": "english_desc"
+      },
+      "english": "A much more efficient way to make insulated cables is by making molten rubber in a chemical reactor, which can be applied to a cable in the assembling machine. When you put both machines next to each other you can output the molten rubber directly to the assembling machine by clicking the fluid auto-output button on the chemical reactor. Make sure to set the correct side of the reactor as output side by wrenching it. Also remember to use the right circuit in the assembling machine.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第237篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.name",
+      "before": "§2§l膠水",
+      "after": "§2§l膠水",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Glue-AAAAAAAAAAAAAAAAAAAC6Q==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lGlue",
+      "batch": "quests212-241",
+      "note": "第238篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.desc",
+      "before": "為了獲得“進階電路基板”，你需要膠水或者精製膠水。%n%n你可以透過離心黏性樹脂或者蒸餾膠水獲得精製膠水。注意這是GT膠水，而非匠魂膠水。%n%n另外，你也可以從史萊姆樹中提取膠水，史萊姆樹可以在天上的史萊姆空島找到。",
+      "after": "為了獲得“進階電路基板”，你需要膠水或者精製膠水。%n%n你可以透過離心黏性樹脂或者蒸餾膠水獲得精製膠水。注意這是GT膠水，而非匠魂膠水。%n%n另外，你也可以從史萊姆樹中提取膠水，史萊姆樹可以在天上的史萊姆空島找到。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Glue-AAAAAAAAAAAAAAAAAAAC6Q==.json",
+        "field": "english_desc"
+      },
+      "english": "To make Good Circuit Boards, you need either glue or refined glue.\n\nYou can obtain refined glue either by centrifuging sticky resin or distilling glue. Note that it is GT glue, not Tinkers' Construct glue.\n\nAlternatively, you can extract glue from slime trees that you can obtain from slime islands in the sky.",
+      "batch": "quests212-241",
+      "note": "第238篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.name",
+      "before": "§2§l二極體",
+      "after": "§2§l二極體",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Diodes-AAAAAAAAAAAAAAAAAAAC6w==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lDiodes",
+      "batch": "quests212-241",
+      "note": "第239篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc",
+      "before": "優質電子電路板需要二極體。有兩種主要方法可以製造它們。你可以將砷化鎵晶體打粉後與細銅導線和熔融玻璃結合來獲得二極體。等到你擁有了太陽能級矽後，你就能在工業高爐中用砷化鎵製造矽晶圓，從而生產更多二極體。請注意，晶圓可以大大提高鎵和砷的利用效率，因此即使單個晶圓產出的二極體減少了，這也是值得的。%n%n老生常談，時時檢查NEI（特別是解鎖了新材料後），不要一個配方用一輩子。有了聚乙烯之後，你就能用細退火銅導線替代細銅導線，實現再次增產。",
+      "after": "優質電子電路需要二極體。有兩種主要方法可以製造它們。你可以將砷化鎵晶體打粉後與細銅導線和熔融玻璃結合來獲得二極體。等到你擁有了太陽能級矽後，你就能在工業高爐中用砷化鎵製造矽晶圓，從而生產更多二極體。請注意，晶圓可以大大提高鎵和砷的利用效率，因此即使單個晶圓產出的二極體減少了，這也是值得的。%n%n老生常談，時時檢查NEI（特別是解鎖了新材料後），不要一個配方用一輩子。有了聚乙烯之後，你就能用細退火銅導線替代細銅導線，實現再次增產。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Diodes-AAAAAAAAAAAAAAAAAAAC6w==.json",
+        "field": "english_desc"
+      },
+      "english": "Good circuits need diodes. There are two main ways to craft them. You can crush the Gallium Arsenide crystals to dust and combine that with fine copper wires and molten glass. Once you have solar grade silicon you can use it to make silicon wafers in your EBF to make even more. Note that the wafers are much more efficient on gallium and arsenic, so even a reduced amount is still worth it.\n\nMake sure you check all the NEI recipes for advanced items instead of just using the first one you find. You can use annealed copper wires and polyethylene to increase your output even more.",
+      "batch": "quests212-241",
+      "note": "第239篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc",
+      "before": "優質電子電路板需要二極體。有兩種主要方法可以製造它們。你可以將砷化鎵晶體打粉後與細銅導線和熔融玻璃結合來獲得二極體。等到你擁有了太陽能級矽後，你就能在工業高爐中用砷化鎵製造矽晶圓，從而生產更多二極體。請注意，晶圓可以大大提高鎵和砷的利用效率，因此即使單個晶圓所能產出的二極體減少了，這也是值得的.%n%n老生常談，時時檢查NEI（特別是解鎖了新材料後），不要一個合成表用一輩子。有了聚乙烯之後，你就能用細退火銅導線替代細銅導線，實現再次增產。",
+      "after": "優質電子電路需要二極體。有兩種主要方法可以製造它們。你可以將砷化鎵晶體打粉後與細銅導線和熔融玻璃結合來獲得二極體。等到你擁有了太陽能級矽後，你就能在工業高爐中用砷化鎵製造矽晶圓，從而生產更多二極體。請注意，晶圓可以大大提高鎵和砷的利用效率，因此即使單個晶圓所能產出的二極體減少了，這也是值得的.%n%n老生常談，時時檢查NEI（特別是解鎖了新材料後），不要一個合成表用一輩子。有了聚乙烯之後，你就能用細退火銅導線替代細銅導線，實現再次增產。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Diodes-AAAAAAAAAAAAAAAAAAAC6w==.json",
+        "field": "english_desc"
+      },
+      "english": "Good circuits need diodes. There are two main ways to craft them. You can crush the Gallium Arsenide crystals to dust and combine that with fine copper wires and molten glass. Once you have solar grade silicon you can use it to make silicon wafers in your EBF to make even more. Note that the wafers are much more efficient on gallium and arsenic, so even a reduced amount is still worth it.\n\nMake sure you check all the NEI recipes for advanced items instead of just using the first one you find. You can use annealed copper wires and polyethylene to increase your output even more.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第239篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest747.desc",
+      "before": "優質的電子電路板需要二極體.有兩種主要方法可以製造它們.你可以將砷化鎵晶體打粉後與細銅導線和熔融玻璃結合來獲得二極體.等到你擁有了太陽能級矽後,你就能在工業高爐中製造單晶矽,處理得到矽晶圓. 請注意,晶圓可以大大提高鎵和砷的利用效率,因此即使減少晶圓數量也是值得的.%n%n老生常談,時時檢查NEI(特別是解鎖了新材料後),不要一個合成表用一輩子.%n有了聚乙烯之後,你就能用細退火銅導線替代細銅導線,實現再次增產.",
+      "after": "優質電子電路需要二極體.有兩種主要方法可以製造它們.你可以將砷化鎵晶體打粉後與細銅導線和熔融玻璃結合來獲得二極體.等到你擁有了太陽能級矽後,你就能在工業高爐中製造單晶矽,處理得到矽晶圓. 請注意,晶圓可以大大提高鎵和砷的利用效率,因此即使減少晶圓數量也是值得的.%n%n老生常談,時時檢查NEI(特別是解鎖了新材料後),不要一個合成表用一輩子.%n有了聚乙烯之後,你就能用細退火銅導線替代細銅導線,實現再次增產.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/Diodes-AAAAAAAAAAAAAAAAAAAC6w==.json",
+        "field": "english_desc"
+      },
+      "english": "Good circuits need diodes. There are two main ways to craft them. You can crush the Gallium Arsenide crystals to dust and combine that with fine copper wires and molten glass. Once you have solar grade silicon you can use it to make silicon wafers in your EBF to make even more. Note that the wafers are much more efficient on gallium and arsenic, so even a reduced amount is still worth it.\n\nMake sure you check all the NEI recipes for advanced items instead of just using the first one you find. You can use annealed copper wires and polyethylene to increase your output even more.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第239篇舊副本只修正確認片語，不套用新版數字或配方。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.name",
+      "before": "§2§l空的電路基板",
+      "after": "§2§l空的電路基板",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/EmptyCircuitBoar-AAAAAAAAAAAAAAAAAAAC7A==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lEmpty Circuit Board",
+      "batch": "quests212-241",
+      "note": "第240篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.desc",
+      "before": "要合成進階電路基板，需要先用木漿與精製膠水製成酚醛樹脂電路基板，再加上金導線即可。%n%n查閱NEI，可以找到更高效的製作方法。",
+      "after": "要合成進階電路基板，需要先用木漿與精製膠水製成酚醛樹脂電路基板，再加上金導線即可。%n%n查閱NEI，可以找到更高效的製作方法。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/EmptyCircuitBoar-AAAAAAAAAAAAAAAAAAAC7A==.json",
+        "field": "english_desc"
+      },
+      "english": "Good circuit boards require wooden pulp and refined glue to make phenolic circuit boards. By adding gold wire you can craft a good circuit board.\n\nThere are more efficient ways to make it if you look in NEI.",
+      "batch": "quests212-241",
+      "note": "第240篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name",
+      "before": "§2§l你會恨死這玩意的 #5",
+      "after": "§2§l你會恨死這玩意的 #5",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAACEQ==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lYou're Gonna Hate This #5",
+      "batch": "quests212-241",
+      "note": "第241篇英文標題／正文對照；版本機制差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc",
+      "before": "第五種你需要很多的部件。主要用於微波爐、掃描器、精密雷射蝕刻機等裝置。%n%n幸好，發射器和感測器的用量沒有其他部件那麼多。",
+      "after": "第五種你需要很多的部件。主要用於微波爐、掃描器、精密雷射蝕刻機等裝置。%n%n幸好，發射器和感測器的用量沒有其他部件那麼多。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/YoureGonnaHateTh-AAAAAAAAAAAAAAAAAAACEQ==.json",
+        "field": "english_desc"
+      },
+      "english": "The fifth item you'll need a lot of. For the microwave, the scanner, the precision laser engraver, etc.\n\nThe Emitter and Sensor aren't used as much as the other items, fortunately.",
+      "batch": "quests212-241",
+      "note": "第241篇英文標題／正文對照；版本機制差異另列待查。"
+    }
+  ]
+}

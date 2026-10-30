@@ -1,0 +1,17 @@
+{
+  "baseline": "a7fcb74a68de2877b2828a4bfdf7179cd644e30f",
+  "gtnh_version": "2.8.4",
+  "reviewed_entries": 74,
+  "changed_values": 26,
+  "changed_language_files": 3,
+  "batches": {
+    "quests212-241": 8,
+    "legacy-confirmed-phrases": 18
+  },
+  "previous_tooltip_repairs_preserved": 26,
+  "ore_prefix_group_scan": [],
+  "diff_checked": true,
+  "source_checks": "Exact English values from installed jar, runtime defaults and quest JSON",
+  "scope": "第212–241篇：28篇英文標題／正文對照；1篇章節說明及1篇任務缺來源保留；英文與任務目標不同之處另記待查。",
+  "errors": []
+}

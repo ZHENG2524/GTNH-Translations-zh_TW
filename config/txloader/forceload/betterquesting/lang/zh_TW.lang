@@ -895,7 +895,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=厭倦使用四個紅石製作�
 
 # Quest: Avengers, Assemble!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name=§2§l復仇者，集結！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=電影粉絲的必備之選（注：標題的Assemble既有集結又有組裝的意思）。哦，當然，它也是製作各種物品的關鍵。有不少配方在組裝機中製作所需的材料更少，甚至有些物品只能依靠它來合成，所以請儘快將它製作出來！%n%n你可以使用GUI中的電池槽和另一個額外槽位存放未使用的程式設計電路。%n%n如果你完成了第一章節的銀樹任務，那麼在製造出組裝機後，就可以去暮色森林了。請檢視“魔法學徒”工作列獲取更多資訊。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=電影粉絲的必備之選（注：標題的Assemble既有集結又有組裝的意思）。哦，當然，它也是製作各種物品的關鍵。有不少配方在組裝機中製作所需的材料更少，甚至有些物品只能依靠它來合成，所以請儘快將它製作出來！%n%n你可以使用GUI中的電池槽和另一個額外槽位存放未使用的程式設計電路。%n%n如果你完成了第一章節的銀樹任務，那麼在製造出組裝機後，就可以去暮色森林了。請檢視“魔法學徒”任務章節獲取更多資訊。
 
 # Quest: No More Filing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=§2§l再也不用銼刀了
@@ -907,7 +907,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=使用基礎衝壓機床，你�
 
 # Quest: Mjolnir!!!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=§2§l雷神之錘！！！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=非必須品，但比蒸汽鍛造錘快得多，且支援自動化。如果你覺得洗礦太慢，使用這臺鍛造錘吧。%n%n[note]你也可以考慮使用蒸汽多方塊版本的鍛造錘。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=非必需品，但比蒸汽鍛造錘快得多，且支援自動化。如果你覺得洗礦太慢，使用這臺鍛造錘吧。%n%n[note]你也可以考慮使用蒸汽多方塊版本的鍛造錘。[/note]
 
 # Quest: Cutting Things Apart
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=§2§l切割萬物
@@ -915,7 +915,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=絕對必備的機器。它能�
 
 # Quest: Getting Ready for Tier 2, MV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=§2§l準備好，第2階段，MV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=想要進一步發展，你需要生鋁，非常多的生鋁。但現在只需要8個鋁錠就可以完成這個任務。%n%n你的第一個選擇是氧化鋁粉。黏土或者從峽谷生物群系找到的陶瓦可能是最好的氧化鋁來源，但那需要MV級機器，所以在攢夠第一輪氧化鋁粉之前，你需要尋找替代方案。目前，你可以透過離心多種來自礦石的含雜粉，或是透過在工業高爐中把紅寶石、藍寶石或綠色藍寶石與碳粉一起熔鍊來獲得它。請檢視多方塊工作列內的工業高爐任務。%n%n你還需要用工業高爐將氧化鋁轉化為鋁錠。為了這一步你需要冰晶石，去暮色森林找個冰晶石礦脈吧。相關任務是魔法學徒頁面中的“鉛、方鉛、銀和冰晶石”。%n%n你的第二個選擇是使用鋁粉。但是你還不能直接冶煉鋁粉，即便有工業高爐也不行，因為熔鍊鋁粉需要更高的爐溫。現在，你要先用匠魂的冶煉爐或者GT的壓縮機將粉處理成生鋁，然後將其在工業高爐中熔鍊成錠。%n%n等你把這些都完成了之後，這個階段也就差不多了，不過你還需要優質電子電路（MV）才能解鎖下一階段。%n%n不要忘了看看“擺脫死亡”和“遊歷四方”工作列裡解鎖的新任務。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=想要進一步發展，你需要生鋁，非常多的生鋁。但現在只需要8個鋁錠就可以完成這個任務。%n%n你的第一個選擇是氧化鋁粉。黏土或者從峽谷生物群系找到的陶瓦可能是最好的氧化鋁來源，但那需要MV級機器，所以在攢夠第一輪氧化鋁粉之前，你需要尋找替代方案。目前，你可以透過離心多種來自礦石的含雜粉，或是透過在工業高爐中把紅寶石、藍寶石或綠色藍寶石與碳粉一起熔鍊來獲得它。請檢視多方塊任務章節內的工業高爐任務。%n%n你還需要用工業高爐將氧化鋁轉化為鋁錠。為了這一步你需要冰晶石，去暮色森林找個冰晶石礦脈吧。相關任務是魔法學徒頁面中的“鉛、方鉛、銀和冰晶石”。%n%n你的第二個選擇是使用鋁粉。但是你還不能直接冶煉鋁粉，即便有工業高爐也不行，因為熔鍊鋁粉需要更高的爐溫。現在，你要先用匠魂的冶煉爐或者GT的壓縮機將粉處理成生鋁，然後將其在工業高爐中熔鍊成錠。%n%n等你把這些都完成了之後，這個階段也就差不多了，不過你還需要優質電子電路（MV）才能解鎖下一階段。%n%n不要忘了看看“擺脫死亡”和“遊歷四方”任務章節裡解鎖的新任務。
 
 # Quest: Your Magic Progression
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=§2§l你的魔法之路
@@ -923,7 +923,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=既然你已經能夠生產鋁�
 
 # Quest: Saving Metal With Bending
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=§2§l靠卷板節約金屬
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=不同於合金爐的3錠出2板，卷板機可以1:1地生產各種金屬板。這可以節約大量的金屬，所以儘快製造一臺吧。%n%n還有，如果需要製造箔的話，只需將板再次放入加工即可。此外，卷板機還支援其他的程式設計電路，不過那些可以留到以後再摸索。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=不同於原本3錠出2板的比例，卷板機可以1:1地生產各種金屬板。這可以節約大量的金屬，所以儘快製造一臺吧。%n%n還有，如果需要製造箔的話，只需將板再次放入加工即可。此外，卷板機還支援其他的程式設計電路，不過那些可以留到以後再摸索。
 
 # Quest: Basic Transport Pipe
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=§2§l基礎運輸管道
@@ -943,14 +943,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=將你的蒸汽合金爐升級�
 
 # Quest: Gotta Catch 'em All
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=§2§l目標是寶〇夢大師
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=當然，你可以用小麥/土豆/胡蘿蔔，拐騙動物跟隨你回到基地，但這比較麻煩。黃金套索才是轉移動物的正確姿勢。%n%n你可以用黃金套索捕捉§o任何§r被動型生物，比如把村民帶回基地，或是帶著一匹馬過河。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=當然，你可以用小麥/馬鈴薯/胡蘿蔔，拐騙動物跟隨你回到基地，但這比較麻煩。黃金套索才是轉移動物的正確姿勢。%n%n你可以用黃金套索捕捉§o任何§r被動型生物，比如把村民帶回基地，或是帶著一匹馬過河。
 
 # Quest: Basic Monster Prevention
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=§2§l基礎怪物預防
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=在你基地附近生成的怪物太煩人了，尤其是碰巧刷出火焰苦力怕的時候。幸運的是，有一種方法可以徹底阻止它們生成。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=在你基地附近生成的怪物太煩人了，尤其是碰巧刷出精英苦力怕的時候。幸運的是，有一種方法可以徹底阻止它們生成。
 
 # Quest: Chemical Rubber Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.name=§2§l橡膠化學制程
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.name=§2§l橡膠化學製程
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.desc=製作絕緣線纜的一種更高效的方法，是在化學反應釜中製作熔融橡膠，然後透過組裝機將其包裹在導線上。把這兩臺機器相鄰放置，按下化學反應釜的“流體自動輸出”按鈕，就可以直接將熔融橡膠送進組裝機。記得用扳手將反應釜的輸出口調到正確的方向。也別忘了在組裝機中使用正確的程式設計電路。
 
 # Quest: Glue
@@ -959,7 +959,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.desc=為了獲得“進階電路基�
 
 # Quest: Diodes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.name=§2§l二極體
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc=優質電子電路板需要二極體。有兩種主要方法可以製造它們。你可以將砷化鎵晶體打粉後與細銅導線和熔融玻璃結合來獲得二極體。等到你擁有了太陽能級矽後，你就能在工業高爐中用砷化鎵製造矽晶圓，從而生產更多二極體。請注意，晶圓可以大大提高鎵和砷的利用效率，因此即使單個晶圓產出的二極體減少了，這也是值得的。%n%n老生常談，時時檢查NEI（特別是解鎖了新材料後），不要一個配方用一輩子。有了聚乙烯之後，你就能用細退火銅導線替代細銅導線，實現再次增產。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc=優質電子電路需要二極體。有兩種主要方法可以製造它們。你可以將砷化鎵晶體打粉後與細銅導線和熔融玻璃結合來獲得二極體。等到你擁有了太陽能級矽後，你就能在工業高爐中用砷化鎵製造矽晶圓，從而生產更多二極體。請注意，晶圓可以大大提高鎵和砷的利用效率，因此即使單個晶圓產出的二極體減少了，這也是值得的。%n%n老生常談，時時檢查NEI（特別是解鎖了新材料後），不要一個配方用一輩子。有了聚乙烯之後，你就能用細退火銅導線替代細銅導線，實現再次增產。
 
 # Quest: Empty Circuit Board
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.name=§2§l空的電路基板
