@@ -1,0 +1,17 @@
+{
+  "baseline": "05ad872981f76b5fc1e10edf4dc9b6c5ebfb0639",
+  "gtnh_version": "2.8.4",
+  "reviewed_entries": 71,
+  "changed_values": 30,
+  "changed_language_files": 3,
+  "batches": {
+    "quests101-130": 13,
+    "legacy-confirmed-phrases": 17
+  },
+  "previous_tooltip_repairs_preserved": 26,
+  "ore_prefix_group_scan": [],
+  "diff_checked": true,
+  "source_checks": "Exact English values from installed jar, runtime defaults and quest JSON",
+  "scope": "依所有 .desc 的現行檔案順序第101–130篇（含1篇章節說明）：27篇任務對照英文，2篇缺來源及1篇章節說明僅中文閱讀；保留版本差異與未核實機制。",
+  "errors": []
+}

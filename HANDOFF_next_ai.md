@@ -125,3 +125,11 @@
 - 硼玻璃命名策略已確認：遊戲簡稱保留，術語表並列硼矽酸鹽玻璃。礦物六階段命名及煉藥鍋產物已查原碼，不能把普通粉譯成dustPure。
 - normalizer依date／order載入各批JSON，允許有證據的歷史值鏈，未知值或斷鏈一律在寫檔前報錯。第二輪完整diff用新manifest檢查；第一輪加 `--skip-diff` 仍核對來源／值，不能把舊批獨占diff的假設套到後續修改。
 - 兩輪新文字均未同步遊戲。26條Tooltip修復保留，LV／MV／HV電壓仍已通過使用者實測。本輪授權延續commit、push main；沒有新增Release或遊戲安裝。
+
+
+## 2026-10-31 接續（最新入口）
+
+- 先讀 `docs/PROOFREAD_2026-10-31.md` 及持續進度。已同步遠端 README 的兩筆更新，以 `05ad872` 為基準；本批 71 條對照、30 條修改、3 檔，清單 `tools/term_calibration_2026-10-31.json`。
+- 已閱讀第101–130篇；篇數是所有 `.desc` 檔案順序，含章節說明，不是純任務或ID。27篇有英文；第107、108篇與第112篇章節說明缺英文，保留待查。下一篇第131篇「太陽之力」，key `betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg`。
+- 修正食物搜尋吃過／未吃過反轉、糖與仙人掌 Coke/Charcoal 混淆、已探明礦脈誤稱未開採、tiny/small粉末、蒸汽buffer與鍋爐倍數等。舊minecraft同ID鋁／鋅內容不同，未覆蓋舊配方。
+- 來源、結構、基準重現及重跑檢查通過，26條Tooltip保留。本批未同步遊戲、未遊戲實測，前批待查仍有效；沒有新增Release。

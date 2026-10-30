@@ -405,11 +405,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSA.desc=在這個整合包中，你得�
 
 # Quest: Options For Finding Zinc
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.name=§a§l鋅的來源
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.desc=在前期，鋅的主要來源是在地表少量生成的鋅礦沙礫。%n%n如果你因為世界種子太非，或者伺服器太老，找不到鋅礦沙礫的話，也可以透過這些方式獲得鋅：%n%n1. 在主世界中尋找貧瘠鋅礦%n2. 在工作台用經驗桶合成%n3. 在自動售貨機中購買（將在本章節解鎖）%n%n[note]等你到達LV階段之後，就能透過處理多種礦石獲得鋅，例如銻，閃鋅，黝銅或者錫。你還可以透過研磨鋅礦沙礫再處理，得到近兩倍的鋅，所以在那之前，能囤多少就囤多少吧！[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSg.desc=在前期，鋅的主要來源是在地表少量生成的鋅礦沙礫。%n%n如果你因為世界種子不佳，或者伺服器太老，找不到鋅礦沙礫的話，也可以透過這些方式獲得鋅：%n%n1. 在主世界中尋找貧瘠鋅礦%n2. 在工作台用經驗桶合成%n3. 在自動售貨機中購買（將在本章節解鎖）%n%n[note]等你到達LV階段之後，就能透過處理多種礦石獲得鋅，例如銻，閃鋅，黝銅或者錫。你還可以透過研磨鋅礦沙礫再處理，得到近兩倍的鋅，所以在那之前，能囤多少就囤多少吧！[/note]
 
 # Quest: Got a Flat Tire?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYg.name=§a§l爆胎了？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYg.desc=撬棍是GT中用來拆卸機器、管道或線纜上覆蓋板的專屬工具。覆蓋板可以是純裝飾性的；可以是泵、傳送帶這樣有具體功能的；也可以用來保護安全：例如在蒸汽管道上貼一塊木板，可以防止被管道燙傷。%n%n抱歉，GT版物理學聖劍只有藍色的！%n%n是的，我們知道還存在紅色的撬棍，但那是Railcraft模組裡的，而且通常沒什麼用。就當沒看見吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYg.desc=撬棍是GT中用來拆卸機器、管道或線纜上覆蓋板的專屬工具。覆蓋板可以是純裝飾性的；可以是泵、傳送帶這樣有具體功能的；也可以用來保護安全：例如在蒸汽管道上貼一塊木板，可以防止被管道燙傷。%n%n抱歉，GT版物理學聖劍只有藍色的！%n%n是的，我們知道還存在紅色的撬棍，但那是Railcraft模組裡的，而且通常性能較差。就當沒看見吧。
 
 # Quest: Too Many Leaves
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKoA.name=§a§l樹葉太多了
@@ -417,11 +417,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKoA.desc=想清理灌木叢，但又不�
 
 # Quest: Personally, I Prefer Pepsi™
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKoQ.name=§a§l我個人更喜歡百事可樂™
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKoQ.desc=你可能已經注意到了，焦爐不僅能生產木炭，還能製作焦煤。（譯者注：焦煤和可樂的英文都是coke）%n%n你需要把所有焦煤都存起來，為之後用土高爐鍊鋼做準備。至於其他的各種焦煤，請在NEI中查詢它們的用途，種類可不少。%n%n[note]進入蒸汽時代後，你就可以像壓縮普通的煤炭和木炭那樣，將糖炭和仙人掌炭也壓縮成塊，以獲得更高的效率。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKoQ.desc=你可能已經注意到了，焦爐不僅能生產木炭，還能製作焦煤。（譯者注：焦煤和可樂的英文都是coke）%n%n你需要把所有焦煤都存起來，為之後用磚高爐煉鋼做準備。至於其他煤炭變體，種類可不少，請在NEI中查詢各自的用途。%n%n[note]進入蒸汽時代後，你就可以像壓縮普通的煤炭和木炭那樣，將糖焦炭和仙人掌焦炭也壓縮成塊，以獲得更高的效率。[/note]
 
 # Quest: More Food, More Hearts
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsQ.name=§a§l食物就是生命
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsQ.desc=食物很棒，對吧？但更棒的是大吃特吃！你覺得這太無聊、太沒意義了？那要是我告訴你，只要拓寬你的食譜，就能提高生命上限，如何呢？每透過食物恢復半格飢餓值，你就會獲得1食用點數；累積50點數，生命上限就能提高一顆心！這下，你終於有理由去製作潘馬斯模組裡的那一堆食物了。請注意，每種食物只能提供一次食用積分。直接從午餐盒裡吃東西，和拿出來直接吃的效果是一樣的。%n%n如果想檢視自己吃過哪些食物，可以檢視那本“膳食記錄”，但那書特別難用。更方便的做法是用NEI，搜尋“從未食用”就能得知吃過什麼，搜尋“食用過”就能得知沒吃什麼。不過，要看到這些資訊，你需要先觸發過一次食物的飢餓值回覆遞減機制（重複吃同一種食物）才行。%n%n如果搜尋不起作用，請點選物品欄介面左下角的NEI選項，再點選“物品欄”，將“搜尋模式”改為“正規表示式”，然後重啟客戶端，再次嘗試搜尋。§r%n%n還有兩個指令：%n%n/foodlist size%n告訴你總計食用點數，以及距下次生命上限提升還差多少點數。%n%n/foodlist sync <玩家名>%n當你的食物進度與伺服器不同步時，用它來同步進度。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsQ.desc=食物很棒，對吧？但更棒的是大吃特吃！你覺得這太無聊、太沒意義了？那要是我告訴你，只要拓寬你的食譜，就能提高生命上限，如何呢？每透過食物恢復半格飢餓值，你就會獲得1食用點數；累積50點數，生命上限就能提高一顆心！這下，你終於有理由去製作潘馬斯模組裡的那一堆食物了。請注意，每種食物只能提供一次食用積分。直接從午餐盒裡吃東西，和拿出來直接吃的效果是一樣的。%n%n如果想檢視自己吃過哪些食物，可以檢視那本“膳食記錄”，但那書特別難用。更方便的做法是用NEI，搜尋“從未食用”就能找出還沒吃過的食物，搜尋“食用過”就能找出已吃過的食物。不過，要看到這些資訊，你需要先觸發過一次食物的飢餓值恢復遞減機制（重複吃同一種食物）才行。%n%n如果搜尋不起作用，請點選物品欄介面左下角的NEI選項，再點選“物品欄”，將“搜尋模式”改為“正規表示式”，然後重啟客戶端，再次嘗試搜尋。§r%n%n還有兩個指令：%n%n/foodlist size%n告訴你總計食用點數，以及距下次生命上限提升還差多少點數。%n%n/foodlist sync <玩家名>%n當你的食物進度與伺服器不同步時，用它來同步進度。
 
 # Quest: Loot Games
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPA.name=§a§l獎勵遊戲
@@ -437,7 +437,7 @@ betterquesting.quest.XABK1llCToa6KKcF5Z69GA.desc=既然你現在能製作青銅�
 
 # Quest: The power of prospecting!
 betterquesting.quest.bMKIeFhNQluRks9YzpqEGQ.name=§a§l勘探之力！
-betterquesting.quest.bMKIeFhNQluRks9YzpqEGQ.desc=在你的地圖介面（預設按J）的頂上有多個標籤頁，其中一些十分有用，可以節省你大量的搜尋時間！%n%nGT礦脈-此標籤頁會為你追蹤礦脈，要儲存礦脈到地圖，右鍵一個自然生成的礦石（有些工具不能右鍵）%nGT地下流體-這會在之後（MV）幫助你%nTC節點-此標籤頁會為你追蹤神秘時代節點（你得先掃描它們）%n%n[note]貧瘠礦石不是礦脈的一部份，因此無法在地圖上顯示為礦脈。然而礦脈會在它們的區塊裡生成額外的貧瘠礦石，因此它們對你的搜尋仍然很有用（不是所有貧瘠礦石都生成在礦脈旁，不要被騙了）[/note]%n%n[note]另一個超棒的功能是，你可以在NEI搜尋欄中使用高亮模式（雙擊它），然後轉到地圖介面，就可以突出顯示匹配的未開採礦脈！[/note]
+betterquesting.quest.bMKIeFhNQluRks9YzpqEGQ.desc=在你的地圖介面（預設按J）的頂上有多個標籤頁，其中一些十分有用，可以節省你大量的搜尋時間！%n%nGT礦脈-此標籤頁會為你追蹤礦脈，要儲存礦脈到地圖，右鍵一個自然生成的礦石（有些工具不能右鍵）%nGT地下流體-這會在之後（MV）幫助你%nTC節點-此標籤頁會為你追蹤神秘時代節點（你得先掃描它們）%n%n[note]貧瘠礦石不是礦脈的一部份，因此無法在地圖上顯示為礦脈。然而礦脈會在它們的區塊裡生成額外的貧瘠礦石，因此它們對你的搜尋仍然很有用（不是所有貧瘠礦石都生成在礦脈旁，不要被騙了）[/note]%n%n[note]另一個超棒的功能是，你可以在NEI搜尋欄中使用醒目提示模式（雙擊它），然後轉到地圖介面，就可以醒目顯示符合搜尋條件且已探明的礦脈！[/note]
 
 # Quest: Sustainable Paper
 betterquesting.quest.bbaqMVmnQFyjDT-CHJKqQQ.name=§a§l可再生紙
@@ -454,19 +454,19 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=此章節的主題是從蒸
 
 # Quest: Better Tank... Iron Tank
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.name=§c§l更好的儲罐……鐵儲罐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.desc=想要在一個儲罐中儲存超過16桶液體？那就做一個鐵儲罐或升級你的小儲罐。%n%n鑽石儲罐可以儲存64桶流體，黑曜石儲罐則可以防爆。後面還有更大的儲罐，不過你可能更喜歡GT的儲罐或是大型流體單元。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.desc=想要在一個儲罐中儲存超過16桶液體？那就做一個鐵儲罐或升級你的BuildCraft儲罐。%n%n鑽石儲罐可以儲存64桶流體，黑曜石儲罐則可以防爆。後面還有更大的儲罐，不過你可能更喜歡GT的儲罐或是大型流體單元。
 
 # Quest: Welcome to Tier 0.5, Steam!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.name=§c§l歡迎來到第0.5階，蒸汽時代！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=歡迎，到目前為止幹得不錯！這個階段的核心是造出你的第一批機器，讓你能從礦石裡獲取更多產物，並更高效地量產青銅錠。%n%n關於供水問題，請檢視“多方塊結構”章節，瞭解一下§9“缺水危機”§r任務提到的集水器吧。%n%n用管道連線鍋爐時，請確保從底部供水，因為底部面只會接收水，也不輸出蒸汽，這樣就不用擔心管道燒化了。木製管道足以勝任這一任務了。請確保鍋爐永遠不要斷水——[warn]往燒乾了的滾燙鍋爐里加水，會引起爆炸！[/warn]%n%n蒸汽會從側面輸出。記住，蒸汽是很燙的！它會燒燬木製管道，而且，走在充滿蒸汽的青銅管道上也會燙傷。用木板或紙蓋住它們。或者就別往它們上面走，也別湊過去。%n%n別想了，你沒法用它做自動化。想搞自動化的話，去造個電力版的吧。%n%n[note]提示：除非另有說明，否則所有鍋爐的轉換比均為每消耗1L的水，產出160L蒸汽。[/note]%n%n[note]中文wiki 蒸汽時代：§1§n[url]https://gtnh.huijiwiki.com/p/60073[/url]§r[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=歡迎，到目前為止幹得不錯！這個階段的核心是造出你的第一批機器，讓你能從礦石裡獲取更多產物，並更高效地量產青銅錠。%n%n關於供水問題，請檢視“多方塊結構”章節，瞭解一下§9“缺水危機”§r任務提到的集水器吧。%n%n用管道連線鍋爐時，請確保從底部供水，因為底部面只會接收水，也不輸出蒸汽，這樣就不用擔心管道燒化了。木製管道足以勝任這一任務了。請確保鍋爐永遠不要斷水——[warn]往燒乾了的滾燙鍋爐裡加水，會引起爆炸！[/warn]%n%n蒸汽會從側面輸出。記住，蒸汽是很燙的！它會燒燬木製管道，而且，走在充滿蒸汽的青銅管道上也會燙傷。用木板或紙蓋住它們。或者就別往它們上面走，也別湊過去。%n%n別想了，你沒法用它做自動化。想搞自動化的話，去造個電力版的吧。%n%n[note]提示：除非另有說明，否則所有鍋爐的轉換比均為每消耗1L的水，產出160L蒸汽。[/note]%n%n[note]中文wiki 蒸汽時代：§1§n[url]https://gtnh.huijiwiki.com/p/60073[/url]§r[/note]
 
 # Quest: More Advanced Alloys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALg.name=§c§l更多高階合金
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALg.desc=你的冶煉爐可以混合金屬製成合金，但效率並不高，而且不能處理複雜配方。你需要一些新裝置，那麼為什麼不把蒸汽利用起來呢？你可使用錠、粉，甚至是粒，直接在合金爐中製作青銅。如果你有鋼，還可以製作粒模具，將錠轉化為粒。%n%n在加工生橡膠時，它也可能派上用場。你應該多留意NEI的配方，看看機器什麼時候能提供更好的物品製造方式……%n%n[note]注意：與所有蒸汽裝置類似，當配方完成時，輸出口會變成蒸汽排出口。切勿阻塞。另外，蒸汽很燙，記得吧？用扳手右擊機器可以改變輸出面。3x3網格會顯示你右鍵後輸出口將移動到哪一側。[/note]%n%n你可以在機器下面放一個漏斗，接收產物，清空機器。%n%n[warn]警告：蒸汽合金爐的配方消耗大量蒸汽。[/warn]在你弄清楚蒸汽消耗速度以及需要預留多少緩衝空間之前，請一次只做一個配方。大型管道是不錯的“窮人版”快取器，同時鍋爐和機器本身也可以快取一些蒸汽。如果傳輸距離比較遠，可用鐵製或鋼製的RC儲罐作為更大的蒸汽快取器。 %n%n[note]中文wiki 單方塊蒸汽機器：§1§n[url]https://gtnh.huijiwiki.com/p/94713[/url]§r[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALg.desc=你的冶煉爐可以混合金屬製成合金，但效率並不高，而且不能處理複雜配方。你需要一些新裝置，那麼為什麼不把蒸汽利用起來呢？你可使用錠、粉，甚至是粒，直接在合金爐中製作青銅。如果你有鋼，還可以製作粒模具，將錠轉化為粒。%n%n在加工生橡膠時，它也可能派上用場。你應該多留意NEI的配方，看看機器什麼時候能提供更好的物品製造方式……%n%n[note]注意：與所有蒸汽裝置類似，當配方完成時，輸出口會變成蒸汽排出口。切勿阻塞。另外，蒸汽很燙，記得吧？用扳手右擊機器可以改變輸出面。3x3網格會顯示你右鍵後輸出口將移動到哪一側。[/note]%n%n你可以在機器下面放一個漏斗，接收產物，清空機器。%n%n[warn]警告：蒸汽合金爐的配方消耗大量蒸汽。[/warn]在你弄清楚蒸汽消耗速度以及需要預留多少緩衝空間之前，請一次只做一個配方。大型管道是不錯的“窮人版”緩衝儲槽，同時鍋爐和機器本身也可以暫存一些蒸汽。等進度再往後一些，可用鐵製或鋼製的RC儲罐作為更大的蒸汽緩衝儲槽。 %n%n[note]中文wiki 單方塊蒸汽機器：§1§n[url]https://gtnh.huijiwiki.com/p/94713[/url]§r[/note]
 
 # Quest: Upgrade: High Speed Alloys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALw.name=§c§l升級：高速合金
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALw.desc=就像大多數的機器一樣，合金熔煉爐也有更高階的版本。它的蒸汽消耗總量和舊版一模一樣，但工作速度快了一倍。%n%n請記住，它消耗的蒸汽相當多，所以你最好確保鍋爐、管道或儲罐裡有足夠的蒸汽。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALw.desc=就像大多數的機器一樣，合金爐也有更高階的版本。它的蒸汽消耗總量和舊版一模一樣，但工作速度快了一倍。%n%n請記住，它消耗的蒸汽相當多，所以你最好確保鍋爐、管道或儲罐裡有足夠的蒸汽。
 
 # Quest: A Very Important Alloy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.name=§c§l一種非常重要的合金
@@ -486,7 +486,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMw.desc=既然之後需要用到橡膠�
 
 # Quest: A Clear View
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANA.name=§c§l清晰視野
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAANA.desc=你還住在那用泥土或圓石做的火柴盒裡嗎？不如讓陽光照進來吧？磨碎一些沙子和燧石，做成玻璃粉，放進你的冶煉爐裡，接著把它們倒入鑄造盆中，就能得到通透玻璃。%n%n[note]提示：要將其用於合成配方，你需要用鑿子雕刻它。[/note]%n%n[note]PS：粉碎機現在不再直接產出小堆材料了，只需手動合成就能得到小堆粉。等你有了攪拌機後，一定會很喜歡這一點的。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAANA.desc=你還住在那用泥土或圓石做的火柴盒裡嗎？不如讓陽光照進來吧？磨碎一些沙子和燧石，做成玻璃粉，放進你的冶煉爐裡，接著把它們倒入鑄造盆中，就能得到通透玻璃。%n%n[note]提示：要將其用於合成配方，你需要用鑿子雕刻它。[/note]%n%n[note]PS：研磨機現在不再直接產出小撮粉末了，只需將普通粉末拆分合成就能得到小撮粉末。等你有了攪拌機後，一定會很喜歡這一點的。[/note]
 
 # Quest: Hammer time v2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.name=§c§l錘子時刻 v2.0
@@ -494,7 +494,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.desc=花掉6個錠就為了造一把
 
 # Quest: Compressing Stuff
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANg.name=§c§l壓縮物品
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAANg.desc=這臺看似簡單的機器，承擔的工作卻至關重要：壓縮。它主要的功能是把9個錠壓成一個塊，但在其他各種配方里也派得上用場，比如說製作結實豆腐。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAANg.desc=這臺看似簡單的機器，承擔的工作卻至關重要：壓縮。它主要的功能是把9個錠壓成一個塊，但在其他各種配方裡也派得上用場，比如說製作結實豆腐。
 
 # Quest: Upgrade: A Better Compressor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=§c§l升級：壓縮機
@@ -514,11 +514,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOg.desc=蒸汽研磨機的全新升級�
 
 # Quest: Steam Alternatives
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.name=§c§l蒸汽替代品
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.desc=獲取蒸汽驅動機器的方式不止一種。這條支線任務線會向你展示幾種產生蒸汽的替代方案。%n%n§3對於那些需要玻璃的方案，你需要再完成幾個前置任務才能看到相關指導。不過，如果你懂得使用NEI查詢配方，現在直接開始做也沒問題。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.desc=獲取蒸汽驅動機器的方式不止一種。這條完全選做的支線任務會向你展示幾種產生蒸汽的替代方案。%n%n§3對於那些需要玻璃的方案，你需要再完成幾個前置任務才能看到相關指導。不過，如果你懂得使用NEI查詢配方，現在直接開始做也沒問題。
 
 # Quest: Upgrade: Coal Boiler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.name=§c§l升級：燃煤鍋爐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=說白了，這就是你手頭那臺燃煤鍋爐的升級版，但蒸汽產量直接翻了兩倍不止。如果你打算做些更高階的機器，那這個鍋爐絕對值得你造一臺。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=說白了，這就是你手頭那臺燃煤鍋爐的升級版，但蒸汽產量是原本的兩倍以上。如果你打算做些更高階的機器，那這個鍋爐絕對值得你造一臺。
 
 # Quest: Another Use for Java, I Mean Lava
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.name=§c§lJava的另一個用途，呃，我是說岩漿（Lava）
