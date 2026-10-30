@@ -1,0 +1,17 @@
+{
+  "baseline": "41cb2d41a8d9504f170a06d13345cc552196f4b3",
+  "gtnh_version": "2.8.4",
+  "reviewed_entries": 207,
+  "changed_values": 85,
+  "changed_language_files": 3,
+  "batches": {
+    "quests131-211": 38,
+    "legacy-confirmed-phrases": 47
+  },
+  "previous_tooltip_repairs_preserved": 26,
+  "ore_prefix_group_scan": [],
+  "diff_checked": true,
+  "source_checks": "Exact English values from installed jar, runtime defaults and quest JSON",
+  "scope": "現行檔案順序第131–211篇：80篇英文標題／正文對照，1篇缺英文保留；舊副本僅確認片語，不將版本差異與未實測機制當成完成。",
+  "errors": []
+}

@@ -1,0 +1,2917 @@
+{
+  "date": "2026-10-31",
+  "order": 1,
+  "baseline": "41cb2d41a8d9504f170a06d13345cc552196f4b3",
+  "gtnh_version": "2.8.4",
+  "gregtech_version": "5.09.51.482",
+  "jar_sha256": "4ab7ce174a8f6fb7a90d8d11d56056aab2de577c36c6084b37ce890d7b1d67bf",
+  "jars": {
+    "TConstruct-1.13.57-GTNH.jar": "f2cb53b94f135b7523bcb7afea5ef53b9afb40c0bc034fc5ec5018ad0502bc61",
+    "Natura-2.8.9.jar": "d85e979a3ef38d20e6d025fa1e1e43057ef10a63f51975a39f28c3687e4c7b81"
+  },
+  "scope": "現行檔案順序第131–211篇：80篇英文標題／正文對照，1篇缺英文保留；舊副本僅確認片語，不將版本差異與未實測機制當成完成。",
+  "quest_sequence_reviewed": [
+    131,
+    211
+  ],
+  "rows": [
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.name",
+      "before": "§c§l太陽之力",
+      "after": "§c§l太陽之力",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ThePoweroftheSun-AAAAAAAAAAAAAAAAAAAAPg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lThe Power of the Sun",
+      "batch": "quests131-211",
+      "note": "第131篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.desc",
+      "before": "太陽蘊含巨大的能量，為何不利用它來產生蒸汽呢？%n%n從底部注入水即可產生蒸汽。與其他鍋爐不同，它只會從輸出口一側輸出蒸汽。%n%n你需要從貧瘠礦中獲取銀，才能製作太陽能鍋爐。在LV階段，你可以在暮色森林中獲得更多銀礦資源。%n%n§3提示：太陽能鍋爐會鈣化，隨著時間推移效率逐漸降低，最低降至40L/s。（譯者注：只要把鍋爐拆掉重新放置，就能重置鈣化(￣▽￣)~*）等到電力時代，你就能使用蒸餾水防止鈣化。%n%n[note]中文wiki 太陽能鍋爐：§1§n[url]https://gtnh.huijiwiki.com/p/94748[/url]§r[/note]",
+      "after": "太陽蘊含巨大的能量，為何不利用它來產生蒸汽呢？%n%n從底部注入水即可產生蒸汽。與其他鍋爐不同，它只會從輸出口一側輸出蒸汽。%n%n你需要從貧瘠礦中獲取銀，才能製作太陽能鍋爐。在LV階段，你可以在暮色森林中獲得更多銀礦資源。%n%n§3提示：太陽能鍋爐會鈣化，隨著時間推移效率逐漸降低，最低降至40L/s。（譯者注：只要把鍋爐拆掉重新放置，就能重置鈣化(￣▽￣)~*）等到電力時代，你就能使用蒸餾水防止鈣化。%n%n[note]中文wiki 太陽能鍋爐：§1§n[url]https://gtnh.huijiwiki.com/p/94748[/url]§r[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ThePoweroftheSun-AAAAAAAAAAAAAAAAAAAAPg==.json",
+        "field": "english_desc"
+      },
+      "english": "The sun has quite a bit of power, so why not use it to produce Steam?\n\nFill it with Water on the bottom side to produce Steam. Unlike the other Boilers, this only outputs Steam on the output port side.\n\nYou need Silver from small ores to craft Solar Boilers. Later in LV you can get much more in the Twilight Forest.\n\n§3Hint: The Simple Solar Boiler calcifies and becomes less efficient over time, dropping down to a minimum of 40L/s. Later on you can consider using Distilled Water to avoid calcification.",
+      "batch": "quests131-211",
+      "note": "第131篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.name",
+      "before": "§c§l用蒸汽烹飪",
+      "after": "§c§l用蒸汽烹飪",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/UsingSteamtoCook-AAAAAAAAAAAAAAAAAAAAPw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lUsing Steam to Cook Things",
+      "batch": "quests131-211",
+      "note": "第132篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.desc",
+      "before": "它的處理速度並不快，但比普通熔爐效率更高。",
+      "after": "它的處理速度並不快，但比普通熔爐效率更高。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/UsingSteamtoCook-AAAAAAAAAAAAAAAAAAAAPw==.json",
+        "field": "english_desc"
+      },
+      "english": "A rather slow process, but it's more efficient than using a regular furnace.",
+      "batch": "quests131-211",
+      "note": "第132篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.name",
+      "before": "§c§l升級：熔爐",
+      "after": "§c§l升級：熔爐",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/UpgradeBetterFur-AAAAAAAAAAAAAAAAAAAAQA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lUpgrade: Better Furnace",
+      "batch": "quests131-211",
+      "note": "第133篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.desc",
+      "before": "蒸汽熔爐的全新升級版。蒸汽消耗總量和舊版一模一樣，但工作速度快了一倍。",
+      "after": "蒸汽熔爐的全新升級版。蒸汽消耗總量和舊版一模一樣，但工作速度快了一倍。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/UpgradeBetterFur-AAAAAAAAAAAAAAAAAAAAQA==.json",
+        "field": "english_desc"
+      },
+      "english": "An updated version of the steam furnace. Uses the same total amount of steam as its predecessor but does the job twice as fast.",
+      "batch": "quests131-211",
+      "note": "第133篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.name",
+      "before": "§c§l開爐！",
+      "after": "§c§l開爐！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Blastoff-AAAAAAAAAAAAAAAAAAAAQQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBlastoff!",
+      "batch": "quests131-211",
+      "note": "第134篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.desc",
+      "before": "是時候煉些鋼了。去“多方塊結構”工作列看看，建一座磚高爐吧。等你至少煉出8個鋼錠，再回來報告。",
+      "after": "是時候煉些鋼了。去“多方塊結構”任務章節看看，建一座磚高爐吧。等你至少煉出8個鋼錠，再回來報告。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Blastoff-AAAAAAAAAAAAAAAAAAAAQQ==.json",
+        "field": "english_desc"
+      },
+      "english": "It's about time to make some steel. Look in the Multiblock Goals quest tab and build a Bricked Blast Furnace. Return here once you've made at least 8 steel ingots.",
+      "batch": "quests131-211",
+      "note": "第134篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.name",
+      "before": "§c§l是時候來點邏輯了",
+      "after": "§c§l是時候來點邏輯了",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TimeForSomeLogic-AAAAAAAAAAAAAAAAAAAAQg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lTime For Some Logic",
+      "batch": "quests131-211",
+      "note": "第135篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc",
+      "before": "好訊息！你已經有資格邁進下一個階段了！壞訊息：在正式開始之前，你還得做一大堆東西出來。爾凡人其勿懼兮，來吾道夫先路！",
+      "after": "好訊息！你已經有資格邁進下一個階段了！壞訊息：在正式開始之前，你還得做一大堆東西出來。爾凡人其勿懼兮，來吾道夫先路！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TimeForSomeLogic-AAAAAAAAAAAAAAAAAAAAQg==.json",
+        "field": "english_desc"
+      },
+      "english": "Good news! You are now able to advance to the next tier! Bad news: You still have to craft a lot of things before you can begin. Fear not mortal, I shall guide you!",
+      "batch": "quests131-211",
+      "note": "第135篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQw.name",
+      "before": "§c§l導線，奇怪？（Wired,weird?!）",
+      "after": "§c§l導線，奇怪？（Wired,weird?!）",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WiredWeird-AAAAAAAAAAAAAAAAAAAAQw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lWired, Weird?!",
+      "batch": "quests131-211",
+      "note": "第136篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQw.desc",
+      "before": "製造機器最基礎的兩樣材料就是導線和線纜。要給導線裹成線纜，你可以在工作台裡用橡膠片，或者在合金爐裡用橡膠條——這兩種方法效率都不高，但後面會有更好的辦法。",
+      "after": "製造機器最基礎的兩樣材料就是導線和線纜。要給導線裹成線纜，你可以在工作台裡用橡膠片，或者在合金爐裡用橡膠條——這兩種方法效率都不高，但後面會有更好的辦法。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WiredWeird-AAAAAAAAAAAAAAAAAAAAQw==.json",
+        "field": "english_desc"
+      },
+      "english": "Two of the very basic materials for machines are wires and cables. For cables you can either use a rubber sheet in the crafting table or use rubber bars in the alloy smelter. Not very efficient, but there will be a better way later.",
+      "batch": "quests131-211",
+      "note": "第136篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name",
+      "before": "§c§l你的第一個電子電路",
+      "after": "§c§l你的第一個電子電路",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/YourFirstElectro-AAAAAAAAAAAAAAAAAAAARA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lYour First Electronic Circuit",
+      "batch": "quests131-211",
+      "note": "第137篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc",
+      "before": "蒸汽機器有夠蠢的，它們只會翻來覆去地做同一件事。邁入電力時代後，你便決定要讓機器有更多功能，比如自動輸出產物，好實現些自動化。為此，你需要電子電路。",
+      "after": "蒸汽機器有夠蠢的，它們只會翻來覆去地做同一件事。邁入電力時代後，你便決定要讓機器有更多功能，比如自動輸出產物，好實現些自動化。為此，你需要電子電路。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/YourFirstElectro-AAAAAAAAAAAAAAAAAAAARA==.json",
+        "field": "english_desc"
+      },
+      "english": "Steam machines are quite stupid, they just do one thing over and over again. As you advance into the electrical age, you've decided that you want the machines to have more features, like automatic output in order to create some automation. For that, you need electronic circuits.",
+      "batch": "quests131-211",
+      "note": "第137篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name",
+      "before": "§c§l絕緣線纜",
+      "after": "§c§l絕緣線纜",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WireWrap-AAAAAAAAAAAAAAAAAAAARQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lWire-Wrap",
+      "batch": "quests131-211",
+      "note": "第138篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc",
+      "before": "使用沒有絕緣的導線可不是什麼好主意。既然你現在已經有了一臺提取機，可以從黏性樹脂提取生橡膠，並且還有一臺合金爐，可以用硫對其進行深加工，那就應該合成一些橡膠條了。",
+      "after": "使用沒有絕緣的導線可不是什麼好主意。既然你現在已經有了一臺提取機，可以從黏性樹脂提取生橡膠，並且還有一臺合金爐，可以用硫對其進行深加工，那就應該合成一些橡膠條了。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WireWrap-AAAAAAAAAAAAAAAAAAAARQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Placing wires without insulation seems to be a bad idea. Now that you have an extractor to extract raw rubber out of sticky resin and an alloy smelter to further process it using sulfur, you should work on getting some insulating rubber bars.",
+      "batch": "quests131-211",
+      "note": "第138篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.name",
+      "before": "§c§l基礎製作：馬達",
+      "after": "§c§l基礎製作：馬達",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingMot-AAAAAAAAAAAAAAAAAAAARw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBasic Crafting: Motors",
+      "batch": "quests131-211",
+      "note": "第139篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc",
+      "before": "電動馬達是能夠將電力轉化為旋轉動能的小機件，對於所有類型的機器都非常有用。製作它不算費勁，不同等級的電動馬達，配方總是相似的，只是材料會隨等級變化。現在可以先用紅石來磁化鐵棒，以後你會再製作一臺磁化機。",
+      "after": "電動馬達是能夠將電力轉化為旋轉動能的小機件，對於所有類型的機器都非常有用。製作它不算費勁，不同等級的電動馬達，配方總是相似的，只是材料會隨等級變化。現在可以先用紅石來磁化鐵桿，以後你會再製作一臺磁化機。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingMot-AAAAAAAAAAAAAAAAAAAARw==.json",
+        "field": "english_desc"
+      },
+      "english": "Motors are little devices that can turn electrical power into rotational energy. Very useful for all kind of machines, and not that difficult to craft. The pattern is always the same, only the materials change with tiers. For now you can use redstone to magnetize your iron rod. Later on you will build an Electromagnetic Polarizer.",
+      "batch": "quests131-211",
+      "note": "第139篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc",
+      "before": "電動馬達是能夠將電力轉化為旋轉能的小機件.對於所有類型的機器都非常有用,而且它不是那麼難以製作.不同等級的電動馬達的合成方法是相似的,只有材料隨著等級的變化而變化.現在你可以使用你的紅石來磁化你的鐵棒,後面你將會製作一個磁化機.",
+      "after": "電動馬達是能夠將電力轉化為旋轉能的小機件.對於所有類型的機器都非常有用,而且它不是那麼難以製作.不同等級的電動馬達的合成方法是相似的,只有材料隨著等級的變化而變化.現在你可以使用你的紅石來磁化你的鐵桿,後面你將會製作一個磁化機.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingMot-AAAAAAAAAAAAAAAAAAAARw==.json",
+        "field": "english_desc"
+      },
+      "english": "Motors are little devices that can turn electrical power into rotational energy. Very useful for all kind of machines, and not that difficult to craft. The pattern is always the same, only the materials change with tiers. For now you can use redstone to magnetize your iron rod. Later on you will build an Electromagnetic Polarizer.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第139篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest71.desc",
+      "before": "電動馬達是能夠將電力轉化為旋轉能的小機件.對於所有類型的機器都非常有用,而且它不是那麼難以製作.不同等級的電動馬達的合成方法是相似的,只有材料隨著等級的變化而變化.現在你可以使用你的紅石來磁化你的鐵棒,後面你將會製作一個磁化機.",
+      "after": "電動馬達是能夠將電力轉化為旋轉能的小機件.對於所有類型的機器都非常有用,而且它不是那麼難以製作.不同等級的電動馬達的合成方法是相似的,只有材料隨著等級的變化而變化.現在你可以使用你的紅石來磁化你的鐵桿,後面你將會製作一個磁化機.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingMot-AAAAAAAAAAAAAAAAAAAARw==.json",
+        "field": "english_desc"
+      },
+      "english": "Motors are little devices that can turn electrical power into rotational energy. Very useful for all kind of machines, and not that difficult to craft. The pattern is always the same, only the materials change with tiers. For now you can use redstone to magnetize your iron rod. Later on you will build an Electromagnetic Polarizer.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第139篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name",
+      "before": "§c§l基礎製作：轉子",
+      "after": "§c§l基礎製作：轉子",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingRot-AAAAAAAAAAAAAAAAAAAASA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBasic Crafting: Rotors",
+      "batch": "quests131-211",
+      "note": "第140篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc",
+      "before": "不同等級的轉子的製作方法也是相似的，只是材料不同。現在合成起來有點煩人，不過你也不需要很多的轉子。",
+      "after": "不同等級的轉子的製作方法也是相似的，只是材料不同。現在合成起來有點煩人，不過你也不需要很多的轉子。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingRot-AAAAAAAAAAAAAAAAAAAASA==.json",
+        "field": "english_desc"
+      },
+      "english": "Rotors are also crafted using an identical pattern with different materials. A bit annoying to craft at the moment, but you don't need a lot of them anyway.",
+      "batch": "quests131-211",
+      "note": "第140篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.name",
+      "before": "§c§l基礎製作：機器外殼",
+      "after": "§c§l基礎製作：機器外殼",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingMac-AAAAAAAAAAAAAAAAAAAASQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBasic Crafting: Machine Hulls",
+      "batch": "quests131-211",
+      "note": "第141篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.desc",
+      "before": "所有機器都需要一個外殼來保護它們的敏感部件，好訊息是：它們每個等級製作方式都一樣，只有材料發生變化。%n%n§3正如tooltip所述，使用機器外殼可以傳輸1A的電流。你可以把它在Thermos伺服器上當做1A的二極體，把線纜裡4A的電流分出1A，或者用於以後的超淨間。同樣，物品或流體也可以透過機器外殼傳輸。",
+      "after": "所有機器都需要一個外殼來保護它們的敏感部件，好訊息是：它們每個等級製作方式都一樣，只有材料發生變化。%n%n§3正如物品提示所述，使用機器外殼可以傳輸1A的電流。你可以把它在Thermos伺服器上當做1A的二極體，把線纜裡4A的電流分出1A，或者用於以後的超淨間。同樣，物品或流體也可以透過機器外殼傳輸。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingMac-AAAAAAAAAAAAAAAAAAAASQ==.json",
+        "field": "english_desc"
+      },
+      "english": "All machines need a hull to keep their private parts together. Good news is: They are crafted in the same way for every tier, only the materials change.\n\n§3As noted on the tooltip, you can also use a machine hull to pass EU through, at 1A. This can be useful for a 1A diode on Thermos servers, splitting cables from 4A->1A or in a cleanroom later. You can also pass items or fluids through it.",
+      "batch": "quests131-211",
+      "note": "第141篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.desc",
+      "before": "所有機器都需要一個外殼來保護它們的敏感部件.好訊息是:它們每一等級都以相同的方式製作,只有材料發生變化.%n%n§3正如tooltip所述,使用機器外殼可以傳輸1A的電流.這可以被用作1A二極體,將電纜內的電流分出1A或是用於稍後的超淨間--在Thermos伺服器裡會很有用.同樣,物品或流體也可以透過機器外殼傳輸.",
+      "after": "所有機器都需要一個外殼來保護它們的敏感部件.好訊息是:它們每一等級都以相同的方式製作,只有材料發生變化.%n%n§3正如物品提示所述,使用機器外殼可以傳輸1A的電流.這可以被用作1A二極體,將電纜內的電流分出1A或是用於稍後的超淨間--在Thermos伺服器裡會很有用.同樣,物品或流體也可以透過機器外殼傳輸.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingMac-AAAAAAAAAAAAAAAAAAAASQ==.json",
+        "field": "english_desc"
+      },
+      "english": "All machines need a hull to keep their private parts together. Good news is: They are crafted in the same way for every tier, only the materials change.\n\n§3As noted on the tooltip, you can also use a machine hull to pass EU through, at 1A. This can be useful for a 1A diode on Thermos servers, splitting cables from 4A->1A or in a cleanroom later. You can also pass items or fluids through it.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第141篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest73.desc",
+      "before": "所有機器都需要一個外殼來保護它們的敏感部件.好訊息是:它們每一等級都以相同的方式製作,只有材料發生變化.%n%n§3正如tooltip所述,使用機器外殼可以傳輸1A的電流.這可以被用作1A二極體,將電纜內的電流分出1A或是用於稍後的超淨間--在Thermos伺服器裡會很有用.同樣,物品或流體也可以透過機器外殼傳輸.",
+      "after": "所有機器都需要一個外殼來保護它們的敏感部件.好訊息是:它們每一等級都以相同的方式製作,只有材料發生變化.%n%n§3正如物品提示所述,使用機器外殼可以傳輸1A的電流.這可以被用作1A二極體,將電纜內的電流分出1A或是用於稍後的超淨間--在Thermos伺服器裡會很有用.同樣,物品或流體也可以透過機器外殼傳輸.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicCraftingMac-AAAAAAAAAAAAAAAAAAAASQ==.json",
+        "field": "english_desc"
+      },
+      "english": "All machines need a hull to keep their private parts together. Good news is: They are crafted in the same way for every tier, only the materials change.\n\n§3As noted on the tooltip, you can also use a machine hull to pass EU through, at 1A. This can be useful for a 1A diode on Thermos servers, splitting cables from 4A->1A or in a cleanroom later. You can also pass items or fluids through it.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第141篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVA.name",
+      "before": "§c§l我該怎麼儲存這麼多流體？",
+      "after": "§c§l我該怎麼儲存這麼多流體？",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WhereCanIPutAllt-AAAAAAAAAAAAAAAAAAAAVA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lWhere Can I Put All the Liquids?",
+      "batch": "quests131-211",
+      "note": "第142篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVA.desc",
+      "before": "使用全新的合金爐，你就可以熔合兩種材料。如果把黑曜石粉和增厚玻璃混合，會發生什麼？得到了黑曜石玻璃，真好。你可以做的第一個儲罐是BC儲罐，它最多可以容納16桶的單一液體。這些儲罐可以升級，容量最高可達64桶。%n你還可以堆疊多個儲罐，提升總容量。",
+      "after": "使用全新的合金爐，你就可以熔合兩種材料。如果把黑曜石粉和增厚玻璃混合，會發生什麼？得到了黑曜石玻璃，真好。你可以做的第一個儲罐是BC儲罐，它最多可以容納16桶的單一液體。這些儲罐可以升級，容量最高可達64桶。%n你還可以堆疊多個儲罐，提升總容量。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WhereCanIPutAllt-AAAAAAAAAAAAAAAAAAAAVA==.json",
+        "field": "english_desc"
+      },
+      "english": "With your brand new alloy smelter you are able to combine two materials. What happens if you mix some obsidian dust and thickened glass? Obsidian glass, great. Your first tank that you can make would be a Buildcraft tank. This tank can carry up 16 buckets of a single fluid. It's possible to upgrade those tanks so they can hold up to 64 buckets.\nYou can also stack the tanks to increase capacity.",
+      "batch": "quests131-211",
+      "note": "第142篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.name",
+      "before": "§c§l打火石",
+      "after": "§c§l打火石",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/FlintandSteel-AAAAAAAAAAAAAAAAAAAB3g==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lFlint and Steel",
+      "batch": "quests131-211",
+      "note": "第143篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.desc",
+      "before": "等你煉出鋼來，就能合成打火石了。我敢打賭，你肯定可想直奔地獄了，不過你得先心裡有數：這裡的地獄是一個非常非常危險的地方！%n%n注意：苔蘚球能讓匠魂工具緩慢自我修復，但要是工具完全損壞了，它可沒法給你救回來。%n%n還有，用打火石點火，有時候得多試幾下才能點著。",
+      "after": "等你煉出鋼來，就能合成打火石了。我敢打賭，你肯定很想直奔地獄了，不過你得先心裡有數：這裡的地獄是一個非常非常危險的地方！%n%n注意：苔蘚球能讓匠魂工具緩慢自我修復，但要是工具完全損壞了，它可沒法給你救回來。%n%n還有，用打火石點火，有時候得多試幾下才能點著。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/FlintandSteel-AAAAAAAAAAAAAAAAAAAB3g==.json",
+        "field": "english_desc"
+      },
+      "english": "After you make steel you are able to craft flint and steel. I guess you'll want to travel to the Nether as soon as possible but be aware; the Nether is a very dangerous place.\n\nNote: The ball of moss gives a tinker's tool self-repair. But if the tool is completely broken, it won't repair it.\n\nNote that the flint and steel can take a few times to work.",
+      "batch": "quests131-211",
+      "note": "第143篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.name",
+      "before": "§c§l地獄",
+      "after": "§c§l地獄",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/THENETHER-AAAAAAAAAAAAAAAAAAAB3w==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lTHE NETHER",
+      "batch": "quests131-211",
+      "note": "第144篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.desc",
+      "before": "現在這裡可更危險了，遍地都是加強版的精英怪。玩得開心，小心為上。記住，打火石偶爾得多打幾次才能著，但點火的法子也不止這一種……%n%n一定要帶個結實的同伴一起去，好保你活命。要是沒朋友，何不搭個鐵傀儡，先把它推進去探路呢？或者乾脆隨身帶上能造更多傀儡的材料？%n%n另外，你§l絕對§r會死在這地方，不是萬一。而且因為環境太暗，你的墳頭還會刷出骷髏來。所以千萬提前給那些你覺得自己會翻車的地方插滿火把，等回頭去撿屍時，也§l一定§r要先點亮那片區域，免得你一次又一次地原地暴斃，弄得一團糟。%n%n當心某些怪物！除非使用針對性武器，否則它們只會受到極微量的傷害。所以，如果你覺得你打怪沒傷害，你多半是沒用對方法！考慮用其他方法來傷害或弄死它們吧。",
+      "after": "現在這裡可更危險了，遍地都是加強版的精英怪。玩得開心，小心為上。記住，打火石偶爾得多打幾次才能著，但點火的法子也不止這一種……%n%n一定要帶個結實的同伴一起去，好保你活命。要是沒朋友，何不搭個鐵傀儡，先把它推進去探路呢？或者乾脆隨身帶上能造更多傀儡的材料？%n%n另外，你§l絕對§r會死在這地方，不是萬一。而且因為環境太暗，你的墳頭還會刷出骷髏來。所以千萬提前給那些你覺得自己會翻車的地方插滿火把，等回頭去撿屍時，也§l一定§r要先點亮那片區域，免得你一次又一次地原地暴斃，弄得一團糟。%n%n當心某些怪物！除非使用針對性武器，否則它們只會受到極微量的傷害。所以，如果你覺得你打怪沒傷害，你多半是沒用對方法！考慮用其他方法來傷害或弄死它們吧。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/THENETHER-AAAAAAAAAAAAAAAAAAAB3w==.json",
+        "field": "english_desc"
+      },
+      "english": "Now more dangerous with extra hardcore infernal mobs. Have fun and take care. Remember that the flint and steel can take a few times to work, but there are other ways to make fire ...\n\nBe sure to bring a tough companion along to keep you alive. If you have no friends, why not make an Iron Golem and push it through first, or bring the materials for more along with you?\n\nAlso, §lwhen§r you die here, not if, your graves will spawn skeletons because of the darkness. Make sure you light up areas where you might die, and when recovering graves light up the area §lfirst§r so that you don't end up dying over and over and making a mess.\n\nWatch out for some mobs! They'll take minimal damage from any weapon that is not their weakness. So if you seem to not be doing much damage, you probably aren't! Think about other options to hurt/kill the monster.",
+      "batch": "quests131-211",
+      "note": "第144篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.name",
+      "before": "§c§l線材軋機v0.2測試版",
+      "after": "§c§l線材軋機v0.2測試版",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Wiremillv02Alpha-AAAAAAAAAAAAAAAAAAAB7Q==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lWiremill v0.2 Alpha",
+      "batch": "quests131-211",
+      "note": "第145篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.desc",
+      "before": "小型齒輪需要用剪線鉗制造，所以來做一個吧。",
+      "after": "小型齒輪需要用剪線鉗製作，所以來做一個吧。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Wiremillv02Alpha-AAAAAAAAAAAAAAAAAAAB7Q==.json",
+        "field": "english_desc"
+      },
+      "english": "Small gears require a wire cutter to be made, so let's craft one.",
+      "batch": "quests131-211",
+      "note": "第145篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.desc",
+      "before": "小型齒輪需要用剪線鉗制造,所以讓我們製作一個.",
+      "after": "小型齒輪需要用剪線鉗製作,所以讓我們製作一個.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Wiremillv02Alpha-AAAAAAAAAAAAAAAAAAAB7Q==.json",
+        "field": "english_desc"
+      },
+      "english": "Small gears require a wire cutter to be made, so let's craft one.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第145篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest493.desc",
+      "before": "小型齒輪需要用剪線鉗制造,所以讓我們製作一個.",
+      "after": "小型齒輪需要用剪線鉗製作,所以讓我們製作一個.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Wiremillv02Alpha-AAAAAAAAAAAAAAAAAAAB7Q==.json",
+        "field": "english_desc"
+      },
+      "english": "Small gears require a wire cutter to be made, so let's craft one.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第145篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.name",
+      "before": "§c§l哇，亮晶晶！（不是鉑金！）",
+      "after": "§c§l哇，亮晶晶！（不是鉑金！）",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/OooShinyNotPlati-AAAAAAAAAAAAAAAAAAAB7w==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lOoo, Shiny! (Not Platinum!)",
+      "batch": "quests131-211",
+      "note": "第146篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.desc",
+      "before": "要製作你的第一臺研磨機，需要兩顆鑽石；而進入暮色森林也需要一顆。找到一條鑽石礦脈能讓你省心不少。去Y軸5-20的區域找找看吧。",
+      "after": "要製作你的第一臺研磨機，需要兩顆鑽石；而進入暮色森林也需要一顆。找到一條鑽石礦脈能讓你省心不少。去Y軸5-20的區域找找看吧。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/OooShinyNotPlati-AAAAAAAAAAAAAAAAAAAB7w==.json",
+        "field": "english_desc"
+      },
+      "english": "To make your first macerator you need two diamonds, and to enter the Twilight Forest you need one. Finding a diamond vein would help you a lot. Go and look for one at Y 5-20.",
+      "batch": "quests131-211",
+      "note": "第146篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.name",
+      "before": "§c§l如何製作橡膠",
+      "after": "§c§l如何製作橡膠",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowtoMakeRubber-AAAAAAAAAAAAAAAAAAAB8A==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lHow to Make Rubber",
+      "batch": "quests131-211",
+      "note": "第147篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.desc",
+      "before": "現在製造橡膠變得更復雜了——你需要生橡膠和硫粉。去地獄找一條硫礦脈似乎是個不錯的主意，不是嗎？硫礦脈會生成在Y軸5-20的範圍內。之後，你也可以從硫化氫或黃鐵礦等化學品中獲取硫。%n%n[warn]閃鋅礦以後對製備鎵和鋅很重要。在你進入LV能完整處理它之前，先囤著別動。[/warn]",
+      "after": "現在製造橡膠變得更複雜了——你需要生橡膠和硫粉。去地獄找一條硫礦脈似乎是個不錯的主意，不是嗎？硫礦脈會生成在Y軸5-20的範圍內。之後，你也可以從硫化氫或黃鐵礦等化學品中獲取硫。%n%n[warn]閃鋅礦以後對製備鎵和鋅很重要。在你進入LV能完整處理它之前，先囤著別動。[/warn]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowtoMakeRubber-AAAAAAAAAAAAAAAAAAAB8A==.json",
+        "field": "english_desc"
+      },
+      "english": "Making rubber is now more complicated - you need raw rubber and sulfur. Finding a sulfur vein in the Nether seems like a good idea, doesn't it? Found on Y 5-20. Later on you can get sulfur from chemicals like hydrogen sulfide or pyrite.\n\n[warn]Sphalerite will be important later for gallium and zinc. Save it until you can fully process it in LV.[/warn]",
+      "batch": "quests131-211",
+      "note": "第147篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name",
+      "before": "§c§l點燃制炭之路",
+      "after": "§c§l點燃製炭之路",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LitWaytoGetCharr-AAAAAAAAAAAAAAAAAAAB8Q==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lLit Way to Get Charred",
+      "batch": "quests131-211",
+      "note": "第148篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc",
+      "before": "“木炭堆點火器”是一種批次生產木炭的另一種選擇。該裝置不消耗電力或蒸汽，但會產生大量汙染。操作步驟如下：%n%n1. 用磚塊鋪設最大不超過11×11格的地板；%n2. 在磚地板上堆放1-5層高的原木（不能留有空隙）；%n3. 將木炭堆點火器置於頂層原木中心格的正上方；%n4. 用泥土或草方塊覆蓋原木堆其餘暴露面；%n5. 木炭堆點火器將立即開始工作；%n6. 經過一段時間，原木將轉化為易碎的木炭塊；%n7. 使用斧頭破壞這些方塊以獲取木炭（時運附魔不會影響掉落率）。%n%n如果這是你第一次搭建多方塊結構，請開啟揹包介面並將滑鼠懸停在物品上方，然後按住Shift鍵以檢視擴充套件tooltip瞭解建造要求，或訪問[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]獲取帶步驟圖解的詳細說明。",
+      "after": "“木炭堆點火器”是一種批次生產木炭的另一種選擇。該裝置不消耗電力或蒸汽，但會產生大量汙染。操作步驟如下：%n%n1. 用磚塊鋪設最大不超過11×11格的地板；%n2. 在磚地板上堆放1-5層高的原木（不能留有空隙）；%n3. 將木炭堆點火器置於頂層原木中心格的正上方；%n4. 用泥土或草方塊覆蓋原木堆其餘暴露面；%n5. 木炭堆點火器將立即開始工作；%n6. 經過一段時間，原木將轉化為易碎的木炭塊；%n7. 使用斧頭破壞這些方塊以獲取木炭（時運附魔不會影響掉落率）。%n%n如果這是你第一次搭建多方塊結構，請開啟揹包介面並將滑鼠懸停在物品上方，然後按住Shift鍵以檢視詳細物品提示瞭解建造要求，或訪問[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]獲取帶步驟圖解的詳細說明。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LitWaytoGetCharr-AAAAAAAAAAAAAAAAAAAB8Q==.json",
+        "field": "english_desc"
+      },
+      "english": "The \"Charcoal Pile Igniter\" is an alternative option for mass-producing charcoal. It does not consume any power or steam, but generates a lot of pollution. Follow the steps below to get it working.\n\n1. Build a brick floor no bigger than 11x11 in size.\n2. Place 1-5 layers of logs atop the brick floor. No air gaps allowed.\n3. Place the Charcoal Pile Igniter above the top-center log.\n4. Surround the remaining logs in dirt or grass.\n5. The Charcoal Pile Igniter immediately starts processing\n6. After some time, the logs are converted to brittle charcoal blocks.\n7. Break the blocks with an axe for the charcoal (Luck/Fortune has NO effect on the drop rates).\n\nIf this is your first multiblock, read the extended tooltip (hold shift) for construction requirements, or visit [url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url] for more information and step-by-step images.",
+      "batch": "quests131-211",
+      "note": "第148篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name",
+      "before": "§3§l點燃制炭之路",
+      "after": "§3§l點燃製炭之路",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LitWaytoGetCharr-AAAAAAAAAAAAAAAAAAAB8Q==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lLit Way to Get Charred",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第148篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc",
+      "before": "“木炭堆點火器”是一種批次生產木炭的替代方案。該裝置不消耗電力或蒸汽，但會產生大量汙染。操作步驟如下：%n%n1. 用磚塊搭建最大不超過11×11格的地板%n2. 在磚地板上鋪設1-5層高的原木（不能留有空隙）%n3. 將木炭堆點火器置於頂層原木中心格的正上方%n4. 用泥土或草方塊覆蓋原木堆其餘暴露面%n5. 木炭堆點火器將立即開始工作%n6. 經過一段時間，原木將轉化為易碎的木炭塊%n7. 使用斧頭破壞它以獲取木炭（幸運/時運附魔不會影響掉落率）%n%n如果這是你第一次搭建多方塊結構，請開啟揹包介面並將滑鼠懸停在物品上方，然後按住Shift鍵以檢視擴充套件tooltip瞭解建造要求，或訪問[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]獲取帶步驟圖解的詳細說明。",
+      "after": "“木炭堆點火器”是一種批次生產木炭的替代方案。該裝置不消耗電力或蒸汽，但會產生大量汙染。操作步驟如下：%n%n1. 用磚塊搭建最大不超過11×11格的地板%n2. 在磚地板上鋪設1-5層高的原木（不能留有空隙）%n3. 將木炭堆點火器置於頂層原木中心格的正上方%n4. 用泥土或草方塊覆蓋原木堆其餘暴露面%n5. 木炭堆點火器將立即開始工作%n6. 經過一段時間，原木將轉化為易碎的木炭塊%n7. 使用斧頭破壞它以獲取木炭（幸運/時運附魔不會影響掉落率）%n%n如果這是你第一次搭建多方塊結構，請開啟揹包介面並將滑鼠懸停在物品上方，然後按住Shift鍵以檢視詳細物品提示瞭解建造要求，或訪問[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]獲取帶步驟圖解的詳細說明。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LitWaytoGetCharr-AAAAAAAAAAAAAAAAAAAB8Q==.json",
+        "field": "english_desc"
+      },
+      "english": "The \"Charcoal Pile Igniter\" is an alternative option for mass-producing charcoal. It does not consume any power or steam, but generates a lot of pollution. Follow the steps below to get it working.\n\n1. Build a brick floor no bigger than 11x11 in size.\n2. Place 1-5 layers of logs atop the brick floor. No air gaps allowed.\n3. Place the Charcoal Pile Igniter above the top-center log.\n4. Surround the remaining logs in dirt or grass.\n5. The Charcoal Pile Igniter immediately starts processing\n6. After some time, the logs are converted to brittle charcoal blocks.\n7. Break the blocks with an axe for the charcoal (Luck/Fortune has NO effect on the drop rates).\n\nIf this is your first multiblock, read the extended tooltip (hold shift) for construction requirements, or visit [url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url] for more information and step-by-step images.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第148篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest497.name",
+      "before": "§4§3§l點燃制炭之路",
+      "after": "§4§3§l點燃製炭之路",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LitWaytoGetCharr-AAAAAAAAAAAAAAAAAAAB8Q==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lLit Way to Get Charred",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第148篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.name",
+      "before": "§c§l工具裝配臺",
+      "after": "§c§l工具裝配台",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ToolForge-AAAAAAAAAAAAAAAAAAAC5Q==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lTool Forge",
+      "batch": "quests131-211",
+      "note": "第149篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.desc",
+      "before": "製造出鋅曜鋼後，就該製作工具裝配臺，以便製造更大（也更好）的匠魂工具了。%n%n§3你不必使用鐵來製作裝配臺；還可以使用其他材料，例如錫或銅等。%n%n[note]中文wiki 匠魂工具：§1§n[url]https://gtnh.huijiwiki.com/p/94730[/url]§r[/note]",
+      "after": "製造出鋅曜鋼後，就該製作工具裝配台，以便製造更大（也更好）的匠魂工具了。%n%n§3你不必使用鐵來製作裝配台；還可以使用其他材料，例如錫或銅等。%n%n[note]中文wiki 匠魂工具：§1§n[url]https://gtnh.huijiwiki.com/p/94730[/url]§r[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ToolForge-AAAAAAAAAAAAAAAAAAAC5Q==.json",
+        "field": "english_desc"
+      },
+      "english": "After getting obzinite, it's time to craft a tool forge for making bigger (and better) Tinkers tools.\n\n§3You do not have to use iron to create the forge; you can also use other materials like tin or copper, among others.",
+      "batch": "quests131-211",
+      "note": "第149篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.name",
+      "before": "§3§l工具裝配臺",
+      "after": "§3§l工具裝配台",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ToolForge-AAAAAAAAAAAAAAAAAAAC5Q==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lTool Forge",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第149篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.desc",
+      "before": "製造出鋅曜鋼後,為了製造更大(並且更好)的匠魂工具了,是時候製作一個工具裝配臺了.%n%n§3現在鑄模不一定需要使用鐵來製作;您還可以使用其他材料,例如錫或銅等.",
+      "after": "製造出鋅曜鋼後,為了製造更大(並且更好)的匠魂工具了,是時候製作一個工具裝配台了.%n%n§3工具裝配台不一定需要使用鐵來製作;您還可以使用其他材料,例如錫或銅等.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ToolForge-AAAAAAAAAAAAAAAAAAAC5Q==.json",
+        "field": "english_desc"
+      },
+      "english": "After getting obzinite, it's time to craft a tool forge for making bigger (and better) Tinkers tools.\n\n§3You do not have to use iron to create the forge; you can also use other materials like tin or copper, among others.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第149篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest741.name",
+      "before": "§5§3§l工具裝配臺",
+      "after": "§5§3§l工具裝配台",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ToolForge-AAAAAAAAAAAAAAAAAAAC5Q==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lTool Forge",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第149篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest741.desc",
+      "before": "製出鋁錠後,時候後製作一個工具裝配臺,進而製造更大(並且更好)的匠魂工具了.",
+      "after": "製出鋁錠後,時候後製作一個工具裝配台,進而製造更大(並且更好)的匠魂工具了.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ToolForge-AAAAAAAAAAAAAAAAAAAC5Q==.json",
+        "field": "english_desc"
+      },
+      "english": "After getting obzinite, it's time to craft a tool forge for making bigger (and better) Tinkers tools.\n\n§3You do not have to use iron to create the forge; you can also use other materials like tin or copper, among others.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第149篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5g.name",
+      "before": "§c§l一格一格挖礦已經過氣了",
+      "after": "§c§l一格一格挖礦已經過氣了",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/OneBlockMiningis-AAAAAAAAAAAAAAAAAAAC5g==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lOne Block Mining is so Old School",
+      "batch": "quests131-211",
+      "note": "第150篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5g.desc",
+      "before": "製作一柄大錘，你就可以一次挖3x3範圍的礦。你可以使用各種材料，如冶煉爐中澆鑄出的鐵、鋼或鋅曜鋼，不一定非得是鋼。更高階的材料需要MV壓模機。你需要一個錘頭、兩個大板、一個堅韌手柄來製造一柄大錘。在地獄小心點，因為一不小心你就會被岩漿煮熟。%n%n§6本任務接受任意材料製成的相應工具。",
+      "after": "製作一柄大錘，你就可以一次挖3x3範圍的礦。你可以使用各種材料，如冶煉爐中澆鑄出的鐵、鋼或鋅曜鋼，不一定非得是鋼。更高階的材料需要MV壓模機。你需要一個錘頭、兩個大板、一個堅韌手柄來製造一柄大錘。在地獄小心點，因為一不小心你就會被岩漿煮熟。%n%n§6本任務接受任意材料製成的相應工具。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/OneBlockMiningis-AAAAAAAAAAAAAAAAAAAC5g==.json",
+        "field": "english_desc"
+      },
+      "english": "By making a hammer you are now able to mine a shaft of 3x3 blocks. You can use iron, steel, or obzinite poured from the Smeltery, it doesn't need to be steel. Higher tier metals require the MV extruder. You'll need a hammer head, two large plates and a large rod for your hammer. Be careful in the Nether or you could be boiled in lava very quickly.\n\n§6The quest should accept the tool whatever materials you used.",
+      "batch": "quests131-211",
+      "note": "第150篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5w.name",
+      "before": "§c§l一根一根砍樹已經過氣了",
+      "after": "§c§l一根一根砍樹已經過氣了",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/CuttingaTreelogb-AAAAAAAAAAAAAAAAAAAC5w==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lCutting a Tree log by log is so Old School",
+      "batch": "quests131-211",
+      "note": "第151篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5w.desc",
+      "before": "製作一把伐木斧，你就可以一次砍倒整棵樹。當你準備砍掉一棵神聖橡木時，別忘了帶上揹包。%n%n專業建議：用木質模具做出一個純地獄岩材質的伐木斧——挖掘速度越慢，升級所需的經驗越少。然後在升級得到的強化槽中打上耐久升級。等你等級刷夠了，就可以換更好的材料了，例如鋼、鋅曜鋼或者其他材料。記住，自動熔鍊不會生效，別試著打上自動熔鍊。%n%n本任務接受任意材料製成的伐木斧。",
+      "after": "製作一把伐木斧，你就可以一次砍倒整棵樹。當你準備砍掉一棵神聖橡木時，別忘了帶上揹包。%n%n專業建議：用木質模具做出一個純地獄岩材質的伐木斧——挖掘速度越慢，升級所需的經驗越少。然後在升級得到的強化槽中打上耐久升級。等你等級刷夠了，就可以換更好的材料了，例如鋼、鋅曜鋼或者其他材料。記住，自動熔鍊不會生效，別試著打上自動熔鍊。%n%n本任務接受任意材料製成的伐木斧。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/CuttingaTreelogb-AAAAAAAAAAAAAAAAAAAC5w==.json",
+        "field": "english_desc"
+      },
+      "english": "By making a lumber axe, you are now able to cut down an entire tree in one hit. Don't forget your backpack when you're cutting a sacred oak down.\n\nProtip: With wooden equivalents of casts, make a lumber axe completely out of netherrack - lower mining speed means less XP needed to level it up. Use the modifier slots to add Reinforced. Once you've leveled it up enough, upgrade the parts for better ones, such as steel, obzinite, or others. The higher-level metals will require an MV Extruder. Keep in mind that the auto-smelt modifier doesn't work, so don't bother with it.\n\nThe quest will accept a lumber axe from any material.",
+      "batch": "quests131-211",
+      "note": "第151篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6A.name",
+      "before": "§c§l一塊一塊挖土已經過氣了",
+      "after": "§c§l一塊一塊挖土已經過氣了",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MiningDirtBlockb-AAAAAAAAAAAAAAAAAAAC6A==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lMining Dirt Block by Block is so Old School",
+      "batch": "quests131-211",
+      "note": "第152篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6A.desc",
+      "before": "製作一把挖掘鏟，你就可以一次挖3x3範圍的土。你可以使用各種材料，如冶煉爐中澆鑄出的鐵、鋼或鋅曜鋼，不一定非得是鋼。%n%n更高階的材料需要MV壓模機。別不小心毀了你的整個花園。%n%n§6本任務接受任意材料製成的相應工具。",
+      "after": "製作一把挖掘鏟，你就可以一次挖3x3範圍的土。你可以使用各種材料，如冶煉爐中澆鑄出的鐵、鋼或鋅曜鋼，不一定非得是鋼。%n%n更高階的材料需要MV壓模機。別不小心毀了你的整個花園。%n%n§6本任務接受任意材料製成的相應工具。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MiningDirtBlockb-AAAAAAAAAAAAAAAAAAAC6A==.json",
+        "field": "english_desc"
+      },
+      "english": "By making an excavator you are now able to mine dirt in a 3x3 area. You can use iron, steel, or obzinite poured from the Smeltery, it doesn't need to be steel.\n\nHigher tier metals require the MV extruder. Don't destroy your whole garden.\n\n§6The quest should accept the tool whatever materials you used.",
+      "batch": "quests131-211",
+      "note": "第152篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACFg.name",
+      "before": "§c§l什麼！汙染？",
+      "after": "§c§l什麼！汙染？",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/PollutionWhat-AAAAAAAAAAAAAAAAAAACFg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lPollution What....?",
+      "batch": "quests131-211",
+      "note": "第153篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACFg.desc",
+      "before": "如果你的磚高爐執行了很久，在你接近它的時候可能會出現噁心、頭痛或者其他奇怪的症狀。沒錯，這就是傳說中的汙染……如果你能收集一些橡膠片，我可以賣你一套防化服來抵禦汙染。%n%n[note]中文wiki 汙染：§1§n[url]https://gtnh.huijiwiki.com/p/795[/url]§r[/note]",
+      "after": "如果你的磚高爐執行了很久，在你接近它的時候可能會出現噁心、頭痛或者其他奇怪的症狀。沒錯，這就是傳說中的汙染……如果你能收集一些橡膠片，我可以賣你一套防化服來抵禦汙染。%n%n[note]中文wiki 汙染：§1§n[url]https://gtnh.huijiwiki.com/p/795[/url]§r[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/PollutionWhat-AAAAAAAAAAAAAAAAAAACFg==.json",
+        "field": "english_desc"
+      },
+      "english": "If you are running your bricked blast furnace for a long time you will sometimes get headaches, nausea and other weird effects. Yes this is pollution... from making so much steel. If you can collect some rubber sheets, I will trade you a complete hazmat suit.",
+      "batch": "quests131-211",
+      "note": "第153篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACGA.name",
+      "before": "§c§l橡膠片",
+      "after": "§c§l橡膠片",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/RubberSheets-AAAAAAAAAAAAAAAAAAACGA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lRubber Sheets",
+      "batch": "quests131-211",
+      "note": "第154篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACGA.desc",
+      "before": "讓我們來做一個板模具，以製作橡膠片。橡膠片主要用於製作傳送帶和線纜。%n%n在現階段，用橡膠片手工製造線纜比合金爐的配方更快，成本更低。%n%n有了這些橡膠片，你就可以製作活塞靴子——這會大大提高你的移動能力。可以在工作列“遊歷四方”中找到相關任務。",
+      "after": "讓我們來做一個板模具，以製作橡膠片。橡膠片主要用於製作傳送帶和線纜。%n%n在現階段，用橡膠片手工製造線纜比合金爐的配方更快，消耗的能源也更少。%n%n有了這些橡膠片，你就可以製作活塞靴子——這會大大提高你的移動能力。可以在任務章節“遊歷四方”中找到相關任務。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/RubberSheets-AAAAAAAAAAAAAAAAAAACGA==.json",
+        "field": "english_desc"
+      },
+      "english": "Let's make a mold for the rubber sheets. They are mainly used for conveyors and cables.\n\nAt this stage, making cables by hand with rubber sheets is faster and cheaper in power than the Alloy Smelter recipe for the cables.\n\nWith the sheets, you should be able to craft Piston Boots - a massive upgrade to your mobility. Check out the questline Getting Around to find them.",
+      "batch": "quests131-211",
+      "note": "第154篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACGA.desc",
+      "before": "讓我們來做一個板模具，以製作橡膠片。橡膠片主要用於傳送帶和線纜。%n%n在現階段，用橡膠片手工製造線纜比合金爐的配方更快，成本更低。%n%n有了這些橡膠片，你就可以製作活塞靴子 - 這將大大提高你的移動能力。可以在任務“遊歷四方”中找到這個任務。",
+      "after": "讓我們來做一個板模具，以製作橡膠片。橡膠片主要用於傳送帶和線纜。%n%n在現階段，用橡膠片手工製造線纜比合金爐的配方更快，消耗的能源也更少。%n%n有了這些橡膠片，你就可以製作活塞靴子 - 這將大大提高你的移動能力。可以在任務“遊歷四方”中找到這個任務。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/RubberSheets-AAAAAAAAAAAAAAAAAAACGA==.json",
+        "field": "english_desc"
+      },
+      "english": "Let's make a mold for the rubber sheets. They are mainly used for conveyors and cables.\n\nAt this stage, making cables by hand with rubber sheets is faster and cheaper in power than the Alloy Smelter recipe for the cables.\n\nWith the sheets, you should be able to craft Piston Boots - a massive upgrade to your mobility. Check out the questline Getting Around to find them.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第154篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.name",
+      "before": "§c§l這麼多東西往哪放？",
+      "after": "§c§l這麼多東西往哪放？",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowCanICarryAllT-AAAAAAAAAAAAAAAAAAACLg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lHow Can I Carry All These Items?",
+      "batch": "quests131-211",
+      "note": "第155篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc",
+      "before": "在你燒煉第一塊鋼後，你就能製作一個小揹包。它有36個格子，比一個小箱子多一點，後面你還能給它擴容。%n%n你最多可以在物品欄內同時放四個這種揹包。%n%n你可以背上一個並將其設定為自動撿拾模式，檢查“控制”中的“開啟揹包”快捷鍵是否已繫結並且沒有衝突。繫結的快捷鍵僅在揹包放入其GUI槽位（Shift+<開啟揹包快捷鍵>）後方可生效。%n§r%n當在手上拿著揹包的時候，你可以透過Shift+滑鼠右鍵重新命名你的揹包。",
+      "after": "在你燒煉第一塊鋼後，你就能製作一個小揹包。它有36個格子，比一個小箱子多一點，後面你還能給它擴容。%n%n你最多可以在物品欄內同時放四個這種揹包。%n%n你可以背上一個並將其設定為自動撿拾模式，檢查“控制”中的“開啟揹包”快捷鍵是否已繫結並且沒有衝突。繫結的快捷鍵僅在揹包放入背部槽位（Shift+<開啟揹包快捷鍵>）後方可生效。%n§r%n當在手上拿著揹包的時候，你可以透過Shift+滑鼠右鍵重新命名你的揹包。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowCanICarryAllT-AAAAAAAAAAAAAAAAAAACLg==.json",
+        "field": "english_desc"
+      },
+      "english": "After you made your first steel, you are able to craft a small backpack. It has 36 slots, which is a bit more than a small chest. Later you can make it even larger.\n\nYou can have at most four of these backpacks in your inventory.\n\nYou can put one on your back and set it to automatically pick up stuff. In your controls, check that the command \"Open Backpacks\" has a key and doesn't have conflicts. The key only works after the backpack is added to the back slot, which can be done by using Shift+<Open Backpacks Key>.\n§r\nYou can rename your backpack by pressing Shift+RMB when holding it in your hand.",
+      "batch": "quests131-211",
+      "note": "第155篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc",
+      "before": "在你燒煉第一塊鋼後,你就能製作一個小揹包.它有36個格子,比一個小箱子多一點.稍後你還能擴大它.%n%n你最多可以在物品欄內同時擁有四個揹包.%n%n你可以背上一個並將其設定為自動撿拾模式.檢查\"控制\"中的\"開啟揹包(Open-Backpacks)\"快捷鍵是否已繫結並且沒有衝突.繫結的快捷鍵僅在揹包放入其GUI槽位(Shift+<開啟揹包快捷鍵>)後方可生效.%n§r%n當在手上拿著揹包的時候,你可以透過 Shift+滑鼠右鍵 重新命名你的揹包.%n%n譯者注:透過腰帶或揹包切換物品欄即可攜帶更多揹包.",
+      "after": "在你燒煉第一塊鋼後,你就能製作一個小揹包.它有36個格子,比一個小箱子多一點.稍後你還能擴大它.%n%n你最多可以在物品欄內同時擁有四個揹包.%n%n你可以背上一個並將其設定為自動撿拾模式.檢查\"控制\"中的\"開啟揹包(Open-Backpacks)\"快捷鍵是否已繫結並且沒有衝突.繫結的快捷鍵僅在揹包放入背部槽位(Shift+<開啟揹包快捷鍵>)後方可生效.%n§r%n當在手上拿著揹包的時候,你可以透過 Shift+滑鼠右鍵 重新命名你的揹包.%n%n譯者注:透過腰帶或揹包切換物品欄即可攜帶更多揹包.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowCanICarryAllT-AAAAAAAAAAAAAAAAAAACLg==.json",
+        "field": "english_desc"
+      },
+      "english": "After you made your first steel, you are able to craft a small backpack. It has 36 slots, which is a bit more than a small chest. Later you can make it even larger.\n\nYou can have at most four of these backpacks in your inventory.\n\nYou can put one on your back and set it to automatically pick up stuff. In your controls, check that the command \"Open Backpacks\" has a key and doesn't have conflicts. The key only works after the backpack is added to the back slot, which can be done by using Shift+<Open Backpacks Key>.\n§r\nYou can rename your backpack by pressing Shift+RMB when holding it in your hand.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第155篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest558.desc",
+      "before": "在你燒煉第一塊鋼後,你就能製作這個小揹包.在這個揹包裡,你可以放很多你想要帶的東西.它有36個格子,比一個小箱子大一點.稍後你還能擴大它.你可以背上一個並將其設定為自動撿拾模式.%n%n§4檢查\"控制\"中\"揹包\"欄中的\"開啟揹包(Open-Backpacks)\"設定快捷鍵.%n%n繫結的快捷鍵僅在揹包放入其GUI槽位(Shift+<開啟揹包快捷鍵>)後方可生效,包括自動撿拾功能也是如此.%n%n§4你最多可以在物品欄內同時擁有四個揹包.%n%n譯者注:透過腰帶或揹包切換物品欄即可攜帶更多揹包.",
+      "after": "在你燒煉第一塊鋼後,你就能製作這個小揹包.在這個揹包裡,你可以放很多你想要帶的東西.它有36個格子,比一個小箱子大一點.稍後你還能擴大它.你可以背上一個並將其設定為自動撿拾模式.%n%n§4檢查\"控制\"中\"揹包\"欄中的\"開啟揹包(Open-Backpacks)\"設定快捷鍵.%n%n繫結的快捷鍵僅在揹包放入背部槽位(Shift+<開啟揹包快捷鍵>)後方可生效,包括自動撿拾功能也是如此.%n%n§4你最多可以在物品欄內同時擁有四個揹包.%n%n譯者注:透過腰帶或揹包切換物品欄即可攜帶更多揹包.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowCanICarryAllT-AAAAAAAAAAAAAAAAAAACLg==.json",
+        "field": "english_desc"
+      },
+      "english": "After you made your first steel, you are able to craft a small backpack. It has 36 slots, which is a bit more than a small chest. Later you can make it even larger.\n\nYou can have at most four of these backpacks in your inventory.\n\nYou can put one on your back and set it to automatically pick up stuff. In your controls, check that the command \"Open Backpacks\" has a key and doesn't have conflicts. The key only works after the backpack is added to the back slot, which can be done by using Shift+<Open Backpacks Key>.\n§r\nYou can rename your backpack by pressing Shift+RMB when holding it in your hand.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第155篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name",
+      "before": "§c§l升級，升級，升級……",
+      "after": "§c§l升級，升級，升級……",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/UpgradeoftheUpgr-AAAAAAAAAAAAAAAAAAACVA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lUpgrade of the Upgrade of the...",
+      "batch": "quests131-211",
+      "note": "第156篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc",
+      "before": "升級時間到。為你的工具解鎖紅石和黑曜石採掘等級。%n%n記住，更換新工具頭後，其採掘等級會比預想的低一級。所以你需要先充分使用它，攢滿開採經驗，才能使其採掘等級提升至應有水平。去挖平一座山啥的吧！",
+      "after": "升級時間到。為你的工具解鎖紅石和黑曜石採掘等級。%n%n記住，更換新工具頭後，其採掘等級會比預想的低一級。所以你需要先充分使用它，攢滿開採經驗，才能使其採掘等級提升至應有水平。去挖平一座山啥的吧！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/UpgradeoftheUpgr-AAAAAAAAAAAAAAAAAAACVA==.json",
+        "field": "english_desc"
+      },
+      "english": "It's upgrade time. Unlock redstone and obsidian level for your different tools.\n\nRemember, a fresh tool head starts at one level below. So you'll need to use it enough to level it up before you can mine at the proper level. Go strip-mine a mountain or something.",
+      "batch": "quests131-211",
+      "note": "第156篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.name",
+      "before": "§c§l移動你的儲罐、箱子和桶",
+      "after": "§c§l移動你的儲罐、箱子和桶",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MovingYourTanksC-AAAAAAAAAAAAAAAAAAACcQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lMoving Your Tanks, Chests, and Barrels",
+      "batch": "quests131-211",
+      "note": "第157篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc",
+      "before": "想搬運箱子和木桶，還不想讓東西散落一地（說的就是你，Buildcraft™）？  沒問題！做臺手推車，你就可以帶著裝滿的箱子、桶或抽屜到任何地方去。但注意，搬運時會獲得緩慢debuff，希望你要去的地方不怎麼遠。你還可以用它來搬運原本不可移動的BC儲罐和鐵儲罐，而不會丟失其中的液體；也可以搬動工作台，而不會丟失已儲存的配方。%n%n手持空的手推車Shift右擊可以摺疊它。摺疊後它無法攜帶任何東西，但可以堆疊，並且可以放入揹包。%n%n§3PS：以後你可以透過飛行或穿戴旅行者腰帶，無視緩慢debuff。§r",
+      "after": "想搬運箱子和木桶，還不想讓東西散落一地（說的就是你，Buildcraft™）？  沒問題！做臺手推車，你就可以帶著裝滿的箱子、桶或抽屜到任何地方去。但注意，搬運時會獲得緩慢效果，希望你要去的地方不怎麼遠。你還可以用它來搬運原本不可移動的BC儲罐和鐵儲罐，而不會丟失其中的液體；也可以搬動工作台，而不會丟失已儲存的配方。%n%n手持空的手推車Shift右擊可以摺疊它。摺疊後它無法攜帶任何東西，但可以堆疊，並且可以放入揹包。%n%n§3PS：以後你可以透過飛行或穿戴旅行者腰帶，無視緩慢效果。§r",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MovingYourTanksC-AAAAAAAAAAAAAAAAAAACcQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Want to move your chests and barrels without spilling all the things (buildcraft™)? No problem! Make a dolly and you can carry your full chests, barrels or storage drawers anywhere you want. But be warned, you will get a slowness debuff so hopefully you don't have to travel very far. You can also move non-portable buildcraft and iron tanks without losing fluids, and worktables without losing stored recipes.\n\nShift-right-click an empty dolly to collapse it. It won't carry anything until you unfold it, but it will stack and can go in your backpack.\n\n§3PS: Later on you can fly or make a traveller's belt to get around the debuff.§r",
+      "batch": "quests131-211",
+      "note": "第157篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc",
+      "before": "想要搬動箱子而不使物品散落滿地(BC™)?  沒問題!做臺手推車你就可以帶著裝滿的箱子、桶或抽屜到任何地方去.但注意,你會得到緩慢debuff,希望你不是要去太遠的地方.即便是非行動式的BC儲罐和更多儲罐,你也可以透過手推車移動它們(不損失液體),但GT儲罐不行.同時,手推車還可以移動工作台(不損失儲存的合成表).%n%n手持空的手推車Shift右擊可以摺疊它.雖然不重新展開的話它沒法搬運東西,但這樣它就可以堆疊和放進揹包了.%n%n§3PS：以後你可以透過飛行或穿戴旅行者腰帶來繞過緩慢這個debuff.",
+      "after": "想要搬動箱子而不使物品散落滿地(BC™)?  沒問題!做臺手推車你就可以帶著裝滿的箱子、桶或抽屜到任何地方去.但注意,你會得到緩慢效果,希望你不是要去太遠的地方.即便是非行動式的BC儲罐和更多儲罐,你也可以透過手推車移動它們(不損失液體),但GT儲罐不行.同時,手推車還可以移動工作台(不損失儲存的合成表).%n%n手持空的手推車Shift右擊可以摺疊它.雖然不重新展開的話它沒法搬運東西,但這樣它就可以堆疊和放進揹包了.%n%n§3PS：以後你可以透過飛行或穿戴旅行者腰帶來繞過緩慢這個debuff.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MovingYourTanksC-AAAAAAAAAAAAAAAAAAACcQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Want to move your chests and barrels without spilling all the things (buildcraft™)? No problem! Make a dolly and you can carry your full chests, barrels or storage drawers anywhere you want. But be warned, you will get a slowness debuff so hopefully you don't have to travel very far. You can also move non-portable buildcraft and iron tanks without losing fluids, and worktables without losing stored recipes.\n\nShift-right-click an empty dolly to collapse it. It won't carry anything until you unfold it, but it will stack and can go in your backpack.\n\n§3PS: Later on you can fly or make a traveller's belt to get around the debuff.§r",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第157篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACtg.name",
+      "before": "§c§l一個鐵砧……",
+      "after": "§c§l一個鐵砧……",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/OneAnvil-AAAAAAAAAAAAAAAAAAACtg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lOne Anvil...",
+      "batch": "quests131-211",
+      "note": "第158篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACtg.desc",
+      "before": "有了這臺嶄新的壓縮機，你就能壓出金屬塊，合成你的新鐵砧。要製造蒸汽鍛造錘，就必須至少合成一個鐵砧。%n%n§3有了鐵砧你就可以修理、重新命名或附魔護甲及某些（非GT）工具了。§r",
+      "after": "有了這臺嶄新的壓縮機，你就能壓出金屬塊，合成你的新鐵砧。要製造蒸汽鍛造錘，就必須至少合成一個鐵砧。%n%n§3有了鐵砧你就可以修理、重新命名或附魔護甲及某些（非GT）工具了。§r",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/OneAnvil-AAAAAAAAAAAAAAAAAAACtg==.json",
+        "field": "english_desc"
+      },
+      "english": "With your brand-new Compressor you are able to make some metal blocks for your new anvil. You're required to craft at least one for the Forge Hammer.\n\n§3With the anvil you can repair, rename and enchant armor and tools.§r",
+      "batch": "quests131-211",
+      "note": "第158篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACwQ.name",
+      "before": "§c§l加速植物生長",
+      "after": "§c§l加速植物生長",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/AcceleratedPlant-AAAAAAAAAAAAAAAAAAACwQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lAccelerated Plant Growth",
+      "batch": "quests131-211",
+      "note": "第159篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAACwQ.desc",
+      "before": "你可能已經發現了，植物生長得很緩慢。所以為什麼不試著加點速呢？灑水壺會派上用場的。",
+      "after": "你可能已經發現了，植物生長得很緩慢。所以為什麼不試著加點速呢？灑水壺會派上用場的。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/AcceleratedPlant-AAAAAAAAAAAAAAAAAAACwQ==.json",
+        "field": "english_desc"
+      },
+      "english": "As you might've discovered by now, plants grow very slowly. So why don't you try to speed that up a little? A watering can will come in handy.",
+      "batch": "quests131-211",
+      "note": "第159篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8A.name",
+      "before": "§c§l書",
+      "after": "§c§l書",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Books-AAAAAAAAAAAAAAAAAAAD8A==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBooks",
+      "batch": "quests131-211",
+      "note": "第160篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8A.desc",
+      "before": "書這東西很好找，在村莊裡就有，或者在地牢地表的那種磚房也有不少。而且，我敢肯定，這東西也是有合成配方的。%n%n至於膠水……或者我該說是馬？想辦法把一匹馬騙進冶煉爐裡，給它喂乾草吊著命慢慢煉。%n%n或者你也可以等到能去地獄之後，弄些硫磺來做。兩種方法隨你便。",
+      "after": "書這東西很好找，在村莊裡就有，或者在地牢地表的那種磚房也有不少。而且，我敢肯定，這東西也是有合成配方的。%n%n至於膠水……或者我該說是馬？想辦法把一匹馬騙進冶煉爐裡，給它餵乾草吊著命慢慢煉。%n%n或者你也可以等到能去地獄之後，弄些硫磺來做。兩種方法隨你便。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Books-AAAAAAAAAAAAAAAAAAAD8A==.json",
+        "field": "english_desc"
+      },
+      "english": "Books can be found easily enough in villages or in the roguelike dungeons surface brick house. I'm sure they have a recipe too.\n\nNow glue on the other hand...or should I say horse? Try and get a horse inside a smeltery and feed it hay to keep it alive.\n\nOr you can wait until after you go to the Nether and get some sulfur. Either way.",
+      "batch": "quests131-211",
+      "note": "第160篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.name",
+      "before": "§c§l電路基板",
+      "after": "§c§l電路基板",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/CircuitBoards-AAAAAAAAAAAAAAAAAAADQg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lCircuit Boards",
+      "batch": "quests131-211",
+      "note": "第161篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.desc",
+      "before": "每一塊電路板都需要電路基板。它由覆膜電路基板和銅導線製作而成。",
+      "after": "每個電路都需要電路基板。它由覆膜電路基板和銅導線製作而成。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/CircuitBoards-AAAAAAAAAAAAAAAAAAADQg==.json",
+        "field": "english_desc"
+      },
+      "english": "For every circuit you need a circuit board. Craft a coated circuit board and use copper wire to finish it.",
+      "batch": "quests131-211",
+      "note": "第161篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.desc",
+      "before": "每一塊電路板都需要電路基板. 它由覆膜電路基板和銅導線製作而成.",
+      "after": "每個電路都需要電路基板. 它由覆膜電路基板和銅導線製作而成.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/CircuitBoards-AAAAAAAAAAAAAAAAAAADQg==.json",
+        "field": "english_desc"
+      },
+      "english": "For every circuit you need a circuit board. Craft a coated circuit board and use copper wire to finish it.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第161篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest834.desc",
+      "before": "每一塊電路板都需要電路基板. 它由覆膜電路基板和銅導線製作而成.",
+      "after": "每個電路都需要電路基板. 它由覆膜電路基板和銅導線製作而成.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/CircuitBoards-AAAAAAAAAAAAAAAAAAADQg==.json",
+        "field": "english_desc"
+      },
+      "english": "For every circuit you need a circuit board. Craft a coated circuit board and use copper wire to finish it.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第161篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.name",
+      "before": "§c§l電阻",
+      "after": "§c§l電阻",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Resistor-AAAAAAAAAAAAAAAAAAADQw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lResistor",
+      "batch": "quests131-211",
+      "note": "第162篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc",
+      "before": "每個電路板都需要兩個電阻。%n%n稍後你還可以製造更好版本的電阻。 %n%n[note]你可以使用黏液球、凝血或者凝膠球等材料代替黏性樹脂！[/note]",
+      "after": "每個基礎電路都需要兩個電阻。%n%n稍後你還可以製造更好版本的電阻。 %n%n[note]你可以使用黏液球、凝血或者凝膠球等材料代替黏性樹脂！[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Resistor-AAAAAAAAAAAAAAAAAAADQw==.json",
+        "field": "english_desc"
+      },
+      "english": "Every basic circuit needs two resistors to work.\n\nThere are better versions you can make later.",
+      "batch": "quests131-211",
+      "note": "第162篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc",
+      "before": "每個電路板都需要兩個電阻.%n%n稍後你還可以製造更好版本的電阻. ",
+      "after": "每個基礎電路都需要兩個電阻.%n%n稍後你還可以製造更好版本的電阻.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Resistor-AAAAAAAAAAAAAAAAAAADQw==.json",
+        "field": "english_desc"
+      },
+      "english": "Every basic circuit needs two resistors to work.\n\nThere are better versions you can make later.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第162篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest835.desc",
+      "before": "每個電路板都需要兩個電阻.%n%n稍後你還可以製造更好版本的電阻. ",
+      "after": "每個基礎電路都需要兩個電阻.%n%n稍後你還可以製造更好版本的電阻.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Resistor-AAAAAAAAAAAAAAAAAAADQw==.json",
+        "field": "english_desc"
+      },
+      "english": "Every basic circuit needs two resistors to work.\n\nThere are better versions you can make later.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第162篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.name",
+      "before": "§c§l青金石、藍金石、方鈉石、方解石",
+      "after": "§c§l青金石、藍金石、方鈉石、方解石",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LapisLazuriteSod-AAAAAAAAAAAAAAAAAAADYw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lLapis, Lazurite, Sodalite, Calcite",
+      "batch": "quests131-211",
+      "note": "第163篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.desc",
+      "before": "為了為了製作磚高爐，你必須找到一條含有方解石的青金石礦脈。%n%n你可以在主世界Y=20-50層找到該礦脈。",
+      "after": "為了製作磚高爐，你必須找到一條含有方解石的青金石礦脈。%n%n你可以在主世界Y=20-50層找到該礦脈。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LapisLazuriteSod-AAAAAAAAAAAAAAAAAAADYw==.json",
+        "field": "english_desc"
+      },
+      "english": "In order to make your bricked blast furnace you need to find a lapis vein containing calcite.\n\nYou can find the vein in the overworld at Y 20-50.",
+      "batch": "quests131-211",
+      "note": "第163篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.name",
+      "before": "§c§l石膏",
+      "after": "§c§l石膏",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Gypsum-AAAAAAAAAAAAAAAAAAADZA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lGypsum",
+      "batch": "quests131-211",
+      "note": "第164篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.desc",
+      "before": "要製作高爐的磚塊，你需要混凝土和石膏。石膏和玄武岩、花崗岩礦砂、漂白土在一條礦脈中共生。該礦脈僅在主世界Y=50-60層出現。",
+      "after": "要製作高爐的磚塊，你需要混凝土和石膏。石膏和玄武岩礦砂、花崗岩礦砂、漂白土在一條礦脈中共生。該礦脈僅在主世界Y=50-60層出現。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Gypsum-AAAAAAAAAAAAAAAAAAADZA==.json",
+        "field": "english_desc"
+      },
+      "english": "To make bricks for the blast furnace you need concrete and gypsum. Gypsum can be found in a vein together with basaltic and granitic mineral sand, and fullers earth. Y 50-60 and only in the overworld.",
+      "batch": "quests131-211",
+      "note": "第164篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.desc",
+      "before": "你需要混凝土和石膏來為你的高爐做磚塊.石膏可以在主世界(50—60層),和玄武岩、花崗岩礦砂、漂白土一起被發現.",
+      "after": "你需要混凝土和石膏來為你的高爐做磚塊.石膏可以在主世界(50—60層),和玄武岩礦砂、花崗岩礦砂、漂白土一起被發現.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Gypsum-AAAAAAAAAAAAAAAAAAADZA==.json",
+        "field": "english_desc"
+      },
+      "english": "To make bricks for the blast furnace you need concrete and gypsum. Gypsum can be found in a vein together with basaltic and granitic mineral sand, and fullers earth. Y 50-60 and only in the overworld.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第164篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest868.desc",
+      "before": "你需要混凝土和石膏來為你的高爐做磚塊.石膏可以在主世界(50—60層),和玄武岩、花崗岩礦砂、漂白土一起被發現.",
+      "after": "你需要混凝土和石膏來為你的高爐做磚塊.石膏可以在主世界(50—60層),和玄武岩礦砂、花崗岩礦砂、漂白土一起被發現.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Gypsum-AAAAAAAAAAAAAAAAAAADZA==.json",
+        "field": "english_desc"
+      },
+      "english": "To make bricks for the blast furnace you need concrete and gypsum. Gypsum can be found in a vein together with basaltic and granitic mineral sand, and fullers earth. Y 50-60 and only in the overworld.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第164篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.name",
+      "before": "§c§l模具，模具，還是模具",
+      "after": "§c§l模具，模具，還是模具",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MoldsMoldsMolds-AAAAAAAAAAAAAAAAAAADZw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lMolds, Molds, Molds",
+      "batch": "quests131-211",
+      "note": "第165篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.desc",
+      "before": "在你能夠生產鋼並擁有一臺匠魂冶煉爐後，就可以製作模具了。模具可用於合金爐和流體固化器，要做出真空管、金屬錠、齒輪等物品，都離不開它們。%n%n[note]PS：‘模頭’是給壓模機用的。[/note]",
+      "after": "在你能夠生產鋼並擁有一臺匠魂冶煉爐後，就可以製作模具了。模具可用於合金爐和流體固化器，要做出真空管、金屬錠、齒輪等物品，都離不開它們。%n%n[note]PS：‘模頭’是給壓模機用的。[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MoldsMoldsMolds-AAAAAAAAAAAAAAAAAAADZw==.json",
+        "field": "english_desc"
+      },
+      "english": "After you can make steel and have a tinkers smelter you can make molds. Molds can be used in the alloy smelter and the fluid solidifier. You need them to make vacuum tubes, ingots, gears and more.\n\n[note]PS: The 'shapes' are for the Extruder.[/note]",
+      "batch": "quests131-211",
+      "note": "第165篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.name",
+      "before": "§c§l史萊姆空島之旅",
+      "after": "§c§l史萊姆空島之旅",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/SlimeIslandJourn-AAAAAAAAAAAAAAAAAAADaw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lSlime Island Journey",
+      "batch": "quests131-211",
+      "note": "第166篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.desc",
+      "before": "橡膠樹不是生橡膠的唯一來源，去找找懸在空中的史萊姆島吧。史萊姆球和史萊姆樹葉也都能產出生橡膠。%n你可以在你的橡膠樹林場旁邊，再建一座史萊姆樹農場。%n%n§3液態的史萊姆無法放置，因為它會像刷怪籠一樣運作，可能導致卡頓。",
+      "after": "橡膠樹不是生橡膠的唯一來源，去找找懸在空中的史萊姆島吧。史萊姆球和史萊姆樹葉也都能產出生橡膠。%n你可以在你的橡膠樹林場旁邊，再建一座史萊姆樹農場。%n%n§3液態的史萊姆無法放置，因為它會像刷怪籠一樣運作，可能導致卡頓。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/SlimeIslandJourn-AAAAAAAAAAAAAAAAAAADaw==.json",
+        "field": "english_desc"
+      },
+      "english": "Rubber trees are not the only source for raw rubber. Go and find a slime island high in the sky. Slime balls and slime leaves give raw rubber too.\nMake some slime tree farms beside your rubber farm.\n\n§3Liquid slime is not allowed to be placed down, as it acts as a spawner, and can cause lag.",
+      "batch": "quests131-211",
+      "note": "第166篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name",
+      "before": "§c§lGT儲罐，ULV版",
+      "after": "§c§lGT儲罐，ULV版",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TheGTTankULVVers-AAAAAAAAAAAAAAAAAAADeg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lThe GT Tank, ULV Version",
+      "batch": "quests131-211",
+      "note": "第167篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc",
+      "before": "超低壓流體儲罐是第一種GT儲罐。它可以儲存32桶，即32,000L流體，且可以裝卸流體單元。製作它需要錫板、鐵板、鋼板、大型黏土管道和一桶水。%n%nGT儲罐無法自動輸出，如果你想傳輸流體，請使用泵、導管或其他類似功能的裝置。",
+      "after": "超低壓流體儲罐是第一種GT儲罐。它可以儲存32桶，即32,000L流體，且可以裝卸流體單元。製作它需要錫板、鐵板、鋼板、大型黏土管道和一桶水。%n%nGT儲罐無法自動輸出，如果你想傳輸流體，請使用泵、導管或其他類似功能的裝置。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TheGTTankULVVers-AAAAAAAAAAAAAAAAAAADeg==.json",
+        "field": "english_desc"
+      },
+      "english": "This is the first GT-type tank. It stores 32 buckets or 32,000L, and can be used to I/O cells. The ULV Tank from GT++ needs steel plates, iron plates, tin plates, a clay pipe, and a water bucket.\n\nGT tanks do not auto-output. If you want to move fluids out of the tank, use a GT pump, conduit, or something similar.",
+      "batch": "quests131-211",
+      "note": "第167篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADrg.name",
+      "before": "§c§l這活是挺髒，但你得去幹",
+      "after": "§c§l這活是挺髒，但你得去幹",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ItsaDirtyJobandY-AAAAAAAAAAAAAAAAAAADrg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lIt's a Dirty Job, and You're Going to Do It",
+      "batch": "quests131-211",
+      "note": "第168篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADrg.desc",
+      "before": "搋子用於清除管道中殘留的液體。它也可以直接對機器使用，從其內部緩衝區移除最多1000mB的流體。這樣你就不必每次都用扳手拆掉機器，再重新放置了。製作它需要任意材料的桿和橡膠片，桿的材料會決定搋子的耐久度。",
+      "after": "搋子用於清除管道中殘留的液體。它也可以直接對機器使用，從其內部緩衝區移除最多1000mB的流體。這樣你就不必每次都用扳手拆掉機器，再重新放置了。製作它需要任意材料的桿和橡膠片，桿的材料會決定搋子的耐久度。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ItsaDirtyJobandY-AAAAAAAAAAAAAAAAAAADrg==.json",
+        "field": "english_desc"
+      },
+      "english": "The Plunger is used to clear liquids from pipes. It can also be used on a machine to remove up to 1000mb of fluid from its internal buffer. So you don't have to wrench your machine and re-place it. It can be crafted from a rod of the desired material and rubber sheets.",
+      "batch": "quests131-211",
+      "note": "第168篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADtA.name",
+      "before": "§c§l比鐵更好",
+      "after": "§c§l比鐵更好",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BetterThanIron-AAAAAAAAAAAAAAAAAAADtA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBetter Than Iron",
+      "batch": "quests131-211",
+      "note": "第169篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADtA.desc",
+      "before": "但不如鋼好。鑄鐵主要用於機器外殼。如果你想省些鋼的話，它也可以用來製造工具。%n%n要製造鑄鐵，首先需要將鐵錠放進匠魂冶煉爐澆築成鐵粒，也可以用鋸子手切出粒。然後再將鐵粒放進熔爐燒成鑄鐵粒。最後，用壓縮機將這些粒壓成錠。%n%n§3提示：粉碎或者潔淨的鐵礦石（不是像黃鐵礦這種混合礦石，而是黃銅礦脈中的純鐵礦石）都可以直接放進熔爐燒成鐵粒。%n%n你也可以使用合金爐來將鐵錠製成鐵粒，比冶煉爐更快。%n%n以後，你還可以使用電弧爐直接將鐵錠製成鑄鐵錠。",
+      "after": "但不如鋼好。鍛鐵主要用於機器外殼。如果你想省些鋼的話，它也可以用來製造工具。%n%n要製造鍛鐵，首先需要將鐵錠放進匠魂冶煉爐澆築成鐵粒，也可以用鋸子手切出粒。然後再將鐵粒放進熔爐燒成鍛鐵粒。最後，用壓縮機將這些粒壓成錠。%n%n§3提示：粉碎或洗淨的鐵礦石（不是像黃鐵礦這種混合礦石，而是黃銅礦脈中的純鐵礦石）都可以直接放進熔爐燒成鐵粒。%n%n你也可以使用合金爐來將鐵錠製成鐵粒，比冶煉爐更快。%n%n以後，你還可以使用電弧爐直接將鐵錠製成鍛鐵錠。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BetterThanIron-AAAAAAAAAAAAAAAAAAADtA==.json",
+        "field": "english_desc"
+      },
+      "english": "But not as good as steel. Mostly, this is used in machine hulls, or in tools if you don't want to use steel up for that.\n\nTo make wrought iron, you either need to use a Tinkers' Smeltery to melt some Iron Ingots down and cast into Iron Nuggets, or use an Iron Ingot and a saw to craft Iron Nuggets. Now put these in a furnace to get Wrought Iron Nuggets. With the Compressor, you can compress the nuggets into ingots.\n\n§3Hint: Crushed or purified iron ore (not a mixed version like pyrite, look for Iron Ore in Chalcopyrite veins) can be smelted to iron nuggets directly. \n\nYou can optionally use an Alloy Smelter to turn iron ingots into nuggets faster than a smeltery. \n\nLater on, you can use an Arc Furnace to make Wrought Iron Ingots directly.",
+      "batch": "quests131-211",
+      "note": "第169篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAADtA.desc",
+      "before": "當你有了一點鋼並且能夠製作高壓蒸汽機器的時候,鍛鐵就會變得十分重要. 這種材料比鐵硬得多(但還是比不上鋼),鍛鐵常用於製造機器外殼,也可以用來製作一些耐久更好的工具(要是你不想消耗鋼的話).%n%n想要製造鍛鐵,首先需要將鐵錠放進匠魂冶煉廠製成鐵粒,也可以用鋸子手切出粒.然後再將鐵粒放進熔爐製成鍛鐵粒.最後,你需要使用壓縮機將這些粒製成錠.%n%n§3提示: 粉碎或者離心的鐵礦石(不是像黃鐵礦這種的混合物,而是黃銅礦脈中的純鐵礦石)都可以直接放進熔爐燒煉成鐵粒.%n%n你也可以使用合金爐來更快地將錠製成粒.%n%n以後,你還可以使用電弧爐直接將鐵錠製成鍛鐵錠.",
+      "after": "當你有了一點鋼並且能夠製作高壓蒸汽機器的時候,鍛鐵就會變得十分重要. 這種材料比鐵硬得多(但還是比不上鋼),鍛鐵常用於製造機器外殼,也可以用來製作一些耐久更好的工具(要是你不想消耗鋼的話).%n%n想要製造鍛鐵,首先需要將鐵錠放進匠魂冶煉爐製成鐵粒,也可以用鋸子手切出粒.然後再將鐵粒放進熔爐製成鍛鐵粒.最後,你需要使用壓縮機將這些粒製成錠.%n%n§3提示: 粉碎或洗淨的鐵礦石(不是像黃鐵礦這種的混合物,而是黃銅礦脈中的純鐵礦石)都可以直接放進熔爐燒煉成鐵粒.%n%n你也可以使用合金爐來更快地將錠製成粒.%n%n以後,你還可以使用電弧爐直接將鐵錠製成鍛鐵錠.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BetterThanIron-AAAAAAAAAAAAAAAAAAADtA==.json",
+        "field": "english_desc"
+      },
+      "english": "But not as good as steel. Mostly, this is used in machine hulls, or in tools if you don't want to use steel up for that.\n\nTo make wrought iron, you either need to use a Tinkers' Smeltery to melt some Iron Ingots down and cast into Iron Nuggets, or use an Iron Ingot and a saw to craft Iron Nuggets. Now put these in a furnace to get Wrought Iron Nuggets. With the Compressor, you can compress the nuggets into ingots.\n\n§3Hint: Crushed or purified iron ore (not a mixed version like pyrite, look for Iron Ore in Chalcopyrite veins) can be smelted to iron nuggets directly. \n\nYou can optionally use an Alloy Smelter to turn iron ingots into nuggets faster than a smeltery. \n\nLater on, you can use an Arc Furnace to make Wrought Iron Ingots directly.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第169篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest948.desc",
+      "before": "當你有了一點鋼並且能夠製作高壓蒸汽機器的時候,鍛鐵就會變得十分重要. 這種材料比鐵硬得多(但還是比不上鋼),鍛鐵常用於製造機器外殼,也可以用來製作一些耐久更好的工具(要是你不想消耗鋼的話).%n%n想要製造鍛鐵,首先需要將鐵錠放進匠魂冶煉廠製成鐵粒,也可以用鋸子手切出粒.然後再將鐵粒放進熔爐製成鍛鐵粒.最後,你需要使用壓縮機將這些粒製成錠.%n%n§3提示: 粉碎或者離心的鐵礦石(不是像黃鐵礦這種的混合物,而是黃銅礦脈中的純鐵礦石)都可以直接放進熔爐燒煉.你也可以使用合金爐來更快地將錠製成粒,或是直接用鋸切.%n%n以後,你還可以使用電弧爐直接將鐵錠製成鍛鐵錠.",
+      "after": "當你有了一點鋼並且能夠製作高壓蒸汽機器的時候,鍛鐵就會變得十分重要. 這種材料比鐵硬得多(但還是比不上鋼),鍛鐵常用於製造機器外殼,也可以用來製作一些耐久更好的工具(要是你不想消耗鋼的話).%n%n想要製造鍛鐵,首先需要將鐵錠放進匠魂冶煉爐製成鐵粒,也可以用鋸子手切出粒.然後再將鐵粒放進熔爐製成鍛鐵粒.最後,你需要使用壓縮機將這些粒製成錠.%n%n§3提示: 粉碎或洗淨的鐵礦石(不是像黃鐵礦這種的混合物,而是黃銅礦脈中的純鐵礦石)都可以直接放進熔爐燒煉.你也可以使用合金爐來更快地將錠製成粒,或是直接用鋸切.%n%n以後,你還可以使用電弧爐直接將鐵錠製成鍛鐵錠.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BetterThanIron-AAAAAAAAAAAAAAAAAAADtA==.json",
+        "field": "english_desc"
+      },
+      "english": "But not as good as steel. Mostly, this is used in machine hulls, or in tools if you don't want to use steel up for that.\n\nTo make wrought iron, you either need to use a Tinkers' Smeltery to melt some Iron Ingots down and cast into Iron Nuggets, or use an Iron Ingot and a saw to craft Iron Nuggets. Now put these in a furnace to get Wrought Iron Nuggets. With the Compressor, you can compress the nuggets into ingots.\n\n§3Hint: Crushed or purified iron ore (not a mixed version like pyrite, look for Iron Ore in Chalcopyrite veins) can be smelted to iron nuggets directly. \n\nYou can optionally use an Alloy Smelter to turn iron ingots into nuggets faster than a smeltery. \n\nLater on, you can use an Arc Furnace to make Wrought Iron Ingots directly.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第169篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.name",
+      "before": "§c§l別忘了把腋下也洗洗",
+      "after": "§c§l別忘了把腋下也洗洗",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BeSuretoGetYourA-AAAAAAAAAAAAAAAAAAAECw==.json",
+        "field": "english_name"
+      },
+      "english": "§5§lBe Sure to Get Your Armpits",
+      "batch": "quests131-211",
+      "note": "第170篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.desc",
+      "before": "想要用美味的經驗來提高你的等級？將儲存液態經驗的水槽置於你的上方，接上這個這個方便的經驗蓮蓬頭，就能從水槽中匯出經驗。%n%n這會造成卡頓，所以請小心不要一次性放出太多經驗球。輸入紅石訊號即可將其關閉。",
+      "after": "想要用美味的經驗來提高你的等級？將儲存液態經驗的儲罐置於你的上方，接上這個方便的經驗蓮蓬頭，就能從儲罐中匯出經驗。%n%n這會造成卡頓，所以請小心不要一次性放出太多經驗球。輸入紅石訊號即可將其關閉。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BeSuretoGetYourA-AAAAAAAAAAAAAAAAAAAECw==.json",
+        "field": "english_desc"
+      },
+      "english": "Want to use all that delicious XP to raise your levels? Move the tank with XP above you and attach this convenient shower head to take the XP from the tank.\n\nThis thing can be laggy, so be careful about letting too many XP orbs out of the tank. Apply a redstone signal to turn it off.",
+      "batch": "quests131-211",
+      "note": "第170篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.desc",
+      "before": "想要用美味的XP來提高你的等級？將儲存液態XP的水槽置於你的上方，並安裝這個方便的經驗蓮蓬頭，從水槽中匯出XP。%n%n這會造成延遲，請勿讓太多的經驗球掉落。使用紅石訊號來關閉它。",
+      "after": "想要用美味的XP來提高你的等級？將儲存液態XP的儲罐置於你的上方，並安裝這個方便的經驗蓮蓬頭，從儲罐中匯出XP。%n%n這會造成延遲，請勿讓太多的經驗球掉落。使用紅石訊號來關閉它。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BeSuretoGetYourA-AAAAAAAAAAAAAAAAAAAECw==.json",
+        "field": "english_desc"
+      },
+      "english": "Want to use all that delicious XP to raise your levels? Move the tank with XP above you and attach this convenient shower head to take the XP from the tank.\n\nThis thing can be laggy, so be careful about letting too many XP orbs out of the tank. Apply a redstone signal to turn it off.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第170篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest1035.desc",
+      "before": "想要用美味的XP來提高你的等級？ 將儲存液態XP的水槽置於你的上方,並安裝這個方便的經驗蓮蓬頭,從水槽中取出XP.%n%n§3這會造成延遲,請勿讓太多的經驗球掉落. 使用紅石訊號來關閉它.",
+      "after": "想要用美味的XP來提高你的等級？ 將儲存液態XP的儲罐置於你的上方,並安裝這個方便的經驗蓮蓬頭,從儲罐中取出XP.%n%n§3這會造成延遲,請勿讓太多的經驗球掉落. 使用紅石訊號來關閉它.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BeSuretoGetYourA-AAAAAAAAAAAAAAAAAAAECw==.json",
+        "field": "english_desc"
+      },
+      "english": "Want to use all that delicious XP to raise your levels? Move the tank with XP above you and attach this convenient shower head to take the XP from the tank.\n\nThis thing can be laggy, so be careful about letting too many XP orbs out of the tank. Apply a redstone signal to turn it off.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第170篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAERA.name",
+      "before": "§c§l新的螢光石來源",
+      "after": "§c§l新的螢光石來源",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/NewSourceofGlows-AAAAAAAAAAAAAAAAAAAERA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lNew Source of Glowstone",
+      "batch": "quests131-211",
+      "note": "第171篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAERA.desc",
+      "before": "在地獄尋找一些（潘馬斯的）輝光花，將它們種植到主世界中。這樣你就不需要再去地獄尋找螢光石了。%n%n[note]它們需要種在靈魂沙上才能生長！[/note]",
+      "after": "在地獄尋找一些（潘馬斯的）輝光花，將它們種植到主世界中。這樣你就不需要再去地獄尋找螢光石了。%n%n[note]它們需要種在靈魂沙上才能生長！[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/NewSourceofGlows-AAAAAAAAAAAAAAAAAAAERA==.json",
+        "field": "english_desc"
+      },
+      "english": "Find some glowflowers in the Nether and plant them in the Overworld. You will never need to go to the Nether and harvest glowstone again.",
+      "batch": "quests131-211",
+      "note": "第171篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUw.name",
+      "before": "§c§l鐵傢伙",
+      "after": "§c§l鐵傢伙",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TheIronGuy-AAAAAAAAAAAAAAAAAAAEUw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lThe Iron Guy",
+      "batch": "quests131-211",
+      "note": "第172篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUw.desc",
+      "before": "一個人很孤獨？想給基地多加一層安保？想在地獄不被那群殭屍豬人追著屁股砍？造幾個鐵傀吧，你基地內部的怪物危機就能迎刃而解。%n%n它們能造成大量傷害，還能把豬人這類怪物的仇恨從你身上拉走。它們甚至能幫你收拾討厭的吸血鬼豬人。",
+      "after": "一個人很孤獨？想給基地多加一層安保？想在地獄不被那群殭屍豬人追著屁股砍？造幾個鐵傀儡吧，你基地內部的怪物危機就能迎刃而解。%n%n它們能造成大量傷害，還能把豬人這類怪物的仇恨從你身上拉走。它們甚至能幫你收拾討厭的吸血鬼豬人。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TheIronGuy-AAAAAAAAAAAAAAAAAAAEUw==.json",
+        "field": "english_desc"
+      },
+      "english": "Do you feel lonely? Need some extra protection in your base? Want to keep the pigmen off your back in the Nether? Craft some Iron Golems and the monster problem inside your base will be gone.\n\nThey can do good amounts of damage and aggro enemies like the pigmen away from you. They can even take care of that pesky Vampire Pigman.",
+      "batch": "quests131-211",
+      "note": "第172篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVA.name",
+      "before": "§c§l冷酷的傢伙",
+      "after": "§c§l冷酷的傢伙",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TheCoolGuy-AAAAAAAAAAAAAAAAAAAEVA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lThe Cool Guy",
+      "batch": "quests131-211",
+      "note": "第173篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVA.desc",
+      "before": "一個人很孤獨？基地離雪原又太遠？造一個雪傀儡吧，也許你還可以和它一起打打雪仗。",
+      "after": "一個人很孤獨？基地離雪原又太遠？造一個雪傀儡吧，也許你還可以和它一起打打雪仗。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TheCoolGuy-AAAAAAAAAAAAAAAAAAAEVA==.json",
+        "field": "english_desc"
+      },
+      "english": "Feeling lonely? Located far away from a snow biome? Craft a Snow Golem, and perhaps challenge him to a snow ball fight.",
+      "batch": "quests131-211",
+      "note": "第173篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZA.name",
+      "before": "§c§l桶升級",
+      "after": "§c§l桶升級",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgrades-AAAAAAAAAAAAAAAAAAAEZA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBarrel Upgrades",
+      "batch": "quests131-211",
+      "note": "第174篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZA.desc",
+      "before": "你的原石或者泥土已經把桶都塞滿了？ 沒關係，升級吧！",
+      "after": "你的圓石或者泥土已經把桶都塞滿了？ 沒關係，升級吧！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgrades-AAAAAAAAAAAAAAAAAAAEZA==.json",
+        "field": "english_desc"
+      },
+      "english": "Are your cobblestone or dirt barrels filled to the brim? No problem, upgrade them!",
+      "batch": "quests131-211",
+      "note": "第174篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZA.desc",
+      "before": "你的原石或者泥土已經將你的桶都塞滿了？ 沒關係,升級!",
+      "after": "你的圓石或者泥土已經將你的桶都塞滿了？ 沒關係,升級!",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgrades-AAAAAAAAAAAAAAAAAAAEZA==.json",
+        "field": "english_desc"
+      },
+      "english": "Are your cobblestone or dirt barrels filled to the brim? No problem, upgrade them!",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第174篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest1124.desc",
+      "before": "你的原石或者泥土已經將你的桶都塞滿了？ 沒關係,升級!",
+      "after": "你的圓石或者泥土已經將你的桶都塞滿了？ 沒關係,升級!",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgrades-AAAAAAAAAAAAAAAAAAAEZA==.json",
+        "field": "english_desc"
+      },
+      "english": "Are your cobblestone or dirt barrels filled to the brim? No problem, upgrade them!",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第174篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZQ.name",
+      "before": "§c§l桶升級 T2",
+      "after": "§c§l桶升級 T2",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAAEZQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBarrel Upgrades Tier 2",
+      "batch": "quests131-211",
+      "note": "第175篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZQ.desc",
+      "before": "什麼？你的桶又滿了？ 不要緊，繼續升級！",
+      "after": "什麼？你的桶又滿了？ 不要緊，繼續升級！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAAEZQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!",
+      "batch": "quests131-211",
+      "note": "第175篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZg.name",
+      "before": "§c§l鋅曜鋼",
+      "after": "§c§l鋅曜鋼",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Obzinite-AAAAAAAAAAAAAAAAAAAEZg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lObzinite",
+      "batch": "quests131-211",
+      "note": "第176篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZg.desc",
+      "before": "又到了升級的時候。你可以在冶煉爐中熔合鋼、鋅和黑曜石得到鋅曜鋼。鋅曜鋼製作的鎬可以在地獄開採阿迪特礦石。%n%n剩下來的鋅曜鋼，就以熔融狀態繼續留在冶煉爐中，你還需要用它來製作工具裝配臺。冶煉爐中需要有16個錠，才能製造2塊大板。%n%n[note]稍後，在LV階段，你可以用攪拌機獲得更高的產率。[/note]",
+      "after": "又到了升級的時候。你可以在冶煉爐中熔合鋼、鋅和黑曜石得到鋅曜鋼。鋅曜鋼製作的鎬可以在地獄開採阿迪特礦石。%n%n剩下來的鋅曜鋼，就以熔融狀態繼續留在冶煉爐中，你還需要用它來製作工具裝配台。冶煉爐中需要有16個錠，才能製造2塊大板。%n%n[note]稍後，在LV階段，你可以用攪拌機獲得更高的產率。[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Obzinite-AAAAAAAAAAAAAAAAAAAEZg==.json",
+        "field": "english_desc"
+      },
+      "english": "It's upgrade time again. You could in principle make obzinite by mixing obsidian, steel and zinc in the smeltery. But to get a much better yield, you can show you are a GregTech hero and search NEI for an alternate recipe using dusts. Obzinite pickaxes are able to mine ardite in the Nether.\n\nLeave the rest of your Obzinite as liquid in your smeltery, you'll want it to make the Tool Forge. You need 16 ingots in the smeltery to make 2 Large Plates.",
+      "batch": "quests131-211",
+      "note": "第176篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZw.name",
+      "before": "§c§l耐久X？不毀！",
+      "after": "§c§l耐久X？不毀！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ReinforcedXUnbre-AAAAAAAAAAAAAAAAAAAEZw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lReinforced X? Unbreakable",
+      "batch": "quests131-211",
+      "note": "第177篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZw.desc",
+      "before": "拿著你的鋼工具，現在可以去可以採集黑曜石了。你可以製作加固板，它可以強化你的匠魂工具，提高它們的耐久度。當強化等級達到耐久X時，工具會得到“不毀”特性。%n%n§3PS：許多情況下，強化耐久其實並不划算，因為工具的耐久掉得並沒有那麼快，修理的成本也不高。而且隨著科技發展，你很快就能獲得耐久更高的新材料，製作新工具。另外，等你終於強化到不毀的時候，多半早就能用自動採礦機替代手動挖礦了。有這強化槽，不如打點紅石強化速度，或者上點時運/精準採集。不過，某些情況下，不毀還是能派上用場的，比如伐木斧，或者用於自動化裝置的工具。",
+      "after": "拿著你的鋼工具，現在就可以採集黑曜石了。你可以製作加固板，它可以強化你的匠魂工具，提高它們的耐久度。當強化等級達到耐久X時，工具會得到“不毀”特性。%n%n§3PS：許多情況下，強化耐久其實並不划算，因為工具的耐久掉得並沒有那麼快，修理的成本也不高。而且隨著科技發展，你很快就能獲得耐久更高的新材料，製作新工具。另外，等你終於強化到不毀的時候，多半早就能用自動採礦機替代手動挖礦了。有這強化槽，不如打點紅石強化速度，或者上點時運/精準採集。不過，某些情況下，不毀還是能派上用場的，比如伐木斧，或者用於自動化裝置的工具。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ReinforcedXUnbre-AAAAAAAAAAAAAAAAAAAEZw==.json",
+        "field": "english_desc"
+      },
+      "english": "With your steel tool you are able to mine obsidian. You can make the Reinforcement which gives a reinforced modifier which increases the durability of your tool. Reinforced level X makes a tool unbreakable.\n\n§3PS: In many cases this is not worth it, since the tools don't degrade that fast, it doesn't cost much to repair, and you get better materials (with higher durability) to make them out of reasonably fast. Plus, by the time you got it to unbreakable, you'd be auto-mining everything with a miner anyway. Just use redstone, or maybe luck/silky. However, there are a few very nice use cases like lumber axes and tools for automation setups.",
+      "batch": "quests131-211",
+      "note": "第177篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaA.name",
+      "before": "§c§l青金石？幸運！",
+      "after": "§c§l青金石？幸運！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LapisLucky-AAAAAAAAAAAAAAAAAAAEaA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lLapis? Lucky!",
+      "batch": "quests131-211",
+      "note": "第178篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaA.desc",
+      "before": "也許你運氣不錯，已經給你的鎬新增了時運強化。如果沒有，你的鎬子上可能還有一個未使用的強化槽，可以給匠魂工具打上青金石來獲得時運效果。如果沒有強化槽，可以給鎬子打上一個鑽石和一個金塊，增加一個強化槽，再打上青金石。%n%n你可以將青金石放入裝配臺的多個格子中。使用青金石塊可以更快地提升時運等級，甚至可以在合成站中用青金石塊與工具合成，這樣速度最快。",
+      "after": "也許你運氣不錯，已經給你的鎬新增了時運強化。如果沒有，你的鎬子上可能還有一個未使用的強化槽，可以給匠魂工具打上青金石來獲得時運效果。如果沒有強化槽，可以給鎬子打上一個鑽石和一個金塊，增加一個強化槽，再打上青金石。%n%n你可以將青金石放入裝配台的多個格子中。使用青金石塊可以更快地提升時運等級，甚至可以在合成站中用青金石塊與工具合成，這樣速度最快。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LapisLucky-AAAAAAAAAAAAAAAAAAAEaA==.json",
+        "field": "english_desc"
+      },
+      "english": "Maybe you were lucky and received the luck modifier on your pickaxe. If not, you may still have an unused modifier on your pick so you can add some lapis lazuli. Or you can perhaps add another modifier by adding a diamond and a gold block to your pick and then add some lapis.\n\nYou can put the lapis lazuli in more than one slot in the tool station, use blocks to raise the luck level faster, and even use lapis blocks in the crafting station with your tool for maximum luck gain.",
+      "batch": "quests131-211",
+      "note": "第178篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaA.desc",
+      "before": "也許你很幸運,在使用你的匠魂鎬子的時候獲得了時運附魔.如果沒有獲得也不需要太過於沮喪,你可以透過向匠魂工具上新增青金石來獲得時運效果. 如果你的工具還沒有獲得額外的強化次數你可以透過鑽石和金塊來新增一次,然後再使用青金石來強化.%n%n你可以將青金石放入裝配臺的多個格子中,或是用青金石塊來更快地提升時運等級,甚至你可以將青金石塊放入合成站來最快地提升時運等級.",
+      "after": "也許你很幸運,在使用你的匠魂鎬子的時候獲得了時運附魔.如果沒有獲得也不需要太過於沮喪,你可以透過向匠魂工具上新增青金石來獲得時運效果. 如果你的工具還沒有獲得額外的強化槽你可以透過鑽石和金塊來新增一次,然後再使用青金石來強化.%n%n你可以將青金石放入裝配台的多個格子中,或是用青金石塊來更快地提升時運等級,甚至你可以將青金石塊放入合成站來最快地提升時運等級.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LapisLucky-AAAAAAAAAAAAAAAAAAAEaA==.json",
+        "field": "english_desc"
+      },
+      "english": "Maybe you were lucky and received the luck modifier on your pickaxe. If not, you may still have an unused modifier on your pick so you can add some lapis lazuli. Or you can perhaps add another modifier by adding a diamond and a gold block to your pick and then add some lapis.\n\nYou can put the lapis lazuli in more than one slot in the tool station, use blocks to raise the luck level faster, and even use lapis blocks in the crafting station with your tool for maximum luck gain.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第178篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest1128.desc",
+      "before": "也許你很幸運,在使用你的匠魂鎬子的時候獲得了時運附魔.如果沒有獲得也不需要太過於沮喪,你可以透過向匠魂工具上新增青金石來獲得時運效果. 如果你的工具還沒有獲得額外的強化次數你可以透過鑽石和金塊來新增一次,然後再使用青金石來強化.%n%n你可以將青金石放入裝配臺的多個格子中,或是用青金石塊來更快地提升時運等級,甚至你可以將青金石塊放入合成站來最快地提升時運等級.%n%n§3由於時運只對貧瘠礦生效,所以價值不是很高. 另外,如果你比較缺青金石的話,可以先只強化1點,然後正常挖礦,其強化點會慢慢提高,直到450點上限.",
+      "after": "也許你很幸運,在使用你的匠魂鎬子的時候獲得了時運附魔.如果沒有獲得也不需要太過於沮喪,你可以透過向匠魂工具上新增青金石來獲得時運效果. 如果你的工具還沒有獲得額外的強化槽你可以透過鑽石和金塊來新增一次,然後再使用青金石來強化.%n%n你可以將青金石放入裝配台的多個格子中,或是用青金石塊來更快地提升時運等級,甚至你可以將青金石塊放入合成站來最快地提升時運等級.%n%n§3由於時運只對貧瘠礦生效,所以價值不是很高. 另外,如果你比較缺青金石的話,可以先只強化1點,然後正常挖礦,其強化點會慢慢提高,直到450點上限.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LapisLucky-AAAAAAAAAAAAAAAAAAAEaA==.json",
+        "field": "english_desc"
+      },
+      "english": "Maybe you were lucky and received the luck modifier on your pickaxe. If not, you may still have an unused modifier on your pick so you can add some lapis lazuli. Or you can perhaps add another modifier by adding a diamond and a gold block to your pick and then add some lapis.\n\nYou can put the lapis lazuli in more than one slot in the tool station, use blocks to raise the luck level faster, and even use lapis blocks in the crafting station with your tool for maximum luck gain.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第178篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEag.name",
+      "before": "§c§l額外強化次數",
+      "after": "§c§l額外強化槽",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ExtraModifier-AAAAAAAAAAAAAAAAAAAEag==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lExtra Modifier",
+      "batch": "quests131-211",
+      "note": "第179篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEag.desc",
+      "before": "如果你的工具沒有剩餘的強化次數了，加一次其實也不太費事。只需要一顆鑽石和一個金塊就行。%n%n你還可以再額外增加兩個強化槽，不過這回你得自己翻閱匠魂寶典，看看該用什麼了。",
+      "after": "如果你的工具沒有剩餘的強化槽了，增加一個其實也不太費事。只需要一顆鑽石和一個金塊就行。%n%n你還可以再額外增加兩個強化槽，不過這回你得自己翻閱匠魂寶典，看看該用什麼了。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ExtraModifier-AAAAAAAAAAAAAAAAAAAEag==.json",
+        "field": "english_desc"
+      },
+      "english": "If you don't have an extra modifier on your tool you can easily add one. A gold block and a diamond are all you need.\n\nYou can add two more modifiers, but you'll need to read the tinkers book yourself to know what to use.",
+      "batch": "quests131-211",
+      "note": "第179篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEag.desc",
+      "before": "如果你的工具沒有剩餘的強化次數了,可以用一個配方很容易地增加一次!%n只需要一個金塊和一個鑽石即可.但是要注意,每個武器只能用這個配方強化一次哦!%n%n還有另外兩種配方可以新增強化槽,但這回你需要自己查閱匠魂的手冊,以獲知需要用到什麼.",
+      "after": "如果你的工具沒有剩餘的強化槽了,可以用一個配方很容易地增加一個!%n只需要一個金塊和一個鑽石即可.但是要注意,每個武器只能用這個配方強化一次哦!%n%n還有另外兩種配方可以新增強化槽,但這回你需要自己查閱匠魂的手冊,以獲知需要用到什麼.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ExtraModifier-AAAAAAAAAAAAAAAAAAAEag==.json",
+        "field": "english_desc"
+      },
+      "english": "If you don't have an extra modifier on your tool you can easily add one. A gold block and a diamond are all you need.\n\nYou can add two more modifiers, but you'll need to read the tinkers book yourself to know what to use.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第179篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest1130.desc",
+      "before": "如果你的工具沒有剩餘的強化次數了,可以用一個配方很容易地增加一次!%n只需要一個金塊和一個鑽石即可.但是要注意,每個武器只能用這個配方強化一次哦!%n%n還有另外兩種配方可以新增強化槽,但這回你需要自己查閱匠魂的手冊,以獲知需要用到什麼.",
+      "after": "如果你的工具沒有剩餘的強化槽了,可以用一個配方很容易地增加一個!%n只需要一個金塊和一個鑽石即可.但是要注意,每個武器只能用這個配方強化一次哦!%n%n還有另外兩種配方可以新增強化槽,但這回你需要自己查閱匠魂的手冊,以獲知需要用到什麼.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ExtraModifier-AAAAAAAAAAAAAAAAAAAEag==.json",
+        "field": "english_desc"
+      },
+      "english": "If you don't have an extra modifier on your tool you can easily add one. A gold block and a diamond are all you need.\n\nYou can add two more modifiers, but you'll need to read the tinkers book yourself to know what to use.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第179篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbA.name",
+      "before": "§c§l地獄石英？鋒利！",
+      "after": "§c§l地獄石英？鋒利！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/NetherQuartzShar-AAAAAAAAAAAAAAAAAAAEbA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lNether Quartz? Sharpness!",
+      "batch": "quests131-211",
+      "note": "第180篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbA.desc",
+      "before": "你的劍太鈍了？拿一些地獄石英把它打磨鋒利！%n%n如果你有很多賽特斯石英，一個賽特斯石英可以抵得上4個地獄石英。",
+      "after": "你的劍太鈍了？拿一些地獄石英把它打磨鋒利！%n%n如果你有很多賽特斯石英，一個賽特斯石英可以抵得上24個地獄石英。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/NetherQuartzShar-AAAAAAAAAAAAAAAAAAAEbA==.json",
+        "field": "english_desc"
+      },
+      "english": "Your sword is too dull? Get some nether quartz to sharpen it.\n\nIf you have lots of Certus quartz, 1 piece of Certus is equal to 24 Nether quartz.",
+      "batch": "quests131-211",
+      "note": "第180篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEew.name",
+      "before": "§c§lGT6型導線和線纜",
+      "after": "§c§lGT6型導線和線纜",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/GT6StyledWiresan-AAAAAAAAAAAAAAAAAAAEew==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lGT6-Styled Wires and Cables",
+      "batch": "quests131-211",
+      "note": "第181篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEew.desc",
+      "before": "它們和管道的機制差不多，但你需要的不是扳手，而是剪線鉗（或者電烙鐵）。還有，如果你碰到沒有絕緣的導線，就會受傷；而線纜是安全的。%n%n提示：如果你把一根導線或線纜對著另一根右鍵放下，它們就會自動連線。線纜和管道可以塗色，以防止你把MV的線纜和EV的接到一起，或者把熾熱的岩漿灌進塑膠水管道裡。今天總不會再爆炸了吧。%n%n哈哈哈哈逗你玩的！在GT裡，爆炸永不缺席！",
+      "after": "它們和管道的機制差不多，但你需要的不是扳手，而是剪線鉗（或者電烙鐵）。還有，如果你碰到沒有絕緣的導線，就會受傷；而線纜是安全的。%n%n提示：如果你把一根導線或線纜對著另一根右鍵放下，它們就會自動連線。線纜和管道可以塗色，以防止你把MV的線纜和EV的接到一起，或者把熾熱的岩漿灌進塑膠水管道裡。今天總不會再爆炸了吧。%n%n哈哈哈哈逗你玩的！在GT裡，爆炸永不缺席！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/GT6StyledWiresan-AAAAAAAAAAAAAAAAAAAEew==.json",
+        "field": "english_desc"
+      },
+      "english": "They work basically the same as pipes, but you need wire cutters (or a soldering iron) instead of a wrench. Additionally, you take damage if they're not insulated (wire) but not if they are (cable).\n\nHint: If you click one wire or cable on the other it will auto-connect. Cables and pipes can be painted to make sure you do not cross your MV line with your EV line, or dump hot lava into your plastic water pipes. No boom today.\n\nHa ha just kidding there is always a boom today!",
+      "batch": "quests131-211",
+      "note": "第181篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhQ.name",
+      "before": "§c§l橡膠軟錘",
+      "after": "§c§l橡膠軟錘",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/RubberSoftMallet-AAAAAAAAAAAAAAAAAAAEhQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lRubber Soft Mallet",
+      "batch": "quests131-211",
+      "note": "第182篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhQ.desc",
+      "before": "你的木頭軟錘用幾次就壞了。用橡膠做一個更耐用的軟錘吧。%n%n§3你可以用鋼葉或者鐵木製作耐久度高得多的軟錘。在進入暮色森林後，這兩種材料都挺容易獲得。",
+      "after": "你的木頭軟錘用幾次就壞了。用橡膠做一個更耐用的軟錘吧。%n%n§3你可以用鋼葉或者鐵木製作耐久度高得多的軟錘。在進入暮色森林後，這兩種材料都挺容易獲得。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/RubberSoftMallet-AAAAAAAAAAAAAAAAAAAEhQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Your wooden soft mallet breaks after a few uses. Now you can make a rubber mallet which is much more durable.\n\n§3The best one is made of Steeleaf, followed by Ironwood, both easily attainable once you get access to the Twilight Forest.",
+      "batch": "quests131-211",
+      "note": "第182篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEtQ.name",
+      "before": "§c§l漏斗",
+      "after": "§c§l漏斗",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Hoppers-AAAAAAAAAAAAAAAAAAAEtQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lHoppers",
+      "batch": "quests131-211",
+      "note": "第183篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEtQ.desc",
+      "before": "當你想要實現機器自動化時，漏斗就派上用場了。你可以透過漏斗將物品直接輸入GT管道，而不必使用傳送帶。不過，漏斗的速度趕不上傳送帶，並且只能從上方接收物品。",
+      "after": "當你想要實現機器自動化時，漏斗就派上用場了。你可以透過漏斗將物品直接輸入GT管道，而不必使用傳送帶。不過，漏斗的速度趕不上傳送帶，並且從容器抽取物品時，必須將漏斗放在該容器下方。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Hoppers-AAAAAAAAAAAAAAAAAAAEtQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Hoppers come in handy when you want to automate your machines. You can input items via hoppers directly into GT pipes and you don't have to use a conveyor module. However, the input rate is much slower, and the hopper must be beneath its source inventory.",
+      "batch": "quests131-211",
+      "note": "第183篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAEtQ.desc",
+      "before": "如果你想對機器進行自動化升級,那麼漏斗肯定會派上用場. 你可以透過漏斗直接將物料輸入GT的管道,而不需要使用傳送帶. 但是,漏斗的速度趕不上傳送帶,並且只能從上方接收物品.",
+      "after": "如果你想對機器進行自動化升級,那麼漏斗肯定會派上用場. 你可以透過漏斗直接將物料輸入GT的管道,而不需要使用傳送帶. 但是,漏斗的速度趕不上傳送帶,並且從容器抽取物品時,必須將漏斗放在該容器下方.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Hoppers-AAAAAAAAAAAAAAAAAAAEtQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Hoppers come in handy when you want to automate your machines. You can input items via hoppers directly into GT pipes and you don't have to use a conveyor module. However, the input rate is much slower, and the hopper must be beneath its source inventory.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第183篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest1205.desc",
+      "before": "如果你想對機器進行自動化升級,那麼漏斗肯定會派上用場. 你可以透過漏斗直接將物料輸入GT的管道,而不需要使用傳送帶. 但是,漏斗的速度趕不上傳送帶,並且只能從上方接收物品.",
+      "after": "如果你想對機器進行自動化升級,那麼漏斗肯定會派上用場. 你可以透過漏斗直接將物料輸入GT的管道,而不需要使用傳送帶. 但是,漏斗的速度趕不上傳送帶,並且從容器抽取物品時,必須將漏斗放在該容器下方.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Hoppers-AAAAAAAAAAAAAAAAAAAEtQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Hoppers come in handy when you want to automate your machines. You can input items via hoppers directly into GT pipes and you don't have to use a conveyor module. However, the input rate is much slower, and the hopper must be beneath its source inventory.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第183篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4w.name",
+      "before": "§c§l做張清單，反覆檢查",
+      "after": "§c§l做張清單，反覆檢查",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MakingaListCheck-AAAAAAAAAAAAAAAAAAAF4w==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lMaking a List, Checking it Twice",
+      "batch": "quests131-211",
+      "note": "第184篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4w.desc",
+      "before": "隨著基地不斷擴張，你將會同時面對十幾個長期目標，每個目標又得分成很多步驟。製作一塊寫字板，來記錄並追蹤你接下來需要做的事情吧。%n%n[note]提示：你可以Shift+右鍵將寫字板貼到牆上。[/note]",
+      "after": "隨著基地不斷擴張，你將會同時面對十幾個長期目標，每個目標又得分成很多步驟。製作一塊寫字板，來記錄並追蹤你接下來需要做的事情吧。%n%n[note]提示：你可以Shift+右鍵將寫字板貼到牆上。[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MakingaListCheck-AAAAAAAAAAAAAAAAAAAF4w==.json",
+        "field": "english_desc"
+      },
+      "english": "As your base grows, you're going to have a dozen different long term goals each with many steps. Build a clipboard to keep track of what you need to do.\n\n[note]Hint: You can put the clipboard on a wall using shift-right-click.[/note]",
+      "batch": "quests131-211",
+      "note": "第184篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAA.name",
+      "before": "§c§l我才不怕鬼呢！",
+      "after": "§c§l我才不怕鬼呢！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/IAintAfraidofnoG-AAAAAAAAAAAAAAAAAAAGAA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lI Ain't Afraid of no Ghost!",
+      "batch": "quests131-211",
+      "note": "第185篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAA.desc",
+      "before": "我發現從死者靈魂中收集到的靈質有一種用途。它能製成一種非常實用的玻璃，玩家可以在上面行走，但怪物不行。然而，怪物卻會誤以為自己可以！%n%n因此，你可以用它圍繞基地建造一條壕溝，讓怪物以各種方式摔死，或者只是把它們轉移至別處。想要把幼崽和母獸分開？用在刷怪塔裡？捕獲從地獄傳送門走進主世界的豬人？玩法簡直無窮無盡！",
+      "after": "我發現從死者靈魂中收集到的靈質有一種用途。它能製成一種非常實用的玻璃，玩家可以在上面行走，但怪物不行。然而，怪物卻會誤以為自己可以！%n%n因此，你可以用它圍繞基地建造一條壕溝，讓怪物以各種方式摔死，或者只是把它們轉移至別處。想要把幼崽和母獸分開？用在刷怪塔裡？捕獲從地獄傳送門走進主世界的豬人？玩法簡直無窮無盡！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/IAintAfraidofnoG-AAAAAAAAAAAAAAAAAAAGAA==.json",
+        "field": "english_desc"
+      },
+      "english": "I've found a use for the Ectoplasm you can collect from spirits of the dead. It makes a very useful glass that you can walk on, but mobs cannot. However, they think they can!\n\nSo you can use this to create a moat around your base that drops mobs to the death in various ways, or just to shuttle them off somewhere else. Separate babies from mothers? Use it in a mob farm? Capture pigmen walking into the Overworld from your Nether portal? So many possibilities!",
+      "batch": "quests131-211",
+      "note": "第185篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_Q.name",
+      "before": "§c§l工廠的鐵門",
+      "after": "§c§l工廠的鐵門",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/FactoryIronDoor-AAAAAAAAAAAAAAAAAAAG_Q==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lFactory Iron Door",
+      "batch": "quests131-211",
+      "note": "第186篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_Q.desc",
+      "before": "你的新工廠需要鐵門。不幸的是，這個配方真的很難，需要鋼。%n%n如果你願意的話，還可以再選擇兩個鐵門作為獎勵。",
+      "after": "你的新工廠需要鐵門。不幸的是，這個配方真的很難，需要鋼。%n%n如果你願意的話，還可以再選擇兩個鐵門作為獎勵。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/FactoryIronDoor-AAAAAAAAAAAAAAAAAAAG_Q==.json",
+        "field": "english_desc"
+      },
+      "english": "For your new Factory you need iron doors. Unfortunately, the recipe is really hard, needing steel.\n\nYou can choose two more iron doors as reward if you like.",
+      "batch": "quests131-211",
+      "note": "第186篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxw.name",
+      "before": "§c§l裝滿義大利麵的碗",
+      "after": "§c§l裝滿義大利麵的碗",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BowlFullofSpaghe-AAAAAAAAAAAAAAAAAAAGxw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBowl Full of Spaghetti",
+      "batch": "quests131-211",
+      "note": "第187篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxw.desc",
+      "before": "或者至少是個佈滿了物品管道的工廠。你可以用一個用漏斗直接對準物品管道，從機器中取出物品，並將它們送入第二臺機器。%n%n之後你可以製造更好的物品管道。在NEI中搜尋“物品管道”，然後自行選擇。%n%n[warn]你需要一把鋼扳手（或者更好的材料）才能拆除它們。在你獲得合適的扳手前，請勿隨意放置這些管道。[/warn]",
+      "after": "或者至少是個佈滿了物品管道的工廠。你可以用一個漏斗直接對準物品管道，從機器中取出物品，並將它們送入第二臺機器。%n%n之後你可以製造更好的物品管道。在NEI中搜尋“物品管道”，然後自行選擇。%n%n[warn]你需要一把鋼扳手（或者更好的材料）才能拆除它們。在你獲得合適的扳手前，請勿隨意放置這些管道。[/warn]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BowlFullofSpaghe-AAAAAAAAAAAAAAAAAAAGxw==.json",
+        "field": "english_desc"
+      },
+      "english": "Or at least factories full of item pipes. You can take items out of one machine using a hopper pointing directly into your pipes, and from there deliver them to a second machine.\n\nLater on you can make better item pipes. Search for \"item pipe\" in NEI for options.\n\n[warn]You'll need a Steel Wrench to remove them. Don't place them down unless you're sure of the location until you have one.[/warn]",
+      "batch": "quests131-211",
+      "note": "第187篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAGzQ.name",
+      "before": "§c§l地獄之樹真棒",
+      "after": "§c§l地獄之樹真棒",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/NiceNetherTrees-AAAAAAAAAAAAAAAAAAAGzQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lNice Nether Trees",
+      "batch": "quests131-211",
+      "note": "第188篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAGzQ.desc",
+      "before": "有一些非常有用的地獄樹種，它們可以提供紅石、火藥、骨粉或肥料等資源。%n%n去地獄尋找諸如血樹、熔融樹、黑暗樹或幽魂樹的樹種吧。%n%n這些樹可以像普通的樹木一樣種植，但血樹除外。血樹必須種在天花板上，然後它會向下生長而不是向上生長。",
+      "after": "有一些非常有用的地獄樹種，它們可以提供紅石、火藥、骨粉或肥料等資源。%n%n去地獄尋找諸如血樹、熔融樹、黑暗樹或幽魂樹的樹種吧。%n%n這些樹可以像普通的樹木一樣種植，但血樹除外。血樹必須種在天花板上，然後它會向下生長而不是向上生長。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/NiceNetherTrees-AAAAAAAAAAAAAAAAAAAGzQ==.json",
+        "field": "english_desc"
+      },
+      "english": "There are a few very useful Nether trees out there which give resources like Redstone, Gunpowder, Bone meal or Fertilizer.\n\nGo and get a few trees like Bloodwood, Fusewood, Darkwood or Ghostwood out of the Nether.\n\nThese trees can be planted like normal trees, except for Bloodwood. That has to be planted on a ceiling and will grow down instead of up.",
+      "batch": "quests131-211",
+      "note": "第188篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAH6g.name",
+      "before": "§c§l更便捷的物品尋找方式",
+      "after": "§c§l更便捷的物品尋找方式",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ABetterWaytoFind-AAAAAAAAAAAAAAAAAAAH6g==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lA Better Way to Find Items",
+      "batch": "quests131-211",
+      "note": "第189篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAH6g.desc",
+      "before": "NEI內建了搜尋附近容器中物品的功能。而倉庫目錄（Stockroom Catalog）則可以列出所有已登記容器的庫存物品清單。%n%nShift+右鍵點選帶儲存空間的方塊（箱子、書架、木桶等任何有物品欄的方塊），即可將該庫存新增到目錄的追蹤列表中。%n%n再次Shift+右鍵點選同一個方塊，就能將其從列表中移除。%n%n當你手持倉庫目錄時，所有已被該目錄選中的方塊上都會渲染出微小的粒子效果，讓你知道它正在被追蹤。%n%n右鍵點選目錄即可開啟GUI檢視清單。你可以按數量或字母順序，對列表進行升序或降序排列。%n%n你還可以檢視存有某種特定物品的所有容器列表，並輕鬆將其中某個容器的位置標註在另一個倉庫目錄上，方便你迅速找到你的物資。%n%n倉庫目錄還可以用排版臺和拓印機影印。%n%n點選介面上的標題可以隨意改動，可以用於自定義標記倉庫目錄。%n%n點選每個條目右側的小箱子圖示，即可開啟庫存列表檢視。%n%n如果你願意，還可以合成一個路標盤，用它來指向你要找的箱子。不過，既然我們已經有了旅行地圖和NEI，這玩意兒也不是必需品。%n%n[warn]不過，這本目錄似乎有點bug，它對GT物品的支援不是很好。[/warn]",
+      "after": "NEI內建了搜尋附近容器中物品的功能。而倉庫目錄（Stockroom Catalog）則可以列出所有已登記容器的庫存物品清單。%n%nShift+右鍵點選帶儲存空間的方塊（箱子、書架、木桶等任何有物品欄的方塊），即可將該庫存新增到目錄的追蹤列表中。%n%n再次Shift+右鍵點選同一個方塊，就能將其從列表中移除。%n%n當你手持倉庫目錄時，所有已被該目錄選中的方塊上都會渲染出微小的粒子效果，讓你知道它正在被追蹤。%n%n右鍵點選目錄即可開啟GUI檢視清單。你可以按數量或字母順序，對列表進行升序或降序排列。%n%n你還可以檢視存有某種特定物品的所有容器列表，並輕鬆將其中某個容器的位置標註在另一個倉庫目錄上，方便你迅速找到你的物資。%n%n倉庫目錄還可以用排版台和拓印機影印。%n%n點選介面上的標題可以隨意改動，可以用於自訂標記倉庫目錄。%n%n點選每個條目右側的小箱子圖示，即可開啟庫存列表檢視。%n%n如果你願意，還可以合成一個路標盤，用它來指向你要找的箱子。不過，既然我們已經有了旅行地圖和NEI，這玩意兒也不是必需品。%n%n[warn]不過，這本目錄似乎有點bug，它對GT物品的支援不是很好。[/warn]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ABetterWaytoFind-AAAAAAAAAAAAAAAAAAAH6g==.json",
+        "field": "english_desc"
+      },
+      "english": "NEI has a built in search feature for finding an item stored in an inventory nearby. A Stockroom Catalog can give you a list of everything stored in your inventories.\n\nSneak-right-click a block with an inventory (a chest, bookcase, barrel, anything with an inventory) to add that inventory to the list of inventories for the catalog to keep track of.\n\nSneak-right-click the same block again to remove that block from the list.\n\nA small particle effect will render on any block that has been selected with the catalog when holding the Stockroom Catalog to let you know that block is being tracked.\n\nRight-click to open the GUI and see the list. You can sort the list in ascending or descending order by quantity (Count) or alphabetical order.\n\nYou can also see a list of all the inventories that have a particular item and easily add the location of one of those inventories to a stockroom catalog so you can easily find your stuff.\n\nThe Stockroom Catalog can also be copied with the typesetting table and printing press.\n\nClick on the title to change it to anything so you can custom label your stockroom catalog.\n\nClick on the small chest icons on the right hand side of each listing to open the inventory list view.\n\nIf you want, you can craft a waypoint compass and use that to point you towards the chest. Since we have JourneyMaps and NEI, it's not really necessary.\n\n[warn]The Catalog seems to be a bit broken though and doesn't work well with GT items.[/warn]",
+      "batch": "quests131-211",
+      "note": "第189篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAH6g.desc",
+      "before": "NEI具有內建搜尋功能,用於查詢儲存在附近庫存中的物品. 倉庫目錄(Stockroom-Catalog)可以顯示你庫存中的物品列表.%n%n手持倉庫目錄Shift+右鍵一個新庫存(箱子、書架、桶以及任何有物品欄的東西),來將這個庫存加入倉庫目錄中進行追蹤.%n%n再次Shift+右鍵相同的方塊來從目錄中移除此庫存.%n%n在倉庫目錄中的方塊會有小小的粒子效果,讓你知道它正在被追蹤.%n%n手持倉庫目錄右鍵可以開啟它的GUI並看到列表.  你可以對列表進行排序,包括升序和降序、數量(計數)或字母順序.%n%n你還可以看到有某件特定物品的所有庫存列表,並可以很方便地將其中某個庫存加入另一個倉庫目錄,以便查詢物品.%n%n倉庫目錄還可以用排版臺和拓印機影印.%n%n點選倉庫目錄的標題可以隨意改動,可以用於自定義標記倉庫目錄.%n%n點選每個列表右側的小箱子圖示可以開啟庫存列表檢視.%n%n如果你想的話,可以製作一個路標盤,用來指向你要找的箱子.由於我們已經有了旅行地圖和NEI,所以這玩意不是必需品.%n%n[warn]不過倉庫目錄貌似有點壞了,對GT物品不太相容.[/warn]%n%n譯者注:倉庫目錄不能正確顯示很多GT物品的名字,所以...雖然它是個好東西,但在GTNH裡可能用處不大...",
+      "after": "NEI具有內建搜尋功能,用於查詢儲存在附近庫存中的物品. 倉庫目錄(Stockroom-Catalog)可以顯示你庫存中的物品列表.%n%n手持倉庫目錄Shift+右鍵一個新庫存(箱子、書架、桶以及任何有物品欄的東西),來將這個庫存加入倉庫目錄中進行追蹤.%n%n再次Shift+右鍵相同的方塊來從目錄中移除此庫存.%n%n在倉庫目錄中的方塊會有小小的粒子效果,讓你知道它正在被追蹤.%n%n手持倉庫目錄右鍵可以開啟它的GUI並看到列表.  你可以對列表進行排序,包括升序和降序、數量(計數)或字母順序.%n%n你還可以看到有某件特定物品的所有庫存列表,並可以很方便地將其中某個庫存加入另一個倉庫目錄,以便查詢物品.%n%n倉庫目錄還可以用排版台和拓印機影印.%n%n點選倉庫目錄的標題可以隨意改動,可以用於自訂標記倉庫目錄.%n%n點選每個列表右側的小箱子圖示可以開啟庫存列表檢視.%n%n如果你想的話,可以製作一個路標盤,用來指向你要找的箱子.由於我們已經有了旅行地圖和NEI,所以這玩意不是必需品.%n%n[warn]不過倉庫目錄貌似有點壞了,對GT物品不太相容.[/warn]%n%n譯者注:倉庫目錄不能正確顯示很多GT物品的名字,所以...雖然它是個好東西,但在GTNH裡可能用處不大...",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ABetterWaytoFind-AAAAAAAAAAAAAAAAAAAH6g==.json",
+        "field": "english_desc"
+      },
+      "english": "NEI has a built in search feature for finding an item stored in an inventory nearby. A Stockroom Catalog can give you a list of everything stored in your inventories.\n\nSneak-right-click a block with an inventory (a chest, bookcase, barrel, anything with an inventory) to add that inventory to the list of inventories for the catalog to keep track of.\n\nSneak-right-click the same block again to remove that block from the list.\n\nA small particle effect will render on any block that has been selected with the catalog when holding the Stockroom Catalog to let you know that block is being tracked.\n\nRight-click to open the GUI and see the list. You can sort the list in ascending or descending order by quantity (Count) or alphabetical order.\n\nYou can also see a list of all the inventories that have a particular item and easily add the location of one of those inventories to a stockroom catalog so you can easily find your stuff.\n\nThe Stockroom Catalog can also be copied with the typesetting table and printing press.\n\nClick on the title to change it to anything so you can custom label your stockroom catalog.\n\nClick on the small chest icons on the right hand side of each listing to open the inventory list view.\n\nIf you want, you can craft a waypoint compass and use that to point you towards the chest. Since we have JourneyMaps and NEI, it's not really necessary.\n\n[warn]The Catalog seems to be a bit broken though and doesn't work well with GT items.[/warn]",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第189篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest2026.desc",
+      "before": "NEI具有內建搜尋功能,用於查詢儲存在附近庫存中的物品. 倉庫目錄(Stockroom-Catalog)可以顯示你庫存中的物品列表.%n%n手持倉庫目錄Shift+右鍵一個新庫存(箱子、書架、桶以及任何有物品欄的東西),來將這個庫存加入倉庫目錄中進行追蹤.%n%n再次Shift+右鍵相同的方塊來從目錄中移除此庫存.%n%n在倉庫目錄中的方塊會有小小的粒子效果,讓你知道它正在被追蹤.%n%n手持倉庫目錄右鍵可以開啟它的GUI並看到列表.  你可以對列表進行排序,包括升序和降序、數量(計數)或字母順序.%n%n你還可以看到有某件特定物品的所有庫存列表,並可以很方便地將其中某個庫存加入另一個倉庫目錄,以便查詢物品.%n%n倉庫目錄還可以用排版臺和拓印機影印.%n%n點選倉庫目錄的標題可以隨意改動,可以用於自定義標記倉庫目錄.%n%n點選每個列表右側的小箱子圖示可以開啟庫存列表檢視.%n%n如果你想的話,可以製作一個路標盤,用來指向你要找的箱子.由於我們已經有了旅行地圖和NEI,所以這玩意不是必需品.%n%n§4不過倉庫目錄貌似有點壞了,對GT物品不太相容.%n%n譯者注:倉庫目錄不能正確顯示很多GT物品的名字,所以...雖然它是個好東西,但在GTNH裡可能用處不大...",
+      "after": "NEI具有內建搜尋功能,用於查詢儲存在附近庫存中的物品. 倉庫目錄(Stockroom-Catalog)可以顯示你庫存中的物品列表.%n%n手持倉庫目錄Shift+右鍵一個新庫存(箱子、書架、桶以及任何有物品欄的東西),來將這個庫存加入倉庫目錄中進行追蹤.%n%n再次Shift+右鍵相同的方塊來從目錄中移除此庫存.%n%n在倉庫目錄中的方塊會有小小的粒子效果,讓你知道它正在被追蹤.%n%n手持倉庫目錄右鍵可以開啟它的GUI並看到列表.  你可以對列表進行排序,包括升序和降序、數量(計數)或字母順序.%n%n你還可以看到有某件特定物品的所有庫存列表,並可以很方便地將其中某個庫存加入另一個倉庫目錄,以便查詢物品.%n%n倉庫目錄還可以用排版台和拓印機影印.%n%n點選倉庫目錄的標題可以隨意改動,可以用於自訂標記倉庫目錄.%n%n點選每個列表右側的小箱子圖示可以開啟庫存列表檢視.%n%n如果你想的話,可以製作一個路標盤,用來指向你要找的箱子.由於我們已經有了旅行地圖和NEI,所以這玩意不是必需品.%n%n§4不過倉庫目錄貌似有點壞了,對GT物品不太相容.%n%n譯者注:倉庫目錄不能正確顯示很多GT物品的名字,所以...雖然它是個好東西,但在GTNH裡可能用處不大...",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/ABetterWaytoFind-AAAAAAAAAAAAAAAAAAAH6g==.json",
+        "field": "english_desc"
+      },
+      "english": "NEI has a built in search feature for finding an item stored in an inventory nearby. A Stockroom Catalog can give you a list of everything stored in your inventories.\n\nSneak-right-click a block with an inventory (a chest, bookcase, barrel, anything with an inventory) to add that inventory to the list of inventories for the catalog to keep track of.\n\nSneak-right-click the same block again to remove that block from the list.\n\nA small particle effect will render on any block that has been selected with the catalog when holding the Stockroom Catalog to let you know that block is being tracked.\n\nRight-click to open the GUI and see the list. You can sort the list in ascending or descending order by quantity (Count) or alphabetical order.\n\nYou can also see a list of all the inventories that have a particular item and easily add the location of one of those inventories to a stockroom catalog so you can easily find your stuff.\n\nThe Stockroom Catalog can also be copied with the typesetting table and printing press.\n\nClick on the title to change it to anything so you can custom label your stockroom catalog.\n\nClick on the small chest icons on the right hand side of each listing to open the inventory list view.\n\nIf you want, you can craft a waypoint compass and use that to point you towards the chest. Since we have JourneyMaps and NEI, it's not really necessary.\n\n[warn]The Catalog seems to be a bit broken though and doesn't work well with GT items.[/warn]",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第189篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNQ.name",
+      "before": "§c§l燃燒的笨蛋",
+      "after": "§c§l燃燒的笨蛋",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/FlamingIdiots-AAAAAAAAAAAAAAAAAAAHNQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lFlaming idiots",
+      "batch": "quests131-211",
+      "note": "第190篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNQ.desc",
+      "before": "烈焰人全是精英怪，並且非常討厭。像躲避瘟疫一樣躲開吧。等你帶上精良的武器和盔甲再準備戰鬥。%n%n你也可以嘗試用科技消滅它們。 %n%n再或者，乾脆換種方式獲取烈焰粉和烈焰棒吧。",
+      "after": "烈焰人全是精英怪，並且非常討厭。像躲避瘟疫一樣躲開吧。等你帶上精良的武器和盔甲再準備戰鬥。%n%n你也可以嘗試用科技消滅它們。 %n%n再或者，乾脆換種方式獲取烈焰粉和烈焰棒吧。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/FlamingIdiots-AAAAAAAAAAAAAAAAAAAHNQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Blazes are all infernals, and all nasty. Avoid like a plague. Get awesome weapons, awesome armor, and prepare for a fight.\n\nThe alternative is to figure out a way to destroy them with technology.\n\nThe alternative to the alternative is to figure out a different way to get blaze powder and blaze rods.",
+      "batch": "quests131-211",
+      "note": "第190篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHYA.name",
+      "before": "§c§l修理你的防化服",
+      "after": "§c§l修理你的防化服",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/RepairingYourHaz-AAAAAAAAAAAAAAAAAAAHYA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lRepairing Your Hazmat Suit",
+      "batch": "quests131-211",
+      "note": "第191篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHYA.desc",
+      "before": "穿著防化服時得格外小心，它的耐久度並不高，即便只是從幾格高的地方摔落，也會迅速損耗靴子的耐久。%n%n直到進入LV後期，能夠製作一套全新的防化服之前，可以使用一些橡膠片和一個膠水桶來修理它們。",
+      "after": "穿著防化服時得格外小心，它的耐久度並不高，即便只是從幾格高的地方摔落，也會迅速損耗靴子的耐久。%n%n直到進入LV後期，能夠製作一套全新的防化服之前，可以使用一些橡膠片和一個膠水桶來修理它們。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/RepairingYourHaz-AAAAAAAAAAAAAAAAAAAHYA==.json",
+        "field": "english_desc"
+      },
+      "english": "Be careful when wearing your hazmat suit all the time. The durability is not very high. Even just falling a few blocks will damage the boots quickly.\n\nYou can repair your suit long before you can craft a new one in late LV Age, using some rubber sheets and a glue bucket.",
+      "batch": "quests131-211",
+      "note": "第191篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdA.name",
+      "before": "§c§l路西法的小幫手",
+      "after": "§c§l路西法的小幫手",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LucifersLittleHe-AAAAAAAAAAAAAAAAAAAHdA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lLucifer's Little Helper",
+      "batch": "quests131-211",
+      "note": "第192篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdA.desc",
+      "before": "有了一臺合金爐和一些地獄岩粉之後，你就可以製作地獄熔爐了，這是一種效率很高的烘烤機器。對需要短時間燒製大量物品的玩家來說很有用。%n%n它的冶煉速度只有高爐的一半，但是它消耗的燃料也只有高爐的一半。也就是說，相比於高爐，它的燃料效率相同但是速度更慢。它的另一個缺點是將來你不能用它來合成工業高爐，而高爐可以。%n%n（譯者注：多半是任務書作者數學不太好，經實測，地獄熔爐用相同的燃料能燒兩倍的物品，燃料效率其實翻倍了，只不過速度比較慢而已。）%n%n但話又說回來，地獄岩粉也不要錢，而且不同於高爐，它可以燒製所有熔爐配方，你又有什麼損失呢？再說了，你還可以用它烤成噸的麵包呢！",
+      "after": "有了一臺合金爐和一些地獄岩粉之後，你就可以製作地獄熔爐了，這是一種效率很高的烘烤機器。對需要短時間燒製大量物品的玩家來說很有用。%n%n它的冶煉速度只有高爐的一半，但是它消耗的燃料也只有高爐的一半。也就是說，相比於高爐，它的燃料效率相同但是速度更慢。它的另一個缺點是將來你不能用它來合成工業高爐，而高爐可以。%n%n（譯者注：多半是任務書作者數學不太好，經實測，地獄熔爐用相同的燃料能燒兩倍的物品，燃料效率其實翻倍了，只不過速度比較慢而已。）%n%n但話又說回來，地獄岩粉也不要錢，而且不同於高爐，它可以燒製所有熔爐配方，你又有什麼損失呢？再說了，你還可以用它烤成噸的麵包呢！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/LucifersLittleHe-AAAAAAAAAAAAAAAAAAAHdA==.json",
+        "field": "english_desc"
+      },
+      "english": "With an alloy smelter and some netherrack dust you can make Nether furnaces, which are extremely efficient cooking machines. Very handy for someone needing a lot of stuff furnaced in a jiffy.\n\nIn comparison to the Blast Furnace, the only downside to crafting Nether Furnaces is that they cannot be used as a component for the Electric Blast Furnace (EBF) craft later on. Blast Furnaces can. Then again, Nether dust is practically free, so what's the loss? You can always use them to bake stacks of bread!",
+      "batch": "quests131-211",
+      "note": "第192篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHew.name",
+      "before": "§c§l泥巴，還能用來敷面膜",
+      "after": "§c§l泥巴，還能用來敷面膜",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MudCanAlsobeUsed-AAAAAAAAAAAAAAAAAAAHew==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lMud, Can Also be Used For Facials",
+      "batch": "quests131-211",
+      "note": "第193篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHew.desc",
+      "before": "你可能已經在濕地周圍發現了一大堆泥巴，跳進水裡時嫌它礙事，做成鎧甲穿又覺得麻煩。可別浪費了！有了新做的提取機，你就能把藏在泥巴里的黏土給榨出來！",
+      "after": "你可能已經在濕地周圍發現了一大堆泥巴，跳進水裡時嫌它礙事，做成鎧甲穿又覺得麻煩。可別浪費了！有了新做的提取機，你就能把藏在泥巴裡的黏土給榨出來！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/MudCanAlsobeUsed-AAAAAAAAAAAAAAAAAAAHew==.json",
+        "field": "english_desc"
+      },
+      "english": "You may have found plenty of mud piles around the wetlands and thought of them as mere annoyances when jumping in the water or for that armor. Waste not! With your new extractor, you can pull out the clay hidden in the mud!",
+      "batch": "quests131-211",
+      "note": "第193篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfw.name",
+      "before": "§c§l垃圾太多了？？",
+      "after": "§c§l垃圾太多了？？",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TooMuchJunk-AAAAAAAAAAAAAAAAAAAHfw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lToo Much Junk??",
+      "batch": "quests131-211",
+      "note": "第194篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfw.desc",
+      "before": "怎麼可能！但你要是真想把多餘的物品清理掉，就給自己做個垃圾桶。想玩得更花哨點，可以用漏斗，旁邊再放個拉桿，以確保你只會扔掉那些真心不想要的東西。我的意思是，§l我可§r從來沒有手滑把工具給丟進去過，沒有，那個人絕對不是我。",
+      "after": "怎麼可能！但你要是真想把多餘的物品清理掉，就給自己做個垃圾桶。想玩得更花哨點，可以用漏斗，旁邊再放個拉桿，以確保你只會扔掉那些真心不想要的東西。我的意思是，§l我可§r從來沒有手滑把工具給丟進去過，沒有，那個人絕對不是我。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TooMuchJunk-AAAAAAAAAAAAAAAAAAAHfw==.json",
+        "field": "english_desc"
+      },
+      "english": "Impossible! But if you really want to get rid of excess items, make yourself a trashcan. If you want to be really fancy, you can use a hopper with a lever next to it to make sure you only throw away items you really want. I mean, §lI've§r never thrown away a tool accidentally, nope, never me.",
+      "batch": "quests131-211",
+      "note": "第194篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHww.name",
+      "before": "§c§l升級抽屜",
+      "after": "§c§l升級抽屜",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/UpgradingDrawers-AAAAAAAAAAAAAAAAAAAHww==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lUpgrading Drawers",
+      "batch": "quests131-211",
+      "note": "第195篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAHww.desc",
+      "before": "抽屜升級不同於桶升級。首先你需要製作升級模板。",
+      "after": "抽屜升級不同於桶升級。首先你需要製作升級模板。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/UpgradingDrawers-AAAAAAAAAAAAAAAAAAAHww==.json",
+        "field": "english_desc"
+      },
+      "english": "Drawer upgrades are different from barrel upgrades. First you need to make the upgrade template.",
+      "batch": "quests131-211",
+      "note": "第195篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAICA.name",
+      "before": "§c§l雅克·庫斯托",
+      "after": "§c§l雅克·庫斯托",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/JacquesCousteau-AAAAAAAAAAAAAAAAAAAICA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lJacques Cousteau",
+      "batch": "quests131-211",
+      "note": "第196篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAICA.desc",
+      "before": "有了防化頭盔，你就可以安全地進行長時間的水下探索了。你現在只需要一些壓縮空氣單元。用些錫錠來跟我換幾個壓縮空氣單元吧。%n%n當你的氧氣條減少時，防化頭盔會消耗一個壓縮空氣單補充氧氣條，並返還一個空單元。這些空單元可以扔進壓縮機繼續製作壓縮空氣單元，這樣，你就可以更方便地在河底收集黏土了。等有了壓模器或卷板機之後，你就可以自己製作更多的單元了。%n%n譯者注：雅克·庫斯托(Jacques Cousteau)，是水肺的發明者。",
+      "after": "有了防化頭盔，你就可以安全地進行長時間的水下探索了。你現在只需要一些壓縮空氣單元。用些錫錠來跟我換幾個壓縮空氣單元吧。%n%n當你的氧氣條減少時，防化頭盔會消耗一個壓縮空氣單元補充氧氣條，並返還一個空單元。這些空單元可以扔進壓縮機繼續製作壓縮空氣單元，這樣，你就可以更方便地在河底收集黏土了。等有了壓模機或卷板機之後，你就可以自己製作更多的單元了。%n%n譯者注：雅克·庫斯托(Jacques Cousteau)，是水肺的發明者。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/JacquesCousteau-AAAAAAAAAAAAAAAAAAAICA==.json",
+        "field": "english_desc"
+      },
+      "english": "Now that you have a Scuba Helmet you can safely explore underwater for long periods of time. You just need some compressed air cells. I'll trade you some Tin ingots for a few compressed air cells.\n\nAs your air drops, the helmet will take a compressed air cell and give back an empty cell. Throw these cells into your compressor and you can easily gather clay from beneath rivers. You'll be able to make more cells later once you get an extruder or a plate bender.",
+      "batch": "quests131-211",
+      "note": "第196篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAICA.desc",
+      "before": "有了防化頭盔,你就可以安全地進行長時間的水下探索了.你只需要一些壓縮空氣單元.我會用一些壓縮空氣單元換你的錫錠.%n%n當你的氧氣條減少時,防化頭盔會消耗一個壓縮空氣單元(補充氧氣條),並返還一個空單元.這些空單元可以扔進壓縮機繼續製作壓縮空氣單元.這樣,你就可以更方便地在河底收集黏土了.  一旦擁有了壓模器或卷板機,你就可以自己製作更多的單元了.%n%n譯者注:雅克·庫斯托(Jacques Cousteau),是水肺的發明者.",
+      "after": "有了防化頭盔,你就可以安全地進行長時間的水下探索了.你只需要一些壓縮空氣單元.我會用一些壓縮空氣單元換你的錫錠.%n%n當你的氧氣條減少時,防化頭盔會消耗一個壓縮空氣單元(補充氧氣條),並返還一個空單元.這些空單元可以扔進壓縮機繼續製作壓縮空氣單元.這樣,你就可以更方便地在河底收集黏土了.  一旦擁有了壓模機或卷板機,你就可以自己製作更多的單元了.%n%n譯者注:雅克·庫斯托(Jacques Cousteau),是水肺的發明者.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/JacquesCousteau-AAAAAAAAAAAAAAAAAAAICA==.json",
+        "field": "english_desc"
+      },
+      "english": "Now that you have a Scuba Helmet you can safely explore underwater for long periods of time. You just need some compressed air cells. I'll trade you some Tin ingots for a few compressed air cells.\n\nAs your air drops, the helmet will take a compressed air cell and give back an empty cell. Throw these cells into your compressor and you can easily gather clay from beneath rivers. You'll be able to make more cells later once you get an extruder or a plate bender.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第196篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest2056.desc",
+      "before": "有了防化頭盔,你就可以安全地進行長時間的水下探索了.你只需要一些壓縮空氣單元.我會用一些壓縮空氣單元換你的錫錠.%n%n當你的氧氣條減少時,防化頭盔會消耗一個壓縮空氣單元(補充氧氣條),並返還一個空單元.這些空單元可以扔進壓縮機繼續製作壓縮空氣單元.這樣,你就可以更方便地在河底收集粘土了.  一旦擁有了壓模器或卷板機,你就可以自己製作更多的單元了.%n%n譯者注:雅克·庫斯托(Jacques Cousteau),是水肺的發明者.",
+      "after": "有了防化頭盔,你就可以安全地進行長時間的水下探索了.你只需要一些壓縮空氣單元.我會用一些壓縮空氣單元換你的錫錠.%n%n當你的氧氣條減少時,防化頭盔會消耗一個壓縮空氣單元(補充氧氣條),並返還一個空單元.這些空單元可以扔進壓縮機繼續製作壓縮空氣單元.這樣,你就可以更方便地在河底收集粘土了.  一旦擁有了壓模機或卷板機,你就可以自己製作更多的單元了.%n%n譯者注:雅克·庫斯托(Jacques Cousteau),是水肺的發明者.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/JacquesCousteau-AAAAAAAAAAAAAAAAAAAICA==.json",
+        "field": "english_desc"
+      },
+      "english": "Now that you have a Scuba Helmet you can safely explore underwater for long periods of time. You just need some compressed air cells. I'll trade you some Tin ingots for a few compressed air cells.\n\nAs your air drops, the helmet will take a compressed air cell and give back an empty cell. Throw these cells into your compressor and you can easily gather clay from beneath rivers. You'll be able to make more cells later once you get an extruder or a plate bender.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第196篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXA.name",
+      "before": "§c§l皇家級的傻瓜",
+      "after": "§c§l皇家級的傻瓜",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/AFoolFitforaKing-AAAAAAAAAAAAAAAAAAAIXA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lA Fool Fit for a King",
+      "batch": "quests131-211",
+      "note": "第197篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXA.desc",
+      "before": "只有最瘋狂的傻瓜才會用鑽石來做工具！又或者，這是大智若愚？%n%n§3PS：你甚至還可以§o把它們當燃料燒§r§3，瘋上加瘋。",
+      "after": "只有最瘋狂的傻瓜才會用鑽石來做工具！又或者，這是大智若愚？%n%n§3PS：你甚至還可以§o把它們當燃料燒§r§3，瘋上加瘋。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/AFoolFitforaKing-AAAAAAAAAAAAAAAAAAAIXA==.json",
+        "field": "english_desc"
+      },
+      "english": "Only the craziest fool would use diamonds to make a tool! Or is it crazy like a fox?\n\n§3PS: You can also §oburn them for fuel§r§3 for that extra bit of craziness.",
+      "batch": "quests131-211",
+      "note": "第197篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.name",
+      "before": "§c§l如何開啟鐵門？",
+      "after": "§c§l如何開啟鐵門？",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowtoopenyourIro-AAAAAAAAAAAAAAAAAAAJHA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lHow to open your Iron Doors?",
+      "batch": "quests131-211",
+      "note": "第198篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.desc",
+      "before": "鐵門可以使你的廠房或住房更安全。%n%n現在，來製作幾個石制壓力板和按鈕，以便開啟這些沉重的鐵門。",
+      "after": "鐵門可以使你的廠房或住房更安全。%n%n現在，來製作幾個石製壓力板和按鈕，以便開啟這些沉重的鐵門。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowtoopenyourIro-AAAAAAAAAAAAAAAAAAAJHA==.json",
+        "field": "english_desc"
+      },
+      "english": "Your iron doors make your Machine Hall or House more safe. They cannot be opened by hand.\n\nNow let's craft some Pressure Plates and Buttons to open these heavy iron doors.",
+      "batch": "quests131-211",
+      "note": "第198篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.desc",
+      "before": "鐵門可以使你的廠房或住房更安全.%n%n現在,讓我們製作幾個石制壓力板和按鈕來開啟沉重的鐵門.",
+      "after": "鐵門可以使你的廠房或住房更安全.%n%n現在,讓我們製作幾個石製壓力板和按鈕來開啟沉重的鐵門.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowtoopenyourIro-AAAAAAAAAAAAAAAAAAAJHA==.json",
+        "field": "english_desc"
+      },
+      "english": "Your iron doors make your Machine Hall or House more safe. They cannot be opened by hand.\n\nNow let's craft some Pressure Plates and Buttons to open these heavy iron doors.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第198篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest2332.desc",
+      "before": "鐵門可以使你的廠房或住房更安全.%n%n現在,讓我們製作幾個石制壓力板和按鈕來開啟沉重的鐵門.",
+      "after": "鐵門可以使你的廠房或住房更安全.%n%n現在,讓我們製作幾個石製壓力板和按鈕來開啟沉重的鐵門.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowtoopenyourIro-AAAAAAAAAAAAAAAAAAAJHA==.json",
+        "field": "english_desc"
+      },
+      "english": "Your iron doors make your Machine Hall or House more safe. They cannot be opened by hand.\n\nNow let's craft some Pressure Plates and Buttons to open these heavy iron doors.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第198篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHQ.name",
+      "before": "§a§l如何開啟木門？",
+      "after": "§a§l如何開啟木門？",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/HowtoOpenYourWoo-AAAAAAAAAAAAAAAAAAAJHQ==.json",
+        "field": "english_name"
+      },
+      "english": "§2§lHow to Open Your Wooden Doors?",
+      "batch": "quests131-211",
+      "note": "第199篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHQ.desc",
+      "before": "木門能讓你的住房更安全。做一些木製壓力板和按鈕來開門吧。%n%n當收到紅石訊號，門會開啟；紅石訊號終止，門會關閉。如果在門的任一側放上壓力板，踩上去時，門就會開啟。當然，怪物踩上去也一樣。雙開門會一起開啟。%n%n你需要使用橡木才能完成此任務。如果附近沒有，去自動售貨機裡買點樹苗吧。%n%n當實體在壓力板上時，壓力板會發出紅石訊號。不同的壓力板有不同模式，對物品/怪物/玩家/任意實體生效。%n%n按鈕會發出持續時間約2秒的訊號。%n%n拉桿會發出持續的紅石訊號，直到手動關閉。",
+      "after": "木門能讓你的住房更安全。做一些木製壓力板和按鈕來開門吧。%n%n當收到紅石訊號，門會開啟；紅石訊號終止，門會關閉。如果在門的任一側放上壓力板，踩上去時，門就會開啟。當然，怪物踩上去也一樣。雙開門會一起開啟。%n%n你需要使用橡木才能完成此任務。如果附近沒有，去自動售貨機裡買點樹苗吧。%n%n當實體在壓力板上時，壓力板會發出紅石訊號。不同的壓力板有不同模式，對物品/怪物/玩家/任意實體生效。%n%n按鈕會發出持續時間約2秒的訊號。%n%n拉桿會發出持續的紅石訊號，直到手動關閉。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/HowtoOpenYourWoo-AAAAAAAAAAAAAAAAAAAJHQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Wooden doors make your House safer. Let's craft some wooden Pressure plates and Buttons to open these Doors.\n\nDoors will open when they receive a redstone signal, and close again after it stops. If you place the plates on either side of a door, it will open when you step on it. Or a monster does. Double doors will open together.\n\nYou'll need to use Oak for this quest. Purchase some saplings from the Coins tab if you don't have any nearby.\n\nPressure plates will send a redstone signal when an entity is on top of them. There are different types, like items or not, or mobs/player/any entity/etc.\n\nButtons will emit one for about 2 seconds before resetting.\n\nLevers will emit a signal until switched back off.",
+      "batch": "quests131-211",
+      "note": "第199篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKg.name",
+      "before": "§c§l馴服一隻豹貓做朋友",
+      "after": "§c§l馴服一隻豹貓做朋友",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TameanOcelottoGe-AAAAAAAAAAAAAAAAAAAJKg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lTame an Ocelot to Get a Friend",
+      "batch": "quests131-211",
+      "note": "第200篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKg.desc",
+      "before": "準備好所需的材料後，你就需要去找一隻豹貓來馴服了。%n%n豹貓通常出沒在叢林生物群系中。%n%n如果你實在找不到豹貓，也可以直接用刷怪蛋召喚一隻出來。%n%n你可以透過餵食生魚來馴服豹貓。因此，請把生魚放進揹包，從快捷欄中選取它。%n%n就像原版 Minecraft 裡一樣，被馴服的豹貓會變成貓。貓可以驅趕苦力怕。%n%n§3提示：在嘗試馴服豹貓時，請確保周圍空曠，讓豹貓有足夠的活動空間。如果空間太狹小，就沒法成功馴服它。%n%n接下來，手持生魚，保持不動。如果你移動了，就會把豹貓嚇跑。只要你保持靜止，豹貓最終會注意到你手裡的魚，並慢慢朝你走來。",
+      "after": "準備好所需的材料後，你就需要去找一隻豹貓來馴服了。%n%n豹貓通常出沒在叢林生物群系中。%n%n如果你實在找不到豹貓，也可以直接用刷怪蛋召喚一隻出來。%n%n你可以透過餵食生魚來馴服豹貓。因此，請把生魚放進揹包，從快捷欄中選取它。%n%n就像原版 Minecraft 裡一樣，被馴服的豹貓會變成貓。貓可以驅趕苦力怕。%n%n§3提示：在嘗試馴服豹貓時，請確保周圍空曠，讓豹貓有足夠的活動空間。如果空間太狹小，就沒法成功馴服它。%n%n接下來，手持生魚，保持不動。如果你移動了，就會把豹貓嚇跑。只要你保持靜止，豹貓最終會注意到你手裡的魚，並慢慢朝你走來。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/TameanOcelottoGe-AAAAAAAAAAAAAAAAAAAJKg==.json",
+        "field": "english_desc"
+      },
+      "english": "Once you have the required materials, you will need to find an ocelot to tame.\n\nOcelots can be found in Jungle Biomes.\n\nIf you are having trouble finding an ocelot, you can always summon an ocelot using a spawn egg.\n\nYou can tame an ocelot by giving it a raw fish. So add the raw fish to your inventory and select the raw fish in your hotbar.\n\nJust like vanilla Minecraft, a tamed ocelot turns into a cat. The cat will repel creepers.\n\n§3TIP: Make sure you are in a large space when trying to tame the ocelot so that the ocelot has lots of room to move. If you are in a space that is too small, you will not be able to tame the ocelot.\n\nNext, while holding the raw fish, do not move. If you move, you will scare away the ocelot. If you are very still, the ocelot will eventually notice the fish in your hand and begin to walk over to you.",
+      "batch": "quests131-211",
+      "note": "第200篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJVQ.name",
+      "before": "§c§l高階太陽能鍋爐",
+      "after": "§c§l高階太陽能鍋爐",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/AdvancedSolarBoi-AAAAAAAAAAAAAAAAAAAJVQ==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lAdvanced Solar Boilers",
+      "batch": "quests131-211",
+      "note": "第201篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJVQ.desc",
+      "before": "當有了一些蒸汽機器後，你就可以製造高階太陽能鍋爐。它們的每秒蒸汽產量更高，其他方面與簡易太陽能鍋爐相同。%n%n從它的底部通入水以產生蒸汽。與其他鍋爐不同，這個鍋爐只在輸出口輸出蒸汽。%n%n提示：高階太陽能鍋爐會鈣化，效率會隨時間慢慢降低——不過蒸汽輸出最低只會降到120L/s，而不是像簡易太陽能鍋爐那樣降到40L/s。等到電力時代，你就能使用蒸餾水防止鈣化。%n%n[note]你需要從暮色森林（LV+）或貧瘠礦石中獲取銀。[/note]",
+      "after": "當有了一些蒸汽機器後，你就可以製造高階太陽能鍋爐。它們的每秒蒸汽產量更高，其他方面與簡易太陽能鍋爐相同。%n%n從它的底部通入水以產生蒸汽。與其他鍋爐不同，這個鍋爐只在輸出口輸出蒸汽。%n%n提示：高階太陽能鍋爐會鈣化，效率會隨時間慢慢降低——不過蒸汽輸出最低只會降到120L/s，而不是像簡易太陽能鍋爐那樣降到40L/s。等到電力時代，你就能使用蒸餾水防止鈣化。%n%n[note]你需要從暮色森林（LV+）或貧瘠礦石中獲取銀。[/note]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/AdvancedSolarBoi-AAAAAAAAAAAAAAAAAAAJVQ==.json",
+        "field": "english_desc"
+      },
+      "english": "Once you have some Steam machines, you can make Advanced Solar Boilers. They have more Steam output per second. Otherwise they are the same as Simple Solar Boilers.\n\nFill it with Water on the bottom side to produce Steam. Unlike the other Boilers, this only outputs Steam on the output port side.\n\nHint: The Advanced Solar Boiler calcifies and becomes less efficient over time - but it will only drop to 120L/s, not 40L/s, like the Simple Solar Boiler. Later on you can consider using Distilled Water to avoid calcification.\n\n[note]You'll need Silver from the Twilight Forest (LV+) or from small ores for this.[/note]",
+      "batch": "quests131-211",
+      "note": "第201篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXw.name",
+      "before": "§c§l我知道他的名字！",
+      "after": "§c§l我知道他的名字！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/IKnowHisName-AAAAAAAAAAAAAAAAAAAJXw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lI Know His Name!",
+      "batch": "quests131-211",
+      "note": "第202篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXw.desc",
+      "before": "去命名器是一臺簡單而實用的機器，可以移除不正確或無用的NBT資料。似乎只對GT物品有效？%n%n§3在NBT拆解資料被徹底移除之前，去命名器還有些用，但幾乎所有人都認為，那玩意刪得好。%n%n暮色森林中有很多鉛，如果你實在急需，地獄也有不少鉛的貧瘠礦。",
+      "after": "去命名器是一臺簡單而實用的機器，可以移除不正確或無用的NBT資料。似乎只對GT物品有效？%n%n§3在NBT拆解資料被徹底移除之前，去命名器還有些用，但幾乎所有人都認為，那玩意刪得好。%n%n暮色森林中有很多鉛，如果你實在急需，地獄也有不少鉛的貧瘠礦。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/IKnowHisName-AAAAAAAAAAAAAAAAAAAJXw==.json",
+        "field": "english_desc"
+      },
+      "english": "The Name Remover is a simple utility machine that can strip off incorrect or useless NBT data. Only works on GT items?\n\n§3Was more useful before NBT disassembly data was removed, but good riddance I (and basically everyone) say.\n\nLead is plentiful in the Twilight Forest. Or if you are desperate, small ores can be found in the Nether.",
+      "batch": "quests131-211",
+      "note": "第202篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZw.name",
+      "before": "§c§l哪個工程師不想要一個便攜的工作台？",
+      "after": "§c§l哪個工程師不想要一個便攜的工作台？",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WhatEngineerDoes-AAAAAAAAAAAAAAAAAAAJZw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lWhat Engineer Doesn't Want a Portable Workbench?",
+      "batch": "quests131-211",
+      "note": "第203篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZw.desc",
+      "before": "這種揹包犧牲了一部分空間，為你提供了行動式的工作台。你得把想要用於合成的物品放入揹包，這樣，就可以用它快速合成大量物品。%n%n稍後，你也可以用庫存較大的林業工作台進行相同的操作。當你到達MV階段，可以換成探險揹包，它有一對水槽， 能儲存流體。",
+      "after": "這種揹包犧牲了一部分空間，為你提供了行動式的工作台。你得把想要用於合成的物品放入揹包，這樣，就可以用它快速合成大量物品。%n%n稍後，你也可以用庫存較大的林業工作台進行相同的操作。當你到達MV階段，可以換成探險揹包，它有一對儲槽， 能儲存流體。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WhatEngineerDoes-AAAAAAAAAAAAAAAAAAAJZw==.json",
+        "field": "english_desc"
+      },
+      "english": "This backpack sacrifices some space to give you a portable crafting table. You have to put the items you want to craft inside the backpack. Because of this, you can use it to quickly craft large amounts of items at once.\n\nYou can also use the Forestry Worktable with its larger inventory to do the same. Once you reach MV, you can switch to an Adventure Backpack that includes a pair of tanks for storing fluids if you want.",
+      "batch": "quests131-211",
+      "note": "第203篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZw.desc",
+      "before": "這種揹包犧牲了一部分空間,為你提供了行動式的工作台.你必須將要製作的物品放入揹包.而正因為這一點,你可以用它快速合成大量物品.%n%n稍後,你也可以用庫存較大的林業工作台進行相同的操作.當你到達MV階段,你可以選擇一種探險揹包,它有一對水槽以儲存流體.%n%n",
+      "after": "這種揹包犧牲了一部分空間,為你提供了行動式的工作台.你必須將要製作的物品放入揹包.而正因為這一點,你可以用它快速合成大量物品.%n%n稍後,你也可以用庫存較大的林業工作台進行相同的操作.當你到達MV階段,你可以選擇一種探險揹包,它有一對儲槽以儲存流體.%n%n",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WhatEngineerDoes-AAAAAAAAAAAAAAAAAAAJZw==.json",
+        "field": "english_desc"
+      },
+      "english": "This backpack sacrifices some space to give you a portable crafting table. You have to put the items you want to craft inside the backpack. Because of this, you can use it to quickly craft large amounts of items at once.\n\nYou can also use the Forestry Worktable with its larger inventory to do the same. Once you reach MV, you can switch to an Adventure Backpack that includes a pair of tanks for storing fluids if you want.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第203篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest2407.desc",
+      "before": "這種揹包犧牲了一部分空間,為你提供了行動式的工作台.你必須將要製作的物品放入揹包.而正因為這一點,你可以用它快速合成大量物品.%n%n稍後,你也可以用庫存較大的林業工作台進行相同的操作.當你到達MV階段,你可以選擇一種探險揹包,它有一對水槽以儲存流體.%n%n",
+      "after": "這種揹包犧牲了一部分空間,為你提供了行動式的工作台.你必須將要製作的物品放入揹包.而正因為這一點,你可以用它快速合成大量物品.%n%n稍後,你也可以用庫存較大的林業工作台進行相同的操作.當你到達MV階段,你可以選擇一種探險揹包,它有一對儲槽以儲存流體.%n%n",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/WhatEngineerDoes-AAAAAAAAAAAAAAAAAAAJZw==.json",
+        "field": "english_desc"
+      },
+      "english": "This backpack sacrifices some space to give you a portable crafting table. You have to put the items you want to craft inside the backpack. Because of this, you can use it to quickly craft large amounts of items at once.\n\nYou can also use the Forestry Worktable with its larger inventory to do the same. Once you reach MV, you can switch to an Adventure Backpack that includes a pair of tanks for storing fluids if you want.",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第203篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjg.name",
+      "before": "§c§l抽水",
+      "after": "§c§l抽水",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/PumpingWater-AAAAAAAAAAAAAAAAAAAJjg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lPumping Water",
+      "batch": "quests131-211",
+      "note": "第204篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjg.desc",
+      "before": "RC集水器無法滿足你乾渴的雙唇？或是生物群系濕度太低？這個泵只需消耗一點可燃物（比如你的褐煤）即可產出更多的水。",
+      "after": "RC集水器在乾旱時期無法滿足你的用水需求？或是生物群系濕度太低？這個泵只需消耗一點可燃物（比如你的褐煤）即可產出更多的水。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/PumpingWater-AAAAAAAAAAAAAAAAAAAJjg==.json",
+        "field": "english_desc"
+      },
+      "english": "RC Water Tanks not cutting it through those dry spells? Or maybe you chose a dry biome to set up in? This pump will produce more water for the low cost of something burnable (like all that lignite).",
+      "batch": "quests131-211",
+      "note": "第204篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjg.desc",
+      "before": "RC集水器無法滿足你乾渴的雙唇？或是生物群系濕度太低？這個泵只需消耗一點可燃物（比如你的褐煤）即可產出更多的水。",
+      "after": "RC集水器在乾旱時期無法滿足你的用水需求？或是生物群系濕度太低？這個泵只需消耗一點可燃物（比如你的褐煤）即可產出更多的水。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/PumpingWater-AAAAAAAAAAAAAAAAAAAJjg==.json",
+        "field": "english_desc"
+      },
+      "english": "RC Water Tanks not cutting it through those dry spells? Or maybe you chose a dry biome to set up in? This pump will produce more water for the low cost of something burnable (like all that lignite).",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第204篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/load/minecraft/lang/zh_TW.lang",
+      "key": "gtnh.quest2446.desc",
+      "before": "RC的蓄水槽無法滿足你乾渴的雙唇? 或是你選擇的基地生物群系濕度太低? 這個泵只需極少的可燃物消耗(如褐煤)即可產出更多的水.",
+      "after": "RC的蓄水槽在乾旱時期無法滿足你的用水需求? 或是你選擇的基地生物群系濕度太低? 這個泵只需極少的可燃物消耗(如褐煤)即可產出更多的水.",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/PumpingWater-AAAAAAAAAAAAAAAAAAAJjg==.json",
+        "field": "english_desc"
+      },
+      "english": "RC Water Tanks not cutting it through those dry spells? Or maybe you chose a dry biome to set up in? This pump will produce more water for the low cost of something burnable (like all that lignite).",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第204篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAALXg.name",
+      "before": "§c§l桶升級 T3",
+      "after": "§c§l桶升級 T3",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAALXg==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBarrel Upgrades Tier 3",
+      "batch": "quests131-211",
+      "note": "第205篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAALXg.desc",
+      "before": "什麼？你的桶又又滿了？ 不要緊，繼續升級！",
+      "after": "什麼？你的桶又又滿了？ 不要緊，繼續升級！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAALXg==.json",
+        "field": "english_desc"
+      },
+      "english": "Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!",
+      "batch": "quests131-211",
+      "note": "第205篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAALXw.name",
+      "before": "§c§l桶升級 T4",
+      "after": "§c§l桶升級 T4",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAALXw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBarrel Upgrades Tier 4",
+      "batch": "quests131-211",
+      "note": "第206篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAALXw.desc",
+      "before": "什麼？你的桶又又又滿了？ 不要緊，繼續升級！",
+      "after": "什麼？你的桶又又又滿了？ 不要緊，繼續升級！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAALXw==.json",
+        "field": "english_desc"
+      },
+      "english": "Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!",
+      "batch": "quests131-211",
+      "note": "第206篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAALYA.name",
+      "before": "§c§l桶升級 T5",
+      "after": "§c§l桶升級 T5",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAALYA==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBarrel Upgrades Tier 5",
+      "batch": "quests131-211",
+      "note": "第207篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.AAAAAAAAAAAAAAAAAAALYA.desc",
+      "before": "什麼？你的桶又又又又滿了？ 不要緊，繼續升級！",
+      "after": "什麼？你的桶又又又又滿了？ 不要緊，繼續升級！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BarrelUpgradesTi-AAAAAAAAAAAAAAAAAAALYA==.json",
+        "field": "english_desc"
+      },
+      "english": "Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!",
+      "batch": "quests131-211",
+      "note": "第207篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.T_5nD6d8QQ29KrInOSI_Og.name",
+      "before": "§c§l手工採摘農作物太過時了",
+      "after": "§c§l手工採摘農作物太過時了",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HandpickingCrops-T_5nD6d8QQ29KrInOSI_Og==.json",
+        "field": "english_name"
+      },
+      "english": "Handpicking Crops is So Old School",
+      "batch": "quests131-211",
+      "note": "第208篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.T_5nD6d8QQ29KrInOSI_Og.desc",
+      "before": "透過製作鐮刀，你現在可以清除3x3塊的植被，並收穫5x5塊的莊稼！收割能力適用於大多數非魔法作物，包括那些種在作物架上的。%n%n§6無論你使用什麼材料製作這把工具，任務都會接受。",
+      "after": "透過製作鐮刀，你現在可以清除3x3塊的植被，並收穫5x5塊的莊稼！收割能力適用於大多數非魔法作物，包括那些種在作物架上的。%n%n§6無論你使用什麼材料製作這把工具，任務都會接受。",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HandpickingCrops-T_5nD6d8QQ29KrInOSI_Og==.json",
+        "field": "english_desc"
+      },
+      "english": "By making a scythe you are now able to clear 3x3 blocks of vegetation, and to harvest 5x5 tiles of crops! The harvesting ability works on most non-magical crops, including IC2 crops! Keep in mind this scythe will harvest IC2 crops even if they are not fully mature.\n\n§6The quest should accept the tool whatever materials you used.",
+      "batch": "quests131-211",
+      "note": "第208篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.XuZpnhWZRou46kensglZ6g.name",
+      "before": "§c§l一本書統領眾書",
+      "after": "§c§l一本書統領眾書",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Theonebooktorule-XuZpnhWZRou46kensglZ6g==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lThe one book to rule them all",
+      "batch": "quests131-211",
+      "note": "第209篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.XuZpnhWZRou46kensglZ6g.desc",
+      "before": "這本書可儲存來自其他模組的多種文獻書籍。剛製作出來時，它是空的，但你可以透過在合成欄中將它與所需書籍合成來新增內容。%n%n手持並右擊將開啟一個介面，顯示所有你新增的書籍；點選書籍將把它轉換為所選書籍。在潛行時左擊即可還原。%n%n要取回儲存的書籍，先將其轉化為所需的書籍，然後在潛行時將其丟出 - 這樣就會丟出所選的書籍，並將其留在你的物品欄中。%n%n[warn]一些警告：%n%n巫術的生態之書（擴充套件版）與此物不相容。%n%n別把它丟到植物魔法的傳送門裡去，精靈們可能會偷走它，然後只歸還它們自己的植物魔法辭典。[/warn]",
+      "after": "這本書可儲存來自其他模組的多種文獻書籍。剛製作出來時，它是空的，但你可以透過在合成欄中將它與所需書籍合成來新增內容。%n%n手持並右擊將開啟一個介面，顯示所有你新增的書籍；點選書籍將把它轉換為所選書籍。在潛行時左擊即可還原。%n%n要取回儲存的書籍，先將其轉化為所需的書籍，然後在潛行時將其丟出 - 這樣就會丟出所選的書籍，並將這本典籍留在你的物品欄中。%n%n[warn]一些警告：%n%n巫術的生態之書（擴充套件版）與此物不相容。%n%n別把它丟到植物魔法的傳送門裡去，精靈們可能會偷走它，然後只歸還它們自己的植物魔法辭典。[/warn]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Theonebooktorule-XuZpnhWZRou46kensglZ6g==.json",
+        "field": "english_desc"
+      },
+      "english": "This Tome can store multiple documentation books from other mods. It will be empty when crafted, but you can add books by combining it with the desired book in a crafting grid.\n\nRight-clicking with the Tome in hand will open an interface showing all the added books; clicking on a book will transform the tome into the selected book. To revert it back to the Tome, left-click while sneaking.\n\nTo retrieve a stored book, transform the Tome into the desired book and throw it away while sneaking - this will drop the selected book and leave the tome in your inventory.\n\n[warn]Some warnings:\n\nThe extended version of the Book of Biomes from Witchery is not compatible with this tome.\n\nYou should not throw it through the Botania portal. The elves might steal your Tome and return only their own copy of the Lexica Botania.[/warn]",
+      "batch": "quests131-211",
+      "note": "第209篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.XuZpnhWZRou46kensglZ6g.desc",
+      "before": "這本書可儲存來自其他模組的多種文獻書籍.剛製作出來時,它是空的,但你可以透過在合成欄中將它與所需書籍合成來新增內容.%n%n手持並右擊將開啟一個介面,顯示所有你新增的書籍;點選書籍將把它轉換為所選書籍.在潛行時左擊即可還原.%n%n要取回儲存的書籍,先將其轉化為所需的書籍,然後在潛行時將其丟出 - 這樣就會丟出所選的書籍,並將其留在你的物品欄中.%n%n[warn]一些警告:%n%n巫術的生態之書(擴充套件版)與此物不相容.%n%n別把它丟到植物魔法的傳送門裡去,精靈們可能會偷走它,然後只歸還它們自己的植物魔法辭典.[/warn]",
+      "after": "這本書可儲存來自其他模組的多種文獻書籍.剛製作出來時,它是空的,但你可以透過在合成欄中將它與所需書籍合成來新增內容.%n%n手持並右擊將開啟一個介面,顯示所有你新增的書籍;點選書籍將把它轉換為所選書籍.在潛行時左擊即可還原.%n%n要取回儲存的書籍,先將其轉化為所需的書籍,然後在潛行時將其丟出 - 這樣就會丟出所選的書籍,並將這本典籍留在你的物品欄中.%n%n[warn]一些警告:%n%n巫術的生態之書(擴充套件版)與此物不相容.%n%n別把它丟到植物魔法的傳送門裡去,精靈們可能會偷走它,然後只歸還它們自己的植物魔法辭典.[/warn]",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/Theonebooktorule-XuZpnhWZRou46kensglZ6g==.json",
+        "field": "english_desc"
+      },
+      "english": "This Tome can store multiple documentation books from other mods. It will be empty when crafted, but you can add books by combining it with the desired book in a crafting grid.\n\nRight-clicking with the Tome in hand will open an interface showing all the added books; clicking on a book will transform the tome into the selected book. To revert it back to the Tome, left-click while sneaking.\n\nTo retrieve a stored book, transform the Tome into the desired book and throw it away while sneaking - this will drop the selected book and leave the tome in your inventory.\n\n[warn]Some warnings:\n\nThe extended version of the Book of Biomes from Witchery is not compatible with this tome.\n\nYou should not throw it through the Botania portal. The elves might steal your Tome and return only their own copy of the Lexica Botania.[/warn]",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第209篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.fRHWhPgpRyyvSRZpL1Pkbw.name",
+      "before": "§c§l雙管齊下！",
+      "after": "§c§l雙管齊下！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BetterMakethatTw-fRHWhPgpRyyvSRZpL1Pkbw==.json",
+        "field": "english_name"
+      },
+      "english": "§3§lBetter Make that Two!",
+      "batch": "quests131-211",
+      "note": "第210篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/forceload/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.fRHWhPgpRyyvSRZpL1Pkbw.desc",
+      "before": "你可能需要第二個鐵砧！%n%n一個給工業鍛造錘，一個用於正常的修復或重新命名工作！",
+      "after": "你可能需要第二個鐵砧！%n%n一個給鍛造錘，一個用於正常的修復或重新命名工作！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BetterMakethatTw-fRHWhPgpRyyvSRZpL1Pkbw==.json",
+        "field": "english_desc"
+      },
+      "english": "You may need a second anvil! \n\nOne would have been for the Forge Hammer and another for general repairing or renaming!",
+      "batch": "quests131-211",
+      "note": "第210篇英文標題／正文對照；未核實機制及版本差異另列待查。"
+    },
+    {
+      "file": "config/txloader/load/betterquesting/lang/zh_TW.lang",
+      "key": "betterquesting.quest.fRHWhPgpRyyvSRZpL1Pkbw.desc",
+      "before": "你可能需要第二個鐵砧！%n%n一個給工業鍛造錘，一個用於正常的修復或重新命名工作！",
+      "after": "你可能需要第二個鐵砧！%n%n一個給鍛造錘，一個用於正常的修復或重新命名工作！",
+      "source": {
+        "kind": "quest",
+        "file": "Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BetterMakethatTw-fRHWhPgpRyyvSRZpL1Pkbw==.json",
+        "field": "english_desc"
+      },
+      "english": "You may need a second anvil! \n\nOne would have been for the Forge Hammer and another for general repairing or renaming!",
+      "batch": "legacy-confirmed-phrases",
+      "note": "第210篇舊副本只校準確認片語；數字與配方差異不視為已驗證。"
+    }
+  ]
+}

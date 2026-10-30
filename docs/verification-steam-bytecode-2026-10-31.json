@@ -1,0 +1,23 @@
+{
+  "jar": "TConstruct-1.13.57-GTNH.jar",
+  "jar_sha256": "f2cb53b94f135b7523bcb7afea5ef53b9afb40c0bc034fc5ec5018ad0502bc61",
+  "class_sha256": {
+    "tconstruct/tools/TinkerTools.class": "69ce74fa28d1c1ae867062af5ee7cc6be2087648ad296f5cd66d61428cc5272d",
+    "tconstruct/tools/TinkerToolEvents.class": "57dca8084588e4bb6816e1abbc49781cc1c48b8e70293534aa5bba0f307631a2"
+  },
+  "method_evidence": [
+    {
+      "class": "tconstruct.tools.TinkerTools",
+      "method": "preInit",
+      "registration": "Quartz ModAttack default nether quartz weight=1, quartz block weight=4",
+      "offsets": "2614-2677"
+    },
+    {
+      "class": "tconstruct.tools.TinkerToolEvents",
+      "method": "registerOre",
+      "registration": "crystalCertusQuartz -> ModAttack.addStackToMatchList(stack, 24)",
+      "offsets": "27-49"
+    }
+  ],
+  "interpretation": "One Certus Quartz adds 24 times the sharpness modifier progress of one Nether Quartz. Bytecode registration check only; no in-game rendering or crafting test."
+}

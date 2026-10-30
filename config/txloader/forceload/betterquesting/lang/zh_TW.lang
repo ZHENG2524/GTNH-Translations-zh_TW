@@ -538,7 +538,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.desc=蒸汽熔爐的全新升級版�
 
 # Quest: Blastoff!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.name=§c§l開爐！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.desc=是時候煉些鋼了。去“多方塊結構”工作列看看，建一座磚高爐吧。等你至少煉出8個鋼錠，再回來報告。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.desc=是時候煉些鋼了。去“多方塊結構”任務章節看看，建一座磚高爐吧。等你至少煉出8個鋼錠，再回來報告。
 
 # Quest: Time For Some Logic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.name=§c§l是時候來點邏輯了
@@ -558,7 +558,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=使用沒有絕緣的導線可�
 
 # Quest: Basic Crafting: Motors
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.name=§c§l基礎製作：馬達
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc=電動馬達是能夠將電力轉化為旋轉動能的小機件，對於所有類型的機器都非常有用。製作它不算費勁，不同等級的電動馬達，配方總是相似的，只是材料會隨等級變化。現在可以先用紅石來磁化鐵棒，以後你會再製作一臺磁化機。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc=電動馬達是能夠將電力轉化為旋轉動能的小機件，對於所有類型的機器都非常有用。製作它不算費勁，不同等級的電動馬達，配方總是相似的，只是材料會隨等級變化。現在可以先用紅石來磁化鐵桿，以後你會再製作一臺磁化機。
 
 # Quest: Basic Crafting: Rotors
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=§c§l基礎製作：轉子
@@ -566,7 +566,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=不同等級的轉子的製作�
 
 # Quest: Basic Crafting: Machine Hulls
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.name=§c§l基礎製作：機器外殼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.desc=所有機器都需要一個外殼來保護它們的敏感部件，好訊息是：它們每個等級製作方式都一樣，只有材料發生變化。%n%n§3正如tooltip所述，使用機器外殼可以傳輸1A的電流。你可以把它在Thermos伺服器上當做1A的二極體，把線纜裡4A的電流分出1A，或者用於以後的超淨間。同樣，物品或流體也可以透過機器外殼傳輸。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.desc=所有機器都需要一個外殼來保護它們的敏感部件，好訊息是：它們每個等級製作方式都一樣，只有材料發生變化。%n%n§3正如物品提示所述，使用機器外殼可以傳輸1A的電流。你可以把它在Thermos伺服器上當做1A的二極體，把線纜裡4A的電流分出1A，或者用於以後的超淨間。同樣，物品或流體也可以透過機器外殼傳輸。
 
 # Quest: Where Can I Put All the Liquids?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVA.name=§c§l我該怎麼儲存這麼多流體？
@@ -574,7 +574,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVA.desc=使用全新的合金爐，你�
 
 # Quest: Flint and Steel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.name=§c§l打火石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.desc=等你煉出鋼來，就能合成打火石了。我敢打賭，你肯定可想直奔地獄了，不過你得先心裡有數：這裡的地獄是一個非常非常危險的地方！%n%n注意：苔蘚球能讓匠魂工具緩慢自我修復，但要是工具完全損壞了，它可沒法給你救回來。%n%n還有，用打火石點火，有時候得多試幾下才能點著。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.desc=等你煉出鋼來，就能合成打火石了。我敢打賭，你肯定很想直奔地獄了，不過你得先心裡有數：這裡的地獄是一個非常非常危險的地方！%n%n注意：苔蘚球能讓匠魂工具緩慢自我修復，但要是工具完全損壞了，它可沒法給你救回來。%n%n還有，用打火石點火，有時候得多試幾下才能點著。
 
 # Quest: THE NETHER
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.name=§c§l地獄
@@ -582,7 +582,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.desc=現在這裡可更危險了，�
 
 # Quest: Wiremill v0.2 Alpha
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.name=§c§l線材軋機v0.2測試版
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.desc=小型齒輪需要用剪線鉗制造，所以來做一個吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.desc=小型齒輪需要用剪線鉗製作，所以來做一個吧。
 
 # Quest: Ooo, Shiny! (Not Platinum!)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.name=§c§l哇，亮晶晶！（不是鉑金！）
@@ -590,15 +590,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.desc=要製作你的第一臺研磨�
 
 # Quest: How to Make Rubber
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.name=§c§l如何製作橡膠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.desc=現在製造橡膠變得更復雜了——你需要生橡膠和硫粉。去地獄找一條硫礦脈似乎是個不錯的主意，不是嗎？硫礦脈會生成在Y軸5-20的範圍內。之後，你也可以從硫化氫或黃鐵礦等化學品中獲取硫。%n%n[warn]閃鋅礦以後對製備鎵和鋅很重要。在你進入LV能完整處理它之前，先囤著別動。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.desc=現在製造橡膠變得更複雜了——你需要生橡膠和硫粉。去地獄找一條硫礦脈似乎是個不錯的主意，不是嗎？硫礦脈會生成在Y軸5-20的範圍內。之後，你也可以從硫化氫或黃鐵礦等化學品中獲取硫。%n%n[warn]閃鋅礦以後對製備鎵和鋅很重要。在你進入LV能完整處理它之前，先囤著別動。[/warn]
 
 # Quest: Lit Way to Get Charred
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name=§c§l點燃制炭之路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=“木炭堆點火器”是一種批次生產木炭的另一種選擇。該裝置不消耗電力或蒸汽，但會產生大量汙染。操作步驟如下：%n%n1. 用磚塊鋪設最大不超過11×11格的地板；%n2. 在磚地板上堆放1-5層高的原木（不能留有空隙）；%n3. 將木炭堆點火器置於頂層原木中心格的正上方；%n4. 用泥土或草方塊覆蓋原木堆其餘暴露面；%n5. 木炭堆點火器將立即開始工作；%n6. 經過一段時間，原木將轉化為易碎的木炭塊；%n7. 使用斧頭破壞這些方塊以獲取木炭（時運附魔不會影響掉落率）。%n%n如果這是你第一次搭建多方塊結構，請開啟揹包介面並將滑鼠懸停在物品上方，然後按住Shift鍵以檢視擴充套件tooltip瞭解建造要求，或訪問[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]獲取帶步驟圖解的詳細說明。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name=§c§l點燃製炭之路
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=“木炭堆點火器”是一種批次生產木炭的另一種選擇。該裝置不消耗電力或蒸汽，但會產生大量汙染。操作步驟如下：%n%n1. 用磚塊鋪設最大不超過11×11格的地板；%n2. 在磚地板上堆放1-5層高的原木（不能留有空隙）；%n3. 將木炭堆點火器置於頂層原木中心格的正上方；%n4. 用泥土或草方塊覆蓋原木堆其餘暴露面；%n5. 木炭堆點火器將立即開始工作；%n6. 經過一段時間，原木將轉化為易碎的木炭塊；%n7. 使用斧頭破壞這些方塊以獲取木炭（時運附魔不會影響掉落率）。%n%n如果這是你第一次搭建多方塊結構，請開啟揹包介面並將滑鼠懸停在物品上方，然後按住Shift鍵以檢視詳細物品提示瞭解建造要求，或訪問[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]獲取帶步驟圖解的詳細說明。
 
 # Quest: Tool Forge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.name=§c§l工具裝配臺
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.desc=製造出鋅曜鋼後，就該製作工具裝配臺，以便製造更大（也更好）的匠魂工具了。%n%n§3你不必使用鐵來製作裝配臺；還可以使用其他材料，例如錫或銅等。%n%n[note]中文wiki 匠魂工具：§1§n[url]https://gtnh.huijiwiki.com/p/94730[/url]§r[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.name=§c§l工具裝配台
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5Q.desc=製造出鋅曜鋼後，就該製作工具裝配台，以便製造更大（也更好）的匠魂工具了。%n%n§3你不必使用鐵來製作裝配台；還可以使用其他材料，例如錫或銅等。%n%n[note]中文wiki 匠魂工具：§1§n[url]https://gtnh.huijiwiki.com/p/94730[/url]§r[/note]
 
 # Quest: One Block Mining is so Old School
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC5g.name=§c§l一格一格挖礦已經過氣了
@@ -618,11 +618,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACFg.desc=如果你的磚高爐執行了�
 
 # Quest: Rubber Sheets
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACGA.name=§c§l橡膠片
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACGA.desc=讓我們來做一個板模具，以製作橡膠片。橡膠片主要用於製作傳送帶和線纜。%n%n在現階段，用橡膠片手工製造線纜比合金爐的配方更快，成本更低。%n%n有了這些橡膠片，你就可以製作活塞靴子——這會大大提高你的移動能力。可以在工作列“遊歷四方”中找到相關任務。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACGA.desc=讓我們來做一個板模具，以製作橡膠片。橡膠片主要用於製作傳送帶和線纜。%n%n在現階段，用橡膠片手工製造線纜比合金爐的配方更快，消耗的能源也更少。%n%n有了這些橡膠片，你就可以製作活塞靴子——這會大大提高你的移動能力。可以在任務章節“遊歷四方”中找到相關任務。
 
 # Quest: How Can I Carry All These Items?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.name=§c§l這麼多東西往哪放？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc=在你燒煉第一塊鋼後，你就能製作一個小揹包。它有36個格子，比一個小箱子多一點，後面你還能給它擴容。%n%n你最多可以在物品欄內同時放四個這種揹包。%n%n你可以背上一個並將其設定為自動撿拾模式，檢查“控制”中的“開啟揹包”快捷鍵是否已繫結並且沒有衝突。繫結的快捷鍵僅在揹包放入其GUI槽位（Shift+<開啟揹包快捷鍵>）後方可生效。%n§r%n當在手上拿著揹包的時候，你可以透過Shift+滑鼠右鍵重新命名你的揹包。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc=在你燒煉第一塊鋼後，你就能製作一個小揹包。它有36個格子，比一個小箱子多一點，後面你還能給它擴容。%n%n你最多可以在物品欄內同時放四個這種揹包。%n%n你可以背上一個並將其設定為自動撿拾模式，檢查“控制”中的“開啟揹包”快捷鍵是否已繫結並且沒有衝突。繫結的快捷鍵僅在揹包放入背部槽位（Shift+<開啟揹包快捷鍵>）後方可生效。%n§r%n當在手上拿著揹包的時候，你可以透過Shift+滑鼠右鍵重新命名你的揹包。
 
 # Quest: Upgrade of the Upgrade of the...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=§c§l升級，升級，升級……
@@ -630,7 +630,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=升級時間到。為你的工�
 
 # Quest: Moving Your Tanks, Chests, and Barrels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.name=§c§l移動你的儲罐、箱子和桶
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=想搬運箱子和木桶，還不想讓東西散落一地（說的就是你，Buildcraft™）？  沒問題！做臺手推車，你就可以帶著裝滿的箱子、桶或抽屜到任何地方去。但注意，搬運時會獲得緩慢debuff，希望你要去的地方不怎麼遠。你還可以用它來搬運原本不可移動的BC儲罐和鐵儲罐，而不會丟失其中的液體；也可以搬動工作台，而不會丟失已儲存的配方。%n%n手持空的手推車Shift右擊可以摺疊它。摺疊後它無法攜帶任何東西，但可以堆疊，並且可以放入揹包。%n%n§3PS：以後你可以透過飛行或穿戴旅行者腰帶，無視緩慢debuff。§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=想搬運箱子和木桶，還不想讓東西散落一地（說的就是你，Buildcraft™）？  沒問題！做臺手推車，你就可以帶著裝滿的箱子、桶或抽屜到任何地方去。但注意，搬運時會獲得緩慢效果，希望你要去的地方不怎麼遠。你還可以用它來搬運原本不可移動的BC儲罐和鐵儲罐，而不會丟失其中的液體；也可以搬動工作台，而不會丟失已儲存的配方。%n%n手持空的手推車Shift右擊可以摺疊它。摺疊後它無法攜帶任何東西，但可以堆疊，並且可以放入揹包。%n%n§3PS：以後你可以透過飛行或穿戴旅行者腰帶，無視緩慢效果。§r
 
 # Quest: One Anvil...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACtg.name=§c§l一個鐵砧……
@@ -642,23 +642,23 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACwQ.desc=你可能已經發現了，植�
 
 # Quest: Books
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8A.name=§c§l書
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8A.desc=書這東西很好找，在村莊裡就有，或者在地牢地表的那種磚房也有不少。而且，我敢肯定，這東西也是有合成配方的。%n%n至於膠水……或者我該說是馬？想辦法把一匹馬騙進冶煉爐裡，給它喂乾草吊著命慢慢煉。%n%n或者你也可以等到能去地獄之後，弄些硫磺來做。兩種方法隨你便。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8A.desc=書這東西很好找，在村莊裡就有，或者在地牢地表的那種磚房也有不少。而且，我敢肯定，這東西也是有合成配方的。%n%n至於膠水……或者我該說是馬？想辦法把一匹馬騙進冶煉爐裡，給它餵乾草吊著命慢慢煉。%n%n或者你也可以等到能去地獄之後，弄些硫磺來做。兩種方法隨你便。
 
 # Quest: Circuit Boards
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.name=§c§l電路基板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.desc=每一塊電路板都需要電路基板。它由覆膜電路基板和銅導線製作而成。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.desc=每個電路都需要電路基板。它由覆膜電路基板和銅導線製作而成。
 
 # Quest: Resistor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.name=§c§l電阻
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc=每個電路板都需要兩個電阻。%n%n稍後你還可以製造更好版本的電阻。 %n%n[note]你可以使用黏液球、凝血或者凝膠球等材料代替黏性樹脂！[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc=每個基礎電路都需要兩個電阻。%n%n稍後你還可以製造更好版本的電阻。 %n%n[note]你可以使用黏液球、凝血或者凝膠球等材料代替黏性樹脂！[/note]
 
 # Quest: Lapis, Lazurite, Sodalite, Calcite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.name=§c§l青金石、藍金石、方鈉石、方解石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.desc=為了為了製作磚高爐，你必須找到一條含有方解石的青金石礦脈。%n%n你可以在主世界Y=20-50層找到該礦脈。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.desc=為了製作磚高爐，你必須找到一條含有方解石的青金石礦脈。%n%n你可以在主世界Y=20-50層找到該礦脈。
 
 # Quest: Gypsum
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.name=§c§l石膏
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.desc=要製作高爐的磚塊，你需要混凝土和石膏。石膏和玄武岩、花崗岩礦砂、漂白土在一條礦脈中共生。該礦脈僅在主世界Y=50-60層出現。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.desc=要製作高爐的磚塊，你需要混凝土和石膏。石膏和玄武岩礦砂、花崗岩礦砂、漂白土在一條礦脈中共生。該礦脈僅在主世界Y=50-60層出現。
 
 # Quest: Molds, Molds, Molds
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.name=§c§l模具，模具，還是模具
@@ -678,11 +678,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADrg.desc=搋子用於清除管道中殘�
 
 # Quest: Better Than Iron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADtA.name=§c§l比鐵更好
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADtA.desc=但不如鋼好。鑄鐵主要用於機器外殼。如果你想省些鋼的話，它也可以用來製造工具。%n%n要製造鑄鐵，首先需要將鐵錠放進匠魂冶煉爐澆築成鐵粒，也可以用鋸子手切出粒。然後再將鐵粒放進熔爐燒成鑄鐵粒。最後，用壓縮機將這些粒壓成錠。%n%n§3提示：粉碎或者潔淨的鐵礦石（不是像黃鐵礦這種混合礦石，而是黃銅礦脈中的純鐵礦石）都可以直接放進熔爐燒成鐵粒。%n%n你也可以使用合金爐來將鐵錠製成鐵粒，比冶煉爐更快。%n%n以後，你還可以使用電弧爐直接將鐵錠製成鑄鐵錠。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADtA.desc=但不如鋼好。鍛鐵主要用於機器外殼。如果你想省些鋼的話，它也可以用來製造工具。%n%n要製造鍛鐵，首先需要將鐵錠放進匠魂冶煉爐澆築成鐵粒，也可以用鋸子手切出粒。然後再將鐵粒放進熔爐燒成鍛鐵粒。最後，用壓縮機將這些粒壓成錠。%n%n§3提示：粉碎或洗淨的鐵礦石（不是像黃鐵礦這種混合礦石，而是黃銅礦脈中的純鐵礦石）都可以直接放進熔爐燒成鐵粒。%n%n你也可以使用合金爐來將鐵錠製成鐵粒，比冶煉爐更快。%n%n以後，你還可以使用電弧爐直接將鐵錠製成鍛鐵錠。
 
 # Quest: Be Sure to Get Your Armpits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.name=§c§l別忘了把腋下也洗洗
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.desc=想要用美味的經驗來提高你的等級？將儲存液態經驗的水槽置於你的上方，接上這個這個方便的經驗蓮蓬頭，就能從水槽中匯出經驗。%n%n這會造成卡頓，所以請小心不要一次性放出太多經驗球。輸入紅石訊號即可將其關閉。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.desc=想要用美味的經驗來提高你的等級？將儲存液態經驗的儲罐置於你的上方，接上這個方便的經驗蓮蓬頭，就能從儲罐中匯出經驗。%n%n這會造成卡頓，所以請小心不要一次性放出太多經驗球。輸入紅石訊號即可將其關閉。
 
 # Quest: New Source of Glowstone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAERA.name=§c§l新的螢光石來源
@@ -690,7 +690,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAERA.desc=在地獄尋找一些（潘馬�
 
 # Quest: The Iron Guy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUw.name=§c§l鐵傢伙
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUw.desc=一個人很孤獨？想給基地多加一層安保？想在地獄不被那群殭屍豬人追著屁股砍？造幾個鐵傀吧，你基地內部的怪物危機就能迎刃而解。%n%n它們能造成大量傷害，還能把豬人這類怪物的仇恨從你身上拉走。它們甚至能幫你收拾討厭的吸血鬼豬人。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUw.desc=一個人很孤獨？想給基地多加一層安保？想在地獄不被那群殭屍豬人追著屁股砍？造幾個鐵傀儡吧，你基地內部的怪物危機就能迎刃而解。%n%n它們能造成大量傷害，還能把豬人這類怪物的仇恨從你身上拉走。它們甚至能幫你收拾討厭的吸血鬼豬人。
 
 # Quest: The Cool Guy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVA.name=§c§l冷酷的傢伙
@@ -698,7 +698,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVA.desc=一個人很孤獨？基地離�
 
 # Quest: Barrel Upgrades
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZA.name=§c§l桶升級
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZA.desc=你的原石或者泥土已經把桶都塞滿了？ 沒關係，升級吧！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZA.desc=你的圓石或者泥土已經把桶都塞滿了？ 沒關係，升級吧！
 
 # Quest: Barrel Upgrades Tier 2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZQ.name=§c§l桶升級 T2
@@ -706,23 +706,23 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZQ.desc=什麼？你的桶又滿了？ 
 
 # Quest: Obzinite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZg.name=§c§l鋅曜鋼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZg.desc=又到了升級的時候。你可以在冶煉爐中熔合鋼、鋅和黑曜石得到鋅曜鋼。鋅曜鋼製作的鎬可以在地獄開採阿迪特礦石。%n%n剩下來的鋅曜鋼，就以熔融狀態繼續留在冶煉爐中，你還需要用它來製作工具裝配臺。冶煉爐中需要有16個錠，才能製造2塊大板。%n%n[note]稍後，在LV階段，你可以用攪拌機獲得更高的產率。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZg.desc=又到了升級的時候。你可以在冶煉爐中熔合鋼、鋅和黑曜石得到鋅曜鋼。鋅曜鋼製作的鎬可以在地獄開採阿迪特礦石。%n%n剩下來的鋅曜鋼，就以熔融狀態繼續留在冶煉爐中，你還需要用它來製作工具裝配台。冶煉爐中需要有16個錠，才能製造2塊大板。%n%n[note]稍後，在LV階段，你可以用攪拌機獲得更高的產率。[/note]
 
 # Quest: Reinforced X? Unbreakable
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZw.name=§c§l耐久X？不毀！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZw.desc=拿著你的鋼工具，現在可以去可以採集黑曜石了。你可以製作加固板，它可以強化你的匠魂工具，提高它們的耐久度。當強化等級達到耐久X時，工具會得到“不毀”特性。%n%n§3PS：許多情況下，強化耐久其實並不划算，因為工具的耐久掉得並沒有那麼快，修理的成本也不高。而且隨著科技發展，你很快就能獲得耐久更高的新材料，製作新工具。另外，等你終於強化到不毀的時候，多半早就能用自動採礦機替代手動挖礦了。有這強化槽，不如打點紅石強化速度，或者上點時運/精準採集。不過，某些情況下，不毀還是能派上用場的，比如伐木斧，或者用於自動化裝置的工具。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEZw.desc=拿著你的鋼工具，現在就可以採集黑曜石了。你可以製作加固板，它可以強化你的匠魂工具，提高它們的耐久度。當強化等級達到耐久X時，工具會得到“不毀”特性。%n%n§3PS：許多情況下，強化耐久其實並不划算，因為工具的耐久掉得並沒有那麼快，修理的成本也不高。而且隨著科技發展，你很快就能獲得耐久更高的新材料，製作新工具。另外，等你終於強化到不毀的時候，多半早就能用自動採礦機替代手動挖礦了。有這強化槽，不如打點紅石強化速度，或者上點時運/精準採集。不過，某些情況下，不毀還是能派上用場的，比如伐木斧，或者用於自動化裝置的工具。
 
 # Quest: Lapis? Lucky!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaA.name=§c§l青金石？幸運！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaA.desc=也許你運氣不錯，已經給你的鎬新增了時運強化。如果沒有，你的鎬子上可能還有一個未使用的強化槽，可以給匠魂工具打上青金石來獲得時運效果。如果沒有強化槽，可以給鎬子打上一個鑽石和一個金塊，增加一個強化槽，再打上青金石。%n%n你可以將青金石放入裝配臺的多個格子中。使用青金石塊可以更快地提升時運等級，甚至可以在合成站中用青金石塊與工具合成，這樣速度最快。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaA.desc=也許你運氣不錯，已經給你的鎬新增了時運強化。如果沒有，你的鎬子上可能還有一個未使用的強化槽，可以給匠魂工具打上青金石來獲得時運效果。如果沒有強化槽，可以給鎬子打上一個鑽石和一個金塊，增加一個強化槽，再打上青金石。%n%n你可以將青金石放入裝配台的多個格子中。使用青金石塊可以更快地提升時運等級，甚至可以在合成站中用青金石塊與工具合成，這樣速度最快。
 
 # Quest: Extra Modifier
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEag.name=§c§l額外強化次數
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEag.desc=如果你的工具沒有剩餘的強化次數了，加一次其實也不太費事。只需要一顆鑽石和一個金塊就行。%n%n你還可以再額外增加兩個強化槽，不過這回你得自己翻閱匠魂寶典，看看該用什麼了。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEag.name=§c§l額外強化槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEag.desc=如果你的工具沒有剩餘的強化槽了，增加一個其實也不太費事。只需要一顆鑽石和一個金塊就行。%n%n你還可以再額外增加兩個強化槽，不過這回你得自己翻閱匠魂寶典，看看該用什麼了。
 
 # Quest: Nether Quartz? Sharpness!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbA.name=§c§l地獄石英？鋒利！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbA.desc=你的劍太鈍了？拿一些地獄石英把它打磨鋒利！%n%n如果你有很多賽特斯石英，一個賽特斯石英可以抵得上4個地獄石英。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbA.desc=你的劍太鈍了？拿一些地獄石英把它打磨鋒利！%n%n如果你有很多賽特斯石英，一個賽特斯石英可以抵得上24個地獄石英。
 
 # Quest: GT6-Styled Wires and Cables
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEew.name=§c§lGT6型導線和線纜
@@ -734,7 +734,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhQ.desc=你的木頭軟錘用幾次就�
 
 # Quest: Hoppers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEtQ.name=§c§l漏斗
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEtQ.desc=當你想要實現機器自動化時，漏斗就派上用場了。你可以透過漏斗將物品直接輸入GT管道，而不必使用傳送帶。不過，漏斗的速度趕不上傳送帶，並且只能從上方接收物品。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEtQ.desc=當你想要實現機器自動化時，漏斗就派上用場了。你可以透過漏斗將物品直接輸入GT管道，而不必使用傳送帶。不過，漏斗的速度趕不上傳送帶，並且從容器抽取物品時，必須將漏斗放在該容器下方。
 
 # Quest: Making a List, Checking it Twice
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4w.name=§c§l做張清單，反覆檢查
@@ -750,7 +750,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_Q.desc=你的新工廠需要鐵門。�
 
 # Quest: Bowl Full of Spaghetti
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxw.name=§c§l裝滿義大利麵的碗
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxw.desc=或者至少是個佈滿了物品管道的工廠。你可以用一個用漏斗直接對準物品管道，從機器中取出物品，並將它們送入第二臺機器。%n%n之後你可以製造更好的物品管道。在NEI中搜尋“物品管道”，然後自行選擇。%n%n[warn]你需要一把鋼扳手（或者更好的材料）才能拆除它們。在你獲得合適的扳手前，請勿隨意放置這些管道。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxw.desc=或者至少是個佈滿了物品管道的工廠。你可以用一個漏斗直接對準物品管道，從機器中取出物品，並將它們送入第二臺機器。%n%n之後你可以製造更好的物品管道。在NEI中搜尋“物品管道”，然後自行選擇。%n%n[warn]你需要一把鋼扳手（或者更好的材料）才能拆除它們。在你獲得合適的扳手前，請勿隨意放置這些管道。[/warn]
 
 # Quest: Nice Nether Trees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGzQ.name=§c§l地獄之樹真棒
@@ -758,7 +758,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGzQ.desc=有一些非常有用的地獄�
 
 # Quest: A Better Way to Find Items
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH6g.name=§c§l更便捷的物品尋找方式
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH6g.desc=NEI內建了搜尋附近容器中物品的功能。而倉庫目錄（Stockroom Catalog）則可以列出所有已登記容器的庫存物品清單。%n%nShift+右鍵點選帶儲存空間的方塊（箱子、書架、木桶等任何有物品欄的方塊），即可將該庫存新增到目錄的追蹤列表中。%n%n再次Shift+右鍵點選同一個方塊，就能將其從列表中移除。%n%n當你手持倉庫目錄時，所有已被該目錄選中的方塊上都會渲染出微小的粒子效果，讓你知道它正在被追蹤。%n%n右鍵點選目錄即可開啟GUI檢視清單。你可以按數量或字母順序，對列表進行升序或降序排列。%n%n你還可以檢視存有某種特定物品的所有容器列表，並輕鬆將其中某個容器的位置標註在另一個倉庫目錄上，方便你迅速找到你的物資。%n%n倉庫目錄還可以用排版臺和拓印機影印。%n%n點選介面上的標題可以隨意改動，可以用於自定義標記倉庫目錄。%n%n點選每個條目右側的小箱子圖示，即可開啟庫存列表檢視。%n%n如果你願意，還可以合成一個路標盤，用它來指向你要找的箱子。不過，既然我們已經有了旅行地圖和NEI，這玩意兒也不是必需品。%n%n[warn]不過，這本目錄似乎有點bug，它對GT物品的支援不是很好。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH6g.desc=NEI內建了搜尋附近容器中物品的功能。而倉庫目錄（Stockroom Catalog）則可以列出所有已登記容器的庫存物品清單。%n%nShift+右鍵點選帶儲存空間的方塊（箱子、書架、木桶等任何有物品欄的方塊），即可將該庫存新增到目錄的追蹤列表中。%n%n再次Shift+右鍵點選同一個方塊，就能將其從列表中移除。%n%n當你手持倉庫目錄時，所有已被該目錄選中的方塊上都會渲染出微小的粒子效果，讓你知道它正在被追蹤。%n%n右鍵點選目錄即可開啟GUI檢視清單。你可以按數量或字母順序，對列表進行升序或降序排列。%n%n你還可以檢視存有某種特定物品的所有容器列表，並輕鬆將其中某個容器的位置標註在另一個倉庫目錄上，方便你迅速找到你的物資。%n%n倉庫目錄還可以用排版台和拓印機影印。%n%n點選介面上的標題可以隨意改動，可以用於自訂標記倉庫目錄。%n%n點選每個條目右側的小箱子圖示，即可開啟庫存列表檢視。%n%n如果你願意，還可以合成一個路標盤，用它來指向你要找的箱子。不過，既然我們已經有了旅行地圖和NEI，這玩意兒也不是必需品。%n%n[warn]不過，這本目錄似乎有點bug，它對GT物品的支援不是很好。[/warn]
 
 # Quest: Flaming idiots
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNQ.name=§c§l燃燒的笨蛋
@@ -774,7 +774,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdA.desc=有了一臺合金爐和一些�
 
 # Quest: Mud, Can Also be Used For Facials
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHew.name=§c§l泥巴，還能用來敷面膜
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHew.desc=你可能已經在濕地周圍發現了一大堆泥巴，跳進水裡時嫌它礙事，做成鎧甲穿又覺得麻煩。可別浪費了！有了新做的提取機，你就能把藏在泥巴里的黏土給榨出來！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHew.desc=你可能已經在濕地周圍發現了一大堆泥巴，跳進水裡時嫌它礙事，做成鎧甲穿又覺得麻煩。可別浪費了！有了新做的提取機，你就能把藏在泥巴裡的黏土給榨出來！
 
 # Quest: Too Much Junk??
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfw.name=§c§l垃圾太多了？？
@@ -786,7 +786,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHww.desc=抽屜升級不同於桶升級�
 
 # Quest: Jacques Cousteau
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAICA.name=§c§l雅克·庫斯托
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAICA.desc=有了防化頭盔，你就可以安全地進行長時間的水下探索了。你現在只需要一些壓縮空氣單元。用些錫錠來跟我換幾個壓縮空氣單元吧。%n%n當你的氧氣條減少時，防化頭盔會消耗一個壓縮空氣單補充氧氣條，並返還一個空單元。這些空單元可以扔進壓縮機繼續製作壓縮空氣單元，這樣，你就可以更方便地在河底收集黏土了。等有了壓模器或卷板機之後，你就可以自己製作更多的單元了。%n%n譯者注：雅克·庫斯托(Jacques Cousteau)，是水肺的發明者。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAICA.desc=有了防化頭盔，你就可以安全地進行長時間的水下探索了。你現在只需要一些壓縮空氣單元。用些錫錠來跟我換幾個壓縮空氣單元吧。%n%n當你的氧氣條減少時，防化頭盔會消耗一個壓縮空氣單元補充氧氣條，並返還一個空單元。這些空單元可以扔進壓縮機繼續製作壓縮空氣單元，這樣，你就可以更方便地在河底收集黏土了。等有了壓模機或卷板機之後，你就可以自己製作更多的單元了。%n%n譯者注：雅克·庫斯托(Jacques Cousteau)，是水肺的發明者。
 
 # Quest: A Fool Fit for a King
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXA.name=§c§l皇家級的傻瓜
@@ -794,7 +794,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXA.desc=只有最瘋狂的傻瓜才會�
 
 # Quest: How to open your Iron Doors?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.name=§c§l如何開啟鐵門？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.desc=鐵門可以使你的廠房或住房更安全。%n%n現在，來製作幾個石制壓力板和按鈕，以便開啟這些沉重的鐵門。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.desc=鐵門可以使你的廠房或住房更安全。%n%n現在，來製作幾個石製壓力板和按鈕，以便開啟這些沉重的鐵門。
 
 # Quest: How to Open Your Wooden Doors?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHQ.name=§a§l如何開啟木門？
@@ -814,11 +814,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXw.desc=去命名器是一臺簡單而�
 
 # Quest: What Engineer Doesn't Want a Portable Workbench?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZw.name=§c§l哪個工程師不想要一個便攜的工作台？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZw.desc=這種揹包犧牲了一部分空間，為你提供了行動式的工作台。你得把想要用於合成的物品放入揹包，這樣，就可以用它快速合成大量物品。%n%n稍後，你也可以用庫存較大的林業工作台進行相同的操作。當你到達MV階段，可以換成探險揹包，它有一對水槽， 能儲存流體。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZw.desc=這種揹包犧牲了一部分空間，為你提供了行動式的工作台。你得把想要用於合成的物品放入揹包，這樣，就可以用它快速合成大量物品。%n%n稍後，你也可以用庫存較大的林業工作台進行相同的操作。當你到達MV階段，可以換成探險揹包，它有一對儲槽， 能儲存流體。
 
 # Quest: Pumping Water
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjg.name=§c§l抽水
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjg.desc=RC集水器無法滿足你乾渴的雙唇？或是生物群系濕度太低？這個泵只需消耗一點可燃物（比如你的褐煤）即可產出更多的水。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjg.desc=RC集水器在乾旱時期無法滿足你的用水需求？或是生物群系濕度太低？這個泵只需消耗一點可燃物（比如你的褐煤）即可產出更多的水。
 
 # Quest: Barrel Upgrades Tier 3
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALXg.name=§c§l桶升級 T3
@@ -838,11 +838,11 @@ betterquesting.quest.T_5nD6d8QQ29KrInOSI_Og.desc=透過製作鐮刀，你現在�
 
 # Quest: The one book to rule them all
 betterquesting.quest.XuZpnhWZRou46kensglZ6g.name=§c§l一本書統領眾書
-betterquesting.quest.XuZpnhWZRou46kensglZ6g.desc=這本書可儲存來自其他模組的多種文獻書籍。剛製作出來時，它是空的，但你可以透過在合成欄中將它與所需書籍合成來新增內容。%n%n手持並右擊將開啟一個介面，顯示所有你新增的書籍；點選書籍將把它轉換為所選書籍。在潛行時左擊即可還原。%n%n要取回儲存的書籍，先將其轉化為所需的書籍，然後在潛行時將其丟出 - 這樣就會丟出所選的書籍，並將其留在你的物品欄中。%n%n[warn]一些警告：%n%n巫術的生態之書（擴充套件版）與此物不相容。%n%n別把它丟到植物魔法的傳送門裡去，精靈們可能會偷走它，然後只歸還它們自己的植物魔法辭典。[/warn]
+betterquesting.quest.XuZpnhWZRou46kensglZ6g.desc=這本書可儲存來自其他模組的多種文獻書籍。剛製作出來時，它是空的，但你可以透過在合成欄中將它與所需書籍合成來新增內容。%n%n手持並右擊將開啟一個介面，顯示所有你新增的書籍；點選書籍將把它轉換為所選書籍。在潛行時左擊即可還原。%n%n要取回儲存的書籍，先將其轉化為所需的書籍，然後在潛行時將其丟出 - 這樣就會丟出所選的書籍，並將這本典籍留在你的物品欄中。%n%n[warn]一些警告：%n%n巫術的生態之書（擴充套件版）與此物不相容。%n%n別把它丟到植物魔法的傳送門裡去，精靈們可能會偷走它，然後只歸還它們自己的植物魔法辭典。[/warn]
 
 # Quest: Better Make that Two!
 betterquesting.quest.fRHWhPgpRyyvSRZpL1Pkbw.name=§c§l雙管齊下！
-betterquesting.quest.fRHWhPgpRyyvSRZpL1Pkbw.desc=你可能需要第二個鐵砧！%n%n一個給工業鍛造錘，一個用於正常的修復或重新命名工作！
+betterquesting.quest.fRHWhPgpRyyvSRZpL1Pkbw.desc=你可能需要第二個鐵砧！%n%n一個給鍛造錘，一個用於正常的修復或重新命名工作！
 
 # Quest: Underground Geodes
 betterquesting.quest.w00gbWZ4QG60V0neazNERw.name=地下晶洞

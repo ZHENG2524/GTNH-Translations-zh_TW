@@ -1,6 +1,6 @@
 # 繁體中文術語規範（台灣）
 
-更新：2026-10-25；基準 GTNH 2.8.4 / GregTech 5.09.51.482。
+更新：2026-10-31；基準 GTNH 2.8.4 / GregTech 5.09.51.482。
 
 本表是後續校準的對照規範，**不是全倉庫套用完成清單**。每次只修改已確認的檔案與 key；未讀到原文、呼叫點或版本不符時，保留原值並記入 [進度與待查清單](TRANSLATION_PROGRESS.md)。簡轉繁與自動篩查不算人工語意校對。
 
@@ -47,6 +47,7 @@
 | Impure Dust / dustImpure | 含雜粉 | 沿用；特定礦物處理階段。 |
 | Purified Dust / dustPure | 潔淨粉 | 已核對 OrePrefixes 與 BW 生成樣板；仍含可離心的副產物，煉藥鍋可轉為普通粉。 |
 | Clean Dust / dust | 粉／普通粉末 | 已核對煉藥鍋產物是 dust；英文敘述中的 pure/clean 不一定代表 dustPure。 |
+| Wrought Iron | 鍛鐵 | 已核對本機英文任務、GT 材料 304 與 Material.wroughtiron；與鑄鐵區分，只校準確認的任務條目。 |
 | Ingot | 錠 | 沿用；hot ingot 為熱錠。 |
 | Plate | 板 | 沿用；保留雙重、緻密等前綴。 |
 | Rod | 桿 | 沿用；stick 的其他模組語境另查。 |
@@ -75,7 +76,7 @@
 | Type Filter ItemSink Module | 礦物辭典字首過濾收納模組 | 已檢查 LP 1.4.24 位元碼，確實依 GT OrePrefixes 篩選，保留精確既有名稱。 |
 | Modifier Slot / Upgrade Slot | 強化槽 | 匠魂工具語境；現行任務按本機 Iguana 指定升級等級增加，非隨機給槽，舊版副本數字另列版本差異。 |
 
-共 57 組對照；部分列含多個相近但不可混用的英文術語。
+共 58 組對照；部分列含多個相近但不可混用的英文術語。
 
 ## 可重現的限定修改
 

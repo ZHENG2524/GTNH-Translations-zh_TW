@@ -1,0 +1,16 @@
+{
+  "base": "41cb2d41a8d9504f170a06d13345cc552196f4b3",
+  "language_files": 299,
+  "entries": 168337,
+  "existing_duplicate_keys": 56,
+  "existing_empty_values": 2637,
+  "changed_values": {
+    "config/txloader/forceload/betterquesting/lang/zh_TW.lang": 38,
+    "config/txloader/load/betterquesting/lang/zh_TW.lang": 26,
+    "config/txloader/load/minecraft/lang/zh_TW.lang": 21
+  },
+  "total_changed_values": 85,
+  "reproduction_and_idempotence": true,
+  "errors": [],
+  "scope": "Structural regression checks only; existing blanks/duplicates need separate review."
+}

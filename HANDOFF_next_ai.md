@@ -133,3 +133,12 @@
 - 已閱讀第101–130篇；篇數是所有 `.desc` 檔案順序，含章節說明，不是純任務或ID。27篇有英文；第107、108篇與第112篇章節說明缺英文，保留待查。下一篇第131篇「太陽之力」，key `betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg`。
 - 修正食物搜尋吃過／未吃過反轉、糖與仙人掌 Coke/Charcoal 混淆、已探明礦脈誤稱未開採、tiny/small粉末、蒸汽buffer與鍋爐倍數等。舊minecraft同ID鋁／鋅內容不同，未覆蓋舊配方。
 - 來源、結構、基準重現及重跑檢查通過，26條Tooltip保留。本批未同步遊戲、未遊戲實測，前批待查仍有效；沒有新增Release。
+
+
+## 2026-10-31 蒸汽收尾（最新入口）
+
+- 本批基準 `41cb2d4`；清單 `tools/term_calibration_2026-10-31-steam.json`，207條對照、85條修改、3檔（現行38、舊BQ26、舊minecraft21）。先讀 `docs/PROOFREAD_2026-10-31_STEAM.md` 的版本差異與待查。
+- 已閱讀第131–211篇，80篇有英文，第211篇地下晶洞缺來源保留。下一篇第212篇「第1階 - 低壓（LV）」，key `betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw`；第213篇「像Bo$$一樣處理資源 #1」，key `betterquesting.quest.53iZp0DzRzidBo4-kUsWGg`。篇數依所有`.desc`順序，含章節說明。
+- 賽特斯石英鋒利強化24倍已對照安裝TConstruct程式註冊，現行4改24；Wrought Iron為鍛鐵，修正現行鑄鐵誤稱；電路／基板、漏斗抽取方向、背部槽位等已校準。術語表58組。
+- 鋅曜鋼替代配方、地獄熔爐比較、作物模組移轉、匠魂歷史機制與第107／108／112／211篇缺來源仍待查。不把語意閱讀或部分位元碼檢視當作完整機制驗證。
+- 299檔結構、重現與重跑檢查通過；26條Tooltip保留。未同步遊戲、未遊戲實測、沒有Release；延續既有驗證後提交推送的授權。
