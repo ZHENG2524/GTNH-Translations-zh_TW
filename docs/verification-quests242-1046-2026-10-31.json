@@ -1,0 +1,21 @@
+{
+  "baseline": "d795a602d8dd3fd845bbaeed17e191188e1415ca",
+  "gtnh_version": "2.8.4",
+  "reviewed_entries": 1562,
+  "changed_values": 187,
+  "changed_language_files": 1,
+  "batches": {
+    "quests242-608": 83,
+    "quests609-694": 13,
+    "quests695-825": 22,
+    "quests826-903": 18,
+    "quests904-969": 13,
+    "quests970-1046": 38
+  },
+  "previous_tooltip_repairs_preserved": 26,
+  "ore_prefix_group_scan": [],
+  "diff_checked": true,
+  "source_checks": "Exact English values from installed jar, runtime defaults and quest JSON",
+  "scope": "第242–1046篇：805篇中文閱讀，781篇對照本機2.8.4英文標題與正文；24篇缺來源保留。版本／機制差異另記待查。未同步遊戲、未遊戲實測。",
+  "errors": []
+}

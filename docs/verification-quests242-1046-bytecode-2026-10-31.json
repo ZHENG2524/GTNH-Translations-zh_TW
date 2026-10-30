@@ -1,0 +1,43 @@
+{
+  "jar": "GTNewHorizonsCoreMod-2.7.268.jar",
+  "jar_sha256": "eb5e67302c6f455fa3aa62f763433b08b9443d446366a3a79c600404a92ea4e1",
+  "class": "com/dreammaster/scripts/ScriptRailcraft.class",
+  "class_sha256": "0d0241c85704c7391814725112e27a835d531df9fb0edd1c1a487be8c4768a68",
+  "method": "loadRecipes",
+  "observations": [
+    {
+      "quest_sequence": 355,
+      "english_issue": "Flint Lens",
+      "decision": "保留火石透鏡；英文誤稱燧石透鏡",
+      "bytecode_offsets": {
+        "diamond_lens": 24782,
+        "firestone_lens": 24880
+      },
+      "recipe_map": "laserEngraverRecipes",
+      "outputs": "Railcraft:firestone.cut"
+    }
+  ],
+  "natures_compass": {
+    "jar": "naturescompass-1.5.0-GTNH.jar",
+    "jar_sha256": "ebc6a1ea1a4a4b8fcbb370c8b0edbeafc7371812645a57dfd518820e5f4d02fc",
+    "class": "com/chaosthedude/naturescompass/gui/GuiNaturesCompass.class",
+    "method": "findMatchedBiomes",
+    "observation": "篩選鍵以I18n翻譯後小寫字串比對；不把中文搜尋鍵擅改回英文。"
+  },
+  "additional_checks": [
+    {
+      "jar": "gregtech-5.09.51.482.jar",
+      "class": "gtnhlanth/loader/RecipeLoader.class",
+      "class_sha256": "d6e85865d8bb43ac193fd32134d6137162bb8e315e09e06d48e5d235d5d4c68c",
+      "method": "loadGeneral",
+      "observation": "低純鉿1粉+碘4粉或4000L→碘化鉿5粉；電路12高爐→熱鉿錠1+小撮鉿廢料1+碘4000L；電路13批量45粉→熱鉿9+廢料1粉+碘36000L。"
+    },
+    {
+      "jar": "gregtech-5.09.51.482.jar",
+      "class": "bartworks/system/material/CircuitGeneration/BWMetaItems.class",
+      "class_sha256": "705193ef8ed71bba6f005fda4224b44a67aab28d6357c7f883e6d8dc585704d1",
+      "method": "init",
+      "observation": "autoclaveRecipes輸入NEW_CIRCUIT_PARTS.getStack(2)、輸出getStack(3)、7500/10000機率、576L SolderingAlloy、300ticks、EV；此配方並非laserEngraverRecipes。"
+    }
+  ]
+}
