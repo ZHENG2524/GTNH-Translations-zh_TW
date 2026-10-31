@@ -2257,3 +2257,5 @@ item.etfuturum.tipped_arrow.potion.wither.name=凋零之箭
 
 # PATRIOTS IN CONTROL  😎 🇺🇸 🦅 #
 entity.etfuturum.armor_stand.name=盔甲架
+tile.etfuturum.oak_pressure_plate.name=橡木壓力板
+tile.etfuturum.oak_button.name=橡木按鈕

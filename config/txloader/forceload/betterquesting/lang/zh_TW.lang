@@ -78,7 +78,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.name=§9§l橡樹不是蘋果樹
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.desc=橡樹會掉蘋果？誰把這鬼設定加到Minecraft裡的？%n你發現將蘋果和橡樹樹苗合成，可以得到蘋果樹苗。試著種一棵，就能有個永久的食物來源了。
 
 # Quest: "Baked" Potatoes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=§9§l土豆的三種吃法
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=§9§l馬鈴薯的三種吃法
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=生吃馬鈴薯不太健康——你可能已經注意到了。有些馬鈴薯發綠，是有毒的。有了熔爐，就能做出美味的烤馬鈴薯，多一種食物選擇。把烤馬鈴薯用根木棍串起來，味道會更棒。
 
 # Quest: Soft Mallet Adventure
@@ -2446,7 +2446,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=歡迎來到EV！ 你成功
 
 # Quest: The Redstone Sniffer
 betterquesting.quest.07lxVb9wQWSSoZRcvIswZQ.name=§8§l紅石訊號嗅探器
-betterquesting.quest.07lxVb9wQWSSoZRcvIswZQ.desc=是否曾為尋找紅石發射器的位置而困擾？或希望它們都被標註過用途？或許隊友放了無線發射器卻沒有告訴你設定的頻率，留下你獨自猜謎？%n%n現在，這些都不是問題了。%n%n隆重推出，§6紅石訊號嗅探器§r！%n%n對於普通的§c紅石訊號發射/接收器§r，紅石訊號嗅探器會列出所有正在使用的頻率，是否為私人頻率，並且支援自訂標籤。%n%n對於§c進階紅石訊號發射/接收器§r，紅石訊號嗅探器還會列出座標和維度資訊，並且支援高亮標記選定的覆蓋板（以及傳送到其所在地，如果你有OP許可權的話）。
+betterquesting.quest.07lxVb9wQWSSoZRcvIswZQ.desc=是否曾為尋找紅石發射器的位置而困擾？或希望它們都被標註過用途？或許隊友放了無線發射器卻沒有告訴你設定的頻率，留下你獨自猜謎？%n%n現在，這些都不是問題了。%n%n隆重推出，§6紅石訊號嗅探器§r！%n%n對於普通的§c紅石訊號發射/接收器§r，紅石訊號嗅探器會列出所有正在使用的頻率，是否為私人頻率，並且支援自訂標籤。%n%n對於§c進階紅石訊號發射/接收器§r，紅石訊號嗅探器還會列出座標和維度資訊，並且支援高亮標記選定的覆蓋板（以及傳送到其所在地，如果你有OP權限的話）。
 
 # Quest: Raw Carbon Fiber
 betterquesting.quest.0fzaxas8R8OJzvYvqX5d9w.name=§8§l生碳纖維
@@ -4216,7 +4216,7 @@ betterquesting.quest.4MzUrkH5QsWnE_4APuHhNg.desc=光學叢集是第二級光學�
 
 # Quest: NAC™: Advanced Routing Package
 betterquesting.quest.8PiGBrdnSHOVIA7tHinlOA.name=§5§l§n奈米晶片組裝複合體§r§5§n™§r§5§n§l：進階路由擴充套件包
-betterquesting.quest.8PiGBrdnSHOVIA7tHinlOA.desc=有時候，基礎的自動化並不夠用。我們收到了您的反饋——隆重推出§5§n進階路由擴充套件包§r，以允許您對電路元件的物流加以更復雜的自動化！%n%n奈米元件分流器允許在不同顏色的真空傳送輸入埠與真空傳送輸出埠間分流、歸併與過濾您的元件。在GUI配置頁面內，您可以設定路由規則，例如：%n- 將您選擇的任意顏色的輸入歸併到一種顏色的輸出中%n- 將一種顏色的輸入均分到多種顏色的輸出中%n- 將特定電路元件從某顏色輸入過濾到另一顏色的輸出中%n還有諸多規則等您探索！%n%n此外，如果您購買了豪華擴充套件包，您將能夠製作分流器紅石輸入埠，從而對您的物流施加精細的紅石控制。每個紅石倉都有一個“頻道”設定，可在規則內配置頻道以使該規則使用對應紅石倉的紅石訊號。
+betterquesting.quest.8PiGBrdnSHOVIA7tHinlOA.desc=有時候，基礎的自動化並不夠用。我們收到了您的回饋——隆重推出§5§n進階路由擴充套件包§r，以允許您對電路元件的物流加以更復雜的自動化！%n%n奈米元件分流器允許在不同顏色的真空傳送輸入埠與真空傳送輸出埠間分流、歸併與過濾您的元件。在GUI配置頁面內，您可以設定路由規則，例如：%n- 將您選擇的任意顏色的輸入歸併到一種顏色的輸出中%n- 將一種顏色的輸入均分到多種顏色的輸出中%n- 將特定電路元件從某顏色輸入過濾到另一顏色的輸出中%n還有諸多規則等您探索！%n%n此外，如果您購買了豪華擴充套件包，您將能夠製作分流器紅石輸入埠，從而對您的物流施加精細的紅石控制。每個紅石倉都有一個“頻道”設定，可在規則內配置頻道以使該規則使用對應紅石倉的紅石訊號。
 
 # Quest: NAC™: Fundamentals Package
 betterquesting.quest.94ivNBMMTAC7qATq_uroGw.name=§5§l§n奈米晶片組裝複合體§r§5§n™§r§5§n§l：基礎擴充套件包
@@ -5834,7 +5834,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.desc=電動船的運作和原版的�
 
 # Quest: Boat Shape?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=船模具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=認真的？為了做更高階的船，你需要一個新的模頭。%n%n但是首先你需要製作一臺擠壓機。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=認真的？為了做更高階的船，你需要一個新的模頭。%n%n但是首先你需要製作一臺壓模機。
 
 # Quest: Wooden Rail Variants
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.name=更多不同的木軌
@@ -6580,7 +6580,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHtg.desc=花哨的紅石計劃：照明�
 
 # Quest: ProjectRed Lights With a Purpose
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHtw.name=§2§l功能性紅石計劃燈
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHtw.desc=紅石計劃提供了兩種特殊的燈，可以用作按鈕。  普通的按鈕一直保持點亮。反饋照明按鈕會在收到紅石訊號時點亮。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHtw.desc=紅石計劃提供了兩種特殊的燈，可以用作按鈕。  普通的按鈕一直保持點亮。回饋照明按鈕會在收到紅石訊號時點亮。
 
 # Quest: Flat Lamps
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHuA.name=§2§l平面燈
@@ -9036,7 +9036,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXg.desc=核反應爐內部的部件越�
 
 # Quest: Vacuum Nukes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXw.name=強冷核反應爐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXw.desc=下一步是什麼，讓核反應爐在一座完美的真空冷凍機內執行？ 一定很有趣，我想試試看。%n%n[warn]這最後一步不是很穩定，在沒有備份的伺服器上嘗試是非常危險的，主要原因是反應爐需要依靠紅石電路控制，防止其真的變成核彈。 建議使用多重控制，以保證故障下反應爐的安全。請勿在Thermos伺服器上構建強冷核反應爐![/warn]（譯者注：其實注意多重反饋控制就行）%n%n強冷核反應爐是一種有趣的、GTNH特有的發電設施。它只用了三種部件：燃料棒，為方便自動化填充空格的反應爐隔板，以及冷卻單元。這些冷卻單元你應該已經用過了，比如製造能源倉，在這裡，冷卻單元用於防止反應爐過熱，進而爆炸。 強冷核反應爐與其他核反應爐的主要區別就在於，這些冷卻單元是消耗品，會隨著時間的推移損失耐久。你需要不斷將新單元加入反應爐，才能保證其穩定執行，而損失耐久的冷卻單元只需要使用真空冷凍機處理一下，即可重新回到嶄新的狀態。%n%n真空冷凍機！這也是強冷核反應爐名字的由來！強冷核反應爐非常簡單，只是消耗EU為冷卻單元降溫，然後再從反應爐中獲得多得多的EU。但是，想要將此過程高度自動化就相當棘手了。如果你只是盲目地嘗試，想要弄清楚得花大量的時間，而且還非常有可能爆炸。 如果你想獲得更加詳細的指導，遠超本任務可以寫出的部分，請到wiki的強冷核反應爐頁面([url]https://wiki.gtnewhorizons.com/wiki/Vacuum_Reactor[/url]).%n%n本任務要求，適用於wiki中最後一種擺法，8720~43600 EU，40個四聯鈾燃料棒。顧名思義，它的輸出功率最高可以達到43600 EU/t，但還需要多個過濾器以及故障保險裝置才能安全而穩定地執行。與流體核反應爐相比，它的優勢是無需繁瑣的大型熱交換機+大型蒸汽渦輪這一堆附屬多方塊機器，就能直接輸出相當可觀的功率。%n%n[note]強冷核電是最強大的、遠超其他選項的核反應爐種類。使用時請自擔風險，格雷科技無限公司概不負責。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXw.desc=下一步是什麼，讓核反應爐在一座完美的真空冷凍機內執行？ 一定很有趣，我想試試看。%n%n[warn]這最後一步不是很穩定，在沒有備份的伺服器上嘗試是非常危險的，主要原因是反應爐需要依靠紅石電路控制，防止其真的變成核彈。 建議使用多重控制，以保證故障下反應爐的安全。請勿在Thermos伺服器上構建強冷核反應爐![/warn]（譯者注：其實注意多重回饋控制就行）%n%n強冷核反應爐是一種有趣的、GTNH特有的發電設施。它只用了三種部件：燃料棒，為方便自動化填充空格的反應爐隔板，以及冷卻單元。這些冷卻單元你應該已經用過了，比如製造能源倉，在這裡，冷卻單元用於防止反應爐過熱，進而爆炸。 強冷核反應爐與其他核反應爐的主要區別就在於，這些冷卻單元是消耗品，會隨著時間的推移損失耐久。你需要不斷將新單元加入反應爐，才能保證其穩定執行，而損失耐久的冷卻單元只需要使用真空冷凍機處理一下，即可重新回到嶄新的狀態。%n%n真空冷凍機！這也是強冷核反應爐名字的由來！強冷核反應爐非常簡單，只是消耗EU為冷卻單元降溫，然後再從反應爐中獲得多得多的EU。但是，想要將此過程高度自動化就相當棘手了。如果你只是盲目地嘗試，想要弄清楚得花大量的時間，而且還非常有可能爆炸。 如果你想獲得更加詳細的指導，遠超本任務可以寫出的部分，請到wiki的強冷核反應爐頁面([url]https://wiki.gtnewhorizons.com/wiki/Vacuum_Reactor[/url]).%n%n本任務要求，適用於wiki中最後一種擺法，8720~43600 EU，40個四聯鈾燃料棒。顧名思義，它的輸出功率最高可以達到43600 EU/t，但還需要多個過濾器以及故障保險裝置才能安全而穩定地執行。與流體核反應爐相比，它的優勢是無需繁瑣的大型熱交換機+大型蒸汽渦輪這一堆附屬多方塊機器，就能直接輸出相當可觀的功率。%n%n[note]強冷核電是最強大的、遠超其他選項的核反應爐種類。使用時請自擔風險，格雷科技無限公司概不負責。[/note]
 
 # Quest: Can We Get Uranium Here?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMYA.name=我們能在這弄到鈾嗎？
@@ -10373,7 +10373,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.desc=高純度的地獄石英、賽�
 
 # Quest: Maximum Security
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.name=最高安全級別
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.desc=ME安全終端允許您配置哪些使用者擁有ME系統的存取許可權，以及這些使用者的具體許可權。ME安全終端存在時，使用ME系統需要對應的許可權。%n%n安全終端無法阻止蓄意毀壞行為，例如拆除電纜/機器、銷毀驅動器等。如需保護系統免受物理破壞，您需要其他形式的實體安防措施。本模組提供的是網路層級的安全防護。%n%n放置ME安全終端的玩家對網路具有完全的控制權，並且無法取消自己的許可權。透過新增空白身份卡，您可為所有未註冊身份卡的玩家定義預設許可權。%n%n除了軟體層面的安全防護外，接入了安全終端後還可以使用無線終端實現無線存取。%n%n若主網路配備安全終端，子網路可能也需要安裝才能存取主網路（具體取決於您的網路配置方式，並非總是必需）。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.desc=ME安全終端允許您配置哪些使用者擁有ME系統的存取權限，以及這些使用者的具體權限。ME安全終端存在時，使用ME系統需要對應的權限。%n%n安全終端無法阻止蓄意毀壞行為，例如拆除電纜/機器、銷毀驅動器等。如需保護系統免受物理破壞，您需要其他形式的實體安防措施。本模組提供的是網路層級的安全防護。%n%n放置ME安全終端的玩家對網路具有完全的控制權，並且無法取消自己的權限。透過新增空白身份卡，您可為所有未註冊身份卡的玩家定義預設權限。%n%n除了軟體層面的安全防護外，接入了安全終端後還可以使用無線終端實現無線存取。%n%n若主網路配備安全終端，子網路可能也需要安裝才能存取主網路（具體取決於您的網路配置方式，並非總是必需）。
 
 # Quest: Dense Boys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEw.name=緻密能源元件
@@ -11170,7 +11170,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIIg.desc=適應性調整器可以擴大�
 
 # Quest: Incubator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIKA.name=恆溫箱
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIKA.desc=恆溫箱是一種通用生產裝置，具有兩種用途：%n%n1. 在整個基因編輯流程結束時，將（編輯後的）幼蟲孵化成雄蜂。%n2. 加熱物品和液體，以生產在整個研究和基因編輯過程的不同階段中所需的不同資源。%n%n你可以從孵化器中製造多達五種不同的資源：%n%n1. 液體培養基：水+培養基%n2. 細菌：液體培養基+小麥 或 更多細菌+培養基%n3. 酶：細菌+糖%n4. 細菌質粒：細菌+烈焰粉 或 更多細菌質粒+培養基%n5. 聚合菌：細菌+骨粉 或 更多的聚合菌+生長培養基%n%n其中三種配方可以透過加入更多培養基來選擇性地擴增，而不是使用另一種物品。如果你能大量生產培養基，可以考慮為這些產出“預熱”孵化器，然後永久切換到使用培養基的反饋迴圈。%n%n酶通常是在生產線中由細菌製造的，細菌則是由液體培養基製造出來的。%n%n細菌質粒僅由基因注射器使用，用於改造幼體，如果你使用基因拼接器，你就不需要生產它了。%n%n注：您還需要為基因池和基因分離器提供乙醇來源。這條技術線存在飲酒問題。%n%n注：烈焰粉之後至少還會隨著螢光染料出場一次。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIKA.desc=恆溫箱是一種通用生產裝置，具有兩種用途：%n%n1. 在整個基因編輯流程結束時，將（編輯後的）幼蟲孵化成雄蜂。%n2. 加熱物品和液體，以生產在整個研究和基因編輯過程的不同階段中所需的不同資源。%n%n你可以從孵化器中製造多達五種不同的資源：%n%n1. 液體培養基：水+培養基%n2. 細菌：液體培養基+小麥 或 更多細菌+培養基%n3. 酶：細菌+糖%n4. 細菌質粒：細菌+烈焰粉 或 更多細菌質粒+培養基%n5. 聚合菌：細菌+骨粉 或 更多的聚合菌+生長培養基%n%n其中三種配方可以透過加入更多培養基來選擇性地擴增，而不是使用另一種物品。如果你能大量生產培養基，可以考慮為這些產出“預熱”孵化器，然後永久切換到使用培養基的回饋迴圈。%n%n酶通常是在生產線中由細菌製造的，細菌則是由液體培養基製造出來的。%n%n細菌質粒僅由基因注射器使用，用於改造幼體，如果你使用基因拼接器，你就不需要生產它了。%n%n注：您還需要為基因池和基因分離器提供乙醇來源。這條技術線存在飲酒問題。%n%n注：烈焰粉之後至少還會隨著螢光染料出場一次。
 
 # Quest: Bees By the Millions
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIKQ.name=百萬蜜蜂
@@ -14240,7 +14240,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADlg.desc=為了邁向更高的級別，�
 
 # Quest: Creeper: Evolved
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.name=苦力怕：進化
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.desc=不，這種普通的苦力怕還不夠讓人討厭，完全不夠。那裡有隻進化的苦力怕老大！它就是那把能讓你登上另一個星球的鑰匙（呃，它的確也有一把鑰匙……）！（小行星帶、一號小行星、木衛一、木衛二、木衛三、木衛四）
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.desc=不，這種普通的苦力怕還不夠讓人討厭，完全不夠。那裡有隻進化的苦力怕老大！它就是那把能讓你登上另一個星球的鑰匙（呃，它的確也有一把鑰匙……）！（小行星帶、穀神星、木衛一、木衛二、木衛三、木衛四）
 
 # Quest: Blaze: Evolved
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADmA.name=烈焰人：進化
@@ -14304,7 +14304,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-A.desc=哦，你掉出了這個世界�
 
 # Quest: Time to kill (Haunted Miners)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.name=殺戮時刻（幽魂礦工）
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.desc=幽魂礦工是飛舞的魔鬼。 他們用大火箭將你射入深淵。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.desc=幽魂礦工是飛舞的魔鬼。 他們用火箭筒將你射入深淵。
 
 # Quest: Time to Kill (Louse)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-g.name=殺戮時刻（蝨）
@@ -14352,7 +14352,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALEw.desc=哦，這隻小兔子多麼可�
 
 # Quest: Time to Kill (Raven)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALFA.name=殺戮時刻（烏鴉）
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALFA.desc=阿布拉卡達布拉 。。。 把你的黑色羽毛給我。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALFA.desc=阿布拉卡達布拉 … 把你的黑色羽毛給我。
 
 # Quest: Time to Kill (Penguin)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALFQ.name=殺戮時刻（企鵝）
@@ -14491,7 +14491,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.desc=你快熬出頭了！只需要�
 
 # Quest: EBF-Time
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.name=§2§l工業高爐時代
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=為了得到鋁錠，你需要一個工業高爐。這是通向勝利的另一重要步驟。讓我們開始吧。%n%n製作加熱線圈所需的雲母可能會有些棘手，但一階線圈有一個不需要雲母的替代配方。%n%n為了不被鎳卡住，檢視“魔法學徒”工作列的“鎳的來源”任務。%n%n為了處理最初的這些配方，你需要兩個LV級能源倉，接收至少4A的LV電流。這機器是一臺電能大胃袋，所以你需要做好準備：%n%n1. 如同tooltip中顯示的那樣，線纜有一定的能量損耗。儘量讓發電靠近用電。未絕緣的導線損失能量高於絕緣版本。用管道將蒸汽或燃料運送到能量輸入附近。%n2. 如果高爐需要維護，每個維護問題都會損失效率並導致完成配方需要更多能量。能量消耗的公式是1/(1-0.1x)，其中x是維護問題個數。%n%n如果執行過程中能量耗盡，高爐將銷毀正在執行的配方輸入！%n%n對於有流體產物的配方，你需要在工業高爐控制器的GUI中啟用銷毀過量流體，或者新增一個輸出倉。否則工業高爐將無法啟動。%n%n啟動之前，別忘了修復所有的維護問題，並在需要時放入正確的程式設計電路。%n%n如果你需要一臺完美的工業高爐，你可以新增更多的輸入倉，在其中儲存不同的流體。%n%n工業高爐還會根據電壓調整爐溫，從MV開始，每提升一個電壓等級，實際爐溫將提高100K（LV則會降低100K）。雖然目前你只能製造LV能源倉，但同時安裝兩個LV能源倉即可將高爐超頻到MV，從而避免降低100K的懲罰，並且初始爐溫可以達到1801K。%n%n隨著遊戲的程序，你的工業高爐不斷升級，你就可以獲得更多的爐溫獎勵。兩個MV能源倉（超頻到HV）可以增加100K，兩個HV能源倉（超頻到EV）可以增加200K……線圈本身只決定基礎爐溫。這種爐溫調整不適用於熾焱高爐。%n%n如果汙染變得非常嚴重，請檢視GT++的汙染清理機，或者升級你的消聲倉。%n%n[note]如需瞭解更多實用資訊，請在“多方塊結構”章節檢視此任務，或是存取 GuideNH 內的 EBF 頁面。%n中文wiki 工業高爐：  §1§n[url]https://gtnh.huijiwiki.com/p/117[/url]§r[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=為了得到鋁錠，你需要一個工業高爐。這是通向勝利的另一重要步驟。讓我們開始吧。%n%n製作加熱線圈所需的雲母可能會有些棘手，但一階線圈有一個不需要雲母的替代配方。%n%n為了不被鎳卡住，檢視“魔法學徒”工作列的“鎳的來源”任務。%n%n為了處理最初的這些配方，你需要兩個LV級能源倉，接收至少4A的LV電流。這機器是一臺電能大胃袋，所以你需要做好準備：%n%n1. 如同tooltip中顯示的那樣，線纜有一定的能量損耗。儘量讓發電靠近用電。未絕緣的導線損失能量高於絕緣版本。用管道將蒸汽或燃料運送到能量輸入附近。%n2. 如果高爐需要維護，每個維護問題都會損失效率並導致完成配方需要更多能量。能量消耗的公式是1/(1-0.1x)，其中x是維護問題個數。%n%n如果執行過程中能量耗盡，高爐將銷毀正在執行的配方輸入！%n%n對於有流體產物的配方，你需要在工業高爐控制器的GUI中啟用銷毀過量流體，或者新增一個輸出倉。否則工業高爐將無法啟動。%n%n啟動之前，別忘了修復所有的維護問題，並在需要時放入正確的程式設計電路。%n%n如果你需要一臺完美的工業高爐，你可以新增更多的輸入倉，在其中儲存不同的流體。%n%n工業高爐還會根據電壓調整爐溫，從MV開始，每提升一個電壓等級，實際爐溫將提高100K（LV則會降低100K）。雖然目前你只能製造LV能源倉，但同時安裝兩個LV能源倉即可將高爐超頻到MV，從而避免降低100K的懲罰，並且初始爐溫可以達到1801K。%n%n隨著遊戲的進度，你的工業高爐不斷升級，你就可以獲得更多的爐溫獎勵。兩個MV能源倉（超頻到HV）可以增加100K，兩個HV能源倉（超頻到EV）可以增加200K……線圈本身只決定基礎爐溫。這種爐溫調整不適用於熾焱高爐。%n%n如果汙染變得非常嚴重，請檢視GT++的汙染清理機，或者升級你的消聲倉。%n%n[note]如需瞭解更多實用資訊，請在“多方塊結構”章節檢視此任務，或是存取 GuideNH 內的 EBF 頁面。%n中文wiki 工業高爐：  §1§n[url]https://gtnh.huijiwiki.com/p/117[/url]§r[/note]
 
 # Quest: A Quite Different Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdw.name=§c§l別具一格的儲存
@@ -14735,7 +14735,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF2Q.desc=你已經瞭解礦脈區塊是�
 
 # Quest: Better Questing?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3A.name=§9§l更好的任務？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3A.desc=如果任務書出了什麼問題，更好的任務（Better Questing）模組有一系列實用的命令可以使用。你需要啟用作弊才能使用這些命令。%n%n/bq_admin default load%n在更新整合包版本後，用這個命令來更新任務書。它會從檔案中過載任務資料庫。你的存檔裡儲存的那份任務書，其版本可能和新版本整合包中的不同。%n%n/bq_admin edit%n開啟/關閉編輯模式。右鍵點選任務會開啟一個選單，可以分享任務或者複製它的ID。%n%n/bq_admin reset all <玩家>%n重置所有任務。如果你想重新開始，或者正在編輯任務書，請使用這個命令。在伺服器中使用時，需要指定目標玩家名，單人遊戲則可以省略。%n%n/bq_admin reset <任務ID> <玩家>%n重置指定ID的任務。不過有時候，直接進入編輯模式，使用編輯工具重置任務更簡單。%n%n/bq_admin complete <任務ID> <玩家>%n強制完成指定ID的任務，用法與上一條類似，且可以正常獲取任務獎勵。當任務出錯無法正常完成時，請使用此命令，並前往Github進行反饋。反饋前請先確認是否已存在相同issue。%n%n/bq_admin default save%n編輯任務書後儲存更改。%n%n/bq_copyquests <已完成任務的玩家> <新玩家>%n如果你想要讓隊伍中的其他玩家同步任務進度，請使用這個命令。不過他們不能從這樣完成的任務中獲取獎勵。%n%n/bq_admin hardcore%n啟用Better Questing極限模式。開局只有3條命，祝你好運。在“殺戮時刻”任務章節中可以獲取額外的生命紅心。%n%n除了消耗類型的任務外，只要隊伍中有一個人完成了任務，該任務就算作全隊都完成。但是如果有人中途加入你的隊伍，你需要透過上面介紹的/bq_copyquests命令同步任務或者手動完成前置任務。否則，他們不會同步完成你所完成的任務，因為他們還沒解鎖當前任務。%n%n如果你的單人遊戲未開啟作弊模式，可以按ESC，開啟“對區域網路開放”，啟用作弊。不過這會讓你無法暫停，直到下次重進遊戲。在伺服器上，可以直接在命令列中使用這些命令，不需要加“/”。你還可以編輯level.dat檔案，把”allowCommands”設為1，但在操作前務必先備份存檔。%n%n[warn]為了正常儲存任務進度，啟動遊戲時必須以線上狀態登入Mojang帳戶。抱歉，這是Better Questing本身的限制。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3A.desc=如果任務書出了什麼問題，更好的任務（Better Questing）模組有一系列實用的命令可以使用。你需要啟用作弊才能使用這些命令。%n%n/bq_admin default load%n在更新整合包版本後，用這個命令來更新任務書。它會從檔案中過載任務資料庫。你的存檔裡儲存的那份任務書，其版本可能和新版本整合包中的不同。%n%n/bq_admin edit%n開啟/關閉編輯模式。右鍵點選任務會開啟一個選單，可以分享任務或者複製它的ID。%n%n/bq_admin reset all <玩家>%n重置所有任務。如果你想重新開始，或者正在編輯任務書，請使用這個命令。在伺服器中使用時，需要指定目標玩家名，單人遊戲則可以省略。%n%n/bq_admin reset <任務ID> <玩家>%n重置指定ID的任務。不過有時候，直接進入編輯模式，使用編輯工具重置任務更簡單。%n%n/bq_admin complete <任務ID> <玩家>%n強制完成指定ID的任務，用法與上一條類似，且可以正常獲取任務獎勵。當任務出錯無法正常完成時，請使用此命令，並前往Github進行回報。回饋前請先確認是否已存在相同issue。%n%n/bq_admin default save%n編輯任務書後儲存更改。%n%n/bq_copyquests <已完成任務的玩家> <新玩家>%n如果你想要讓隊伍中的其他玩家同步任務進度，請使用這個命令。不過他們不能從這樣完成的任務中獲取獎勵。%n%n/bq_admin hardcore%n啟用Better Questing極限模式。開局只有3條命，祝你好運。在“殺戮時刻”任務章節中可以獲取額外的生命紅心。%n%n除了消耗類型的任務外，只要隊伍中有一個人完成了任務，該任務就算作全隊都完成。但是如果有人中途加入你的隊伍，你需要透過上面介紹的/bq_copyquests命令同步任務或者手動完成前置任務。否則，他們不會同步完成你所完成的任務，因為他們還沒解鎖當前任務。%n%n如果你的單人遊戲未開啟作弊模式，可以按ESC，開啟“對區域網路開放”，啟用作弊。不過這會讓你無法暫停，直到下次重進遊戲。在伺服器上，可以直接在命令列中使用這些命令，不需要加“/”。你還可以編輯level.dat檔案，把”allowCommands”設為1，但在操作前務必先備份存檔。%n%n[warn]為了正常儲存任務進度，啟動遊戲時必須以線上狀態登入Mojang帳戶。抱歉，這是Better Questing本身的限制。[/warn]
 
 # Quest: Backup Your Stuff...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3Q.name=§9§l備份你的存檔……
@@ -14963,7 +14963,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRg.desc=§W歡迎來到我的TED演講�
 
 # Quest: UV Power Per Turbine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXQ.name=§b§l單渦輪UV發電
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXQ.desc=當你的進度推進到可以製造ZPM動力倉後，你可以將每臺渦輪的輸出功率提升至524,288 EU/t。在這麼高的數值下，對渦輪材料選擇的限制會少很多，並且單個核融合反應爐的輸出總功率也能得到顯著提升。只要選擇合適的渦輪材料，你就可以用3臺大型電漿渦輪消化掉單堆輸出的所有氦離子，推薦材料如下：%n%n大型高耐久性複合鋼渦輪：效率235%%，輸出功率473,759 EU/t%n大型原子分離催化劑渦輪：效率206%%，輸出功率409,663 EU/t%n大型精金渦輪：效率206%%，輸出功率413,280 EU/t%n大型龍錠渦輪：效率175%%，輸出功率220,500 EU/t（耐久高）%n大型中子渦輪：效率165%%，輸出功率249,480 EU/t（耐久極高）%n%n根據你使用渦輪的不同，最終的效率與輸出功率會有很大差異。一些渦輪（例如靈寶和中子渦輪）耐久極高，可近於永久使用，而另一些渦輪效率更高但需要時不時進行更換。如果你想要單渦輪輸出儘可能高的功率，儘可能迫近動力倉的極限的話，可以提高電漿的流量，但一定要小心！千萬不要超出動力倉的極限，而且在超過最佳流量後，隨著流量的增加，渦輪的效率會逐漸降低。更具體的效率損失值，可以在LuV任務章節中的“渦輪時間”任務內找到。%n%n[note]此外，還可以看看特大電漿渦輪。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXQ.desc=當你的進度推進到可以製造ZPM動力倉後，你可以將每臺渦輪的輸出功率提升至524,288 EU/t。在這麼高的數值下，對渦輪材料選擇的限制會少很多，並且單個核融合反應爐的輸出總功率也能得到顯著提升。只要選擇合適的渦輪材料，你就可以用3臺大型電漿渦輪消化掉單堆輸出的所有氦電漿，推薦材料如下：%n%n大型高耐久性複合鋼渦輪：效率235%%，輸出功率473,759 EU/t%n大型原子分離催化劑渦輪：效率206%%，輸出功率409,663 EU/t%n大型精金渦輪：效率206%%，輸出功率413,280 EU/t%n大型龍錠渦輪：效率175%%，輸出功率220,500 EU/t（耐久高）%n大型中子渦輪：效率165%%，輸出功率249,480 EU/t（耐久極高）%n%n根據你使用渦輪的不同，最終的效率與輸出功率會有很大差異。一些渦輪（例如靈寶和中子渦輪）耐久極高，可近於永久使用，而另一些渦輪效率更高但需要時不時進行更換。如果你想要單渦輪輸出儘可能高的功率，儘可能迫近動力倉的極限的話，可以提高電漿的流量，但一定要小心！千萬不要超出動力倉的極限，而且在超過最佳流量後，隨著流量的增加，渦輪的效率會逐漸降低。更具體的效率損失值，可以在LuV任務章節中的“渦輪時間”任務內找到。%n%n[note]此外，還可以看看特大電漿渦輪。[/note]
 
 # Quest: High Temperature Gas-cooled Reactor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMbg.name=§6§l高溫氣冷反應爐
@@ -15278,7 +15278,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.desc=找到？或做個雷電碎片
 
 # Quest: Bees Template
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.name=蜜蜂模板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.desc=首先從NEI中拿出公主蜂和獎勵袋。%n複製這個任務。%n點選任務圖示，將圖示設定為公主蜂。%n更改任務名稱、描述，和獎勵。%n%n點選任務，點選石頭，將它替換為公主蜂。%n在關閉頁面前，點選蜜蜂名字旁的“……”，然後點選“原NBT”。%n點進標籤、基因組、染色體。第一個是名稱，所以必須保留。%n點進去並刪除第一項條目，保留兩個品種這樣玩家%n必須得有純種的。%n刪除其餘的染色體。%n刪除基因組其餘的條目。%n%n點選前置任務。刪除“工具：不要完成”，並選擇前置蜜蜂任務。如果不需要前置任務，選擇“培育一些尋常蜂”任務即可。%n%n將“圖表顯示：隱藏”改為“圖表顯示：預設”。%n%n如果你還想減少任務書中的無用檔案，進入高階設定，點選“。。。”圖示，刪除其中無用的NBT。只保留前面的品種。%n%n§3點選前置任務選單中的眼睛圖示可以調整前置任務的可見性。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.desc=首先從NEI中拿出公主蜂和獎勵袋。%n複製這個任務。%n點選任務圖示，將圖示設定為公主蜂。%n更改任務名稱、描述，和獎勵。%n%n點選任務，點選石頭，將它替換為公主蜂。%n在關閉頁面前，點選蜜蜂名字旁的“……”，然後點選“原NBT”。%n點進標籤、基因組、染色體。第一個是名稱，所以必須保留。%n點進去並刪除第一項條目，保留兩個品種這樣玩家%n必須得有純種的。%n刪除其餘的染色體。%n刪除基因組其餘的條目。%n%n點選前置任務。刪除“工具：不要完成”，並選擇前置蜜蜂任務。如果不需要前置任務，選擇“培育一些尋常蜂”任務即可。%n%n將“圖表顯示：隱藏”改為“圖表顯示：預設”。%n%n如果你還想減少任務書中的無用檔案，進入高階設定，點選“…”圖示，刪除其中無用的NBT。只保留前面的品種。%n%n§3點選前置任務選單中的眼睛圖示可以調整前置任務的可見性。
 
 # Quest: Trigger: Silicone Rubber Skip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2A.name=觸發：跳過矽橡膠

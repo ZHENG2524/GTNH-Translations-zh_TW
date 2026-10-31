@@ -369,7 +369,7 @@ commands.error.arg.missing=引數不足
 commands.error.arg.player.missing=您必須指定您希望執行此操作的玩家
 commands.error.404=找不到指令！
 commands.error.unknown=未知指令！
-commands.error.perm=您沒有使用此指令的許可權。
+commands.error.perm=您沒有使用此指令的權限。
 
 commands.success=執行成功
 

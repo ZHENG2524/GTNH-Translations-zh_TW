@@ -190,7 +190,7 @@ info.cofh.tutorial.tabConfiguration.0=該配置欄可以設定物品如何進入
 info.cofh.tutorial.tabConfiguration.1=該配置欄可以設定能量如何在裝置間傳輸.
 info.cofh.tutorial.tabConfiguration.2=該配置欄可以設定該裝置的操作模式.
 info.cofh.tutorial.tabRedstone=紅石控制配置欄用來設定裝置對紅石訊號的響應.
-info.cofh.tutorial.tabSecurity=安全控制欄用來設定機器的存取許可權控制.
+info.cofh.tutorial.tabSecurity=安全控制欄用來設定機器的存取權限控制.
 
 item.invalid.name=無效物品（請銷毀之）
 

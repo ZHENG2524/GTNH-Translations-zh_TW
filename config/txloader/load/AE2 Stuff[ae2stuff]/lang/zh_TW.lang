@@ -59,7 +59,7 @@ ae2stuff.wireless.tool.failed=§c連線失敗
 ae2stuff.wireless.tool.failed.detail=§c連線失敗: §f%s
 ae2stuff.wireless.tool.dimension=§c兩個接入器必須在相同維度
 ae2stuff.wireless.tool.noexist=§c繫結的接入器不存在
-ae2stuff.wireless.tool.security.player=§c安全違規 - 你沒有修改這個網路的許可權
+ae2stuff.wireless.tool.security.player=§c安全違規 - 你沒有修改這個網路的權限
 ae2stuff.wireless.tool.targethubfull=§c目標集線器已滿
 
 ae2stuff.visualiser.bound=§a視覺化網路位於 %s %s %s

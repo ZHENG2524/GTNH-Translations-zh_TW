@@ -51,7 +51,7 @@ openblocks.gui.credits.title=致謝表
 openblocks.gui.credits.content=§LBoq、Mikee和NeverCast§R\n  - 開放式方塊的主要開發者\n§LSinZ和Yoshi2§R\n  - OpenMods團隊的元老成員\n§LVexatos和crafteverywhere§R\n  - 定期翻譯模組\n§LDirewolf20和ForgeCraft的成員§R\n  - 幫助尋找Bug和測試穩定性\n\n以及過去兩年間所有對模組程式碼有所貢獻、製作模組解說、實況影片和最初起就一直支援我們的朋友們！
 
 openblocks.gui.config.title=便捷的配置檔案
-openblocks.gui.config.content=開放式模組允許玩家透過在對話方塊中鍵入指令來修改客戶端（§L/om_config_c§R，需要管理員許可權）或服務端（§L/om_config_s§R）的配置檔案。某些修改甚至都不需要重啟遊戲！\n\n示例：\n§L/om_config_s set OpenBlocks dropblock elevatorDrainsXP false§R\n§L/om_config_s save§R\n\n使用“§L/help om_config_s§R”或“§L/help om_config_c§R”可檢視完整的指令列表。
+openblocks.gui.config.content=開放式模組允許玩家透過在對話方塊中鍵入指令來修改客戶端（§L/om_config_c§R，需要管理員權限）或服務端（§L/om_config_s§R）的配置檔案。某些修改甚至都不需要重啟遊戲！\n\n示例：\n§L/om_config_s set OpenBlocks dropblock elevatorDrainsXP false§R\n§L/om_config_s save§R\n\n使用“§L/help om_config_s§R”或“§L/help om_config_c§R”可檢視完整的指令列表。
 
 openblocks.gui.restore_inv.title=物品欄備份
 openblocks.gui.restore_inv.content=要恢復玩家的物品欄狀態,你需要相應的備份(會在玩家死亡,墓碑生成或是執行 §L/ob_inventory store§R 命令時建立).\n\n這些備份位於伺服器存檔資料夾裡,名為  §Linventory-*.dat§R,用 §L/ob_inventory restore <player> <id>§R 命令即可恢復.\n\n§Lid§R 既可以用檔案的全名,也可以只是 §L*§R 的部分,輸入時支援TAB自動補全.
@@ -169,7 +169,7 @@ openblocks.misc.side.down=底面
 openblocks.misc.command.invalid=無效的命令
 openblocks.misc.command.no_flim_flam=無效的爾虞我詐名稱
 openblocks.misc.command.flim_flam_source=玩家 %s 已被 %s 成功欺騙
-openblocks.misc.command.flim_flam_target=某個有許可權的人不太喜歡你.
+openblocks.misc.command.flim_flam_target=某個有權限的人不太喜歡你.
 openblocks.misc.command.flim_flam_failed=欺騙失敗！
 openblocks.misc.command.luck_added=與玩家 %s 交換運氣值,當前運氣值為: %d
 openblocks.misc.command.luck_current=玩家 %s 的運氣值: %d

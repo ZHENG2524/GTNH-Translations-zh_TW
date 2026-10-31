@@ -442,7 +442,7 @@ ttresearch.page.DISLOCATOR.0=透過研究Motion源質，你設法製造出一臺
 # -- HELMET OF REVEALING
 ttresearch.name.REVEALING_HELM=揭示之頭盔
 ttresearch.lore.REVEALING_HELM=這就是我不用PS的原因
-ttresearch.page.REVEALING_HELM.0=事實表明，揭示之護目鏡沒辦法防禦襲擊而來的殭屍。你認為已經有了解決方案：將護目鏡和神秘頭盔合二為一。好吧，事實證明不是看上去那麼簡單。需要施加一點點魔法來避免反饋迴圈，還需要再施加一點點魔法來防止脫落，但總的來說，它基本可以投入使用了。
+ttresearch.page.REVEALING_HELM.0=事實表明，揭示之護目鏡沒辦法防禦襲擊而來的殭屍。你認為已經有了解決方案：將護目鏡和神秘頭盔合二為一。好吧，事實證明不是看上去那麼簡單。需要施加一點點魔法來避免回饋迴圈，還需要再施加一點點魔法來防止脫落，但總的來說，它基本可以投入使用了。
 
 # -- THAUMIC REHABILITATOR
 ttresearch.name.REPAIRER=奧法修復臺

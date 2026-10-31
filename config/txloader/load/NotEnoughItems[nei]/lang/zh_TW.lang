@@ -165,7 +165,7 @@ itemGroup.neiFluids=流體
 nei.inventory.tooltip.count.fluid=總量：%s
 nei.inventory.tooltip.temperature.fluid=溫度：%sK
 nei.inventory.tooltip.state.fluid=狀態：%s
-nei.inventory.tooltip.state.fluid.gas=Gas
+nei.inventory.tooltip.state.fluid.gas=氣體
 nei.inventory.tooltip.state.fluid.liquid=液體
 
 nei.inventory.gamemode.0=點選設定為生存模式
@@ -532,10 +532,10 @@ nei.options.inventory.itemUntranslator.false=隱藏
 
 nei.options.inventory.tooltip=提示
 nei.options.inventory.tooltip.showFluidTemperature=顯示流體溫度
-nei.options.inventory.tooltip.showFluidTemperature.true=Yes
+nei.options.inventory.tooltip.showFluidTemperature.true=是
 nei.options.inventory.tooltip.showFluidTemperature.false=No
 nei.options.inventory.tooltip.showFluidState=顯示流體狀態
-nei.options.inventory.tooltip.showFluidState.true=Yes
+nei.options.inventory.tooltip.showFluidState.true=是
 nei.options.inventory.tooltip.showFluidState.false=No
 
 nei.options.command=指令
@@ -706,7 +706,7 @@ nei.recipe.information=資訊
 
 nei.itemsort.minecraft=Minecraft
 nei.itemsort.minecraft.tip=從原版物品開始排序
-nei.itemsort.mod=Mod
+nei.itemsort.mod=模組
 nei.itemsort.mod.tip=按模組名稱排序，同模組物品互相集中
 nei.itemsort.id=按物品ID排序
 nei.itemsort.default=預設

@@ -1,5 +1,17 @@
 # GTNH zh_TW 最新交接入口
 
+## 2026-11-01 補齊與收尾（最新入口）
+
+- **重大修正**：既有掃描只看「值是英文」，漏掉「整條 key 不存在」的情況。倉庫的 dreamcraft `zh_TW.lang` 原本是 0 行空檔，神秘研究、匠魂手冊與 CoreMod 物品名在 zh_TW 下全部顯示英文。之後請跑 `tools/check_key_coverage.py --game <.minecraft>`。
+- **補齊**：dreamcraft 1,825 條（`GT_ New Horizons[dreamcraft]`）、HEE 終界圖鑑 399 條（FML 會載入 `lang/` 子目錄，故放入既有 zh_TW 尾端）、Blood Arsenal 6 條、etfuturum 2 條、空值 2 條、介面字串 14 條。
+- 初稿來自 GTNH 內建簡中，經 OpenCC `s2twp` 與既有用語規則轉換，再逐條閱讀；修正見 `tools/fill_missing_2026-11-01_fixes.py`（`PHRASES` 字串修正、`KEYS` 依安裝版英文重譯）。數字與 HEE 標籤已對照 jar 英文；簡中版本較舊之處以英文為準（如終界龍 125 顆心、森林幽魂 1/4 機率）。HEE 文字會經 format，`%` 一律寫 `%%`。
+- **用語收尾**（`tools/normalize_terms_2026-11-01.py`，冪等）：許可權→權限、土豆→馬鈴薯、反饋→回饋／回報、大火箭→火箭筒、一號小行星→穀神星、脫氣機→除氣機、擠壓機→壓模機、資料棒→快閃記憶體、任務 3729 氦離子→氦電漿等。
+- **刻意保留**：Ztones 代號方塊名、指令用法、CraftPresence 函式用法、歌名與成就梗、Thaumcraft 拉丁源質名。`檢視／點選／高階`為可接受的台灣用語或既有慣例，未全域替換。`tt.keyword.at` 空值保留（中文語序不需要）。
+- 結構檢查預期錯誤：新增 key 的 4 檔行數變動；`gtnhlib.chat.teams.help.10`、`recipe_metrics_header` 的 `[...]` 內文變動。
+- 未同步遊戲、未遊戲內實測；未發 Release。仍需遊戲實測的是任務書版本差異待查項與上述新文字。授權與 commit 簽章依使用者指示不處理。
+
+---
+
 ## v0.1.5 最終用語統一（2026-10-31，最新入口）
 
 - 使用者決定：電路統一為「電路板」（218 條，已於前一 commit）、授權不聯絡原作者、A 項處理完即發版。

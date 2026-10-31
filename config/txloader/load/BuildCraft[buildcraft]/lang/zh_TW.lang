@@ -598,8 +598,8 @@ command.buildcraft.changelog_header=BuildCraft更新日誌 %s:
 command.buildcraft.aliases=別名: %s
 command.buildcraft.help=輸入 '%s' 檢視幫助.
 command.buildcraft.list=可用命令:
-command.buildcraft.permlevel=許可權等級: %s
-command.buildcraft.noperms=你沒有使用該指令的許可權.
+command.buildcraft.permlevel=權限等級: %s
+command.buildcraft.noperms=你沒有使用該指令的權限.
 
 command.buildcraft.buildcraft.help=建築相關指令集
 command.buildcraft.buildcraft.format=格式: /%s <子命令>
@@ -613,10 +613,10 @@ command.buildcraft.buildcraft.changelog.help=顯示最新BC日誌.
 command.buildcraft.buildcraft.changelog.format=格式: /%s
 
 command.buildcraft.buildcraft.op.desc=- %s：賦予 FakePlayer 管理員權限
-command.buildcraft.buildcraft.op.help=給予BC模擬玩家(以採石場，機器人等名義執行動作)伺服器op許可權.
+command.buildcraft.buildcraft.op.help=給予BC模擬玩家(以採石場，機器人等名義執行動作)伺服器op權限.
 command.buildcraft.buildcraft.op.format=格式: /%s
 
 command.buildcraft.buildcraft.deop.desc=- %s：移除 FakePlayer 管理員權限
-command.buildcraft.buildcraft.deop.help=撤銷BC模擬玩家(以採石場，機器人等名義執行動作)伺服器op許可權.
+command.buildcraft.buildcraft.deop.help=撤銷BC模擬玩家(以採石場，機器人等名義執行動作)伺服器op權限.
 command.buildcraft.buildcraft.deop.format=格式: /%s
 item.pipePlug.name=管塞

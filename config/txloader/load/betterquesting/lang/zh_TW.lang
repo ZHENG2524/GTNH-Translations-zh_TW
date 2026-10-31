@@ -82,7 +82,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.name=§9§l橡樹不是蘋果樹
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.desc=長蘋果的橡樹？到底是誰把它加入Minecraft的？%n你發現將蘋果和橡樹樹苗結合可以獲得蘋果樹苗。試著種一棵蘋果樹來獲得永久的食物來源。%n%n完成這個任務後，記得翻翻任務章節列表。一個新任務章節“硬幣、硬幣、硬幣”將會解鎖。你最好時不時翻閱一遍任務章節列表，以確保能及時看到偶然解鎖的新章節或新任務。任務章節很多，一定要記得向下滾動!
 
 # Quest: "Baked" Potatoes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=§9§l土豆的三種吃法
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=§9§l馬鈴薯的三種吃法
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=生吃馬鈴薯是不健康的——你可能已經注意到了.有些馬鈴薯發綠,是有毒的.當你獲得了熔爐,就可以製作美味的烤馬鈴薯,這是另一種可選的食物.把烤馬鈴薯串在一根棍子上,它將更加美味可口.
 
 # Quest: Soft Mallet Adventure
@@ -4768,7 +4768,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPg.desc=大部分的水果都可以榨�
 
 # Quest: Potato Cakes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPw.name=馬鈴薯蛋糕
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPw.desc=用土豆、洋蔥、黃油和平底鍋來製作非常美味的馬鈴薯蛋糕!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPw.desc=用馬鈴薯、洋蔥、黃油和平底鍋來製作非常美味的馬鈴薯蛋糕!
 
 # Quest: Fried Eggs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQA.name=煎雞蛋
@@ -4964,7 +4964,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHPw.desc=現在你有了麵糰,有多種
 
 # Quest: No Chicken Escapes!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.name=雞,一隻也別想跑!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.desc=你喜歡派嗎?當然!  有許多種派可供選擇.  雞肉派是最容易做的派之一.只需生雞肉、土豆、胡蘿蔔和麵團.水果派要簡單一點,所以提供的飽食度不太多,但是在你等待最好食物的過程中,它們對填飽肚子很有用.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQQ.desc=你喜歡派嗎?當然!  有許多種派可供選擇.  雞肉派是最容易做的派之一.只需生雞肉、馬鈴薯、胡蘿蔔和麵團.水果派要簡單一點,所以提供的飽食度不太多,但是在你等待最好食物的過程中,它們對填飽肚子很有用.
 
 # Quest: You Can't Tell Them Apart Either?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgA.name=啥啥分不清楚?
@@ -5366,7 +5366,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=巨大的攻擊力,和美妙的
 
 # Quest: Protect Your Base: Tier 1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=§5§l保護你的基地:第1級
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=一個人要用適當的方式來保衛他的家.那麼為什麼不用炮塔來保衛安全呢？目前有2種炮塔可供選擇:"土豆"和"一次性物品".我想你能猜到它們是用來幹什麼的,以及它們是如何工作的...(不,我不能)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=一個人要用適當的方式來保衛他的家.那麼為什麼不用炮塔來保衛安全呢？目前有2種炮塔可供選擇:"馬鈴薯"和"一次性物品".我想你能猜到它們是用來幹什麼的,以及它們是如何工作的...(不,我不能)
 
 # Quest: Passive Defence
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeQ.name=§5§l被動防禦
@@ -5823,7 +5823,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHtg.desc=花哨的紅石計劃:照明的
 
 # Quest: ProjectRed Lights With a Purpose
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHtw.name=功能性紅石計劃燈
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHtw.desc=紅石計劃提供了兩種特殊的燈,可以用作按鈕.  普通的按鈕一直保持點亮.反饋照明按鈕會在收到紅石訊號時點亮.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHtw.desc=紅石計劃提供了兩種特殊的燈,可以用作按鈕.  普通的按鈕一直保持點亮.回饋照明按鈕會在收到紅石訊號時點亮.
 
 # Quest: Flat Lamps
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHuA.name=平面燈
@@ -6269,7 +6269,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAATA.desc=你需要鋼？呃...好的.我
 
 # Quest: EBF-Time
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.name=§6§l工業高爐時代
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=為了得到鋁錠,你需要一個工業高爐.這是通向勝利的另一重要步驟.讓我們開始吧.%n%n加熱線圈所需的雲母可能會很棘手,但一階線圈有替代方案.%n你需要兩個LV級能源倉並提供總共4A的LV電流,或者如果你沒有修復全部的故障,你就需要三個LV級能源倉和更多的電流.%n為了不被鎳卡住,檢視"魔法學徒"工作列的"鎳的來源"任務. %n%n一些高爐配方會產生CO2/SO2.這種流體可以透過在工業高爐頂層放置一個輸出倉來收集.你也可以在工業高爐的控制器GUI中啟用銷毀流體.對於這些產出CO2/SO2的配方,你必須進行上面提到的兩種操作之一,否則工業高爐就不會執行.%n能收集到的流體比例與消聲倉的等級有關.%n%n Bart的鉑系處理配方,流體將在底層輸出,且不受消聲倉等級的回收比例影響.%n%n啟動之前,別忘了修復所有的維護問題,並且如果需要的話,放入正確的程式設計電路.%n%n如果你需要一臺完美的工業高爐,你可以新增更多的輸入倉,在其中儲存不同的氣體.%n%n譯者注:前期氧與氮兩種氣體,中期陸續加入氦和氬,後期會有氡,至於氫氣用得非常少,不建議常備.到了EV階段後可以試試四重輸入倉!%n%n工業高爐還會根據電壓調整爐溫,從MV開始,每提升一個電壓等級,實際爐溫將提高100K(LV將降低100K). 雖然目前你只能製造LV能源倉,但同時安裝兩個LV能源倉即可將高爐超頻到MV,避免降低100K的懲罰,並且初始爐溫可以達到1801K.%n%n隨著遊戲的程序,你的工業高爐不斷升級,你就可以獲得更多的爐溫獎勵. 兩個MV能源倉(超頻到HV)可以增加100K,兩個HV能源倉(超頻到EV)可以增加200K... 線圈本身僅僅決定了基礎爐溫.這種爐溫調整不適用於熾焱高爐.%n%n§4如果汙染變得非常嚴重,請檢視GT++的汙染清理機,或者升級你的消聲倉.%n%n中文WIKI 工業高爐：§1§n[url]https://gtnh.huijiwiki.com/p/117[/url]§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=為了得到鋁錠,你需要一個工業高爐.這是通向勝利的另一重要步驟.讓我們開始吧.%n%n加熱線圈所需的雲母可能會很棘手,但一階線圈有替代方案.%n你需要兩個LV級能源倉並提供總共4A的LV電流,或者如果你沒有修復全部的故障,你就需要三個LV級能源倉和更多的電流.%n為了不被鎳卡住,檢視"魔法學徒"工作列的"鎳的來源"任務. %n%n一些高爐配方會產生CO2/SO2.這種流體可以透過在工業高爐頂層放置一個輸出倉來收集.你也可以在工業高爐的控制器GUI中啟用銷毀流體.對於這些產出CO2/SO2的配方,你必須進行上面提到的兩種操作之一,否則工業高爐就不會執行.%n能收集到的流體比例與消聲倉的等級有關.%n%n Bart的鉑系處理配方,流體將在底層輸出,且不受消聲倉等級的回收比例影響.%n%n啟動之前,別忘了修復所有的維護問題,並且如果需要的話,放入正確的程式設計電路.%n%n如果你需要一臺完美的工業高爐,你可以新增更多的輸入倉,在其中儲存不同的氣體.%n%n譯者注:前期氧與氮兩種氣體,中期陸續加入氦和氬,後期會有氡,至於氫氣用得非常少,不建議常備.到了EV階段後可以試試四重輸入倉!%n%n工業高爐還會根據電壓調整爐溫,從MV開始,每提升一個電壓等級,實際爐溫將提高100K(LV將降低100K). 雖然目前你只能製造LV能源倉,但同時安裝兩個LV能源倉即可將高爐超頻到MV,避免降低100K的懲罰,並且初始爐溫可以達到1801K.%n%n隨著遊戲的進度,你的工業高爐不斷升級,你就可以獲得更多的爐溫獎勵. 兩個MV能源倉(超頻到HV)可以增加100K,兩個HV能源倉(超頻到EV)可以增加200K... 線圈本身僅僅決定了基礎爐溫.這種爐溫調整不適用於熾焱高爐.%n%n§4如果汙染變得非常嚴重,請檢視GT++的汙染清理機,或者升級你的消聲倉.%n%n中文WIKI 工業高爐：§1§n[url]https://gtnh.huijiwiki.com/p/117[/url]§r
 
 # Quest: More Heat - Kanthal Coil Upgrade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=§6§l更多的熱量 - 坎塔爾線圈
@@ -8219,7 +8219,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXg.desc=此前發電設施的輸出功�
 
 # Quest: Vacuum Nukes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXw.name=強冷核反應爐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXw.desc=下一步是什麼,讓核反應爐在一座完美的真空冷凍機內執行? 一定很有趣,我想試試看.%n%n免責宣告：這最後一步不是很穩定,在沒有備份的伺服器上嘗試是非常危險的,主要原因是反應爐需要依靠紅石電路控制,防止其真的變成核反應爐. 建議使用多重控制,以保證故障下反應爐的安全.請勿在Thermos伺服器上構建強冷核反應爐!(譯者注:其實注意多重反饋控制就行)%n%n強冷核反應爐是一種有趣的、GTNH特有的發電設施.它只用了三種部件：燃料棒,為方便自動化填充空格的反應爐隔板,以及冷卻單元.這些冷卻單元你應該已經用過了,比如製造能源倉,在這裡,冷卻單元用於防止反應爐過熱,進而爆炸. 強冷核反應爐與其他核反應爐的主要區別就在於,這些冷卻單元是消耗品,會隨著時間的推移損失耐久.你需要不斷將新單元加入反應爐,才能保證其穩定執行,而損失耐久的冷卻單元只需要使用真空冷凍機處理一下,即可重新回到嶄新的狀態.%n%n真空冷凍機!這也是強冷核反應爐名字的由來!我親愛的史蒂夫,從原理是來說,強冷核反應爐非常簡單,只是消耗EU為冷卻單元降溫,然後再從反應爐中獲得多得多的EU.但是,想要將此過程高度自動化就相當棘手了.如果你只是盲目地嘗試,想要弄清楚得花大量的時間,而且還非常有可能爆炸. 如果你想獲得更加詳細的指導,遠超本任務可以寫出的部分,請到wiki的強冷核反應爐頁面([url]https://wiki.gtnewhorizons.com/wiki/Vacuum_Reactor[/url]).%n%n本任務要求,適用於wiki中最後一種擺法,8720~43600-EU,40個四聯鈾燃料棒.顧名思義,它的輸出功率最高可以達到43600-EU/t,但還需要多個過濾器以及故障保險裝置才能安全而穩定地執行.與流體核反應爐相比,它的優勢是無需繁瑣的大型熱交換機+大型蒸汽渦輪這一堆附屬多方塊機器,就能直接輸出相當可觀的功率.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXw.desc=下一步是什麼,讓核反應爐在一座完美的真空冷凍機內執行? 一定很有趣,我想試試看.%n%n免責宣告：這最後一步不是很穩定,在沒有備份的伺服器上嘗試是非常危險的,主要原因是反應爐需要依靠紅石電路控制,防止其真的變成核反應爐. 建議使用多重控制,以保證故障下反應爐的安全.請勿在Thermos伺服器上構建強冷核反應爐!(譯者注:其實注意多重回饋控制就行)%n%n強冷核反應爐是一種有趣的、GTNH特有的發電設施.它只用了三種部件：燃料棒,為方便自動化填充空格的反應爐隔板,以及冷卻單元.這些冷卻單元你應該已經用過了,比如製造能源倉,在這裡,冷卻單元用於防止反應爐過熱,進而爆炸. 強冷核反應爐與其他核反應爐的主要區別就在於,這些冷卻單元是消耗品,會隨著時間的推移損失耐久.你需要不斷將新單元加入反應爐,才能保證其穩定執行,而損失耐久的冷卻單元只需要使用真空冷凍機處理一下,即可重新回到嶄新的狀態.%n%n真空冷凍機!這也是強冷核反應爐名字的由來!我親愛的史蒂夫,從原理是來說,強冷核反應爐非常簡單,只是消耗EU為冷卻單元降溫,然後再從反應爐中獲得多得多的EU.但是,想要將此過程高度自動化就相當棘手了.如果你只是盲目地嘗試,想要弄清楚得花大量的時間,而且還非常有可能爆炸. 如果你想獲得更加詳細的指導,遠超本任務可以寫出的部分,請到wiki的強冷核反應爐頁面([url]https://wiki.gtnewhorizons.com/wiki/Vacuum_Reactor[/url]).%n%n本任務要求,適用於wiki中最後一種擺法,8720~43600-EU,40個四聯鈾燃料棒.顧名思義,它的輸出功率最高可以達到43600-EU/t,但還需要多個過濾器以及故障保險裝置才能安全而穩定地執行.與流體核反應爐相比,它的優勢是無需繁瑣的大型熱交換機+大型蒸汽渦輪這一堆附屬多方塊機器,就能直接輸出相當可觀的功率.
 
 # Quest: Can We Get Uranium Here?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMYA.name=我們能在這弄到鈾嗎?
@@ -9572,7 +9572,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.desc=高純度的地獄石英、賽�
 
 # Quest: Wireless Setup
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.name=無線網路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.desc=ME安全終端允許您配置哪些使用者擁有ME系統的存取許可權，以及這些使用者的具體許可權。ME安全終端存在時，使用ME系統需要對應的許可權。%n%n安全終端無法阻止蓄意毀壞行為，例如拆除電纜/機器、銷毀驅動器等。如需保護系統免受物理破壞，您需要其他形式的實體安防措施。本模組提供的是網路層級的安全防護。%n%n放置ME安全終端的玩家對網路具有完全的控制權，並且無法取消自己的許可權。透過新增空白身份卡，您可為所有未註冊身份卡的玩家定義預設許可權。%n%n除了軟體層面的安全防護外，接入了安全終端後還可以使用無線終端實現無線存取。%n%n若主網路配備安全終端，子網路可能也需要安裝才能存取主網路（具體取決於您的網路配置方式，並非總是必需）。%n%nME無線存取點使你可以用無線終端無線地存取網路。其範圍與能耗由存取點內安裝的無線訊號增幅器數量決定。單個網路可部署任意數量的存取點，每個存取點內可以安裝任意數量的增幅器，因此你可以透過改變排布自行最佳化能耗與覆蓋範圍。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.desc=ME安全終端允許您配置哪些使用者擁有ME系統的存取權限，以及這些使用者的具體權限。ME安全終端存在時，使用ME系統需要對應的權限。%n%n安全終端無法阻止蓄意毀壞行為，例如拆除電纜/機器、銷毀驅動器等。如需保護系統免受物理破壞，您需要其他形式的實體安防措施。本模組提供的是網路層級的安全防護。%n%n放置ME安全終端的玩家對網路具有完全的控制權，並且無法取消自己的權限。透過新增空白身份卡，您可為所有未註冊身份卡的玩家定義預設權限。%n%n除了軟體層面的安全防護外，接入了安全終端後還可以使用無線終端實現無線存取。%n%n若主網路配備安全終端，子網路可能也需要安裝才能存取主網路（具體取決於您的網路配置方式，並非總是必需）。%n%nME無線存取點使你可以用無線終端無線地存取網路。其範圍與能耗由存取點內安裝的無線訊號增幅器數量決定。單個網路可部署任意數量的存取點，每個存取點內可以安裝任意數量的增幅器，因此你可以透過改變排布自行最佳化能耗與覆蓋範圍。
 
 # Quest: Dense Boys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEw.name=緻密能源元件
@@ -13323,7 +13323,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADlg.desc=為了邁向更高的級別,並
 
 # Quest: Creeper: Evolved
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.name=苦力怕:進化
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.desc=不,這種普通的苦力怕還不夠讓人討厭,完全不夠.那裡有隻進化的苦力怕老大!它就是那把能讓你登上另一個星球的鑰匙(呃,它的確也有一把鑰匙...)!(小行星帶、一號小行星、木衛一、木衛二、木衛三、木衛四)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.desc=不,這種普通的苦力怕還不夠讓人討厭,完全不夠.那裡有隻進化的苦力怕老大!它就是那把能讓你登上另一個星球的鑰匙(呃,它的確也有一把鑰匙...)!(小行星帶、穀神星、木衛一、木衛二、木衛三、木衛四)
 
 # Quest: Blaze: Evolved
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADmA.name=烈焰人:進化
@@ -13387,7 +13387,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-A.desc=哦,你掉出了這個世界,�
 
 # Quest: Time to kill (Haunted Miners)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.name=殺戮時刻(幽魂礦工)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.desc=幽魂礦工是飛舞的魔鬼. 他們用大火箭將你射入深淵.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.desc=幽魂礦工是飛舞的魔鬼. 他們用火箭筒將你射入深淵.
 
 # Quest: Time to Kill (Louse)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-g.name=殺戮時刻(蝨)
@@ -14539,7 +14539,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF2Q.desc=你已經瞭解礦脈區塊是�
 
 # Quest: Better Questing?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3A.name=§9§l更好的任務？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3A.desc=更好的任務（Better Questing）模組為任務書提供了很多有用的指令。你需要啟用作弊才能使用這些命令。%n%n/bq_admin default load%n在更新整合包版本後，用這個命令來更新任務書。這個命令會從檔案過載任務資料庫。你的存檔會儲存一份任務書，其版本可能和新版本整合包中的不同。%n%n/bq_admin edit%n開啟/關閉編輯模式。右鍵點選任務可以開啟一個選單來共享它或者複製它的ID。%n%n/bq_admin reset all <玩家>%n重置所有任務。當你想要重新開始或是正在編輯任務書時，請使用這個命令。在伺服器中使用時，你應當指定一個目標玩家。如果是單機則無需指定。%n%n/bq_admin reset <任務ID> <玩家>%n重置指定ID的任務。不過有時候，直接進入編輯模式使用編輯工具重置任務更簡單。%n%n/bq_admin complete <任務ID> <玩家>%n與重置類似，強制完成指定ID的任務，且可以正常獲取任務獎勵。當任務出錯無法正常完成時，請使用此命令，並前往Github進行反饋。反饋前請先確認是否已存在相同issue。%n%n/bq_admin default save%n編輯任務書後儲存更改。%n%n/bq_copyquests <已完成任務的玩家> <新玩家>%n如果你想要讓隊伍中的其他玩家同步任務進度，請使用這個命令。不過他們不能從這樣完成的任務中獲取獎勵。%n%n/bq_admin hardcore%n啟用Better Questing極限模式。開局只有3條命，祝你好運。在“殺戮時刻”任務章節中可以獲取額外的生命紅心。%n%n除了消耗類型的任務外，如果一個人完成了任務，隊伍中的每個人都會同時完成該任務。但是如果有人中途加入你的隊伍，你需要透過上面介紹的/bq_copyquests命令同步任務或者手動完成前置任務。否則，他們不會同步完成你所完成的任務，因為他們沒有解鎖當前任務。%n%n如果你的單人遊戲未開啟作弊模式，可以在ESC的介面開啟”對區域網開放”，啟用作弊。不過這會使暫停不可用，直到下一次重啟。在伺服器上，可以直接在命令列使用這些命令，不過需要去掉“/”。你還可以編輯level.dat檔案，把”allowCommands”設為1，但在此之前應當先備份存檔。%n%n[warn]為了正常儲存任務進度，你必須登入Mojang帳戶並保持線上狀態。這是Better Questing本身的限制，抱歉。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3A.desc=更好的任務（Better Questing）模組為任務書提供了很多有用的指令。你需要啟用作弊才能使用這些命令。%n%n/bq_admin default load%n在更新整合包版本後，用這個命令來更新任務書。這個命令會從檔案過載任務資料庫。你的存檔會儲存一份任務書，其版本可能和新版本整合包中的不同。%n%n/bq_admin edit%n開啟/關閉編輯模式。右鍵點選任務可以開啟一個選單來共享它或者複製它的ID。%n%n/bq_admin reset all <玩家>%n重置所有任務。當你想要重新開始或是正在編輯任務書時，請使用這個命令。在伺服器中使用時，你應當指定一個目標玩家。如果是單機則無需指定。%n%n/bq_admin reset <任務ID> <玩家>%n重置指定ID的任務。不過有時候，直接進入編輯模式使用編輯工具重置任務更簡單。%n%n/bq_admin complete <任務ID> <玩家>%n與重置類似，強制完成指定ID的任務，且可以正常獲取任務獎勵。當任務出錯無法正常完成時，請使用此命令，並前往Github進行回報。回饋前請先確認是否已存在相同issue。%n%n/bq_admin default save%n編輯任務書後儲存更改。%n%n/bq_copyquests <已完成任務的玩家> <新玩家>%n如果你想要讓隊伍中的其他玩家同步任務進度，請使用這個命令。不過他們不能從這樣完成的任務中獲取獎勵。%n%n/bq_admin hardcore%n啟用Better Questing極限模式。開局只有3條命，祝你好運。在“殺戮時刻”任務章節中可以獲取額外的生命紅心。%n%n除了消耗類型的任務外，如果一個人完成了任務，隊伍中的每個人都會同時完成該任務。但是如果有人中途加入你的隊伍，你需要透過上面介紹的/bq_copyquests命令同步任務或者手動完成前置任務。否則，他們不會同步完成你所完成的任務，因為他們沒有解鎖當前任務。%n%n如果你的單人遊戲未開啟作弊模式，可以在ESC的介面開啟”對區域網開放”，啟用作弊。不過這會使暫停不可用，直到下一次重啟。在伺服器上，可以直接在命令列使用這些命令，不過需要去掉“/”。你還可以編輯level.dat檔案，把”allowCommands”設為1，但在此之前應當先備份存檔。%n%n[warn]為了正常儲存任務進度，你必須登入Mojang帳戶並保持線上狀態。這是Better Questing本身的限制，抱歉。[/warn]
 
 # Quest: Backup Your Stuff...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3Q.name=§9§l備份你的存檔…
@@ -14751,7 +14751,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRg.desc=§W歡迎來到我的TED演講�
 
 # Quest: UV Power Per Turbine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXQ.name=單渦輪UV發電
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXQ.desc=當你的進度推進到可以製造ZPM動力倉後，你可以將每臺渦輪的輸出功率提升至524,288 EU/t。在這麼高的數值下，對渦輪材料選擇的限制會少很多，並且單個核融合反應爐的輸出總功率也能得到顯著提升。只要選擇合適的渦輪材料，你就可以用3臺大型電漿渦輪消化掉單堆輸出的所有氦離子，推薦材料如下：%n%n大型高耐久性複合鋼渦輪：效率235%%，輸出功率473,759 EU/t%n大型原子分離催化劑渦輪：效率206%%，輸出功率409,663 EU/t%n大型精金渦輪：效率206%%，輸出功率413,280 EU/t%n大型龍錠渦輪：效率175%%，輸出功率220,500 EU/t（耐久高）%n大型中子渦輪：效率165%%，輸出功率249,480 EU/t（耐久極高）%n%n根據你使用渦輪的不同，最終的效率與輸出功率會有很大差異。一些渦輪（例如靈寶和中子渦輪）耐久極高，可近於永久使用，而另一些渦輪效率更高但需要時不時進行更換。如果你想要單渦輪輸出儘可能高的功率，儘可能迫近動力倉的極限的話，可以提高電漿的流量，但一定要小心！千萬不要超出動力倉的極限，而且在超過最佳流量後，隨著流量的增加，渦輪的效率會逐漸降低。更具體的效率損失值,可以在LuV任務章節中的"渦輪時間"任務內找到。%n%n製造一個（普通或緩衝的）ZPM動力倉即可完成此任務。%n%n[note]此外，還可以看看特大電漿渦輪。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMXQ.desc=當你的進度推進到可以製造ZPM動力倉後，你可以將每臺渦輪的輸出功率提升至524,288 EU/t。在這麼高的數值下，對渦輪材料選擇的限制會少很多，並且單個核融合反應爐的輸出總功率也能得到顯著提升。只要選擇合適的渦輪材料，你就可以用3臺大型電漿渦輪消化掉單堆輸出的所有氦電漿，推薦材料如下：%n%n大型高耐久性複合鋼渦輪：效率235%%，輸出功率473,759 EU/t%n大型原子分離催化劑渦輪：效率206%%，輸出功率409,663 EU/t%n大型精金渦輪：效率206%%，輸出功率413,280 EU/t%n大型龍錠渦輪：效率175%%，輸出功率220,500 EU/t（耐久高）%n大型中子渦輪：效率165%%，輸出功率249,480 EU/t（耐久極高）%n%n根據你使用渦輪的不同，最終的效率與輸出功率會有很大差異。一些渦輪（例如靈寶和中子渦輪）耐久極高，可近於永久使用，而另一些渦輪效率更高但需要時不時進行更換。如果你想要單渦輪輸出儘可能高的功率，儘可能迫近動力倉的極限的話，可以提高電漿的流量，但一定要小心！千萬不要超出動力倉的極限，而且在超過最佳流量後，隨著流量的增加，渦輪的效率會逐漸降低。更具體的效率損失值,可以在LuV任務章節中的"渦輪時間"任務內找到。%n%n製造一個（普通或緩衝的）ZPM動力倉即可完成此任務。%n%n[note]此外，還可以看看特大電漿渦輪。[/note]
 
 # Quest: High Temperature Super Breeder
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMbg.name=§6§l高溫超級增殖反應爐
@@ -14851,7 +14851,7 @@ betterquesting.quest.V9BupH47RI6RWX6vff5dpw.desc=把未來帶回現實[EFR]還�
 
 # Quest: The Quest for Holy Water
 betterquesting.quest.WPoaCPPwTBSyn2dmh5DcBA.name=尋求聖水
-betterquesting.quest.WPoaCPPwTBSyn2dmh5DcBA.desc=在搭建完UHV的淨化水產線之後,你可能已經休息了一會兒了,這是你應得的.但現在你要製作光學電路板,你的6級淨化水已經不夠用了.使用脫氣機,你可以去除之前工序中殘留的淨化劑,並製造出更純淨的水,純淨度足以用於製造光學電路板.%n%n機器的Tooltip和要求清單看起來很嚇人.試著將其分解成可逐步解決的小單元,你將很快找到解決方案.
+betterquesting.quest.WPoaCPPwTBSyn2dmh5DcBA.desc=在搭建完UHV的淨化水產線之後,你可能已經休息了一會兒了,這是你應得的.但現在你要製作光學電路板,你的6級淨化水已經不夠用了.使用除氣機,你可以去除之前工序中殘留的淨化劑,並製造出更純淨的水,純淨度足以用於製造光學電路板.%n%n機器的Tooltip和要求清單看起來很嚇人.試著將其分解成可逐步解決的小單元,你將很快找到解決方案.
 
 # Quest: High Energy Laser Purification
 betterquesting.quest.WqDynhbQQ4GdNMKm0BlbcQ.name=高能雷射淨化

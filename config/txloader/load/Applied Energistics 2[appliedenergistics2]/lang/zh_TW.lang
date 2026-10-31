@@ -277,7 +277,7 @@ gui.appliedenergistics2.AdvancedInscriberLockOff=解鎖-能夠自動移除
 gui.appliedenergistics2.AdvancedInscriberLockNote=如果中間的槽非空或者正在進行中將不能處理
 gui.appliedenergistics2.Wireless=無線存取點
 gui.appliedenergistics2.WirelessTerminal=無線終端
-gui.appliedenergistics2.NoPermissions=無選定許可權
+gui.appliedenergistics2.NoPermissions=無選定權限
 gui.appliedenergistics2.SecurityCardEditor=身份卡編輯
 gui.appliedenergistics2.Encoded=已編碼
 gui.appliedenergistics2.Priority=優先順序
@@ -1168,7 +1168,7 @@ item.appliedenergistics2.WirelessMessages.TargetHubFull=§c目標無線集線器
 item.appliedenergistics2.WirelessMessages.SourceHubFull=§c%s§c處的無線集線器已滿
 item.appliedenergistics2.WirelessMessages.HubToHub=§c無線集線器不能互相連線
 item.appliedenergistics2.WirelessMessages.ModeToggle=§6%s§r+右鍵以切換模式
-item.appliedenergistics2.WirelessMessages.Security=安全違規 - 你沒有修改這個網路的許可權
+item.appliedenergistics2.WirelessMessages.Security=安全違規 - 你沒有修改這個網路的權限
 item.appliedenergistics2.WirelessMessages.DimensionMismatch=兩個接入器必須在同一維度內
 item.appliedenergistics2.WirelessMessages.InvalidTarget=§c無效目標 - 必須是無線接入器或無線集線器
 item.appliedenergistics2.WirelessMessages.Cleared=§a已清除§e%s模式的列表
@@ -1228,7 +1228,7 @@ item.appliedenergistics2.WirelessMessages.rowBindFailed=§c無法連線 %s §c�
 
 # Commands
 commands.ae2.usage=ae2提供的指令 - 輸入/ae2 list檢視指令列表,/ae2 help _____檢視指令幫助.
-commands.ae2.permissions=你沒有足夠的許可權來執行該指令.
+commands.ae2.permissions=你沒有足夠的權限來執行該指令.
 commands.ae2.ChunkLogger=是否在伺服器日誌中記錄區塊載入與解除安裝。（OP）
 commands.ae2.ChunkLoggerOn=區塊日誌已開啟
 commands.ae2.ChunkLoggerOff=區塊日誌已關閉
@@ -1239,7 +1239,7 @@ commands.ae2.ProfilerFailed=此處沒有AE裝置
 commands.ae2.ProfilerGridDown=該網格離線
 commands.ae2.ProfilerStop=該網路每t平均延時(納秒):
 commands.ae2.ProfilerFailedDim=未知維度
-commands.ae2.ToggleFullAccess=開關無視安全終端設定的管理員AE完全存取許可權。
+commands.ae2.ToggleFullAccess=開關無視安全終端設定的管理員AE完全存取權限。
 commands.ae2.ToggleDebugTiming=開關tick管理器debug日誌
 commands.ae2.ToggleDebugPathfinding=開關尋路debug日誌
 

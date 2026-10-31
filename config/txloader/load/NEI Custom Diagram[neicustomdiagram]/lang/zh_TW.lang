@@ -32,7 +32,7 @@ neicustomdiagram.generators.enderstorage.chestoverview.personallabel=私人頻�
 neicustomdiagram.generators.enderstorage.chestoverview.frequencyslot=頻道
 neicustomdiagram.generators.enderstorage.chestoverview.inventoryslot=箱子庫存
 neicustomdiagram.generators.enderstorage.chestoverview.nodataheader=沒有箱子資料！
-neicustomdiagram.generators.enderstorage.chestoverview.nodatasubheader1=在伺服器上，該內容僅能在具有op許可權
+neicustomdiagram.generators.enderstorage.chestoverview.nodatasubheader1=在伺服器上，該內容僅能在具有op權限
 neicustomdiagram.generators.enderstorage.chestoverview.nodatasubheader2=或者配置選項已啟用時檢視。
 
 neicustomdiagram.generators.enderstorage.tankoverview.groupname=終界儲罐概況
@@ -44,7 +44,7 @@ neicustomdiagram.generators.enderstorage.tankoverview.personallabel=私人頻道
 neicustomdiagram.generators.enderstorage.tankoverview.frequencyslot=頻道
 neicustomdiagram.generators.enderstorage.tankoverview.tankslot=儲罐庫存
 neicustomdiagram.generators.enderstorage.tankoverview.nodataheader=沒有儲罐資料！
-neicustomdiagram.generators.enderstorage.tankoverview.nodatasubheader1=在伺服器上，該內容僅能在具有op許可權
+neicustomdiagram.generators.enderstorage.tankoverview.nodatasubheader1=在伺服器上，該內容僅能在具有op權限
 neicustomdiagram.generators.enderstorage.tankoverview.nodatasubheader2=或者配置選項已啟用時檢視。
 
 neicustomdiagram.generators.forge.fluidcontainers.groupname=Forge流體容器

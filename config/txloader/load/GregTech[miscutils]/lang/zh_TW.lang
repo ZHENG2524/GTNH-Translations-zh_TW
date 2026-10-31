@@ -8,7 +8,7 @@ itemGroup.MiscUtilOtherTab=[GT++] 物品 II
 itemGroup.MiscUtilBOP=[GT++] 超多生物群系附屬
 
 # Debug
-item.AAA_Broken.name=[錯誤] 請在Github上反饋這個合成
+item.AAA_Broken.name=[錯誤] 請在Github上回饋這個合成
 item.itemBedLocator_Base.name=床定位器[NBT測試]
 item.itemBaseItemWithCharge.name=基礎可充電物品
 item.miscutils_itemDebugShapeSpawner.name=[除錯用]塑形
@@ -3425,7 +3425,7 @@ tile.blockManaPod.name=法力莢莖
 tile.buildToolBlock.name=工具方塊
 tile.blockRedPlasma.name=紅色電漿方塊
 tile.pipeBlock.name=管道
-item.null.name=無效物品，請到github反饋
+item.null.name=無效物品，請到github回報
 
 
 # Added 24/8/19
@@ -3981,7 +3981,7 @@ gtpp.gui.atmospheric_reconditioner.slot.conveyor.1=§7放入一個相同等級�
 
 gtpp.chat.wireless_charger.mode_change=目前在%s %s。
 gtpp.chat.wireless_charger.mode_info=當前：%s %s
-gtpp.chat.wireless_charger.mode_info_player=擁有存取許可權的玩家：
+gtpp.chat.wireless_charger.mode_info_player=擁有存取權限的玩家：
 gtpp.chat.wireless_charger.mode=模式
 gtpp.chat.wireless_charger.mode.long=長距離
 gtpp.chat.wireless_charger.mode.local=本地

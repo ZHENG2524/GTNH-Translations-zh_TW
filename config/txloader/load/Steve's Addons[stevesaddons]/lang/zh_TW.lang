@@ -43,7 +43,7 @@ stevesaddons.chat.cleared=標籤已清除
 stevesaddons.chat.saved=標籤設定為"%s"
 
 stevesaddons.command.notFound=命令未找到
-stevesaddons.command.noPermission=您沒有使用該命令的許可權
+stevesaddons.command.noPermission=您沒有使用該命令的權限
 stevesaddons.command.loadFailed=載入失敗
 stevesaddons.command.loadSuccess=管理器載入於：%s
 stevesaddons.command.nothingToSave=複製器是空的

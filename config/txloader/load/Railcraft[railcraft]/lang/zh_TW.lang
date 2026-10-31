@@ -3,8 +3,8 @@ chat.railcraft.api.error=錯誤:API過期,請檢查遊戲後臺記錄以瞭解�
 command.railcraft.aliases=命令別名: %s
 command.railcraft.help=輸入'%s'以檢視幫助.
 command.railcraft.list=可用子命令:
-command.railcraft.permlevel=許可權級別: %s
-command.railcraft.noperms=你沒有使用該命令的許可權.
+command.railcraft.permlevel=權限級別: %s
+command.railcraft.noperms=你沒有使用該命令的權限.
 
 command.railcraft.railcraft.help=Railcraft的可用命令
 command.railcraft.railcraft.format=格式: /%s <sub-command>

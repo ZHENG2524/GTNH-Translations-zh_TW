@@ -3158,12 +3158,12 @@ GT5U.gui.text.drone_cam_pos=§b攝像頭%c：§7%s
 GT5U.gui.text.drone_level_excellent=§7等級：§a極佳
 GT5U.gui.text.drone_stored_energy=能量
 GT5U.gui.text.drone_locked_recipe=配方鎖定
-GT5U.gui.text.recipe_metrics_header=§3[ RECIPE METRICS ]
+GT5U.gui.text.recipe_metrics_header=§3[ 配方指標 ]
 GT5U.gui.text.recipe_none=§7沒有進行中的配方。
 GT5U.gui.text.recipe_connecting_1=§7連線中...
 GT5U.gui.text.recipe_connecting_2=§7正在同步 NBT
 GT5U.gui.text.recipe_connecting_3=§7配方資料流...
-GT5U.gui.text.recipe_no_conn_1=§7NO CONNECTION
+GT5U.gui.text.recipe_no_conn_1=§7無連線
 GT5U.gui.text.recipe_no_conn_2=§7請將準星對準
 GT5U.gui.text.recipe_no_conn_3=§7一臺機器以查看
 GT5U.gui.text.recipe_no_conn_4=§7配方詳細資料。
@@ -3607,7 +3607,7 @@ GT5U.tooltip.nac.hatch.vc.base.4=§e若輸入來自染色的真空傳送輸入�
 GT5U.tooltip.nac.hatch.vc.base.5=§e將會被置於具有對應顏色的真空傳送輸出埠中
 GT5U.tooltip.nac.module.scanner.current_eu=§e當前EU儲存：%s
 GT5U.tooltip.nac.module.scanner.total_buffer=§aEU總快取大小：%s
-GT5U.tooltip.nac.module.scanner.available_eut=§eMax EU/t: %s
+GT5U.tooltip.nac.module.scanner.available_eut=§e最大 EU/t：%s
 
 GT5U.tooltip.nac.color_grid.click_select=點選選擇
 GT5U.tooltip.nac.color_grid.selected=已選擇
@@ -4266,7 +4266,7 @@ GT5U.item.cable.loss.eu_volt=%s伏/米
 GT5U.item.cable.connected=已連線
 GT5U.item.cable.disconnected=已斷開
 GT5U.item.cable.swapped.s=線纜已更換：%s
-GT5U.item.cable.multi.infinite_loop=錯誤：線纜遍歷超出限制。這可能是個漏洞，請反饋此漏洞。
+GT5U.item.cable.multi.infinite_loop=錯誤：線纜遍歷超出限制。這可能是個漏洞，請回報此漏洞。
 GT5U.item.cable.multi.success=發現 %d 根線纜，已連線 %d 根線纜和 %d 個方塊。
 
 GT5U.item.tank.locked_to=內容物已鎖定為§e%s
@@ -5604,8 +5604,8 @@ gt.item.bottle.wine.name=葡萄酒
 gt.item.bottle.wine.tooltip=平淡無奇
 gt.item.bottle.vinegar.name=醋
 gt.item.bottle.vinegar.tooltip=精緻
-gt.item.bottle.potato_juice.name=土豆汁
-gt.item.bottle.potato_juice.tooltip=你在商店見過土豆汁嗎？沒有？這就是原因了。
+gt.item.bottle.potato_juice.name=馬鈴薯汁
+gt.item.bottle.potato_juice.tooltip=你在商店見過馬鈴薯汁嗎？沒有？這就是原因了。
 gt.item.bottle.vodka.name=伏特加
 gt.item.bottle.vodka.tooltip=不要與水混淆。
 gt.item.bottle.leninade.name=列寧檸檬汁
@@ -5674,22 +5674,22 @@ gt.item.bottle.holy_water.name=聖水
 gt.item.bottle.holy_water.tooltip=願聖板與你同在。
 
 ## Potato on a Stick
-gt.item.food.potato_on_stick.name=土豆串
+gt.item.food.potato_on_stick.name=馬鈴薯串
 gt.item.food.potato_on_stick.tooltip=看起來完全像一個螃蟹爪子
-gt.item.food.potato_on_stick_roasted.name=烤土豆串
+gt.item.food.potato_on_stick_roasted.name=烤馬鈴薯串
 gt.item.food.potato_on_stick_roasted.tooltip=看起來仍舊像一個螃蟹爪子
 
 ## Fries
-gt.item.food.raw_fries.name=土豆條
-gt.item.food.raw_fries.tooltip=這是條形的土豆
+gt.item.food.raw_fries.name=馬鈴薯條
+gt.item.food.raw_fries.tooltip=這是條形的馬鈴薯
 gt.item.food.fries.name=薯條
 gt.item.food.fries.tooltip=不要與Fry the Delivery Boy混淆。
 gt.item.food.packaged_fries.name=薯條
 gt.item.food.packaged_fries.tooltip=並未提供薯條
 
 ## Chips
-gt.item.food.raw_potato_chips.name=生土豆片
-gt.item.food.raw_potato_chips.tooltip=就像土豆一樣
+gt.item.food.raw_potato_chips.name=生馬鈴薯片
+gt.item.food.raw_potato_chips.tooltip=就像馬鈴薯一樣
 gt.item.food.potato_chips.name=薯片
 gt.item.food.potato_chips.tooltip=咔哧咔哧
 gt.item.food.chili_chips.name=辣薯片
@@ -5908,8 +5908,8 @@ gt.item.food.icecream_peachplasmaparfait.name=桃子電漿芭菲
 gt.item.food.icecream_peachplasmaparfait.tooltip=附贈一雙烤爐手套，以及一臺蓋革計數器
 gt.item.food.icecream_pipegetti.name=管路線團冰淇淋
 gt.item.food.icecream_pipegetti.tooltip=這不是管道，這是小零食
-gt.item.food.icecream_potato.name=土豆冰淇淋
-gt.item.food.icecream_potato.tooltip=蘇維埃俄羅斯時期就是土豆吃你了
+gt.item.food.icecream_potato.name=馬鈴薯冰淇淋
+gt.item.food.icecream_potato.tooltip=蘇維埃俄羅斯時期就是馬鈴薯吃你了
 gt.item.food.icecream_sorbet_redstone.name=紅石雪葩
 gt.item.food.icecream_sorbet_redstone.tooltip=出人意料的口感清新，略帶導電性
 gt.item.food.icecream_rocketfuelfloat.name=火箭燃料氣泡冰淇淋
@@ -6693,7 +6693,7 @@ nei.options.inventory.search.chemicalFormulaSearchMode.2=從不
 
 # Waila
 GT5U.waila.cable.throughput=吞吐量：§a%s§r EU/t（%s A）
-GT5U.waila.cable.avg=Avg (20t): §e%s§r EU/t (%s A)
+GT5U.waila.cable.avg=平均 (20t)：§e%s§r EU/t (%s A)
 GT5U.waila.cover=覆蓋板（%s）：%s
 GT5U.waila.cover.current_facing=當前朝向
 GT5U.waila.energy.stored=能量儲存：§a%s§r EU / §e%s§r EU
@@ -7768,7 +7768,7 @@ fluid.potion.poison.long.splash=加長噴濺型劇毒藥水
 fluid.potion.poison.splash=噴濺型劇毒藥水
 fluid.potion.poison.strong=加強劇毒藥水
 fluid.potion.poison.strong.splash=加長噴濺型劇毒藥水
-fluid.potion.potatojuice=土豆汁
+fluid.potion.potatojuice=馬鈴薯汁
 fluid.potion.purpledrink=紫色飲料
 fluid.potion.reedwater=甘蔗水
 fluid.potion.regen=再生藥水
@@ -7869,7 +7869,7 @@ gt.solar.system.kuiperbelt=柯伊伯帶
 gt.solar.system.enceladus=土衛二
 gt.solar.system.europa=木衛二
 gt.solar.system.oberon=天衛四
-gt.solar.system.none=NONE
+gt.solar.system.none=無
 gt.solar.system.makemake=鳥神星
 gt.solar.system.ganymede=木衛三
 gt.solar.system.triton=海衛一
@@ -9946,7 +9946,7 @@ GT5U.tooltip.eye-of-harmony.boundary-no-stocking-hatch=任何邊界外殼（不�
 GT5U.tooltip.eye-of-harmony.any-boundary-casing=任何邊界外殼
 
 # Research Station Structure Hints
-GT5U.tooltip.research-station.footer=§a資料棒放入控制器
+GT5U.tooltip.research-station.footer=§a快閃記憶體放入控制器
 
 # Forge of Gods Structure Hints
 GT5U.tooltip.forge-of-gods.module=諸神之鍛爐模組
@@ -10315,7 +10315,7 @@ gt.lang.face.front=前
 gt.lang.face.left=左
 gt.lang.face.none=無
 gt.lang.face.right=右
-gt.lang.face.top=Top
+gt.lang.face.top=上方
 
 # Named item copies
 gt.metaitem.01.32707.with.CopyOfTheOrb.name=資料球的副本

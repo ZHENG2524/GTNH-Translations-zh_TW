@@ -61,7 +61,7 @@ salisarcana:command.help.usage=§7/salisarcana-help §7[命令]§r
 salisarcana:command.help.args.cmd=§7§o[命令]§r Salis Arcana命令的名稱或別稱
 
 salisarcana:command.help.available=可用命令：
-salisarcana:command.help.nocommands=您沒有許可權使用已啟用的Salis Mundis命令
+salisarcana:command.help.nocommands=您沒有權限使用已啟用的Salis Mundis命令
 
 salisarrcana:command.infusion-symmetry.desc=獲得附近8格內或特定左邊的符文矩陣的對稱性
 salisarrcana:command.infusion-symmetry.usage=§7/salisarcana-infusion-symmetry §7[<x> §7<y> §7<z>]§r
@@ -69,7 +69,7 @@ salisarrcana:command.infusion-symmetry.args.coord=§7[<x> §7<y> §7<z>]§r 想�
 salisarrcana:command.infusion-symmetry.not_found_coords=指定座標沒有找到符文矩陣
 salisarrcana:command.infusion-symmetry.not_found_nearby=附近沒有找到符文矩陣
 salisarrcana:command.infusion-symmetry.found=§9這個符文矩陣可以穩定注魔不穩定度不超過§r%d§9的配方
-salisarrcana:command.infusion-symmetry.accessError=執行該命令時遇到錯誤，請向模組作者反饋該錯誤
+salisarrcana:command.infusion-symmetry.accessError=執行該命令時遇到錯誤，請向模組作者回報該錯誤
 
 salisarcana:command.list-research.desc=按照魔導手冊中的分組列出已註冊的神秘時代4研究
 salisarcana:command.list-research.usage=§7/salisarcana-list-research §7[--player §7<玩家名>] §7[--search §7<搜尋詞>]§r
