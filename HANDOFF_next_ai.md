@@ -1,5 +1,27 @@
 # GTNH zh_TW 最新交接入口
 
+## 總覽與下一步（2026-10-31 收尾交接，最新入口）
+
+- 已完成：任務書 3,859 篇全數閱讀並對照英文（見下方各批與 `docs/PROOFREAD_2026-10-31_QUESTS2163-3859.md`）；162 條漏譯補齊；簡轉繁殘留字詞修正；譯名統一（投影機、網路卡、螢幕、軟碟、奈佩爾）；鋅礦沙礫、鋼箱（IronChest 補丁）、NAC `primitive.calibration.effect1` 補譯（最新 commit）。
+- 全部新文字**未同步遊戲、未遊戲內實測**；僅 LV／MV／HV 電壓提示經使用者實測。Release 最新為 v0.1.4（預發布）。
+- 結構檢查：`python3 tools/verify_translation.py --base HEAD~1` 無錯誤（共約 168,337 條值）。
+- 啟發式掃描仍有約 8,968 條「無漢字」值，多數是化學式、專有名詞、指令用法（刻意保留）；`GregTech_zh_TW.lang` 約 7,770 條需分辨哪些是真漏譯，Ztones 528、ServerUtilities 104、CraftPresence 76、Botania 74 為專有名詞居多。
+
+### 待辦（建議優先序）
+1. **使用者待決**：「電路」vs「電路板」統一（498 行、21 檔）。使用者認為電路＝PCB 線路、電路板＝實體板，尚未決定，先問再改。
+2. **遊戲內實測**：把最新 lang 同步到實例後抽查任務書、機器名、IronChest 鋼箱，再決定是否發 v0.1.5。同步前先備份。
+3. 兩份任務書待查項（`docs/PROOFREAD_*` 內「待查」表，約 193 項）：需遊戲或 jar 實測，不要憑猜測改。
+4. `GregTech_zh_TW.lang` 無漢字值逐段判斷是否真漏譯。
+5. 授權確認（簡體來源 GPL-3.0 vs 既有繁中 CC BY-NC-SA 4.0）仍是未解決事項，不可宣稱已解決。
+6. 模組更新後，Extra Utilities／IronChest 補丁與 GregTech 語言檔需重做。
+
+### 規則
+- commit 作者固定 `ZHENG2524 <347185527+ZHENG2524@users.noreply.github.com>`，結尾加 Co-Authored-By；不要出現使用者本名、Gmail、伺服器 IP、VeinMiner。
+- 歧義保留原值並列待查；不全域替換未核對術語；不改已實測的電壓提示。
+- 本檔私人細節（伺服器、本機路徑）在桌面 `HANDOFF_next_ai_v2.md`，不上傳 GitHub。
+
+---
+
 更新：2026-10-31（漏譯補齊＋第2073–2162篇閱讀）。此文件可公開；不含私人路徑或憑證。
 
 ## 鋼箱名稱與 v0.1.4（2026-10-31 第五次接續）
