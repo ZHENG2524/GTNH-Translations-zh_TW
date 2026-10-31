@@ -2,6 +2,12 @@
 
 更新：2026-10-31（漏譯補齊＋第2073–2162篇閱讀）。此文件可公開；不含私人路徑或憑證。
 
+## 鋼箱名稱與 v0.1.4（2026-10-31 第五次接續）
+
+- IronChest 6.1.6 內建 `zh_TW.lang` 把鋼箱寫成「銀箱」，導致遊戲內 Steel 版本顯示錯誤。`tools/patch_ironchest.py` 修正三處（STEEL、COPPERSTEEL、STEELGOLD），只改 jar 內的 `zh_TW.lang`。
+- 已在實例 mods 目錄套用補丁，原檔備份於 `GTNH-jar-backup/IronChest-6.1.6.jar.orig`；遊戲內尚未實測。
+- 發布 v0.1.4（預發布），驗證報告 `docs/verification-v0.1.4.json`，相對 v0.1.3 的 2,069 條修改；結構檢查報的 protected tokens 與新增鍵行數變動均為預期，已在發布說明列出。
+
 ## 鋅礦沙礫英文（2026-10-31 第四次接續）
 
 - 遊戲內「Zinc Gravel Ore」仍為英文：鍵 `block.ore.gravel.zinc.name` 只存在於 GTNHCoreMod 的 `dreamcraft/en_US.lang`，TConstruct 的 zh_TW 只有鐵／金／銅／錫／鋁／鈷六項。已在 `Tinkers' Construct[tinker]` 的 zh_TW 補上 `鋅礦沙礫`（新增一行，未改其他鍵）。
