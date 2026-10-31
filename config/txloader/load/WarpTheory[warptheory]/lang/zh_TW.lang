@@ -55,7 +55,7 @@ research.warptheory.warpsomething=你無意之中發現如果把一些肉暴露�
 # << Impure tear >>
 tc.research_name.warptheory.cleanserminor=汙穢淚水
 tc.research_text.warptheory.cleanserminor=魔法藥劑
-research.warptheory.warpcleanserminor=你為了處理扭曲已經花了太多時間,是時候嘗試找到一種擺脫它的方法了.你決定嘗試將發現的幾種清潔類物品混合起來.<BR>你成功了,但它的效果基於百分比,所以你無法完全擺脫扭曲.但至少可以避免那些最嚴重的扭曲效果(人形自走凋靈刷怪籠,拆家冠軍)(50扭曲時,生效機率為1%.150扭曲時,生效機率為100%)<BR>你懷疑如果有更好的材料,也許你能製作出更有效的版本.
+research.warptheory.warpcleanserminor=你為了處理扭曲已經花了太多時間,是時候嘗試找到一種擺脫它的方法了.你決定嘗試將發現的幾種清潔類物品混合起來.<BR>你成功了,但它的效果基於百分比,所以你無法完全擺脫扭曲.但至少可以避免那些最嚴重的扭曲效果(人形自走凋零刷怪籠,拆家冠軍)(50扭曲時,生效機率為1%.150扭曲時,生效機率為100%)<BR>你懷疑如果有更好的材料,也許你能製作出更有效的版本.
 
 # << pure tear >>
 tc.research_name.warptheory.cleanser=純淨淚水

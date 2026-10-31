@@ -67,7 +67,7 @@ languagefile {
     S:"Book.Thermal Boiler Manual.Page02"=建造時,首先在地上放置3x3的一層熱抑制機械方塊(中心為倉室),然後將鍋爐主方塊放置在第二層的側面中心處.
     S:"Book.Thermal Boiler Manual.Page03"=現在將剩餘的3個倉室放置在剩餘的3個側面的中心處.在第二層剩下的四個角放置熱抑制機械方塊.立方體中間只應空出一格.
     S:"Book.Thermal Boiler Manual.Page04"=最後,在頂層放置3x3的熱抑制機械方塊,同樣在中心處放置最後一個倉室.
-    S:"Book.Thermal Boiler Manual.Page05"=現在訪問鍋爐主方塊時,它應該不再告訴你結構不完整了(最下面一行).現在帶上一堆工具(鍛造錘、軟錘、螺絲刀、扳手電烙鐵和撬棍)去維護倉吧.
+    S:"Book.Thermal Boiler Manual.Page05"=現在存取鍋爐主方塊時,它應該不再告訴你結構不完整了(最下面一行).現在帶上一堆工具(鍛造錘、軟錘、螺絲刀、扳手電烙鐵和撬棍)去維護倉吧.
     S:"Book.Thermal Boiler Manual.Page06"=在維護倉GUI介面中,依次手持這六種工具右鍵.注意,你需要在揹包內攜帶錫或者鉛才能使用電烙鐵.
     S:"Book.Thermal Boiler Manual.Page07"=維護完成後,主方塊應該會告訴你需要用軟錘右鍵它,來啟動或重啟此多方塊機器.軟錘可以啟動或關閉機器.而機器在遇到一些嚴重故障時也會自己停止執行.
     S:"Book.Thermal Boiler Manual.Page08"=如果需要用岩漿來供給此裝置的話，你還需要新增一個岩漿濾網來從其中提取其他資源。濾網損壞後，鍋爐不會像渦輪機一樣爆炸。而要是你用的是太陽能鹽的話，就用不著濾網了。
@@ -3739,7 +3739,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_00833_Index_03=同維度傳輸時消耗512EU/t
     S:TileEntity_DESCRIPTION_00833_Index_04=跨維度傳輸時消耗2048EU/t
     S:TileEntity_DESCRIPTION_00833_Index_05=新增者：§2Alkalus §7- §c[GT++]
-    S:TileEntity_DESCRIPTION_00834_Index_01=遠端訪問超立方體發生器
+    S:TileEntity_DESCRIPTION_00834_Index_01=遠端存取超立方體發生器
     S:TileEntity_DESCRIPTION_00834_Index_02=連線管道以抽取物品
     S:TileEntity_DESCRIPTION_00834_Index_03=背面輸出
     S:TileEntity_DESCRIPTION_00834_Index_04=同維度傳輸時消耗512EU/t
@@ -11566,7 +11566,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_13106_Secondary_Index_16=   §7§m------------------------------
     S:TileEntity_DESCRIPTION_13106_Secondary_Index_17=§f結構太複雜了!
     S:TileEntity_DESCRIPTION_13106_Secondary_Index_18=§f請在主方塊上使用§9Structure§1Lib§r§f全息投影機,以檢視整體結構! 
-    S:TileEntity_DESCRIPTION_13109_Index_00=T.F.F.T的一站式訪問節點
+    S:TileEntity_DESCRIPTION_13109_Index_00=T.F.F.T的一站式存取節點
     S:TileEntity_DESCRIPTION_13115_Index_00=機器類型：§e蟲洞發生器§r
     S:TileEntity_DESCRIPTION_13115_Index_01=在兩臺蟲洞發生器間傳輸EU
     S:TileEntity_DESCRIPTION_13115_Index_02=在控制器中放置成對的AE2量子糾纏奇點以連結蟲洞
@@ -13064,7 +13064,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_15312_Index_03=計時器執行時，機器中的一切都會受到傷害
     S:TileEntity_DESCRIPTION_15312_Index_04=機器也會自動收集內部掉落物
     S:TileEntity_DESCRIPTION_15312_Index_05=可透過引數儀進行配置
-    S:TileEntity_DESCRIPTION_15312_Index_06=(別塞只凋靈進去)
+    S:TileEntity_DESCRIPTION_15312_Index_06=(別塞只凋零進去)
     S:TileEntity_DESCRIPTION_15312_Index_07=§7§m-----------------------------------------
     S:TileEntity_DESCRIPTION_15312_Index_08=按住 §l[LSHIFT]§r§7 以顯示結構指導
     S:TileEntity_DESCRIPTION_15312_Secondary_Index_00=§f大小§7(§6寬§7x§6高§7x§6長§7)：§65§7x§64§7x§65§7§c(中空)
@@ -13080,7 +13080,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_15313_Index_00=機器類型：§e資料庫，DB§r
     S:TileEntity_DESCRIPTION_15313_Index_01=資料庫的控制器方塊
     S:TileEntity_DESCRIPTION_15313_Index_02=為裝配線提供更多快閃記憶體
-    S:TileEntity_DESCRIPTION_15313_Index_03=還可使多條裝配線訪問同一快閃記憶體
+    S:TileEntity_DESCRIPTION_15313_Index_03=還可使多條裝配線存取同一快閃記憶體
     S:TileEntity_DESCRIPTION_15313_Index_04=使用螺絲刀切換無線模式
     S:TileEntity_DESCRIPTION_15313_Index_05=§a支援TecTech多A能源倉與雷射倉!
     S:TileEntity_DESCRIPTION_15313_Index_06=§7§m-----------------------------------------
@@ -16148,7 +16148,7 @@ languagefile {
     S:bw.werkstoff.00095.name=黃氯汞
     S:bw.werkstoff.00095.tooltip=Hg₂ClO
     S:bw.werkstoff.00096.name=硬鋼
-    S:bw.werkstoff.00096.tooltip=The break in the line
+    S:bw.werkstoff.00096.tooltip=線路中斷
     S:bw.werkstoff.00097.name=粗製硬鋼
     S:bw.werkstoff.00097.tooltip=(Fe₅C)₂VCr(Fe₅C)₇(Fe₅C)₉Mn₄Cr₄CSiV
     S:bw.werkstoff.00098.name=氟矽酸
@@ -16218,7 +16218,7 @@ languagefile {
     S:bw.werkstoff.10027.name=矽岩氣
     S:bw.werkstoff.10027.tooltip=誰需要它？
     S:bw.werkstoff.10028.name=矽岩瀝青
-    S:bw.werkstoff.10028.tooltip=Atomic runoff
+    S:bw.werkstoff.10028.tooltip=原子徑流
     S:bw.werkstoff.10029.name=乙醚
     S:bw.werkstoff.10029.tooltip=CH₃CH₂OCH₂CH₃
     S:bw.werkstoff.10030.name=三氯化銻溶液
@@ -70179,7 +70179,7 @@ languagefile {
     S:gt.blockmachines.industrialmixer.controller.tier.single.tooltip_secondary.15566=§f尺寸：§65§7x§65§7x§67§7（§6長§7x§6寬§7x§6高§7）\n§f結構：\n   §f控制器：  §7第二層正面中央\n   §65-45 §f攪拌機機械方塊\n   §630 §f任意等級玻璃\n   §624 §f鎢板金屬\n   §610 §f物品管道方塊§b（相同等級）\n   §65 §f鈦渦輪機械方塊\n   §e1+ §f能源倉：  §7任意攪拌機機械方塊\n   §e1  §f維護倉：  §7任意攪拌機機械方塊\n   §e1  §f消聲倉：  §7任意攪拌機機械方塊\n   §e1+ §f輸入匯流排/倉：§7任意攪拌機機械方塊\n   §e1+ §f輸出匯流排/倉：§7任意攪拌機機械方塊\n\n子通道§bglass§7確定§b玻璃等級\n子通道§bitem_pipe§7確定§b物品管道方塊等級\n§7§m------------------------------\n§f使用多方塊機器§9全息§1投影機§f來預覽或建造該結構！
     S:gt.blockmachines.industrialplatepress.controller.tier.single.tooltip=機器類型：§e折彎機，衝壓機床，工業衝壓機§r\n§4已棄用——機器控制器將在下一個大版本更新中移除！\n§4請查閱 NEI 瞭解新的控制器及轉換配方\n並行：每§f電壓§7增加§64§7\n執行速度：§a600%§7\n功率係數：§8100%§7\n§7每秒產生§5480§7點汙染\n§7§m-----------------------------------------\n按住§l[LSHIFT]§r§7以顯示結構指導
     S:gt.blockmachines.industrialplatepress.controller.tier.single.tooltip_secondary=§f尺寸：§63§7x§63§7x§63§7（§6長§7x§6寬§7x§6高§7）§c（中空）\n§f結構：\n   §f控制器：  §7正面中央\n   §66+ §f金屬加工機械方塊\n§f   輸入倉：  §7任意機械方塊\n§f   輸入匯流排：§7任意機械方塊\n§f   輸出匯流排：§7任意機械方塊\n§f   能源倉：  §7任意機械方塊\n§f   維護倉：  §7任意機械方塊\n§f   消聲倉：  §7任意機械方塊\n§7§m------------------------------\n§f使用多方塊機器§9全息§1投影機§f來預覽或建造該結構！
-    S:gt.blockmachines.industrialrockcrusher.controller.tier.single.tooltip=機器類型：§e碎石機§r\n並行：每§f電壓§7增加§68§7\n執行速度：§a300%§7\n功率係數：§b75%§7\n使用積體電路切換配方\n1 = 圓石，2 =石頭，3 = 黑曜石，4 = 玄武岩，5 = 深板岩，6 = 地獄岩，7 = 末地石\n在輸入匯流排中放入靈魂沙和藍冰以製作玄武岩\n在輸入匯流排中放入靈魂沙和岩漿塊以製作深板岩\n§7每秒產生§5100§7點汙染\n§7§m-----------------------------------------\n按住§l[LSHIFT]§r§7以顯示結構指導\n結構作者：§a§6VorTex§r§7
+    S:gt.blockmachines.industrialrockcrusher.controller.tier.single.tooltip=機器類型：§e碎石機§r\n並行：每§f電壓§7增加§68§7\n執行速度：§a300%§7\n功率係數：§b75%§7\n使用積體電路切換配方\n1 = 圓石，2 =石頭，3 = 黑曜石，4 = 玄武岩，5 = 深板岩，6 = 地獄岩，7 = 終界石\n在輸入匯流排中放入靈魂沙和藍冰以製作玄武岩\n在輸入匯流排中放入靈魂沙和岩漿塊以製作深板岩\n§7每秒產生§5100§7點汙染\n§7§m-----------------------------------------\n按住§l[LSHIFT]§r§7以顯示結構指導\n結構作者：§a§6VorTex§r§7
     S:gt.blockmachines.industrialrockcrusher.controller.tier.single.tooltip.31065=機器類型：§e碎石機§r\n§4已棄用，此控制器將在下次大更新時移除！\n§4請檢查NEI，瀏覽新控制器及其轉換配方\n並行：每§f電壓§7增加§68§7\n執行速度：§a300%§7\n功率係數：§b75%§7\n使用積體電路來決定配方\n1 = 圓石，2 = 石頭，3 = 黑曜石，4 = 玄武岩，5 = 深板岩，6 = 地獄岩\n輸入倉需要水和熔岩\n輸入匯流排需要靈魂沙和藍冰來製造玄武岩\n輸入匯流排需要靈魂沙和岩漿塊來製造深板岩\n§7每秒產生§5100§7點汙染\n§7§m-----------------------------------------\n按住§l[LSHIFT]§r§7以顯示結構指導
     S:gt.blockmachines.industrialrockcrusher.controller.tier.single.tooltip_secondary=§f尺寸：§65§7x§67§7x§65§7（§6長§7x§6寬§7x§6高§7）\n§f結構：\n   §f控制器：  §7第三層，正面中央\n   §650-55 §f熱處理機械方塊\n   §636 §f鎢框架\n   §612 §f任意等級玻璃\n   §e1+ §f能源倉：  §7任意機械方塊\n   §e1 §f維護倉：  §7任意機械方塊\n   §e1 §f消聲倉：  §7任意機械方塊\n   §e0+ §f輸入匯流排：§7任意機械方塊\n   §e1+ §f輸出匯流排：§7任意機械方塊\n\n水和岩漿在機器成型時自動免費生成\n子通道§bglass§7確定§b玻璃等級\n§7§m------------------------------\n§f使用多方塊機器§9全息§1投影機§f來預覽或建造該結構！
     S:gt.blockmachines.industrialrockcrusher.controller.tier.single.tooltip_secondary.31065=§f尺寸：§63§7x§63§7x§64§7（§6長§7x§6寬§7x§6高§7）§c（中空）\n§f結構：\n   §f控制器： §7正面底中\n   §69+ §f熱處理機械方塊\n   §616 §f熱容機械方塊\n§f   輸入匯流排：§7任意熱處理機械方塊\n§f   輸入倉：  §7任意熱處理機械方塊\n§f   輸出匯流排：§7任意熱處理機械方塊\n§f   能源倉：  §7任意熱處理機械方塊\n§f   維護倉：  §7任意熱處理機械方塊\n§f   消聲倉：  §7任意熱處理機械方塊\n§7§m------------------------------\n§f使用多方塊機器§9全息§1投影機§f來預覽或建造該結構！

@@ -54,7 +54,7 @@ botaniamisc.neiratio=放大：%s（按住 Shift 還原）
 botaniamisc.bottleTooltip=味道如何
 botaniamisc.coarseDirt0=劣質土,草
 botaniamisc.coarseDirt1=無法生長
-botaniamisc.spawnerTip=Tip:使用刷怪蛋改變怪物類型
+botaniamisc.spawnerTip=Tip:使用生怪蛋改變怪物類型
 botaniamisc.shardLevel=碎片能量 %s
 botaniamisc.lexiconIndex=辭典目錄
 botaniamisc.hasIvy=有永恆常春藤
@@ -99,7 +99,7 @@ botaniamisc.lexiconOptions0=植物魔法設定
 botaniamisc.lexiconOptions1=在遊戲中配置植物魔法
 botaniamisc.lexiconOptions2=某些設定可能需要重啟遊戲
 botaniamisc.hasPhantomInk=&b幻影藥水染色
-botaniamisc.pinkinatorDesc=直接對凋靈使用
+botaniamisc.pinkinatorDesc=直接對凋零使用
 botaniamisc.relicUnbound=&6遺物&7, 未繫結
 botaniamisc.relicSoulbound=&6遺物&7, 靈魂繫結至&f%s
 botaniamisc.notYourSagittarius=&4該遺物不屬於你
@@ -200,7 +200,7 @@ botania.nei.quickInfo:flower.nightshadePrimus=這朵花不能摘取，但以小�
 botania.nei.quickInfo:item.bone~0=你要倒黴了
 botania.nei.quickInfo:item.lexicon~0=你期待著什麼?
 botania.nei.quickInfo:item.terrasteel~4=將正確的材料放在泰拉凝聚板上以製作泰拉鋼
-botania.nei.quickInfo:item.enderAirBottle~15=要獲取它,只需在在末地用玻璃瓶右擊
+botania.nei.quickInfo:item.enderAirBottle~15=要獲取它,只需在在終界用玻璃瓶右擊
 
 # BUILDCRAFT INTEGRATION
 botania.triggers.manaDetector=魔力脈衝
@@ -474,9 +474,9 @@ entity.Botania.botania:thrownItem.name=投擲物品
 entity.Botania.botania:magicMissile.name=魔法飛彈
 entity.Botania.botania:thornChakram.name=荊棘飛輪
 entity.Botania.botania:corporeaSpark.name=多媒體火花
-entity.Botania.botania:enderAirBottle.name=瓶裝末地空氣
+entity.Botania.botania:enderAirBottle.name=瓶裝終界空氣
 entity.Botania.botania:poolMinecart.name=魔力池礦車
-entity.Botania.botania:pinkWither.name=粉色凋靈
+entity.Botania.botania:pinkWither.name=粉色凋零
 entity.Botania.botania:playerMover.name=微光束
 entity.Botania.botania:manaStorm.name=魔力風暴中心
 entity.Botania.botania:babylonWeapon.name=貯藏庫武器
@@ -524,7 +524,7 @@ achievement.botania:dirtRodCraft.desc=製作一根泥棍子...哦不,是大地�
 achievement.botania:spawnerMoverUse=I can take off my (redacted)
 achievement.botania:spawnerMoverUse.desc=用一個生命聚合器來轉移刷怪籠
 achievement.botania:enderAirMake=Imitation Air
-achievement.botania:enderAirMake.desc=收集一瓶末地空氣
+achievement.botania:enderAirMake.desc=收集一瓶終界空氣
 achievement.botania:corporeaCraft=Drop Pop Candy
 achievement.botania:corporeaCraft.desc=合成一個使用多媒體網路的方塊
 achievement.botania:cacophoniumCraft=Noisy Lover Soul
@@ -1031,13 +1031,13 @@ tile.botania:petalBlock14.name=紅色花瓣塊
 tile.botania:petalBlock15.name=黑色花瓣塊
 tile.botania:corporeaIndex.name=多媒體索引
 tile.botania:corporeaFunnel.name=多媒體漏斗
-tile.botania:endStoneBrick0.name=末地石磚
-tile.botania:endStoneBrick1.name=鏨制末地石磚
+tile.botania:endStoneBrick0.name=終界石磚
+tile.botania:endStoneBrick1.name=鏨制終界石磚
 tile.botania:endStoneBrick2.name=終界石磚
 tile.botania:endStoneBrick3.name=豎紋終界石磚
-tile.botania:endStoneBrick0Slab.name=末地石磚臺階
-tile.botania:endStoneBrick0SlabFull.name=末地石磚臺階
-tile.botania:endStoneBrick0Stairs.name=末地石磚樓梯
+tile.botania:endStoneBrick0Slab.name=終界石磚臺階
+tile.botania:endStoneBrick0SlabFull.name=終界石磚臺階
+tile.botania:endStoneBrick0Stairs.name=終界石磚樓梯
 tile.botania:endStoneBrick2Slab.name=終界石磚臺階
 tile.botania:endStoneBrick2SlabFull.name=終界石磚臺階
 tile.botania:endStoneBrick2Stairs.name=終界石磚樓梯
@@ -1598,7 +1598,7 @@ item.botania:ancientWill4.name=威拉克的意志
 item.botania:ancientWill5.name=卡瑞的意志
 item.botania:corporeaSpark0.name=多媒體火花
 item.botania:corporeaSpark1.name=主媒體火花
-item.botania:enderAirBottle.name=瓶裝末地空氣
+item.botania:enderAirBottle.name=瓶裝終界空氣
 item.botania:livingwoodBow.name=活木弓
 item.botania:crystalBow.name=水晶弓
 item.botania:cosmetic0.name=黑領結
@@ -2268,10 +2268,10 @@ tile.elfGlass.name=精靈玻璃
 tile.elfGlassPane.name=精靈玻璃板
 tile.enchantedSoil.name=蘊魔土
 tile.enderEyeBlock.name=終界監視者
-tile.endStoneBrick.name=末地石磚
-tile.endStoneBrick0Slab.name=末地石磚臺階
-tile.endStoneBrick0SlabFull.name=末地石磚臺階
-tile.endStoneBrick0Stairs.name=末地石磚樓梯
+tile.endStoneBrick.name=終界石磚
+tile.endStoneBrick0Slab.name=終界石磚臺階
+tile.endStoneBrick0SlabFull.name=終界石磚臺階
+tile.endStoneBrick0Stairs.name=終界石磚樓梯
 tile.endStoneBrick2Slab.name=終界石磚臺階
 tile.endStoneBrick2SlabFull.name=終界石磚臺階
 tile.endStoneBrick2Stairs.name=終界石磚樓梯
@@ -2476,7 +2476,7 @@ botania.page.gardenOfGlass7=製作&1甘蔗&0
 botania.page.gardenOfGlass8=製作&1黏液球&0
 botania.page.gardenOfGlass9=也許可以給&1南瓜&0注入一些死去怪物的邪惡思想，來製作&1惡魔頭南瓜&0。透過將南瓜放置在兩個豎直放置的&1鐵柵欄&0上，這有點像&1雪傀儡&0，但會出現一個烈焰人&0。<br>以這種方式生成的&1烈焰人&0會掉落&1烈焰粉&0而不是&1烈焰棒&0。
 botania.page.gardenOfGlass11=除了照明，將&1魔力閃光&0放在出生點允許那些不慎丟掉&1植物魔法辭典&0的玩家們用一個&1樹苗&0來重新獲得它，透過手持&1樹苗&0右擊&1魔力閃光&0。<br>這只會在玩家失去他們的&1植物魔法辭典&0時生效。
-botania.page.gardenOfGlass12=最後，製作&1末地傳送門&0的配方
+botania.page.gardenOfGlass12=最後，製作&1終界傳送門&0的配方
 
 # -- LEXICA BOTANIA
 botania.entry.lexicon=植物魔法辭典
@@ -3679,9 +3679,9 @@ botania.page.sextant2=你畫了一個圓，來證明你的決心
 
 # - ENDER ARTEFACTS
 # -- EXTRACTING ENDER AIR
-botania.entry.enderAir=獲取末地空氣
-botania.tagline.enderAir=製造末地石的可投擲瓶子
-botania.page.enderAir0=&1末地&0的空氣看起來有一些變異的特性。如果在&1末地&0用空的&1玻璃瓶&0右擊就會收集到那裡的空氣，它也可以像噴濺藥水一樣扔出去，著陸點附近的&1石&0&1頭&0則會變成&1末地石&0。
+botania.entry.enderAir=獲取終界空氣
+botania.tagline.enderAir=製造終界石的可投擲瓶子
+botania.page.enderAir0=&1終界&0的空氣看起來有一些變異的特性。如果在&1終界&0用空的&1玻璃瓶&0右擊就會收集到那裡的空氣，它也可以像噴濺藥水一樣扔出去，著陸點附近的&1石&0&1頭&0則會變成&1終界石&0。
 
 # -- ENDER OVERSEER
 botania.entry.enderEyeBlock=終界監視者
@@ -3752,7 +3752,7 @@ botania.page.flightTiara3=添上羽翼（它們隨時都可以切換）
 # -- BASICS OF CORPOREA
 botania.entry.corporea=多媒體的基礎知識
 botania.tagline.corporea=物品管理系統
-botania.page.corporea0=&4多媒體&0是一個利用末地的能量和世界的空白空間來瞬間從點A到點B傳輸物品的魔力系統，無需任何連線部件。<br>這個系統透過&1火花&0的變種來運作，&1多媒體火花&0。這和普通的&1火花&0有一些共性，但也有一些區別。
+botania.page.corporea0=&4多媒體&0是一個利用終界的能量和世界的空白空間來瞬間從點A到點B傳輸物品的魔力系統，無需任何連線部件。<br>這個系統透過&1火花&0的變種來運作，&1多媒體火花&0。這和普通的&1火花&0有一些共性，但也有一些區別。
 botania.page.corporea1=首先，它們可以放在任何&4容器&0上方，例如&1箱子&0或&1發射器&0，不能是&4魔力容器&0，其次，有兩種&1多媒&0&1體火花&0，基礎的&1多媒體火花&0和&1主媒體火花&0。這些火花在類似網路的系統內工作，每個&1主媒&0&1體火花&0代表一個&4多媒體網路&0，其中的每個火花都可以與網路內的其他火花互動。
 botania.page.corporea2=當&1多媒體火花&0被放置或操作時，每個火花都會對周圍任何火花操作，將它們新增到一個&1主媒體火花&0所代表的網路內並繼續對周圍火花操作，形成鏈式反應。雖然每個火花只能涉及很短距離，但組合之後，整個網路可以擁有近乎無限的距離。
 botania.page.corporea3=&1多媒體火花&0可以檢視下方的容器，但只能從上方輸入物品。每個&1多媒體火花&0具有檢視網路內其他火花及其內容的功能，以及必要時命令它們的能力，取決於下方的方塊類型。
@@ -3806,11 +3806,11 @@ botania.page.corporeaRetainer2=因為&1多媒體固定器&0是作為多媒體攔
 botania.page.corporeaRetainer3=金魚的剋星
 
 # -- DECORATIVE END BLOCKS
-botania.entry.endStoneDecor=裝飾性末地方塊
-botania.tagline.endStoneDecor=一些末地風格的裝飾
-botania.page.endStoneDecor0=類似於其它石質方塊，&1末地石&0也能製成磚塊和鏨制石磚，磚塊可以跟&1石磚&0一樣用於製作樓梯和臺階。<br>&1終界珍珠&0可以與這些磚塊組合製作&1終界石磚&0，這些磚塊也可以用於製作樓梯和臺階。
-botania.page.endStoneDecor1=製作&1末地石磚&0
-botania.page.endStoneDecor2=製作&1鏨制末地石磚&0
+botania.entry.endStoneDecor=裝飾性終界方塊
+botania.tagline.endStoneDecor=一些終界風格的裝飾
+botania.page.endStoneDecor0=類似於其它石質方塊，&1終界石&0也能製成磚塊和鏨制石磚，磚塊可以跟&1石磚&0一樣用於製作樓梯和臺階。<br>&1終界珍珠&0可以與這些磚塊組合製作&1終界石磚&0，這些磚塊也可以用於製作樓梯和臺階。
+botania.page.endStoneDecor1=製作&1終界石磚&0
+botania.page.endStoneDecor2=製作&1鏨制終界石磚&0
 botania.page.endStoneDecor3=&1終界石磚&0，紫珀是個愚蠢的名字
 botania.page.endStoneDecor4=製作&1豎紋終界石磚&0
 
@@ -3849,13 +3849,13 @@ botania.page.luminizerTransport6=相信它，立旗吧
 # -- STARCALLER
 botania.entry.starSword=召星者
 botania.tagline.starSword=一把召喚流星的劍
-botania.page.starSword0=&1召星者&0是一把有著召喚流星得劍，在揮動它的時候，劍有機率從填上上召喚一個流星落到持有者所看的位置，這顆流星會對所有接觸到的實體造成傷害。製作這把劍可不是一個簡單的任務，它需要&1瓶裝末地空氣&0以及一把&1泰拉之刃&0。注意：這麼做會將泰拉之刃上的附魔消去。
+botania.page.starSword0=&1召星者&0是一把有著召喚流星得劍，在揮動它的時候，劍有機率從填上上召喚一個流星落到持有者所看的位置，這顆流星會對所有接觸到的實體造成傷害。製作這把劍可不是一個簡單的任務，它需要&1瓶裝終界空氣&0以及一把&1泰拉之刃&0。注意：這麼做會將泰拉之刃上的附魔消去。
 botania.page.starSword1=呼喊著，我的憤怒，無論如何...
 
 # -- THUNDERCALLER
 botania.entry.thunderSword=召雷者
 botania.tagline.thunderSword=一把召喚雷電的劍
-botania.page.thunderSword0=&1召雷者&0是一把能召喚雷電的雙刃。製作它需要&1泰拉之刃&0，&1瓶裝末地空氣&0以及一些雜七雜八的材料，&1召雷者&0犧牲了原本的遠距離攻擊能力，換取了能同時攻擊多個目標的能力。<br>攻擊時&1召雷者&0會形成一道可傳遞的閃電鏈，所有被傳遞的怪物都會受到傷害，每次傳遞都會降低傷害
+botania.page.thunderSword0=&1召雷者&0是一把能召喚雷電的雙刃。製作它需要&1泰拉之刃&0，&1瓶裝終界空氣&0以及一些雜七雜八的材料，&1召雷者&0犧牲了原本的遠距離攻擊能力，換取了能同時攻擊多個目標的能力。<br>攻擊時&1召雷者&0會形成一道可傳遞的閃電鏈，所有被傳遞的怪物都會受到傷害，每次傳遞都會降低傷害
 botania.page.thunderSword1=商業交涉必備利器
 
 # - BAUBLES AND ACCESSORIES
@@ -4097,7 +4097,7 @@ botania.tagline.gaiaRitual=嫉妒是蓋亞守護者的源泉!
 botania.page.gaiaRitual0=&4蓋亞儀式&0是一個由精靈所創立的程式，它是獲得&1蓋亞之魂&0即大地女神力量的精華的唯一途徑。<br>該儀式需要一個&4啟用的&0&1信標&0以及一些&1蓋亞水晶&0（繼續瀏覽）置於信標上高一格作為祭壇，祭品則是&1泰拉鋼錠&0。
 botania.page.gaiaRitual1=製作&1蓋亞水晶&0
 botania.page.gaiaRitual2=放置水晶（比信標高一格）
-botania.page.gaiaRitual3=要啟動儀式，需手持&1泰拉鋼錠&0shift右擊&1信標&0，再退後幾步準備開戰。這需要極好的準備工作，與&4蓋亞守護者&0的戰鬥會比與&4凋靈&0的還要艱難。一旦擊敗了&4守護者&0，就能獲得他們的獎勵：一些&1蓋亞之魂&0。
+botania.page.gaiaRitual3=要啟動儀式，需手持&1泰拉鋼錠&0shift右擊&1信標&0，再退後幾步準備開戰。這需要極好的準備工作，與&4蓋亞守護者&0的戰鬥會比與&4凋零&0的還要艱難。一旦擊敗了&4守護者&0，就能獲得他們的獎勵：一些&1蓋亞之魂&0。
 botania.page.gaiaRitual4=你最好記住以下幾點。首先極力推薦附魔的&1源質鋼護甲&0，遠優於傳統的&1鑽石護甲&0因為它能刷出&1小精靈&0。其次力推&1泰拉之刃&0，&4魔法藥水&0與各類&4飾品&0。<br>其次，&1信標&0提供的效果在戰鬥期間會被消除，準備階段時最好記住。<br>&1守護者&0的生命值很高，因此&4附魔&0和&4植物釀造&0是必須的!
 botania.page.gaiaRitual5=儀式的難度和獎勵取決於參與的人的數量。五人以上進行的儀式可能是一個災難，會造成可怕的混亂，不要嘗試組團刷儀式<br>最後，遠離那些紫色的東西。（蓋亞陷阱）
 

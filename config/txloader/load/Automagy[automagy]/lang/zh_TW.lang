@@ -449,7 +449,7 @@ Automagy.research_page.NETHERRUNE_GHAST.2=§l地獄之核§r - 每次生成消�
 
 Automagy.research_name.NETHERRUNE_SKELETON=符文黑曜石：骷髏
 Automagy.research_text.NETHERRUNE_SKELETON=血與骨。除去血。
-Automagy.research_page.NETHERRUNE_SKELETON.1=凋靈骷髏常見於地獄那神秘的堡壘之中，因此要掌握這個符文不僅需要找到骷髏還需要找到它們的堡壘。<BR>不幸的是，這些骷髏和堡壘直接的聯絡也會產生一些干擾，使得召喚更加不穩定。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §5適量§0。
+Automagy.research_page.NETHERRUNE_SKELETON.1=凋零骷髏常見於地獄那神秘的堡壘之中，因此要掌握這個符文不僅需要找到骷髏還需要找到它們的堡壘。<BR>不幸的是，這些骷髏和堡壘直接的聯絡也會產生一些干擾，使得召喚更加不穩定。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §5適量§0。
 
 Automagy.research_name.NETHERRUNE_SLIME=符文黑曜石：史萊姆
 Automagy.research_text.NETHERRUNE_SLIME=就像一個凝膠塊但是帶有酸性，還有一些火的特性。
@@ -647,14 +647,14 @@ Automagy.gui.filter.textFilterTooltip=用於過濾左側設定的物品\n你可�
 Automagy.gui.eagerChest.give=給
 Automagy.gui.eagerChest.take=取
 Automagy.gui.eagerChest.trade=開啟時與我交換
-Automagy.gui.eagerChest.quantityResult.giveWhitelist.1=填充訪問者揹包至
+Automagy.gui.eagerChest.quantityResult.giveWhitelist.1=填充存取者揹包至
 Automagy.gui.eagerChest.quantityResult.giveWhitelist.2=指定數量
 Automagy.gui.eagerChest.quantityResult.giveBlacklist.1=保留數量
 Automagy.gui.eagerChest.quantityResult.giveBlacklist.2=在箱內
 Automagy.gui.eagerChest.quantityResult.takeWhitelist.1=填充箱子至
 Automagy.gui.eagerChest.quantityResult.takeWhitelist.2=指定數量
 Automagy.gui.eagerChest.quantityResult.takeBlacklist.1=保留數量
-Automagy.gui.eagerChest.quantityResult.takeBlacklist.2=來自訪問者
+Automagy.gui.eagerChest.quantityResult.takeBlacklist.2=來自存取者
 
 Automagy.gui.finicalMaw.quantityResult.open=指定數量
 Automagy.gui.finicalMaw.quantityResult.limit=限制存量

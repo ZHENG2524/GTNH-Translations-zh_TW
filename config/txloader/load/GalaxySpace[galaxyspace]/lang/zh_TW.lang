@@ -8,9 +8,9 @@ achievement.thermal1GC.desc=合成隔熱套裝（T1）。
 achievement.thermal2GS=自帶空調
 achievement.thermal2GS.desc=合成熱力套裝（T2）。
 achievement.spacesuit1GS=就像真正的太空人
-achievement.spacesuit1GS.desc=合成宇航服。
+achievement.spacesuit1GS.desc=合成太空衣。
 achievement.spacesuit2GS=就像未來的太空人
-achievement.spacesuit2GS.desc=升級你的宇航服。
+achievement.spacesuit2GS.desc=升級你的太空衣。
 achievement.plasmatoolsGS=第四態
 achievement.plasmatoolsGS.desc=合成任意電漿工具。
 achievement.spacefoodGC=真空密封
@@ -424,14 +424,14 @@ item.plasmapickaxe.name=電漿鎬
 item.plasmahoe.name=電漿鋤
 item.plasmashovel.name=電漿鏟
 item.QuantBow.name=量子弓
-item.spacesuit_helmet.name=宇航盔
-item.spacesuit_plate.name=宇航服
-item.spacesuit_leg.name=宇航褲
-item.spacesuit_boots.name=宇航鞋
+item.spacesuit_helmet.name=太空頭盔
+item.spacesuit_plate.name=太空衣
+item.spacesuit_leg.name=太空褲
+item.spacesuit_boots.name=太空靴
 
-item.spacesuit_helmetglasses.name=宇航服感測器眼鏡
-item.spacesuit_jetplate.name=宇航服噴氣揹包
-item.spacesuit_gravityboots.name=宇航服重力靴子
+item.spacesuit_helmetglasses.name=太空衣感測器眼鏡
+item.spacesuit_jetplate.name=太空衣噴氣揹包
+item.spacesuit_gravityboots.name=太空衣重力靴子
 
 item.Ingots.name=金屬錠
 item.LeadIngot.name=鉛錠
@@ -513,7 +513,7 @@ item.Icon.name=圖示
 
 potion.radiation=恆星輻射
 
-tooltip.spacesuit=提供宇航服功能
+tooltip.spacesuit=提供太空衣功能
 
 # SCHEMATICS Gui
 schematic.rocketT2.name=2階火箭
@@ -539,7 +539,7 @@ gui.hdp8.desc=8階
 gui.thermal2.desc1=2階
 gui.thermal2.desc2=保護你遠離恆星的輻射。
 gui.spacesuit.desc=高強度的套裝。 可以穩定氣壓。此外，頭盔使你可在水下待更長時間。
-gui.ssglasses.desc=宇航服感測器眼鏡讓你在山洞裡能看到礦石。
+gui.ssglasses.desc=太空衣感測器眼鏡讓你在山洞裡能看到礦石。
 gui.ssjetplate.desc=整合的噴氣揹包讓你在星球上快速移動。
 gui.ssboots.desc=附加的緻密鎂板能增加你的重量。
 

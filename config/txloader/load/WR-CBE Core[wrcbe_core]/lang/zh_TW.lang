@@ -91,7 +91,7 @@ wrcbe_core.param.jam.opjammed2=%s：%s被頻率%s遮蔽了
 
 wrcbe_core.param.open.usage=用法：freq open [playername] [frequency range | all | default]
 wrcbe_core.param.open.usage1=解除[frequency range]對[playername]的遮蔽
-wrcbe_core.param.open.jammed=你已被授予頻率%d的訪問許可權
-wrcbe_core.param.open.jammed2=你已被授予頻率%s的訪問許可權
-wrcbe_core.param.open.opjammed=%s：%s被授予頻率%d的訪問許可權
-wrcbe_core.param.open.opjammed2=%s：%s被授予頻率%s的訪問許可權
+wrcbe_core.param.open.jammed=你已被授予頻率%d的存取許可權
+wrcbe_core.param.open.jammed2=你已被授予頻率%s的存取許可權
+wrcbe_core.param.open.opjammed=%s：%s被授予頻率%d的存取許可權
+wrcbe_core.param.open.opjammed2=%s：%s被授予頻率%s的存取許可權

@@ -2193,7 +2193,7 @@ tile.blockMiningExplosives.name=礦用炸藥
 tile.blockHellFire.name=地獄之火
 tile.blockTradeBench.name=貿易臺
 tile.blockModularity.name=模組化工作台
-tile.blockBlackGate.name=凋靈籠子
+tile.blockBlackGate.name=凋零籠子
 tile.blockTankXpConverter.name=經驗轉換器
 
 # Everglades Blocks
@@ -3981,7 +3981,7 @@ gtpp.gui.atmospheric_reconditioner.slot.conveyor.1=§7放入一個相同等級�
 
 gtpp.chat.wireless_charger.mode_change=目前在%s %s。
 gtpp.chat.wireless_charger.mode_info=當前：%s %s
-gtpp.chat.wireless_charger.mode_info_player=擁有訪問許可權的玩家：
+gtpp.chat.wireless_charger.mode_info_player=擁有存取許可權的玩家：
 gtpp.chat.wireless_charger.mode=模式
 gtpp.chat.wireless_charger.mode.long=長距離
 gtpp.chat.wireless_charger.mode.local=本地
@@ -4019,7 +4019,7 @@ gtpp.book.thermal_boiler.page01=首先，地熱鍋爐想要正常工作需要做
 gtpp.book.thermal_boiler.page02=建造時，首先在地上放置3x3的一層熱抑制機械方塊（中心為倉室）,然後將鍋爐主方塊放置在第二層的側面中心處。
 gtpp.book.thermal_boiler.page03=現在將剩餘的3個倉室放置在剩餘的3個側面的中心處。在第二層剩下的四個角放置熱抑制機械方塊。立方體中間只應空出一格。
 gtpp.book.thermal_boiler.page04=最後，在頂層放置3x3的熱抑制機械方塊，同樣在中心處放置最後一個倉室。
-gtpp.book.thermal_boiler.page05=現在訪問鍋爐主方塊時,它應該不再告訴你結構不完整了（最下面一行）.現在帶上一堆工具（鍛造錘、軟錘、螺絲刀、扳手電烙鐵和撬棍）去維護倉吧.
+gtpp.book.thermal_boiler.page05=現在存取鍋爐主方塊時,它應該不再告訴你結構不完整了（最下面一行）.現在帶上一堆工具（鍛造錘、軟錘、螺絲刀、扳手電烙鐵和撬棍）去維護倉吧.
 gtpp.book.thermal_boiler.page06=在維護倉GUI介面中，依次手持這六種工具右鍵。注意，你需要在揹包內攜帶錫或者鉛才能使用電烙鐵。
 gtpp.book.thermal_boiler.page07=維護完成後，主方塊應該會告訴你需要用軟錘右鍵它，來啟動或重啟此多方塊機器。軟錘可以啟動或關閉機器。而機器在遇到一些嚴重故障時也會自己停止執行。
 gtpp.book.thermal_boiler.page08=如果需要用岩漿來供給此裝置的話，你還需要新增一個岩漿濾網來從其中提取其他資源。濾網損壞後，鍋爐不會像渦輪機一樣爆炸。而要是你用的是太陽能鹽的話，就用不著濾網了。

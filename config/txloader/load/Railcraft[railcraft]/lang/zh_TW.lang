@@ -417,7 +417,7 @@ railcraft.gui.energy.unloader.wait=等待直至全空
 railcraft.gui.energy.cart.power.label=能量等級監測器：
 
 railcraft.gui.engrave.entercode=輸入解鎖密碼:
-railcraft.gui.engrave.getmore1=訪問以下連結
+railcraft.gui.engrave.getmore1=存取以下連結
 railcraft.gui.engrave.getmore2=來找到更多解鎖密碼!
 railcraft.gui.engrave.openunlock=解鎖徽章
 railcraft.gui.engrave.unlock.exists=複製!

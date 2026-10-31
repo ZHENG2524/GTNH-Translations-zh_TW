@@ -8,13 +8,13 @@ config.Loot.tooltip=調整戰利品模組設定.
 
 chat.cofh.secure=這是屬於%s的私有物品!繼續嘗試接近將會被立刻消滅!
 chat.cofh.secureItem=現在這個物品屬於你.
-chat.cofh.secureNotice=注意:伺服器管理員可以任意訪問伺服器上受“保護”的方塊.
+chat.cofh.secureNotice=注意:伺服器管理員可以任意存取伺服器上受“保護”的方塊.
 
 enchant.cofh.holding=擴容
 enchant.cofh.multishot=萬箭
 
-info.cofh.access=訪問
-info.cofh.accessMode=訪問模式
+info.cofh.access=存取
+info.cofh.accessMode=存取模式
 info.cofh.accessPublic=公開
 info.cofh.accessRestricted=受限
 info.cofh.accessPrivate=私有
@@ -190,7 +190,7 @@ info.cofh.tutorial.tabConfiguration.0=該配置欄可以設定物品如何進入
 info.cofh.tutorial.tabConfiguration.1=該配置欄可以設定能量如何在裝置間傳輸.
 info.cofh.tutorial.tabConfiguration.2=該配置欄可以設定該裝置的操作模式.
 info.cofh.tutorial.tabRedstone=紅石控制配置欄用來設定裝置對紅石訊號的響應.
-info.cofh.tutorial.tabSecurity=安全控制欄用來設定機器的訪問許可權控制.
+info.cofh.tutorial.tabSecurity=安全控制欄用來設定機器的存取許可權控制.
 
 item.invalid.name=無效物品（請銷毀之）
 

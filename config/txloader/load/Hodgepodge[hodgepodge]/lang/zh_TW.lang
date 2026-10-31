@@ -21,7 +21,7 @@ item.dyePowder.name=染料
 item.skull.name=骷髏
 item.fish.name=魚
 
-entity.Skeleton.wither.name=凋靈骷髏
+entity.Skeleton.wither.name=凋零骷髏
 entity.MinecartRideable.name=礦車
 entity.MinecartChest.name=運輸礦車
 entity.MinecartFurnace.name=動力礦車

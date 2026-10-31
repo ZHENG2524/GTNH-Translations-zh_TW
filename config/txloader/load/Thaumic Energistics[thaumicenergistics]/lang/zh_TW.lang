@@ -130,7 +130,7 @@ thaumicenergistics.research_page.TEIO.2=§l儲存匯流排§r<BR>將輸入和輸
 # Research Arcane crafting terminal
 tc.research_name.thaumicenergistics.TEARCANETERM=奧術合成終端
 tc.research_text.thaumicenergistics.TEARCANETERM=利用魔法§o與科技§r來合成
-thaumicenergistics.research_page.TEARCANETERM.1=你已發現將初始源質注入§l終端§r和§l奧術工作台§r，就能賦予終端合成奧術物品的能力。<BR>終端仍保有其訪問ME網路中物品的能力，保證了快速高效的合成，還提供了儲存並交換護甲的能力，在你需要快速減免Vis消耗時你會用到的。
+thaumicenergistics.research_page.TEARCANETERM.1=你已發現將初始源質注入§l終端§r和§l奧術工作台§r，就能賦予終端合成奧術物品的能力。<BR>終端仍保有其存取ME網路中物品的能力，保證了快速高效的合成，還提供了儲存並交換護甲的能力，在你需要快速減免Vis消耗時你會用到的。
 
 # Research Essentia Provider
 tc.research_name.thaumicenergistics.TEESSPROV=源質供應器
@@ -204,7 +204,7 @@ thaumicenergistics.research_page.TEDISTILLATIONPATTERNENCODER.1=將AE自動合�
 # Research Golem Wifi Backpack
 tc.research_name.thaumicenergistics.TEGOLEMWIFIBACKPACK=無線傀儡揹包
 tc.research_text.thaumicenergistics.TEGOLEMWIFIBACKPACK=DigitalGolem423@ae2.net
-thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.1=你的傀儡不斷地奔波於各個箱子之間，幫你儲存收集到的物品，以供不時之需。在看到這一切後，你開始思考一個問題：有沒有可能把這個中間人裁掉？ 而當你想到你的ME網路可以做到無線訪問後，你恍然大悟：你完全可以用一樣的方法完成這個任務。<BR>在熱火朝天地奮鬥數小時後，你終於做出來了一個特製揹包，傀儡可以透過這個揹包訪問ME網路。然而這個揹包也有一些侷限。傀儡必須處在§lAccess Point§r的範圍內方可訪問網路。天線上的福魯伊克斯珍珠可以告訴你傀儡是否能訪問ME網路。
+thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.1=你的傀儡不斷地奔波於各個箱子之間，幫你儲存收集到的物品，以供不時之需。在看到這一切後，你開始思考一個問題：有沒有可能把這個中間人裁掉？ 而當你想到你的ME網路可以做到無線存取後，你恍然大悟：你完全可以用一樣的方法完成這個任務。<BR>在熱火朝天地奮鬥數小時後，你終於做出來了一個特製揹包，傀儡可以透過這個揹包存取ME網路。然而這個揹包也有一些侷限。傀儡必須處在§lAccess Point§r的範圍內方可存取網路。天線上的福魯伊克斯珍珠可以告訴你傀儡是否能存取ME網路。
 thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.2=有鑑於連線網路也需要耗能，你對充能器做了些修改，使得它可以從兩個內嵌的閃耀之光中吸取能量。充能後，揹包僅有一小段可與網路建立連線的時間。在這段寶貴的時間裡傀儡便可與網路進行無線互動。<BR>要將揹包與你的網路連線，將其置於安全終端中即可。<LINE>隨著你對傀儡學研究的不斷深入，請不要忘記繼續瀏覽本頁以檢視新的用法。
 thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.3=§n迷彩§r<BR>各種迷彩可以為揹包帶來各種不同的風格。可用的偽裝材質有：神秘塊（預設），宏偉之木，磚，草垛，油脂塊，腐肉塊，石頭，鐵塊，金塊以及鑽石塊。<BR>手持目標方塊右擊背有揹包的傀儡以改變迷彩。
 thaumicenergistics.research_page.TEGOLEMWIFIBACKPACK.COREGATHER=§n聚集核心 解鎖§r<IMG>thaumicenergistics:textures/gui/states.png:16:0:16:16:1.0</IMG>裝備有§l聚集核心§r的傀儡可將收集到的物品直接存入網路。單次儲存物品之最大數取決於傀儡管理每次充能的效率。

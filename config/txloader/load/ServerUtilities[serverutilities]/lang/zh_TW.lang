@@ -87,7 +87,7 @@ serverutilities.select_item.display_name=設定顯示名稱
 serverutilities.select_team.gui=選擇組
 
 serverutilities.world.dimension.overworld=主世界
-serverutilities.world.dimension.end=末地
+serverutilities.world.dimension.end=終界
 serverutilities.world.dimension.nether=地獄
 
 # Config

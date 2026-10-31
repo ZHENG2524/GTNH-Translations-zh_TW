@@ -44,7 +44,7 @@ gui.labels.ae2wct.WirelessTermLabel=無線終端
 config.ae2wct.MaxPowerDesc=無線終端可容納的最大能量(AE)
 config.ae2wct.InfinityBoosterCfgDesc=啟用量子無限增幅器升級
 config.ae2wct.EasyModeDesc=啟用簡單模式(簡化合成+量子無限增幅器)
-config.ae2wct.BoosterDropChance=凋靈掉落量子無限增幅器的機率(當 %-100時, 總是掉落)
+config.ae2wct.BoosterDropChance=凋零掉落量子無限增幅器的機率(當 %-100時, 總是掉落)
 config.ae2wct.DisableBoosterDrop=啟用增幅器掉落-困難模式(true=啟用)
 config.ae2wct.MineTweakerOverride=啟用MineTweaker覆蓋(true=禁用所有合成表)
 config.ae2wct.DoVersionCheck=檢查更新

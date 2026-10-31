@@ -213,7 +213,7 @@ forbidden.research_page.TAINTSTONE.1=腐化之地並不是一個適合久留的�
 forbidden.research_name.ROD_infernal=煉獄杖柄
 forbidden.research_text.ROD_infernal=惡魔Vis容器
 forbidden.research_page.ROD_infernal.1=像您這般偉大而強力的神秘使，值得擁有一柄與身份相襯且炫酷強力的法杖。那些嬉皮的銀樹法杖根本無法勝任。您需要的法杖，必須要能夠作為彰顯權威的節杖。<BR><BR>你研究出一種注入地獄之力製造法杖的方法。煉獄法杖核心能夠容納%d點vis，並且能夠自動回覆Ignis源質到20%%的水平。當身處地獄，其他vis也能自動回覆到10%%的水平。
-forbidden.research_page.ROD_infernal.2=這柄法杖還附加一些針對地獄危險的防護法術。只要它留在物品欄內，就不僅能自動幫你撲滅身上的火焰，還能幫助你豁免凋靈效果。手持這柄法杖時，能夠完全免疫所有灼燒傷害。
+forbidden.research_page.ROD_infernal.2=這柄法杖還附加一些針對地獄危險的防護法術。只要它留在物品欄內，就不僅能自動幫你撲滅身上的火焰，還能幫助你豁免凋零效果。手持這柄法杖時，能夠完全免疫所有灼燒傷害。
 #
 forbidden.research_name.ROD_profane=瀆神杖柄
 forbidden.research_text.ROD_profane=在虛線上簽名（照單全收）
@@ -258,7 +258,7 @@ forbidden.research_page.CAP_vinteum.1=將魔導鈀杖端與溫特姆融合，可
 #
 forbidden.research_name.CAP_soul=終界杖端
 forbidden.research_text.CAP_soul=靈魂防護
-forbidden.research_page.CAP_soul.1=你已經製造出一種杖端，能夠安全引導末地毀滅性的能量。終界杖端引導Perditio源質時只有80%的效率，但對其他源質有90%的效率。<BR><BR>安裝在異域杖柄上的話，終界杖端能夠削減引導從末地引導來的能量對靈魂的腐蝕。
+forbidden.research_page.CAP_soul.1=你已經製造出一種杖端，能夠安全引導終界毀滅性的能量。終界杖端引導Perditio源質時只有80%的效率，但對其他源質有90%的效率。<BR><BR>安裝在異域杖柄上的話，終界杖端能夠削減引導從終界引導來的能量對靈魂的腐蝕。
 #
 forbidden.research_name.CAP_manasteel=魔鋼杖端
 forbidden.research_text.CAP_manasteel=魔力之秘

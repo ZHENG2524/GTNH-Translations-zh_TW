@@ -277,7 +277,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.desc=你已經發現棉花的諸多�
 
 # Quest: Your First Tool
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.name=§2§l你的第一把工具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=當你準備好了匠魂裡面各種組裝台、工具臺什麼的,你就可以開始製作你第一個§o真正的§r匠魂工具了. 如果你沒找到一個有匠魂冶煉爐的村莊來白嫖箱子中的部件,那麼你只能從燧石工具開始製作.%n%n讓我們首先來製作鎬子、鏟子和斧頭.%n%n記住,匠魂中大多數的原始工具部件都沒有顯示,但這不意味著你不能合成它們 - 模板和模具上的物品提示可以作為指引. %n%n剛做好的工具可能會比你現在用的GT工具要弱一點,但是隨著你使用時間的增加,這些工具也會越來越好.提升工具等級時有機率附送一個升級槽,而升級所需經驗隨著等級提升而增加.工具最高等級為99級,一共會增加20個升級槽. 組成工具的各個部件可被替換,但你必須將工具完全修復才可以替換部件.%n%n每次更換鎬頭後,你都需要重新提高採掘等級,才能發揮其全部的能力. 這把鎬子就可以從石頭->銅. 如果你有殭屍、骷髏或苦力怕的頭顱,那麼完全可以跳過這個提升採掘等級的步驟. 在這裡使用頭顱不會使用升級槽,但會改變工具外觀.%n%n物品=當採掘等級小於等於X時可用%n殭屍=1%n骷髏=2%n苦力怕=4%n凋靈骷髏=7%n地獄之星=8%n%n你可以使用紙繫結結增加一個升級槽,但你也可以透過工具等級獲得升級槽.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=當你準備好了匠魂裡面各種組裝台、工具臺什麼的,你就可以開始製作你第一個§o真正的§r匠魂工具了. 如果你沒找到一個有匠魂冶煉爐的村莊來白嫖箱子中的部件,那麼你只能從燧石工具開始製作.%n%n讓我們首先來製作鎬子、鏟子和斧頭.%n%n記住,匠魂中大多數的原始工具部件都沒有顯示,但這不意味著你不能合成它們 - 模板和模具上的物品提示可以作為指引. %n%n剛做好的工具可能會比你現在用的GT工具要弱一點,但是隨著你使用時間的增加,這些工具也會越來越好.提升工具等級時有機率附送一個升級槽,而升級所需經驗隨著等級提升而增加.工具最高等級為99級,一共會增加20個升級槽. 組成工具的各個部件可被替換,但你必須將工具完全修復才可以替換部件.%n%n每次更換鎬頭後,你都需要重新提高採掘等級,才能發揮其全部的能力. 這把鎬子就可以從石頭->銅. 如果你有殭屍、骷髏或苦力怕的頭顱,那麼完全可以跳過這個提升採掘等級的步驟. 在這裡使用頭顱不會使用升級槽,但會改變工具外觀.%n%n物品=當採掘等級小於等於X時可用%n殭屍=1%n骷髏=2%n苦力怕=4%n凋零骷髏=7%n地獄之星=8%n%n你可以使用紙繫結結增加一個升級槽,但你也可以透過工具等級獲得升級槽.
 
 # Quest: Upgrade 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.name=§2§l升級2.0
@@ -453,7 +453,7 @@ betterquesting.quest.bbaqMVmnQFyjDT-CHJKqQQ.desc=你已經獲得了第一批紙�
 
 # Quest: Your First Flint Sword
 betterquesting.quest.h_PK8qnyR9CBUoOhT9nwzA.name=§2§l你的第一把燧石劍
-betterquesting.quest.h_PK8qnyR9CBUoOhT9nwzA.desc=是時候升級一下你的木劍了。%n%n你只需要一根木棍、一根骨頭和一個燧石就可以製作這把新武器。不過，推薦你多收集一些燧石，用於修復這把劍。%n%n你暫時還不能用它殺只凋靈，但之後你還可以升級、改進這把武器。
+betterquesting.quest.h_PK8qnyR9CBUoOhT9nwzA.desc=是時候升級一下你的木劍了。%n%n你只需要一根木棍、一根骨頭和一個燧石就可以製作這把新武器。不過，推薦你多收集一些燧石，用於修復這把劍。%n%n你暫時還不能用它殺只凋零，但之後你還可以升級、改進這把武器。
 
 
 ## Quest Line: Tier 0.5 - Steam
@@ -606,7 +606,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.desc=製作橡膠現在變得更加�
 
 # Quest: Lit Way to Get Charred
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name=§3§l點燃製炭之路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=“木炭堆點火器”是一種批次生產木炭的替代方案。該裝置不消耗電力或蒸汽，但會產生大量汙染。操作步驟如下：%n%n1. 用磚塊搭建最大不超過11×11格的地板%n2. 在磚地板上鋪設1-5層高的原木（不能留有空隙）%n3. 將木炭堆點火器置於頂層原木中心格的正上方%n4. 用泥土或草方塊覆蓋原木堆其餘暴露面%n5. 木炭堆點火器將立即開始工作%n6. 經過一段時間，原木將轉化為易碎的木炭塊%n7. 使用斧頭破壞它以獲取木炭（幸運/時運附魔不會影響掉落率）%n%n如果這是你第一次搭建多方塊結構，請開啟揹包介面並將滑鼠懸停在物品上方，然後按住Shift鍵以檢視詳細物品提示瞭解建造要求，或訪問[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]獲取帶步驟圖解的詳細說明。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=“木炭堆點火器”是一種批次生產木炭的替代方案。該裝置不消耗電力或蒸汽，但會產生大量汙染。操作步驟如下：%n%n1. 用磚塊搭建最大不超過11×11格的地板%n2. 在磚地板上鋪設1-5層高的原木（不能留有空隙）%n3. 將木炭堆點火器置於頂層原木中心格的正上方%n4. 用泥土或草方塊覆蓋原木堆其餘暴露面%n5. 木炭堆點火器將立即開始工作%n6. 經過一段時間，原木將轉化為易碎的木炭塊%n7. 使用斧頭破壞它以獲取木炭（幸運/時運附魔不會影響掉落率）%n%n如果這是你第一次搭建多方塊結構，請開啟揹包介面並將滑鼠懸停在物品上方，然後按住Shift鍵以檢視詳細物品提示瞭解建造要求，或存取[url]https://wiki.gtnewhorizons.com/wiki/Charcoal_Pile_Igniter[/url]獲取帶步驟圖解的詳細說明。
 
 # Quest: Basic > Steam Lootbag Trade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.name=基礎時代/石器時代戰利品袋 -> 蒸汽時代戰利品袋
@@ -818,7 +818,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHA.desc=鐵門可以使你的廠房或�
 
 # Quest: Tame an Ocelot to Get a Friend
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKg.name=§3§l馴服豹貓才能交朋友
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKg.desc=擁有所需材料後,你將需要找到一隻豹貓來馴服.%n%n豹貓可以在叢林生物群系中找到.%n%n如果你找不到豹貓,還可以用刷怪蛋來召喚它.%n%n你可以透過給豹貓喂生魚來馴服它.所以在物品欄內帶上生魚,然後在快捷欄中選擇生魚.%n%n§3提示:馴服豹貓過程中,請確保周圍空曠,以便為豹貓提供足夠的移動空間.如果你周圍的空間太小,你將無法馴服豹貓.%n%n然後,手持生魚並保持不動.如果你移動了,會嚇跑豹貓的.如果你很安靜,豹貓最終會注意到你手中的魚,向你走來.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKg.desc=擁有所需材料後,你將需要找到一隻豹貓來馴服.%n%n豹貓可以在叢林生物群系中找到.%n%n如果你找不到豹貓,還可以用生怪蛋來召喚它.%n%n你可以透過給豹貓喂生魚來馴服它.所以在物品欄內帶上生魚,然後在快捷欄中選擇生魚.%n%n§3提示:馴服豹貓過程中,請確保周圍空曠,以便為豹貓提供足夠的移動空間.如果你周圍的空間太小,你將無法馴服豹貓.%n%n然後,手持生魚並保持不動.如果你移動了,會嚇跑豹貓的.如果你很安靜,豹貓最終會注意到你手中的魚,向你走來.
 
 # Quest: Advanced Solar Boilers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJVQ.name=§3§l高階太陽能鍋爐
@@ -879,7 +879,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=這應該是你首先要製作�
 
 # Quest: You're Gonna Hate This #1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name=§5§l你會討厭它們的#1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc=第一種你非常需要的東西.如果你想將物品從箱子或桶中抽出,你就會需要一個. %n%n跟物品管道或GT機器配合起來非常好用,用螺絲刀調整模式.%n%n空手Shift+右鍵覆蓋板可訪問其GUI.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc=第一種你非常需要的東西.如果你想將物品從箱子或桶中抽出,你就會需要一個. %n%n跟物品管道或GT機器配合起來非常好用,用螺絲刀調整模式.%n%n空手Shift+右鍵覆蓋板可存取其GUI.
 
 # Quest: You're Gonna Hate This #4
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.name=§5§l你會討厭它們的#4
@@ -887,7 +887,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.desc=第四種你非常需要的東�
 
 # Quest: You're Gonna Hate This #2
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name=§5§l你會討厭它們的#2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=第二種你非常需要的東西.當你想要將液體從儲罐中抽出時,你需要它.%n%n可貼在流體管道或GT機器/方塊上.使用螺絲刀進行調整.無法用於機器正面. 當你看向管道或者機器時,你可以使用網格來將覆蓋板貼到看不到的其他面上,你也可以對著網格使用螺絲刀來調整相應面的覆蓋板.%n%n使用扳手拆除機器或管道,會保留貼在上面的覆蓋板.當此機器或管道再次被放置後,覆蓋板將會在原有方向重新出現,且保留其中設定.透過這種方式,可以事先在開闊位置設定好機器的覆蓋板,然後再放置於比較狹小不便操作的位置.要移除覆蓋板,需要使用撬棍.%n%n它還可以進一步升級為可以精確控制流體傳輸速度的流體校準器.%n%n空手Shift+右鍵覆蓋板可訪問其GUI!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=第二種你非常需要的東西.當你想要將液體從儲罐中抽出時,你需要它.%n%n可貼在流體管道或GT機器/方塊上.使用螺絲刀進行調整.無法用於機器正面. 當你看向管道或者機器時,你可以使用網格來將覆蓋板貼到看不到的其他面上,你也可以對著網格使用螺絲刀來調整相應面的覆蓋板.%n%n使用扳手拆除機器或管道,會保留貼在上面的覆蓋板.當此機器或管道再次被放置後,覆蓋板將會在原有方向重新出現,且保留其中設定.透過這種方式,可以事先在開闊位置設定好機器的覆蓋板,然後再放置於比較狹小不便操作的位置.要移除覆蓋板,需要使用撬棍.%n%n它還可以進一步升級為可以精確控制流體傳輸速度的流體校準器.%n%n空手Shift+右鍵覆蓋板可存取其GUI!
 
 # Quest: Electric Macerator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=§5§l電力粉碎機
@@ -1339,7 +1339,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHRw.desc=已經有好幾個抽屜的圓�
 
 # Quest: Enderman Smelterman
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSQ.name=§5§l終界人冶煉爐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSQ.desc=需要終界珍珠?殺戮終界人來獲取珍珠實在是危險.你可以換種方式,把一隻終界人放進裝有熔融液體的冶煉爐,然後使用寶石鑄模將所獲的流體匯出,你就能安全地獲得終界珍珠了.%n%n終界人的生命值越高,就可以在裡面待得更久,你就能獲得越多的珍珠.  如果你能找到一隻有再生屬性的終界人,或是終界人刷怪籠,你將再也不缺珍珠了.稍後你甚至能製作EIO的電動刷怪籠來按需生產終界人. 也可以直接把冶煉爐建在末地,然後往裡面丟終界人.%n%n對再生終界人使用命名牌可以防止其被刷掉.  你需要讓在冶煉爐中的終界人看不到天空,否則它就能傳送離開.%n%n如果你沒能找到再生終界人,你也可以用硬幣買些終界人刷怪蛋.說不定你就幸運地刷出了再生終界人呢.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSQ.desc=需要終界珍珠?殺戮終界人來獲取珍珠實在是危險.你可以換種方式,把一隻終界人放進裝有熔融液體的冶煉爐,然後使用寶石鑄模將所獲的流體匯出,你就能安全地獲得終界珍珠了.%n%n終界人的生命值越高,就可以在裡面待得更久,你就能獲得越多的珍珠.  如果你能找到一隻有再生屬性的終界人,或是終界人刷怪籠,你將再也不缺珍珠了.稍後你甚至能製作EIO的電動刷怪籠來按需生產終界人. 也可以直接把冶煉爐建在終界,然後往裡面丟終界人.%n%n對再生終界人使用命名牌可以防止其被刷掉.  你需要讓在冶煉爐中的終界人看不到天空,否則它就能傳送離開.%n%n如果你沒能找到再生終界人,你也可以用硬幣買些終界人生怪蛋.說不定你就幸運地刷出了再生終界人呢.
 
 # Quest: Electric Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHXw.name=§5§l電爐
@@ -1775,8 +1775,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF8A.name=§6§l大型鋁流體單元
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF8A.desc=512桶還無法滿足你？ 大型鋁流體單元每個可容納32桶流體,最大堆疊64. 一格能裝32*64桶液體？ 那可是半個超級缸I!
 
 # Quest: Caging a Demon - Wither Killing Chamber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9w.name=§6§l囚禁一個惡魔————凋靈屠宰場
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9w.desc=曾經想要抓只凋靈,但搭建囚牢的唯一的選擇是不可移動的基岩？ 既然能合成玄鋼,那麼你就可以製造加強黑曜石,凋靈炸不動它. 如果你有電動刷怪籠提供凋靈骷髏頭,那麼加強黑曜石構成的囚牢對於手動殺死甚至自動化屠宰凋靈很有用.%n%n[note]提示:與原版黑曜石不同,加強黑曜石可以透過活塞移動,這可能會派上用場.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9w.name=§6§l囚禁一個惡魔————凋零屠宰場
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9w.desc=曾經想要抓只凋零,但搭建囚牢的唯一的選擇是不可移動的基岩？ 既然能合成玄鋼,那麼你就可以製造加強黑曜石,凋零炸不動它. 如果你有電動刷怪籠提供凋零骷髏頭,那麼加強黑曜石構成的囚牢對於手動殺死甚至自動化屠宰凋零很有用.%n%n[note]提示:與原版黑曜石不同,加強黑曜石可以透過活塞移動,這可能會派上用場.[/note]
 
 # Quest: Advanced Compressor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFKA.name=§6§l進階壓縮機
@@ -1804,7 +1804,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfA.desc=無損的MV超導導線怎麼�
 
 # Quest: Cough Cough - Something Needs to Be Done About the Smell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiQ.name=§6§l咳咳咳-需要處理下汙染了!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiQ.desc=鳥兒從天墜落,魚在河裡翻著肚皮,酸雨融化了地面...是時候處理垃圾、淨化空氣了.%n%n小型黑鋼渦輪可以滿足目前所需. 你需要2A的穩定電流才能保證汙染清洗機持續工作.%n%n譯者注: 如果去過末地的話,終末渦輪是不錯的選擇.%n%n用螺絲刀單擊+/-標誌可以改變汙染探測儀的設定. 另外,通常來說,更好(更大)的渦輪,清理汙染效果就越好. 程式碼太複雜,無法在此處進行詳細說明,但基本上就是這樣. 發電越多的渦輪 = 更能清理汙染的渦輪.%n%n[warn]本任務涵蓋了一種處理汙染的方法-還有其他的方法,包括從源頭上解決汙染...[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFiQ.desc=鳥兒從天墜落,魚在河裡翻著肚皮,酸雨融化了地面...是時候處理垃圾、淨化空氣了.%n%n小型黑鋼渦輪可以滿足目前所需. 你需要2A的穩定電流才能保證汙染清洗機持續工作.%n%n譯者注: 如果去過終界的話,終末渦輪是不錯的選擇.%n%n用螺絲刀單擊+/-標誌可以改變汙染探測儀的設定. 另外,通常來說,更好(更大)的渦輪,清理汙染效果就越好. 程式碼太複雜,無法在此處進行詳細說明,但基本上就是這樣. 發電越多的渦輪 = 更能清理汙染的渦輪.%n%n[warn]本任務涵蓋了一種處理汙染的方法-還有其他的方法,包括從源頭上解決汙染...[/warn]
 
 # Quest: You're Gonna Hate This in MV Too #6
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxQ.name=§6§lMV階段你也會討厭這個#6
@@ -1848,7 +1848,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_A.desc=無論你選擇了哪條路線,
 
 # Quest: There Can Be Only One...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGaw.name=§6§l只有一個人能活下來...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGaw.desc=...所以砍掉它們的腦袋吧. %n%n用你的工具為自己鍛造一柄劈刀吧,然後收集一些凋靈骷髏頭. %n%n[warn]如果你難以找到凋靈骷髏,等你到HV後,就可以在地獄放置一個骷髏電動刷怪籠.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGaw.desc=...所以砍掉它們的腦袋吧. %n%n用你的工具為自己鍛造一柄劈刀吧,然後收集一些凋零骷髏頭. %n%n[warn]如果你難以找到凋零骷髏,等你到HV後,就可以在地獄放置一個骷髏電動刷怪籠.[/warn]
 
 # Quest: Pipes, Pipes Everywhere
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyA.name=§6§l管道,管道無處不在
@@ -2349,7 +2349,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgQ.desc=大部分的離心機的配方�
 
 # Quest: Getting Your First Platinum
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9w.name=§9§l獲得第一塊鉑錠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9w.desc=高效的鉑處理相當複雜.但是現在,我們可以直接將其熔鍊成鉑錠.這可能不是最高效的方法,但是對於我們接下來要做的事情已經足夠了.%n%n在這個階段,鉑的最優來源是暮色森林中的鎳礦石,或末地石粉(如果你已經能在末地生存).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9w.desc=高效的鉑處理相當複雜.但是現在,我們可以直接將其熔鍊成鉑錠.這可能不是最高效的方法,但是對於我們接下來要做的事情已經足夠了.%n%n在這個階段,鉑的最優來源是暮色森林中的鎳礦石,或終界石粉(如果你已經能在終界生存).
 
 # Quest: Hidden Drawers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXg.name=§9§l隱藏式抽屜
@@ -2418,7 +2418,7 @@ betterquesting.quest.0fzaxas8R8OJzvYvqX5d9w.desc=或者，你可以使用生碳�
 
 # Quest: Pulverize the Planet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.name=§a§l粉碎星球
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.desc=就是字面的意思. 你可以把大部分的行星岩石扔到粉碎機裡打碎,這些被打碎的粉透過離心有一定機率產出很多有用的金屬或其他玩意.基於星球不同而產出不同. 這需要不少能量,但是我確信可以幫助到你.%n%n想要獲得鎢酸鋰,你可以離心之前粉碎的月塵,或是用HV以上的粉碎機粉碎末地石並將其離心,也可以離心終界黏漿(然後發現離心後不返還桶...).%n%n如果想要製造火箭的話,在能夠去出產此礦石的星球之前,你得透過以上方式獲取一點.然而,請注意你需要一臺具有鈦鉑釩線圈的工業高爐來將鎢鋼粉熔鍊為錠!%n%n[note]完成任務之一即可.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.desc=就是字面的意思. 你可以把大部分的行星岩石扔到粉碎機裡打碎,這些被打碎的粉透過離心有一定機率產出很多有用的金屬或其他玩意.基於星球不同而產出不同. 這需要不少能量,但是我確信可以幫助到你.%n%n想要獲得鎢酸鋰,你可以離心之前粉碎的月塵,或是用HV以上的粉碎機粉碎終界石並將其離心,也可以離心終界黏漿(然後發現離心後不返還桶...).%n%n如果想要製造火箭的話,在能夠去出產此礦石的星球之前,你得透過以上方式獲取一點.然而,請注意你需要一臺具有鈦鉑釩線圈的工業高爐來將鎢鋼粉熔鍊為錠!%n%n[note]完成任務之一即可.[/note]
 
 # Quest: Tier 4 (EV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsA.name=§a§l第4階段(EV)
@@ -2602,7 +2602,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGeA.desc=弄到一些誘變劑之後，�
 
 # Quest: Ender Egg
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGeQ.name=§a§l終界蛋
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGeQ.desc=下一步，我們得給它注入末地之源。先加入終末錠粉和熔融終界珍珠，以獲得一個終界蛋。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGeQ.desc=下一步，我們得給它注入終界之源。先加入終末錠粉和熔融終界珍珠，以獲得一個終界蛋。
 
 # Quest: Draconium Egg
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGeg.name=§a§l富集龍蛋
@@ -2927,7 +2927,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtA.desc=這個星球上唯一有趣的�
 
 # Quest: Venus Trip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtQ.name=§b§l金星之旅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtQ.desc=金星有3種新礦脈，量子錠和金紅石是最重要的。如果你之前還沒采夠矽岩的話，這裡也有。%n%n[note]如果你仍然需要的話，這裡也有火石貧瘠礦。[/note]%n%n§5警告！金星需要穿戴提供宇航服功能的全套護甲，否則你會在到達金星時被殺死！！%n%n檢視太空競賽任務章節以獲得更多資訊。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtQ.desc=金星有3種新礦脈，量子錠和金紅石是最重要的。如果你之前還沒采夠矽岩的話，這裡也有。%n%n[note]如果你仍然需要的話，這裡也有火石貧瘠礦。[/note]%n%n§5警告！金星需要穿戴提供太空衣功能的全套護甲，否則你會在到達金星時被殺死！！%n%n檢視太空競賽任務章節以獲得更多資訊。
 
 # Quest: Yttrium Barium Cuprate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtg.name=§b§l釔鋇銅氧合金
@@ -3661,7 +3661,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAErw.desc=想要將反應爐進一步升�
 
 # Quest: Learning Curve? Where We're Going There Are No Curves
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1Q.name=學習曲線？我們要去的地方沒有曲線
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1Q.desc=只有懸崖和萬丈深淵，稍不注意就會粉身碎骨。TecTech可以成為冒險、恐懼、滿足之源。%n%n感謝Piky/Scripted為我們摸索出一條坦途。這些任務上灑滿了先行者Scripted/Piky為你流下的鮮血。現在輪到你了！%n%n想要獲知TecTech的更多細節，訪問此wiki頁面[url]https://github.com/Technus/TecTech/wiki[/url] %n%n不過，在Discord中你能獲得更好的幫助。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1Q.desc=只有懸崖和萬丈深淵，稍不注意就會粉身碎骨。TecTech可以成為冒險、恐懼、滿足之源。%n%n感謝Piky/Scripted為我們摸索出一條坦途。這些任務上灑滿了先行者Scripted/Piky為你流下的鮮血。現在輪到你了！%n%n想要獲知TecTech的更多細節，存取此wiki頁面[url]https://github.com/Technus/TecTech/wiki[/url] %n%n不過，在Discord中你能獲得更好的幫助。
 
 # Quest: The Beginning of the End Game
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1g.name=畢業之路的開端
@@ -3994,7 +3994,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0g.desc=凱芙拉可以用於部分高�
 
 # Quest: Space Elevator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0w.name=太空電梯
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0w.desc=太空電梯是一個模組化結構.它可以安裝不同的太空電梯模組,以承擔如挖礦/抽取流體/組裝等不同的任務.%n%n開始時,你的太空電梯將擁有6個模組插槽.透過升級結構中的加速軌道方塊,加速軌道Mk-III將使你的太空電梯支援12個模組插槽,加速軌道Mk-V將擴充套件太空電梯至24個模組插槽.加速軌道方塊的等級也將影響能使用的太空電梯模組的最高等級.模組之間不共享I/O,即每個模組的介面中只能看到自己的I/O插槽.為了啟動太空電梯,你只需要為其中央結構供能,能量將自動分配給所有已插入的模組.%n%n插入模組併為其提供正確的I/O後,可以使用引數對其進行進一步配置.%n%n你可以在NEI檢視哪些流體可以透過太空鑽機模組抽取.它在工作時將消耗1A-UHV.氣體類型和行星類型是你需要調節的引數.%n%n在NEI中還可以檢視太空採礦模組可以獲得的所有礦石.部署無人機,安裝目標礦物所需要的鑽頭和連桿,並提供算力支援以及氦、鉍或氡電漿.提供更高等級的電漿會加速配方和並增加從配方中獲得的額外堆疊數量.透過調整引數,你可以設定並行數量,過載和距離.當無人機鑽頭配置與你設定的引數同時滿足多個配方時,模組將進行考慮權重的隨機選擇,你可以在NEI中檢視配方權重.%n%n太空電梯還可以讓你前往其他星球,但這是單程票,千萬注意!%n%n採礦模組還有迴圈模式.在靜態模式下,它將保持你設定好的距離.而在迴圈模式下,它將在每次配方檢查後更改其距離(你可以配置允許的距離範圍和每次改變的步長).%n%n這裡有一個很好的電子表格，可用於檢視這些插槽的材料機會和其他值:[url]https://docs.google.com/spreadsheets/d/1xRApa3HnQiJDstr8I5csIi24Mx4mJNsalRJh8PVa52M/edit#gid=1497391303[/url].%n%n[note]可以透過控制器訪問傳送功能.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM0w.desc=太空電梯是一個模組化結構.它可以安裝不同的太空電梯模組,以承擔如挖礦/抽取流體/組裝等不同的任務.%n%n開始時,你的太空電梯將擁有6個模組插槽.透過升級結構中的加速軌道方塊,加速軌道Mk-III將使你的太空電梯支援12個模組插槽,加速軌道Mk-V將擴充套件太空電梯至24個模組插槽.加速軌道方塊的等級也將影響能使用的太空電梯模組的最高等級.模組之間不共享I/O,即每個模組的介面中只能看到自己的I/O插槽.為了啟動太空電梯,你只需要為其中央結構供能,能量將自動分配給所有已插入的模組.%n%n插入模組併為其提供正確的I/O後,可以使用引數對其進行進一步配置.%n%n你可以在NEI檢視哪些流體可以透過太空鑽機模組抽取.它在工作時將消耗1A-UHV.氣體類型和行星類型是你需要調節的引數.%n%n在NEI中還可以檢視太空採礦模組可以獲得的所有礦石.部署無人機,安裝目標礦物所需要的鑽頭和連桿,並提供算力支援以及氦、鉍或氡電漿.提供更高等級的電漿會加速配方和並增加從配方中獲得的額外堆疊數量.透過調整引數,你可以設定並行數量,過載和距離.當無人機鑽頭配置與你設定的引數同時滿足多個配方時,模組將進行考慮權重的隨機選擇,你可以在NEI中檢視配方權重.%n%n太空電梯還可以讓你前往其他星球,但這是單程票,千萬注意!%n%n採礦模組還有迴圈模式.在靜態模式下,它將保持你設定好的距離.而在迴圈模式下,它將在每次配方檢查後更改其距離(你可以配置允許的距離範圍和每次改變的步長).%n%n這裡有一個很好的電子表格，可用於檢視這些插槽的材料機會和其他值:[url]https://docs.google.com/spreadsheets/d/1xRApa3HnQiJDstr8I5csIi24Mx4mJNsalRJh8PVa52M/edit#gid=1497391303[/url].%n%n[note]可以透過控制器存取傳送功能.[/note]
 
 # Quest: Extract what you want
 betterquesting.quest.LzCq9t0cT4-_TizIr_Iq_A.name=提取你想要的
@@ -4079,7 +4079,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKTA.desc=想要製造生物系列電路�
 
 # Quest: The Final Frontier?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWA.name=最後的邊疆?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWA.desc=進度中最後一個普通的火箭.在這之後只有T9星系的母艦和漆黑世界(Deep-Dark)了,其內蘊含了幾乎所有的礦石,還有更多的一些東西.%n%n雖然8階火箭可以讓你登陸6顆新的星球,但只有兩種新礦脈.%n%n巴納德星系在星圖的西北偏北,你可以到訪巴納德C、E和F.%n半人馬星系在NE東北位置,你可以登陸半人馬Bb(比鄰星無法登陸).[note]記得穿上宇航服![/note]%n鯨魚座T星系在西南偏南部,你可以到訪宜居行星鯨魚座T星E.%n織女座星系在西北偏西,而你可以登陸織女座B.%n%n新礦脈為鎘和釤礦脈. 新礦石有: 鎘、銫、鈰、鑭、釹、釤和熔火之石.%n%n在巴納德E、F,鯨魚座T星E和織女座B都可以透過貧瘠礦獲得覺醒龍錠粉.%n在巴納德F有基岩錠的貧瘠礦.%n在織女座B有無盡催化劑的貧瘠礦.%n%n除了礦石和星球石頭,還可以收集一些巴納德C樹苗和泥土,這樣就能回去自己種植了(拉多X). 到處都是的彩虹晶體打碎後會掉落神秘水晶碎片.%n%n更重要的是在鯨魚座T星E收集藻類. UEV的電路板需要這些藻類作為原料,雖然之後可以透過工業手段生產,但你需要一定數量的初始藻類. 不明液體可以在巴納德C透過地面湖泊或地下流體井獲取.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWA.desc=進度中最後一個普通的火箭.在這之後只有T9星系的母艦和漆黑世界(Deep-Dark)了,其內蘊含了幾乎所有的礦石,還有更多的一些東西.%n%n雖然8階火箭可以讓你登陸6顆新的星球,但只有兩種新礦脈.%n%n巴納德星系在星圖的西北偏北,你可以到訪巴納德C、E和F.%n半人馬星系在NE東北位置,你可以登陸半人馬Bb(比鄰星無法登陸).[note]記得穿上太空衣![/note]%n鯨魚座T星系在西南偏南部,你可以到訪宜居行星鯨魚座T星E.%n織女座星系在西北偏西,而你可以登陸織女座B.%n%n新礦脈為鎘和釤礦脈. 新礦石有: 鎘、銫、鈰、鑭、釹、釤和熔火之石.%n%n在巴納德E、F,鯨魚座T星E和織女座B都可以透過貧瘠礦獲得覺醒龍錠粉.%n在巴納德F有基岩錠的貧瘠礦.%n在織女座B有無盡催化劑的貧瘠礦.%n%n除了礦石和星球石頭,還可以收集一些巴納德C樹苗和泥土,這樣就能回去自己種植了(拉多X). 到處都是的彩虹晶體打碎後會掉落神秘水晶碎片.%n%n更重要的是在鯨魚座T星E收集藻類. UEV的電路板需要這些藻類作為原料,雖然之後可以透過工業手段生產,但你需要一定數量的初始藻類. 不明液體可以在巴納德C透過地面湖泊或地下流體井獲取.
 
 # Quest: It's Not Going Bad, I Swear!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYQ.name=我發誓,它不會變質的!
@@ -4349,7 +4349,7 @@ betterquesting.quest.8OMu4RdgQhyZqXRid6n-Wg.desc=原初恆堅鋼是一種超穩�
 
 # Quest: Chaotic Core
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.name=混沌核心
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.desc=在末地最黑暗的角落,你找到了一條不太一樣的龍.原始的力量以混沌的形式湧出,好像就要撕裂現實本身!但即使是那條龍,也被你打敗了.將這種原始力量集中在一個核心中當然不容易,但看起來你找到了方法.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.desc=在終界最黑暗的角落,你找到了一條不太一樣的龍.原始的力量以混沌的形式湧出,好像就要撕裂現實本身!但即使是那條龍,也被你打敗了.將這種原始力量集中在一個核心中當然不容易,但看起來你找到了方法.
 
 # Quest: The Darkness of Choice for Edgelords
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJbQ.name=漆黑之門!
@@ -4932,7 +4932,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDA.desc=其他魔法花有:水銀花(sh
 
 # Quest: Stonelillies
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDQ.name=石芯草(Stone lillies)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDQ.desc=石芯草(Stonelilly)使你能獲得花崗岩、玄武岩或是大理石的粉末.是獲得方解石、氟或鋁的可再生方法(還有一點點鈾).%n%n你需要將此前提到的原石置於作物之下才能讓它完全成熟.%n%n還有一種灰石芯草(Grey-stonelilly)可以產出石粉(誰會要那玩意??)、黃石芯草(Yellow-stonelilly)可以產出沙子或末地石粉.對聰明的化學家來說很有用!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDQ.desc=石芯草(Stonelilly)使你能獲得花崗岩、玄武岩或是大理石的粉末.是獲得方解石、氟或鋁的可再生方法(還有一點點鈾).%n%n你需要將此前提到的原石置於作物之下才能讓它完全成熟.%n%n還有一種灰石芯草(Grey-stonelilly)可以產出石粉(誰會要那玩意??)、黃石芯草(Yellow-stonelilly)可以產出沙子或終界石粉.對聰明的化學家來說很有用!
 
 # Quest: Growing some Glowstone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHDg.name=種植螢光石
@@ -4971,8 +4971,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgA.name=啥啥分不清楚?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgA.desc=許多植物看起來都差不多.總有一天你可以用機器區分它們,還能得知更多詳細資訊.但是現在你需要製作一個簡易的植物透鏡,至少能分辨它們的物種.%n%n使用透鏡後,你可以知道以下資訊:%n種類%n作物等級%n是否可以生長(某些作物有特殊要求)%n是否可以收穫%n生長狀態,到下一階段的進度
 
 # Quest: Coal...From Withereed?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhw.name=煤...來自凋靈甘蔗?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhw.desc=凋靈甘蔗(Withereed)是煤的一種來源,更重要的是,它可作為更高階作物的父本/母本.%n%n你需要將煤塊置於下方才能使其完全成熟.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhw.name=煤...來自凋零甘蔗?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhw.desc=凋零甘蔗(Withereed)是煤的一種來源,更重要的是,它可作為更高階作物的父本/母本.%n%n你需要將煤塊置於下方才能使其完全成熟.
 
 # Quest: Son of Odin One-Eye
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHiA.name=獨眼奧丁之子
@@ -5101,7 +5101,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=你的燃煤噴氣揹包需要�
 
 # Quest: Copterpack, More 'Hover' than 'Jet'
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.name=直升機揹包,更擅懸停
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.desc=直升機揹包是第一個有盤旋模式的噴氣揹包.它可以使用所有桶裝的燃料.%n%n桶裝雜酚油、岩漿、石油,或燃料都可以.%n%n裝備你的噴氣揹包,按shift以及探險揹包動作鍵來啟動它.你可以在正常模式跟盤旋模式間切換.%n%n最大飛行高度是200層.%n%n垂直速度在超過理想高度後,會線性降低.噴氣揹包的理想高度是135層,直升機揹包的理想高度是100層.%n%n[note]掉落物會被吹走,就像現實裡的直升機一樣,所以在末地或懸崖邊需要注意這一點.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.desc=直升機揹包是第一個有盤旋模式的噴氣揹包.它可以使用所有桶裝的燃料.%n%n桶裝雜酚油、岩漿、石油,或燃料都可以.%n%n裝備你的噴氣揹包,按shift以及探險揹包動作鍵來啟動它.你可以在正常模式跟盤旋模式間切換.%n%n最大飛行高度是200層.%n%n垂直速度在超過理想高度後,會線性降低.噴氣揹包的理想高度是135層,直升機揹包的理想高度是100層.%n%n[note]掉落物會被吹走,就像現實裡的直升機一樣,所以在終界或懸崖邊需要注意這一點.[/note]
 
 # Quest: Electric Jetpack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiw.name=電力噴氣揹包
@@ -5374,7 +5374,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeQ.desc=圍牆和柵欄是更加被動�
 
 # Quest: Turret Base
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeg.name=§5§l炮塔基座
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeg.desc=炮塔必須放在炮塔基座的頂部.只有最初放置基座的玩家可以訪問和配置炮塔.所以別擔心別人拿走了你的彈藥.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeg.desc=炮塔必須放在炮塔基座的頂部.只有最初放置基座的玩家可以存取和配置炮塔.所以別擔心別人拿走了你的彈藥.
 
 # Quest: Who Needs That Dirt Anyway
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAew.name=§5§l誰還需要那些泥土？
@@ -5626,7 +5626,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAICg.desc=騎士金屬是暮色森林裝�
 
 # Quest: Sometimes Life is Scary and Dark - Bring a Backpack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQA.name=有時生活是可怕而黑暗的-帶上一個揹包
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQA.desc=既然你到達了MV階段,那麼就可以製作探險揹包了.這個非常有用的揹包可以做很多事情.它可以儲存2個工具-可以快速切換;有內建儲罐以儲存液體-使用揹包軟管訪問它們;一個內建工作台;以及儲存功能.%n%n當在你背上時,可以用快捷鍵開啟,預設是B.檢查你的"選項"-"控制".%n%n當放在地上時,可以右鍵開啟,還能佈置並使用睡袋.%n%n它們也可以透過升級來新增特殊能力.想獲知比這裡介紹的更多的特殊能力,請檢視[url]https://wiki.gtnewhorizons.com/wiki/Adventure_Backpacks[/url].%n%n[note]探險揹包和直升機揹包共用同一個槽位,所以你只能擇一裝備,或是交替使用.[/note]%n%n譯者注:死亡時探險揹包有機率消失,這個機率在有灼燒狀態時非常大,所以不要放太貴重的物品.%n%n中文WIKI 探險者揹包：[url]https://gtnh.huijiwiki.com/p/78944[/url]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQA.desc=既然你到達了MV階段,那麼就可以製作探險揹包了.這個非常有用的揹包可以做很多事情.它可以儲存2個工具-可以快速切換;有內建儲罐以儲存液體-使用揹包軟管存取它們;一個內建工作台;以及儲存功能.%n%n當在你背上時,可以用快捷鍵開啟,預設是B.檢查你的"選項"-"控制".%n%n當放在地上時,可以右鍵開啟,還能佈置並使用睡袋.%n%n它們也可以透過升級來新增特殊能力.想獲知比這裡介紹的更多的特殊能力,請檢視[url]https://wiki.gtnewhorizons.com/wiki/Adventure_Backpacks[/url].%n%n[note]探險揹包和直升機揹包共用同一個槽位,所以你只能擇一裝備,或是交替使用.[/note]%n%n譯者注:死亡時探險揹包有機率消失,這個機率在有灼燒狀態時非常大,所以不要放太貴重的物品.%n%n中文WIKI 探險者揹包：[url]https://gtnh.huijiwiki.com/p/78944[/url]
 
 # Quest: See Like a ... Bat?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQQ.name=像蝙蝠一樣..."看"?
@@ -5886,8 +5886,8 @@ betterquesting.quest.Avz75EgSTdG48xI3HPGUMA.name=挖掘升級元件
 betterquesting.quest.Avz75EgSTdG48xI3HPGUMA.desc=在建造基地時，開採好幾個區塊的石頭可能是一件極其令人痛苦的事情。不妨為你的物質操縱者安裝操縱者挖掘升級，以便獲得快速移除方塊的能力。
 
 # Quest: Crystal Shulker Box
-betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.name=§6§l水晶潛影盒
-betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.desc=鑽石潛影盒的增強版本，可讓你看見內部物品。%n%n擁有§n108§r個格子。%n%n[note]可染色！[/note]
+betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.name=§6§l水晶界伏盒
+betterquesting.quest.DSkXvzhRSKiwFLJywGDMRg.desc=鑽石界伏盒的增強版本，可讓你看見內部物品。%n%n擁有§n108§r個格子。%n%n[note]可染色！[/note]
 
 # Quest: Obsidian Barrel
 betterquesting.quest.KfgATF33ToiE0aYS4pp04Q.name=§6§l黑曜石桶
@@ -5898,7 +5898,7 @@ betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.name=雙倍半徑=雙倍快樂！
 betterquesting.quest.LaLMF5rFQ0SxAZ5o-C-r5Q.desc=[quest]進階磁懸浮能量塔 II (HV)[/quest]%n%nHV能量塔擁有§c32§r格的有效半徑(以能量塔為中心的65x65x65的立方體)%n%n未供能時有效半徑§9減半§r.
 
 # Quest: Obsidian Shulker Box
-betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.name=§6§l黑曜石潛影盒
+betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.name=§6§l黑曜石界伏盒
 betterquesting.quest.MbFXZcovQ1GRxQCeS2PUuw.desc=黑曜石桶的便攜版，保留了防爆特性。%n%n擁有§n108§r個格子。%n%n[note]可染色！[/note]
 
 # Quest: Manipulator Upgrades
@@ -5910,7 +5910,7 @@ betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.name=§8黑曜石箱子
 betterquesting.quest.QMlw6Z67T5-y_qflA7On2Q.desc=將鑽石箱子與黑曜石結合起來，使你能夠製作一個防爆箱！%n%n[note]就像之前的箱子一樣，你也可以用合適的升級物品來升級它。[/note]
 
 # Quest: Iron Shulker Box
-betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.name=§2§l鐵潛影盒
+betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.name=§2§l鐵界伏盒
 betterquesting.quest.StA9TvxxSi2n2c7wQdCAFA.desc=鐵桶的便攜版。%n%n擁有§n54§r個格子。%n%n[note]可染色！[/note]
 
 # Quest: Constructing Additional Pylons!
@@ -5922,7 +5922,7 @@ betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.name=一項現代科技
 betterquesting.quest.VFVruPLHQAeDthuV-s7HGQ.desc=混凝土.哦不，是漢麻混凝土!透過GTNH Chisel模組帶來的一項全新的現代技術.一共有16種顏色.%n%n在Chisel中還有很多其他漂亮的方塊.只需要在NEI中輸入"@chisel"然後看一看.
 
 # Quest: Gold Shulker Box
-betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.name=§3§l金潛影盒
+betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.name=§3§l金界伏盒
 betterquesting.quest.YFUK2QflT1G3_WC8XBp2Wg.desc=金桶的便攜版。%n%n擁有§n81§r個格子。%n%n[note]可染色！[/note]
 
 # Quest: Finally, Some Real Power!
@@ -5930,19 +5930,19 @@ betterquesting.quest.YxYz1jL6RSWHCxMlTHeJFw.name=終於，真正的力量！
 betterquesting.quest.YxYz1jL6RSWHCxMlTHeJFw.desc=對於物質操縱者在§4§lUHV+§r階段的高強度使用需求而言，操縱者能量通道升級至關重要。%n%n你現在可以將其直接與§5§l量子上行鏈路§r或§5§l雷射靶倉§r相連，以實現快速充電。現在，你無需再依賴那些緩慢的無線充電器了！
 
 # Quest: Shulker Upgrades
-betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.name=§3§l潛影盒升級
-betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.desc=需要升級潛影盒？既然你已經進入了MV階段，你可以獲取§d晶化粉紅史萊姆§r來做到這一點！無需收集全新外殼，現有9種升級物品可供選擇。它們會保留潛影盒內原有物品，無需事先清空。%n%n§l可用升級方案：§r%n原版->銅質%n原版->鐵質%n銅質->鐵質%n銅質->銀質%n鐵質->金質%n銀質->金質%n金質->鑽石%n鑽石->水晶%n鑽石->黑曜石
+betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.name=§3§l界伏盒升級
+betterquesting.quest.Zza5BrD7TduqKby_b3wQsQ.desc=需要升級界伏盒？既然你已經進入了MV階段，你可以獲取§d晶化粉紅史萊姆§r來做到這一點！無需收集全新外殼，現有9種升級物品可供選擇。它們會保留界伏盒內原有物品，無需事先清空。%n%n§l可用升級方案：§r%n原版->銅質%n原版->鐵質%n銅質->鐵質%n銅質->銀質%n鐵質->金質%n銀質->金質%n金質->鑽石%n鑽石->水晶%n鑽石->黑曜石
 
 # Quest: Diamond Shulker Box
-betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.name=§5§l鑽石潛影盒
-betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.desc=鑽石桶的便攜版，需要升級魔杖，或使用金質>鑽石潛影盒升級。%n%n擁有§n108§r個格子。%n%n[note]可染色！[/note]
+betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.name=§5§l鑽石界伏盒
+betterquesting.quest.aIt1E54yQaSOg4CMz-Xegw.desc=鑽石桶的便攜版，需要升級魔杖，或使用金質>鑽石界伏盒升級。%n%n擁有§n108§r個格子。%n%n[note]可染色！[/note]
 
 # Quest: Dark Steel Barrel
 betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.name=§6§l玄鋼桶
 betterquesting.quest.dNDuychlSiqlrMhfnEKK_w.desc=玄鋼桶有135個槽位！而且也不受爆炸的影響。
 
 # Quest: Copper Shulker Box
-betterquesting.quest.dbax1OsmRpWMg6Pt4tE_ig.name=§2§l銅潛影盒
+betterquesting.quest.dbax1OsmRpWMg6Pt4tE_ig.name=§2§l銅界伏盒
 betterquesting.quest.dbax1OsmRpWMg6Pt4tE_ig.desc=銅桶的便攜版。%n%n擁有§n45§r個格子。%n%n[note]可染色！[/note]
 
 # Quest: Crystal Chest
@@ -5950,7 +5950,7 @@ betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.name=§b水晶箱子
 betterquesting.quest.e-VLKN-JSRK3V2cmDbm6rw.desc=你已經製作了一個可以讓你看到裡面內容的箱子，是不是很有用？%n%n[note]就像之前的箱子一樣，你也可以用合適的升級物品來升級它。
 
 # Quest: Silver Shulker Box
-betterquesting.quest.nc1Pqje3RIe_Yp6WoPOFzg.name=§3§l銀潛影盒
+betterquesting.quest.nc1Pqje3RIe_Yp6WoPOFzg.name=§3§l銀界伏盒
 betterquesting.quest.nc1Pqje3RIe_Yp6WoPOFzg.desc=銀桶的便攜版。%n%n擁有§n72§r個格子。%n%n[note]可染色！[/note]
 
 # Quest: Draconic Chest
@@ -6433,7 +6433,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEmw.desc=以前你可能會不停地用�
 
 # Quest: Assembly Line
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFhA.name=§6§l裝配線
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFhA.desc=裝配線(Assembly Line,簡稱'Assline')是製作LuV級及以上的高階部件的重要機器,用於製作馬達,活塞,機械臂,泵等等.%n%n裝配線可長5-16方塊.所需的最小長度取決於其製作的配方所需的部件和流體的數量.11格長適合GTNH中80％的配方.%n%n底層的所有輸入倉(4個)必須位於同一外側,在底部中間層是用於物品的輸入匯流排(10個),以及末端1個輸出匯流排.底部外層也必須有一個維護倉.其餘的是脫氧鋼機械方塊.%n%n第二層的左右外側是防爆玻璃,中間是裝配線方塊.%n%n第三層左右側是格柵機械方塊,中間是裝配線外殼(注意不是裝配線方塊!).裝配線的控制器方塊和資料存取倉位於輸入倉的對側一端--而不是輸出匯流排的那端.%n%n第四層是中間一排脫氧鋼機械方塊(11個),用兩個能源倉供電.搭建成功之後,你就可以用一個LuV能源倉替換原來的兩個IV能源倉.%n%n裝配線自動化是GTNH自動化的巔峰技術之一.你可以使用較為先進的SFM(史蒂夫工廠)或者OC(開放式電腦),不過也可以嘗試使用EIO或僅用AE2實現.%n%n想要獲知關於裝配線的更多細節,訪問這個wiki頁面https://wiki.gtnewhorizons.com/wiki/Assembly_Line%n%n[note]順便一提,ULV輸入匯流排可以幫助簡化自動化,不過你要是不打算自動化裝配線的話,用更高階的匯流排也可以,這不像電路裝配線限定必須ULV匯流排.[/note]%n%n[note]一臺滿長裝配線可以裝上16個輸入匯流排,此時位於最後的輸出匯流排需要置於側面.[/note]%n%n[note]在使用超過ULV等級的輸入匯流排時，它會先從左上角的格子開始讀取，一直到右下角的格子[/note]%n%nWIKI 裝配線：[url]gtnh.huijiwiki.com/p/141[/url]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFhA.desc=裝配線(Assembly Line,簡稱'Assline')是製作LuV級及以上的高階部件的重要機器,用於製作馬達,活塞,機械臂,泵等等.%n%n裝配線可長5-16方塊.所需的最小長度取決於其製作的配方所需的部件和流體的數量.11格長適合GTNH中80％的配方.%n%n底層的所有輸入倉(4個)必須位於同一外側,在底部中間層是用於物品的輸入匯流排(10個),以及末端1個輸出匯流排.底部外層也必須有一個維護倉.其餘的是脫氧鋼機械方塊.%n%n第二層的左右外側是防爆玻璃,中間是裝配線方塊.%n%n第三層左右側是格柵機械方塊,中間是裝配線外殼(注意不是裝配線方塊!).裝配線的控制器方塊和資料存取倉位於輸入倉的對側一端--而不是輸出匯流排的那端.%n%n第四層是中間一排脫氧鋼機械方塊(11個),用兩個能源倉供電.搭建成功之後,你就可以用一個LuV能源倉替換原來的兩個IV能源倉.%n%n裝配線自動化是GTNH自動化的巔峰技術之一.你可以使用較為先進的SFM(史蒂夫工廠)或者OC(開放式電腦),不過也可以嘗試使用EIO或僅用AE2實現.%n%n想要獲知關於裝配線的更多細節,存取這個wiki頁面https://wiki.gtnewhorizons.com/wiki/Assembly_Line%n%n[note]順便一提,ULV輸入匯流排可以幫助簡化自動化,不過你要是不打算自動化裝配線的話,用更高階的匯流排也可以,這不像電路裝配線限定必須ULV匯流排.[/note]%n%n[note]一臺滿長裝配線可以裝上16個輸入匯流排,此時位於最後的輸出匯流排需要置於側面.[/note]%n%n[note]在使用超過ULV等級的輸入匯流排時，它會先從左上角的格子開始讀取，一直到右下角的格子[/note]%n%nWIKI 裝配線：[url]gtnh.huijiwiki.com/p/141[/url]
 
 # Quest: Data Access Hatches
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG-w.name=§6§l資料存取倉
@@ -6461,7 +6461,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHKQ.desc=要處理最高階的材料，�
 
 # Quest: Helium is Not Just for Balloons
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcA.name=§6§l氦氣可不僅僅能用來充氣球
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcA.desc=高階超導導線和能源倉需要用到氦.  壓縮空氣然後將其冷凍液化,然後離心再離心,用這種方法生產9個氦單元需要用1802個壓縮空氣單元. 更明智的做法是從末地石或者月球上的獨居石中獲取氦.另一個選擇是檢視你的原油處理,並看看你如何能從那裡獲得氦氣.%n%n[note]PS:電解暮色冰雪女王的宮殿的極光塊與極光柱可1:1得獲取氦,你需要解決的就是開採問題,建議初期使用更替核心,後期直接用終界採石場. 至於冰雪女王...她不會介意的.[/note]%n%n譯者再注:現在可以蒸餾裂化煉油氣獲取大量的氦.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcA.desc=高階超導導線和能源倉需要用到氦.  壓縮空氣然後將其冷凍液化,然後離心再離心,用這種方法生產9個氦單元需要用1802個壓縮空氣單元. 更明智的做法是從終界石或者月球上的獨居石中獲取氦.另一個選擇是檢視你的原油處理,並看看你如何能從那裡獲得氦氣.%n%n[note]PS:電解暮色冰雪女王的宮殿的極光塊與極光柱可1:1得獲取氦,你需要解決的就是開採問題,建議初期使用更替核心,後期直接用終界採石場. 至於冰雪女王...她不會介意的.[/note]%n%n譯者再注:現在可以蒸餾裂化煉油氣獲取大量的氦.
 
 # Quest: Hot Hot Hot!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIFQ.name=§6§l熱,熱,熱!
@@ -6521,11 +6521,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyQ.desc=哦,等等,是的,你現在確�
 
 # Quest: TFFT
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKzQ.name=§6§lTFFT
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKzQ.desc=TFFT非常有用,只要你不想弄一堆超級缸,同時它還有模組化結構,可以達到比任務描述大4.33倍的容量.%n%nT1的儲存庫方塊搭成的TFFT,消耗27-EU/t,但每種流體的儲量僅為超級缸I的0.27倍.%n%n而T5的儲存庫方塊搭成的TFFT,消耗1134-EU/t而每種流體的儲量為量子缸III的0.54倍.%n%nT10儲存庫方塊搭成的TFFT 消耗 0EU/t (只有T10消耗 0) 且擁有T7 YOT儲罐約 3.3 倍的總容量 (除以 25 便是每種流體的容量)%n%n透過貼在T.F.F.T輸入/輸出倉上的ME流體儲存匯流排或是EIO的終界流體導管,你可以直接訪問所有流體.%n%n[note]記得開啟自動銷毀功能如果需要的話.[/note]%n%n WIKI T.F.F.T：§9gtnh.huijiwiki.com/p/409§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKzQ.desc=TFFT非常有用,只要你不想弄一堆超級缸,同時它還有模組化結構,可以達到比任務描述大4.33倍的容量.%n%nT1的儲存庫方塊搭成的TFFT,消耗27-EU/t,但每種流體的儲量僅為超級缸I的0.27倍.%n%n而T5的儲存庫方塊搭成的TFFT,消耗1134-EU/t而每種流體的儲量為量子缸III的0.54倍.%n%nT10儲存庫方塊搭成的TFFT 消耗 0EU/t (只有T10消耗 0) 且擁有T7 YOT儲罐約 3.3 倍的總容量 (除以 25 便是每種流體的容量)%n%n透過貼在T.F.F.T輸入/輸出倉上的ME流體儲存匯流排或是EIO的終界流體導管,你可以直接存取所有流體.%n%n[note]記得開啟自動銷毀功能如果需要的話.[/note]%n%n WIKI T.F.F.T：§9gtnh.huijiwiki.com/p/409§r
 
 # Quest: Expert MB-Construction
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL1g.name=§6§l專業多方塊搭建
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL1g.desc=在潛行時用全息投影機右擊多方塊控制器,會呼叫名為§o"生存模式自動搭建"§r的動作.如果多方塊結構佔據的區域內沒有障礙物,自動搭建就會試圖使用你物品欄中的物品搭建結構.並且,正如全息投影顯示一樣,對於支援多種等級機械方塊或者可變體積的多方塊結構,你手中拿著的全息投影機數量決定了放置的方塊等級.它會為你放置正確數量的倉室(譯者注:如無特殊要求,就是每種1個),不過一般會將倉室口朝向你自己,而不是垂直於所在面的方向.如果物品欄中沒有可用的倉室,就只會放置所需的機械方塊,除非是在某些必須放置倉室的點(如工業高爐的頂部中心點,必須放置消聲倉)%n%n生存模式自動搭建也可以從其它形式的"物品欄",或是某些自帶/能連線儲存空間的物品中,拿取需要的方塊. 目前支援:%n- 冒險揹包(穿在身上或是放在物品欄裡都行)%n- AE2便攜元件%n- 透過任何具有訪問物品功能的AE2無線終端連線ME網路.%n- 林業mod揹包%n- 終界箱的庫存(如果身上帶著Backpack-mod的終界揹包) (譯者注:終界揹包沒有合成表.不是終界袋子!) 注意:目前還不支援Backpack-mod的普通揹包.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL1g.desc=在潛行時用全息投影機右擊多方塊控制器,會呼叫名為§o"生存模式自動搭建"§r的動作.如果多方塊結構佔據的區域內沒有障礙物,自動搭建就會試圖使用你物品欄中的物品搭建結構.並且,正如全息投影顯示一樣,對於支援多種等級機械方塊或者可變體積的多方塊結構,你手中拿著的全息投影機數量決定了放置的方塊等級.它會為你放置正確數量的倉室(譯者注:如無特殊要求,就是每種1個),不過一般會將倉室口朝向你自己,而不是垂直於所在面的方向.如果物品欄中沒有可用的倉室,就只會放置所需的機械方塊,除非是在某些必須放置倉室的點(如工業高爐的頂部中心點,必須放置消聲倉)%n%n生存模式自動搭建也可以從其它形式的"物品欄",或是某些自帶/能連線儲存空間的物品中,拿取需要的方塊. 目前支援:%n- 冒險揹包(穿在身上或是放在物品欄裡都行)%n- AE2便攜元件%n- 透過任何具有存取物品功能的AE2無線終端連線ME網路.%n- 林業mod揹包%n- 終界箱的庫存(如果身上帶著Backpack-mod的終界揹包) (譯者注:終界揹包沒有合成表.不是終界袋子!) 注意:目前還不支援Backpack-mod的普通揹包.
 
 # Quest: You Are Not Prepared!!!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAL1w.name=§6§l你們這是自尋死路！！
@@ -7439,7 +7439,7 @@ betterquesting.quest.J2ok3rFLS7quyIlHPaN0FQ.desc=在UV你解鎖了給渦輪自�
 
 # Quest: Balance is Everything
 betterquesting.quest.K0_-BjVuR3qh_GZt19SReQ.name=關鍵在於平衡
-betterquesting.quest.K0_-BjVuR3qh_GZt19SReQ.desc=你已經能超越維度了，但當你的電力需求激增到一種荒誕的程度時，你也許需要超越物質了！%n%n利用原初恆堅鋼不毀的特性，掌控[warn]混沌[/warn]成為了現實。半穩定反物質穩定序列器引入了半穩定反物質的概念。這種物質由元始物質製成。%n%n但它可是個難伺候的主子…掌握不當的話，反物質就會湮入虛無！%n%n半穩定反物質從週期為1秒的迴圈中產出，每次的產量基於16個反物質倉中儲存的反物質量之和，並消耗等量的元始物質。%n%n每個週期，每個反物質倉的基礎產出為：%n(1/16)*(§3反物質量§r)^(0.5+§6§nC§r)。%n隨後每個倉將各自從均值為（0.2+§b§nA§r）、方差為1的正態分佈中抽取隨機數，乘在基礎產量上——這意味著反物質總量變化可能為負值。%n%n該機制將導致倉室間的反物質量失衡。想要實現反物質生產自動化，重新配平各倉室的反物質存量至關重要。每週期結束時，所有反物質倉中反物質存量最低值將被記錄，所有存量高於最低值的倉室將損失差值的一半！%n%n正確使用穩定流體可以顯著減少能量消耗並增加產出：%n%n機器被動消耗 10,000,000+(§3反物質量§r*1000)^§ (1.5-§2§nM§r§) EU/t。%n磁性穩定液可減輕被動不穩定性，表現為§2指數上§r的剪除：%n熔融純鎡：§2§n0.1§r%n富快子時間流體：§2§n0.2§r%n熔融磁物質：§2§n0.3§r%n%n機器每個執行週期消耗(§3反物質§r*10000)^(1.5-§5§nG§r) EU%n調整鍛爐中的引力約束可以剪除這一§5指數§r：%n熔融時空：§5§n0.05§r%n擴大化空間流體：§5§n0.10§r%n熔融永恆：§5§n0.15§r%n%n更緊湊地約束反物質可以增加每個迴圈的產出。遏制穩定流體可在產出公式中提供§6指數上§r的提升：%n熔融調律源金：§6§n0.05§r%n熔融磁流體約束恆星物質（藍框岩漿）：§6§n0.10§r%n%n輸入高能壘的流體能夠調節反物質的流動混沌性，使其隨機性向有利的方向偏轉。活化穩定流體能引起正態分佈的§b均值§r變化，降低負產出的風險並有利於更高的產出。%n矽岩基流體燃料-MkV(枯竭的)：§b§n0.05§r%n矽岩基流體燃料-MkVI(枯竭的)：§b§n0.10§r
+betterquesting.quest.K0_-BjVuR3qh_GZt19SReQ.desc=你已經能超越維度了，但當你的電力需求激增到一種荒誕的程度時，你也許需要超越物質了！%n%n利用原初恆堅鋼不毀的特性，掌控[warn]混沌[/warn]成為了現實。半穩定反物質穩定序列器引入了半穩定反物質的概念。這種物質由元始物質製成。%n%n但它可是個難伺候的主子…掌握不當的話，反物質就會湮入虛無！%n%n半穩定反物質從週期為1秒的迴圈中產出，每次的產量基於16個反物質倉中儲存的反物質量之和，並消耗等量的元始物質。%n%n每個週期，每個反物質倉的基礎產出為：%n(1/16)*(§3反物質量§r)^(0.5+§6§nC§r)。%n隨後每個倉將各自從均值為（0.2+§b§nA§r）、方差為1的正態分佈中抽取隨機數，乘在基礎產量上——這意味著反物質總量變化可能為負值。%n%n該機制將導致倉室間的反物質量失衡。想要實現反物質生產自動化，重新配平各倉室的反物質存量至關重要。每週期結束時，所有反物質倉中反物質存量最低值將被記錄，所有存量高於最低值的倉室將損失差值的一半！%n%n正確使用穩定流體可以顯著減少能量消耗並增加產出：%n%n機器被動消耗 10,000,000+(§3反物質量§r*1000)^(1.5-§2§nM§r) EU/t。%n磁性穩定液可減輕被動不穩定性，表現為§2指數上§r的剪除：%n熔融純鎡：§2§n0.1§r%n富快子時間流體：§2§n0.2§r%n熔融磁物質：§2§n0.3§r%n%n機器每個執行週期消耗(§3反物質§r*10000)^(1.5-§5§nG§r) EU%n調整鍛爐中的引力約束可以剪除這一§5指數§r：%n熔融時空：§5§n0.05§r%n擴大化空間流體：§5§n0.10§r%n熔融永恆：§5§n0.15§r%n%n更緊湊地約束反物質可以增加每個迴圈的產出。遏制穩定流體可在產出公式中提供§6指數上§r的提升：%n熔融調律源金：§6§n0.05§r%n熔融磁流體約束恆星物質（藍框岩漿）：§6§n0.10§r%n%n輸入高能壘的流體能夠調節反物質的流動混沌性，使其隨機性向有利的方向偏轉。活化穩定流體能引起正態分佈的§b均值§r變化，降低負產出的風險並有利於更高的產出。%n矽岩基流體燃料-MkV(枯竭的)：§b§n0.05§r%n矽岩基流體燃料-MkVI(枯竭的)：§b§n0.10§r
 
 # Quest: Naquadah Based Fuel MkVI
 betterquesting.quest.KHL_yx4XTKOtsHHZ60ZZpg.name=矽岩基流體燃料-MkVI
@@ -8460,7 +8460,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=將燃料注入火箭需要一�
 
 # Quest: Oxygen Gear
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNg.name=供氧系統
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNg.desc=供氧裝置用於將氧氣罐內的氧氣輸送至氧氣面罩。這對宇航員可至關重要。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNg.desc=供氧裝置用於將氧氣罐內的氧氣輸送至氧氣面罩。這對太空人可至關重要。
 
 # Quest: Oxygen Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.name=氧氣面罩
@@ -8540,7 +8540,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFkg.desc=要達到像火星或它的衛�
 
 # Quest: Tier 2 Heavy Duty Plates
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFkw.name=2階重型裝甲板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFkw.desc=火箭需要重型裝甲板作為主箭體.讓我們用一階重型裝甲板和隕鐵板製作11個2階重型裝甲板吧.%n%n同時你還需要一些鎢鋼.獲取鎢的手段有很多,處理末地石或末地石粉,或是打粉月球石頭都可以.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFkw.desc=火箭需要重型裝甲板作為主箭體.讓我們用一階重型裝甲板和隕鐵板製作11個2階重型裝甲板吧.%n%n同時你還需要一些鎢鋼.獲取鎢的手段有很多,處理終界石或終界石粉,或是打粉月球石頭都可以.
 
 # Quest: Tier 2 Control Computer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFlA.name=2階火箭控制電腦
@@ -8688,7 +8688,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFvw.desc=黏滑怪是一種實用怪物,
 
 # Quest: Grapple
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFwA.name=攀緣鉤爪
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFwA.desc=攀緣鉤爪是一隻鉤爪配上繩子,玩家丟擲後,會向丟擲的方向擺動. 對於到達跳不上去的高處或在小行星間旅行非常有用. [note](或者,你懂的,飛翔.)[/note]%n%n按住右鍵以將攀緣鉤爪瞄準想要到達的方塊,類似於弓的瞄準. 釋放右鍵--類似於用弓箭射擊--將自己拉往瞄準的方向.%n%n為了獲得最佳效果,將攀緣鉤爪瞄準比你想要到達的點高1或2格的位置.%n%n如果此時沒有可供安全落地的平台,你會摔下去,受到掉落傷害,因此安全使用攀緣鉤爪需要一些技巧.%n%n在地獄傳送門、末地傳送門或是低高度的空間站上(Y小於30)使用攀緣鉤爪得小心一點. 如果攀緣鉤爪跨越維度,可能會產生奇怪的後果.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFwA.desc=攀緣鉤爪是一隻鉤爪配上繩子,玩家丟擲後,會向丟擲的方向擺動. 對於到達跳不上去的高處或在小行星間旅行非常有用. [note](或者,你懂的,飛翔.)[/note]%n%n按住右鍵以將攀緣鉤爪瞄準想要到達的方塊,類似於弓的瞄準. 釋放右鍵--類似於用弓箭射擊--將自己拉往瞄準的方向.%n%n為了獲得最佳效果,將攀緣鉤爪瞄準比你想要到達的點高1或2格的位置.%n%n如果此時沒有可供安全落地的平台,你會摔下去,受到掉落傷害,因此安全使用攀緣鉤爪需要一些技巧.%n%n在地獄傳送門、終界傳送門或是低高度的空間站上(Y小於30)使用攀緣鉤爪得小心一點. 如果攀緣鉤爪跨越維度,可能會產生奇怪的後果.
 
 # Quest: Nice and Comfortable - in Space!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFwQ.name=漂亮又舒適 - 在太空!
@@ -8739,7 +8739,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxQ.name=到熔融之海底部的旅程
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxQ.desc=金星很熱,很熱,它可以融化鉛.最重要的是,金星大氣是如此厚實,90倍於主世界,它將粉碎你.更不用說還有硫酸了! 你需要製造一套特殊的套裝才能在金星上生存,而不會立即死亡.%n%n[note]一些盔甲現在也可以在這些大氣中生存.在它們的tooltip中會有說明.[/note]
 
 # Quest: Gravity Boots
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxg.name=宇航服-重力靴子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxg.name=太空衣-重力靴子
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGxg.desc=這些靴子可以幫助你在低重力環境中更快地墜落. 也有可能不行,也許吧...試一試.
 
 # Quest: Helium 3 and Saltwater on Moon
@@ -8880,7 +8880,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpA.desc=極大型氧氣罐是一個儲�
 
 # Quest: NASA Workbench
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKuA.name=NASA工作台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKuA.desc=NASA工作台用於裝配火箭及其他相關載具。把它造出來，然後走向你的星辰大海吧。%n%n[note]提示：請檢視使用枯竭水晶和世界鹽製造地獄之星的合成表。使用岩漿膏、烈焰粉和小撮地獄之星粉即可複製枯竭水晶。[/note]%n%n[note]另外，如果你的凋靈骷髏頭不足，可以試試製造劈刀或熾焰之啄顱劍。[/note]%n%n[warn]關於所有火箭任務：如果你忘記完成了某個部件的任務，你可以手持完整的火箭來自動完成這些任務，而無需重複製作部件。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKuA.desc=NASA工作台用於裝配火箭及其他相關載具。把它造出來，然後走向你的星辰大海吧。%n%n[note]提示：請檢視使用枯竭水晶和世界鹽製造地獄之星的合成表。使用岩漿膏、烈焰粉和小撮地獄之星粉即可複製枯竭水晶。[/note]%n%n[note]另外，如果你的凋零骷髏頭不足，可以試試製造劈刀或熾焰之啄顱劍。[/note]%n%n[warn]關於所有火箭任務：如果你忘記完成了某個部件的任務，你可以手持完整的火箭來自動完成這些任務，而無需重複製作部件。[/warn]
 
 # Quest: Proteus Dungeon
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKvg.name=海衛八地牢
@@ -9226,7 +9226,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0A.desc=偽裝方塊能使線纜的面�
 
 # Quest: Inventory Relay
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0Q.name=物品欄中轉站
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0Q.desc=物品欄中轉站可以訪問非固定實體的物品欄,比如說礦車.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0Q.desc=物品欄中轉站可以存取非固定實體的物品欄,比如說礦車.
 
 # Quest: Double Sided Cable Camouflage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0g.name=偽裝方塊-雙面
@@ -9307,7 +9307,7 @@ betterquesting.questline.mZBBLGPDQQGDVfcT_wh9AQ.desc=現在還沒有解鎖AE2?  
 
 # Quest: Upgrades
 betterquesting.quest.3wK8pIDKSOii1__bwf6Ycw.name=升級
-betterquesting.quest.3wK8pIDKSOii1__bwf6Ycw.desc=你想要自動化涉及流體的配方,但是合成模組只接受物品？你想要在請求桌中看機器是否在處理配方的時候卡住？你需要§l升級§r.%n%n你可以將升級應用於管道和模組上,但你並不能透過用扳手右鍵底盤的方式開啟升級面板.%n%n介紹一下物流管道控制器.這個物品就像是物流管道的扳手,但它可以開啟升級選單.它還允許你檢視正在訪問的管道相關的資料.
+betterquesting.quest.3wK8pIDKSOii1__bwf6Ycw.desc=你想要自動化涉及流體的配方,但是合成模組只接受物品？你想要在請求桌中看機器是否在處理配方的時候卡住？你需要§l升級§r.%n%n你可以將升級應用於管道和模組上,但你並不能透過用扳手右鍵底盤的方式開啟升級面板.%n%n介紹一下物流管道控制器.這個物品就像是物流管道的扳手,但它可以開啟升級選單.它還允許你檢視正在存取的管道相關的資料.
 
 # Quest: Filtering by Type
 betterquesting.quest.5rc45iPDSmqLbuvcioFDEQ.name=按類型篩選
@@ -9464,7 +9464,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.desc=想要搭建一個AE系統,你�
 
 # Quest: Gotta Find Them All
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.name=得找到它們
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.desc=地表上有很多隕石,但地下有更多.為了找到這些隕石,你需要一個隕石羅盤.但隕石羅盤只會告訴你當前區塊裡有一顆隕石,而用你古老的尋礦魔杖,你可以更準確地知道隕石藏在哪裡.%n%n想要獲知AE2的更多細節,訪問 [url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url].
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.desc=地表上有很多隕石,但地下有更多.為了找到這些隕石,你需要一個隕石羅盤.但隕石羅盤只會告訴你當前區塊裡有一顆隕石,而用你古老的尋礦魔杖,你可以更準確地知道隕石藏在哪裡.%n%n想要獲知AE2的更多細節,存取 [url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url].
 
 # Quest: 16k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.name=16K-ME儲存單元
@@ -9484,11 +9484,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.desc=有三種方法製造AE處理�
 
 # Quest: Cables
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.name=外星科技-線纜
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.desc=如果你想在你的基地某個位置訪問AE網路,那麼你就需要鋪設一條線纜到那個位置.你需要很多線纜. 現在使用普通的玻璃線纜或者智慧線纜就能滿足日常使用.但是以後,越來越多的裝置需要接入網路,緻密線纜和P2P通道就會派上用場了.%n%n玻璃線纜和包層線纜功能相同,只是外觀有區別.都能攜帶8個頻道.%n%n石英纖維不攜帶頻道,但可以攜帶能量.這個特性可以很方便地讓獨立子網路使用主網路中的能量.%n%n你還可以為你的線纜塗色-不同顏色的線纜不會連線,利用這一點可以讓不同顏色線纜並行來擴充網路容量.只有預設色的線纜才可以連線所有別的顏色的線纜.到後期用P2P通道來傳輸頻道更有效率,可傳輸32頻道而本身只消耗1頻道.%n%n譯者注:P2P通道不能巢狀,即用P2P通道傳輸的頻道無法提供給另外的P2P通道————會顯示裝置缺少頻道並且P2P通道不會工作.%n%n譯者再注:P2P通道可以一入多出,即多個P2P通道出口可以分享一個P2P通道入口所提供的頻道.%n%n線纜錨就像覆蓋板一樣,可以把你不希望連起來的兩條線纜隔開.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.desc=如果你想在你的基地某個位置存取AE網路,那麼你就需要鋪設一條線纜到那個位置.你需要很多線纜. 現在使用普通的玻璃線纜或者智慧線纜就能滿足日常使用.但是以後,越來越多的裝置需要接入網路,緻密線纜和P2P通道就會派上用場了.%n%n玻璃線纜和包層線纜功能相同,只是外觀有區別.都能攜帶8個頻道.%n%n石英纖維不攜帶頻道,但可以攜帶能量.這個特性可以很方便地讓獨立子網路使用主網路中的能量.%n%n你還可以為你的線纜塗色-不同顏色的線纜不會連線,利用這一點可以讓不同顏色線纜並行來擴充網路容量.只有預設色的線纜才可以連線所有別的顏色的線纜.到後期用P2P通道來傳輸頻道更有效率,可傳輸32頻道而本身只消耗1頻道.%n%n譯者注:P2P通道不能巢狀,即用P2P通道傳輸的頻道無法提供給另外的P2P通道————會顯示裝置缺少頻道並且P2P通道不會工作.%n%n譯者再注:P2P通道可以一入多出,即多個P2P通道出口可以分享一個P2P通道入口所提供的頻道.%n%n線纜錨就像覆蓋板一樣,可以把你不希望連起來的兩條線纜隔開.
 
 # Quest: Basic Terminals
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.name=終端無處不在
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=ME終端是一個互動裝置，你可以透過它來訪問ME網路的儲存空間。ME終端具有排序、搜尋、篩選的功能，需要佔用一個頻道。%n%nME合成終端是ME終端的升級版，在訪問ME網路儲存的功能之外，還內建了合成介面。%n%nME介面終端可以遠端訪問網路中所有介面的樣板槽位（按所處的機器類型分類）。ME介面終端會顯示介面對應的機器類型，但你也可以用壓印器或鐵砧來更改介面在ME介面終端中顯示的名字。如果你經常使用終界箱將物品送到別處進行處理，這個方法或許有助於避免混亂。你還可以搜尋某個特定的裝置。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=ME終端是一個互動裝置，你可以透過它來存取ME網路的儲存空間。ME終端具有排序、搜尋、篩選的功能，需要佔用一個頻道。%n%nME合成終端是ME終端的升級版，在存取ME網路儲存的功能之外，還內建了合成介面。%n%nME介面終端可以遠端存取網路中所有介面的樣板槽位（按所處的機器類型分類）。ME介面終端會顯示介面對應的機器類型，但你也可以用壓印器或鐵砧來更改介面在ME介面終端中顯示的名字。如果你經常使用終界箱將物品送到別處進行處理，這個方法或許有助於避免混亂。你還可以搜尋某個特定的裝置。
 
 # Quest: Bundled AE Channels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyw.name=P2P通道-ME
@@ -9572,7 +9572,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.desc=高純度的地獄石英、賽�
 
 # Quest: Wireless Setup
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.name=無線網路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.desc=ME安全終端允許您配置哪些使用者擁有ME系統的訪問許可權，以及這些使用者的具體許可權。ME安全終端存在時，使用ME系統需要對應的許可權。%n%n安全終端無法阻止蓄意毀壞行為，例如拆除電纜/機器、銷毀驅動器等。如需保護系統免受物理破壞，您需要其他形式的實體安防措施。本模組提供的是網路層級的安全防護。%n%n放置ME安全終端的玩家對網路具有完全的控制權，並且無法取消自己的許可權。透過新增空白身份卡，您可為所有未註冊身份卡的玩家定義預設許可權。%n%n除了軟體層面的安全防護外，接入了安全終端後還可以使用無線終端實現無線訪問。%n%n若主網路配備安全終端，子網路可能也需要安裝才能訪問主網路（具體取決於您的網路配置方式，並非總是必需）。%n%nME無線訪問點使你可以用無線終端無線地訪問網路。其範圍與能耗由訪問點內安裝的無線訊號增幅器數量決定。單個網路可部署任意數量的訪問點，每個訪問點內可以安裝任意數量的增幅器，因此你可以透過改變排布自行最佳化能耗與覆蓋範圍。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.desc=ME安全終端允許您配置哪些使用者擁有ME系統的存取許可權，以及這些使用者的具體許可權。ME安全終端存在時，使用ME系統需要對應的許可權。%n%n安全終端無法阻止蓄意毀壞行為，例如拆除電纜/機器、銷毀驅動器等。如需保護系統免受物理破壞，您需要其他形式的實體安防措施。本模組提供的是網路層級的安全防護。%n%n放置ME安全終端的玩家對網路具有完全的控制權，並且無法取消自己的許可權。透過新增空白身份卡，您可為所有未註冊身份卡的玩家定義預設許可權。%n%n除了軟體層面的安全防護外，接入了安全終端後還可以使用無線終端實現無線存取。%n%n若主網路配備安全終端，子網路可能也需要安裝才能存取主網路（具體取決於您的網路配置方式，並非總是必需）。%n%nME無線存取點使你可以用無線終端無線地存取網路。其範圍與能耗由存取點內安裝的無線訊號增幅器數量決定。單個網路可部署任意數量的存取點，每個存取點內可以安裝任意數量的增幅器，因此你可以透過改變排布自行最佳化能耗與覆蓋範圍。
 
 # Quest: Dense Boys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEw.name=緻密能源元件
@@ -9592,7 +9592,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFg.desc=ME介面是唯一既可以用�
 
 # Quest: Interfacing with Inventories
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFw.name=ME儲存匯流排
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFw.desc=將ME儲存匯流排貼在其他的容器上,你就可以透過ME網路來使用這個容器.這能讓你在網路中使用箱子,桶,或者其他物品儲存.%n%n透過ME儲存匯流排的儲存控制是雙向的,只要ME儲存匯流排有其需要的頻道,那麼它就既可以輸入也可以輸出.%n%n你可以透過儲存匯流排的UI來控制容器可以儲存哪些物品,這項設定並不會影響容器內已有物品的取出.%n%n它幾乎可以呼叫任何MOD的儲存模組,包括EFR(把未來帶回現實)的桶,FZ(因式分解)的桶,JABBA的桶和抽屜等.也可以用在BC的管道中.%n%n如果你把ME儲存匯流排貼到一個ME介面上,那麼這個儲存匯流排就可以與ME介面所在網路中的全部內容進行互動(除非這個ME介面標記了自身儲存的物品,這樣ME儲存匯流排只能訪問ME介面內標記的物品).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFw.desc=將ME儲存匯流排貼在其他的容器上,你就可以透過ME網路來使用這個容器.這能讓你在網路中使用箱子,桶,或者其他物品儲存.%n%n透過ME儲存匯流排的儲存控制是雙向的,只要ME儲存匯流排有其需要的頻道,那麼它就既可以輸入也可以輸出.%n%n你可以透過儲存匯流排的UI來控制容器可以儲存哪些物品,這項設定並不會影響容器內已有物品的取出.%n%n它幾乎可以呼叫任何MOD的儲存模組,包括EFR(把未來帶回現實)的桶,FZ(因式分解)的桶,JABBA的桶和抽屜等.也可以用在BC的管道中.%n%n如果你把ME儲存匯流排貼到一個ME介面上,那麼這個儲存匯流排就可以與ME介面所在網路中的全部內容進行互動(除非這個ME介面標記了自身儲存的物品,這樣ME儲存匯流排只能存取ME介面內標記的物品).
 
 # Quest: Interfacing with Tanks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGA.name=ME流體儲存匯流排
@@ -10040,7 +10040,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=輸入/輸出匯流排(ME)是�
 
 # Quest: AE2 Fluid Crafting
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.name=AE2流體合成(AE2FC)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.desc=流體合成已經直接整合到了你的ME網路.這怎麼可能!%n%n多虧了AE2FC,一個為了GTNH而從高版本移植的、強大的AE2附屬mod.%n%n現在,需要什麼才能讓這個美妙的玩意運作呢?%n每個ME系統都需要一個ME流體離散器,它支援按需合成.雖然沒有流體離散器,你也可以使用AE2FC轉運流體;但它是自動合成必需的.%n%n然後你還需要一個ME流體樣板終端或是ME增廣流體樣板終端,後者用於裝配線.%n%n書寫樣板時,你會注意到流體放置的樣式就如同物品一樣.%n完成書寫的樣板看著是藍色的.將其放置在ME二合一介面中,能使AE2"同時"傳送流體和物品.注意,"同時"是說"兩者都會",而在先後順序上,AE2會先傳送流體,再傳送物品.%n如果想將流體儲存在二合一介面中,你可以點選GUI右上角以切換設定介面.%n%n如果你在普通介面介面中使用藍色樣板(流體樣板),AE2會以流體包的形式傳送流體.這只是用物品的形式來代表流體.ME流體封包解碼器可以將其變回流體,並儲存在流體槽中.%n%n你可以使用一個原材料快取倉(大型或是普通的),這樣你由樣板傳送的物品和流體就都能儲存在一個方塊內部了.普通的原材料快取倉可以儲存9組物品和4種流體,大型的則是27組物品和7種流體.你可以使用它同物品和流體導管實現自動化,但不一定要這樣做.%n%n如果你想自動化單方塊機器,那就如同節食期間吃巧克力蛋糕一樣簡單:%n書寫樣板,製造一個二合一介面,噹噹噹當--完成!它會自動把流體塞到單方塊機器的流體格子裡.%n%n即使是像裝配線這樣更困難的事情,在這些工具的幫助下自動化也變得容易多了%n%n如果你需要更詳細的資訊,請訪問Wiki:%n%n[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2#Autocrafting_in_AE2[/url]%n%n[note]更多儲存單元2(ExtraCells2)mod現在已經被移除了.任何舊的元件和單元都已經儘可能地被轉換為AE2和AE2FC的元件和單元了.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsg.desc=流體合成已經直接整合到了你的ME網路.這怎麼可能!%n%n多虧了AE2FC,一個為了GTNH而從高版本移植的、強大的AE2附屬mod.%n%n現在,需要什麼才能讓這個美妙的玩意運作呢?%n每個ME系統都需要一個ME流體離散器,它支援按需合成.雖然沒有流體離散器,你也可以使用AE2FC轉運流體;但它是自動合成必需的.%n%n然後你還需要一個ME流體樣板終端或是ME增廣流體樣板終端,後者用於裝配線.%n%n書寫樣板時,你會注意到流體放置的樣式就如同物品一樣.%n完成書寫的樣板看著是藍色的.將其放置在ME二合一介面中,能使AE2"同時"傳送流體和物品.注意,"同時"是說"兩者都會",而在先後順序上,AE2會先傳送流體,再傳送物品.%n如果想將流體儲存在二合一介面中,你可以點選GUI右上角以切換設定介面.%n%n如果你在普通介面介面中使用藍色樣板(流體樣板),AE2會以流體包的形式傳送流體.這只是用物品的形式來代表流體.ME流體封包解碼器可以將其變回流體,並儲存在流體槽中.%n%n你可以使用一個原材料快取倉(大型或是普通的),這樣你由樣板傳送的物品和流體就都能儲存在一個方塊內部了.普通的原材料快取倉可以儲存9組物品和4種流體,大型的則是27組物品和7種流體.你可以使用它同物品和流體導管實現自動化,但不一定要這樣做.%n%n如果你想自動化單方塊機器,那就如同節食期間吃巧克力蛋糕一樣簡單:%n書寫樣板,製造一個二合一介面,噹噹噹當--完成!它會自動把流體塞到單方塊機器的流體格子裡.%n%n即使是像裝配線這樣更困難的事情,在這些工具的幫助下自動化也變得容易多了%n%n如果你需要更詳細的資訊,請存取Wiki:%n%n[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2#Autocrafting_in_AE2[/url]%n%n[note]更多儲存單元2(ExtraCells2)mod現在已經被移除了.任何舊的元件和單元都已經儘可能地被轉換為AE2和AE2FC的元件和單元了.[/note]
 
 # Quest: Starting Your AE2 Journey
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=§5§l應用能源2啟程
@@ -10437,7 +10437,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIMw.desc=發現的基因將被記錄到�
 
 # Quest: Lab Stand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAINA.name=實驗臺
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAINA.desc=實驗臺是個可以放置各種資料庫的方塊(右鍵放置),包括養蜂員資料庫、林業員資料庫、園丁資料庫和基因資料庫. 靠近並右鍵放置了資料庫的實驗臺,即可訪問資料庫.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAINA.desc=實驗臺是個可以放置各種資料庫的方塊(右鍵放置),包括養蜂員資料庫、林業員資料庫、園丁資料庫和基因資料庫. 靠近並右鍵放置了資料庫的實驗臺,即可存取資料庫.
 
 # Quest: Registry
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAINg.name=圖鑑
@@ -11090,7 +11090,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIww.desc=這種蜜蜂需要一點運氣.
 
 # Quest: Nameless
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxA.name=無名蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxA.desc=湮沒蜂可以用硬幣買到,或是在末地找到.需要無名蜂才能雜交出惡龍蜂.無名蜂也可以生產遺忘蜜蠟,由湮沒蜂和以太蜂雜交培育而來.%n%n譯者注: 事實上湮沒,無名,遺忘,絕望蜂都可以產出遺忘蜜蠟.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxA.desc=湮沒蜂可以用硬幣買到,或是在終界找到.需要無名蜂才能雜交出惡龍蜂.無名蜂也可以生產遺忘蜜蠟,由湮沒蜂和以太蜂雜交培育而來.%n%n譯者注: 事實上湮沒,無名,遺忘,絕望蜂都可以產出遺忘蜜蠟.
 
 # Quest: Abandoned
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxQ.name=遺忘蜂
@@ -11098,11 +11098,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxQ.desc=遺忘蜂是下一步,由湮沒
 
 # Quest: Draconic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxg.name=惡龍蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxg.desc=惡龍蜂可產出用魔法製造龍蛋所需的龍之塵,必須在末地才能培育出它,由帝皇蜂和遺忘蜂雜交培育而來.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxg.desc=惡龍蜂可產出用魔法製造龍蛋所需的龍之塵,必須在終界才能培育出它,由帝皇蜂和遺忘蜂雜交培育而來.
 
 # Quest: Wither
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxw.name=凋靈蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxw.desc=凋靈蜂可為你生產凋零骷髏頭和少量地獄之星粉.蜂箱需要處在末地,並且下方需要放個地獄之星塊才能培育出它.由凋零蜂和惡龍蜂雜交培育而來.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxw.name=凋零蜂
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxw.desc=凋零蜂可為你生產凋零骷髏頭和少量地獄之星粉.蜂箱需要處在終界,並且下方需要放個地獄之星塊才能培育出它.由凋零蜂和惡龍蜂雜交培育而來.
 
 # Quest: Withering
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyA.name=凋零蜂
@@ -11182,7 +11182,7 @@ betterquesting.quest.ysj8avl1SESH2ibGOS3qjQ.desc=離您的目標又近了一步,
 
 
 ## Quest Line: Hardcore End(er) Expansion
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAKw.name=極限末地生存
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAKw.name=極限終界生存
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAKw.desc=虛空之海深處的寶藏之地!還有憤怒的符文蜘蛛在迎接你呢!
 
 # Quest: Spatial Distortions
@@ -11191,31 +11191,31 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACWg.desc=在終界人附近,你感到空
 
 # Quest: Dimensional Chest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACWw.name=次元箱
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACWw.desc=謠言說,終界人在末地蓋了研究室.在那他們開發武器跟機器,準備進攻主世界.其中一項發明是一種箱子,不知為何,所有的終界箱都互相關聯.試著找出一個終界箱.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACWw.desc=謠言說,終界人在終界蓋了研究室.在那他們開發武器跟機器,準備進攻主世界.其中一項發明是一種箱子,不知為何,所有的終界箱都互相關聯.試著找出一個終界箱.
 
 # Quest: Is This the End? No it's the END Dimension
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2g.name=這就結束了？不,這是末地!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2g.desc=你仔細研究了終界珍珠,並設法將其重新啟用變為終界之眼.而終界之眼顯示這騷亂的源頭似乎是從地下末地要塞中的傳送門框架中冒出來的.你感覺有一種神秘的力量在引導你前往那裡. 也許可以用終界之眼重新啟用這些框架?%n%n提示:將終界之眼扔出去它會引導你前往最近的末地要塞.不過這個過程可能會導致終界之眼損壞,所以你最好多準備點.在空曠無障礙的地方進行這項操作,這樣你就能看到它們的去向了.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2g.name=這就結束了？不,這是終界!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2g.desc=你仔細研究了終界珍珠,並設法將其重新啟用變為終界之眼.而終界之眼顯示這騷亂的源頭似乎是從地下終界要塞中的傳送門框架中冒出來的.你感覺有一種神秘的力量在引導你前往那裡. 也許可以用終界之眼重新啟用這些框架?%n%n提示:將終界之眼扔出去它會引導你前往最近的終界要塞.不過這個過程可能會導致終界之眼損壞,所以你最好多準備點.在空曠無障礙的地方進行這項操作,這樣你就能看到它們的去向了.
 
 # Quest: Ender Towers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLQ.name=終界之塔
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLQ.desc=隨著你在末地探索的旅程越來越遠,你可能會發現有一個巨大的塔狀建築,它的難度隨高度的提升而越來越大,塔頂還有危險的BOSS.%n%n保持警惕並帶上強大的護甲!%n%n如果你比較歐,探索終界之塔會為你帶來豐厚的收穫.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLQ.desc=隨著你在終界探索的旅程越來越遠,你可能會發現有一個巨大的塔狀建築,它的難度隨高度的提升而越來越大,塔頂還有危險的BOSS.%n%n保持警惕並帶上強大的護甲!%n%n如果你比較歐,探索終界之塔會為你帶來豐厚的收穫.
 
 # Quest: Welcome to the End!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLg.name=歡迎來到末地!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLg.desc=歡迎來到末地!更重要的是:極限末地生存(HEE).%n%n如果你已經與終界龍打過一架了,你就會知道這種戰鬥非常具有挑戰性,遠超原版終界龍.而且主島大部分會被摧毀,但不用擔心,還有許多末地小島等待你的探索,可從中獲取礦石或末地石.%n%n首先,你需要收集一些終界粉末-極限末地生存的關鍵催化劑.  強烈建議你使用任何方式飛行.%n%n提示:按下預設快捷鍵P(要是你改過的話就自己查查吧)以獲取HEE相關資訊列表.大致看了之後,你意識到自己需要知識點才能解鎖更多頁面.檢視方塊或物品或特定的東西都可以為你提供知識點.消耗知識筆記也可以提供知識點.這裡給你一些幫你入門.祝你好運!%n%n你也可以尋找冒險家日記,從中一樣可以獲取知識.%n%n[note]PS：按住Shift,手持原版劍左鍵龍蛋,可使其掉落.[/note]%n%n[warn]末地會下一種看不見的雨,所以記得把你的礦機蓋好.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLg.name=歡迎來到終界!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLg.desc=歡迎來到終界!更重要的是:極限終界生存(HEE).%n%n如果你已經與終界龍打過一架了,你就會知道這種戰鬥非常具有挑戰性,遠超原版終界龍.而且主島大部分會被摧毀,但不用擔心,還有許多終界小島等待你的探索,可從中獲取礦石或終界石.%n%n首先,你需要收集一些終界粉末-極限終界生存的關鍵催化劑.  強烈建議你使用任何方式飛行.%n%n提示:按下預設快捷鍵P(要是你改過的話就自己查查吧)以獲取HEE相關資訊列表.大致看了之後,你意識到自己需要知識點才能解鎖更多頁面.檢視方塊或物品或特定的東西都可以為你提供知識點.消耗知識筆記也可以提供知識點.這裡給你一些幫你入門.祝你好運!%n%n你也可以尋找冒險家日記,從中一樣可以獲取知識.%n%n[note]PS：按住Shift,手持原版劍左鍵龍蛋,可使其掉落.[/note]%n%n[warn]終界會下一種看不見的雨,所以記得把你的礦機蓋好.[/warn]
 
 # Quest: Essence Altar Dragon Infused
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLw.name=龍之精華祭壇
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLw.desc=想要造出龍之精華祭壇,玩家必須在基礎精華祭壇上使用龍之精華(手持精華右鍵祭壇).%n%n然後,祭壇需要注入8個任意物品.  龍之精華祭壇可能需要以下物品:黑曜石,石磚,地圖,書,書架,鐵柵欄,末地石,終界珍珠,終界之眼,終界人頭顱.%n%n在此之後,你就可以在祭壇中儲存更多的精華了.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLw.desc=想要造出龍之精華祭壇,玩家必須在基礎精華祭壇上使用龍之精華(手持精華右鍵祭壇).%n%n然後,祭壇需要注入8個任意物品.  龍之精華祭壇可能需要以下物品:黑曜石,石磚,地圖,書,書架,鐵柵欄,終界石,終界珍珠,終界之眼,終界人頭顱.%n%n在此之後,你就可以在祭壇中儲存更多的精華了.
 
 # Quest: Essence Altar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMA.name=精華祭壇
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMA.desc=這種看起來像附魔臺的方塊本身基本沒什麼用,但它有兩個不同的升級路徑(第三個目前沒有用處),可以完成不同的任務.%n%n取決於你要在何處以及如何升級你的祭壇.首先是更重要的龍之精華祭壇,但是如果你在公共伺服器上,沒有外部幫助,龍之精華可能很難獲得.%n%n這裡有一些供你入門.
 
 # Quest: Find all the Ores in the End
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMQ.name=找到末地中的所有礦石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMQ.desc=終界粉末礦石:%n這種礦石在末地任意高度的末地石中生成.可使用任意種類的鎬挖掘這種礦石,它會掉落一到兩個終界粉末.%n%n終末礦石:%n在地牢高塔附近才會出現的稀有礦石,不過隨著你的旅程繼續,它將越來越常見.%n%n火成岩礦石:%n這種礦石通常在末地的燃燒之山生成,有時也會生成在末地小島上.這個方塊有熔岩的粒子效果,但不會對玩家造成傷害.用鐵以上的鎬挖掘這種礦石會掉落火成岩.%n%n注意:時運附魔不影響火成岩礦石.然而,精準採集卻對此礦石有效.用機器打粉礦石可獲得更高的產出.%n%n震盪球礦石:%n這種礦石會在生態島嶼上生成.使用高階鎬挖掘它時,有40％的機率掉落一個震盪球,另外60％機率不掉落任何物品.%n%n注意:每級時運附魔可提升4％震盪球掉落機率.%n%n星塵礦石:%n這種礦石會在生態島嶼上生成.使用高階鎬挖掘它時,有機率掉落0-4個星塵.雖然這種礦石成簇出現,但兩個同一簇的礦石可能會相隔較遠,這使得星塵礦石是一種稀有資源,需要徹底地勘探並開採.%n%n星塵礦石方塊的側面具有不同的紋理.%n%n閃鋅:粉碎即可獲得普通的粉碎閃鋅礦礦石.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMQ.name=找到終界中的所有礦石
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMQ.desc=終界粉末礦石:%n這種礦石在終界任意高度的終界石中生成.可使用任意種類的鎬挖掘這種礦石,它會掉落一到兩個終界粉末.%n%n終末礦石:%n在地牢高塔附近才會出現的稀有礦石,不過隨著你的旅程繼續,它將越來越常見.%n%n火成岩礦石:%n這種礦石通常在終界的燃燒之山生成,有時也會生成在終界小島上.這個方塊有熔岩的粒子效果,但不會對玩家造成傷害.用鐵以上的鎬挖掘這種礦石會掉落火成岩.%n%n注意:時運附魔不影響火成岩礦石.然而,精準採集卻對此礦石有效.用機器打粉礦石可獲得更高的產出.%n%n震盪球礦石:%n這種礦石會在生態島嶼上生成.使用高階鎬挖掘它時,有40％的機率掉落一個震盪球,另外60％機率不掉落任何物品.%n%n注意:每級時運附魔可提升4％震盪球掉落機率.%n%n星塵礦石:%n這種礦石會在生態島嶼上生成.使用高階鎬挖掘它時,有機率掉落0-4個星塵.雖然這種礦石成簇出現,但兩個同一簇的礦石可能會相隔較遠,這使得星塵礦石是一種稀有資源,需要徹底地勘探並開採.%n%n星塵礦石方塊的側面具有不同的紋理.%n%n閃鋅:粉碎即可獲得普通的粉碎閃鋅礦礦石.
 
 # Quest: Enhanced Brewing Stand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMg.name=強化釀造臺
@@ -11223,15 +11223,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMg.desc=祭壇成功升級後,玩家必
 
 # Quest: HEE Biome Compass
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMw.name=HEE群系指南針
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMw.desc=群系指南針是一種特殊的指南針,當玩家在末地時,它會指向最近的生態島嶼.%n右鍵單擊會在所有現存群系中滾動切換.%n%n手持群系指南針,它將把所有選定的群系標記在螢幕上.%n標記是帶有選定生物群系顏色的小方塊,越靠近島嶼,方塊也越大(如果到達島嶼,標記就會消失,離開島嶼時會再次出現).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJMw.desc=群系指南針是一種特殊的指南針,當玩家在終界時,它會指向最近的生態島嶼.%n右鍵單擊會在所有現存群系中滾動切換.%n%n手持群系指南針,它將把所有選定的群系標記在螢幕上.%n標記是帶有選定生物群系顏色的小方塊,越靠近島嶼,方塊也越大(如果到達島嶼,標記就會消失,離開島嶼時會再次出現).
 
 # Quest: Visit the Laboratory Island
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNA.name=探索實驗室島
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNA.desc=實驗室是供終界法師使用的大型建築,用於試驗末地中的魔法物品.%n%n你可以用HEE群系指南針找到實驗室.%n%n實驗室內通常還有一些寶箱.裡面有黑曜石碎片和金幣,還有一些其他物品.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNA.desc=實驗室是供終界法師使用的大型建築,用於試驗終界中的魔法物品.%n%n你可以用HEE群系指南針找到實驗室.%n%n實驗室內通常還有一些寶箱.裡面有黑曜石碎片和金幣,還有一些其他物品.
 
 # Quest: Energy Wand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNQ.name=能量法杖
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNQ.desc=能量星團具有不同的健康水平,這影響星團的恢復(或洩漏)速度.%n%n使用能量法杖可以移動星團.移動距離太遠或跨維度移動可能會對星團的健康產生負面影響.%n%n使用能量的方塊將從16格方塊之內的星團中獲取能量,而在末地中,耗能方塊可直接從環境中獲取能量.%n%n使用能量的物品在末地會自動充能,也可以對星團使用以開始或停止抽取能量.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNQ.desc=能量星團具有不同的健康水平,這影響星團的恢復(或洩漏)速度.%n%n使用能量法杖可以移動星團.移動距離太遠或跨維度移動可能會對星團的健康產生負面影響.%n%n使用能量的方塊將從16格方塊之內的星團中獲取能量,而在終界中,耗能方塊可直接從環境中獲取能量.%n%n使用能量的物品在終界會自動充能,也可以對星團使用以開始或停止抽取能量.
 
 # Quest: Visit the Enchanted Island
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNg.name=探索附魔島嶼
@@ -11239,15 +11239,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNg.desc=這是一種非常平坦的生�
 
 # Quest: Visit the Infested Island
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNw.name=探索腐化島嶼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNw.desc=這個被腐化的島嶼大部分是平坦的生物群系,偶有山丘、長洞穴和適量的礦石.此生物群系有兩種變體-深林和毀滅.  這兩種變體內都有蠹蟲,腐化蝙蝠出沒,偶爾還有終界人.%n%n深林變體到處都是幽靈樹,樹上有鬼臉.  地面上有各種類型的腐化植物,包括蕨的灌木.%n%n毀滅變體中更多的是腐化植物,偶爾才有幽靈樹,但最重要的特徵是毀滅地牢,這是開啟護符的大門.%n%n腐化相關:%n只要站在此地形的末地石上,腐化水平就會上升. 離開該區域幾分鐘後,如果腐化水平比較低,那麼它會直接重置,也不會對玩家產生任何影響.%n%n但是,如果腐化水平較高,就會觸發一個或更多負面效果,包括虛弱、緩慢和挖掘疲勞;如果玩家的腐化水平非常高的話,觸發的負面效果還有失明、混亂和/或中毒. 這些效果無法透過喝牛奶治癒,不過你可以用祛腐藥縮短其持續時間.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJNw.desc=這個被腐化的島嶼大部分是平坦的生物群系,偶有山丘、長洞穴和適量的礦石.此生物群系有兩種變體-深林和毀滅.  這兩種變體內都有蠹蟲,腐化蝙蝠出沒,偶爾還有終界人.%n%n深林變體到處都是幽靈樹,樹上有鬼臉.  地面上有各種類型的腐化植物,包括蕨的灌木.%n%n毀滅變體中更多的是腐化植物,偶爾才有幽靈樹,但最重要的特徵是毀滅地牢,這是開啟護符的大門.%n%n腐化相關:%n只要站在此地形的終界石上,腐化水平就會上升. 離開該區域幾分鐘後,如果腐化水平比較低,那麼它會直接重置,也不會對玩家產生任何影響.%n%n但是,如果腐化水平較高,就會觸發一個或更多負面效果,包括虛弱、緩慢和挖掘疲勞;如果玩家的腐化水平非常高的話,觸發的負面效果還有失明、混亂和/或中毒. 這些效果無法透過喝牛奶治癒,不過你可以用祛腐藥縮短其持續時間.
 
 # Quest: Visit the Fiery Island
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOA.name=探索燃燒島嶼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOA.desc=這是一種火系生物群系,有巨大的山脈、大量的洞穴和礦石.  除了預設礦石外,該生物群系還有火成岩.%n%n此生物群系有兩種變體-灼燒和礦山.%n%n灼燒變體有大塊的爐渣,到處流淌的岩漿還有火蓮.  每個島嶼還有一個地牢謎題.  這裡是火傀儡和灼熱之眼的唯一生成地.%n%n礦山變體生成幽魂礦工,它們保護著礦坑(末地和岩漿中的礦洞)和長條的主世界礦石.%n%n並非所有的主世界礦石都存在於同一個島中,通常隨機缺少一兩種礦石.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOA.desc=這是一種火系生物群系,有巨大的山脈、大量的洞穴和礦石.  除了預設礦石外,該生物群系還有火成岩.%n%n此生物群系有兩種變體-灼燒和礦山.%n%n灼燒變體有大塊的爐渣,到處流淌的岩漿還有火蓮.  每個島嶼還有一個地牢謎題.  這裡是火傀儡和灼熱之眼的唯一生成地.%n%n礦山變體生成幽魂礦工,它們保護著礦坑(終界和岩漿中的礦洞)和長條的主世界礦石.%n%n並非所有的主世界礦石都存在於同一個島中,通常隨機缺少一兩種礦石.
 
 # Quest: Ghost Amulet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOQ.name=幽魂護符
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOQ.desc=幽魂護符(不純)這種物品的唯一獲取方式就是將一個綠寶石,一根線和一個終界粉末丟進終界黏漿中.%n%n擁有不純的幽魂護符後,你還需要進行神秘注魔,將其製成真正的幽魂護符(或許末地概要中記載著更傳統的注魔方式).%n%n只要將它放在揹包裡,它就可以保護玩家免受森林幽靈的傷害,從而提供一種獲取外質的方法.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOQ.desc=幽魂護符(不純)這種物品的唯一獲取方式就是將一個綠寶石,一根線和一個終界粉末丟進終界黏漿中.%n%n擁有不純的幽魂護符後,你還需要進行神秘注魔,將其製成真正的幽魂護符(或許終界概要中記載著更傳統的注魔方式).%n%n只要將它放在揹包裡,它就可以保護玩家免受森林幽靈的傷害,從而提供一種獲取外質的方法.
 
 # Quest: Blank Gem
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJOg.name=空白寶石
@@ -11287,7 +11287,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJQg.desc=灼熱之鎬是一種特殊的�
 
 # Quest: Death Flowers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJQw.name=死亡之花
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJQw.desc=這種紫色的花生長在末地小島的最高處.可以種植在末地石、泥土、草方塊上.也可以種植在花盆中.%n%n在末地外,即使在花盆中,花也會慢慢腐爛.%n%n經過一段時間的枯萎,它開始偶爾吸引憤怒的終界人.%n%n當花完全枯萎後,它會變黑並對周圍釋放出凋亡效果,但同時會生成能量星團.%n%n使用終界粉末可以部分治癒枯萎.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJQw.desc=這種紫色的花生長在終界小島的最高處.可以種植在終界石、泥土、草方塊上.也可以種植在花盆中.%n%n在終界外,即使在花盆中,花也會慢慢腐爛.%n%n經過一段時間的枯萎,它開始偶爾吸引憤怒的終界人.%n%n當花完全枯萎後,它會變黑並對周圍釋放出凋亡效果,但同時會生成能量星團.%n%n使用終界粉末可以部分治癒枯萎.
 
 # Quest: Living Matter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJRA.name=活躍物質
@@ -11318,7 +11318,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJSg.name=詛咒護符
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJSg.desc=詛咒護符可揭示附近所有放置在方塊上的詛咒,手持時還可以更快地耗盡詛咒.%n%n它是透過將終界粉末、金錠、外質和線丟進終界黏漿中製成的.
 
 # Quest: Infused Brewing Stand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJSw.name=強化強化釀造臺
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJSw.name=強化釀造臺
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJSw.desc=具有一種或多種特殊效果(強化)的釀造臺.%n%n可以使用終界粉末升級你的強化釀造臺,就像升級其他HEE物品一樣.%n%n你可以隨時往(強化)釀造臺中新增任意數量的特殊效果.%n%n強化:%n等級(外質)%n你的藥水可以比原版藥水具有更高的等級和更長的持續時間.(等級IV最長持續12分鐘)%n%n速度(火成岩)%n提高釀造速度.%n%n消耗(綠寶石)%n減少在一個釀造週期中消耗的終界粉末.
 
 # Quest: TNT Enchantments
@@ -11342,8 +11342,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUA.name=護符大師
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUA.desc=你覺得你很強?製作所有的護符,你才是真正的護符大師.
 
 # Quest: Master Grinder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUQ.name=末地大師
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUQ.desc=在征服了末地的大部分內容之後,是時候進行大師級任務了.%n帶出並殺死以下目標,你將獲得豐厚的獎勵.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUQ.name=終界大師
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUQ.desc=在征服了終界的大部分內容之後,是時候進行大師級任務了.%n帶出並殺死以下目標,你將獲得豐厚的獎勵.
 
 
 ## Quest Line: Novice Thaumaturgy
@@ -11388,7 +11388,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=不管你在這個維度哪個�
 
 # Quest: Your First Wand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=你的第一根法杖
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=你確信此處就是一切答案的埋藏之地！為了繼續奧法之旅，你需要一些道具來處理被稱為“vis”的魔法能量。也許是時候製作你的第一根法杖了。%n%n如果你還沒有開始討伐暮色森林的BOSS們，那得抓緊了。所有的法杖都需要某種暮色BOSS的掉落物，更好的法杖需要更後期的BOSS掉落物。在首次擊殺BOSS之後，你可以透過購買刷怪蛋（只能在暮色森林使用）或是戰利品+世界鹽的方式獲取更多掉落物。%n%n§3你應當在NEI中檢視法杖合成表。魔導手冊中的合成表並不全都正確。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=你確信此處就是一切答案的埋藏之地！為了繼續奧法之旅，你需要一些道具來處理被稱為“vis”的魔法能量。也許是時候製作你的第一根法杖了。%n%n如果你還沒有開始討伐暮色森林的BOSS們，那得抓緊了。所有的法杖都需要某種暮色BOSS的掉落物，更好的法杖需要更後期的BOSS掉落物。在首次擊殺BOSS之後，你可以透過購買生怪蛋（只能在暮色森林使用）或是戰利品+世界鹽的方式獲取更多掉落物。%n%n§3你應當在NEI中檢視法杖合成表。魔導手冊中的合成表並不全都正確。
 
 # Quest: Tome of Knowledge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=魔導手冊
@@ -11460,7 +11460,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.desc=給我6個混沌魔晶，我就
 
 # Quest: This is the End...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=你已經出師了!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=…年輕的學徒.你已經熟練掌握瞭如何使用法杖操縱6種基本元素,也精通了如何向各種物品中注入源質和vis的方法，也製作出了你能熟練使用的魔杖。但是請小心年輕人，你深入的越多，則越多的黑暗和邪惡會誘惑你去前往魔法的禁忌之路。我看到了那些...變化的天氣、隨機的傳送、恍惚的神志、甚至一個凋靈就在某人旁邊並闖入我們的宇宙。一路小心，我的朋友...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=…年輕的學徒.你已經熟練掌握瞭如何使用法杖操縱6種基本元素,也精通了如何向各種物品中注入源質和vis的方法，也製作出了你能熟練使用的魔杖。但是請小心年輕人，你深入的越多，則越多的黑暗和邪惡會誘惑你去前往魔法的禁忌之路。我看到了那些...變化的天氣、隨機的傳送、恍惚的神志、甚至一個凋零就在某人旁邊並闖入我們的宇宙。一路小心，我的朋友...
 
 # Quest: Turning Liquids Into Essentia
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=嘗試把液體煉化成源質
@@ -11536,7 +11536,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAETA.desc=在你製造成功可以儲存5
 
 # Quest: Division Sigil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAETQ.name=分割徽章(啟用)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAETQ.desc=也許你在寶箱中找到的分割徽章已經壓了好久的箱底.還是說從凋靈那裡搶到的徽章堆積如山? 好吧,無論怎麼得來的,你應該聽說過用一種儀式可以啟用它.%n%n首先你需要一個附魔臺,8個紅石,一把好一點的武器和一隻用來獻祭的動物.用黃金套索抓住它們是一個不錯的選擇.要是你還沒完成這個任務,檢視LV階段工作列.%n%n把你的附魔臺放在一個下方是草方塊的空地上,並用紅石圍繞附魔臺一圈.%n%n到了午夜時分,你會發現分割徽章開始發光了(手持徽章右鍵附魔臺能夠檢查時間是否恰當),這個時候將用來獻祭的動物放到附魔臺上並殺死它.%n%n儀式完成後你就會發現分割徽章已經成功啟用了.%n%n當然進行這個儀式不是沒有代價的!%n%n譯者注:現在可以用直接合成不穩定金屬錠的配方了,並且只要按住shift一次合成多個錠,它就不會爆炸!%n%n譯者再注:升級版偽逆徽章可以無限合成錠,後面的任務會介紹相應儀式.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAETQ.desc=也許你在寶箱中找到的分割徽章已經壓了好久的箱底.還是說從凋零那裡搶到的徽章堆積如山? 好吧,無論怎麼得來的,你應該聽說過用一種儀式可以啟用它.%n%n首先你需要一個附魔臺,8個紅石,一把好一點的武器和一隻用來獻祭的動物.用黃金套索抓住它們是一個不錯的選擇.要是你還沒完成這個任務,檢視LV階段工作列.%n%n把你的附魔臺放在一個下方是草方塊的空地上,並用紅石圍繞附魔臺一圈.%n%n到了午夜時分,你會發現分割徽章開始發光了(手持徽章右鍵附魔臺能夠檢查時間是否恰當),這個時候將用來獻祭的動物放到附魔臺上並殺死它.%n%n儀式完成後你就會發現分割徽章已經成功啟用了.%n%n當然進行這個儀式不是沒有代價的!%n%n譯者注:現在可以用直接合成不穩定金屬錠的配方了,並且只要按住shift一次合成多個錠,它就不會爆炸!%n%n譯者再注:升級版偽逆徽章可以無限合成錠,後面的任務會介紹相應儀式.
 
 # Quest: Cursed Earth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAETw.name=詛咒之土
@@ -11580,7 +11580,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFtQ.desc=不想再猜測什麼物品含�
 
 # Quest: Warp Warnings
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.name=扭曲警報
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.desc=神秘時代的裝置與工具可以帶來強大的力量。但力量是需要付出代價的……這種代價表現為扭曲：一種對角色思想與靈魂的侵蝕，逐漸對他們造成更多可怕的影響。%n%n雖然扭曲的效果小則煩人，大則致命，但積累足夠多的扭曲也可以讓你獲得更大的力量……代價就是越發瘋狂，也越發吸引黑暗力量。至少，在別人看來是瘋狂……但是，當你頭腦中的聲音賜予你有用的知識時，這真的算是瘋狂嗎？神秘扭曲學（Warp Theory）新增了一系列扭曲效果。要萬分當心，因為你肯定不想在你的基地裡生成一隻凋靈。%n%n[note]如果你還處於神秘時代旅程的早期，無需被扭曲嚇跑。只有在你進行了大量研究之後，才會遇到危險的扭曲效果。如果你仍想規避所有風險，請務必避免研究那些標記為“§5禁忌知識§r”的內容。[/note]%n%n扭曲效果與扭曲值相關。%n%n5扭曲：訊息%n10扭曲：假爆炸%n15扭曲：硬幣、南瓜%n20扭曲：下蛋、生成幻影%n25扭曲：假苦力怕、假雨%n30扭曲：假GT音效、生成蝙蝠%n35扭曲：流血、假終界人%n40扭曲：生成友善苦力怕%n45扭曲：跳躍提升、反胃%n50扭曲：失眠、Vis流失、怪異噪聲%n55扭曲：雷雨%n60扭曲：生成九獄焱蝠%n65扭曲：失明、中毒%n70扭曲：牲畜之雨%n75扭曲：生成分身%n80扭曲：生成終界人、凋零效果%n85扭曲：怪風%n90扭曲：終界珍珠%n95扭曲：烈焰人火球%n100扭曲：奧術石蕊試紙、垃圾、深淵的呼喚%n110扭曲：黑曜石%n120扭曲：閃電%n125扭曲：物品欄換位%n130扭曲：隨機傳送%n140扭曲：加速%n150扭曲：假凋靈、物品欄打亂%n160扭曲：倒計時爆炸%n170扭曲：蘑菇%n175扭曲：下雪%n180扭曲：裝備腐蝕%n190扭曲：生機勃勃%n200扭曲：生成凋靈
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.desc=神秘時代的裝置與工具可以帶來強大的力量。但力量是需要付出代價的……這種代價表現為扭曲：一種對角色思想與靈魂的侵蝕，逐漸對他們造成更多可怕的影響。%n%n雖然扭曲的效果小則煩人，大則致命，但積累足夠多的扭曲也可以讓你獲得更大的力量……代價就是越發瘋狂，也越發吸引黑暗力量。至少，在別人看來是瘋狂……但是，當你頭腦中的聲音賜予你有用的知識時，這真的算是瘋狂嗎？神秘扭曲學（Warp Theory）新增了一系列扭曲效果。要萬分當心，因為你肯定不想在你的基地裡生成一隻凋零。%n%n[note]如果你還處於神秘時代旅程的早期，無需被扭曲嚇跑。只有在你進行了大量研究之後，才會遇到危險的扭曲效果。如果你仍想規避所有風險，請務必避免研究那些標記為“§5禁忌知識§r”的內容。[/note]%n%n扭曲效果與扭曲值相關。%n%n5扭曲：訊息%n10扭曲：假爆炸%n15扭曲：硬幣、南瓜%n20扭曲：下蛋、生成幻影%n25扭曲：假苦力怕、假雨%n30扭曲：假GT音效、生成蝙蝠%n35扭曲：流血、假終界人%n40扭曲：生成友善苦力怕%n45扭曲：跳躍提升、反胃%n50扭曲：失眠、Vis流失、怪異噪聲%n55扭曲：雷雨%n60扭曲：生成九獄焱蝠%n65扭曲：失明、中毒%n70扭曲：牲畜之雨%n75扭曲：生成分身%n80扭曲：生成終界人、凋零效果%n85扭曲：怪風%n90扭曲：終界珍珠%n95扭曲：烈焰人火球%n100扭曲：奧術石蕊試紙、垃圾、深淵的呼喚%n110扭曲：黑曜石%n120扭曲：閃電%n125扭曲：物品欄換位%n130扭曲：隨機傳送%n140扭曲：加速%n150扭曲：假凋零、物品欄打亂%n160扭曲：倒計時爆炸%n170扭曲：蘑菇%n175扭曲：下雪%n180扭曲：裝備腐蝕%n190扭曲：生機勃勃%n200扭曲：生成凋零
 
 # Quest: The Night's Not Dark Anymore
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHQ.name=夜晚不再漆黑
@@ -11660,7 +11660,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALRg.desc=這臺裝置相當於自動化�
 
 # Quest: Growing Auram
 betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.name=生長的靈氣
-betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.desc=靈氣可能是一種可能很難獲得的源質.可能你已經從天域之華中得到了一些,天域之華是地獄中少見的飛行球體(譯註：神秘時代的精靈)所掉落的,或者是破壞靈氣節點.這顯然不是一個好的獲取方式.%n%n當滿月出現在頭頂時,靈氣花會張開花瓣,大概是為了吸收月華.對您來說有意義的是,它們偶爾會脫落花瓣,這些花瓣可以從地上收集起來作為優秀的靈氣源質來源.%n%n你應該保證靈氣花附近地面沒有其他花草,便於你稍後收集靈氣花花瓣.靈氣花本身只需要種在草方塊上,而不是耕地方塊上,所以附近也不需要有水源.%n%n[note]大地疣也是一個可再生的靈氣源質來源.它在捕魚,農業,烹飪任務選項卡中有一個任務.[/note]
+betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.desc=靈氣可能是一種可能很難獲得的源質.可能你已經從天域之華中得到了一些,天域之華是地獄中少見的飛行球體(譯註：神秘時代的精靈)所掉落的,或者是破壞靈氣節點.這顯然不是一個好的獲取方式.%n%n當滿月出現在頭頂時,靈氣花會張開花瓣,大概是為了吸收月華.對您來說有意義的是,它們偶爾會脫落花瓣,這些花瓣可以從地上收集起來作為優秀的靈氣源質來源.%n%n你應該保證靈氣花附近地面沒有其他花草,便於你稍後收集靈氣花花瓣.靈氣花本身只需要種在草方塊上,而不是耕地方塊上,所以附近也不需要有水源.%n%n[note]大地疣也是一個可再生的靈氣源質來源.它在捕魚,農業,烹飪任務分頁中有一個任務.[/note]
 
 # Quest: Thauminite Helmet
 betterquesting.quest.CAqER5QVQg2Hq9lLZ9zDzg.name=秘晶頭盔
@@ -11892,8 +11892,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=附魔專家
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=終極附魔裝置--你可以使用滲透附魔臺來選擇你想要的附魔. 這個附魔臺以VIS為動力,可以創造出你能想象到的最強大的附魔組合.
 
 # Quest: Crying Obsidian...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=尖叫黑曜石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=這個神奇的石頭在你死後會找到你的靈魂,有些時候這很方便.把兩個尖叫黑曜石垂直放置在一起,觸控它後你就可以把你的出生點設定到這個位置,而不需要一張床了.你可以想象一下如何使用它.(魔導手冊神秘基礎中的研究內容)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=哭泣黑曜石
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=這個神奇的石頭在你死後會找到你的靈魂,有些時候這很方便.把兩個哭泣黑曜石垂直放置在一起,觸控它後你就可以把你的出生點設定到這個位置,而不需要一張床了.你可以想象一下如何使用它.(魔導手冊神秘基礎中的研究內容)
 
 # Quest: Useful Trees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=有用的樹
@@ -11933,7 +11933,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAETg.desc=你成為了一位熟練的神�
 
 # Quest: Stable Division Sigil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUQ.name=偽逆徽章
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUQ.desc=偽逆徽章的儀式要比啟用分割徽章的儀式要困難得多.進行過這個儀式之後你的徽章將變得異常穩定,用其製作出的金屬錠也不會爆炸,且徽章的耐久無限.%n%n這個儀式需要在末地進行. 儀式是透過在末地一片比較平坦的區域放置一個信標,周圍環繞上螺旋狀的紅石和線(右鍵放置),並且在信標四個面正對方向的線外各放一個箱子.然後在每個箱子內放入以下這些物品:%n%n北:石頭,玻璃,木炭,金錠,鐵錠,烤豬排,烤牛排,硬化黏土,烤雞肉,仙人掌綠,烤馬鈴薯,烤魚.%n南:泥土,草方塊,沙子,沙礫,黏土,以及原版礦石每種一個.%n東:12種效果不同的藥水.%n西:12張不同的唱片.%n%n手持啟用的分割徽章Shift右擊信標可以得到當前儀式的進行進度.%n%n最後在儀式中心殺死一個鐵傀儡,如果儀式成功,將會發生一次爆炸,並摧毀信標和箱子,並且末地裡將會出現100隻各種各樣自帶加速buff並仇恨鎖定玩家的怪物,你需要將它們全部殺光.在沒有完成儀式之前如果玩家離開末地或者死亡,儀式將會失敗,你必須重新進行儀式. 擊殺夠足夠數量的怪物後,分割徽章將會變得穩定. 偽逆徽章可以無限使用,合成的"莫比烏斯"穩定/不穩定"錠"將不會爆炸,並且可以使用任意方式進行合成,還可以疊加到64個一組.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUQ.desc=偽逆徽章的儀式要比啟用分割徽章的儀式要困難得多.進行過這個儀式之後你的徽章將變得異常穩定,用其製作出的金屬錠也不會爆炸,且徽章的耐久無限.%n%n這個儀式需要在終界進行. 儀式是透過在終界一片比較平坦的區域放置一個信標,周圍環繞上螺旋狀的紅石和線(右鍵放置),並且在信標四個面正對方向的線外各放一個箱子.然後在每個箱子內放入以下這些物品:%n%n北:石頭,玻璃,木炭,金錠,鐵錠,烤豬排,烤牛排,硬化黏土,烤雞肉,仙人掌綠,烤馬鈴薯,烤魚.%n南:泥土,草方塊,沙子,沙礫,黏土,以及原版礦石每種一個.%n東:12種效果不同的藥水.%n西:12張不同的唱片.%n%n手持啟用的分割徽章Shift右擊信標可以得到當前儀式的進行進度.%n%n最後在儀式中心殺死一個鐵傀儡,如果儀式成功,將會發生一次爆炸,並摧毀信標和箱子,並且終界裡將會出現100隻各種各樣自帶加速buff並仇恨鎖定玩家的怪物,你需要將它們全部殺光.在沒有完成儀式之前如果玩家離開終界或者死亡,儀式將會失敗,你必須重新進行儀式. 擊殺夠足夠數量的怪物後,分割徽章將會變得穩定. 偽逆徽章可以無限使用,合成的"莫比烏斯"穩定/不穩定"錠"將不會爆炸,並且可以使用任意方式進行合成,還可以疊加到64個一組.
 
 # Quest: Magic "Staffter"
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpw.name=魔法"手權杖"
@@ -12239,7 +12239,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXQ.desc=法杖核心:採掘可以發出
 
 # Quest: Bzzap!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXg.name=霹靂嗡！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXg.desc=法杖核心:震擊將發射一道閃電。它會向瞄準點最近的生物／玩家小幅追蹤，其速度甚至足以在終界人傳送前命中目標！%n%n[note]這個法杖核心可以在核心鑲飾臺中附加以下升級：[/note]%n§5樸素§r：每級降低10％vis消耗%n§5潛能§r：每級提升傷害%n§5連鎖閃電§r（3級）：閃電箭將躍遷至兩個鄰近目標，專治精神扭曲產生的蝙蝠群！%n§5電波震盪§r（3級）：改為發射可使地面帶電的閃電球%n§5增廣§r（需要§5連鎖閃電§r）：每級增加兩個額外躍遷目標，讓蝙蝠知道誰才是老大！%n%n譯者注：任務標題原文“Bzzap!”應當neta自超級馬里奧中的蜜蜂怪物Bzzap!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXg.desc=法杖核心:震擊將發射一道閃電。它會向瞄準點最近的生物／玩家小幅追蹤，其速度甚至足以在終界人傳送前命中目標！%n%n[note]這個法杖核心可以在核心鑲飾臺中附加以下升級：[/note]%n§5樸素§r：每級降低10％vis消耗%n§5潛能§r：每級提升傷害%n§5連鎖閃電§r（3級）：閃電箭將躍遷至兩個鄰近目標，專治精神扭曲產生的蝙蝠群！%n§5電波震盪§r（3級）：改為發射可使地面帶電的閃電球%n§5增廣§r（需要§5連鎖閃電§r）：每級增加兩個額外躍遷目標，讓蝙蝠知道誰才是老大！%n%n譯者注：任務標題原文“Bzzap!”應當neta自超級瑪利歐中的蜜蜂怪物Bzzap!
 
 # Quest: Trade Offer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXw.name=來點公平交換？
@@ -12637,7 +12637,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGw.desc=沉睡之釀是巫師進入精�
 
 # Quest: The Spirit World - Nightmare
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHA.name=精神世界-噩夢
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHA.desc=精神世界是一個反映現實主世界地形的替代現實.當人們做夢時,他們往往最終會進入精神世界而渾然不覺(往往作為其中的眾多居民之一出現).強大的巫師可以製造出沉睡之釀,使他們可以將清醒的意識傳送到精神世界,留下他們的身體和裝備.%n%n精神世界是纖細棉花,擾亂棉花(製作織夢者的材料)和甜蜜飢餓的唯一來源.水心之釀也只能在精神世界中製造.%n%n很少有東西可以帶入精神世界,或從精神世界帶出--在前往那裡時要記住這一點(冰針總是會留在物品欄中).纖細棉花,擾亂棉花,甜蜜飢餓和水心之釀可以從精神世界帶到現實世界.%n%n兩個重要的事項需要注意:圓環法陣在精神世界中不起作用;而且終界人無法進入精神世界.%n%n[note]如果你是歐皇,直接進入了美夢世界,那麼記得收集至少16個纖細棉花.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHA.desc=精神世界是一個反映現實主世界地形的替代現實.當人們做夢時,他們往往最終會進入精神世界而渾然不覺(往往作為其中的眾多居民之一出現).強大的巫師可以製造出沉睡之釀,使他們可以將清醒的意識傳送到精神世界,留下他們的身體和裝備.%n%n精神世界是纖細棉花,干擾棉花(製作織夢者的材料)和甜蜜飢餓的唯一來源.水心之釀也只能在精神世界中製造.%n%n很少有東西可以帶入精神世界,或從精神世界帶出--在前往那裡時要記住這一點(冰針總是會留在物品欄中).纖細棉花,干擾棉花,甜蜜飢餓和水心之釀可以從精神世界帶到現實世界.%n%n兩個重要的事項需要注意:圓環法陣在精神世界中不起作用;而且終界人無法進入精神世界.%n%n[note]如果你是歐皇,直接進入了美夢世界,那麼記得收集至少16個纖細棉花.[/note]
 
 # Quest: Early Bird Gets the...Nightmare?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHg.name=早起的鳥兒得到了...噩夢？
@@ -12717,7 +12717,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMA.desc=水心之釀以液體形式捕�
 
 # Quest: We Need Another Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMQ.name=我們需要另一個巫師烤爐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMQ.desc=首先,你不能去其他維度獲取材料,如暮色森林、地獄或末地. 讓我們開始製作一個新的巫師烤爐和一堆黏土罐,從一些基本成分開始.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMQ.desc=首先,你不能去其他維度獲取材料,如暮色森林、地獄或終界. 讓我們開始製作一個新的巫師烤爐和一堆黏土罐,從一些基本成分開始.
 
 # Quest: Dream Distillery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMg.name=夢中蒸餾塔
@@ -12825,7 +12825,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJA.desc=聖餐杯可升級祭壇,提升
 
 # Quest: Arthana
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJQ.name=儀祭匕首
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJQ.desc=儀祭匕首是巫師使用的一種禮儀用刀,既可以收集特殊的食材,也可以進行一些儀式.它的一般屬性與金劍一致(傷害,附魔等),但它同時具備鐵劍的耐久.可用金錠修復.%n%n儀祭匕首的主要用途是收集巫術中使用的特殊原料(它將顯著提高怪物掉落此類原料的機率)(例如蝙蝠之毛,狗之舌等).使用它擊殺亡靈生物還有小機率掉落幽靈粉末.  當僅有原版Minecraft和巫術mod(且不使用其他模組)時,使用儀祭匕首殺死骷髏是獲取骷髏頭顱的唯一方式,掉落機率約為5％(頭顱是祭壇的重要升級).使用儀祭匕首還有較小機率獲得其他頭顱(從怪物或玩家身上).搶奪附魔可增加所有掉落機率.%n%n儀祭匕首無法提高凋靈骷髏頭顱的掉落機率,只能透過搶奪附魔這種常規方式提高.%n%n某些圓環儀式需要用到儀祭匕首,不過在儀式過程中不會消耗它.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJQ.desc=儀祭匕首是巫師使用的一種禮儀用刀,既可以收集特殊的食材,也可以進行一些儀式.它的一般屬性與金劍一致(傷害,附魔等),但它同時具備鐵劍的耐久.可用金錠修復.%n%n儀祭匕首的主要用途是收集巫術中使用的特殊原料(它將顯著提高怪物掉落此類原料的機率)(例如蝙蝠之毛,狗之舌等).使用它擊殺亡靈生物還有小機率掉落幽靈粉末.  當僅有原版Minecraft和巫術mod(且不使用其他模組)時,使用儀祭匕首殺死骷髏是獲取骷髏頭顱的唯一方式,掉落機率約為5％(頭顱是祭壇的重要升級).使用儀祭匕首還有較小機率獲得其他頭顱(從怪物或玩家身上).搶奪附魔可增加所有掉落機率.%n%n儀祭匕首無法提高凋零骷髏頭顱的掉落機率,只能透過搶奪附魔這種常規方式提高.%n%n某些圓環儀式需要用到儀祭匕首,不過在儀式過程中不會消耗它.
 
 # Quest: Happenstance Oil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJg.name=巧合油
@@ -12845,7 +12845,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKw.desc=烈焰小鬼是與火焰魔法�
 
 # Quest: Lord of Torment
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLA.name=痛苦之王
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLA.desc=痛苦之王是一個強大的惡魔,可以製造痛苦迷宮,折磨受害者.%n%n那些愚蠢的召喚這些生物的人必須為一場艱苦的戰鬥做好準備.%n%n痛苦之王只能透過苦痛卷軸中列出的儀式召喚.%n這種卷軸很難獲得,但有傳言稱,非常滿意的烈焰小鬼會與你交易此卷軸.%n%n消耗痛苦惡魔的靈魂可以折磨他人.%n%n如果你很倒黴,進入痛苦迷宮時痛苦之王不見了,請使用刷怪蛋再召喚一個吧.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLA.desc=痛苦之王是一個強大的惡魔,可以製造痛苦迷宮,折磨受害者.%n%n那些愚蠢的召喚這些生物的人必須為一場艱苦的戰鬥做好準備.%n%n痛苦之王只能透過苦痛卷軸中列出的儀式召喚.%n這種卷軸很難獲得,但有傳言稱,非常滿意的烈焰小鬼會與你交易此卷軸.%n%n消耗痛苦惡魔的靈魂可以折磨他人.%n%n如果你很倒黴,進入痛苦迷宮時痛苦之王不見了,請使用生怪蛋再召喚一個吧.
 
 # Quest: Mutating Sprig
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUw.name=變異枝條
@@ -13199,7 +13199,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.desc=角魔狩獵者是狩獵者的�
 
 # Quest: Kill Ender Dragon
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.name=獵殺終界龍
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.desc=這條龍必須死!如果給它足夠長的時間,它會摧毀那些珍貴的末地石塊!%n%n[note]PS：手持原版劍,按住Shift左鍵龍蛋即可採集.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.desc=這條龍必須死!如果給它足夠長的時間,它會摧毀那些珍貴的終界石塊!%n%n[note]PS：手持原版劍,按住Shift左鍵龍蛋即可採集.[/note]
 
 # Quest: Kill Shade of Leonard
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=獵殺半羊人之影
@@ -13226,16 +13226,16 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACGQ.name=殺戮時刻(女巫)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACGQ.desc=女巫既可恨又危險,她們總是躲在遠處向你扔藥水.要小心!
 
 # Quest: Time to Kill (Wither Skeleton)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.name=殺戮時刻(凋靈骷髏)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.desc=借爾項上§o頭顱§r一用!!! <-- 這是每一個玩家看到凋靈骷髏心裡想的吧.%n%n要是你還不知道的話,這裡提一句,將4個靈魂沙擺成豎著的T形,然後在上頭放3個凋靈骷髏頭,你就能召喚出凋靈BOSS了. 別在你的基地裡這麼幹.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.name=殺戮時刻(凋零骷髏)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.desc=借爾項上§o頭顱§r一用!!! <-- 這是每一個玩家看到凋零骷髏心裡想的吧.%n%n要是你還不知道的話,這裡提一句,將4個靈魂沙擺成豎著的T形,然後在上頭放3個凋零骷髏頭,你就能召喚出凋零BOSS了. 別在你的基地裡這麼幹.
 
 # Quest: Slay the Eyes!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACXQ.name=消滅終界之眼
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACXQ.desc=找到並殺死終界之眼,它們保護著高塔.
 
 # Quest: Ender Guardians
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACXg.name=末地守護者
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACXg.desc=如果你打算要...的話,獵殺一些末地守護者.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACXg.name=終界守護者
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACXg.desc=如果你打算要...的話,獵殺一些終界守護者.
 
 # Quest: Slay the Dragon. (Again)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACXw.name=消滅終界龍(再一次)
@@ -13255,7 +13255,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADhQ.desc=OK，這是個迷宮。還有�
 
 # Quest: A Big Ugly Snake
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.name=大丑蛇
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=一般來說,製作你第一根法杖需要一個醜陋的生物.%n%n[note]想要在暮色森林中持續推進,你需要一步一個腳印依次完成成就.它們經常出bug,所以,請將BOSS的掉落物反覆丟出、撿起.沒錯,有的時候首次撿起這些掉落物的時候,mod腦子一抽,我們都懂的.[/note]%n%n[note]另外,如果你不是使用近戰攻擊殺死BOSS的話,任務書3(BQ3)也有可能無法正確檢測到擊殺,所以想要完成這些任務的話(錯失了第一次機會),請使用硬幣章節買到的刷怪蛋,然後等到BOSS殘血的時候跟他站擼吧.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=一般來說,製作你第一根法杖需要一個醜陋的生物.%n%n[note]想要在暮色森林中持續推進,你需要一步一個腳印依次完成成就.它們經常出bug,所以,請將BOSS的掉落物反覆丟出、撿起.沒錯,有的時候首次撿起這些掉落物的時候,mod腦子一抽,我們都懂的.[/note]%n%n[note]另外,如果你不是使用近戰攻擊殺死BOSS的話,任務書3(BQ3)也有可能無法正確檢測到擊殺,所以想要完成這些任務的話(錯失了第一次機會),請使用硬幣章節買到的生怪蛋,然後等到BOSS殘血的時候跟他站擼吧.[/note]
 
 # Quest: Adventure Time!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=冒險時間!
@@ -13307,11 +13307,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADkg.desc=沒人知道他們是誰,或是
 
 # Quest: Time to Kill (Enderman)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkw.name=殺戮時刻(終界人)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkw.desc=呃,花俏的傳送珍珠.你需要它們.全部!現在!%n%n[note]PS：頂部的是普通終界人,底部的是特殊怪物mod版本.都怪mod特殊怪物(Special-Mobs),造就了許許多多稀奇古怪的終界人. HEE(極限末地生存)的終界人(比如憤怒的終界人)不計算在內. [/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkw.desc=呃,花俏的傳送珍珠.你需要它們.全部!現在!%n%n[note]PS：頂部的是普通終界人,底部的是特殊怪物mod版本.都怪mod特殊怪物(Special-Mobs),造就了許許多多稀奇古怪的終界人. HEE(極限終界生存)的終界人(比如憤怒的終界人)不計算在內. [/note]
 
 # Quest: Time to Kill (Wither)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.name=殺戮時刻(凋靈)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.desc=收集了幾個凋靈骷髏頭之後,你覺得你應該需要再多做點事--那為什麼不殺一個凋靈怪？不管怎樣,你都需要一大堆地獄之星...%n%n殺它兩次會有驚喜哦
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.name=殺戮時刻(凋零)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.desc=收集了幾個凋零骷髏頭之後,你覺得你應該需要再多做點事--那為什麼不殺一個凋零怪？不管怎樣,你都需要一大堆地獄之星...%n%n殺它兩次會有驚喜哦
 
 # Quest: Secret: The Trade For Life
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADlQ.name=秘密:為了生命的買賣
@@ -13498,8 +13498,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALJg.name=殺戮時刻(小惡魔)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALJg.desc=小惡魔是一種會在整個地獄跑來跑去的橘色小動物.它們很和平不會攻擊你. %n%n殺戮一些以獲取皮革再打造防火護甲吧.
 
 # Quest: Time to Kill (Shulker)
-betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.name=殺戮時刻(潛影貝)
-betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.desc=潛影貝會在暮色森林的巫妖塔或惡魂之後塔內生成，你也可以透過配方合成或者任務獎勵頁面兌換它的刷怪蛋。
+betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.name=殺戮時刻(界伏蚌)
+betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.desc=界伏蚌會在暮色森林的巫妖塔或惡魂之後塔內生成，你也可以透過配方合成或者任務獎勵頁面兌換它的生怪蛋。
 
 # Quest: Time to Kill (Rabbit)
 betterquesting.quest.UfPfIUITQrG1E1G33eQ__g.name=殺戮時刻(兔子)
@@ -14219,7 +14219,7 @@ betterquesting.quest.BROwnPTiTWC2lhdY6Eenng.name=替換粗鈾礦石
 betterquesting.quest.BROwnPTiTWC2lhdY6Eenng.desc=可以把你的GT粗鈾礦石換成IC2鈾礦石。
 
 # Quest: Shulker
-betterquesting.quest.C8FHZDizTnax3tt7HvnkBw.name=潛影盒
+betterquesting.quest.C8FHZDizTnax3tt7HvnkBw.name=界伏盒
 betterquesting.quest.C8FHZDizTnax3tt7HvnkBw.desc=如果我是你，我會選擇在室內進行這場戰鬥……
 
 # Quest: Raw Netherquartz Ore Exchange
@@ -14315,7 +14315,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.desc=你幾乎完成它了!只需要
 
 # Quest: Dark Steel Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.name=§6§l玄鋼工具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.desc=還有玄鋼製成的工具.它們都可以接受升級.按住shift以獲得工具提示,它會解釋你需要用什麼材料來給工具升級.%n%n這些工具還可以像原版工具一樣獲得附魔. 終結之劍可以提升凋靈骷髏頭與終界珍珠的掉落機率.它還可以被升級,能夠傳送玩家.%n%n玄鋼剪可以被注能,可以一次剪下5x5x3的範圍(包括樹葉).用它來清理巨大的紅木吧!可能你還能找到它別的用途.%n%n玄鋼斧,一旦被注能,放入種植站的玄鋼斧可以被無線充能.%n%n玄鋼鎬?好吧,它能開採鈷,要是你還沒有別的能開採鈷的鎬子的話.要是你的日常開採鎬比這個好的話,玄鋼鎬還可以用來作為裝飾物...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.desc=還有玄鋼製成的工具.它們都可以接受升級.按住shift以獲得工具提示,它會解釋你需要用什麼材料來給工具升級.%n%n這些工具還可以像原版工具一樣獲得附魔. 終結之劍可以提升凋零骷髏頭與終界珍珠的掉落機率.它還可以被升級,能夠傳送玩家.%n%n玄鋼剪可以被注能,可以一次剪下5x5x3的範圍(包括樹葉).用它來清理巨大的紅木吧!可能你還能找到它別的用途.%n%n玄鋼斧,一旦被注能,放入種植站的玄鋼斧可以被無線充能.%n%n玄鋼鎬?好吧,它能開採鈷,要是你還沒有別的能開採鈷的鎬子的話.要是你的日常開採鎬比這個好的話,玄鋼鎬還可以用來作為裝飾物...
 
 # Quest: And It Will Never Break
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=§9§l它永遠不會損壞
@@ -14403,7 +14403,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACjg.desc=將進階電力噴氣揹包及�
 
 # Quest: Gravi Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACjw.name=重力胸甲
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjw.desc=重力胸甲是整合了高能噴氣揹包的終極量子胸甲。它有不少值得注意的功能：%n%n- 30M EU容量%n- 宇航服功能%n- 防化服功能%n- 重力引擎（創造模式飛行）%n- 懸停模式%n- 量子護盾（無敵，需要全套量子護甲）%n%n[note]按鍵繫結：%nHUD：Gravi HUD Key%n重力引擎：Gravi Fly Key%n懸停模式：空格+IC2 Mode Switch Key%n量子護盾：潛行+IC2 Mode Switch Key[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACjw.desc=重力胸甲是整合了高能噴氣揹包的終極量子胸甲。它有不少值得注意的功能：%n%n- 30M EU容量%n- 太空衣功能%n- 防化服功能%n- 重力引擎（創造模式飛行）%n- 懸停模式%n- 量子護盾（無敵，需要全套量子護甲）%n%n[note]按鍵繫結：%nHUD：Gravi HUD Key%n重力引擎：Gravi Fly Key%n懸停模式：空格+IC2 Mode Switch Key%n量子護盾：潛行+IC2 Mode Switch Key[/note]
 
 # Quest: Moron's Manual to Fecund Farms
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACzg.name=農場"智者"手冊
@@ -14639,7 +14639,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhg.desc=你準備好長途旅行了嗎?
 
 # Quest: Planetary Tears
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGA.name=行星之淚
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGA.desc=你確實會為所有等階行星的繁瑣要求而流淚的.這裡有一份有用的參考資料.%n%n1階-需要供氧裝置%n月球%n%n2階-需要隔熱套裝%n火星%n火衛一%n火衛二%n%n3階-需要2階隔熱套裝%n小行星-無重力環境,因為沒有行星%n穀神星%n木衛二%n木衛三%n木衛四%n羅斯128b-宜居行星(無需供氧裝置/隔熱套裝)%n%n4階-需要2階隔熱套裝%n木衛一%n水星%n金星-需要宇航服%n%n5階-需要2階隔熱套裝%n土衛二%n土衛六%n天衛五%n天衛四%n羅斯128ba%n%n6階-需要2階隔熱套裝%n海衛八%n海衛一%n%n7階-需要2階隔熱套裝%n柯伊伯帶-無重力環境%n冥王星%n妊神星%n鳥神星%n%n8階-需要2階隔熱套裝%n半人馬Bb-需要宇航服%n巴納德C-宜居行星(無需供氧裝置/隔熱套裝)%n織女B%n巴納德E%n巴納德F%n鯨魚座E-宜居行星(無需供氧裝置/隔熱套裝)%n%n9階%n荷魯斯-需要1階隔熱套裝%n奈佩爾-宜居行星(無需供氧裝置/隔熱套裝)%n邁罕帶%n馬赫斯%n賽特%n阿努比斯-需要2階隔熱套裝%n%n譯者注:%n%n宇航服-隔熱套裝-供氧裝置-宜居行星%n這四個需求依次降低,高需求必須先滿足低需求.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGA.desc=你確實會為所有等階行星的繁瑣要求而流淚的.這裡有一份有用的參考資料.%n%n1階-需要供氧裝置%n月球%n%n2階-需要隔熱套裝%n火星%n火衛一%n火衛二%n%n3階-需要2階隔熱套裝%n小行星-無重力環境,因為沒有行星%n穀神星%n木衛二%n木衛三%n木衛四%n羅斯128b-宜居行星(無需供氧裝置/隔熱套裝)%n%n4階-需要2階隔熱套裝%n木衛一%n水星%n金星-需要太空衣%n%n5階-需要2階隔熱套裝%n土衛二%n土衛六%n天衛五%n天衛四%n羅斯128ba%n%n6階-需要2階隔熱套裝%n海衛八%n海衛一%n%n7階-需要2階隔熱套裝%n柯伊伯帶-無重力環境%n冥王星%n妊神星%n鳥神星%n%n8階-需要2階隔熱套裝%n半人馬Bb-需要太空衣%n巴納德C-宜居行星(無需供氧裝置/隔熱套裝)%n織女B%n巴納德E%n巴納德F%n鯨魚座E-宜居行星(無需供氧裝置/隔熱套裝)%n%n9階%n荷魯斯-需要1階隔熱套裝%n奈佩爾-宜居行星(無需供氧裝置/隔熱套裝)%n邁罕帶%n馬赫斯%n賽特%n阿努比斯-需要2階隔熱套裝%n%n譯者注:%n%n太空衣-隔熱套裝-供氧裝置-宜居行星%n這四個需求依次降低,高需求必須先滿足低需求.
 
 # Quest: Don't Put a Finger in That Socket
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIYA.name=§6§l別把手指插進插座裡
@@ -14671,11 +14671,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4A.desc=中子能源元件可以為你�
 
 # Quest: Wireless 3.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7w.name=無線 3.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7w.desc=此升級可以無限拓展你的無線範圍,甚至不需要無線訪問點! 想要製作它,你需要提供無盡錠.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7w.desc=此升級可以無限拓展你的無線範圍,甚至不需要無線存取點! 想要製作它,你需要提供無盡錠.
 
 # Quest: Obtaining Ender Pearls
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZA.name=§6§l獲取終界珍珠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZA.desc=你可以用原版的方式獵殺終界人來獲取珍珠.購買終界人刷怪蛋或是到末地碰碰運氣都行.%n%n要是你比較殘忍的話,可以將終界人塞進冶煉爐融化成美味的熔融終界,然後將其澆築成珍珠.%n%n你這個怪物.%n%n某些地牢中有終界人刷怪籠,你懂我的意思吧.%n%n為了防止終界人傳送離開,確保它們無法看到天空.%n%n如果你找到了具有再生屬性的終界人,記得使用命名牌防止其消失,同時別在伺服器上載入你的冶煉爐.譯者注:否則會非常卡...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZA.desc=你可以用原版的方式獵殺終界人來獲取珍珠.購買終界人生怪蛋或是到終界碰碰運氣都行.%n%n要是你比較殘忍的話,可以將終界人塞進冶煉爐融化成美味的熔融終界,然後將其澆築成珍珠.%n%n你這個怪物.%n%n某些地牢中有終界人刷怪籠,你懂我的意思吧.%n%n為了防止終界人傳送離開,確保它們無法看到天空.%n%n如果你找到了具有再生屬性的終界人,記得使用命名牌防止其消失,同時別在伺服器上載入你的冶煉爐.譯者注:否則會非常卡...
 
 # Quest: Numbers in the Corner?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJZg.name=§9§l角落裡的數字？
@@ -14739,7 +14739,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMEg.desc=精密組裝機有兩種模式�
 
 # Quest: Industrial Coke Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOQ.name=工業焦爐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOQ.desc=你為EV階段所做的努力可能會將你推向GT++多方塊機器,雖然由於製造大多數GT++多方塊機器的特殊合金都需要在合金冶煉爐(IV階段)內合成,即大部分GT++多方塊都需要到IV階段以後才可以建造,但是工業焦爐(ICO)不需要!%n%n那麼它能做什麼呢?顧名思義,它就是一臺非常非常快的焦爐.事實上它的速度可以頂得上幾十臺熱解爐,而且它其實也繼承了熱解爐的合成表,所以你仍然可以從中獲取額外流體,如木炭副產,同時又能大大提高處理速度.需要注意的是,這臺多方塊機器需要鈦和少量鎢.未加工的鉑可從鎳礦或者隕鐵礦中獲得.你可以在處理末地石粉、終界黏漿或月塵的過程中獲得不少鎢.%n%n在EV階段你只能使用隔熱焦爐機械方塊,其可以提供18x並行.當你在IV階段解鎖了高速鋼-S後就可以換成絕熱焦爐機械方塊,它可以將機器升級到30x並行.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMOQ.desc=你為EV階段所做的努力可能會將你推向GT++多方塊機器,雖然由於製造大多數GT++多方塊機器的特殊合金都需要在合金冶煉爐(IV階段)內合成,即大部分GT++多方塊都需要到IV階段以後才可以建造,但是工業焦爐(ICO)不需要!%n%n那麼它能做什麼呢?顧名思義,它就是一臺非常非常快的焦爐.事實上它的速度可以頂得上幾十臺熱解爐,而且它其實也繼承了熱解爐的合成表,所以你仍然可以從中獲取額外流體,如木炭副產,同時又能大大提高處理速度.需要注意的是,這臺多方塊機器需要鈦和少量鎢.未加工的鉑可從鎳礦或者隕鐵礦中獲得.你可以在處理終界石粉、終界黏漿或月塵的過程中獲得不少鎢.%n%n在EV階段你只能使用隔熱焦爐機械方塊,其可以提供18x並行.當你在IV階段解鎖了高速鋼-S後就可以換成絕熱焦爐機械方塊,它可以將機器升級到30x並行.
 
 # Quest: Bet On The Distillus
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQQ.name=賭上蒸餾
@@ -14811,7 +14811,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMzw.desc=一定有種方式,可以讓奈
 
 # Quest: Prototype Matter Manipulator
 betterquesting.quest.AVth34rQQ3iuYeQaKrsSQg.name=§9§l原型物質操縱者
-betterquesting.quest.AVth34rQQ3iuYeQaKrsSQg.desc=§4§l物質操縱者§r是一件極其強大的的工具，你在整個遊戲程序中皆可使用。它本質上是一個為了GTNH玩家的便利，量身定製的、生存模式下的World-Edit。%n%n§3§l原型物質操縱者§r是其功能最少、最為基礎的版本，僅能使用§5§l幾何模式§r來建立和修改用於建造的形狀。在安裝§2§lEV§r階段解鎖的升級模組前，你§n無法§r移除方塊。%n%n欲獲取最準確與詳盡的資訊，請訪問：[url]https://github.com/RecursivePineapple/MatterManipulator/blob/master/README.md[/url]%n%n[note]瞭解它的最佳方式就是使用它！請嘗試擺弄它的UI並熟悉它的工作原理。[/note]%n%n[warn]完整的操縱者任務線請查閱“基地建設”工作列。[/warn]
+betterquesting.quest.AVth34rQQ3iuYeQaKrsSQg.desc=§4§l物質操縱者§r是一件極其強大的的工具，你在整個遊戲程序中皆可使用。它本質上是一個為了GTNH玩家的便利，量身定製的、生存模式下的World-Edit。%n%n§3§l原型物質操縱者§r是其功能最少、最為基礎的版本，僅能使用§5§l幾何模式§r來建立和修改用於建造的形狀。在安裝§2§lEV§r階段解鎖的升級模組前，你§n無法§r移除方塊。%n%n欲獲取最準確與詳盡的資訊，請存取：[url]https://github.com/RecursivePineapple/MatterManipulator/blob/master/README.md[/url]%n%n[note]瞭解它的最佳方式就是使用它！請嘗試擺弄它的UI並熟悉它的工作原理。[/note]%n%n[warn]完整的操縱者任務線請查閱“基地建設”工作列。[/warn]
 
 # Quest: Matter Manipulator MKII
 betterquesting.quest.D6AFvlXcQbqDncL9y2HXEw.name=§c§l物質操縱者 MKII
@@ -14823,7 +14823,7 @@ betterquesting.quest.E9atHD5uR9CC0G1qEeFDmQ.desc=想要更快地處理晶圓?透
 
 # Quest: A Portable Barrel?
 betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.name=§2§l行動式木桶？
-betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=作為木桶的升級版，把未來帶回現實[EFR]還加入了大家熟悉的潛影盒！潛影盒能讓您隨身攜帶其中存放的物品。您可以在魔導手冊的"新視界"標籤頁中找到相關研究內容。%n%n與木桶和箱子類似，潛影盒也擁有七個額外等級，可提供更多儲存空間。%n%n你可以將任意等級的潛影盒與染料一起無序合成來染色，獨自無序合成即可褪去顏色。它們§n會§r保留其中的內部物品。%n%n[note]有很多方式可以獲取潛影殼：%n1. 在暮色森林巫妖與惡魂女王的高塔與潛影貝戰鬥。%n2. 透過任務書換取潛影貝蛋並與之戰鬥。%n3. 手動合成潛影殼。[/note]
+betterquesting.quest.EDtFbLVvQX2Y5mQp84W9bw.desc=作為木桶的升級版，把未來帶回現實[EFR]還加入了大家熟悉的界伏盒！界伏盒能讓您隨身攜帶其中存放的物品。您可以在魔導手冊的"新視界"標籤頁中找到相關研究內容。%n%n與木桶和箱子類似，界伏盒也擁有七個額外等級，可提供更多儲存空間。%n%n你可以將任意等級的界伏盒與染料一起無序合成來染色，獨自無序合成即可褪去顏色。它們§n會§r保留其中的內部物品。%n%n[note]有很多方式可以獲取界伏殼：%n1. 在暮色森林巫妖與惡魂女王的高塔與界伏蚌戰鬥。%n2. 透過任務書換取界伏蚌蛋並與之戰鬥。%n3. 手動合成界伏殼。[/note]
 
 # Quest: Gold Barrel
 betterquesting.quest.GuylOTxSSraeAtj16fZ9-w.name=§3§l金桶
@@ -14982,7 +14982,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=尋找"神秘水晶"並觸發�
 
 # Quest: Trigger: Life
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.name=觸發：生命
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.desc=在凋靈死亡後觸發紅心容器任務.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.desc=在凋零死亡後觸發紅心容器任務.
 
 # Quest: Trigger: Ring
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUw.name=觸發：魔戒

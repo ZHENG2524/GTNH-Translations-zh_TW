@@ -409,7 +409,7 @@ item.ancientStaff.staffpole.name=上古手杖杖桿
 item.ancientStaff.stafftopper.name=上古手杖龍頭
 item.ancientStaff.ancientstaffbroken.name=廢棄上古手杖
 
-item.enderporter.name=末地逃逸護符
+item.enderporter.name=終界逃逸護符
 
 item.record_wanderer.name=音樂唱片
 item.record_corruption.name=音樂唱片
@@ -488,7 +488,7 @@ achievement.bop.achDartBlower.desc=小心，別把你的眼睛吹出來！
 achievement.bop.achScythe=植物殺手
 achievement.bop.achScythe.desc=一個憂愁收割者的日常。
 achievement.bop.achEnderporter=甜蜜的家
-achievement.bop.achEnderporter.desc=使用末地逃逸護符的神奇力量。
+achievement.bop.achEnderporter.desc=使用終界逃逸護符的神奇力量。
 
 achievement.bop.achHoney=有苦有樂
 achievement.bop.achHoney.desc=流血與蜜之地。

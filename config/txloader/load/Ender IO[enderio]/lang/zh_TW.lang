@@ -10,7 +10,7 @@ enderio.power.generation_rate=速率
 
 #Ender IO / Enderface
 tile.blockEnderIo.name=終界介面
-tile.blockEnderIo.tooltip.detailed.line1=允許遠端訪問附近的
+tile.blockEnderIo.tooltip.detailed.line1=允許遠端存取附近的
 tile.blockEnderIo.tooltip.detailed.line2=方塊
 tile.blockEnderIo.tooltip.detailed.line3=使用旅行錨或
 tile.blockEnderIo.tooltip.detailed.line4=旅行權杖
@@ -152,7 +152,7 @@ item.itemOCConduit.name=網路導管（OC）
 enderio.itemOCConduit.name=網路導管（OC）
 
 #Entity
-entity.witherSkeleton.name=凋靈骷髏
+entity.witherSkeleton.name=凋零骷髏
 
 #Materials
 enderio.itemMaterial.name=材料
@@ -262,7 +262,7 @@ enderio.darkGrindingBall.tooltip.detailed.line4=功率降低
 enderio.darkSteelRod.name=玄鋼桿
 
 tile.blockReinforcedObsidian.name=強化黑曜石
-tile.blockReinforcedObsidian.tooltip.common.line1=能抵擋凋靈
+tile.blockReinforcedObsidian.tooltip.common.line1=能抵擋凋零
 
 #Quartz / Glass
 tile.blockFusedQuartz.name=石英玻璃
@@ -658,9 +658,9 @@ tile.blockBuffer.omni.name=多功能快取器
 tile.blockBuffer.creative.name=創造快取器
 
 tile.blockInventoryPanel.name=儲存控制面板
-tile.blockInventoryPanel.tooltip.basic.line1=遠端訪問與合成
+tile.blockInventoryPanel.tooltip.basic.line1=遠端存取與合成
 tile.blockInventoryPanel.tooltip.detailed.line1=透過在物品管道安裝遠端接入升級
-tile.blockInventoryPanel.tooltip.detailed.line2=允許面板遠端接入並訪問儲存容器
+tile.blockInventoryPanel.tooltip.detailed.line2=允許面板遠端接入並存取儲存容器
 tile.blockInventoryPanel.tooltip.detailed.line3=使用營養精華液作為能源.
 tile.blockInventoryPanel.tooltip.detailed.line4=提供一個.
 enderio.gui.inventorypanel.header.crafting=合成欄
@@ -1213,8 +1213,8 @@ enderio.gui.travelAccessable.privateBlock2=才能改變該方塊的設定.
 enderio.gui.travelAccessable.public=公共
 enderio.gui.travelAccessable.private=私有
 enderio.gui.travelAccessable.protected=被保護
-enderio.gui.travelAccessable.unauthorised=你沒有訪問該方塊的許可權.
-enderio.gui.travelAccessable.enterCode=需要訪問密碼
+enderio.gui.travelAccessable.unauthorised=你沒有存取該方塊的許可權.
+enderio.gui.travelAccessable.enterCode=需要存取密碼
 enderio.gui.travelAccessable.ok=已授權
 enderio.gui.travelAccessable.skipLocked=跳過鎖定錨，使用定向傳送。
 enderio.gui.travelAccessable.skipObstructed=跳過不通暢錨.

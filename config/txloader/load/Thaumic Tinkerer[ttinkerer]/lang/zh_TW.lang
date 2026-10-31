@@ -222,7 +222,7 @@ tc.research_category.TT_CATEGORY=神秘工匠
 # -- COMPUTERCRAFT PERIPHERALS
 ttresearch.name.PERIPHERALS=電腦外設
 ttresearch.lore.PERIPHERALS=當科學遇見魔法
-ttresearch.page.PERIPHERALS.0=神秘工匠讓其新增的某些方塊以及神秘時代新增的一些方塊可以作為電腦外設（ComputerCraft的外設）使用。<BR><BR>為方便起見，使用這些外設的檔案放置在網上以供查詢。按下回車可以訪問對應的頁面。
+ttresearch.page.PERIPHERALS.0=神秘工匠讓其新增的某些方塊以及神秘時代新增的一些方塊可以作為電腦外設（ComputerCraft的外設）使用。<BR><BR>為方便起見，使用這些外設的檔案放置在網上以供查詢。按下回車可以存取對應的頁面。
 # Note: For people who localize the mod. If you have custom documentation, feel free to include in your PR a
 # link to it and the short URL (see above) you want for it on my website and I'll add it.
 ttresearch.webpage.peripherals=https://github.com/Vazkii/ThaumicTinkerer/wiki/Peripheral-Documentation
@@ -230,7 +230,7 @@ ttcomputer.dissipator=耗散中
 # -- ASPECT ANALYZER
 ttresearch.name.ASPECT_ANALYZER=源質分析儀
 ttresearch.lore.ASPECT_ANALYZER=電腦掃描
-ttresearch.page.ASPECT_ANALYZER.0=你製造出一臺可以使用電腦來掃描出物品蘊含何種源質的裝置。<BR><BR>這臺裝置類似一個包含物品欄的普通容器，但任何放入其內的物品都可以使用電腦掃描。訪問電腦外設文件條目以獲取更多資訊。
+ttresearch.page.ASPECT_ANALYZER.0=你製造出一臺可以使用電腦來掃描出物品蘊含何種源質的裝置。<BR><BR>這臺裝置類似一個包含物品欄的普通容器，但任何放入其內的物品都可以使用電腦掃描。存取電腦外設文件條目以獲取更多資訊。
 
 # -- SMOKEY QUARTZ
 ttresearch.name.DARK_QUARTZ=煙黑石英
@@ -255,7 +255,7 @@ ttresearch.lore.GOLEM_CONNECTOR=老實說，無關傀儡心靈控制！
 ttresearch.page.GOLEM_CONNECTOR.0=運動，工具，以及一點點秩序源質能夠做些什麼呢？經過你的一番研究，你發現你能夠利用它們讓傀儡變得更加馴服一點！你研究出一種方塊，當連線電腦以後，它將能夠讀出附近傀儡的意識，並“說服”傀儡們按照電腦的命令列事。
 ttresearch.page.GOLEM_CONNECTOR.1=為了讓聯結器繫結傀儡，你需要製造一種特殊的工具。你稱其為向量變換繫結器。<BR><BR>手持該工具右擊聯結器，跟著按住shift右擊目標傀儡，兩者就會相互繫結，能夠進行接下來的操作。傀儡受到控制的範圍相當遠，足有三十格！
 ttresearch.page.GOLEM_CONNECTOR.2=如拿著其他方塊右擊聯結器，則會將它偽裝成所持方塊的樣子。空手再次右擊就能移除偽裝。
-ttresearch.page.GOLEM_CONNECTOR.3=<BR><BR>以方便故，該方塊所涉及之電腦模組操作函式皆列諸外接網頁。按下回車即可帶你進入相關頁面。<BR><BR>不幸的是，某些作業系統下超連結功能可能失效。若是，則請在瀏覽器中鍵入"vazkii.us/tt/docs.php"來進行訪問相關頁面。
+ttresearch.page.GOLEM_CONNECTOR.3=<BR><BR>以方便故，該方塊所涉及之電腦模組操作函式皆列諸外接網頁。按下回車即可帶你進入相關頁面。<BR><BR>不幸的是，某些作業系統下超連結功能可能失效。若是，則請在瀏覽器中鍵入"vazkii.us/tt/docs.php"來進行存取相關頁面。
 # Note: For people who localize the mod. If you have custom documentation, feel free to include in your PR a
 # link to it and the short URL (see above) you want for it on my website and I'll add it.
 ttresearch.webpage.peripherals=https://github.com/Vazkii/ThaumicTinkerer/wiki/Peripheral-Documentation
@@ -452,7 +452,7 @@ ttresearch.page.REPAIRER.0=你製造出一臺能夠修復破損工具的新裝�
 # -- WAND FOCUS: DISTORTION
 ttresearch.name.FOCUS_DEFLECT=法杖核心：扭曲
 ttresearch.lore.FOCUS_DEFLECT=我不是天使
-ttresearch.page.FOCUS_DEFLECT.0=你製造出一種法杖核心，能夠防護你免遭來襲的火球傷害。<BR><BR>這種核心在使用時會持續抽取其插入的法杖內的Vis，以在施法者附近召喚出一道防護的幕牆，使得穿過它們的尋常炮彈變得毫無傷害。<BR><BR>此處尋常炮彈包括箭矢，雪球以及藥水。但似乎這種防護並不足以抵禦一些更強力的攻擊，比如火球或者凋靈頭顱。
+ttresearch.page.FOCUS_DEFLECT.0=你製造出一種法杖核心，能夠防護你免遭來襲的火球傷害。<BR><BR>這種核心在使用時會持續抽取其插入的法杖內的Vis，以在施法者附近召喚出一道防護的幕牆，使得穿過它們的尋常炮彈變得毫無傷害。<BR><BR>此處尋常炮彈包括箭矢，雪球以及藥水。但似乎這種防護並不足以抵禦一些更強力的攻擊，比如火球或者凋零頭顱。
 
 # -- LEVITATOR LOCOMOTIVE
 ttresearch.name.LEVITATOR_LOCOMOTIVE=懸浮平台
@@ -469,7 +469,7 @@ ttresearch.page.PLATFORM.0=你設計出一種方塊，僅對佇立於其上的�
 # -- DIMENSIONAL SHARDS
 ttresearch.name.DIMENSION_SHARDS=次元裂片
 ttresearch.lore.DIMENSION_SHARDS=自新世界的珍奇
-ttresearch.page.DIMENSION_SHARDS.0=類似主世界，地獄和末地同樣也有獨特的水晶碎片，有時候它們會極少見地出現在原住民，比如地獄的殭屍豬人或者末地的終界人，手中。或許它們在今後的某些研究裡能派得上用場，儘管你還不能非常確定。 <BR><BR><IMG>ttinkerer:textures/items/netherShard.png:0:0:255:255:0.0625</IMG><IMG>ttinkerer:textures/items/enderShard.png:0:0:255:255:0.0625</IMG>
+ttresearch.page.DIMENSION_SHARDS.0=類似主世界，地獄和終界同樣也有獨特的水晶碎片，有時候它們會極少見地出現在原住民，比如地獄的殭屍豬人或者終界的終界人，手中。或許它們在今後的某些研究裡能派得上用場，儘管你還不能非常確定。 <BR><BR><IMG>ttinkerer:textures/items/netherShard.png:0:0:255:255:0.0625</IMG><IMG>ttinkerer:textures/items/enderShard.png:0:0:255:255:0.0625</IMG>
 
 # -- ICHOR
 ttresearch.name.ICHOR=靈液

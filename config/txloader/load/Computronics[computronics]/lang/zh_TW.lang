@@ -139,7 +139,7 @@ computronics.flowers.sea=海
 computronics.bees.species.scummy=浮渣
 computronics.bees.species.scummy.description=煤油、丙二醇、人工甜味劑、硫酸、朗姆酒、丙酮、紅色染料#2、浮渣、車軸潤滑脂、蓄電池酸液和/或義大利辣肉腸|酒吧裡的異鄉人
 
-chat.computronics.cipher.locked=加密機已鎖定！無法訪問。
+chat.computronics.cipher.locked=加密機已鎖定！無法存取。
 chat.computronics.colorful_upgrade.color=§6顏色§f: %s
 chat.computronics.lamp.binary.on=RedNet模式設定為: 二進位制
 chat.computronics.lamp.binary.off=RedNet模式設定為: 普通

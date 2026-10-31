@@ -124,7 +124,7 @@ item.draconicevolution:nugget.awakened.name=覺醒龍粒
 item.draconicevolution:magnet.name=物品錯位器
 item.draconicevolution:magnet.wyvern.name=物品錯位器
 item.draconicevolution:magnet.draconic.name=覺醒物品錯位器
-item.draconicevolution:adminSpawnEgg.name=刷怪蛋
+item.draconicevolution:adminSpawnEgg.name=生怪蛋
 
 //Item Groups ----------------------------------------------------------------------------------------------------------------------------------------
 itemGroup.toolsAndWeapons=龍之研究工具和武器
@@ -167,7 +167,7 @@ msg.dislocatorNoGround.txt=錯誤，世界無法找到
 msg.range.txt=範圍：
 msg.energyStorageCoreUTA.txt=無法啟用(無效的配置)
 msg.SpawnDragonToFarFrom00.txt=(錯誤)離0,0太遠了
-msg.SpawnDragonMustBeInTheEnd.txt=你必須在末地進行這個儀式！
+msg.SpawnDragonMustBeInTheEnd.txt=你必須在終界進行這個儀式！
 msg.wrongKey.txt=這把鑰匙不符合這把鎖
 msg.cKeyStoneType0.txt=永久啟用(消耗鑰匙)
 msg.cKeyStoneType1.txt=按鈕啟用
@@ -262,7 +262,7 @@ info.de.sword.txt=你敵人的力量使這把劍變得更強了！
 info.de.safetyMatch.txt=生出一種不會把你的房子燒光的火
 
 info.draconiumChestInfo1.txt=空手Shift+右鍵
-info.draconiumChestInfo2.txt=以訪問顏色設定
+info.draconiumChestInfo2.txt=以存取顏色設定
 
 info.de.capacitorMode.txt=模式
 info.de.capacitorMode0.txt=未啟用
@@ -314,7 +314,7 @@ info.de.connections.txt=連線
 info.de.wirelessConnections.txt=無線連線
 
 
-info.infusedObsidian.txt=這個方塊可以抵抗凋靈
+info.infusedObsidian.txt=這個方塊可以抵抗凋零
 
 enchantment.draconicevolution.reaperEnchant=收割者
 

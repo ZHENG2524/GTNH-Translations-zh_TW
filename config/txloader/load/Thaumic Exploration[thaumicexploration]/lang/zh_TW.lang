@@ -369,4 +369,4 @@ te.name.NECROINFUSION=亡靈注魔
 te.tag.NECROINFUSION=Kali ma! Kali maaa!
 te.text.NECROINFUSION.1=利用自然界的神秘能量固然好,不過你還想要更多.活體生物的能量是你長久以來的所求之物.終於,這一天到來了.<BR><BR>透過給奧術基座注入邪惡能量,裝飾上亡靈生物的頭顱,圍繞著基座擺放五芒星形的蠟燭,你做出了一個能讓你融合擁有邪惡能量的物品的祭壇.法杖右擊就能啟動祭壇.拿物品右擊祭壇放入物品,shift並右擊祭壇移除物品.
 te.text.NECROINFUSION.2=要注魔一個物品,只需用法杖點選一下.每次注魔都需要一定量的亡靈能量,或稱NE(Necromantic Energy),可透過向祭壇獻祭含有NE的物品來提供.為此,在祭壇上方點火然後投入物品.NE提供足夠時,注魔就完成了.
-te.text.NECROINFUSION.3=下面展示了一個亡靈注魔祭壇的安裝示例.<IMG>thaumicexploration:textures/tabs/altarSetup.png:0:0:255:255:0.5</IMG> 放在祭壇的頭顱可以來自殭屍,骷髏射手,或是凋靈骷髏.
+te.text.NECROINFUSION.3=下面展示了一個亡靈注魔祭壇的安裝示例.<IMG>thaumicexploration:textures/tabs/altarSetup.png:0:0:255:255:0.5</IMG> 放在祭壇的頭顱可以來自殭屍,骷髏射手,或是凋零骷髏.

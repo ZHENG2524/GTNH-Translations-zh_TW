@@ -8,7 +8,7 @@ death.engine.clockwork=%1$s被散落的彈簧片刺中了。
 for.beverage.effect.alcoholic=酗酒
 for.beverage.effect.antidote=解毒
 
-for.chat.accesslocked=該機器的主人是%s，且訪問許可權已被關閉。
+for.chat.accesslocked=該機器的主人是%s，且存取許可權已被關閉。
 for.chat.cannotmemorizeagain=你已經記住了相關內容。
 for.chat.memorizednote=你記下了筆記的內容並扔掉了這張皺巴巴的小紙片。
 for.chat.memorizednote2=你對用%1$s和%2$s雜交出%3$s更有信心了！
@@ -1801,7 +1801,7 @@ for.config.tweaks.gui.tooltip.liquidamount=顯示流體數量
 for.config.tweaks.gui.tooltip.liquidamount.comment=在儲罐物品描述中顯示儲存流體數量。
 
 for.config.tweaks.permissions=許可權
-for.config.tweaks.permissions.comment=開啟林業機器的訪問限制功能。
+for.config.tweaks.permissions.comment=開啟林業機器的存取限制功能。
 for.config.tweaks.version.check=版本檢查
 for.config.tweaks.version.check.comment=開啟更新與版本檢查通知。
 

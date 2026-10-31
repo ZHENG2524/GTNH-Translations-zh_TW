@@ -22,11 +22,11 @@ documentation.item.pda=掌上電腦
 documentation.item.wirelessTransmitter=無線收發器
 documentation.item.wirelessLocationChip=無線定位晶片
 documentation.item.upgrades=升級
-documentation.item.remoteAccessor=遠端訪問器
+documentation.item.remoteAccessor=遠端存取器
 documentation.item.linker=埠聯結器
 
-documentation.block.remoteInterface.page.1=遠端介面是本mod的核心方塊。 簡而言之，它允許使用者從很 遠的地方遠端訪問一個方塊， 就像那個方塊近在眼前一樣。
-documentation.block.remoteInventory.page.1=遠端揹包介面與遠端介面很 相似，但不是遠端訪問方塊， 而是遠端訪問玩家。大多數 的傳輸升級仍然有效，但可 能以你意想不到的方式工作。
+documentation.block.remoteInterface.page.1=遠端介面是本mod的核心方塊。 簡而言之，它允許使用者從很 遠的地方遠端存取一個方塊， 就像那個方塊近在眼前一樣。
+documentation.block.remoteInventory.page.1=遠端揹包介面與遠端介面很 相似，但不是遠端存取方塊， 而是遠端存取玩家。大多數 的傳輸升級仍然有效，但可 能以你意想不到的方式工作。
 documentation.block.skylight.page.1=天窗是個純粹的美觀方塊.當放 置時是暗而不透明的,但通入紅 石訊號後,它將變得透明並且所 有的相鄰天窗都會變得透明.
 documentation.block.heater.page.1=岩漿加熱器是個幫助自動化的 小機器.當岩漿與它的兩個或更 多面相鄰時,它將加熱上方的熔 爐.但要比通常情況更慢一點.
 documentation.block.reservoir.page.1=與岩漿加熱器類似蓄水箱也 是個小機器.它的功能很簡 單,當它與兩個或更多水源相 鄰時,它將作為水源方塊並向 機器和管道輸出水.
@@ -35,8 +35,8 @@ documentation.item.pda.page.1=掌上電腦就是你用來看這的玩意.
 documentation.item.ioTool.page.1=介面工具就是本mod的扳手. 它可以開啟多種機器的物品 欄並新增或移除升級,還能修 改偽裝設定.
 documentation.item.wirelessTransmitter.page.1=此物品可以用來合成遠端背 包介面,並且在創造模式中遠 程分配揹包.
 documentation.item.upgrades.page.1=升級簡單來說就是用來解鎖 你的遠端揹包介面和遠端接 口功能的東西.如果沒有升 級,那這倆方塊沒啥能幹的. 每次升級都會有所不同,有 些是為了相容性.
-documentation.item.remoteAccessor.page.1=遠端訪問器是個用來繫結世界 裡的方塊的物品。繫結之後， 當你右擊世界上的任何其他方 塊（非方塊實體）時，就會像你 點選那個繫結方塊時一樣。
-documentation.item.linker.page.1=當前僅能用於合成遠端訪問器
+documentation.item.remoteAccessor.page.1=遠端存取器是個用來繫結世界 裡的方塊的物品。繫結之後， 當你右擊世界上的任何其他方 塊（非方塊實體）時，就會像你 點選那個繫結方塊時一樣。
+documentation.item.linker.page.1=當前僅能用於合成遠端存取器
 documentation.item.wirelessLocationChip.page.1=Shift+右擊一個方塊以儲存這 個方塊的位置資訊.此位置資訊 可以放入遠端介面以告訴介面 它應該與哪個方塊互動.
 
 # GUI
@@ -71,13 +71,13 @@ item.chip.transfer.network_ae.name=AE網路轉輸晶片
 item.chip.transfer.redstone.name=紅石轉輸晶片
 item.chip.upgrade.name=遠端升級
 item.chip.upgrade.remote_camo.name=遠端偽裝升級
-item.chip.upgrade.remote_access.name=遠端訪問升級
+item.chip.upgrade.remote_access.name=遠端存取升級
 item.chip.upgrade.simple_camo.name=簡易偽裝升級
 item.wireless_transmitter.name=無線收發器
 item.io_tool.name=介面工具
 item.interaction_inhibitor.name=互動約束器
 item.pda.name=掌上電腦
-item.remoteAccessor.name=遠端訪問器
+item.remoteAccessor.name=遠端存取器
 item.linker.name=埠聯結器
 
 # Block
