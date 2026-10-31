@@ -106,7 +106,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHMg.name=§9§l苦力怕夢魘
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHMg.desc=苦力怕可能會讓你倒大大大黴。%n%n水棲苦力怕（Drowning Creeper）：它爆炸時，會把你困在一個裝滿水的圓石球裡。你不光要逃命，圓石裡還藏著一堆蠹蟲！而且這些蠹蟲全是精英怪！最好的應對方式就是先從上面或者下面逃出去。如果非要清理這個圓石球，得先把水清掉。然後用泥土壕溝將其圍起來，這樣蠹蟲就跑不出去，無所遁形。然後用尖竹釘、流沙或者岩漿（還可搭配靈魂玻璃）來處理它們。建一堵帶一格窗口的圍牆，隔著窗口挖開圓石——釣魚蠹蟲尤為危險。%n%n震盪苦力怕（Concussion Creeper）：爆炸後會把你隨機傳送到一小段距離之外——沒準會直接送你到地底深處。
 
 # Quest: Caught in the Web
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHMw.name=§9§l身陷蛛網
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHMw.name=§9§l身陷蜘蛛網
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHMw.desc=一些蜘蛛帶有特別討厭的特殊能力：%n%n女巫蜘蛛（Witch spider）會反射彈射物傷害。如果看到蜘蛛的背上有個紅X，趕緊換近戰武器，準備肉搏吧……%n%n育母蜘蛛（Mother spider）死亡時會生出一大堆小蜘蛛，其中有些可能還是精英怪。%n%n飛行蜘蛛（Flying spider）能抓住掉以輕心的飛行者。  %n%n幽靈蜘蛛（Ghost spider）半透明，還能穿過薄牆。
 
 # Quest: Porkchops With Attitude
@@ -127,7 +127,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALOg.desc=Minecraft是以區塊為單位�
 
 # Quest: Permanent Offhand!
 betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.name=§9§l永久的副手欄！
-betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.desc=我們向下移植了高版本的副手槽供所有玩家使用。%n%n這個新功能可搭配任意能開啟介面的物品，比如揹包。這使得整理物品欄更容易，並有助於完成一些繁瑣的任務。%n%n主/副手切換預設快捷鍵：§9F§r%n%n[note]你還能在Backhand mod的用戶端設定中調整一些與火把相關的修改選項。這些選項預設關閉，但如果你喜歡在副手放火把的話，你會發現它們很有用的。[/note]
+betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.desc=我們向下移植了高版本的副手槽供所有玩家使用。%n%n這個新功能可搭配任意能開啟介面的物品，比如揹包。這使得整理物品欄更容易，並有助於完成一些繁瑣的任務。%n%n主/副手切換預設快捷鍵：§9F§r%n%n[note]你還能在Backhand mod的客戶端設定中調整一些與火把相關的修改選項。這些選項預設關閉，但如果你喜歡在副手放火把的話，你會發現它們很有用的。[/note]
 
 # Quest: In-game Guide
 betterquesting.quest.pcDIaSYHTkuVTBkdRwWWJw.name=遊戲內指南
@@ -369,11 +369,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4A.desc=尋礦魔杖能減輕找礦脈�
 
 # Quest: A Better Crafting Table
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5A.name=§a§l一個更好的工作台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5A.desc=受夠了每次走開，工作台上的東西就掉一地？ 這個來自匠魂的合成站自帶槽位，能存住你放在配方裡的物品。%n%n你還能在其中強化工具，例如速度強化（紅石）和搶奪/時運強化（青金石），十分方便！%n%n把它放在原版箱子旁邊，合成介面中還會顯示箱子的物品欄。僅限單個或大型的原版箱子。%n%n再給它鋸一刀，能得到個更簡潔、低調的款式。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5A.desc=受夠了每次走開，工作台上的東西就掉一地？ 這個來自匠魂的合成站自帶槽位，能存住你放在配方裡的物品。%n%n你還能在其中強化工具，例如速度強化（紅石）和掠奪/時運強化（青金石），十分方便！%n%n把它放在原版箱子旁邊，合成介面中還會顯示箱子的物品欄。僅限單個或大型的原版箱子。%n%n再給它鋸一刀，能得到個更簡潔、低調的款式。
 
 # Quest: All the Finest Cuts of Meat
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxA.name=§a§l上好的肉塊
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxA.desc=靠剛才那把刀，可搞不定你接下來要吃要用的那幾百隻動物。給自己做一把GT屠刀吧。它能防止動物爆炸，屠牛也快得多，更別說還自帶搶奪了。等你後面拿到不鏽鋼，還能做一把新的屠刀，一刀一頭牛。%n%n注意：GT工具的攻擊傷害與材料的採掘等級有關。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFxA.desc=靠剛才那把刀，可搞不定你接下來要吃要用的那幾百隻動物。給自己做一把GT屠刀吧。它能防止動物爆炸，屠牛也快得多，更別說還自帶掠奪了。等你後面拿到不鏽鋼，還能做一把新的屠刀，一刀一頭牛。%n%n注意：GT工具的攻擊傷害與材料的採掘等級有關。
 
 # Quest: Rare Ores
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCg.name=§a§l稀有礦石
@@ -762,7 +762,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH6g.desc=NEI內建了搜尋附近容器�
 
 # Quest: Flaming idiots
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNQ.name=§c§l燃燒的笨蛋
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNQ.desc=烈焰人全是精英怪，並且非常討厭。像躲避瘟疫一樣躲開吧。等你帶上精良的武器和盔甲再準備戰鬥。%n%n你也可以嘗試用科技消滅它們。 %n%n再或者，乾脆換種方式獲取烈焰粉和烈焰棒吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNQ.desc=烈焰使者全是精英怪，並且非常討厭。像躲避瘟疫一樣躲開吧。等你帶上精良的武器和盔甲再準備戰鬥。%n%n你也可以嘗試用科技消滅它們。 %n%n再或者，乾脆換種方式獲取烈焰粉和烈焰棒吧。
 
 # Quest: Repairing Your Hazmat Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHYA.name=§c§l修理你的防化服
@@ -1283,7 +1283,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF7w.desc=那換成大型鋼製流體單�
 
 # Quest: Diamond Spikes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBQ.name=§2§l鑽石錐刺
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBQ.desc=鑽石錐刺會傷害除底部以外的任何一側觸碰的怪物（或者你自己！）。它擁有 7 點攻擊傷害，與鑽石劍相同。怪物不會繞開這個方塊，而是會像對待普通實心方塊一樣，試圖從它上面走過去。大多數爆炸都不會破壞鑽石錐刺，因為它具有非常高的爆炸抗性。%n%n它們同樣可以附上普通鑽石劍所能獲得的所有附魔。這包括搶奪、鋒利，並且效果與劍上的完全相同。有趣的是，被鑽石錐刺殺死的怪物會掉落經驗，就如同由玩家親手擊殺一般。%n%n還存在更弱的其他版本錐刺，但誰會想用呢？假如你碰巧需要最後一擊，或許可以考慮用木錐刺。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBQ.desc=鑽石錐刺會傷害除底部以外的任何一側觸碰的怪物（或者你自己！）。它擁有 7 點攻擊傷害，與鑽石劍相同。怪物不會繞開這個方塊，而是會像對待普通實心方塊一樣，試圖從它上面走過去。大多數爆炸都不會破壞鑽石錐刺，因為它具有非常高的爆炸抗性。%n%n它們同樣可以附上普通鑽石劍所能獲得的所有附魔。這包括掠奪、鋒利，並且效果與劍上的完全相同。有趣的是，被鑽石錐刺殺死的怪物會掉落經驗，就如同由玩家親手擊殺一般。%n%n還存在更弱的其他版本錐刺，但誰會想用呢？假如你碰巧需要最後一擊，或許可以考慮用木錐刺。
 
 # Quest: Black and Decker
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAQ.name=§2§lBlack and Decker（美國一家著名電動工具公司）
@@ -1828,7 +1828,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCA.desc=為了生產生物柴油，你�
 
 # Quest: Press All the Things in MV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCw.name=§6§l壓制MV階段的一切
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCw.desc=使用MV衝壓機床，你可以製造用於太陽能電池板的鋁鐵板，用於渦輪的渦輪扇葉和Logistics-Pipes的一些物品。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCw.desc=使用MV衝壓機床，你可以製造用於太陽能板的鋁鐵板，用於渦輪的渦輪扇葉和Logistics-Pipes的一些物品。
 
 # Quest: Trichlorosilane
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGDQ.name=§6§l三氯矽烷
@@ -2879,7 +2879,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlQ.desc=ASOC，全稱為先進片上系
 
 # Quest: Polybenzimidazole
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmw.name=§9§l聚苯並咪唑
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmw.desc=聚苯並咪唑（簡稱PBI）是用於ZPM機器外殼和高階太陽能電池板的合成纖維，它還能提高某些其他物品的合成效率。製作它需要很多步驟。讓我們從氯苯開始。另外，別忘了完成IV階段的其他非鉑系化學任務。%n%n§3已經能自動化生產聚苯並咪唑了？手持128個聚苯並咪唑板來跳過該任務。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmw.desc=聚苯並咪唑（簡稱PBI）是用於ZPM機器外殼和高階太陽能板的合成纖維，它還能提高某些其他物品的合成效率。製作它需要很多步驟。讓我們從氯苯開始。另外，別忘了完成IV階段的其他非鉑系化學任務。%n%n§3已經能自動化生產聚苯並咪唑了？手持128個聚苯並咪唑板來跳過該任務。
 
 # Quest: Nitration Mixture
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGnA.name=§9§l硝酸混酸
@@ -3773,7 +3773,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKdg.desc=你需要用不怎麼高階的�
 
 # Quest: TecTech Multiblocks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKeg.name=§b§lTecTech多方塊機器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKeg.desc=TecTech多方塊機器的一般功能%n%n多安能源倉/動力倉和雷射倉-使能量分配更便捷……%n%n導能-允許連線到的動力倉從控制器獲得能量並輸出，就像有源變壓器一樣（這也是為什麼那些有此功能的控制器方塊的合成表中總有個有源變壓器的原因……)。[warn]拆卸多方塊機器時，請確保關閉了導能按鈕，不然BOOM![/warn]%n%n可構造介面-使用多方塊機器全息投影機顯示結構（*有一個API可以讓任何方塊都實現此功能，但目前幾乎沒有任何作用）。%n%n%n在TecTech多方塊機器的GUI中，從左向右為1，剩餘部分按順時針排序。%n%n1） 各項引數-它們是控制器與玩家、引數艙口進行通訊的方式。 指示燈指示狀態，而將滑鼠懸停在上方時可以看到更多詳細資訊。 tooltip包含ID形式為倉室ID：引數編號：指向，當前狀態，當前值，以及簡短說明。%n%n2） 不確定度狀態-這9個方塊指示機器的不確定度狀態（未定元）。 如果指示燈亮起，代表這臺機器需要未定元解析器。 紅色=壞，綠色=好。 在使用機器之前，你需要先解決這個小遊戲。%n%n控制按鍵-這些按鍵可能會根據機器而改變其功能和外觀，但通常它們的工作方式如下： 從上到下：%n%n3） 導能-切換導能狀態。%n%n4） 安全銷毀-切換安全銷毀。%n%n5） 電源開關-相當於軟錘的功能……%n%n6） 輸入插槽-標準功能。%n%n%n*正面旋轉-允許旋轉機器的正面以獲得更大的結構定向自由度（也可以在API中使用）。 這種旋轉不會改變控制器的正面，僅僅改變方向。 因此，如果從正面看，它可以順時針或逆時針旋轉。 你需要正面旋轉扳手才能做到這些。 §3如果你沒看懂，可以試著放下一個控制器方塊，使用正面旋轉扳手，然後使用藍圖看看結構變化。§r%n%n*多方塊機器藍圖-此藍圖可以顯示出完整多方塊機器的全息圖，左下角的聊天欄會顯示自訂的方塊。如果你堆疊越多張藍圖一起使用，看到的就是多方塊機器越大的版本（如果有的話）。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKeg.desc=TecTech多方塊機器的一般功能%n%n多安能源倉/動力倉和雷射倉-使能量分配更便捷……%n%n導能-允許連線到的動力倉從控制器獲得能量並輸出，就像有源變壓器一樣（這也是為什麼那些有此功能的控制器方塊的合成表中總有個有源變壓器的原因……)。[warn]拆卸多方塊機器時，請確保關閉了導能按鈕，不然BOOM![/warn]%n%n可構造介面-使用多方塊機器全息投影機顯示結構（*有一個API可以讓任何方塊都實現此功能，但目前幾乎沒有任何作用）。%n%n%n在TecTech多方塊機器的GUI中，從左向右為1，剩餘部分按順時針排序。%n%n1） 各項引數-它們是控制器與玩家、引數倉進行通訊的方式。 指示燈指示狀態，而將滑鼠懸停在上方時可以看到更多詳細資訊。 tooltip包含ID形式為倉室ID：引數編號：指向，當前狀態，當前值，以及簡短說明。%n%n2） 不確定度狀態-這9個方塊指示機器的不確定度狀態（未定元）。 如果指示燈亮起，代表這臺機器需要未定元解析器。 紅色=壞，綠色=好。 在使用機器之前，你需要先解決這個小遊戲。%n%n控制按鍵-這些按鍵可能會根據機器而改變其功能和外觀，但通常它們的工作方式如下： 從上到下：%n%n3） 導能-切換導能狀態。%n%n4） 安全銷毀-切換安全銷毀。%n%n5） 電源開關-相當於軟錘的功能……%n%n6） 輸入插槽-標準功能。%n%n%n*正面旋轉-允許旋轉機器的正面以獲得更大的結構定向自由度（也可以在API中使用）。 這種旋轉不會改變控制器的正面，僅僅改變方向。 因此，如果從正面看，它可以順時針或逆時針旋轉。 你需要正面旋轉扳手才能做到這些。 §3如果你沒看懂，可以試著放下一個控制器方塊，使用正面旋轉扳手，然後使用藍圖看看結構變化。§r%n%n*多方塊機器藍圖-此藍圖可以顯示出完整多方塊機器的全息圖，左下角的聊天欄會顯示自訂的方塊。如果你堆疊越多張藍圖一起使用，看到的就是多方塊機器越大的版本（如果有的話）。
 
 # Quest: Configuring TecTech Multiblocks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKew.name=§b§l配置TecTech多方塊機器
@@ -4415,7 +4415,7 @@ betterquesting.quest.y-pBsDI2QGS3B9sGG0Pqsg.name=§5§l§n無盡胸甲
 betterquesting.quest.y-pBsDI2QGS3B9sGG0Pqsg.desc=配得上神的盔甲，這件胸甲能為穿戴者提供無限的創造飛行，並能消除所有負面效果。%n%n一旦你穿戴了全套的裝備，你將完全無法被殺死。
 
 # Quest: Using... Goop To Compute?
-betterquesting.quest.zNFh2hRXSyWAXvHFlqTfEg.name=§5§l§n利用……粘液進行計算？
+betterquesting.quest.zNFh2hRXSyWAXvHFlqTfEg.name=§5§l§n利用……黏液進行計算？
 betterquesting.quest.zNFh2hRXSyWAXvHFlqTfEg.desc=運用海珀珍的奇異黏滑特性以及生物培養基，一種新的晶圓被你製造了出來。%n%n[note]這些晶圓目前除了製造更便宜的ZPM電路板以外，可能並非那麼有用。然而，在UIV階段，它們會再次登場。[/note]%n%n§d曾經它們需要在UHV電壓下加工60秒。那時你又在哪呢……
 
 
@@ -4658,7 +4658,7 @@ betterquesting.quest.C0erucWORuCA_neG7VCkvg.desc=利用諸神之鍛爐產生的�
 
 # Quest: White Dwarf Matter
 betterquesting.quest.DVLahVNUQ-CvjYwmvkUn-Q.name=§c§l§n白矮星物質
-betterquesting.quest.DVLahVNUQ-CvjYwmvkUn-Q.desc=誰知道創造人造太陽系最終會讓你提取到一顆剛剛死去的恆星的核心呢？%n%n以你目前鴻蒙之眼的粗製機殼，你只能加速人造太陽系的壽命來觀測白矮星。%n%n也許這個物質會幫助你進一步推動這一程序。%n%n[note]這是三種鴻蒙之眼材料之一。用它將你的機殼升級到 T4.[/note]
+betterquesting.quest.DVLahVNUQ-CvjYwmvkUn-Q.desc=誰知道創造人造太陽系最終會讓你提取到一顆剛剛死去的恆星的核心呢？%n%n以你目前鴻蒙之眼的粗製機械方塊，你只能加速人造太陽系的壽命來觀測白矮星。%n%n也許這個物質會幫助你進一步推動這一程序。%n%n[note]這是三種鴻蒙之眼材料之一。用它將你的機械方塊升級到 T4.[/note]
 
 # Quest: T6: Exotic
 betterquesting.quest.HFpuUdRKS--dsQzGEvjW2w.name=§c§l§nT6：異星
@@ -4706,7 +4706,7 @@ betterquesting.quest.bKW2YJfES6yvbes8JQRb0g.desc=§6完美§r壓縮時空場發�
 
 # Quest: Black Dwarf Matter
 betterquesting.quest.bPYTUdlkSCiRi0eDHHw7tw.name=§c§l§n黑矮星物質
-betterquesting.quest.bPYTUdlkSCiRi0eDHHw7tw.desc=用來自白矮星的物質來強化你的機殼是個好主意。%n%n你現在可以加速太陽系，直到黑矮星形成。這種材料很可能是觀察和了解接下來會發生什麼的關鍵。%n%n這是你的三種鴻蒙之眼材料中的第二種。用它將你的機殼升級到T7.%n%n[note]一旦所有機殼都達到7級，鴻蒙之眼的產能將大於耗能.[/note]
+betterquesting.quest.bPYTUdlkSCiRi0eDHHw7tw.desc=用來自白矮星的物質來強化你的機械方塊是個好主意。%n%n你現在可以加速太陽系，直到黑矮星形成。這種材料很可能是觀察和了解接下來會發生什麼的關鍵。%n%n這是你的三種鴻蒙之眼材料中的第二種。用它將你的機械方塊升級到T7.%n%n[note]一旦所有機械方塊都達到7級，鴻蒙之眼的產能將大於耗能.[/note]
 
 # Quest: A Solder Singularity
 betterquesting.quest.cEX6SRxLTnSHOyvKPkBybw.name=§c§l§n焊料奇點
@@ -4883,7 +4883,7 @@ betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.desc=神鍛最後的外部結構升�
 
 # Quest: Stargate Frame Part
 betterquesting.quest.fTEQD_w8TTerm_ETSVcBmA.name=§6§l§n星門框架部件
-betterquesting.quest.fTEQD_w8TTerm_ETSVcBmA.desc=星門的框架。你不會想用膠水把它粘起來，對吧？%n%n好吧，或許你會的……
+betterquesting.quest.fTEQD_w8TTerm_ETSVcBmA.desc=星門的框架。你不會想用膠水把它黏起來，對吧？%n%n好吧，或許你會的……
 
 # Quest: Simulating a Solar System
 betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.name=§4§l§n模擬一個太陽系
@@ -5145,7 +5145,7 @@ betterquesting.quest.3uJ9TqwJQ5K3UPUFmx06sQ.desc=如果你不想使用魔法來�
 
 # Quest: Slimy Seeds
 betterquesting.quest.4hn4bXWvSay8UYjckHDH4A.name=黏滑種子
-betterquesting.quest.4hn4bXWvSay8UYjckHDH4A.desc=粘液草代表著又一種生產這種橡膠和電子元件需要的黏糊糊的材料的方法。
+betterquesting.quest.4hn4bXWvSay8UYjckHDH4A.desc=黏液草代表著又一種生產這種橡膠和電子元件需要的黏糊糊的材料的方法。
 
 # Quest: Tine
 betterquesting.quest.5K0m6kADSVqZuouYNTEYWw.name=錫芽草
@@ -5256,7 +5256,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBg.name=大地在哭泣
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBg.desc=需要氯的另一種來源？ 培育一些惡魂甘蔗（Tearstalk）吧，可收穫惡魂之淚，從中可以提取出鹽水。%n%n;-;
 
 # Quest: Blazes Too Hard to Kill?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBw.name=獵殺烈焰人太過困難？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBw.name=獵殺烈焰使者太過困難？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBw.desc=那麼種植一些烈焰甘蔗（Blazereed）吧，你再也不用為烈焰棒煩心了。
 
 # Quest: A Proposal?!
@@ -6239,7 +6239,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADIQ.desc=用組裝機把橡膠靴及奈�
 
 # Quest: Iridium Plated
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIg.name=銥鍍層
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIg.desc=將你的護甲全部鍍上銥合金物品外殼，這會賦予它們更好的耐久值。在你穿上它們之前，你必須先使用量子水晶來啟用這些量子裝甲零件。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIg.desc=將你的護甲全部鍍上銥合金物品外殼，這會賦予它們更好的耐久度。在你穿上它們之前，你必須先使用量子水晶來啟用這些量子裝甲零件。
 
 # Quest: Quantum Armor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIw.name=量子裝甲
@@ -6845,19 +6845,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwA.desc=泥炭引擎可以用泥炭或�
 
 # Quest: Copper, Tin, Bronze Tubes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwQ.name=銅、錫、青銅電子管
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwQ.desc=電子管可以用來配置多功能農場種植特殊作物和改變發動機工作模式，還可以讓蜂箱組生產一些特殊的物品。%n%n你需要用電烙鐵將電子管焊接到電路板上。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwQ.desc=電子管可以用來配置多功能農場種植特殊作物和改變引擎工作模式，還可以讓蜂箱組生產一些特殊的物品。%n%n你需要用電烙鐵將電子管焊接到電路板上。
 
 # Quest: Iron, Golden, Diamantine Tubes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwg.name=鐵、金、鑽石電子管
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwg.desc=電子管可以用來配置多功能農場種植特殊作物和改變發動機工作模式，還可以讓蜂箱組生產一些特殊的物品。%n%n你需要用電烙鐵將電子管焊接到電路板上。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEwg.desc=電子管可以用來配置多功能農場種植特殊作物和改變引擎工作模式，還可以讓蜂箱組生產一些特殊的物品。%n%n你需要用電烙鐵將電子管焊接到電路板上。
 
 # Quest: Rubberised, Obsidian, Lapis Tubes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEww.name=橡膠、黑曜石、青金石電子管
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEww.desc=電子管可以用來配置多功能農場種植特殊作物和改變發動機工作模式，還可以讓蜂箱組生產一些特殊的物品。%n%n你需要用電烙鐵將電子管焊接到電路板上。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEww.desc=電子管可以用來配置多功能農場種植特殊作物和改變引擎工作模式，還可以讓蜂箱組生產一些特殊的物品。%n%n你需要用電烙鐵將電子管焊接到電路板上。
 
 # Quest: Blazing, Ender, Emerald Tubes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExA.name=烈焰、終界、綠寶石電子管
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAExA.desc=電子管可以用來配置多功能農場種植特殊作物和改變發動機工作模式，還可以讓蜂箱組生產一些特殊的物品。%n%n你需要用電烙鐵將電子管焊接到電路板上。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAExA.desc=電子管可以用來配置多功能農場種植特殊作物和改變引擎工作模式，還可以讓蜂箱組生產一些特殊的物品。%n%n你需要用電烙鐵將電子管焊接到電路板上。
 
 # Quest: Brazil Nut
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0A.name=巴西慄
@@ -6969,7 +6969,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKIA.desc=木瓜樹出產木瓜，木瓜�
 
 # Quest: Combustion Engine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALKw.name=燃油引擎
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALKw.desc=燃油引擎透過燃燒物品產生能量，類似於汽車發動機。 超過100度時，需要給它加水，否則它就會爆炸，別把水用完了！ 使用紅石訊號啟用它。%n%n可選的燃料有：%n石油 @30RF/t 總計150K-RF%n乙醇 @40RF/t 總計360K-RF%n柴油 @60RF/t 總計1500K-RF%n%n[note]用石油的時候，別用成原油、輕油、重油了。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALKw.desc=燃油引擎透過燃燒物品產生能量，類似於汽車引擎。 超過100度時，需要給它加水，否則它就會爆炸，別把水用完了！ 使用紅石訊號啟用它。%n%n可選的燃料有：%n石油 @30RF/t 總計150K-RF%n乙醇 @40RF/t 總計360K-RF%n柴油 @60RF/t 總計1500K-RF%n%n[note]用石油的時候，別用成原油、輕油、重油了。[/note]
 
 # Quest: Kinesis Pipes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALLA.name=能量管道
@@ -7102,7 +7102,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.desc=現在這種線圈是可選的�
 
 # Quest: An Industrial Mobfarm
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.name=§6§l工業化怪物農場
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.desc=§6§l工業屠宰場§r是最新的，並且可能是§l最好的§r刷怪籠+怪物粉碎機。有了它，你不僅可以在不影響§lTPS§r的情況下獲取掉落物，而且§l極其§r高效，頗具風度。%n%n當然了，這也取決於你的劍；它的傷害、搶奪和耐久是僅有的與機器效率有關的屬性。§3（不過也可以不用武器，畢竟機器內部還有錐刺！）§r%n%n在允許的情況下，偶爾會生成精英怪，這將消耗§2§l8倍§r的電力，記住這點！%n%n如果你正在使用血魔法的“§c§l苦難之井§r”儀式為你的祭壇提供lp，可以將這個多方塊結構與儀式連線，它會自動“生成”並“殺死”怪物，獲取生命本質，這樣你就不需要含有真正的刷怪籠的裝置了！%n%n§l注：§r%n每輪執行將會生產§2§l120L§r液態經驗。%n如果多方塊結構的動畫出現了什麼問題，可以使用§5電烙鐵§r右鍵主機以關閉動畫。%n閱讀它的tooltip！它有一些獨特的改善遊戲體驗的設定，你可能會用到。%n%n[warn]對多方塊中的錐刺附魔不會影響機器的效率。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.desc=§6§l工業屠宰場§r是最新的，並且可能是§l最好的§r刷怪籠+怪物粉碎機。有了它，你不僅可以在不影響§lTPS§r的情況下獲取掉落物，而且§l極其§r高效，頗具風度。%n%n當然了，這也取決於你的劍；它的傷害、掠奪和耐久是僅有的與機器效率有關的屬性。§3（不過也可以不用武器，畢竟機器內部還有錐刺！）§r%n%n在允許的情況下，偶爾會生成精英怪，這將消耗§2§l8倍§r的電力，記住這點！%n%n如果你正在使用血魔法的“§c§l苦難之井§r”儀式為你的祭壇提供lp，可以將這個多方塊結構與儀式連線，它會自動“生成”並“殺死”怪物，獲取生命本質，這樣你就不需要含有真正的刷怪籠的裝置了！%n%n§l注：§r%n每輪執行將會生產§2§l120L§r液態經驗。%n如果多方塊結構的動畫出現了什麼問題，可以使用§5電烙鐵§r右鍵主機以關閉動畫。%n閱讀它的tooltip！它有一些獨特的改善遊戲體驗的設定，你可能會用到。%n%n[warn]對多方塊中的錐刺附魔不會影響機器的效率。[/warn]
 
 # Quest: Powderbarrels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.name=§6§l火藥桶
@@ -7390,7 +7390,7 @@ betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.desc=可持續性。這並非一個�
 
 # Quest: Tier 2 Manipulating
 betterquesting.quest.Mf1D7e-LTaW3rbBRYmxBAQ.name=§6§lT2 操控
-betterquesting.quest.Mf1D7e-LTaW3rbBRYmxBAQ.desc=在取得重大進展後，您可以透過將§3中子脈衝控制方塊§r替換為§3寰宇強化脈衝控制方塊§r，將量子操縱者升級至第二級。安裝完成後，量子操縱者將能夠§6跳過獨居石線§r、§6跳過矽岩線的前兩步§r以及§6跳過地獄合金線§r。%n%n這些機械方塊需要更高階的材料，包括§3超穩態自修復黏合劑§r，該材料僅能在一級量子操縱者中製作。這種粘合劑不僅具有卓越的粘合效能——還能承受二級、三級甚至四級量子操縱者的強大能量流！§o%n%n誰知道之後還需要什麼材料呢？！
+betterquesting.quest.Mf1D7e-LTaW3rbBRYmxBAQ.desc=在取得重大進展後，您可以透過將§3中子脈衝控制方塊§r替換為§3寰宇強化脈衝控制方塊§r，將量子操縱者升級至第二級。安裝完成後，量子操縱者將能夠§6跳過獨居石線§r、§6跳過矽岩線的前兩步§r以及§6跳過地獄合金線§r。%n%n這些機械方塊需要更高階的材料，包括§3超穩態自修復黏合劑§r，該材料僅能在一級量子操縱者中製作。這種黏合劑不僅具有卓越的黏合效能——還能承受二級、三級甚至四級量子操縱者的強大能量流！§o%n%n誰知道之後還需要什麼材料呢？！
 
 # Quest: A Beginner's Guide to Particle Physics
 betterquesting.quest.NGG2rHQ4T4SInwXT8XTGSg.name=§6§l粒子物理學新手指南
@@ -7723,7 +7723,7 @@ betterquesting.quest.d5Fxz8ClQQCXy9GN_m9BrA.desc=您到底需要多少石油？�
 
 # Quest: An End To Deforestation
 betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.name=§9§l濫砍濫伐的終結
-betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.desc=這臺多方塊機器是獲取大量木材的完美解決方案。您是否在為木炭或者苯發電時所需的大量木材發愁？您是否苦於無法獲取大量堅果來榨取種子油？亦或者因為裝飾性樹葉的來源而大傷腦筋？踏破鐵鞋無覓處，得來全不費工夫！%n%n原木擬生場可以種植遊戲內幾乎全部種類的樹木並且輸出你砍樹時會獲得的正常掉落。這一切都被整合在緊湊的空間中，無需忍受樹木真實生長時帶來的卡頓。%n%n首先，將任意一種樹苗放入控制器GUI中。其次，在輸入匯流排中放入你所需求的產物所對應的工具。最後，給機器通電，並且開啟它。接著你就準備好被產物所淹沒吧。%n%n樹的不同部分需要不同種類的工具。%n - 鋸對應木材%n - 剪枝器（GT）對應樹苗%n - 剪刀對應樹葉%n - 小刀對應水果%n高階工具（鏈鋸，剪枝器（林業），……）會提供更多產出！具體請檢視控制器的tooltip%n%n您甚至可以同時使用多個不同的工具，機器就能同時收穫多個不同的產品！%n%n請注意，使用的工具會緩慢失去耐久值。因此，為了長期執行，你可能需要設定一些自動更換功能。%n%n[note]在建造時你也可以用草方塊代替泥土。[/note]%n%n[warn]雖然這臺機器在IV階段就能製作，但在IV初期卻相當昂貴，需要16個 ZPM電路板和一些高階合金。[/warn]
+betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.desc=這臺多方塊機器是獲取大量木材的完美解決方案。您是否在為木炭或者苯發電時所需的大量木材發愁？您是否苦於無法獲取大量堅果來榨取種子油？亦或者因為裝飾性樹葉的來源而大傷腦筋？踏破鐵鞋無覓處，得來全不費工夫！%n%n原木擬生場可以種植遊戲內幾乎全部種類的樹木並且輸出你砍樹時會獲得的正常掉落。這一切都被整合在緊湊的空間中，無需忍受樹木真實生長時帶來的卡頓。%n%n首先，將任意一種樹苗放入控制器GUI中。其次，在輸入匯流排中放入你所需求的產物所對應的工具。最後，給機器通電，並且開啟它。接著你就準備好被產物所淹沒吧。%n%n樹的不同部分需要不同種類的工具。%n - 鋸對應木材%n - 剪枝器（GT）對應樹苗%n - 剪刀對應樹葉%n - 小刀對應水果%n高階工具（鏈鋸，剪枝器（林業），……）會提供更多產出！具體請檢視控制器的tooltip%n%n您甚至可以同時使用多個不同的工具，機器就能同時收穫多個不同的產品！%n%n請注意，使用的工具會緩慢失去耐久度。因此，為了長期執行，你可能需要設定一些自動更換功能。%n%n[note]在建造時你也可以用草方塊代替泥土。[/note]%n%n[warn]雖然這臺機器在IV階段就能製作，但在IV初期卻相當昂貴，需要16個 ZPM電路板和一些高階合金。[/warn]
 
 # Quest: Can It!
 betterquesting.quest.gMRufFtRRRa30LE21boFNQ.name=§5§l把它裝進罐子裡！（Can it!）
@@ -8722,11 +8722,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALxw.desc=如果你想持續使用你的�
 
 # Quest: Zooming with Nitrous
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALyA.name=氮氣--加速
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALyA.desc=一氧化二氮，N2O，又稱氧化亞氮。它能使汽車引擎在短時間內大幅提升輸出功率。事實上，在燃燒過程中將其與燃料混合，作為一種額外的氧氣來源，可以使燃料消耗速度更快，同時提升釋放能量的速度，但這會有“爆震”的風險，使燃料超出額定範圍並可能損壞發動機。%n%n為了避免這種情況，需要在高辛烷值汽油中混合一些其他的東西來防止你的發電機爆炸，對吧？幸運的是，這樣的選擇是存在的，並且會在下個任務呈現。不過現在，你可以專心混合氮氣和氧氣，以實現一氧化二氮的自動化。氮和氧是蒸餾空氣的兩個主要產物，所以你可以一步就獲得它們，不過目前你可能已經選好了這些氣體的來源，所以直接用你已有的就好。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALyA.desc=一氧化二氮，N2O，又稱氧化亞氮。它能使汽車引擎在短時間內大幅提升輸出功率。事實上，在燃燒過程中將其與燃料混合，作為一種額外的氧氣來源，可以使燃料消耗速度更快，同時提升釋放能量的速度，但這會有“爆震”的風險，使燃料超出額定範圍並可能損壞引擎。%n%n為了避免這種情況，需要在高辛烷值汽油中混合一些其他的東西來防止你的發電機爆炸，對吧？幸運的是，這樣的選擇是存在的，並且會在下個任務呈現。不過現在，你可以專心混合氮氣和氧氣，以實現一氧化二氮的自動化。氮和氧是蒸餾空氣的兩個主要產物，所以你可以一步就獲得它們，不過目前你可能已經選好了這些氣體的來源，所以直接用你已有的就好。
 
 # Quest: Speeding with Octane
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALyQ.name=辛烷--衝刺
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALyQ.desc=顧名思義，辛烷，就是高辛烷值汽油的成分之一。辛烷對改善燃料非常重要，因為有一種叫做“辛烷值”的東西，辛烷值可以衡量燃料在不發生爆炸的情況下抗壓縮的程度。車輛可以從這種可控爆炸中獲得能量進而移動，而如果發動機可以使用更高壓縮比的設計，那就能獲得更高的效率，但高壓縮比要求燃料在壓縮過程中不被引爆。 話雖如此，但在這裡所有這些燃料都可以在你使用的引擎中執行，所以這種效率獎勵體現在燃值裡。%n%n（不過在下一階段會解鎖一種多方塊機器，只能吃高辛烷值汽油。不要忘了它。）%n%n那麼，辛烷如何獲得呢？在上一階段提到過，可以從輕燃油中提煉獲得辛烷，而現在依然如此：輕度加氫裂化輕燃油可以提供一些辛烷，所以別用輕燃油合成柴油了，為它專設一臺蒸餾塔吧。是時候繼續前進了。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALyQ.desc=顧名思義，辛烷，就是高辛烷值汽油的成分之一。辛烷對改善燃料非常重要，因為有一種叫做“辛烷值”的東西，辛烷值可以衡量燃料在不發生爆炸的情況下抗壓縮的程度。車輛可以從這種可控爆炸中獲得能量進而移動，而如果引擎可以使用更高壓縮比的設計，那就能獲得更高的效率，但高壓縮比要求燃料在壓縮過程中不被引爆。 話雖如此，但在這裡所有這些燃料都可以在你使用的引擎中執行，所以這種效率獎勵體現在燃值裡。%n%n（不過在下一階段會解鎖一種多方塊機器，只能吃高辛烷值汽油。不要忘了它。）%n%n那麼，辛烷如何獲得呢？在上一階段提到過，可以從輕燃油中提煉獲得辛烷，而現在依然如此：輕度加氫裂化輕燃油可以提供一些辛烷，所以別用輕燃油合成柴油了，為它專設一臺蒸餾塔吧。是時候繼續前進了。
 
 # Quest: Gasoline
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALyg.name=汽油
@@ -8734,7 +8734,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALyg.desc=顯然，粗汽油是粗製的�
 
 # Quest: High Octane Gasoline
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALyw.name=高辛烷值汽油
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALyw.desc=眾所周知，汽油是一種常見燃料。它沒有什麼特別之處，性質與柴油類似，只是密度不同，用於不同的發動機。在現實生活中，汽油對普通人來說是非常有用的，但在GTNH中它幾乎被柴油取代了。然而，這種情況即將改變。%n%n這一步是迄今為止整個處理鏈中最複雜的一步，但你已經將所需的所有新增劑自動化了，所以現在只需要將它們混合起來即可。這最後一步要求EV電壓，所以請將你的化學品混合起來吧。在放入爆炸性的甲苯後，加入辛烷以幫助燃料抵抗壓縮，再混入一氧化二氮助燃，最後用抗爆劑來控制它們。將這一切與汽油混合，你就得到了高辛烷值汽油——遊戲中最強大的柴油類燃料。%n%n石油處理還有更多後續，此後還有更多工，但燃料改進的部分就到這了。想要充分發揮高辛烷值汽油的強大潛能，你需要解鎖並建造更好的發電機，這些就留給你自己完成了。核能可能是你下一步的能源，因為柴油類燃料不可能永遠用下去，但你仍然可以沿著這條路繼續前進。%n%n哦，還有，恭喜你！你贏得了這個獎勵。%n%n[note]中文wiki 石油工業/高辛烷值汽油：  §1§n[url]https://gtnh.huijiwiki.com/p/96442[/url]§r[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALyw.desc=眾所周知，汽油是一種常見燃料。它沒有什麼特別之處，性質與柴油類似，只是密度不同，用於不同的引擎。在現實生活中，汽油對普通人來說是非常有用的，但在GTNH中它幾乎被柴油取代了。然而，這種情況即將改變。%n%n這一步是迄今為止整個處理鏈中最複雜的一步，但你已經將所需的所有新增劑自動化了，所以現在只需要將它們混合起來即可。這最後一步要求EV電壓，所以請將你的化學品混合起來吧。在放入爆炸性的甲苯後，加入辛烷以幫助燃料抵抗壓縮，再混入一氧化二氮助燃，最後用抗爆劑來控制它們。將這一切與汽油混合，你就得到了高辛烷值汽油——遊戲中最強大的柴油類燃料。%n%n石油處理還有更多後續，此後還有更多工，但燃料改進的部分就到這了。想要充分發揮高辛烷值汽油的強大潛能，你需要解鎖並建造更好的發電機，這些就留給你自己完成了。核能可能是你下一步的能源，因為柴油類燃料不可能永遠用下去，但你仍然可以沿著這條路繼續前進。%n%n哦，還有，恭喜你！你贏得了這個獎勵。%n%n[note]中文wiki 石油工業/高辛烷值汽油：  §1§n[url]https://gtnh.huijiwiki.com/p/96442[/url]§r[/note]
 
 # Quest: Largest Oil Drain
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALzA.name=最大出油口
@@ -8935,7 +8935,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQA.desc=如果你已經走到這麼遠�
 
 # Quest: More Steam For Fuel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQg.name=為了燃料，更多蒸汽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQg.desc=最後一種大型鍋爐是IV等級的，主要材料為鎢鋼。在數值上，鎢鋼鍋爐可以碾壓所有其他鍋爐，不論在輸出功率還是燃料效率方面，所以如果你一直在研究超級燃料的話，修建一座或更多座鎢鋼鍋爐會是個好主意。每座鍋爐可以輸出大量過熱蒸汽，按100％效率計算為16000 EU/t，而在150％效率下就是24000 EU/t。%n%n除此之外，你還應該致力於將魔法超級燃料自動化（如果你還沒有的話）。它需要更多的投入，不過回報也更大，甚至可以說是這條燃料處理線的全部意義！ 如果你不想選擇魔法燃料黏合劑的神秘版本配方，那麼就需要將烈焰人和終界人納入自動化之中。對於合成超級燃料這步，源動之焰可以輕易完成自動化，只需要將木炭粉丟進坩堝或者自動鍊金塔中即可。%n%n這座深藍色的高塔可能需要大量的大型蒸汽渦輪，以處理其出產的所有蒸汽，特別是如果你一口氣造了四聯的話……可以預期，每臺鍋爐的蒸汽輸出接近11000 L/t，所以好好看看渦輪轉子的NEI，找找你可以製造哪種，然後再算算你需要造多少臺大型蒸汽渦輪吧。 在此之後的任務會給你提供一些建議，教你如何開發渦輪陣列的潛力。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQg.desc=最後一種大型鍋爐是IV等級的，主要材料為鎢鋼。在數值上，鎢鋼鍋爐可以碾壓所有其他鍋爐，不論在輸出功率還是燃料效率方面，所以如果你一直在研究超級燃料的話，修建一座或更多座鎢鋼鍋爐會是個好主意。每座鍋爐可以輸出大量過熱蒸汽，按100％效率計算為16000 EU/t，而在150％效率下就是24000 EU/t。%n%n除此之外，你還應該致力於將魔法超級燃料自動化（如果你還沒有的話）。它需要更多的投入，不過回報也更大，甚至可以說是這條燃料處理線的全部意義！ 如果你不想選擇魔法燃料黏合劑的神秘版本配方，那麼就需要將烈焰使者和終界人納入自動化之中。對於合成超級燃料這步，源動之焰可以輕易完成自動化，只需要將木炭粉丟進坩堝或者自動鍊金塔中即可。%n%n這座深藍色的高塔可能需要大量的大型蒸汽渦輪，以處理其出產的所有蒸汽，特別是如果你一口氣造了四聯的話……可以預期，每臺鍋爐的蒸汽輸出接近11000 L/t，所以好好看看渦輪轉子的NEI，找找你可以製造哪種，然後再算算你需要造多少臺大型蒸汽渦輪吧。 在此之後的任務會給你提供一些建議，教你如何開發渦輪陣列的潛力。
 
 # Quest: Huge Turbines And Loose Mode
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMQw.name=巨型渦輪和鬆散模式
@@ -9774,7 +9774,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcA.desc=基礎伐木機用一段時間�
 
 # Quest: Cart Modules: Solar Power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEuA.name=礦車模組：太陽能引擎
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEuA.desc=你的礦車需要動力。 礦車可以使用煤、太陽能或者岩漿來供電。 如果你造了太陽能電池板，你可以用太陽能來為你的礦車充電。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEuA.desc=你的礦車需要動力。 礦車可以使用煤、太陽能或者岩漿來供電。 如果你造了太陽能板，你可以用太陽能來為你的礦車充電。
 
 # Quest: Cart modules: Digging
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEuQ.name=礦車模組：挖掘
@@ -10569,7 +10569,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6g.desc=顧名思義。%n%n第一個是
 
 # Quest: Deck of Cards
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6w.name=一副撲克牌
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6w.desc=這些卡可以為某些裝置或面板新增額外功能。它們的tooltip中列出了適用裝置。%n%n§6紅石卡：§r%n%n紅石卡為適用的裝置新增紅石控制。紅石卡有以下幾種模式：%n%n§c總是啟用%n無訊號時啟用%n有訊號時啟用%n每當有脈衝訊號時啟用一次§r%n%n§6容量卡：§r%n%n容量卡為適用的裝置解鎖更多槽位。%n%n如果將其插入輸出匯流排，還會出現一個用來調整排程模式的圖示。%n%n§6合成卡：§r%n%n合成卡允許自動向網路發出物品合成的請求。%n%n§9放入ME介面時：§r%n%n如果ME介面已有標記的物品，且現存物品數量少於標記數量時，將自動開始合成該物品直至達到標記數量。 %n%n別忘了ME網路中需要有相應的樣板才能啟動合成。%n%n[note]如果想要讓ME介面內的物品在網路內可見，你需要在ME介面上貼一個儲存匯流排。[/note]%n%n§9放入ME標準發信器時：§r%n%n§a模式一：§r當指定物品正在合成時發出紅石訊號。%n%n§a模式二：§r當指定物品被請求合成時發出紅石訊號，[warn]但它不會輸出合成的物品。[/warn] %n%n當你在使用偽合成，需要標準發信器來觸發其他操作時，這會非常有用。%n%n運用偽合成時，別忘了將請求的物品傳回網路中，以免長時間佔用CPU。%n%n§9放入ME輸出匯流排時，§r%n%n它將嘗試輸出在GUI中標記的物品。%n%n§a模式一：§r優先輸出網路中的已有物品，然後再輸出合成物品。 %n%n§a模式二：§r僅輸出合成物品。%n%n§6加速卡：§r%n%n加速卡讓裝置或者面板更快地工作。%n%n[note]你可能需要一大堆加速卡。[/note]%n%n§6反相卡：§r%n%n反相卡可以使適用面板中的物品過濾反轉。%n%n§6模糊卡：§r%n%n模糊卡會在過濾時應用模糊邏輯，來忽略物品NBT或耐久值的不同。注意這與Meta資料有區別。%n%n如果你只是想忽視NBT資料，可以將其設定為§9匹配所有。§r%n%n如果將其設定為§c99%%§r，它會對所有耐久不滿的物品生效。你也可以用反相卡反轉這一邏輯。%n%n放入ME介面時，每張模糊卡（最多3張）可控制介面中的3個槽位，順序從右到左。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6w.desc=這些卡可以為某些裝置或面板新增額外功能。它們的tooltip中列出了適用裝置。%n%n§6紅石卡：§r%n%n紅石卡為適用的裝置新增紅石控制。紅石卡有以下幾種模式：%n%n§c總是啟用%n無訊號時啟用%n有訊號時啟用%n每當有脈衝訊號時啟用一次§r%n%n§6容量卡：§r%n%n容量卡為適用的裝置解鎖更多槽位。%n%n如果將其插入輸出匯流排，還會出現一個用來調整排程模式的圖示。%n%n§6合成卡：§r%n%n合成卡允許自動向網路發出物品合成的請求。%n%n§9放入ME介面時：§r%n%n如果ME介面已有標記的物品，且現存物品數量少於標記數量時，將自動開始合成該物品直至達到標記數量。 %n%n別忘了ME網路中需要有相應的樣板才能啟動合成。%n%n[note]如果想要讓ME介面內的物品在網路內可見，你需要在ME介面上貼一個儲存匯流排。[/note]%n%n§9放入ME標準發信器時：§r%n%n§a模式一：§r當指定物品正在合成時發出紅石訊號。%n%n§a模式二：§r當指定物品被請求合成時發出紅石訊號，[warn]但它不會輸出合成的物品。[/warn] %n%n當你在使用偽合成，需要標準發信器來觸發其他操作時，這會非常有用。%n%n運用偽合成時，別忘了將請求的物品傳回網路中，以免長時間佔用CPU。%n%n§9放入ME輸出匯流排時，§r%n%n它將嘗試輸出在GUI中標記的物品。%n%n§a模式一：§r優先輸出網路中的已有物品，然後再輸出合成物品。 %n%n§a模式二：§r僅輸出合成物品。%n%n§6加速卡：§r%n%n加速卡讓裝置或者面板更快地工作。%n%n[note]你可能需要一大堆加速卡。[/note]%n%n§6反相卡：§r%n%n反相卡可以使適用面板中的物品過濾反轉。%n%n§6模糊卡：§r%n%n模糊卡會在過濾時應用模糊邏輯，來忽略物品NBT或耐久度的不同。注意這與Meta資料有區別。%n%n如果你只是想忽視NBT資料，可以將其設定為§9匹配所有。§r%n%n如果將其設定為§c99%%§r，它會對所有耐久不滿的物品生效。你也可以用反相卡反轉這一邏輯。%n%n放入ME介面時，每張模糊卡（最多3張）可控制介面中的3個槽位，順序從右到左。
 
 # Quest: Fluids of the Trade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7A.name=流體交換
@@ -11483,7 +11483,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4w.desc=幽魂蜂會生成惡魂，這�
 
 # Quest: Smouldering
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5A.name=悶燒蜂
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5A.desc=悶燒蜂會生成烈焰人，特產是烈焰棒。最好用你洗好基因的模板公主蜂來培育它們，否則它們的特殊效果可能會毀了你的基地。另外，它們的溫度要求為地獄，但濕度要求卻是普通，這很有趣——你得使用基因工業的適應性調整器來讓蜜蜂適應環境，或者用別的什麼方法來調整生物群系。必須在地獄才可能培育出來，由幽魂蜂和憎惡蜂雜交培育而來。%n%n但是很遺憾，要使它們生產烈焰棒，你還是得將它們放置在符合其預設要求的生物群系中。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5A.desc=悶燒蜂會生成烈焰使者，特產是烈焰棒。最好用你洗好基因的模板公主蜂來培育它們，否則它們的特殊效果可能會毀了你的基地。另外，它們的溫度要求為地獄，但濕度要求卻是普通，這很有趣——你得使用基因工業的適應性調整器來讓蜜蜂適應環境，或者用別的什麼方法來調整生物群系。必須在地獄才可能培育出來，由幽魂蜂和憎惡蜂雜交培育而來。%n%n但是很遺憾，要使它們生產烈焰棒，你還是得將它們放置在符合其預設要求的生物群系中。
 
 # Quest: Refined
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5Q.name=精煉蜂
@@ -12457,7 +12457,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFtQ.desc=不想再猜測什麼物品含�
 
 # Quest: Warp Warnings
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.name=扭曲警報
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.desc=神秘時代的裝置與工具可以帶來強大的力量。但力量是需要付出代價的……這種代價表現為扭曲：一種對角色思想與靈魂的侵蝕，逐漸對他們造成更多可怕的影響。%n%n雖然扭曲的效果小則煩人，大則致命，但積累足夠多的扭曲也可以讓你獲得更大的力量……代價就是越發瘋狂，也越發吸引黑暗力量。至少，在別人看來是瘋狂……但是，當你頭腦中的聲音賜予你有用的知識時，這真的算是瘋狂嗎？神秘扭曲學（Warp Theory）新增了一系列扭曲效果。要萬分當心，因為你肯定不想在你的基地裡生成一隻凋零。%n%n[note]如果你還處於神秘時代旅程的早期，無需被扭曲嚇跑。只有在你進行了大量研究之後，才會遇到危險的扭曲效果。如果你仍想規避所有風險，請務必避免研究那些標記為“§5禁忌知識§r”的內容。[/note]%n%n扭曲效果與扭曲值相關。%n%n5扭曲：訊息%n10扭曲：假爆炸%n15扭曲：硬幣、南瓜%n20扭曲：下蛋、生成幻影%n25扭曲：假苦力怕、假雨%n30扭曲：假GT音效、生成蝙蝠%n35扭曲：流血、假終界人%n40扭曲：生成友善苦力怕%n45扭曲：跳躍提升、反胃%n50扭曲：失眠、Vis流失、怪異噪聲%n55扭曲：雷雨%n60扭曲：生成九獄焱蝠%n65扭曲：失明、中毒%n70扭曲：牲畜之雨%n75扭曲：生成分身%n80扭曲：生成終界人、凋零效果%n85扭曲：怪風%n90扭曲：終界珍珠%n95扭曲：烈焰人火球%n100扭曲：奧術石蕊試紙、垃圾、深淵的呼喚%n110扭曲：黑曜石%n120扭曲：閃電%n125扭曲：物品欄換位%n130扭曲：隨機傳送%n140扭曲：加速%n150扭曲：假凋零、物品欄打亂%n160扭曲：倒計時爆炸%n170扭曲：蘑菇%n175扭曲：下雪%n180扭曲：裝備腐蝕%n190扭曲：生機勃勃%n200扭曲：生成凋零
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.desc=神秘時代的裝置與工具可以帶來強大的力量。但力量是需要付出代價的……這種代價表現為扭曲：一種對角色思想與靈魂的侵蝕，逐漸對他們造成更多可怕的影響。%n%n雖然扭曲的效果小則煩人，大則致命，但積累足夠多的扭曲也可以讓你獲得更大的力量……代價就是越發瘋狂，也越發吸引黑暗力量。至少，在別人看來是瘋狂……但是，當你頭腦中的聲音賜予你有用的知識時，這真的算是瘋狂嗎？神秘扭曲學（Warp Theory）新增了一系列扭曲效果。要萬分當心，因為你肯定不想在你的基地裡生成一隻凋零。%n%n[note]如果你還處於神秘時代旅程的早期，無需被扭曲嚇跑。只有在你進行了大量研究之後，才會遇到危險的扭曲效果。如果你仍想規避所有風險，請務必避免研究那些標記為“§5禁忌知識§r”的內容。[/note]%n%n扭曲效果與扭曲值相關。%n%n5扭曲：訊息%n10扭曲：假爆炸%n15扭曲：硬幣、南瓜%n20扭曲：下蛋、生成幻影%n25扭曲：假苦力怕、假雨%n30扭曲：假GT音效、生成蝙蝠%n35扭曲：流血、假終界人%n40扭曲：生成友善苦力怕%n45扭曲：跳躍提升、反胃%n50扭曲：失眠、Vis流失、怪異噪聲%n55扭曲：雷雨%n60扭曲：生成九獄焱蝠%n65扭曲：失明、中毒%n70扭曲：牲畜之雨%n75扭曲：生成分身%n80扭曲：生成終界人、凋零效果%n85扭曲：怪風%n90扭曲：終界珍珠%n95扭曲：烈焰使者火球%n100扭曲：奧術石蕊試紙、垃圾、深淵的呼喚%n110扭曲：黑曜石%n120扭曲：閃電%n125扭曲：物品欄換位%n130扭曲：隨機傳送%n140扭曲：加速%n150扭曲：假凋零、物品欄打亂%n160扭曲：倒計時爆炸%n170扭曲：蘑菇%n175扭曲：下雪%n180扭曲：裝備腐蝕%n190扭曲：生機勃勃%n200扭曲：生成凋零
 
 # Quest: The Night's Not Dark Anymore
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHQ.name=夜晚不再漆黑
@@ -12629,7 +12629,7 @@ betterquesting.quest.xoH_knd-RV-22QEfLUtuDA.desc=你把各種源質從鍊金爐�
 
 # Quest: Infinite Durability
 betterquesting.quest.yT18iStZRzKem7FYnZoRzw.name=無限耐久
-betterquesting.quest.yT18iStZRzKem7FYnZoRzw.desc=給這傢伙泵入一點Instrumentum源質，你就能修復所有帶有原版耐久值的物品！%n%n§3[note]對血魔法的藥水，匠魂工具，GT工具以及能充電的工具不生效。每點源質會修復8點耐久。[/note]
+betterquesting.quest.yT18iStZRzKem7FYnZoRzw.desc=給這傢伙泵入一點Instrumentum源質，你就能修復所有帶有原版耐久度的物品！%n%n§3[note]對血魔法的藥水，匠魂工具，GT工具以及能充電的工具不生效。每點源質會修復8點耐久。[/note]
 
 
 ## Quest Line: Adept Thaumaturgy
@@ -13678,7 +13678,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPQ.desc=熾烈之織夢者有兩種效�
 
 # Quest: Now I Feel Bad...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbQ.name=現在我感覺很糟糕……
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbQ.desc=..。我知道苦力怕有心。用你的儀祭匕首獵殺一些苦力怕獲取它。你可能需要附魔高等級的搶奪以獲得更高的掉落機率。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbQ.desc=..。我知道苦力怕有心。用你的儀祭匕首獵殺一些苦力怕獲取它。你可能需要附魔高等級的掠奪以獲得更高的掉落機率。
 
 # Quest: Rumplestiltskin!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbg.name=Rumplestiltskin：名字古怪的小矮人兒！（格林童話）
@@ -13734,7 +13734,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJA.desc=聖餐杯可升級祭壇，提�
 
 # Quest: Arthana
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJQ.name=儀祭匕首
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJQ.desc=儀祭匕首是巫師使用的一種禮儀用刀，既可以收集特殊的食材，也可以進行一些儀式。它的一般屬性與金劍一致（傷害，附魔等），但它同時具備鐵劍的耐久。可用金錠修復。%n%n儀祭匕首的主要用途是收集巫術中使用的特殊原料（它將顯著提高怪物掉落此類原料的機率）（例如蝙蝠之毛，狗之舌等）。使用它擊殺亡靈生物還有小機率掉落幽靈粉末。%n%n當僅有原版Minecraft和巫術mod（且不使用其他模組）時，使用儀祭匕首殺死骷髏是獲取骷髏頭顱的唯一方式，掉落機率約為5%%（頭顱是祭壇的重要升級）。使用儀祭匕首還有較小機率獲得其他頭顱（從怪物或玩家身上）。搶奪附魔可增加所有掉落機率。%n%n儀祭匕首無法提高凋零骷髏頭顱的掉落機率，只能透過搶奪附魔這種常規方式提高。%n%n某些圓環儀式需要用到儀祭匕首，不過在儀式過程中不會消耗它。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJQ.desc=儀祭匕首是巫師使用的一種禮儀用刀，既可以收集特殊的食材，也可以進行一些儀式。它的一般屬性與金劍一致（傷害，附魔等），但它同時具備鐵劍的耐久。可用金錠修復。%n%n儀祭匕首的主要用途是收集巫術中使用的特殊原料（它將顯著提高怪物掉落此類原料的機率）（例如蝙蝠之毛，狗之舌等）。使用它擊殺亡靈生物還有小機率掉落幽靈粉末。%n%n當僅有原版Minecraft和巫術mod（且不使用其他模組）時，使用儀祭匕首殺死骷髏是獲取骷髏頭顱的唯一方式，掉落機率約為5%%（頭顱是祭壇的重要升級）。使用儀祭匕首還有較小機率獲得其他頭顱（從怪物或玩家身上）。掠奪附魔可增加所有掉落機率。%n%n儀祭匕首無法提高凋零骷髏頭顱的掉落機率，只能透過掠奪附魔這種常規方式提高。%n%n某些圓環儀式需要用到儀祭匕首，不過在儀式過程中不會消耗它。
 
 # Quest: Happenstance Oil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJg.name=巧合油
@@ -13770,7 +13770,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcg.desc=你想試試較簡單的方法�
 
 # Quest: The Hard Way to Change Biomes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcw.name=改變生物群系的困難方法
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcw.desc=好吧，想要一個範圍超過0的儀式，你需要獲得聚會女巫的承認並請她們幫助你。 而為了能獲得與她們談話的機會，你需要自我注魔或者繫結愛寵。 在此任務線中，我們介紹的是繫結愛寵這條路，至於想要自我注魔的人，可以選擇以下物品： 光之幽靈、世界之魄、他處之靈、煉獄敵意，然後進行相應的注魔儀式。 確保你擁有死亡守護娃娃，因為自我注魔儀式會殺死你。 在極限模式下，記得先在另一個世界試驗一下。%n%n想要繫結愛寵，首先需要召喚一隻惡魔然後把它的心挖出來。 我是認真的。 使用搶奪III的儀祭匕首，這樣爆率最高。 如果你不知道如何召喚，檢視巫術：圓環法陣的49/50頁找到正確的召喚儀式。%n%n下一步需要用到變異枝條。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcw.desc=好吧，想要一個範圍超過0的儀式，你需要獲得聚會女巫的承認並請她們幫助你。 而為了能獲得與她們談話的機會，你需要自我注魔或者繫結愛寵。 在此任務線中，我們介紹的是繫結愛寵這條路，至於想要自我注魔的人，可以選擇以下物品： 光之幽靈、世界之魄、他處之靈、煉獄敵意，然後進行相應的注魔儀式。 確保你擁有死亡守護娃娃，因為自我注魔儀式會殺死你。 在極限模式下，記得先在另一個世界試驗一下。%n%n想要繫結愛寵，首先需要召喚一隻惡魔然後把它的心挖出來。 我是認真的。 使用掠奪III的儀祭匕首，這樣爆率最高。 如果你不知道如何召喚，檢視巫術：圓環法陣的49/50頁找到正確的召喚儀式。%n%n下一步需要用到變異枝條。
 
 # Quest: More Hearts for Valentines
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdA.name=情人節時多用心
@@ -14132,7 +14132,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=莫哥和瓜哥是妖精崇拜�
 
 # Quest: Kill Demon
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=獵殺惡魔
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=惡魔是強大的，邪惡的存在，它們生活在地獄般的維度中。到目前為止，還沒有人在地獄看到它們遊蕩，在那裡它們的奴僕：惡魂、烈焰人和它們的變種似乎占主導地位。如果你沒有保護自己的手段就遇到了惡魔，幾乎等同於宣告了你的死亡。它們的攻擊就像重型卡車一樣強力，並需要巨量的傷害才能殺死它們。一些惡魔甚至可以射擊火球！當然，它們還能免疫火焰傷害。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=惡魔是強大的，邪惡的存在，它們生活在地獄般的維度中。到目前為止，還沒有人在地獄看到它們遊蕩，在那裡它們的奴僕：惡魂、烈焰使者和它們的變種似乎占主導地位。如果你沒有保護自己的手段就遇到了惡魔，幾乎等同於宣告了你的死亡。它們的攻擊就像重型卡車一樣強力，並需要巨量的傷害才能殺死它們。一些惡魔甚至可以射擊火球！當然，它們還能免疫火焰傷害。
 
 # Quest: The Power of Infinity
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=無限的力量
@@ -14215,7 +14215,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=殺戮時刻（骷髏）
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=當你拿來射人的時候，箭矢棒棒的，但當你是被射的那個的時候，就不是什麼好東西了。%n%n提示：箭矢是絕佳的武器（telum）要素來源。
 
 # Quest: Time to Kill (Blaze)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkQ.name=殺戮時刻（烈焰人）
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkQ.name=殺戮時刻（烈焰使者）
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkQ.desc=你應該小心這個任務，強烈推薦火焰保護。
 
 # Quest: Time to Kill (Zombie)
@@ -14243,7 +14243,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.name=苦力怕：進化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.desc=不，這種普通的苦力怕還不夠讓人討厭，完全不夠。那裡有隻進化的苦力怕老大！它就是那把能讓你登上另一個星球的鑰匙（呃，它的確也有一把鑰匙……）！（小行星帶、穀神星、木衛一、木衛二、木衛三、木衛四）
 
 # Quest: Blaze: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADmA.name=烈焰人：進化
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADmA.name=烈焰使者：進化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADmA.desc=為了邁向第四階段的行星，必須殺了烈焰使者老大！他就在穀神星的地牢裡！
 
 # Quest: Ghast: Evolved
@@ -14695,7 +14695,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfg.desc=是時候用鎂鋁合金製作�
 
 # Quest: Wooden Crossbow
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfw.name=§c§l木弩
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfw.desc=現在你可以製作更好的遠端武器了。使用木製的弩身和弩臂，並使用黑曜石（耐久III）製作堅韌繫結。弩弦用普通的線製作就可以。%n%n在你的工具裝配臺上將這些部件組裝起來。%n%n[warn]可用升級項：[/warn]%n[note]紅石 - 拉弓速度%n青金石 - 搶奪%n苔蘚球 - 自我修復[/note]%n%n§6注意：某些怪物需要使用特定工具才能產生傷害。如果你的弩箭沒造成傷害，趕緊跑！！然後找出哪種武器最適合殺死它。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfw.desc=現在你可以製作更好的遠端武器了。使用木製的弩身和弩臂，並使用黑曜石（耐久III）製作堅韌繫結。弩弦用普通的線製作就可以。%n%n在你的工具裝配臺上將這些部件組裝起來。%n%n[warn]可用升級項：[/warn]%n[note]紅石 - 拉弓速度%n青金石 - 掠奪%n苔蘚球 - 自我修復[/note]%n%n§6注意：某些怪物需要使用特定工具才能產生傷害。如果你的弩箭沒造成傷害，趕緊跑！！然後找出哪種武器最適合殺死它。
 
 # Quest: Fiery Bowstring
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEgA.name=§2§l火焰弓弦
@@ -15103,7 +15103,7 @@ betterquesting.quest.WqDynhbQQ4GdNMKm0BlbcQ.desc=為了獲得更純淨的水，�
 
 # Quest: Neutronium Compressor
 betterquesting.quest.XKKP2E5ORG-ju42dSDd3sw.name=§2§l§n中子態素壓縮機
-betterquesting.quest.XKKP2E5ORG-ju42dSDd3sw.desc=為了壓縮出無盡催化劑和奇點，你需要現存最強的壓縮機：中子態素壓縮機。這種多方塊式壓縮機透過精心校準過的活性中子機殼來傳導和控制極高的壓力，但其巨大的壓力無法生產方塊或者緻密板，因為任何放入裝置的普通材料都會被壓縮成奇點。理論上製作更高階的奇點是可能的，但你需要比這臺機器更強大的東西……%n%n[note]注意，製造奇點需要巨量的物品！考慮使用壓縮輸入匯流排、量子輸入匯流排或ME儲存輸入匯流排來滿足配方需求的物品量。[/note]
+betterquesting.quest.XKKP2E5ORG-ju42dSDd3sw.desc=為了壓縮出無盡催化劑和奇點，你需要現存最強的壓縮機：中子態素壓縮機。這種多方塊式壓縮機透過精心校準過的活性中子機械方塊來傳導和控制極高的壓力，但其巨大的壓力無法生產方塊或者緻密板，因為任何放入裝置的普通材料都會被壓縮成奇點。理論上製作更高階的奇點是可能的，但你需要比這臺機器更強大的東西……%n%n[note]注意，製造奇點需要巨量的物品！考慮使用壓縮輸入匯流排、量子輸入匯流排或ME儲存輸入匯流排來滿足配方需求的物品量。[/note]
 
 # Quest: Matter Manipulator MKI
 betterquesting.quest.Y4bRCOWFTgyxdTJXWXjFfA.name=§9§l物質操縱者 MK-I

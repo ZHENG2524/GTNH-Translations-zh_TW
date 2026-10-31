@@ -1,143 +1,108 @@
 <div align="center">
 
-# 🌏 GTNH 繁體中文（台灣）語言包
+# GTNH 繁體中文（台灣）語言包
 
-**GregTech New Horizons · Traditional Chinese (Taiwan)**
+**GT New Horizons · Traditional Chinese (Taiwan)**
 
-讓 GTNH 的物品、機器、任務與提示更符合台灣玩家的閱讀習慣。
+讓物品、機器、任務書和手冊都用台灣玩家熟悉的中文呈現。
 
-![Language](https://img.shields.io/badge/語言-繁體中文%20zh__TW-276749?style=for-the-badge)
-![GTNH](https://img.shields.io/badge/校對基準-GTNH%202.8.4-2563eb?style=for-the-badge)
-![Status](https://img.shields.io/badge/進度-持續校對中-f59e0b?style=for-the-badge)
+[![Release](https://img.shields.io/github/v/release/ZHENG2524/GTNH-Translations-zh_TW?include_prereleases&style=flat-square&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=2563eb)](../../releases)
+[![GTNH](https://img.shields.io/badge/GTNH-2.8.4-16a34a?style=flat-square)](https://www.gtnewhorizons.com/)
+[![GregTech](https://img.shields.io/badge/GregTech-5.09.51.482-f59e0b?style=flat-square)](https://github.com/GTNewHorizons/GT5-Unofficial)
+[![Stars](https://img.shields.io/github/stars/ZHENG2524/GTNH-Translations-zh_TW?style=flat-square&color=eab308)](../../stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/ZHENG2524/GTNH-Translations-zh_TW?style=flat-square&label=%E6%9C%80%E5%BE%8C%E6%9B%B4%E6%96%B0)](../../commits/main)
 
-**[快速安裝](#快速安裝)** · **[最新進度](#最新進度速覽)** · **[術語規範](docs/TERMINOLOGY.md)** · **[問題回報](../../issues)**
+[**下載安裝**](#-安裝) · [**專案現況**](#-專案現況) · [**術語規範**](docs/TERMINOLOGY.md) · [**回報問題**](../../issues)
 
 </div>
 
-> [!IMPORTANT]
-> **這是非官方社群翻譯專案，尚未完成全面人工校對。** 大部分基礎內容由簡轉繁與 AI 輔助產生，再依原文、程式與遊戲版本逐批檢查。自動檢查通過不等於已在遊戲中實測。
-
-## ✨ 最新進度速覽
-
-**更新日期：2026-10-31** · 基準：**GTNH 2.8.4 / GregTech 5.09.51.482**
-
-| 項目 | 目前成果 | 狀態 |
-| :--- | ---: | :--- |
-| 電力與常用術語兩輪校準 | **190 條修改** | ✅ 已提交，文字待實測 |
-| 統一術語規範 | **58 組** | 🔄 持續擴充 |
-| 語言檔結構驗證 | **299 個檔案** | ✅ 既有批次驗證通過 |
-| 礦物命名樣板一致性掃描 | **1,706 條** | ✅ 無差異；不算逐條語意校對 |
-| 連續任務閱讀／校準 | **已閱讀至第 2072 篇** | 🔄 缺來源／版本差異待查；第 2073 篇接續 |
-| 10 月 31 日前三批接續 | **141 條修改／3 檔** | ✅ 來源及結構驗證通過；未同步遊戲 |
-| 第242–1046篇接續 | **187 條修改／1 檔** | ✅ 781篇有英文對照、24篇缺來源；未同步遊戲 |
-| 第1047–2072篇接續 | **138 條修改／1 檔** | ✅ 787篇英文對照、239篇缺來源保留；未同步遊戲 |
-| LV／MV／HV 電壓等級顯示 | **已恢復** | ✅ 使用者遊戲實測通過 |
-
 > [!NOTE]
-> 190 條是 2026-10-25 兩輪累計**修改筆數**（60 + 130），可能包含不同檔案中的相同 key，不能當成 190 個獨立物品或全專案校對百分比。第二輪另記錄 518 條路徑／key 對照；目前新增文字尚未同步遊戲、仍待實測。
+> 這是非官方的社群翻譯，與 GTNH 團隊及各模組作者沒有官方關係。內容由簡轉繁與 AI 輔助產生，再依原文和程式逐批校對，並非全部經過遊戲實測。
 
-### 🎯 下一步
+## ✨ 特色
 
-- **優先校對**：連續任務從 **第2073篇〈EU的儲存與變壓〉**接續，仍有1,787篇；材料／模組及前批缺來源項目仍待查。完整來源盤點不等於語意校對完成。
-- **需要查證**：HV SMD、掃描器／作物版本差異、ProjectRed電池功能、導管格式碼與其他歷史鍵。
-- **遊戲確認**：新修正的電路名稱、導管設定、任務文字與其餘 Tooltip。
-- **避免誤改**：保留已實測電壓提示；不全域替換未核對的術語，也不刪除空白或重複 key。
+| | |
+| :--- | :--- |
+| 🧭 **涵蓋完整** | 299 個語言檔、約 17 萬條：GregTech、任務書、神秘研究、匠魂手冊、HEE 圖鑑等 |
+| 📖 **任務書全讀** | 3,859 篇全數閱讀，有英文來源的逐篇對照 |
+| 🇹🇼 **台灣用語** | 雷射、終界、核融合、電漿、權限等，術語規範公開可查 |
+| 🔎 **NEI 可用繁中搜尋** | 物品與材料名稱皆為繁體中文 |
+| 🧪 **機制也查證** | 英文與實際程式不符時，依安裝版本的位元碼判斷 |
 
-10 月 31 日完成三批共 141 條修改（30 + 85 + 26，非獨立物品數）；來源與限制見 **[第101–130篇](docs/PROOFREAD_2026-10-31.md)**、**[第131–211篇](docs/PROOFREAD_2026-10-31_STEAM.md)**、**[第212–241篇與交接](docs/PROOFREAD_2026-10-31_LV.md)**。
+## 🚀 安裝
 
-前批完成第242–1046篇805篇閱讀，其中781篇有本機英文對照；修正187條，詳見 **[本批結果與版本差異](docs/PROOFREAD_2026-10-31_QUESTS242-1046.md)**。全任務書仍未完成語意校對。
-
-本批接續第1047–2072篇，修正138條；另查證中子感測閾值、IC2 RTG及龍研聚合裝置。詳見 **[最新批次](docs/PROOFREAD_2026-10-31_QUESTS1047-2072.md)**。239篇缺來源保留，尚餘1,787篇未接續閱讀；未同步遊戲。
-
-詳細紀錄請看 **[持續校對進度與待查清單](docs/TRANSLATION_PROGRESS.md)**、**[2026-10-25 第二輪校對報告](docs/PROOFREAD_2026-10-25_CONTINUATION.md)**、**[統一術語表](docs/TERMINOLOGY.md)**。
-
-## 📦 快速安裝
-
-1. 在本頁點選 **Code → Download ZIP**，下載並解壓縮。
-2. 備份現有 GTNH 實例中的語言檔與 `config` 資料夾。
-3. 將本專案的 `config/` 與 `GregTech_zh_TW.lang` 複製到 **GTNH 實例根目錄**，與既有 `config/txloader/load/...` 合併。
-4. 在 Minecraft 語言設定選擇 **繁體中文（台灣）**。
+1. 到 [**Releases**](../../releases) 下載最新版 ZIP。想用還沒發版的最新內容，改用 **Code → Download ZIP**。
+2. **完整關閉遊戲**，並備份實例的 `config/` 與 `GregTech_zh_TW.lang`。
+3. 把壓縮檔內的 `config/` 和 `GregTech_zh_TW.lang` 合併到實例的 `.minecraft`。
+4. 啟動遊戲，語言選擇 **繁體中文（台灣）**。
 
 > [!CAUTION]
-> **不要直接刪除原本的整個 `config` 資料夾。** GregTech 主檔可能有遊戲執行時新增的 key，合併前請保留本機獨有條目。這次 README 更新**不會自動安裝翻譯至遊戲**。
+> 請用合併的方式，**不要刪除原本的 `config` 資料夾**。`GregTech_zh_TW.lang` 可能含遊戲執行時新增的本機條目，覆蓋前請先備份。
 
-## 🖥️ 伺服器端翻譯
+## 📊 專案現況
 
-> [!TIP]
-> **架設 GTNH 伺服器嗎？** 本專案主要處理玩家客戶端的文字；伺服器產生的歡迎訊息等內容無法僅靠客戶端語言包修改。
->
-> 請參考獨立專案 **[GTNH-Server-zh_TW｜伺服器端繁體中文](https://github.com/ZHENG2524/GTNH-Server-zh_TW)**，了解伺服器端的翻譯與設定。
+更新日期：2026-11-01
 
-## 🧭 文件導覽
+| 範圍 | 狀態 |
+| :--- | :--- |
+| 語言檔補齊 | ✅ 完成，模組 key 覆蓋率已用工具核對 |
+| 任務書閱讀 | ✅ 3,859 篇讀完；版本差異項目保留原值待實測 |
+| 神秘研究、匠魂手冊、CoreMod 物品 | ✅ 2026-11-01 補齊 1,825 條，**待遊戲實測** |
+| HEE 終界圖鑑 | ✅ 2026-11-01 補齊 399 條，**待遊戲實測** |
+| 術語規範 | ✅ 86 組，異體詞已統一 |
+| LV／MV／HV 電壓提示 | ✅ 已遊戲實測 |
+| 其餘文字的遊戲內顯示 | 🧪 尚待實測 |
 
-| 文件 | 用途 |
-| --- | --- |
-| [持續校對進度](docs/TRANSLATION_PROGRESS.md) | 已完成、待查證、尚未處理與接續工作 |
-| [統一術語表](docs/TERMINOLOGY.md) | 電力、機器、礦物、跨模組運輸的台灣用語 |
-| [第二輪校對報告](docs/PROOFREAD_2026-10-25_CONTINUATION.md) | 518 條對照、130 條修改與來源驗證 |
-| [前次校對紀錄](docs/PROOFREAD_2026-10-24.md) | 早期任務、樹脂及其他校對紀錄 |
-| [AI 接續交接](HANDOFF_next_ai.md) | 後續協作者的操作背景與注意事項 |
+`main` 分支可能比最新 Release 新。完整紀錄請看[持續校對進度](docs/TRANSLATION_PROGRESS.md)。
 
-## 🤝 專案與貢獻
+### 刻意保留英文的內容
 
-本專案由使用者與 [Claude](https://claude.com/claude-code)（Anthropic）協力建立，並透過人工及 AI 持續校對。歡迎提供台灣常用譯法、遊戲畫面、對照原文或提交 PR。**回報問題請使用 [GitHub Issues](../../issues)**，盡量附上模組名稱、畫面、原文字串與建議譯法。
+指令語法、化學式、歌名、成就梗、Ztones 代號方塊名，以及神秘時代的拉丁源質名。這些不是漏譯。
 
----
+## 🖥️ 伺服器
+
+伺服器產生的歡迎訊息等文字，客戶端語言包改不了。請看獨立專案 [**GTNH-Server-zh_TW**](https://github.com/ZHENG2524/GTNH-Server-zh_TW)。
+
+## 🤝 參與貢獻
+
+看到不順或錯誤的翻譯，歡迎開 [Issue](../../issues) 或送 PR。請盡量附上：
+
+- 遊戲畫面或文字，以及模組名稱
+- 英文原文或語言檔的 key
+- 你建議的台灣譯法
+
+動手前請先看[術語規範](docs/TERMINOLOGY.md)。改完可用這兩個工具檢查：
+
+```bash
+python3 tools/verify_translation.py --base HEAD
+```
+
+```bash
+python3 tools/check_key_coverage.py --game /path/to/.minecraft
+```
+
+## 📚 文件
+
+| 文件 | 內容 |
+| :--- | :--- |
+| [術語規範](docs/TERMINOLOGY.md) | 譯名對照、例外與查證來源 |
+| [持續校對進度](docs/TRANSLATION_PROGRESS.md) | 各批成果與待查清單 |
+| [更新歷史](docs/HISTORY.md) | 早期批次與建置統計 |
+| [AI 接續交接](HANDOFF_next_ai.md) | 協作者的操作背景 |
+
+## ⚠️ 已知限制
+
+- 寫死在模組程式碼裡的文字無法用語言檔翻譯。Extra Utilities 與 IronChest 有修補工具，見 `tools/`，模組更新後需重做。
+- 部分字串因版本差異保留原值，需要實測才能判斷。
 
 <details>
-<summary><strong>📚 展開歷史紀錄、品質說明、來源與授權</strong></summary>
-
-## 2026-10-25 更新
-
-- **第二輪接續**：518條檔案／key對照紀錄，修改130條、6個語言檔；推進連續任務第65–100篇，新增電力、電路與Ender IO／Logistics Pipes校準。六類礦物樣板另掃描1,706條，零差異，未灌入逐條語意校對數。術語表增至57組；硼玻璃保留遊戲簡稱並補化學全名。詳見[第二輪來源、待查與驗證](docs/PROOFREAD_2026-10-25_CONTINUATION.md)。新文字仍待遊戲實測，未同步遊戲。
-
-- 完成 3 批 LV～HV 常用術語校準：159 條檔案／key 對照紀錄，修改 60 條、5 個語言檔。涵蓋單方塊洗礦機、電解說明、洗礦成就，以及電路／電路板、電池箱與熱力離心任務的術語；舊任務副本只同步已確認片語。
-- 新增 44 組[術語規範](docs/TERMINOLOGY.md)、逐鍵來源清單及 `tools/verify_term_calibration.py`。299 個語言檔結構檢查、來源比對、規則重現與二次重跑檢查通過。本次文字仍待遊戲實測，未同步到遊戲。
-- **使用者已確認 LV／MV／HV 電壓等級提示在遊戲修復成功。** 本批保留前次全部 26 條 Tooltip 修復；其他 Tooltip 不因此一律視為完成實測。
-- 英文也可能有錯：`GT5U.tooltip.purify.2` 英文值與程式的粉碎礦石呼叫語境不符，保留正確的中文洗淨語意；網路分析器歷史鍵、硼玻璃命名與版本差異列入[待查清單](docs/TRANSLATION_PROGRESS.md)。未宣稱整包完成語意校對。
-
-## 2026-10-24 更新
-- **v0.1.2 校對測試版**：接續閱讀現行任務第 25–64 篇，修正 83 條語言值（4 個語言檔）；參照 GTNH 中文 Wiki 與 2.8.4 原碼，將 15 種萃取樹脂的三組名稱統一為「已吸附的…萃取奈米樹脂」。詳見[本批校對紀錄與待查項目](docs/PROOFREAD_2026-10-24.md)。299 個語言檔的結構與規則重現檢查通過，仍未完成全專案語意校對或遊戲內實測。
-- 流體首輪篩查已涵蓋 1,310 條：709 條一般流體閱讀檢視、601 條熔融／電漿名稱比對材料名並檢視差異；仍有待查譯名，並非全部完成原文語意校對。接續批次處理 72 條語言值（含撤回一處不當的「罕土」修正），同步調整鹵水、瞬間膠、海晶摻雜等用語。
-- 對照本機 BetterQuesting 3.7.15 的英文原文重譯 8 頁介面說明，校正提交站與管理指令說明；檢視現行任務前 24 篇正文及其舊版對應條目，修正明確錯字與台灣用語，保留各版本的配方與機制差異。格式碼、佔位符、連結、指令及規則重跑檢查通過；未遊戲內實測。
-- 接續校對 `fluid.*` 前 137 條（至 `fluid.dysprosium extracting nano resin`），修正二甲基二氯矽烷名稱；另將六氯二矽烷、鹽酸兩條流體名稱與材料名統一。校準 BetterQuesting 介面 18 條常見用語。後續核對發現 Rarer Earth 為刻意區分的遊戲術語，保留「罕土」。尚未遊戲內實測。
-- 逐條檢視 `bw.werkstoff.*.tooltip` 445 條：校準 18 條英文短句，2 條含義不明者保留原文；規則已加入 `tools/normalize_terms.py`，尚未遊戲內實測。
-- `GregTech_zh_TW.lang` 由約 2,900 行補齊到完整（約 6 萬 9 千行），缺漏條目由簡體 `GregTech_zh_CN.lang` 以 OpenCC `s2twp` 轉換而來。
-- 補上 GTNH 本體（歡迎訊息等）與其他模組缺少的約 8,900 條繁中；修正 1,500 多條殘留簡體字；`BetterQuesting`、`Biomes O' Plenty` 與 `InGameInfo_zh_TW.xml`（F3 資訊面板）新增繁中。
-- 這些新增內容為機器轉換，譯名未逐條校對，歡迎 PR。
-- 少數提示（例如 Extra Utilities 的濾鏡說明）寫死在模組程式碼裡，無法用語言檔翻譯；可用 `tools/patch_extrautils.py <原jar> <輸出jar>` 產生修補後的 jar（僅適用 extrautilities-1.2.12，不會修改原檔，請先備份）。
-
-## 📊 初期建置統計（歷史資料，非最新校對進度）
-
-> [!NOTE]
-> 以下數字記錄初期補齊語言檔時的來源及處理方式，**不是 2026-10-25 的最新校對結果，也不能用來計算目前校對完成率**。表中的「未校對」為當時建置狀態；後續已進行多批局部校對與遊戲實測，請以首頁的[最新進度](#-最新進度速覽)及[持續校對紀錄](docs/TRANSLATION_PROGRESS.md)為準。
-
-初期大部分內容由機器簡轉繁產生，當時尚未逐條核對：
-
-| 來源 | 條數（約） | 做法 | 校對 |
-|---|---|---|---|
-| 原有繁中（`zh_TW` 既有檔案，含 GregTech 主檔 2,867 行） | 約 10.3 萬行 | 既有翻譯 | 未重新校對 |
-| 補齊的 780 條剩餘字串（Blood Magic 書、GuideNH 等） | 780（譯 347、保留原文 421、截斷 6、待查譯名 47） | AI 翻譯，依術語表 | 未校對 |
-| GregTech 主語言檔缺漏 | 約 6.8 萬 | 簡體 `zh_CN` 經 OpenCC `s2twp` 轉換 | 未校對 |
-| 其他模組缺漏、任務書、Biomes O' Plenty | 約 2.4 萬 | 同上 | 未校對 |
-| 殘留簡體字修正 | 約 1,500 | 同上 | 未校對 |
-
-機器轉換可能出現的問題：用詞與台灣慣用不同（例如「倉」與「艙」）、同一個詞前後不一致、簡轉繁後語意不通順、專有名詞譯名與 GTNH 維基不符。
-
-**目前校對計畫**請以首頁「下一步」與[持續校對進度](docs/TRANSLATION_PROGRESS.md)為準；整體語意校對百分比尚未統計。
-
-**發現錯誤請開 [issue](../../issues)**，請附上：遊戲內畫面或文字、對應的模組與條目名稱（如果知道）、你認為正確的譯法。
-
-## 已知限制
-- 部分字串刻意保留英文（指令、曲名、梗、Mod 名），或標為 TRUNCATED（原始字串被截斷，待從模組 jar 取完整字串）。
-- notes 標 `TERM?` 的譯名未經 GTNH 維基核對，歡迎 PR。
-- 本專案為非官方的社群繁體中文（台灣）語言包，與 GTNH 團隊、各模組作者無官方關係，也未獲其認可或背書。
+<summary><strong>📜 來源與授權</strong></summary>
 
 ## 來源與授權說明
 ### 翻譯來源
 - **簡體中文來源**：[GTNewHorizons/GTNH-Translations](https://github.com/GTNewHorizons/GTNH-Translations) 的 `zh_CN`（例如 `GregTech_zh_CN.lang`），經 OpenCC `s2twp` 簡轉繁、用語調整（`tools/normalize_terms.py`）及 AI 輔助處理而來。本倉庫**不含**簡體中文原始檔，只含轉換後的繁體檔。
 - **既有繁中**：沿用 GTNH 整合包內既有的 `zh_TW` 語言檔。
-- **新增翻譯**：780 條剩餘字串與部分提示為 AI 翻譯，詳見上方「初期建置統計（歷史資料）」。
+- **新增翻譯**：780 條剩餘字串與部分提示為 AI 翻譯，詳見[更新歷史](docs/HISTORY.md)。
 
 ### 授權
 不同內容適用不同授權，**本倉庫不主張整個倉庫都能以同一授權自由使用**：
@@ -156,3 +121,11 @@
 - 遊戲原文及原始翻譯的著作權屬 GTNH 團隊、各模組作者及原翻譯貢獻者。
 
 </details>
+
+---
+
+<div align="center">
+
+由使用者與 [Claude Code](https://claude.com/claude-code) 協力製作
+
+</div>

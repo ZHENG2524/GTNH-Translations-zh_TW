@@ -1,6 +1,6 @@
 # 繁體中文術語規範（台灣）
 
-更新：2026-10-31；基準 GTNH 2.8.4 / GregTech 5.09.51.482。
+更新：2026-11-01；基準 GTNH 2.8.4 / GregTech 5.09.51.482。
 
 本表是後續校準的對照規範，**不是全倉庫套用完成清單**。每次只修改已確認的檔案與 key；未讀到原文、呼叫點或版本不符時，保留原值並記入 [進度與待查清單](TRANSLATION_PROGRESS.md)。簡轉繁與自動篩查不算人工語意校對。
 
@@ -27,7 +27,7 @@
 | Current / Amperage | 電流 | 採用於 GT 電力；保留 A，勿以 EU/t 取代。current 表「目前」時不能譯電流。 |
 | Voltage Tier | 電壓等級 | 採用；保留 LV、MV、HV 等縮寫，等級由程式產生。 |
 | Transformer | 變壓器 | 採用於電力設備；既有譯名保留。 |
-| Circuit | 電路 | 已核對 GT 分級電路物品與任務需求；IC2 內建物品專名另列，不能一律稱電路板。 |
+| Circuit（分級） | 電路板 | 使用者 2026-10-31 決定：EV電路板、高階電路板等一律如此；積體電路、邏輯電路、功率電路等晶片名與「電路設計／電路組」不改；IC2 內建物品專名另列。 |
 | Circuit Board | 電路板／電路基板 | 採用於板材與基板物品；GT 既有進階／高階電路基板保持原名，與 Circuit 區分。 |
 | Battery Buffer | 電池箱 | 已核對 GT 實際設備與任務；不是電池快取／電池緩衝區。 |
 | Macerator | 研磨機 | 已核對 GT LV～HV 與配方頁；其他模組同名設備另核對。 |
@@ -65,7 +65,7 @@
 | Ore Dictionary | 礦物辭典 | 採用；可簡稱礦典，不用錯字礦辭；保留 ore* 等礦典運算式。 |
 | Programmed Circuit | 程式設計電路 | 沿用 GT 物品名稱；機器配方中的設定電路不是電路板。 |
 | Good Electronic Circuit / Good Integrated Circuit | 優質電子電路／優質積體電路 | 已核對物品、任務與目標 ID；同階電路仍是不同物品，不互換名稱。 |
-| Electronic Circuit / Advanced Circuit（IC2） | 一般電子元件／進階電子元件 | 使用安裝 IC2 zh_TW.properties 的實際名稱；一般語境的分級電路仍稱電路。 |
+| Electronic Circuit / Advanced Circuit（IC2） | 一般電子元件／進階電子元件 | 使用安裝 IC2 zh_TW.properties 的實際名稱；一般語境的分級電路稱電路板。 |
 | Borosilicate Glass | 硼玻璃；化學全名硼矽酸鹽玻璃 | 已核對 GT 材料、流體與現行 BartWorks 方塊；保留遊戲簡稱，避免同一物品多套譯名。 |
 | Conduit | 導管 | 已核對 Ender IO；與 GT、LP 的物品／流體管道區分。 |
 | Conduit Facade | 導管偽裝板 | 已核對 Ender IO：可噴塗並覆蓋導管，並非結構框架。 |
@@ -75,10 +75,47 @@
 | Extract / Insert | 提取／存入 | Ender IO 設定描述相連容器的提取／存入；不擅自對調端口方向。 |
 | Type Filter ItemSink Module | 礦物辭典字首過濾收納模組 | 已檢查 LP 1.4.24 位元碼，確實依 GT OrePrefixes 篩選，保留精確既有名稱。 |
 | Modifier Slot / Upgrade Slot | 強化槽 | 匠魂工具語境；現行任務按本機 Iguana 指定升級等級增加，非隨機給槽，舊版副本數字另列版本差異。 |
+| Casing | 機械方塊 | 沿用 GT；Railcraft 的 Steam Turbine Housing 保留蒸汽渦輪機殼。 |
+| Extruder / Extruder Shape | 壓模機／模頭 | 已核對 GT 機器與 `gt.metaitem.01.3235x`；CoreMod 的 Extruder Shape 同用模頭。 |
+| Extractor | 提取機 | 已核對 GT 機器類型提示。 |
+| Data Stick | 快閃記憶體 | 沿用 `gt.metaitem.01.32708` 物品名。 |
+| Advanced Circuit Board | 高階電路基板 | 對齊 GT 既有名稱；CoreMod 的同類處理器基板用高階處理器基板。 |
+| Solar Panel | 太陽能板 | 採用；不用太陽能電池板。 |
+| Engine | 引擎 | 採用；不用發動機。 |
+| Chainsaw | 鏈鋸 | 採用；不用電鋸。 |
+| Alchemy | 鍊金 | 採用；「冶煉金屬」等非 alchemy 語境不動。 |
+| Glowstone / Fluorite | 螢光石／氟石 | 已核對：GT Fluorite 譯氟石，故「螢石」皆指 Glowstone；亞螢石為專名保留。 |
+| Netherrack | 地獄岩 | 原版 1.7.10 為地獄石，已在 overridenames 覆寫以一致；地獄石英不受影響。 |
+| Nether Wart | 地獄疣 | 原版 1.7.10 為地獄疙瘩，已覆寫。 |
+| Cobblestone | 圓石 | 原版 1.7.10 為鵝卵石，已覆寫。 |
+| Blaze | 烈焰使者 | 對齊原版實體名稱。 |
+| Looting | 掠奪 | 對齊原版附魔名稱；Infernal Mobs 的 Snagging 為搶奪，是不同詞。 |
+| Cobweb | 蜘蛛網 | 對齊原版方塊名。 |
+| Biome | 生物群系 | 採用；不用生態域。 |
+| Hotbar | 快捷欄 | 採用；Botania 的 Ask Toolbar 梗保留工具欄。 |
+| Durability | 耐久度 | 採用；不用耐久值。 |
+| Permission | 權限 | 採用；不用許可權。 |
+| Feedback | 回饋／回報 | 訊號回饋、Feedback 按鈕用回饋；回報錯誤用回報。 |
+| Wither / Spawn Egg | 凋零／生怪蛋 | v0.1.5 全域統一。 |
+| Shulker Box / Shell | 界伏盒／界伏殼 | v0.1.5 全域統一。 |
+| Space Suit | 太空衣 | v0.1.5 全域統一。 |
+| Access | 存取 | v0.1.5 全域統一；Witchery 書的 `[url 末地石]` 連結文字不動。 |
+| Projector / Network Card | 投影機／網路卡 | 全域統一。 |
+| Screen / Floppy Disk | 螢幕／軟碟 | 全域統一。 |
+| Clay / Sticky | 黏土／黏 | 全域以「黏」為準。 |
 
-共 58 組對照；部分列含多個相近但不可混用的英文術語。
+共 86 組對照；部分列含多個相近但不可混用的英文術語。
+
+## 暫不統一（語意不同或需逐條判斷）
+
+- **進階／高階／先進**：GT 階級詞用「基礎／進階／精英／終極／史詩」；敘述中的 high-tier 可用高階。兩者語意不同，不全域替換。
+- **感應器／感測器**：Sensor 用感測器；Vis 感應器、玩家感應器等既有模組物品名保留。
+- **檢視／點選**：皆為可接受用語，不做全域替換。
+- **配方／合成表**：配方機制與手動合成表語境不同，兩者並存。
 
 ## 可重現的限定修改
+
+- 2026-11-01 用語收尾：`tools/normalize_terms_2026-11-01.py`（冪等）；原版名稱差異另寫入 `____gtnhoverridenames`。
 
 - 舊規則保存在 `tools/normalize_terms.py`；舊有全域規則僅記錄歷史行為，**新增規則不得照抄成無條件全域替換**。
 - 第一輪 159 條對照閱讀紀錄與 60 條修改存於 `tools/term_calibration_2026-10-25.json`，含路徑、key、英文來源、前後值、批次與限制。

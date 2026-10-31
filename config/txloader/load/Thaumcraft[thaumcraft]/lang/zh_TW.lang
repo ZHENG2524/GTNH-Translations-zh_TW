@@ -592,7 +592,7 @@ focus.upgrade.potency.text=這種升級能夠提升法杖核心的威力或傷�
 focus.upgrade.frugal.name=樸素
 focus.upgrade.frugal.text=這種升級能夠減免使用法杖核心時的部分Vis消耗,每級減免20%.
 focus.upgrade.treasure.name=瑰寶
-focus.upgrade.treasure.text=這種升級效果類似時運或搶奪附魔,戰利品將來得又好又多.
+focus.upgrade.treasure.text=這種升級效果類似時運或掠奪附魔,戰利品將來得又好又多.
 focus.upgrade.enlarge.name=增廣
 focus.upgrade.enlarge.text=這種升級能夠增加法杖核心作用的範圍,或者增加其影響的目標數量.
 focus.upgrade.extend.name=固本
@@ -1669,7 +1669,7 @@ tc.research_page.LIQUIDDEATH.1=這種液體是一直極其危險的試劑，銷�
 #
 tc.research_name.ARMORFORTRESS=神秘要塞甲冑
 tc.research_text.ARMORFORTRESS=百害莫侵
-tc.research_page.ARMORFORTRESS.1=神秘要塞甲冑優點雖多，但基礎的構材等級卻遜於鑽石護甲。在提升其構材效能以及複雜性的同時，你逐漸發展出一門額外提升護甲的工藝，耐久和強度的技術。<BR>每個獨立的神秘要塞甲冑部件都有和鑽石護甲同等程度的防護能力，不僅如此，它們還具有更加卓絕的耐久值，並且對火焰和魔法傷害有特別的額外防護效果。<BR>但它們最不可思議的奇妙之處在於獨立的護甲部件如果同時穿戴將會啟用套裝效果：
+tc.research_page.ARMORFORTRESS.1=神秘要塞甲冑優點雖多，但基礎的構材等級卻遜於鑽石護甲。在提升其構材效能以及複雜性的同時，你逐漸發展出一門額外提升護甲的工藝，耐久和強度的技術。<BR>每個獨立的神秘要塞甲冑部件都有和鑽石護甲同等程度的防護能力，不僅如此，它們還具有更加卓絕的耐久度，並且對火焰和魔法傷害有特別的額外防護效果。<BR>但它們最不可思議的奇妙之處在於獨立的護甲部件如果同時穿戴將會啟用套裝效果：
 tc.research_page.ARMORFORTRESS.2=每多穿戴一件部件，都會提升其他部件的防護效果，外觀造型也會變得更加炫酷。<BR>由於構材中使用的大量神秘錠，這種護甲很容易附魔。
 #
 tc.research_name.HELMGOGGLES=揭示之盔
@@ -1724,7 +1724,7 @@ tc.research_page.SANITYCHECK.1=近來你的腦海中一片紛繁。似乎你應�
 #
 tc.research_name.CRIMSON=血腥崇拜
 tc.research_text.CRIMSON=一部警示錄
-tc.research_page.CRIMSON.1=書冊內容多以密如蛛網，不知所云的字元寫成，但你明確讀懂的部分讓你對那些血腥邪徒的目的隱隱約約有了奇怪的瞭解。<BR>它們的起源之因仍籠罩在謎霧中，但似乎它們正致力於完成一種被它們稱為"Apertis Oculis"的開眼儀式。這儀式究竟是做什麼的尚不清楚，但你懷疑那並不是什麼好事。<BR>蠻有趣的是，你認為你的神秘學知識恰好能夠補完它們長久以來一直在尋找的儀式所殘缺的部分。很明顯開展這類研究純屬瘋子行徑……
+tc.research_page.CRIMSON.1=書冊內容多以密如蜘蛛網，不知所云的字元寫成，但你明確讀懂的部分讓你對那些血腥邪徒的目的隱隱約約有了奇怪的瞭解。<BR>它們的起源之因仍籠罩在謎霧中，但似乎它們正致力於完成一種被它們稱為"Apertis Oculis"的開眼儀式。這儀式究竟是做什麼的尚不清楚，但你懷疑那並不是什麼好事。<BR>蠻有趣的是，你認為你的神秘學知識恰好能夠補完它們長久以來一直在尋找的儀式所殘缺的部分。很明顯開展這類研究純屬瘋子行徑……
 #
 tc.research_name.OCULUS=開眼儀式
 tc.research_text.OCULUS=向他們展示你的發現，向他們所有人。

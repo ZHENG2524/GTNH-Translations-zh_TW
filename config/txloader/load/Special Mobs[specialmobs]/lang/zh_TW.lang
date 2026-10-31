@@ -46,7 +46,7 @@ entity.SpecialMobs.LavaMonster.super.20=有人剛剛被消滅了...!
 entity.SpecialMobs.SMFireball.name=火球
 entity.SpecialMobs.SMFishHook.name=魚鉤
 
-entity.SpecialMobs.SpecialBlaze.name=烈焰人
+entity.SpecialMobs.SpecialBlaze.name=烈焰使者
 entity.SpecialMobs.SpecialBlaze.snark.count=18
 entity.SpecialMobs.SpecialBlaze.snark.1=你的武器被彈開了.
 entity.SpecialMobs.SpecialBlaze.snark.2=開火...這是什麼鬼?
@@ -86,14 +86,14 @@ entity.SpecialMobs.SpecialBlaze.super.15=現在那會留下痕跡了!
 entity.SpecialMobs.SpecialBlaze.super.16=噢! 好像很疼!
 entity.SpecialMobs.SpecialBlaze.super.17=解決它!
 
-entity.SpecialMobs.CinderBlaze.name=熔渣烈焰人
-entity.SpecialMobs.ConflagrationBlaze.name=巨大烈焰人
-entity.SpecialMobs.EmberBlaze.name=餘燼烈焰人
-entity.SpecialMobs.HellfireBlaze.name=地獄烈焰人
-entity.SpecialMobs.InfernoBlaze.name=陰燃烈焰人
-entity.SpecialMobs.JoltBlaze.name=搖擺烈焰人
-entity.SpecialMobs.SmolderBlaze.name=燜燃烈焰人
-entity.SpecialMobs.WildfireBlaze.name=野火烈焰人
+entity.SpecialMobs.CinderBlaze.name=熔渣烈焰使者
+entity.SpecialMobs.ConflagrationBlaze.name=巨大烈焰使者
+entity.SpecialMobs.EmberBlaze.name=餘燼烈焰使者
+entity.SpecialMobs.HellfireBlaze.name=地獄烈焰使者
+entity.SpecialMobs.InfernoBlaze.name=陰燃烈焰使者
+entity.SpecialMobs.JoltBlaze.name=搖擺烈焰使者
+entity.SpecialMobs.SmolderBlaze.name=燜燃烈焰使者
+entity.SpecialMobs.WildfireBlaze.name=野火烈焰使者
 
 entity.SpecialMobs.SpecialCaveSpider.name=洞穴蜘蛛
 entity.SpecialMobs.BabyCaveSpider.name=洞穴蜘蛛幼崽
@@ -294,11 +294,11 @@ entity.SpecialMobs.LavaMonster.desc.1=向敵人噴吐火球
 entity.SpecialMobs.LavaMonster.desc.2=在岩漿湖中生成
 
 //Blazes
-entity.SpecialMobs.CinderBlaze.desc.1=近戰烈焰人
+entity.SpecialMobs.CinderBlaze.desc.1=近戰烈焰使者
 entity.SpecialMobs.CinderBlaze.desc.2=擊中後點燃
 entity.SpecialMobs.ConflagrationBlaze.desc.1=不滅之火
 entity.SpecialMobs.ConflagrationBlaze.desc.2=只對雪或水敏感
-entity.SpecialMobs.EmberBlaze.desc.1=近戰烈焰人
+entity.SpecialMobs.EmberBlaze.desc.1=近戰烈焰使者
 entity.SpecialMobs.HellfireBlaze.desc.1=發射爆炸火球
 entity.SpecialMobs.InfernoBlaze.desc.1=射出一串火球
 entity.SpecialMobs.JoltBlaze.desc.1=召喚閃電

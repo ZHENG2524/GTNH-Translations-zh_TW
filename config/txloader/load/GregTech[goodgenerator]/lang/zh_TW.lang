@@ -513,7 +513,7 @@ achievement.item.advancedRadiationProtectionPlate.desc=撿起此物品以在NEI�
 #Thaumcraft Research Context
 research.ESSENTIA_CELL.page.0=新手源質擴散單元的效率實在太低，你完全不能忍受。 所以你研發了一些新的源質擴散單元<BR><BR>新手源質擴散單元只提供1穩定點，學徒級的單元可以提供2穩定點，大師級的單元可以提供5穩定點，而宗師級的單元可以提供足足10穩定點！<BR><BR>隨著穩定點越高，每點源質在發電機中產生的能量就越多。<BR><BR>同時也可以解鎖更好的倉室。
 research.ESSENTIA_SMELTERY.page.0=荒古鍊金爐已經不足以支撐你的源質生產了……<BR><BR>大型源質冶煉廠(LES)是荒古鍊金爐的進階版，消耗EU和Centivis，用以冶煉源質。
-research.ESSENTIA_SMELTERY.page.1=Ignis與Aqua是LES執行的基本條件，最低需求約為最高能源倉等級^2*1.15CV/每次工作，滿足後機器才能執行。<BR><BR>Ordo影響汙染、咒波瓦斯生成機率（冶煉源質時隨機在消聲倉倉口排出咒波瓦斯）。<BR><BR>Perditio可以加速機器工作，最高200% (100cV/5t)。
+research.ESSENTIA_SMELTERY.page.1=Ignis與Aqua是LES執行的基本條件，最低需求約為最高能源倉等級^2*1.15CV/每次工作，滿足後機器才能執行。<BR><BR>Ordo影響汙染、咒波瓦斯生成機率（冶煉源質時隨機在消聲倉排出咒波瓦斯）。<BR><BR>Perditio可以加速機器工作，最高200% (100cV/5t)。
 research.ESSENTIA_SMELTERY.page.2=擴散單元等級及結構大小僅影響機器並行，最大並行為64x。<BR><BR>不含源質的物品會冶煉出1點perditio。
 research.ESSENTIA_OUTPUT_HATCH_ME.page.0=總有一天你會用到它……<BR><BR>請務必連線網路使用，它沒有快取！
 

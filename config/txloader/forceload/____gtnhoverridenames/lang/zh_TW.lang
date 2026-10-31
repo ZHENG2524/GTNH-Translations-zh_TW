@@ -719,3 +719,6 @@ for.circuit.manualIC2Crop=CropsNH 作物農場
 
 item.for.fertilizerCompound.name=稀釋肥料
 item.BasicAgrichemItem.8.name=重質堆肥
+tile.hellrock.name=地獄岩
+item.netherStalkSeeds.name=地獄疣
+tile.stonebrick.name=圓石

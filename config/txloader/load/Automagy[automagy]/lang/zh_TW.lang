@@ -112,14 +112,14 @@ tile.blockNetherRune.11.name=符文黑曜石（光明）
 tile.blockNetherRune.12.name=符文黑曜石（靈魂）
 tile.blockNetherRune.13.name=符文黑曜石（沙礫）
 tile.blockNetherRuneMob.0.name=符文黑曜石（殭屍）
-tile.blockNetherRuneMob.1.name=符文黑曜石（烈焰人）
+tile.blockNetherRuneMob.1.name=符文黑曜石（烈焰使者）
 tile.blockNetherRuneMob.2.name=符文黑曜石（惡魂）
 tile.blockNetherRuneMob.3.name=符文黑曜石（骷髏）
 tile.blockNetherRuneMob.4.name=符文黑曜石（史萊姆）
 tile.blockNetherRuneMob.5.name=符文黑曜石（蝙蝠）
 tile.blockNetherRuneMob.6.name=符文黑曜石（精靈）
 tile.blockNetherRuneMob.8.name=符文黑曜石（殭屍）
-tile.blockNetherRuneMob.9.name=符文黑曜石（烈焰人）
+tile.blockNetherRuneMob.9.name=符文黑曜石（烈焰使者）
 tile.blockNetherRuneMob.10.name=符文黑曜石（惡魂）
 tile.blockNetherRuneMob.11.name=符文黑曜石（骷髏）
 tile.blockNetherRuneMob.12.name=符文黑曜石（史萊姆）
@@ -379,7 +379,7 @@ Automagy.research_page.INVENTARIUM_DELIVERY.MIRRORINPUT=§l       §n聚合魔�
 
 Automagy.research_name.NETHERMIND=地獄之核
 Automagy.research_text.NETHERMIND=始於灰燼
-Automagy.research_page.NETHERMIND.1=在近期的實驗中，你發現火源質強化的水晶之腦似乎會持續吸取能量（並且快速燒蝕自身）。這股能量讓你追溯到了地獄。如果你能找到什麼與地獄之火密切聯絡又能與它共存的東西，或許就能做出一個“地獄之核”，利用源質來構建岩漿和地獄方塊。<BR>§l灰燼之心§r或許能勝任。進一步的研究顯示，它與烈焰人這類地獄怪物甚至與它們的生成有著聯絡。
+Automagy.research_page.NETHERMIND.1=在近期的實驗中，你發現火源質強化的水晶之腦似乎會持續吸取能量（並且快速燒蝕自身）。這股能量讓你追溯到了地獄。如果你能找到什麼與地獄之火密切聯絡又能與它共存的東西，或許就能做出一個“地獄之核”，利用源質來構建岩漿和地獄方塊。<BR>§l灰燼之心§r或許能勝任。進一步的研究顯示，它與烈焰使者這類地獄怪物甚至與它們的生成有著聯絡。
 Automagy.research_page.NETHERMIND.2=<BR>顯然你需要用某種方法來驅動並控制地獄之核。最終你做出了§l符文黑曜石§r。除了用於包圍地獄之核，這些符文還要按照指定的方式搭建好（見下一頁）。<BR>不同的符文有不同的功能。圖中所示的任意基礎符文都可以被特殊符文所替換。某種符文數量越多，其效果就越強。如果只是用基礎的符文，該裝置的執行將會十分緩慢，並且只會生成地獄岩和零星的岩漿。
 Automagy.research_page.NETHERMIND.3=當符文全都安裝完畢後，用你的法杖輕觸地獄之核就能啟動它了。你也能再次右擊來關閉它，但每次啟動都會消耗法杖中的vis。<BR>執行時，地獄之核必須用§cIgnis§0源質供應。它也需要附近有源質罐子以抽取源質。所需的源質類型及數量取決於工作中的符文。基礎的符文只會消耗Ignis和Terra。<BR>生成的地獄方塊會出現在結構下方兩格9x9x9的區域內。
 Automagy.research_page.NETHERMIND.4=§l    §n符文黑曜石（岩石）§r<BR>使用該符文來增加地獄岩生成的機率。如果指定方塊類的符文至少安裝了4個，那麼就只會生成指定的方塊。使用的符文越多，方塊生成的機率就越大。（因此某種類型如果使用了4個，那麼生成機率就是100%%。）<BR>使用它的另一個好處在於生成地獄岩消耗的源質會比基礎符文更少。（放置額外的岩石符文不會進一步減少消耗。）<BR>每次生成消耗：%s。
@@ -435,7 +435,7 @@ Automagy.research_page.DIMENSIONLURE.1=地獄之核與塞壬之餌的共性是�
 Automagy.research_page.DIMENSIONLURE.2=倘若不指定目標，就只會隨機吸引生物而來。（簡單來說就是所用的誘餌必須為生物量身定做）<BR>生物類型透過在地獄之核結構中放入基礎符文黑曜石以及對應生物的特殊符文黑曜石來確定。可使用多種類型的生物指定符文，但需要§l至少四個§r該種類型的符文。你不能將生物指定符文與方塊指定符文裝在同一個結構內。<BR>異界之餌方塊必須放在地獄之核下方6~8格，中間不能有固體方塊阻隔。周圍還需要放置一圈基礎的符文黑曜石，
 Automagy.research_page.DIMENSIONLURE.3=如前一頁所示的那樣。生成的生物會出項在該平台與地獄之核的結構之間。<BR>搭建完畢後，先用法杖右擊餌石，之後再右擊地獄之核就會開始吸引生物出現。<LINE>不幸的是，該過程不是那麼穩定。有機率產生各種負面效果，甚至會影響到召喚的生物。為瞭解決這個問題，你可以在圓的四個角上放置§l黑曜石圖騰§r柱。柱子越高，越穩定。
 Automagy.research_page.DIMENSIONLURE.4=（每個柱子做多四格高。）為了起到最好的效果，四根柱子要高度相同。<BR>在柱頂或地獄之核結構的四臂下方放上§l閃耀之光§r也能提升穩定性。<IMG>automagy:textures/gui/dimensional-lure.png:0:0:255:235:.5</IMG>
-Automagy.research_page.DIMENSIONLURE.5=§l   §n符文黑曜石（烈焰人）§r<BR>既然灰燼之心已經注入了地獄之核，那麼或許最容易吸引的就是烈焰人了。事實上，有時候也會§o製造§r出額外的烈焰人(無消耗那種情況下也會有些不穩定。<BR>地獄之核與異界之餌都會消耗源質，具體資訊如下。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
+Automagy.research_page.DIMENSIONLURE.5=§l   §n符文黑曜石（烈焰使者）§r<BR>既然灰燼之心已經注入了地獄之核，那麼或許最容易吸引的就是烈焰使者了。事實上，有時候也會§o製造§r出額外的烈焰使者(無消耗那種情況下也會有些不穩定。<BR>地獄之核與異界之餌都會消耗源質，具體資訊如下。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §9微量§0。
 Automagy.research_page.DIMENSIONLURE.6=<LINE>你確信自己還能做出其他一些符文黑曜石來吸引地獄的各種生物。這只需要一點點的研究即可。<BR>用你的魔導透鏡掃描目標生物，然後在戰鬥中將其擊敗。你應該就會知道你所要了解的。<LINE>
 
 Automagy.research_name.NETHERRUNE_ZOMBIE=符文黑曜石：殭屍
@@ -466,7 +466,7 @@ Automagy.research_page.NETHERRUNE_WISP.2=§l地獄之核§r - 每次生成消耗
 
 Automagy.research_name.FOCUSCRAFTING=法杖核心：合成
 Automagy.research_text.FOCUSCRAFTING=把它們放到一起
-Automagy.research_page.FOCUSCRAFTING.1=不管你離家多遠，合成的需求總是沒完沒了。油的合成還需要你到處都帶著工作台，現在你找到了更簡便的解決方法。<BR>這個法杖核心能用於製造奧術工作台所能合成的一切物品（不管是普通合成還是奧術合成）。安裝核心的法杖將會提供合成所需的源質。<BR>你只要裝好核心再用法杖右擊即可開始合成。如果裝著核心的法杖在工具欄裡，你也可以按'%s'鍵來開啟合成。
+Automagy.research_page.FOCUSCRAFTING.1=不管你離家多遠，合成的需求總是沒完沒了。油的合成還需要你到處都帶著工作台，現在你找到了更簡便的解決方法。<BR>這個法杖核心能用於製造奧術工作台所能合成的一切物品（不管是普通合成還是奧術合成）。安裝核心的法杖將會提供合成所需的源質。<BR>你只要裝好核心再用法杖右擊即可開始合成。如果裝著核心的法杖在快捷欄裡，你也可以按'%s'鍵來開啟合成。
 Automagy.research_page.FOCUSCRAFTING.2=當你開啟合成欄的時候會消耗少量vis，每次合成奧術物品的時候也會消耗一些。（普通合成的物品不需要額外的vis。）
 Automagy.research_page.FOCUSCRAFTING.STAFF=§l        §n魔杖§r<BR>儘管這個核心也能裝在魔力手杖上面，但這類工具顯然不適合奧術合成的精密工作。但它仍能進行普通的合成。
 

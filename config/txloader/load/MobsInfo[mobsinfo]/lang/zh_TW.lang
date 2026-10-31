@@ -14,7 +14,7 @@ mobsinfo.mobhandler.boss=BOSS
 mobsinfo.mobhandler.cannot_use_vial=無法裝入靈魂瓶
 mobsinfo.mobhandler.chance=機率：%.2f%%
 mobsinfo.mobhandler.average_reminder=§7§o注意，這些是平均期望掉落
-mobsinfo.mobhandler.lootable=搶奪附魔有效
+mobsinfo.mobhandler.lootable=掠奪附魔有效
 mobsinfo.mobhandler.player_only=§7僅限非偽玩家擊殺時掉落
 mobsinfo.mobhandler.peaceful_allowed=支援和平模式
 mobsinfo.mobhandler.locked=為瞭解鎖更多資訊,
@@ -119,7 +119,7 @@ mobsinfo.command.hidden.lock_error=§c玩家尚未解鎖該怪物或者怪物名
 mobsinfo.command.hidden.success=§a成功!
 mobsinfo.command.hidden.invalid=§c無效選項! 正確的用法為：%s
 
-mobsinfo.extras.minefantasy2_guts_looting=機率會除以（1 + 搶奪等級）。
+mobsinfo.extras.minefantasy2_guts_looting=機率會除以（1 + 掠奪等級）。
 mobsinfo.extras.minefantasy2_burning=僅當生物著火時。
 mobsinfo.extras.minefantasy2_not_burning=僅當生物未著火時。
 mobsinfo.extras.minefantasy2_hunting_weapon=擊殺時需使用狩獵武器。

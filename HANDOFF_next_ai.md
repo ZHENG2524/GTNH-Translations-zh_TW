@@ -8,6 +8,7 @@
 - **用語收尾**（`tools/normalize_terms_2026-11-01.py`，冪等）：許可權→權限、土豆→馬鈴薯、反饋→回饋／回報、大火箭→火箭筒、一號小行星→穀神星、脫氣機→除氣機、擠壓機→壓模機、資料棒→快閃記憶體、任務 3729 氦離子→氦電漿等。
 - **刻意保留**：Ztones 代號方塊名、指令用法、CraftPresence 函式用法、歌名與成就梗、Thaumcraft 拉丁源質名。`檢視／點選／高階`為可接受的台灣用語或既有慣例，未全域替換。`tt.keyword.at` 空值保留（中文語序不需要）。
 - 結構檢查預期錯誤：新增 key 的 4 檔行數變動；`gtnhlib.chat.teams.help.10`、`recipe_metrics_header` 的 `[...]` 內文變動。
+- **術語統一**：`docs/TERMINOLOGY.md` 增至 86 組並修正 Circuit 列；異體詞規則併入 `normalize_terms_2026-11-01.py`；原版 地獄石／地獄疙瘩／鵝卵石 以 overridenames 覆寫為 地獄岩／地獄疣／圓石。README 改版，舊紀錄移到 `docs/HISTORY.md`。
 - 未同步遊戲、未遊戲內實測；未發 Release。仍需遊戲實測的是任務書版本差異待查項與上述新文字。授權與 commit 簽章依使用者指示不處理。
 
 ---

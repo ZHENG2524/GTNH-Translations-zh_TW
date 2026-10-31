@@ -98,7 +98,7 @@ item.EMT.chainsaw.thaumium.name=神秘鏈鋸
 item.EMT.omnitool.iron.name=鐵製鑽鋸
 item.EMT.omnitool.diamond.name=鑽石鑽鋸
 item.EMT.omnitool.thaumium.name=神秘鑽鋸
-item.EMT.chainsaw.stream.name=奔雷電鋸
+item.EMT.chainsaw.stream.name=奔雷鏈鋸
 item.EMT.drill.rockbreaker.name=岩石粉碎者
 item.EMT.hoeofgrowth.electric.name=電子句芒鋤
 item.EMT.focus.explosion.name=法杖核心:爆炸
@@ -210,7 +210,7 @@ emt.text.Thaumium Drill=你已發現了一種向神秘力量注入普通電子�
 
 emt.rsname.Thaumium Chainsaw=神秘鏈鋸
 emt.tag.Thaumium Chainsaw=以魔法之力來砍樹木和禦敵
-emt.text.Thaumium Chainsaw=你發現了一個將神秘力量融入鑽石電鋸的方法,使得它能更快的砍伐樹並儲存更多電力.然而這種改良並不是沒有缺陷的:在加入這些材料的過程中,電鋸失去了處理樹葉,草堆和傷害動物的能力.<BR><BR>你覺得不遠的未來你還能升級這個工具.
+emt.text.Thaumium Chainsaw=你發現了一個將神秘力量融入鑽石鏈鋸的方法,使得它能更快的砍伐樹並儲存更多電力.然而這種改良並不是沒有缺陷的:在加入這些材料的過程中,鏈鋸失去了處理樹葉,草堆和傷害動物的能力.<BR><BR>你覺得不遠的未來你還能升級這個工具.
 
 emt.rsname.Electric Goggles=電子揭示護目鏡
 emt.tag.Electric Goggles=兩側的頂尖技術
@@ -226,15 +226,15 @@ emt.text.Quantum Goggles of Revealing=經過大量的試錯，你終於找到了
 
 emt.rsname.Iron Omnitool=鐵製鑽鋸
 emt.tag.Iron Omnitool=為農夫準備的便利工具
-emt.text.Iron Omnitool=當你研究是否能用魔法融合你所用的一些工具的用途時,你已發現了一種結合電鑽和電鋸的方法,結果你得到了一個同時可採礦,砍樹和禦敵的工具!在處理普通金屬礦物時,並不需要什麼魔法效應.
+emt.text.Iron Omnitool=當你研究是否能用魔法融合你所用的一些工具的用途時,你已發現了一種結合電鑽和鏈鋸的方法,結果你得到了一個同時可採礦,砍樹和禦敵的工具!在處理普通金屬礦物時,並不需要什麼魔法效應.
 
 emt.rsname.Diamond Omnitool=鑽石鑽鋸
 emt.tag.Diamond Omnitool=萬能的工具
-emt.text.Diamond Omnitool=鐵製鑽鋸的發現讓你試著將同樣的結合用在一些更強力的裝置上.你已發現了一種結合鑽石電鋸和電鑽的方法,結果得到了一個擁有砍樹和挖礦並禦敵的工具,同時保持著鑽石工具的特性.由於鑽石在被製成電鑽電鋸這樣的工具後很難被重塑,所以你將需要一點魔法的力量來融合它們.
+emt.text.Diamond Omnitool=鐵製鑽鋸的發現讓你試著將同樣的結合用在一些更強力的裝置上.你已發現了一種結合鑽石鏈鋸和電鑽的方法,結果得到了一個擁有砍樹和挖礦並禦敵的工具,同時保持著鑽石工具的特性.由於鑽石在被製成電鑽鏈鋸這樣的工具後很難被重塑,所以你將需要一點魔法的力量來融合它們.
 
 emt.rsname.Thaumium Omnitool=神秘鑽鋸
 emt.tag.Thaumium Omnitool=神秘的複合工具
-emt.text.Thaumium Omnitool=在創作了鑽石鑽鋸和鐵鑽鋸之後,下一步就是用在神秘材料上了.不幸的是,這不是一個容易事,你發現了一種結合神秘電鑽和神秘電鋸的方法,而得到了一個有挖礦和砍樹能力的工具.這些工具已被注入魔力.你不確定下次注入時將會發生什麼.
+emt.text.Thaumium Omnitool=在創作了鑽石鑽鋸和鐵鑽鋸之後,下一步就是用在神秘材料上了.不幸的是,這不是一個容易事,你發現了一種結合神秘電鑽和神秘鏈鋸的方法,而得到了一個有挖礦和砍樹能力的工具.這些工具已被注入魔力.你不確定下次注入時將會發生什麼.
 
 emt.rsname.Explosion Focus=法杖核心:爆炸
 emt.tag.Explosion Focus=請在開闊處使用
@@ -276,9 +276,9 @@ emt.rsname.Aer Generator=風之源質發電機
 emt.tag.Aer Generator=壓縮周圍的風
 emt.text.Aer Generator=你已經發現了蘊藏在風中的巨大能量,並試著修改最初的能量源質發電機,使其具有壓縮風源質的能力,並提供300EU的電力.
 
-emt.rsname.Chainsaw of the Stream=奔雷電鋸
+emt.rsname.Chainsaw of the Stream=奔雷鏈鋸
 emt.tag.Chainsaw of the Stream=你只需要一個勁的砍樹
-emt.text.Chainsaw of the Stream=在研究了奔雷斧和神秘電鋸後,你試著將它們兩者的能力結合,得到了一個能輕鬆砍完一棵樹的電子工具.
+emt.text.Chainsaw of the Stream=在研究了奔雷斧和神秘鏈鋸後,你試著將它們兩者的能力結合,得到了一個能輕鬆砍完一棵樹的電子工具.
 
 emt.rsname.Drill of the Rockbreaker=岩石粉碎者
 emt.tag.Drill of the Rockbreaker=瘋狂挖礦
@@ -322,7 +322,7 @@ emt.text.Solar Helmet of Revealing=你現在有了一頂可以像你的量子揭
 
 emt.rsname.Diamond Chainsaw=鑽石鏈鋸
 emt.tag.Diamond Chainsaw=更硬，更好，更快，更強
-emt.text.Diamond Chainsaw=你不知道為何用鑽石升級電鋸就像鑽石升級電鑽那樣的想法從未出現在腦海中.這個升級使得電鋸能儲存更多的電力並且更快的破壞方塊.
+emt.text.Diamond Chainsaw=你不知道為何用鑽石升級鏈鋸就像鑽石升級電鑽那樣的想法從未出現在腦海中.這個升級使得鏈鋸能儲存更多的電力並且更快的破壞方塊.
 
 emt.rsname.Thaumium Plate=神秘板
 emt.tag.Thaumium Plate=神秘錠的工業處理

@@ -12028,7 +12028,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_14201_Index_07=最低時間：20t，繼續超頻會使產物翻4倍
     S:TileEntity_DESCRIPTION_14201_Index_08=配方時間取決於怪物血量
     S:TileEntity_DESCRIPTION_14201_Index_09=你還可以在GUI中放入武器
-    S:TileEntity_DESCRIPTION_14201_Index_10=以加速執行並應用其搶奪等級（最高4級）
+    S:TileEntity_DESCRIPTION_14201_Index_10=以加速執行並應用其掠奪等級（最高4級）
     S:TileEntity_DESCRIPTION_14201_Index_11=啟用武器保護以避免武器用盡最後一點耐久而損壞
     S:TileEntity_DESCRIPTION_14201_Index_12=啟用武器迴圈以在當前武器損壞或被輸出時從輸入拉取一柄武器
     S:TileEntity_DESCRIPTION_14201_Index_13=§c對機器內部的錐刺附魔無效！
@@ -15454,7 +15454,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_32015_Index_01=將YOT儲罐與AE流體儲存系統直接連線.
     S:TileEntity_DESCRIPTION_32015_Index_02=使用螺絲刀設定儲存優先順序
     S:TileEntity_DESCRIPTION_32015_Index_03=使用電烙鐵設定讀/寫模式
-    S:TileEntity_DESCRIPTION_32015_Index_04=使用剪線鉗，以啟用/禁用粘性模式
+    S:TileEntity_DESCRIPTION_32015_Index_04=使用剪線鉗，以啟用/禁用黏性模式
     S:TileEntity_DESCRIPTION_32016_Index_00=機器類型：§e超臨界蒸汽渦輪§r
     S:TileEntity_DESCRIPTION_32016_Index_01=需要渦輪轉子(控制器方塊的GUI中)
     S:TileEntity_DESCRIPTION_32016_Index_02=利用超臨界蒸汽發電
@@ -21373,7 +21373,7 @@ languagefile {
     S:gt.blockmachines.hatch.air.intake.tier.00.name=進氣倉
     S:gt.blockmachines.hatch.air.intake.tier.01.name=超級進氣倉
     S:gt.blockmachines.hatch.air.intake.tier.02.name=大氣層進氣倉
-    S:gt.blockmachines.hatch.blackholeutility.name=黑洞多功能艙口
+    S:gt.blockmachines.hatch.blackholeutility.name=黑洞多功能倉
     S:gt.blockmachines.hatch.capacitor.tier.03.name=電容倉
     S:gt.blockmachines.hatch.catalystbulk.name=大宗催化劑倉
     S:gt.blockmachines.hatch.catalysts.name=催化劑倉

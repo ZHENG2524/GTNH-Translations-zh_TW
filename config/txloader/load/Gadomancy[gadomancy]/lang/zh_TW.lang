@@ -24,8 +24,8 @@ tc.research_text.GADOMANCY.GOLEMRUNICSHIELD=現已支援你的小朋友！
 gadomancy.research_page.GOLEMRUNICSHIELD.1=經過進一步對守護魔法的測驗，你已發現了為傀儡附加符文護盾的方法。<BR>如同力量在你身上凝聚成防衛盾一般，符文護盾會在傀儡身上形成一道魔法壁壘，可以免疫絕大多數類型的傷害。<BR>然而它並不能免疫溺水以及一些自然傷害。
 
 tc.research_name.GADOMANCY.STICKYJAR=黏性罐子
-tc.research_text.GADOMANCY.STICKYJAR=把它們粘起來！
-gadomancy.research_page.STICKYJAR.1=源質罐子之於神秘使，有如黃油之於麵包一樣重要，但如果還要考慮大量潛在的源質管道，情況就又不一樣了。你決定給罐子底部加一些黏合劑來緩解管道佈線壓力。底部塗過黏合劑的罐子被放下時會粘在表面上，即使是方塊的側面，甚至是底面。破壞罐子並不會影響這種黏性，這樣黏性罐子就可以回收使用了。另外，很多其它類型的源質罐子也可以加這種黏合劑。
+tc.research_text.GADOMANCY.STICKYJAR=把它們黏起來！
+gadomancy.research_page.STICKYJAR.1=源質罐子之於神秘使，有如黃油之於麵包一樣重要，但如果還要考慮大量潛在的源質管道，情況就又不一樣了。你決定給罐子底部加一些黏合劑來緩解管道佈線壓力。底部塗過黏合劑的罐子被放下時會黏在表面上，即使是方塊的側面，甚至是底面。破壞罐子並不會影響這種黏性，這樣黏性罐子就可以回收使用了。另外，很多其它類型的源質罐子也可以加這種黏合劑。
 
 tc.research_name.GADOMANCY.ARCANEDROPPER=奧術投擲器
 tc.research_text.GADOMANCY.ARCANEDROPPER=淫穢之物終被捕獲
