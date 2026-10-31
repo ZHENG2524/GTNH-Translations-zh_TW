@@ -3976,8 +3976,8 @@ gtpp.gui.multiblock.eu_t_p.text=%s EU/t/並行
 gtpp.gui.multiblock.duration.text=持續時間：§c%s§r ticks
 gtpp.gui.multiblock.max_voltage.txt=%s EU/t(*2A) 等級：%s
 gtpp.gui.multiblock.pollution.txt=汙染：§c%s§r/秒
-gtpp.gui.atmospheric_reconditioner.slot.conveyor=傳送帶槽
-gtpp.gui.atmospheric_reconditioner.slot.conveyor.1=§7放入一個相同等級的傳送帶以啟用自動化
+gtpp.gui.atmospheric_reconditioner.slot.conveyor=輸送帶槽
+gtpp.gui.atmospheric_reconditioner.slot.conveyor.1=§7放入一個相同等級的輸送帶以啟用自動化
 
 gtpp.chat.wireless_charger.mode_change=目前在%s %s。
 gtpp.chat.wireless_charger.mode_info=當前：%s %s

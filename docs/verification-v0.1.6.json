@@ -1,0 +1,32 @@
+{
+  "base": "bdd3a2ee59967bb86b1bbf598ae7ff64214cba4e",
+  "language_files": 299,
+  "entries": 170577,
+  "existing_duplicate_keys": 56,
+  "existing_empty_values": 2635,
+  "changed_values": {
+    "GregTech_zh_TW.lang": 25,
+    "config/txloader/forceload/betterquesting/lang/zh_TW.lang": 176,
+    "config/txloader/load/Binnie Core[extrabees]/lang/zh_TW.lang": 1,
+    "config/txloader/load/BuildCraft Compat[buildcraftcompat]/lang/zh_TW.lang": 2,
+    "config/txloader/load/Extra Utilities[extrautils]/lang/zh_TW.lang": 2,
+    "config/txloader/load/Forbidden Magic[forbidden]/lang/zh_TW.lang": 1,
+    "config/txloader/load/GTNH Guide Pack[changelog]/lang/zh_TW.lang": 2,
+    "config/txloader/load/GregTech[gregtech]/lang/zh_TW.lang": 29,
+    "config/txloader/load/GregTech[miscutils]/lang/zh_TW.lang": 2,
+    "config/txloader/load/GregTech[tectech]/lang/zh_TW.lang": 2,
+    "config/txloader/load/Thaumcraft[thaumcraft]/lang/zh_TW.lang": 1,
+    "config/txloader/load/betterquesting/lang/zh_TW.lang": 193,
+    "config/txloader/load/minecraft/lang/zh_TW.lang": 115
+  },
+  "total_changed_values": 551,
+  "reproduction_and_idempotence": null,
+  "errors": [
+    "config/txloader/forceload/betterquesting/lang/zh_TW.lang: betterquesting.quest.AAAAAAAAAAAAAAAAAAAMTw.desc: protected tokens changed",
+    "config/txloader/forceload/betterquesting/lang/zh_TW.lang: betterquesting.quest.opVg0YQ3RCiBbG62PozSLQ.desc: protected tokens changed",
+    "config/txloader/load/betterquesting/lang/zh_TW.lang: betterquesting.quest.AAAAAAAAAAAAAAAAAAAMTw.desc: protected tokens changed",
+    "config/txloader/load/betterquesting/lang/zh_TW.lang: betterquesting.quest.opVg0YQ3RCiBbG62PozSLQ.desc: protected tokens changed",
+    "config/txloader/load/minecraft/lang/zh_TW.lang: gtnh.quest3151.desc: protected tokens changed"
+  ],
+  "scope": "Structural regression checks only; existing blanks/duplicates need separate review."
+}

@@ -397,7 +397,7 @@ forbidden.lexicon.whisperweed.0=&1細語草&0是種不開心的植物,它 總是
 forbidden.lexicon.tainthistle=腐化薊
 forbidden.lexicon.tainthistle.0=那令人厭惡的&1腐化薊&0原本是 生長於魔法實驗後產生的腐化 物質中的植物.它會消滅掉它 能找到的一切物質,並試圖 轉化為Mana.因為植物學是 一項環境友好型的業務,所以 這裡也沒什麼可以多說的.<br>&o比Spirit Vine更具有入侵性&r
 forbidden.lexicon.bloodthorn=血荊棘
-forbidden.lexicon.bloodthorn.0=源自一些令人作嘔並且極度 扭曲的血魔法師的實驗,  &1血荊棘&0是一種神秘紅色花朵,  長期浸泡於血液之中,直到它 發展出了吞噬一切生命力的 特性.它會消耗魔力並對周圍 的所有與鍊金術不相配的生物 施加以極高階別的虛弱.<br>&o崖昆(Yakone)的遺產&r
+forbidden.lexicon.bloodthorn.0=源自一些令人作嘔並且極度 扭曲的血魔法師的實驗,  &1血荊棘&0是一種神秘紅色花朵,  長期浸泡於血液之中,直到它 發展出了吞噬一切生命力的 特性.它會消耗魔力並對周圍 的所有與鍊金術不相配的生物 施加以極高等級的虛弱.<br>&o崖昆(Yakone)的遺產&r
 
 # Rituals
 ritual.SpiteSanity.name=暫抑扭曲

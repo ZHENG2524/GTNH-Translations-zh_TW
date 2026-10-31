@@ -1,6 +1,17 @@
 # GTNH zh_TW 最新交接入口
 
-## 2026-11-01 補齊與收尾（最新入口）
+## 2026-11-01 待查項收尾與 v0.1.6（最新入口）
+
+- 任務書 193 項待查已逐項判定，結果與保留清單見 `docs/PROOFREAD_2026-11-01_PENDING.md`；修正集中在 `tools/proofread_2026-11-01_pending_fixes.py`（冪等）。
+- **任務 tab 誤譯**：`工作列` 是簡轉繁把「任務欄」轉成 taskbar，127 處全改為 `分頁`。另 `傳送帶→輸送帶`（全語言檔）。
+- 任務書有三份：`forceload/betterquesting`（遊戲實際顯示）、`load/betterquesting`、`load/minecraft`（舊 key）。修任務文字時三份都要處理，標點風格不同，所以規則要容許全半形。
+- 結構檢查預期錯誤：#2237 移除「譯者：？？？」少一個 `%n`（含 `gtnh.quest3151`），#2722 移除壞掉的 `§` 格式碼。
+- 2,635 個空值已對照英文：除刻意保留的 `tt.keyword.at`，其餘英文也是空的或沒有對應 key，不是漏譯。56 個重複 key 未動。
+- 已同步到本機遊戲實例（備份在倉庫外 `backups/`）；**仍未進遊戲實測**。
+
+---
+
+## 2026-11-01 補齊與收尾
 
 - **重大修正**：既有掃描只看「值是英文」，漏掉「整條 key 不存在」的情況。倉庫的 dreamcraft `zh_TW.lang` 原本是 0 行空檔，神秘研究、匠魂手冊與 CoreMod 物品名在 zh_TW 下全部顯示英文。之後請跑 `tools/check_key_coverage.py --game <.minecraft>`。
 - **補齊**：dreamcraft 1,825 條（`GT_ New Horizons[dreamcraft]`）、HEE 終界圖鑑 399 條（FML 會載入 `lang/` 子目錄，故放入既有 zh_TW 尾端）、Blood Arsenal 6 條、etfuturum 2 條、空值 2 條、介面字串 14 條。
@@ -42,7 +53,7 @@
 6. 模組更新後，Extra Utilities／IronChest 補丁與 GregTech 語言檔需重做。
 
 ### 規則
-- commit 作者固定 `ZHENG2524 <347185527+ZHENG2524@users.noreply.github.com>`，結尾加 Co-Authored-By；不要出現使用者本名、Gmail、伺服器 IP、VeinMiner。
+- commit 作者固定 `ZHENG2524 <347185527+ZHENG2524@users.noreply.github.com>`，結尾加 Co-Authored-By；不要出現使用者本名、Gmail、伺服器 IP、使用者自行加入的模組名稱。
 - 歧義保留原值並列待查；不全域替換未核對術語；不改已實測的電壓提示。
 - 本檔私人細節（伺服器、本機路徑）在桌面 `HANDOFF_next_ai_v2.md`，不上傳 GitHub。
 

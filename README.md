@@ -47,6 +47,7 @@
 | :--- | :--- |
 | 語言檔補齊 | ✅ 整合包內建模組的主要內容已補齊，已用工具核對 |
 | 任務書閱讀 | ✅ 3,859 篇讀完；版本差異項目保留原值待實測 |
+| 任務書待查項 | ✅ 193 項已逐項判定；用語與錯字已修，機制差異保留原值待實測 |
 | 神秘研究、匠魂手冊、CoreMod 物品 | ✅ 2026-11-01 補齊 1,825 條，**待遊戲實測** |
 | HEE 終界圖鑑 | ✅ 2026-11-01 補齊 399 條，**待遊戲實測** |
 | 術語規範 | ✅ 86 組，異體詞已統一 |
@@ -126,6 +127,6 @@ python3 tools/check_key_coverage.py --game /path/to/.minecraft
 
 <div align="center">
 
-由使用者與 [Claude Code](https://claude.com/claude-code) 協力製作
+由使用者與 [Claude Code](https://claude.com/claude-code) 與 Codex 協力製作
 
 </div>
