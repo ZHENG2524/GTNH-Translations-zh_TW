@@ -69,6 +69,7 @@ block.ore.gravel.copper.name=銅礦沙礫
 block.ore.gravel.tin.name=錫礦沙礫
 block.ore.gravel.aluminum.name=鋁礦沙礫
 block.ore.gravel.cobalt.name=鈷礦沙礫
+block.ore.gravel.zinc.name=鋅礦沙礫
 
 tile.SpeedBlock.name=褐岩
 block.brownstone.rough.name=粗質褐岩
