@@ -8339,7 +8339,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMgA.desc=除非你的雜交農業非常�
 
 # Quest: Thorium vs. Uranium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMgQ.name=釷 vs. 鈾
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMgQ.desc=釷和鈾有很多不同之處,但也有很多相似之處.%n%n一般來說,鈾是一種更好的燃料,不過流體核反應爐不遵循這一一般規則.因為它不直接輸出EU/t,僅僅消耗熱量轉化為熱冷卻液,因此兩種燃料之間的差異變得很小,而釷更容易獲得也更容易轉化為燃料棒.你可以安全地從反應爐中抽取熱量的速度,限制了你可以使用的鈾燃料棒數量,這意味著HU值可能無法達到你的預期.%n%n然後,對於普通核反應爐或強冷核反應爐而言,鈾具有很大的優勢.尤其是對於最強大的強冷核反應爐,透過冷卻單元的有效冷卻,使其可以一次處理大量的鈾燃料棒,從而產出驚人的EU/t. 流體核反應爐與強冷核反應爐,燃料轉化為能量的轉換方式不同,意味著釷非常適合流體核反應爐,而鈾則非常適合強冷核反應爐.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMgQ.desc=釷和鈾有很多不同之處,但也有很多相似之處.%n%n一般來說,鈾是一種更好的燃料,不過流體核反應爐不遵循這條一般規則.因為它不直接輸出EU/t,僅僅消耗熱量轉化為熱冷卻液,因此兩種燃料之間的差異變得很小,而釷更容易獲得也更容易轉化為燃料棒.你可以安全地從反應爐中抽取熱量的速度,限制了你可以使用的鈾燃料棒數量,這意味著HU值可能無法達到你的預期.%n%n然後,對於普通核反應爐或強冷核反應爐而言,鈾具有很大的優勢.尤其是對於最強大的強冷核反應爐,透過冷卻單元的有效冷卻,使其可以一次處理大量的鈾燃料棒,從而產出驚人的EU/t. 流體核反應爐與強冷核反應爐,燃料轉化為能量的轉換方式不同,意味著釷非常適合流體核反應爐,而鈾則非常適合強冷核反應爐.
 
 # Quest: Max Danger Nukes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMgg.name=最危險的核反應爐
@@ -14499,7 +14499,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfg.desc=是時候用你的鎂鋁合金�
 
 # Quest: Wooden Crossbow
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfw.name=§3§l木弩
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfw.desc=現在你可以製作更好的遠端武器了。使用木製的弩身和弩臂，並使用黑曜石（耐久III）製作堅韌繫結結。弩弦用普通的線製作就可以。%n%n在你的工具裝配臺上將這些部件組裝起來。%n%n[warn]可用升級項：[/warn]%n[note]紅石-拉弓速度%n青金石-搶奪%n苔蘚球-自我修復[/note]%n%n§6注意：某些怪物需要使用特定工具才能產生傷害。如果你的弩箭不起作用，趕緊跑！！然後找出哪種武器最適合殺死它。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfw.desc=現在你可以製作更好的遠端武器了。使用木製的弩身和弩臂，並使用黑曜石（耐久III）製作堅韌繫結。弩弦用普通的線製作就可以。%n%n在你的工具裝配臺上將這些部件組裝起來。%n%n[warn]可用升級項：[/warn]%n[note]紅石-拉弓速度%n青金石-搶奪%n苔蘚球-自我修復[/note]%n%n§6注意：某些怪物需要使用特定工具才能產生傷害。如果你的弩箭不起作用，趕緊跑！！然後找出哪種武器最適合殺死它。
 
 # Quest: Fiery Bowstring
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEgA.name=§5§l火焰弓弦
