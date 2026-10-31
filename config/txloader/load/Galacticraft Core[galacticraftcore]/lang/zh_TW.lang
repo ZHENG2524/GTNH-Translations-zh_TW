@@ -204,7 +204,7 @@ tile.oxygenCompressor.0.name=氧氣壓縮機
 tile.oxygenCompressor.1.name=氧氣解壓機
 tile.arclamp.name=弧光燈
 tile.spinThruster.name=旋轉推進器
-tile.viewScreen.name=顯示屏
+tile.viewScreen.name=螢幕
 tile.telemetry.name=遙感裝置
 tile.spaceStationBase.name=空間站到達方塊
 tile.dish.name=通訊雷達
@@ -650,8 +650,8 @@ tile.glowstoneTorch.description=螢光石火把最好用於在無氧使得火把
 tile.cheeseBlock.description=乳酪塊由月球的乳酪製成,可放置且可食用.
 tile.spinThruster.description=旋轉推進器用於使空間站旋轉.
 tile.arclamp.description=弧光燈用於給大片區域提供強光,也會使大部分怪物逃離.
-tile.viewScreen.description=顯示屏給你的太空基地新增了觸控式螢幕.右擊改變其顯示的資訊.
-tile.telemetry.description=遙感裝置會從與其建立連線的火箭,玩家,怪物中收集有用資料.最好放置於顯示屏附近.可使用頻率模組來建立連線.
+tile.viewScreen.description=螢幕給你的太空基地新增了觸控式螢幕.右擊改變其顯示的資訊.
+tile.telemetry.description=遙感裝置會從與其建立連線的火箭,玩家,怪物中收集有用資料.最好放置於螢幕附近.可使用頻率模組來建立連線.
 tile.dish.description=通訊雷達能夠追蹤空間站的位置並且能夠接收來自遙遠的空間站的訊號.
 
 # CONTAINERS

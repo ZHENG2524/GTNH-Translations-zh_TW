@@ -21,7 +21,7 @@ item.structurelib.frontRotationTool.desc.0=觸發正面旋轉介面
 item.structurelib.frontRotationTool.desc.1=可以旋轉多方塊控制器,
 item.structurelib.frontRotationTool.desc.2=從而使整個結構可以旋轉.
 
-item.structurelib.constructableTrigger.name=多方塊機器全息投影儀
+item.structurelib.constructableTrigger.name=多方塊機器全息投影機
 item.structurelib.constructableTrigger.desc.0=觸發可構造介面
 item.structurelib.constructableTrigger.desc.1=顯示多方塊結構全息投影,
 item.structurelib.constructableTrigger.desc.2=請對多方塊控制器使用.
@@ -189,7 +189,7 @@ structurelib.config.client.hologram.removeColliding=移除衝突全息圖
 structurelib.config.client.hologram.removeColliding.tooltip=已存在的全息圖與新全息圖衝突時，會刪除舊全息圖.
 
 structurelib.config.registries=排序登錄檔
-structurelib.config.registries.tooltip=排序登錄檔是StructureLib內部跟蹤某些功能的方式。每個單獨的元素可以根據使用者的命令進行重新排序、禁用或啟用。必要時，變更將同步到伺服器。\n這個圖形介面也可以透過在遊戲中使用多方塊機器全息投影儀對著空氣Shift+右鍵點選來訪問。
+structurelib.config.registries.tooltip=排序登錄檔是StructureLib內部跟蹤某些功能的方式。每個單獨的元素可以根據使用者的命令進行重新排序、禁用或啟用。必要時，變更將同步到伺服器。\n這個圖形介面也可以透過在遊戲中使用多方塊機器全息投影機對著空氣Shift+右鍵點選來訪問。
 structurelib.config.registries.stackextractors=物品提取器
 structurelib.config.registries.stackextractors.tooltip=控制生存模式自動放置時啟用的儲存空間（從物品欄中的物品中開啟）
 structurelib.config.registries.inventoryproviders=儲存空間提供者

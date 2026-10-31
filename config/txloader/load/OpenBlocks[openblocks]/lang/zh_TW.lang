@@ -267,9 +267,9 @@ tile.openblocks.blockPlacer.description=為方塊放置器通入紅石訊號,它
 tile.openblocks.blockbreaker.name=方塊採掘器
 tile.openblocks.blockbreaker.description=為方塊採掘器通入紅石訊號,它就會挖掉面向的方塊.
 
-tile.openblocks.projector.name=高度圖投影儀
-tile.openblocks.projector.description=用於顯示由製圖機器人製作的高度圖.將高度圖放入投影儀內,將在其上方顯示3D的全息地圖.
-tile.openblocks.projector.working.name=高度圖投影儀
+tile.openblocks.projector.name=高度圖投影機
+tile.openblocks.projector.description=用於顯示由製圖機器人製作的高度圖.將高度圖放入投影機內,將在其上方顯示3D的全息地圖.
+tile.openblocks.projector.working.name=高度圖投影機
 
 tile.openblocks.autoenchantmenttable.name=自動附魔臺
 tile.openblocks.autoenchantmenttable.description=自動附魔臺的使用方法類似於普通附魔臺,但它可以透過消耗經驗來自動工作.\n在操作介面右邊的設定欄可以調整輸入經驗或工具的面.自動附魔臺也需要書架來提升自己的附魔等級上限.

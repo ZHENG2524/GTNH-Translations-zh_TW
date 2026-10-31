@@ -136,7 +136,7 @@ botanichorizons.lexicon.tagline.basicWrenches=窸窣如蛇
 botanichorizons.lexicon.text.basicWrenches.1=你可以用多種植物魔法材料製作&1扳手&0。只要你身上有魔力源，它們就不會損耗耐久，而是轉而消耗一點點&4魔力&0。可惜，它們只善於破壞方塊。檢視你的&1魔導手冊&0以瞭解相關研究和配方。
 botanichorizons.lexicon.entry.multiblockWrenches=拆解用扳手
 botanichorizons.lexicon.tagline.multiblockWrenches=自然的力量
-botanichorizons.lexicon.text.multiblockWrenches.1=這類升級後的&1扳手&0作用與全息投影儀恰好相反。透過右鍵點選多方塊機器的控制器，它能夠拆解整個機器。這樣做會消耗&4魔力&0，而扳手先充好能才能使用。這類扳手是透過為&1泰拉鋼扳手&0或&1源質鋼扳手&0新增一些升級製作的。其配方可在&1魔導手冊&0中研究獲得。
+botanichorizons.lexicon.text.multiblockWrenches.1=這類升級後的&1扳手&0作用與全息投影機恰好相反。透過右鍵點選多方塊機器的控制器，它能夠拆解整個機器。這樣做會消耗&4魔力&0，而扳手先充好能才能使用。這類扳手是透過為&1泰拉鋼扳手&0或&1源質鋼扳手&0新增一些升級製作的。其配方可在&1魔導手冊&0中研究獲得。
 botanichorizons.lexicon.text.multiblockWrenches.2=你可以製作兩種扳手。由&1泰拉鋼扳手&0製成的&1侵蝕之扳手&0可以無差別地破壞方塊；由&1源質鋼扳手&0製成的&1進化之扳手&0每次只會拆卸一種方塊。用&1進化之扳手&0Shift+右鍵點選，可以選定你想拆卸的方塊。
 botanichorizons.lexicon.text.multiblockWrenches.3=這類扳手也有其侷限性。它要求方塊必須是可用扳手拆卸的，或是硬度低到可以用手拆除。被拆卸的方塊會掉落在你的腳下，但它們的內容物可能不會。這些扳手擁有充能等級。充能等級每增加1級，可拆卸的方塊數翻5倍，最高可達625倍。
 

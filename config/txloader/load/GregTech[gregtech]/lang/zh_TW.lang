@@ -1986,7 +1986,7 @@ GT5U.MBTT.Steam.Eff=只需要使用配方要求蒸汽速率的%s
 GT5U.MBTT.Structure.Base=§9基礎結構
 GT5U.MBTT.Structure.Slice=§9每額外§b片層
 GT5U.MBTT.Structure.Layer=§9每額外§b片層
-GT5U.MBTT.Structure.Projector=§f使用多方塊機器§9全息§1投影儀§f來檢視或建造整體結構！
+GT5U.MBTT.Structure.Projector=§f使用多方塊機器§9全息§1投影機§f來檢視或建造整體結構！
 GT5U.MBTT.Structure.MinGlassForLaser=等級的§f玻璃§7為雷射倉所需
 GT5U.MBTT.Structure.GlassEnergyLimit=§f玻璃§7等級限制了能源倉等級
 GT5U.MBTT.Structure.GlassEnergyLimitTier=等級可解鎖所有能源倉等級
@@ -2202,7 +2202,7 @@ gt.multiblock.NeutralizationEngine.tier_info=§fT%d§7 : §f%s§7 : §9%d§7 : �
 gt.multiblock.VacuumFreezer.machine_type=真空冷凍機，VF
 gt.multiblock.VacuumFreezer.desc1=冷卻熱錠與單元
 
-GT5U.MBTT.masterchannel=投影儀堆疊數量確定§b%s
+GT5U.MBTT.masterchannel=投影機堆疊數量確定§b%s
 GT5U.MBTT.subchannel=使用子通道§b%s§7設定§b%s
 
 GT5U.MBTT.CokeOvenHatch=焦爐倉
@@ -9636,7 +9636,7 @@ gt.book.credits=感謝 %s 撰寫此書。本書建立時編號為第 %d 冊。�
 # Items — LoaderGTBlockFluid
 # Sensor Cards
 gt.sensorcard.name=GT感測器卡片
-gt.sensorcard.tooltip=插入核電控制的顯示屏中
+gt.sensorcard.tooltip=插入核電控制的螢幕中
 
 # Sensor Cards
 gt.advancedsensorcard.name=GT高階感測器卡片

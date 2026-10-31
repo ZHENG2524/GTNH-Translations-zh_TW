@@ -693,7 +693,7 @@ option.bm.chemistrySet=鍊金術化學套裝
 
 # StructureLib
 structurelib.bloodmagic.altar.1=血之祭壇
-structurelib.bloodmagic.altar.2=手持 1-6 個全息投影儀以確定等級
+structurelib.bloodmagic.altar.2=手持 1-6 個全息投影機以確定等級
 structurelib.bloodmagic.altar.3=%s等級支柱接受任意方塊
 structurelib.bloodmagic.altar.4=%s等級頂部接受任何方塊
 structurelib.bloodmagic.altar.5=5等級信標可接受任何方塊
