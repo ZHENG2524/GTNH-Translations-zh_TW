@@ -268,7 +268,7 @@ tile.openblocks.blockbreaker.name=方塊採掘器
 tile.openblocks.blockbreaker.description=為方塊採掘器通入紅石訊號,它就會挖掉面向的方塊.
 
 tile.openblocks.projector.name=高度圖投影儀
-tile.openblocks.projector.description=用於顯示由製圖機器人制作的高度圖.將高度圖放入投影儀內,將在其上方顯示3D的全息地圖.
+tile.openblocks.projector.description=用於顯示由製圖機器人製作的高度圖.將高度圖放入投影儀內,將在其上方顯示3D的全息地圖.
 tile.openblocks.projector.working.name=高度圖投影儀
 
 tile.openblocks.autoenchantmenttable.name=自動附魔臺
@@ -310,7 +310,7 @@ item.openblocks.cursor.name=遊標
 item.openblocks.cursor.description=遊標可以讓你遠端控制方塊.手持遊標Shift右鍵一個方塊就可以建立連線,之後用遊標右鍵空氣就控制連線的方塊.\n預設設定下,使用遊標與方塊遠端互動會消耗你的經驗,距離越遠,消耗越多.
 
 item.openblocks.devnull.name=/dev/null
-item.openblocks.devnull.description=手持/dev/null可以開啟它的操作介面.你可以向裡面放入一種物品,比如泥土.這樣一來,當你從地面上撿到到泥土後就會被傳送到這個格子,溢位的泥土則會自動銷燬.你可以直接手持/dev/null來放置其儲存的方塊.
+item.openblocks.devnull.description=手持/dev/null可以開啟它的操作介面.你可以向裡面放入一種物品,比如泥土.這樣一來,當你從地面上撿到到泥土後就會被傳送到這個格子,溢位的泥土則會自動銷毀.你可以直接手持/dev/null來放置其儲存的方塊.
 
 item.openblocks.slimalyzer.name=史萊姆區塊探測器
 item.openblocks.slimalyzer.description=帶著史萊姆區塊探測器到處跑,當你走進史萊姆區塊時探測器上的燈會變為綠色.

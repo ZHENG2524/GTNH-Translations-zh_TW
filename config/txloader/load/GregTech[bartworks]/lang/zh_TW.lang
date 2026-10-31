@@ -142,7 +142,7 @@ tooltip.bw.yes.name=是
 tooltip.bw.no.name=否
 tooltip.bw.tier.name=等級:
 tooltip.bw.empty.name=空
-tooltip.bw.mb_via.name=%s§7 via §2BartWorks
+tooltip.bw.mb_via.name=%s§7，來自 §2BartWorks
 
 tooltip.bw.item.circuit.tagged.imprint=一個壓印%s
 tooltip.bw.item.circuit.tagged.sliced=一個切片%s

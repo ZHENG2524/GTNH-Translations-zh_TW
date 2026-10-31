@@ -157,7 +157,7 @@ botany.soil.tooltip.moisture=濕度：
 botany.soil.tooltip.pH=pH值：
 
 botany.item.tooltip.holdMore=<按下 Shift 顯示詳細資訊>
-botany.item.tooltip.bugged=這個物品出問題了，請立即銷燬！
+botany.item.tooltip.bugged=這個物品出問題了，請立即銷毀！
 botany.item.tooltip.unknownGenome=<未知>
 botany.item.tooltip.unknown=未知
 botany.item.tooltip.hybrid=%s-%s 雜合種

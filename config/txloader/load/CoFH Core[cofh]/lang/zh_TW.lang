@@ -192,7 +192,7 @@ info.cofh.tutorial.tabConfiguration.2=該配置欄可以設定該裝置的操作
 info.cofh.tutorial.tabRedstone=紅石控制配置欄用來設定裝置對紅石訊號的響應.
 info.cofh.tutorial.tabSecurity=安全控制欄用來設定機器的訪問許可權控制.
 
-item.invalid.name=無效物品（請銷燬之）
+item.invalid.name=無效物品（請銷毀之）
 
 key.cofh.category=CoFH按鍵設定
 key.cofh.empower=允許/制止物品

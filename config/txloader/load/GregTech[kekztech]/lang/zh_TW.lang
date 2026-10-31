@@ -168,7 +168,7 @@ kekztech.infodata.tank.tfft.used=已用容量：%s L
 kekztech.infodata.tank.tfft.total=總容量：%s L
 kekztech.infodata.tank.tfft.per_fluid_capacity=每流體容量：%sL
 kekztech.infodata.tank.tfft.running_cost=執行成本：%d EU/t
-kekztech.infodata.tank.tfft.auto_voiding=自動銷燬：%b
+kekztech.infodata.tank.tfft.auto_voiding=自動銷毀：%b
 
 kekztech.structure.glass_incompatible=§c玻璃配置不相容
 

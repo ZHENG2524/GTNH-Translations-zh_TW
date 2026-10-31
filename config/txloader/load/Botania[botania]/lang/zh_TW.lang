@@ -393,7 +393,7 @@ botania.versioning.flavour17=你的版本不穩定並且你的頭髮就像個栗
 botania.versioning.flavour18=為麼什這條更信新息起來看是樣這的!? 
 botania.versioning.flavour19=不用接受服務條款你就可以更新植物魔法. 
 botania.versioning.flavour20=(Doge臉)Wow such botania So update Much fix Very content 
-botania.versioning.flavour21=這個植物魔法更新會自我銷燬 3...2...
+botania.versioning.flavour21=這個植物魔法更新會自我銷毀 3...2...
 botania.versioning.flavour22=植物魔法有些故障,但在火之國攻來時一切都變了.也可能沒有. 
 botania.versioning.flavour23=植物魔法更新了.另一方面,德國完全賄賂了裁判. 
 botania.versioning.flavour24=嘿! 嘿玩家! 嘿玩家! 嘿玩家! 植物魔法更新了! 
@@ -719,7 +719,7 @@ tile.botania:manaBeacon12.name=棕色不穩定信標
 tile.botania:manaBeacon13.name=綠色不穩定信標
 tile.botania:manaBeacon14.name=紅色不穩定信標
 tile.botania:manaBeacon15.name=黑色不穩定信標
-tile.botania:manaVoid.name=魔力銷燬器
+tile.botania:manaVoid.name=魔力銷毀器
 tile.botania:manaDetector.name=魔力檢測器
 tile.botania:enchanter.name=魔力附魔臺
 tile.botania:turntable.name=發射器旋轉臺
@@ -2309,7 +2309,7 @@ tile.manaDetector.name=魔力檢測器
 tile.manaFlame.name=魔力閃光
 tile.manaGlass.name=魔力玻璃
 tile.manaGlassPane.name=魔力玻璃板
-tile.manaVoid.name=魔力銷燬器
+tile.manaVoid.name=魔力銷毀器
 tile.miniIsland.name=浮空花
 tile.openCrate.name=花格箱
 tile.pavement.name=白色葡萄牙路面
@@ -2655,9 +2655,9 @@ botania.page.distributor0=任何一個植物魔法師都會發展到僅僅一個
 botania.page.distributor1=合成分配器
 
 # -- MANA VOID
-botania.entry.manaVoid=魔力銷燬器
-botania.tagline.manaVoid=銷燬一切進來的魔力
-botania.page.manaVoid0=&1魔力銷燬器&0通俗的說，就是&4魔&0&4力&0的垃圾桶。所有進入這個方塊的&4魔力&0都會消失在虛空，再也不會出現。<br>將它放在一個&1魔力池&0下方會讓池子總是接收&4魔力&0，但銷燬超出容量的部分。
+botania.entry.manaVoid=魔力銷毀器
+botania.tagline.manaVoid=銷毀一切進來的魔力
+botania.page.manaVoid0=&1魔力銷毀器&0通俗的說，就是&4魔&0&4力&0的垃圾桶。所有進入這個方塊的&4魔力&0都會消失在虛空，再也不會出現。<br>將它放在一個&1魔力池&0下方會讓池子總是接收&4魔力&0，但銷毀超出容量的部分。
 botania.page.manaVoid1=連會計部的 Chad 也是？
 
 # -- MANA FLUXFIELD
@@ -2936,7 +2936,7 @@ botania.page.daffomill1=&o風電機？不，我就是個風扇&r。
 # -- VINCULOTUS
 botania.entry.vinculotus=誘引蓮
 botania.tagline.vinculotus=禁止終界人傳送
-botania.page.vinculotus0=&1誘引蓮&0有著幹擾大範圍內的&4終界人&0瞬移的能力。消耗一些&4魔力&0，當&4終界人&0要瞬移到某處時，它們只會被傳送到&1誘引蓮&0的所在處。
+botania.page.vinculotus0=&1誘引蓮&0有著干擾大範圍內的&4終界人&0瞬移的能力。消耗一些&4魔力&0，當&4終界人&0要瞬移到某處時，它們只會被傳送到&1誘引蓮&0的所在處。
 botania.page.vinculotus1=用你的指尖輕觸這朵黑蓮
 
 # -- SPECTRANTHEMUM
@@ -2970,7 +2970,7 @@ botania.page.bubbell1=&o就像一些休閒遊戲&r。
 # -- SOLEGNOLIA
 botania.entry.solegnolia=弱磁蘭
 botania.tagline.solegnolia=創造一個磁化指環無法工作的地方
-botania.page.solegnolia0=在挖掘和拾取物品時，&1磁化指環&0無疑是相當實用的工具。不過它確實有個問題：在複雜系統附近使用時，容易吸引到不需要的物品。&1弱磁蘭&0可以幹擾指環的效果，它不僅能防止自身周圍的物品被指環吸走，還能停用作用範圍內的磁化指環。它不需要消耗&4魔力&0。
+botania.page.solegnolia0=在挖掘和拾取物品時，&1磁化指環&0無疑是相當實用的工具。不過它確實有個問題：在複雜系統附近使用時，容易吸引到不需要的物品。&1弱磁蘭&0可以干擾指環的效果，它不僅能防止自身周圍的物品被指環吸走，還能停用作用範圍內的磁化指環。它不需要消耗&4魔力&0。
 botania.page.solegnolia1=On/Off
 
 # - GENERATING FLOWERS
@@ -3758,7 +3758,7 @@ botania.page.corporea2=當&1多媒體火花&0被放置或操作時，每個火�
 botania.page.corporea3=&1多媒體火花&0可以檢視下方的容器，但只能從上方輸入物品。每個&1多媒體火花&0具有檢視網路內其他火花及其內容的功能，以及必要時命令它們的能力，取決於下方的方塊類型。
 botania.page.corporea4=需要注意的是&1主媒體火花&0作為網路的一部分，它提取的容器內不能有物品。<br>還有，網路不需要的物品會被動操作。多媒體沒有將新物品新增到網路的能力，這些應該用&1漏斗&0或其它方法實現。
 botania.page.corporea5=和普通的&1火花&0一樣，&1多媒體火&0&1花&0也有擴充套件方法，就是上色的能力。在世界裡，在火花的周圍漂浮著一個圖示，使用&1花粉&0右擊火花可以改變顏色。這些顏色定義了網路。火花只能與其它有相同顏色的火花在同一個網路內。
-botania.page.corporea6=火花染色的能力使得近距離形成多個不同&4多媒體網路&0成為可能，不會相互幹擾。<br>檢視網路和移除火花的做法和普通火花的一樣。最後，將2個同色的&1主媒體火花&0放得太近或許是個壞主意，可能會導致衝突或奇怪的現象。
+botania.page.corporea6=火花染色的能力使得近距離形成多個不同&4多媒體網路&0成為可能，不會相互干擾。<br>檢視網路和移除火花的做法和普通火花的一樣。最後，將2個同色的&1主媒體火花&0放得太近或許是個壞主意，可能會導致衝突或奇怪的現象。
 botania.page.corporea7=製作&1多媒體火花&0
 botania.page.corporea8=製作&1主媒體火花&0
 

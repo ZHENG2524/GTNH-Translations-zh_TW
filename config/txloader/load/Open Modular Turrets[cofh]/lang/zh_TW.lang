@@ -37,7 +37,7 @@ gui.cofh.tutorial.tabConfiguration=該配置欄可以設定物品如何進入和
 gui.cofh.tutorial.tabConfiguration2=該配置欄可以設定該裝置的操作模式.
 gui.cofh.tutorial.tabRedstone=紅石控制配置欄用來設定裝置對紅石訊號的響應.
 
-item.invalid.name=無效物品（請銷燬之）
+item.invalid.name=無效物品（請銷毀之）
 
 message.cofh.holdShift1=按住
 message.cofh.holdShift2=Shift

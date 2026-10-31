@@ -230,7 +230,7 @@ Automagy.research_page.THIRSTYTANK.2=比如用桶或特定的傀儡。<BR>如果
 Automagy.research_name.THIRSTYTANK_GLYPH=渴飲符石
 Automagy.research_text.THIRSTYTANK_GLYPH=水之印記
 Automagy.research_page.THIRSTYTANK_GLYPH.1=渴飲儲罐能做的事可不僅僅是收集並儲存幾桶的流體。為了挖掘它的潛力，你開發了一系列符石和注入水之魔力的顏料。當這種“水之印泥”被塑造為正確的形狀時就會產生特殊的效果，它能被印在石板上，然後裝在渴飲儲罐的一側。<BR>一個渴飲儲罐最多能擁有六個符石，每個面一個。面的選擇很重要，因為某些符石的效果是指向性的。
-Automagy.research_page.THIRSTYTANK_GLYPH.2=若要移除一個符石，只需在潛行時用法杖右擊安裝的那一側。<BR>目前能製作的符石及其效果如下：<BR>§l虛空：§r 儲罐會吸收遠多於容量的流體。超出的部分將會被銷燬。<BR>§l泯滅：§r 儲罐將會逐漸消耗（銷燬）它所儲存的一切流體。增加數量可以提升消耗速度。<BR>§l虹吸：§r 流體將會從儲罐中沿著符石的朝向輸入另一個容器。<BR>§l嫉妒：§r 儲罐將會從指定方向的容器抽取流體
+Automagy.research_page.THIRSTYTANK_GLYPH.2=若要移除一個符石，只需在潛行時用法杖右擊安裝的那一側。<BR>目前能製作的符石及其效果如下：<BR>§l虛空：§r 儲罐會吸收遠多於容量的流體。超出的部分將會被銷毀。<BR>§l泯滅：§r 儲罐將會逐漸消耗（銷毀）它所儲存的一切流體。增加數量可以提升消耗速度。<BR>§l虹吸：§r 流體將會從儲罐中沿著符石的朝向輸入另一個容器。<BR>§l嫉妒：§r 儲罐將會從指定方向的容器抽取流體
 Automagy.research_page.THIRSTYTANK_GLYPH.3=，每次抽取一桶的量。<BR>§l節制：§r 儲罐僅在受到紅石訊號時才會將流體吸入其中。<BR>§l貯存：§r 儲罐會避免自身流體被抽光。你可以用它來確保儲罐總是存有定量的流體。<BR>§l狂飲：§r 儲罐吸取流體的速度加快。該種符石越多速度越快。<BR>§l庫容：§r 每個符石會使儲罐的流體容量提升16桶。
 
 Automagy.research_name.THIRSTYTANK_GLYPH_BOVINE=符石：汲奶
@@ -449,7 +449,7 @@ Automagy.research_page.NETHERRUNE_GHAST.2=§l地獄之核§r - 每次生成消�
 
 Automagy.research_name.NETHERRUNE_SKELETON=符文黑曜石：骷髏
 Automagy.research_text.NETHERRUNE_SKELETON=血與骨。除去血。
-Automagy.research_page.NETHERRUNE_SKELETON.1=凋靈骷髏常見於地獄那神秘的堡壘之中，因此要掌握這個符文不僅需要找到骷髏還需要找到它們的堡壘。<BR>不幸的是，這些骷髏和堡壘直接的聯絡也會產生一些幹擾，使得召喚更加不穩定。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §5適量§0。
+Automagy.research_page.NETHERRUNE_SKELETON.1=凋靈骷髏常見於地獄那神秘的堡壘之中，因此要掌握這個符文不僅需要找到骷髏還需要找到它們的堡壘。<BR>不幸的是，這些骷髏和堡壘直接的聯絡也會產生一些干擾，使得召喚更加不穩定。<BR>§l地獄之核§r - 每次生成消耗： %s。<BR>§l異界之餌§r - 每%s次生成消耗： %s。<BR>§l不穩定性§r： §5適量§0。
 
 Automagy.research_name.NETHERRUNE_SLIME=符文黑曜石：史萊姆
 Automagy.research_text.NETHERRUNE_SLIME=就像一個凝膠塊但是帶有酸性，還有一些火的特性。

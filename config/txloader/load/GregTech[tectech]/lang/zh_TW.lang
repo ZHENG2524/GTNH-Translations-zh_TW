@@ -644,7 +644,7 @@ fog.upgrade.tt.6=超光速放大器
 fog.upgrade.tt.7=引力電漿約束感應器
 fog.upgrade.tt.8=相對論級電子電容器
 fog.upgrade.tt.9=引力子糾纏調節器
-fog.upgrade.tt.10=閉合類時曲線幹擾裝置
+fog.upgrade.tt.10=閉合類時曲線干擾裝置
 fog.upgrade.tt.11=夸克膠子電漿隔離單元
 fog.upgrade.tt.12=奇點暴露壓縮處理燃料理論
 fog.upgrade.tt.13=超限構造術
@@ -906,28 +906,28 @@ gt.blockmachines.multimachine.FOG.moduleinfotext.fab.2=第三個解鎖的模組�
 gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.1=太陽核融合異化器
 gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.2=第四個、也是最後一個解鎖的模組，能夠生產§b夸克膠子電漿§6，並在後續產出§b磁物質§6。該模組在自動化這兩種材料時各有獨特的挑戰，且建議準備兩個此類模組，因為它們只能同時產出其中一種材料。
 gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.3=兩種模式的自動化挑戰都有一條共同規則：模組在配方週期開始時輸出材料，並等待正確的輸入抵達後，才開始對輸出材料進行實際加工。
-gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.4=If producing §bQuark Gluon Plasma§6, the module outputs up to 7 different fluids/dusts with amounts between 1-64 and 1-7 respectively, and their corresponding plasmas and amounts have to be returned in order for the recipe to process. For each L of fluid, a bucket of plasma and for each dust 9 ingots worth of plasma must be returned for the recipe to work.
-gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.5=If §bMagmatter Mode§6 is active, the automation challenge changes. Now the module outputs 1-50L of §bTachyon Rich Temporal Fluid§6, 51-100L of §bSpatially Enlarged Fluid§6 and one dust of a high tier material. The challenge is to return both the Tachyon Rich and Spatially Enlarged Fluids, plus as much plasma of the dust's material (in ingots) as the difference between the amounts of Spatially Enlarged and Tachyon Rich Fluid. Once all of these have been returned in the correct amounts, the recipe will start to process and output Magmatter.
+gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.4=若生產§b夸克膠子電漿§6，模組會輸出最多 7 種不同的流體／粉末，數量分別介於 1-64 與 1-7 之間，必須依序歸還對應的電漿與數量，配方才會進行加工。每 1L 流體須歸還 1 桶電漿，每個粉末須歸還相當於 9 錠的電漿，配方才能運作。
+gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.5=若啟用§b磁物質模式§6，自動化的挑戰會改變。此時模組會輸出 1-50L 的§b富快子時間流體§6、51-100L 的§b空間擴張流體§6，以及一個高階材料的粉末。挑戰在於歸還富快子時間流體與空間擴張流體，再加上與兩種流體數量之差等量（以錠計）的該粉末材料電漿。全部以正確數量歸還後，配方才會開始加工並輸出磁物質。
 gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.6=此模組擁有§b64§6基礎並行數
 
-gt.blockmachines.multimachine.FOG.upgradeinfotext.1=Upgrades are the heart and soul of the Forge, they unlock most of its functionality and processing power. The §bUpgrade Tree§6 can be accessed via its button on the main GUI, and each upgrade node can be clicked for more information on its effects and unlock requirements.
-gt.blockmachines.multimachine.FOG.upgradeinfotext.2=In general, each upgrade can only be unlocked if the prior one is unlocked and there are enough available §bGraviton Shards§6. One exception to this is the first upgrade, which has no prior upgrade. Some upgrades also have extra material costs, which are denoted next to the unlock button if applicable.
-gt.blockmachines.multimachine.FOG.upgradeinfotext.3=If an upgrade has more than one connected prior upgrade, then there are two options. The upgrade requires either:
-gt.blockmachines.multimachine.FOG.upgradeinfotext.4=- All prior upgrades (§4Red§a connections)\n- At least one prior upgrade (§9Blue§a connections)
-gt.blockmachines.multimachine.FOG.upgradeinfotext.5=Upgrades can be refunded by pressing the §bRespec§6 button, but this only works if ALL connected later upgrades are not active/unlocked.
-gt.blockmachines.multimachine.FOG.upgradeinfotext.6=The block of upgrades following the unlock of the Heliofusion Exoticizer module are special, as they are what is considered §bThe Split§6. As the name suggests, only one path out of the three may be chosen at first, and the others will be locked. Each path has specialized buffs that are primarily targeted towards a specific module, and thus affect other module types with reduced effect (unless stated otherwise). The amount of unlockable paths depends on the §bAmount of Rings§6 the Forge has, which in turn is limited by later upgrades.
+gt.blockmachines.multimachine.FOG.upgradeinfotext.1=升級是鍛爐的核心，解鎖了其大部分功能與加工能力。可透過主介面上的按鈕開啟§b升級樹§6，點選每個升級節點可查看其效果與解鎖條件。
+gt.blockmachines.multimachine.FOG.upgradeinfotext.2=一般而言，只有前一個升級已解鎖且擁有足夠的§b引力子碎片§6時，才能解鎖該升級。唯一的例外是第一個升級，它沒有前置升級。部分升級還需要額外的材料，若有，會顯示在解鎖按鈕旁。
+gt.blockmachines.multimachine.FOG.upgradeinfotext.3=若某個升級連接了多個前置升級，則有兩種情況。該升級需要：
+gt.blockmachines.multimachine.FOG.upgradeinfotext.4=- 所有前置升級（§4紅色§a連線）\n- 至少一個前置升級（§9藍色§a連線）
+gt.blockmachines.multimachine.FOG.upgradeinfotext.5=按下§b重置§6按鈕可退還升級，但只有在所有相連的後續升級都未啟用／未解鎖時才有效。
+gt.blockmachines.multimachine.FOG.upgradeinfotext.6=解鎖太陽核融合異化器模組之後的那一組升級很特別，稱為§b分歧§6。顧名思義，起初只能從三條路線中選擇一條，其餘路線會被鎖定。每條路線都有主要針對特定模組的專屬增益，對其他類型模組的效果則會減弱（除非另有說明）。可解鎖的路線數量取決於鍛爐的§b環數§6，而環數又受後續升級限制。
 
-gt.blockmachines.multimachine.FOG.milestoneinfotext.1=Milestones are essential for upgrading the Forge, as they are the source of §bGraviton Shards§6, the main currency needed for unlocking upgrades. In essence, milestones are just what their name suggests, thresholds that when reached, grant Graviton Shards.
-gt.blockmachines.multimachine.FOG.milestoneinfotext.2=There are four types of milestones, Charge, Conversion, Catalyst and Composition, each referring to a stat of the Forge. Each milestone has §bseven§6 tiers, each being harder to reach than the last, but also granting more Graviton Shards. The first tier grants 1 Shard, the second 2, the third 3 and so on.
-gt.blockmachines.multimachine.FOG.milestoneinfotext.3=The §bCharge§6 milestone scales off total power consumption of all modules combined, the first tier being unlocked at §b1e15§6 EU consumed, and each subsequent milestone scaling by §b9x§6.
-gt.blockmachines.multimachine.FOG.milestoneinfotext.4=The §bConversion§6 milestone scales off total recipes processed across all modules (excluding the Helioflare Power Forge's furnace mode) and its first tier is unlocked at §b10M§6 processed recipes. Following tiers scale by §b4x§6.
-gt.blockmachines.multimachine.FOG.milestoneinfotext.5=The §bCatalyst§6 milestone is based on the Forge's fuel consumption, counted in Stellar Fuel units (the number entered in the fuel config menu). Reaching the first tier requires §b10,000§6 fuel units to be consumed, and each tier above scales by §b3x§6.
-gt.blockmachines.multimachine.FOG.milestoneinfotext.6=Last but not least, the §bComposition§6 milestone works a bit differently, as it scales off the Forge's structure. Milestone levels are granted for each unique type of module present in the structure (Heliofusion Exoticizer modules on Quark Gluon and Magmatter Modes count as unique), and for each additional ring built.
+gt.blockmachines.multimachine.FOG.milestoneinfotext.1=里程碑對鍛爐的升級至關重要，因為它們是§b引力子碎片§6的來源，而引力子碎片是解鎖升級所需的主要貨幣。里程碑就如其名，是一道道門檻，達成後即可獲得引力子碎片。
+gt.blockmachines.multimachine.FOG.milestoneinfotext.2=里程碑共有四種：充能、轉換、催化與組成，各自對應鍛爐的一項數據。每種里程碑有§b七個§6等級，每一級都比上一級更難達成，但也會給予更多引力子碎片。第一級給予 1 個碎片，第二級 2 個，第三級 3 個，依此類推。
+gt.blockmachines.multimachine.FOG.milestoneinfotext.3=§b充能§6里程碑依所有模組的總耗電量計算，第一級在消耗 §b1e15§6 EU 時解鎖，之後每一級的門檻為前一級的 §b9 倍§6。
+gt.blockmachines.multimachine.FOG.milestoneinfotext.4=§b轉換§6里程碑依所有模組處理的配方總數計算（不含太陽耀斑能量鍛爐的熔爐模式），第一級在處理 §b10M§6 個配方時解鎖，之後每一級的門檻為前一級的 §b4 倍§6。
+gt.blockmachines.multimachine.FOG.milestoneinfotext.5=§b催化§6里程碑依鍛爐的燃料消耗量計算，以星輝燃料單位計（即燃料設定選單中輸入的數字）。達到第一級需消耗 §b10,000§6 單位燃料，之後每一級的門檻為前一級的 §b3 倍§6。
+gt.blockmachines.multimachine.FOG.milestoneinfotext.6=最後是§b組成§6里程碑，它的運作方式略有不同，依鍛爐的結構計算。結構中每出現一種不同類型的模組（夸克膠子模式與磁物質模式的太陽核融合異化器模組視為不同類型），以及每多建造一環，都會獲得里程碑等級。
 gt.blockmachines.multimachine.FOG.milestoneinfotext.7=你的研究顯示，如果所有里程碑都達到最終等級，可能會發生一些奇怪的事情……記得回來看看！
 
-gt.blockmachines.multimachine.FOG.inversioninfotext.1=Once all milestones of the Forge reach §bTier 7§6, inversion activates. This uncaps the maximum tier of all milestones and allows it to scale §binfinitely§6.
-gt.blockmachines.multimachine.FOG.inversioninfotext.2=The scaling of each milestone changes from exponential to linear, but the granted Graviton Shard amount keeps increasing. The amount of progress needed for each subsequent milestone is as much as needed for the §b7th tier§6 of each milestone.
-gt.blockmachines.multimachine.FOG.inversioninfotext.3=The Composition milestone is once again an exception, as that continues to scale by 1 each tier, with its own formula for calculating progress. Each module type is given a value, ranging from §b1§6 for the Helioflare Power Forge to §b5§6 for the Heliofusion Exoticizer in Magmatter Mode, then the amount of each module present is subtracted by 1 and multiplied by its value. These values are added up and divided by 5, this is the final milestone tier on top of the base 7.
+gt.blockmachines.multimachine.FOG.inversioninfotext.1=當鍛爐的所有里程碑都達到§b第 7 級§6時，會啟動反轉。這會解除所有里程碑的等級上限，使其能§b無限§6提升。
+gt.blockmachines.multimachine.FOG.inversioninfotext.2=每個里程碑的成長方式從指數變為線性，但給予的引力子碎片數量仍會持續增加。每一個後續里程碑所需的進度，等同於各里程碑§b第 7 級§6所需的進度。
+gt.blockmachines.multimachine.FOG.inversioninfotext.3=組成里程碑再次成為例外，它每級仍只增加 1，並使用自己的進度計算公式。每種模組類型都有一個數值，從太陽耀斑能量鍛爐的 §b1§6 到磁物質模式的太陽核融合異化器的 §b5§6；接著將每種模組的數量減 1 再乘以其數值，把這些結果加總後除以 5，即為在基礎 7 級之上的最終里程碑等級。
 
 gt.blockmachines.multimachine.FOG.contributors=貢獻者
 gt.blockmachines.multimachine.FOG.lead=專案主管
@@ -1249,7 +1249,7 @@ tt.keyword.Efficiency=效率
 #Button that allows to pass power to other machines
 tt.keyword.PowerPass=導能：§9%s
 #Button that vents EM
-tt.keyword.SafeVoid=安全銷燬：§9%s
+tt.keyword.SafeVoid=安全銷毀：§9%s
 tt.keyword.Parametrizer=引數儀
 tt.keyword.Value=值
 tt.keyword.Input=輸入
@@ -1782,7 +1782,7 @@ tt.infodata.research.energy_hatches.header=能源倉：
 tt.infodata.research.currently_uses=當前耗電： §c%s§rEU/t，電流為 §c%s§rA
 tt.infodata.research.tier_amp=等級: §e%s§r/§a%s§r 電流數： §a%s§rA
 tt.infodata.research.problems_efficiency=問題：§c%s§r效率：§e%s§r%%
-tt.infodata.research.power_pass_safe_void=導能：§9%s§r 安全銷燬：§9%s
+tt.infodata.research.power_pass_safe_void=導能：§9%s§r 安全銷毀：§9%s
 tt.infodata.research.computation_available=算力：§a%s§r / §e%s§r
 tt.infodata.research.computation_remaining=剩餘算力：§a%s§r / §e%s§r
 
@@ -1871,7 +1871,7 @@ tt.spaceminer.filter.addOre=點選將此礦石新增到過濾器
 
 # Gui
 tt.gui.tooltip.power_pass=導能
-tt.gui.tooltip.safe_void=安全銷燬
+tt.gui.tooltip.safe_void=安全銷毀
 tt.gui.tooltip.power_switch=電源開關
 tt.gui.tooltip.edit_parameters=編輯引數
 tt.gui.tooltip.open_editor=開啟編輯器

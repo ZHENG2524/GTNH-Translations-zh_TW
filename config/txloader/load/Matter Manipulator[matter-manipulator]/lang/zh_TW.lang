@@ -169,7 +169,7 @@ mm.info.error.could_not_find_cover=未找到覆蓋板：%s
 mm.info.error.could_not_apply_property=無法應用屬性 %s：%s
 mm.info.error.qc_rack_is_too_hot=量子電腦機架過熱，無法提取或插入物品。
 mm.info.error.cannot_extract_while_qc_on=量子電腦執行時，量子電腦機架無法提取或置入物品。
-mm.info.error.too_many_upgrades=嘗試安裝過多升級：其餘部分已銷燬（這是一個錯誤，請報告此問題）
+mm.info.error.too_many_upgrades=嘗試安裝過多升級：其餘部分已銷毀（這是一個錯誤，請報告此問題）
 mm.info.error.could_not_place_blocks=由於遊戲崩潰，無法放置方塊。請檢查日誌以獲取更多資訊。
 mm.info.missing=%s%s：%s%s%s（缺少%s%s%s）
 

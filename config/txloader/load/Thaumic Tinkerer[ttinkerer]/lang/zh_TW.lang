@@ -245,7 +245,7 @@ ttresearch.page.SHARE_TOME.0=假如有朝一日，你碰巧想要將你的知識
 # -- TRANSVECTOR INTERFACE
 ttresearch.name.INTERFACE=向量變換介面
 ttresearch.lore.INTERFACE=並不屬於妮悠
-ttresearch.page.INTERFACE.0=“事實就是，1個方塊只有6個面……”——Direwolf20如是說。<BR><BR>神秘等於化不可能為可能！你最新制作的這臺裝置能夠與附近的方塊繫結，之後它的面會變成你選中的方塊的面的樣子，並且你能夠用這個面與選中的方塊互動。它能夠作為能量（BuildCraft（建築）與IC2（工業）的能量）輸入介面以及物品，源質，流體的輸入輸出介面。<BR>[continued]
+ttresearch.page.INTERFACE.0=“事實就是，1個方塊只有6個面……”——Direwolf20如是說。<BR><BR>神秘等於化不可能為可能！你最新製作的這臺裝置能夠與附近的方塊繫結，之後它的面會變成你選中的方塊的面的樣子，並且你能夠用這個面與選中的方塊互動。它能夠作為能量（BuildCraft（建築）與IC2（工業）的能量）輸入介面以及物品，源質，流體的輸入輸出介面。<BR>[continued]
 ttresearch.page.INTERFACE.1=為了將介面與其他方塊繫結，你需要製作一個被稱作向量變換介面繫結器的特殊工具。<BR><BR>右擊目標方塊之後右擊介面就能完成繫結操作。（注意：建築模組的管道需要在繫結後拆掉再裝才能有效）
 ttresearch.page.INTERFACE.2=也可以手持另一個方塊右擊將其偽裝成那個方塊。要移除偽裝，只需要再次用空手右擊即可。
 

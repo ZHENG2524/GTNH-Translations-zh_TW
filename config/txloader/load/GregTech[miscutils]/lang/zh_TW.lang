@@ -4028,7 +4028,7 @@ gtpp.book.thermal_boiler.page10=現在來講講維護吧。連續執行幾個小
 gtpp.book.thermal_boiler.page11=在維護倉GUI中使用與問題相應的工具即可修復維護問題。如果所有六個可能的維護問題都發生了，無論如何機器都會自動關閉，不會爆炸，只是停機。
 gtpp.book.thermal_boiler.page12=地熱鍋爐在100%效率時，每tick消耗大約5-6升水，產生800升蒸汽。每秒消耗1666升岩漿。
 gtpp.book.thermal_boiler.page13=一臺地熱鍋爐與33臺小型鍋爐相當,而且由於當鍋爐沒有足夠的燃料時,其效率就會大大降低,所以你得考慮在地獄造個大泵抽岩漿了,或者造個不錯的反應爐來提供熔鹽.
-gtpp.book.thermal_boiler.page14=輸入和輸出倉室是可選的,你可以裝好多個,也可以一個都不裝.一臺沒有輸入的機器無法處理任何配方,而一臺沒有輸出的機器將銷燬本該輸出的物品或流體.
+gtpp.book.thermal_boiler.page14=輸入和輸出倉室是可選的,你可以裝好多個,也可以一個都不裝.一臺沒有輸入的機器無法處理任何配方,而一臺沒有輸出的機器將銷毀本該輸出的物品或流體.
 gtpp.book.thermal_boiler.page15=在輸出倉上使用螺絲刀可鎖定輸出流體種類，這個小技巧挺有用的。
 
 miscutils.blockcasings.0.name=離心機機械方塊
@@ -4368,7 +4368,7 @@ gtplusplus.item.itemVibrantShaft.tooltip.0=進階動能轉子的一部分
 gtplusplus.item.magicfeather.tooltip.0=讓你可以在信標周圍飛行
 MU-metaitem.01.overflow_valve.name=溢流閥（%s）
 MU-metaitem.01.transmission_component.name=傳動部件（%s）
-misc.BatchModeTextOn=開啟批次處理（會銷燬溢位物品，推薦使用ME輸出匯流排）
+misc.BatchModeTextOn=開啟批次處理（會銷毀溢位物品，推薦使用ME輸出匯流排）
 misc.BatchModeTextOff=關閉批次處理
 tile.blockPestKiller.name=害蟲殺手
 gtpp.recipe.cokeoven=焦爐

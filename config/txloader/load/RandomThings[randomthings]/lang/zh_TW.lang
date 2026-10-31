@@ -109,7 +109,7 @@ entity.bloodmoonCircle.name=血月之輪
 
 text.tooltip.item.dropFilter.generic=需要物品過濾器
 text.tooltip.item.dropFilter=禁止收集被過濾的物品
-text.tooltip.item.dropFilterVoiding=收集時銷燬過濾物品
+text.tooltip.item.dropFilterVoiding=收集時銷毀過濾物品
 
 text.miscellaneous.press=按下%s檢視詳情
 text.miscellaneous.shift=Shift
