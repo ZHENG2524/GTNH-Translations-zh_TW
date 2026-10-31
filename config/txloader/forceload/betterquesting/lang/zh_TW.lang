@@ -650,7 +650,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.desc=每個電路都需要電路基�
 
 # Quest: Resistor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.name=§c§l電阻
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc=每個基礎電路都需要兩個電阻。%n%n稍後你還可以製造更好版本的電阻。 %n%n[note]你可以使用黏液球、凝血或者凝膠球等材料代替黏性樹脂！[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc=每個基礎電路板都需要兩個電阻。%n%n稍後你還可以製造更好版本的電阻。 %n%n[note]你可以使用黏液球、凝血或者凝膠球等材料代替黏性樹脂！[/note]
 
 # Quest: Lapis, Lazurite, Sodalite, Calcite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.name=§c§l青金石、藍金石、方鈉石、方解石
@@ -971,7 +971,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=第五種你需要很多的部�
 
 # Quest: You're Gonna Hate This #6
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=§2§l你會恨死這玩意的 #6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=第六種你需要很多的部件。用於製造掃描器和地震勘探者。%n%n[note]順便提一句，嚴格來說還有一種部件：力場發生器。但它需要用到更高階的電路，並且在達到後期之前並不算常用。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=第六種你需要很多的部件。用於製造掃描器和地震勘探者。%n%n[note]順便提一句，嚴格來說還有一種部件：力場發生器。但它需要用到更高階的電路板，並且在達到後期之前並不算常用。[/note]
 
 # Quest: Scanning Bees, Crops and Moooooore!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=§2§l掃描蜜蜂、種子以及更更更多！
@@ -1059,7 +1059,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.desc=要得到電池所需的銻，�
 
 # Quest: Thermal Centrifuge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.name=§2§l熱力離心機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.desc=這是一種可以從粉碎或洗淨的礦石中提取各類副產物的機器。它能從粉碎的鋅礦石中提取少量鎵，用於製作優質電路所需的二極體。%n%n當你有了 IC2 核反應爐，想要回收枯竭燃料棒時，這臺機器是唯一的選擇。%n%n如果你現在還無法為這臺機器提供 2A 的 LV 電力，那就等到進入 MV 階段後，用變壓器給 LV 版本供電吧。%n%n在 LV 階段，你也可以透過不同的方法獲得相同的礦石副產物。熱力離心機只有在 HV 階段，能與HV研磨機配合使用時，才會變得非常重要。%n%n[warn]直接將 MV 電壓的電輸入 LV 機器，就算機器能消耗不止 1A 電流，也會導致爆炸，請勿嘗試。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.desc=這是一種可以從粉碎或洗淨的礦石中提取各類副產物的機器。它能從粉碎的鋅礦石中提取少量鎵，用於製作優質電路板所需的二極體。%n%n當你有了 IC2 核反應爐，想要回收枯竭燃料棒時，這臺機器是唯一的選擇。%n%n如果你現在還無法為這臺機器提供 2A 的 LV 電力，那就等到進入 MV 階段後，用變壓器給 LV 版本供電吧。%n%n在 LV 階段，你也可以透過不同的方法獲得相同的礦石副產物。熱力離心機只有在 HV 階段，能與HV研磨機配合使用時，才會變得非常重要。%n%n[warn]直接將 MV 電壓的電輸入 LV 機器，就算機器能消耗不止 1A 電流，也會導致爆炸，請勿嘗試。[/warn]
 
 # Quest: A Lead About Lead That Leads to Lead
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACYA.name=§2§l鉛辛萬苦找到鉛
@@ -1155,7 +1155,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.desc=使用高壓釜將你的粉末�
 
 # Quest: Basic Circuit Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.name=§2§l基礎電路組裝機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc=高階電路（HV）需要一臺LV電路組裝機。用它來合成基礎電路（LV）和優質電路（MV），可以大幅度提升效率。%n%n不過，所有電路組裝機都需要比同電壓其他機器更高等級的電路。這意味著你必須用MV電路，而不是現在一直在用的LV電路。我知道你想要它，所以趕緊做出來吧！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc=高階電路板（HV）需要一臺LV電路組裝機。用它來合成基礎電路板（LV）和優質電路板（MV），可以大幅度提升效率。%n%n不過，所有電路組裝機都需要比同電壓其他機器更高等級的電路。這意味著你必須用MV電路板，而不是現在一直在用的LV電路板。我知道你想要它，所以趕緊做出來吧！
 
 # Quest: Gallium Arsenide Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.name=§2§l砷化鎵晶體
@@ -1379,7 +1379,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALIg.desc=你是否夢想過能用管道�
 
 # Quest: Prison Gangs are Obsolete
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALLQ.name=§2§l囚犯苦役走入歷史
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALLQ.desc=想要大量的圓石、石頭、黑曜石，或者其他岩石？這臺機器正適合你！%n%n§l圓石：§r將水和岩漿放置在機器側面。%n§l石頭：§r水放置在側面，岩漿放置在頂面。%n§l黑曜石：§r岩漿放置在頂面或側面，水放置在側面，機器內放入紅石。%n§l地獄岩：§r岩漿放置在頂面或側面，水放置在側面，機器內放入螢光石。%n§l玄武岩：§r岩漿放置在側面，靈魂沙放置在底面，機器內放入一塊浮冰。%n§l深板岩圓石：§r岩漿放置在側面，靈魂沙放置在底面，機器內放入一塊岩漿塊。%n%n當然，還要給它供能。如果不想在圓石上浪費電力，你也可以使用ExU的節點升級：世界互動。%n%n你需要根據配方使用1號或6號虛擬電路，詳情請見NEI。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALLQ.desc=想要大量的圓石、石頭、黑曜石，或者其他岩石？這臺機器正適合你！%n%n§l圓石：§r將水和岩漿放置在機器側面。%n§l石頭：§r水放置在側面，岩漿放置在頂面。%n§l黑曜石：§r岩漿放置在頂面或側面，水放置在側面，機器內放入紅石。%n§l地獄岩：§r岩漿放置在頂面或側面，水放置在側面，機器內放入螢光石。%n§l玄武岩：§r岩漿放置在側面，靈魂沙放置在底面，機器內放入一塊浮冰。%n§l深板岩圓石：§r岩漿放置在側面，靈魂沙放置在底面，機器內放入一塊岩漿塊。%n%n當然，還要給它供能。如果不想在圓石上浪費電力，你也可以使用ExU的節點升級：世界互動。%n%n你需要根據配方使用1號或6號虛擬電路板，詳情請見NEI。
 
 # Quest: Magnets != Magic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALSw.name=§2§l磁鐵 ≠ 魔法
@@ -1572,7 +1572,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.desc=想要進階HV階段，MV攪拌
 
 # Quest: Silicon Plate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.name=§6§l矽板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.desc=高階電路需要電晶體，由高純矽板、細錫導線，及熔融聚乙烯製成。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.desc=高階電路板需要電晶體，由高純矽板、細錫導線，及熔融聚乙烯製成。
 
 # Quest: Stainless Steel EBF processing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8Q.name=§6§l不鏽鋼與工業高爐
@@ -1624,11 +1624,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADDg.desc=製造晶圓之前，你必須�
 
 # Quest: Transistor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEQ.name=§6§l電晶體
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADEQ.desc=為了進入下一個階段，我們需要高階電路。而為了製造高階電路，你需要一些電晶體。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADEQ.desc=為了進入下一個階段，我們需要高階電路板。而為了製造高階電路板，你需要一些電晶體。
 
 # Quest: MV Precision Laser Engraver
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=§6§lMV精密雷射蝕刻機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=製造高階電路需要一臺MV精密雷射蝕刻機，製造一臺吧。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=製造高階電路板需要一臺MV精密雷射蝕刻機，製造一臺吧。
 
 # Quest: Silicon Wafer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGA.name=§6§l矽晶圓
@@ -1640,15 +1640,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADGQ.desc=話說，你之前試過看看�
 
 # Quest: Integrated Circuit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGg.name=§6§l整合邏輯電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADGg.desc=想要製造HV機器，就需要HV電路。你能製造的第一種HV電路是IC2的進階電子元件。 你需要先製造LV電路，然後套娃製造MV電路，最後再次套娃製成HV電路。遞迴合成！始於LV整合邏輯電路。 而且你不能用IC2的一般電子元件套娃。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADGg.desc=想要製造HV機器，就需要HV電路板。你能製造的第一種HV電路板是IC2的進階電子元件。 你需要先製造LV電路板，然後套娃製造MV電路板，最後再次套娃製成HV電路板。遞迴合成！始於LV整合邏輯電路。 而且你不能用IC2的一般電子元件套娃。
 
 # Quest: ILC and RAM
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=§6§l整合邏輯電路和RAM晶片
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=高階電路需要整合邏輯電路和RAM晶片。%n你可以透過切割整合邏輯電路晶圓和RAM晶片晶圓來獲得它們。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=高階電路板需要整合邏輯電路和RAM晶片。%n你可以透過切割整合邏輯電路晶圓和RAM晶片晶圓來獲得它們。
 
 # Quest: Advanced Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=§6§l高階電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=最後，HV電路。製造它需要優質積體電路、整合邏輯電路、RAM、電晶體、細琥珀金導線和銅螺栓。%n%n另外，隨著科技提升，電路的造價會隨之降低，不過需要在HV之後才能享受到。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=§6§l高階電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=最後，HV電路板。製造它需要優質積體電路、整合邏輯電路、RAM、電晶體、細琥珀金導線和銅螺栓。%n%n另外，隨著科技提升，電路的造價會隨之降低，不過需要在HV之後才能享受到。
 
 # Quest: Methane Gas
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.name=§6§l甲烷
@@ -2041,7 +2041,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoA.desc=照例是第一個機器外殼�
 
 # Quest: Dimensional Goal: Moon
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.name=§5§l目標：月球
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=在HV階段，你應該儘快登上月球。以獲得鈦，用於製造EV機器和AE系統。 不過這是一個漫長而艱鉅的任務，請轉到“太空競賽”任務章節獲取更多資訊。%n%n[note]另外,IV電路和HV組裝機是這個任務章節的前置條件.[/note]%n%n§6如果你正在進行不上天挑戰，可以手持一組鈦錠觸發隱藏任務，跳過本任務前進到下一步。 等你到EV階段之後，還能手持一組鎢鋼錠觸發。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=在HV階段，你應該儘快登上月球。以獲得鈦，用於製造EV機器和AE系統。 不過這是一個漫長而艱鉅的任務，請轉到“太空競賽”任務章節獲取更多資訊。%n%n[note]另外,IV電路板和HV組裝機是這個任務章節的前置條件.[/note]%n%n§6如果你正在進行不上天挑戰，可以手持一組鈦錠觸發隱藏任務，跳過本任務前進到下一步。 等你到EV階段之後，還能手持一組鎢鋼錠觸發。
 
 # Quest: I See Everything
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.name=§5§l我看到了一切
@@ -2069,11 +2069,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=每單元1,000,000 EU，比柴�
 
 # Quest: Integrated Processor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-A.name=§5§l整合處理器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-A.desc=這是4次套娃系列電路的開端。整合系列電路與後面的系列電路製作方式基本上相同，但它沒有統一的命名方式，而且你需要從這個系列中獲取你的第一塊EV§o和§rIV電路。後續每個系列的電路都只會給你帶來一種更高等級的電路。因此你需要兩臺新的電路組裝機完成它們的製造。%n%n最開始的是整合處理器，這是最後一種也是最便宜的MV電路，因為你可以直接製造它而不用套娃。這一點在每個系列的電路上都適用。%n%n[note]整合系列電路及後續所有的電路都需要超淨間環境來製作。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-A.desc=這是4次套娃系列電路的開端。整合系列電路與後面的系列電路製作方式基本上相同，但它沒有統一的命名方式，而且你需要從這個系列中獲取你的第一塊EV§o和§rIV電路板。後續每個系列的電路都只會給你帶來一種更高等級的電路。因此你需要兩臺新的電路組裝機完成它們的製造。%n%n最開始的是整合處理器，這是最後一種也是最便宜的MV電路板，因為你可以直接製造它而不用套娃。這一點在每個系列的電路上都適用。%n%n[note]整合系列電路及後續所有的電路都需要超淨間環境來製作。[/note]
 
 # Quest: Processor Assembly
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-Q.name=§5§l處理器叢集
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-Q.desc=製作EV和IV電路的第二步。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-Q.desc=製作EV和IV電路板的第二步。
 
 # Quest: Central Processing Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-g.name=§5§l中央處理器（CPU）
@@ -2120,8 +2120,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.name=§5§l貼片二極體
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.desc=既然獲得了鉑，你可以考慮生產一些貼片二極體了。到EV階段它會成為必需品，但至少現在你還可以考慮自己的鎵和鉑庫存來決定要不要用它。
 
 # Quest: Workstations, Your First EV Circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.name=§5§l工作站，你的第一種EV電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.desc=你的第一種EV電路是工作站。%n%n你可以在合金爐中將銀和藍石混合製成藍色合金。如果你沒有藍石，用攪拌機將紅石與琥珀金混合即可。玩得開心！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.name=§5§l工作站，你的第一種EV電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.desc=你的第一種EV電路板是工作站。%n%n你可以在合金爐中將銀和藍石混合製成藍色合金。如果你沒有藍石，用攪拌機將紅石與琥珀金混合即可。玩得開心！
 
 # Quest: Playing With Dust
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.name=§5§l玩泥巴
@@ -2181,7 +2181,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0Q.desc=終界之眼可以在HV化學�
 
 # Quest: LV Microprocessor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.name=§5§lLV級微型處理器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.desc=微型處理器是LV電路最高等級的版本，此配方每次執行可以產出2個。%n%n除了列出的東西以外，你還需要電阻、電晶體和電容各2個，貼片或非貼片都可以。%n%n這種先進的電路需要超淨間環境。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.desc=微型處理器是LV電路板最高等級的版本，此配方每次執行可以產出2個。%n%n除了列出的東西以外，你還需要電阻、電晶體和電容各2個，貼片或非貼片都可以。%n%n這種先進的電路需要超淨間環境。
 
 # Quest: HV Cutting Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.name=§5§lHV板材切割機
@@ -2197,7 +2197,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1g.desc=想要將磷摻雜的單晶矽�
 
 # Quest: NOR and NAND Chips
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1w.name=§5§lNOR晶片和NAND晶片
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1w.desc=NAND晶片可用於製造快閃記憶體、資料球和UV電路。NOR晶片可用於製造資料球和LuV電路。切割NAND或NOR晶圓即可獲得相應的晶片。目前你只需要關心快閃記憶體的製造。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1w.desc=NAND晶片可用於製造快閃記憶體、資料球和UV電路板。NOR晶片可用於製造資料球和LuV電路板。切割NAND或NOR晶圓即可獲得相應的晶片。目前你只需要關心快閃記憶體的製造。
 
 # Quest: Data Sticks
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE2A.name=§5§l快閃記憶體
@@ -2213,15 +2213,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjA.desc=通用研磨機是HV階段的�
 
 # Quest: Advanced Circuit Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.name=§5§l進階電路組裝機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.desc=EV電路需要MV的電路組裝機，製造一臺吧。%n%n[note]不久之後，所有的電路配方都會需要超淨間環境，儘快搭建好超淨間吧！[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.desc=EV電路板需要MV的電路組裝機，製造一臺吧。%n%n[note]不久之後，所有的電路配方都會需要超淨間環境，儘快搭建好超淨間吧！[/note]
 
 # Quest: Advanced Circuit Assembler II
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.name=§5§l進階電路組裝機II
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.desc=工作站電路可以用來製造HV電路組裝機。這臺機器可以生產更加先進的電路（IV）。
 
 # Quest: Mainframes, Your First IV Circuit 
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.name=§5§l主機，你的第一種IV電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.desc=主機是你可以製造的第一種IV電路。它可以用於合成部分EV機器，以及所有基礎IV機器及部件。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.name=§5§l主機，你的第一種IV電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.desc=主機是你可以製造的第一種IV電路板。它可以用於合成部分EV機器，以及所有基礎IV機器及部件。
 
 # Quest: You're Gonna Hate This 1-4 in HV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzw.name=§5§l你會恨死這玩意的：HV篇 1-4
@@ -2297,11 +2297,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgA.desc=現在我們在聚二甲基矽�
 
 # Quest: Simple SoC - System on a Chip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsQ.name=§5§l簡單的SoC - 片上系統
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsQ.desc=SoC是晶片級系統（Systems on a Chip）的簡稱，它可以簡化電路的製造。 在這裡，用簡單的SoC可以替換真空管，ULV電路更便宜了。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsQ.desc=SoC是晶片級系統（Systems on a Chip）的簡稱，它可以簡化電路的製造。 在這裡，用簡單的SoC可以替換真空管，ULV電路板更便宜了。
 
 # Quest: Cheaper Simple Circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.name=§5§l更便宜的簡單電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.desc=NAND晶片是真空管的工業替代品，便宜得多。 不過它們不能用來套娃製造電路，只能作為ULV電路使用。 請仔細檢視所有可選的合成表！%n%n[note]你需要一個超淨間以在其中切割NAND晶片！[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.name=§5§l更便宜的簡單電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.desc=NAND晶片是真空管的工業替代品，便宜得多。 不過它們不能用來套娃製造電路，只能作為ULV電路板使用。 請仔細檢視所有可選的合成表！%n%n[note]你需要一個超淨間以在其中切割NAND晶片！[/note]
 
 # Quest: Farming a Little Easier
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyw.name=§5§l讓耕種更容易一點
@@ -2397,7 +2397,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBw.desc=你需要培養皿來培養細�
 
 # Quest: Hangover From All That Glue?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.name=§5§l膠水留痕（Hangover From All That Glue）？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.desc=貼片元件是更高階的電路部件。 它們是EV+系列電路的必需品，且製造成本更低（搭配合適的材料）。你需要HV組裝機和聚乙烯才能生產它們。 %n%n建議你檢查下自己還有多少鎵存貨。現階段製作貼片二極體和貼片電晶體可能並不划算，除非你已經做出HV研磨機獲取礦物副產，或者雜交蜜蜂提供穩定的鎵來源。 使用雜交作物可以讓你的鋅、閃鋅和鋁土擁有4倍產出。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.desc=貼片元件是更高階的電路板部件。 它們是EV+系列電路的必需品，且製造成本更低（搭配合適的材料）。你需要HV組裝機和聚乙烯才能生產它們。 %n%n建議你檢查下自己還有多少鎵存貨。現階段製作貼片二極體和貼片電晶體可能並不划算，除非你已經做出HV研磨機獲取礦物副產，或者雜交蜜蜂提供穩定的鎵來源。 使用雜交作物可以讓你的鋅、閃鋅和鋁土擁有4倍產出。
 
 # Quest: Better Magnetic Rods
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALZQ.name=§5§l更好的磁化桿
@@ -2578,7 +2578,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAE7w.desc=陽光化合物電池外殼是�
 
 # Quest: EV Circuit Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExw.name=§8§lEV級電路組裝機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAExw.desc=EV電路組裝機需要IV電路參與合成。有了這臺機器，你就能製造更加先進的電路了。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAExw.desc=EV電路組裝機需要IV電路板參與合成。有了這臺機器，你就能製造更加先進的電路了。
 
 # Quest: Epoxid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyA.name=§8§l環氧化物
@@ -2847,7 +2847,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgw.desc=你可能已經注意到，現�
 
 # Quest: IV Circuit Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhQ.name=§9§lIV電路組裝機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhQ.desc=IV電路組裝機可以讓你輕鬆製作MV電路，以及單步EV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhQ.desc=IV電路組裝機可以讓你輕鬆製作MV電路板，以及單步EV電路板。
 
 # Quest: Naquadah Doped Monocrystalline Silicon
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhg.name=§9§l矽岩摻雜的單晶矽
@@ -2859,15 +2859,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGhw.desc=為了製造一些矽岩摻雜�
 
 # Quest: SoC - System on a Chip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGiQ.name=§9§lSoC - 片上系統
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGiQ.desc=為了壓低LV和MV電路的成本，你需要SoC——晶片級系統。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGiQ.desc=為了壓低LV和MV電路板的成本，你需要SoC——晶片級系統。
 
 # Quest: Cheaper MV Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGig.name=§9§l更便宜的MV電路
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGig.name=§9§l更便宜的MV電路板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGig.desc=使用IV電路組裝機和SoC,你現在可以用更低的成本製造整合處理器。
 
 # Quest: Single Step EV Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGjg.name=§9§l單步EV電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGjg.desc=量子處理器是你透過單步合成製造EV電路的第一次機會。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGjg.name=§9§l單步EV電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGjg.desc=量子處理器是你透過單步合成製造EV電路板的第一次機會。
 
 # Quest: QBit Wafer and Chip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGjw.name=§9§lQBit晶圓和晶片
@@ -2875,7 +2875,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGjw.desc=QBit晶圓由奈米CPU晶圓、
 
 # Quest: ASoC - Advanced System on a Chip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlQ.name=§9§lASoC - 進階的片上系統
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlQ.desc=ASOC，全稱為先進片上系統。它會用於一款全新的多方塊機器，精密組裝機。%n%n與SoC一樣，ASoC也將用於製造更便宜的HV和EV電路。%n%n不過，您需要等到ZPM才能製造出更便宜的EV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlQ.desc=ASOC，全稱為先進片上系統。它會用於一款全新的多方塊機器，精密組裝機。%n%n與SoC一樣，ASoC也將用於製造更便宜的HV和EV電路板。%n%n不過，您需要等到ZPM才能製造出更便宜的EV電路板。
 
 # Quest: Polybenzimidazole
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmw.name=§9§l聚苯並咪唑
@@ -2935,19 +2935,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqA.desc=三氧化鉻由鉻和氧分兩�
 
 # Quest: Quantum Assembly
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqQ.name=§9§l量子叢集
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqQ.desc=量子叢集是一個IV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqQ.desc=量子叢集是一個IV電路板。
 
 # Quest: Quantum Supercomputer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqg.name=§9§l量子超級電腦
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqg.desc=量子超級電腦是一個LuV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqg.desc=量子超級電腦是一個LuV電路板。
 
 # Quest: Quantum Mainframe
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqw.name=§9§l量子主機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqw.desc=量子主機是你可以製作的第一個ZPM電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGqw.desc=量子主機是你可以製作的第一個ZPM電路板。
 
 # Quest: Cheaper LV Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsA.name=§9§l廉價的低壓電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsA.desc=使用EV電路組裝機和SoC，你現在可以以更低的價格製造微型處理器。%n%n請注意，這種電路無法套娃成MV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsA.name=§9§l廉價的低壓電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsA.desc=使用EV電路組裝機和SoC，你現在可以以更低的價格製造微型處理器。%n%n請注意，這種電路無法套娃成MV電路板。
 
 # Quest: On Your Way to Tier 4 DIMs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsw.name=§9§l踏上前往4階星球的征程
@@ -3380,15 +3380,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGkg.desc=如果速度升級II太慢了�
 
 # Quest: LuV Circuit Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGkw.name=§d§lLuV電路組裝機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGkw.desc=你可能注意到了，你想合成的那些電路的合成表好像貴了6倍……適用於需要LuV+電壓的電路。如果你不想浪費大量資源的話，就得在電路裝配線合成這些電路了。當然，你的第一塊電路還是要用普通電路組裝機合成。%n%n第一塊電路完成後，你就能製作相應的壓印電路，使用壓印電路將電路裝配線設定為相應電路（唯一）專屬。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGkw.desc=你可能注意到了，你想合成的那些電路的合成表好像貴了6倍……適用於需要LuV+電壓的電路。如果你不想浪費大量資源的話，就得在電路裝配線合成這些電路了。當然，你的第一塊電路還是要用普通電路組裝機合成。%n%n第一塊電路完成後，你就能製作相應的壓印電路板，使用壓印電路板將電路裝配線設定為相應電路（唯一）專屬。
 
 # Quest: Cheaper HV circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlA.name=§d§l更便宜的高壓電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlA.desc=你可以以更便宜的價格製造奈米處理器了。不過你需要先製作壓印電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlA.name=§d§l更便宜的高壓電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlA.desc=你可以以更便宜的價格製造奈米處理器了。不過你需要先製作壓印電路板。
 
 # Quest: Crystal Processors
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlg.name=§d§l晶體處理器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlg.desc=既然你已經深入LuV，你可以更簡單地製作IV電路，並製作你的第一個UV電路。%n%n每種的第一塊電路製造完成後，製造壓印電路以降低後續製造成本。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlg.desc=既然你已經深入LuV，你可以更簡單地製作IV電路板，並製作你的第一個UV電路板。%n%n每種的第一塊電路製造完成後，製造壓印電路板以降低後續製造成本。
 
 # Quest: Crystal Chips
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGlw.name=§d§l晶體晶片
@@ -3404,15 +3404,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGmQ.desc=LuV雷射蝕刻機是後期電�
 
 # Quest: Crystal Assembly
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrA.name=§d§l晶體叢集
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrA.desc=晶體叢集是LuV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrA.desc=晶體叢集是LuV電路板。
 
 # Quest: Crystal Supercomputer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrQ.name=§d§l晶體超級電腦
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrQ.desc=晶體超級電腦是ZPM電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrQ.desc=晶體超級電腦是ZPM電路板。
 
 # Quest: Crystal Mainframe
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrg.name=§d§l晶體主機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrg.desc=晶體主機是你可以製作的第一個UV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrg.desc=晶體主機是你可以製作的第一個UV電路板。
 
 # Quest: LuV Superconductors (32,768 EU/t)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGrw.name=§d§lLuV超導（32,768 EU/t）
@@ -3436,11 +3436,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKJw.desc=想要升級你的多方塊結�
 
 # Quest: Fetch Quests
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKA.name=§d§l獲取任務
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKA.desc=要合成電路裝配線用到的壓印電路，你需要一系列新材料。%n%n首先是一些原材料： 堇雲石、立方氧化鋯還有碲。%n%n你還需要一些其他材料，但是我不需要解釋這些，對吧？%n%n[note]如果收集這些材料太痛苦了的話，一旦你收集到了第一份，你就可以用複製機複製。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKA.desc=要合成電路裝配線用到的壓印電路板，你需要一系列新材料。%n%n首先是一些原材料： 堇雲石、立方氧化鋯還有碲。%n%n你還需要一些其他材料，但是我不需要解釋這些，對吧？%n%n[note]如果收集這些材料太痛苦了的話，一旦你收集到了第一份，你就可以用複製機複製。[/note]
 
 # Quest: Imprints, They're Important
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKg.name=§d§l銘刻，非常重要
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKg.desc=既然你終於獲得了製造壓印電路的所有材料，你可以在獲得新電路之後製造它們了。你需要將所需壓印的電路在切片機模式的工業切割機中切片。%n%n要使用壓印電路，只需將其放置在電路裝配線控制器的物品槽中。一旦開機，電路裝配線就會被銘刻。使用三錄儀掃描控制器方塊可以獲知已經銘刻的電路。 如果你懶得造太多條電路裝配線，也可以手動替換控制器方塊。%n%n[note]某些電路有多個配方，但只需要對電路裝配線壓印一次。同一電路的壓印適用於所有配方。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKg.desc=既然你終於獲得了製造壓印電路板的所有材料，你可以在獲得新電路之後製造它們了。你需要將所需壓印的電路在切片機模式的工業切割機中切片。%n%n要使用壓印電路板，只需將其放置在電路裝配線控制器的物品槽中。一旦開機，電路裝配線就會被銘刻。使用三錄儀掃描控制器方塊可以獲知已經銘刻的電路。 如果你懶得造太多條電路裝配線，也可以手動替換控制器方塊。%n%n[note]某些電路有多個配方，但只需要對電路裝配線壓印一次。同一電路的壓印適用於所有配方。[/note]
 
 # Quest: Fetching Tellurium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKw.name=§d§l獲取碲
@@ -3456,7 +3456,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLQ.desc=將石英岩和紫水晶在工�
 
 # Quest: Imprint Supporting Boards
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLg.name=§d§l壓印基板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLg.desc=收集完所有材料後，你需要使用攪拌機來製造磁共振石粉和電路化合物 Mk-III。%n%n在衝壓機床內將這些粉結合製成壓印基板原料。%n%n然後，在超淨間裡使用高壓釜配合焊料合金將它們製作為壓印基板。成功機率為四分之三，因此最好多準備一些材料，剩餘的還能用於下一個壓印電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLg.desc=收集完所有材料後，你需要使用攪拌機來製造磁共振石粉和電路化合物 Mk-III。%n%n在衝壓機床內將這些粉結合製成壓印基板原料。%n%n然後，在超淨間裡使用高壓釜配合焊料合金將它們製作為壓印基板。成功機率為四分之三，因此最好多準備一些材料，剩餘的還能用於下一個壓印電路板。
 
 # Quest: Naquadah Alloy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKLw.name=§d§l矽岩合金
@@ -3677,7 +3677,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.desc=當然了！物質聚合器！�
 
 # Quest: A Few More Things...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgQ.name=§b§l還有點事兒……
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgQ.desc=好，我覺得我應該有造出這臺儀器的全套材料了，不過你能再支援我點材料麼？這些材料把我的一些機器搞壞了，我需要再升級幾臺裝置。不用怕，我已經把我要的東西列在下面了：%n%n在我測試這些生命和靈魂碎片的導電率時，我的手頭一部分電路被燒燬了，我需要一些更好的電路替換它們。%n%n我了個老天爺啊，這些奇怪的水晶把我的鑽石研磨頭直接折騰壞了！這到底怎麼個事？！你能給我帶個更好的來不？%n%n還有你看到旁邊那堆銠和鈀了嗎？什麼，沒看到？好吧，也許是因為機器早就已經氣化了！你給了我2個奇點，其中第一個……唉算了不提了，給我弄一個更好的機器外殼吧。%n%n最後，我沒有穩定器所需要的力場發生器，再給我弄2個過來。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABgQ.desc=好，我覺得我應該有造出這臺儀器的全套材料了，不過你能再支援我點材料麼？這些材料把我的一些機器搞壞了，我需要再升級幾臺裝置。不用怕，我已經把我要的東西列在下面了：%n%n在我測試這些生命和靈魂碎片的導電率時，我的手頭一部分電路被燒燬了，我需要一些更好的電路板替換它們。%n%n我了個老天爺啊，這些奇怪的水晶把我的鑽石研磨頭直接折騰壞了！這到底怎麼個事？！你能給我帶個更好的來不？%n%n還有你看到旁邊那堆銠和鈀了嗎？什麼，沒看到？好吧，也許是因為機器早就已經氣化了！你給了我2個奇點，其中第一個……唉算了不提了，給我弄一個更好的機器外殼吧。%n%n最後，我沒有穩定器所需要的力場發生器，再給我弄2個過來。
 
 # Quest: Energy Infuser
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=§b§l能量注入儀
@@ -3748,7 +3748,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKSg.name=§b§l未來掠影（不含FPS�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKSg.desc=想要前往廢土世界，你需要10個遏制框架以及一個Alkalus圓盤（啟用）(Alkalus-Disk-[Activated]).  與地獄傳送門的搭建方式一致。 這個圓盤還可以用來放火（一種特殊的火）。 這種火在地面不會擴散，但它能夠非常快地將一棵樹燒成灰。 如果你被巨樹困擾的話，它會是很棒的工具。%n%n廢土世界滿是GT++礦石。 
 
 # Quest: Cheaper EV Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKTQ.name=§b§l更便宜的EV電路
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKTQ.name=§b§l更便宜的EV電路板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKTQ.desc=電壓更高後，你可以用ASoC來製造更便宜的量子處理器。
 
 # Quest: Where No One Has Gone Before
@@ -3757,7 +3757,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKVg.desc=又是一枚新火箭，又是�
 
 # Quest: Making Tritanium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYg.name=§b§l製造三鈦
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYg.desc=想要製造三鈦，首先需要製造鏗鈾。%n%n三鈦用於T6火箭、重力裝甲、物質操縱者 MK-III以及UHV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYg.desc=想要製造三鈦，首先需要製造鏗鈾。%n%n三鈦用於T6火箭、重力裝甲、物質操縱者 MK-III以及UHV電路板。
 
 # Quest: Wasn't This Only Found in the Center of Neutron Stars?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKbQ.name=§b§l這不是隻有中子星核心才有的嗎？
@@ -3898,7 +3898,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAErg.desc=MK-II型反應爐很好，但�
 
 # Quest: I Put Fusion in Your Fusion so you Can Fusion While You Fusion
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsg.name=§2§l§n套娃核融合（I Put Fusion in Your Fusion so you Can Fusion While You Fusion）
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsg.desc=想要製造鿫，你首先需要製造鉲。鉲由鈹和鈽-239核融合而來。在兩步核融合反應之後，你得到了在整個整合包中最好的惰性氣體，可以用於很多場合。%n%n在這個階段，你可以將它輸入虛空採礦場來增加採礦速度，或是將其輸入工業高爐來使其執行的更快。以後，鿫可以被用於其他地方，比如光學電路，或是製造亞穩態鿫，亞穩態鿫會在日後大量使用。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsg.desc=想要製造鿫，你首先需要製造鉲。鉲由鈹和鈽-239核融合而來。在兩步核融合反應之後，你得到了在整個整合包中最好的惰性氣體，可以用於很多場合。%n%n在這個階段，你可以將它輸入虛空採礦場來增加採礦速度，或是將其輸入工業高爐來使其執行的更快。以後，鿫可以被用於其他地方，比如光學電路板，或是製造亞穩態鿫，亞穩態鿫會在日後大量使用。
 
 # Quest: Time for Another Reactor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEsw.name=§2§l§n再來一個核融合堆
@@ -3957,7 +3957,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKSw.name=§2§l§n電路，組裝！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKSw.desc=想要製造濕件系列電路（UHV等級的電路），你需要製造ZPM電路組裝機，或者為你的電路裝配線準備一個UV能源倉。
 
 # Quest: Cheaper IV Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKTg.name=§2§l§n更便宜的IV電路
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKTg.name=§2§l§n更便宜的IV電路板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKTg.desc=晶體SoC讓晶體處理器的成本大大降低。
 
 # Quest: All Good Things...
@@ -3970,31 +3970,31 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWQ.desc=把培養基原液放入IV流�
 
 # Quest: The Board that Keeps Life
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWg.name=§2§l§n能夠維生的基板
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWg.desc=要製作濕件電路，你需要先製作濕件維生電路基板。這種基板的製造完全不同於之前的電路基板，因為它需要相當多的資源！%n%n但在用於製造電路之前，你還需要進行一定的蝕刻。我猜你已經精通電路板的製造了，只需查閱NEI，我就不再贅述了:P
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWg.desc=要製作濕件電路板，你需要先製作濕件維生電路基板。這種基板的製造完全不同於之前的電路基板，因為它需要相當多的資源！%n%n但在用於製造電路之前，你還需要進行一定的蝕刻。我猜你已經精通電路板的製造了，只需查閱NEI，我就不再贅述了:P
 
 # Quest: This is Not How You Make Cheese
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWw.name=§2§l§n這可不像你做乳酪一樣
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWw.desc=為了製造濕件電路，你需要無菌培養基和幹細胞。%n%n首先你需要透過細菌培養缸或者釀造室都可以獲得的“細菌”，雖然培養缸更加高效，但培養缸需要培養物，所以還是得先走釀造室這條路。培養缸需要至少在放射倉內放入鉍桿才能提供正確劑量的輻射，而且要最低EV等級的玻璃才能生產細菌。一共有3個不同的配方，後期如果想的話可以試試更高階的配方。%n%n你還需要肉末和瓊脂，所以需要一個穩定的肉類來源。*珠海漁場、動物農場或是肉玫瑰/金魚草農場都可以。%n%n瓊脂的加工鏈更加複雜，而且需要大量的肉，但與鉑系處理比起來就是小巫見大巫。%n%n用一些細菌來製作出合適的培養皿（只有15%%的機率成功），然後將培養皿放入細菌培養缸的控制器方塊。為了生產培養基原液，細菌培養缸需要IV等級的玻璃，同時放射倉最起碼需要鈾桿才能提供所需輻射。這個同樣也有更高階的配方。%n%n[note]培養皿在細菌培養缸中不會被消耗。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWw.desc=為了製造濕件電路板，你需要無菌培養基和幹細胞。%n%n首先你需要透過細菌培養缸或者釀造室都可以獲得的“細菌”，雖然培養缸更加高效，但培養缸需要培養物，所以還是得先走釀造室這條路。培養缸需要至少在放射倉內放入鉍桿才能提供正確劑量的輻射，而且要最低EV等級的玻璃才能生產細菌。一共有3個不同的配方，後期如果想的話可以試試更高階的配方。%n%n你還需要肉末和瓊脂，所以需要一個穩定的肉類來源。*珠海漁場、動物農場或是肉玫瑰/金魚草農場都可以。%n%n瓊脂的加工鏈更加複雜，而且需要大量的肉，但與鉑系處理比起來就是小巫見大巫。%n%n用一些細菌來製作出合適的培養皿（只有15%%的機率成功），然後將培養皿放入細菌培養缸的控制器方塊。為了生產培養基原液，細菌培養缸需要IV等級的玻璃，同時放射倉最起碼需要鈾桿才能提供所需輻射。這個同樣也有更高階的配方。%n%n[note]培養皿在細菌培養缸中不會被消耗。[/note]
 
 # Quest: Intelligent Circuits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXA.name=§2§l§n智慧電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXA.desc=濕件電路的另一元件就是神經元處理器。需要使用裝配線合成。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXA.desc=濕件電路板的另一元件就是神經元處理器。需要使用裝配線合成。
 
 # Quest: Your First Wetware Circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXQ.name=§2§l§n你的第一個濕件電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXQ.desc=第一種濕件LuV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXQ.name=§2§l§n你的第一個濕件電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXQ.desc=第一種濕件LuV電路板。
 
 # Quest: Wetware Assembly
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXg.name=§2§l§n濕件叢集
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXg.desc=濕件叢集是ZPM電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXg.desc=濕件叢集是ZPM電路板。
 
 # Quest: Supercomputers and Water
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXw.name=§2§l§n超級電腦和水
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXw.desc=濕件超級電腦是UV電路。%n%n你需要TecTech的研究站配合量子電腦，才能獲得濕件主機的裝配線快閃記憶體，所以在繼續此任務線之前，請先製造這兩臺大傢伙。%n%n[note]如果你看不到相關的任務，請返回ZPM階段任務章節，把你之前跳過的那些TecTech任務做完。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKXw.desc=濕件超級電腦是UV電路板。%n%n你需要TecTech的研究站配合量子電腦，才能獲得濕件主機的裝配線快閃記憶體，所以在繼續此任務線之前，請先製造這兩臺大傢伙。%n%n[note]如果你看不到相關的任務，請返回ZPM階段任務章節，把你之前跳過的那些TecTech任務做完。[/note]
 
 # Quest: Wetware Mainframe
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYA.name=§2§l§n濕件主機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYA.desc=濕件主機是濕件系列的最後一種電路，它也是你獲得的第一種UHV電路。%n%n無需銘刻，它是在裝配線中合成的。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYA.desc=濕件主機是濕件系列的最後一種電路，它也是你獲得的第一種UHV電路板。%n%n無需銘刻，它是在裝配線中合成的。
 
 # Quest: Which Doctor? THE Doctor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKbg.name=§2§l§n哪個博士？ 這個博士
@@ -4006,7 +4006,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcQ.desc=現在讓我們來製作宇宙�
 
 # Quest: Quantum Mechanics is Hot
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiw.name=§2§l§n量子力學有點熱
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiw.desc=量子電腦根據機器的長度有2到24個電腦機櫃。每個電腦機櫃有四個插槽，可以放置電路（用於產生熱量和算力）或散熱片（用於散熱）。雖然概念上類似於核反應爐，但元件的具體位置並不重要。每個電腦機櫃都是獨立的，這意味著不可能有一個電腦機櫃全部放電路，另一個電腦機櫃全部放散熱片。%n%n電腦機櫃的總算力是所有元件各自算力的總和。例如，兩個APU（T3）和兩個冷卻核心的計算能力為240+240+0+0=480基礎算力每秒。然而，算力會根據超頻比和過壓比顯著變化：%n%n[note]算力 = 基礎算力 * (1 + 超頻比^2) / (1 + （超頻比 - 過壓比）^2)[/note]%n%n電腦機櫃的熱量介於0和10,000之間，可以透過量子電腦的介面或行動式掃描器檢視。每個元件都有其熱量限度，如果元件的熱量超過其限度，該元件會被破壞。如果在熱量大於2000時破壞或用扳手拆除電腦機櫃，裡面的元件也會被破壞。如果熱量超過10,000，量子電腦會爆炸，但沒有元件的熱量限度超過這個值，因此不必太擔心你的基地因此被夷為平地。%n%n[note]熱量 α 熱常數 * 超頻 * 超壓^2[/note]%n%n每個電腦機櫃的電力消耗為1A ZPM，無論內部元件如何。此外，量子電腦本身也消耗1A ZPM。然而，EU/t值與超頻和超壓直接成正比，隨著你解鎖更高階電路，這些值應該會增加。確保在研究站之前開啟量子電腦，並且只在需要時開啟。%n%n[note] EU/t = 131,072 * 超頻 * 超壓 * （機架數量 + 1）[/note]%n%n為了讓你入門，製作4個APU（T3）和4個冷卻核心。在兩個電腦機櫃中放入每種元件各兩個，量子電腦將安全地產生1920算力每秒，只消耗393,215EU/t（0.75A UV），這足以進行濕件主機的研究。如果你想以耗電為代價進一步提高每秒算力，可以將超頻比和過壓比分別調整為1.44和1.03，這樣可以生成2526算力每秒，代價是消耗583,217EU/t（1.11A UV）。%n%n如果製造APU過於麻煩，可以嘗試使用晶體主機，但你需要為它們設定不同的超頻比和過壓比以獲得最佳效能。這適用於所有獨特的電路和散熱片組合。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiw.desc=量子電腦根據機器的長度有2到24個電腦機櫃。每個電腦機櫃有四個插槽，可以放置電路（用於產生熱量和算力）或散熱片（用於散熱）。雖然概念上類似於核反應爐，但元件的具體位置並不重要。每個電腦機櫃都是獨立的，這意味著不可能有一個電腦機櫃全部放電路，另一個電腦機櫃全部放散熱片。%n%n電腦機櫃的總算力是所有元件各自算力的總和。例如，兩個APU（T3）和兩個冷卻核心的計算能力為240+240+0+0=480基礎算力每秒。然而，算力會根據超頻比和過壓比顯著變化：%n%n[note]算力 = 基礎算力 * (1 + 超頻比^2) / (1 + （超頻比 - 過壓比）^2)[/note]%n%n電腦機櫃的熱量介於0和10,000之間，可以透過量子電腦的介面或行動式掃描器檢視。每個元件都有其熱量限度，如果元件的熱量超過其限度，該元件會被破壞。如果在熱量大於2000時破壞或用扳手拆除電腦機櫃，裡面的元件也會被破壞。如果熱量超過10,000，量子電腦會爆炸，但沒有元件的熱量限度超過這個值，因此不必太擔心你的基地因此被夷為平地。%n%n[note]熱量 α 熱常數 * 超頻 * 超壓^2[/note]%n%n每個電腦機櫃的電力消耗為1A ZPM，無論內部元件如何。此外，量子電腦本身也消耗1A ZPM。然而，EU/t值與超頻和超壓直接成正比，隨著你解鎖更高階電路板，這些值應該會增加。確保在研究站之前開啟量子電腦，並且只在需要時開啟。%n%n[note] EU/t = 131,072 * 超頻 * 超壓 * （機架數量 + 1）[/note]%n%n為了讓你入門，製作4個APU（T3）和4個冷卻核心。在兩個電腦機櫃中放入每種元件各兩個，量子電腦將安全地產生1920算力每秒，只消耗393,215EU/t（0.75A UV），這足以進行濕件主機的研究。如果你想以耗電為代價進一步提高每秒算力，可以將超頻比和過壓比分別調整為1.44和1.03，這樣可以生成2526算力每秒，代價是消耗583,217EU/t（1.11A UV）。%n%n如果製造APU過於麻煩，可以嘗試使用晶體主機，但你需要為它們設定不同的超頻比和過壓比以獲得最佳效能。這適用於所有獨特的電路和散熱片組合。
 
 # Quest: Fluids for Copying Cultures
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKlw.name=§2§l§n複製細菌-液體
@@ -4123,7 +4123,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKWA.desc=這是進度中最後一個常�
 
 # Quest: It's Not Going Bad, I Swear!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYQ.name=§4§l§n我發誓，它不會變質的！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYQ.desc=想要製造下一階的電路（生物電路），你需要生物培養基原液。有三種配方可以獲得此原液。%n%n第一種配方需要幹細胞、神秘水晶和鯨魚座T星E藻類提取物，提供LuV電壓和94Sv（鈽），在細菌培養缸中生產。製出生物培養基原液的比例是4:1。%n%n第二種配方和第一種基本上一樣，但把三鈦換成了無盡催化劑，要求ZPM電壓和140Sv（富集矽岩）。製取比例是1:1。%n%n第三種配方是最高效的，但它需要生物細胞（你暫時還沒有）和4個無盡催化劑粉，要求UV電壓和150Sv（超能矽岩），製取比例是1:2。%n%n[note]第二和第三種方法使用不同於第一種的培養皿。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYQ.desc=想要製造下一階的電路（生物電路板），你需要生物培養基原液。有三種配方可以獲得此原液。%n%n第一種配方需要幹細胞、神秘水晶和鯨魚座T星E藻類提取物，提供LuV電壓和94Sv（鈽），在細菌培養缸中生產。製出生物培養基原液的比例是4:1。%n%n第二種配方和第一種基本上一樣，但把三鈦換成了無盡催化劑，要求ZPM電壓和140Sv（富集矽岩）。製取比例是1:1。%n%n第三種配方是最高效的，但它需要生物細胞（你暫時還沒有）和4個無盡催化劑粉，要求UV電壓和150Sv（超能矽岩），製取比例是1:2。%n%n[note]第二和第三種方法使用不同於第一種的培養皿。[/note]
 
 # Quest: I'm Telling You, It's Not Mold!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKYw.name=§4§l§n我告訴你，那不是黴菌！
@@ -4135,23 +4135,23 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZA.desc=製造生物基板與製造濕�
 
 # Quest: Self-Aware Circuits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZQ.name=§4§l§n有自我意識的電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZQ.desc=製造一個生物處理器單元。它是生物電路的重要元件。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZQ.desc=製造一個生物處理器單元。它是生物電路板的重要元件。
 
 # Quest: Please... Don't Let These Circuits Take Over
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZg.name=§4§l§n拜託……不要讓這些電路接管世界
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZg.desc=生物處理器是你能製造的第一塊生物電路。它是ZPM電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZg.desc=生物處理器是你能製造的第一塊生物電路板。它是ZPM電路板。
 
 # Quest: Bio Circuit 2: Biological Boogaloo
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZw.name=§4§l§n生物電路2: 頌生人偶
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZw.desc=生物叢集是第二種生物電路。它是UV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZw.name=§4§l§n生物電路板2: 頌生人偶
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKZw.desc=生物叢集是第二種生物電路板。它是UV電路板。
 
 # Quest: Supercomputers... With Cells?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKaA.name=§4§l§n超級電腦……和細胞？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKaA.desc=生物超級電腦是第三種生物電路。它是UHV電路。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKaA.desc=生物超級電腦是第三種生物電路板。它是UHV電路板。
 
 # Quest: Master of Circuits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKaQ.name=§4§l§n電路大師
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKaQ.desc=生物主機是遊戲中的第一種UEV電路。%n%n這確實是一大成就，幹得好！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKaQ.desc=生物主機是遊戲中的第一種UEV電路板。%n%n這確實是一大成就，幹得好！
 
 # Quest: Compressing the Core of a Star
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcg.name=§4§l§n壓縮星核
@@ -4171,11 +4171,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKdw.desc=你已經取得了很多進步�
 
 # Quest: Industrial Scale Seaweed Production
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKeQ.name=§4§l§n工業化生產藻類
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKeQ.desc=所以你可能注意到了，生物電路需要的鯨魚座藻類數量有點……誇張。親自收集這些藻類實在令人痛苦，而誰又想專門寫個程式控制機器人呢？更別提伺服器了。還好，現在終於有了一種生產藻類的手段。%n%n你需要準備的第一種材料是……鯨魚座藻類自己！將藻類配合不明液體製成培養皿。這需要點時間，因為機率低得令人髮指。你還需要UV生物實驗室。%n%n擁有培養皿後你就能製造海藻基質，由未知營養瓊脂與一系列物品混合製成。最後離心即可獲得藻類。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKeQ.desc=所以你可能注意到了，生物電路板需要的鯨魚座藻類數量有點……誇張。親自收集這些藻類實在令人痛苦，而誰又想專門寫個程式控制機器人呢？更別提伺服器了。還好，現在終於有了一種生產藻類的手段。%n%n你需要準備的第一種材料是……鯨魚座藻類自己！將藻類配合不明液體製成培養皿。這需要點時間，因為機率低得令人髮指。你還需要UV生物實驗室。%n%n擁有培養皿後你就能製造海藻基質，由未知營養瓊脂與一系列物品混合製成。最後離心即可獲得藻類。
 
 # Quest: Beyond the Limit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiA.name=§4§l§n超越極限
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiA.desc=為了製造UEV部件或生物電路，你需要合成一種全新的活性焊料，這種焊料要求強化博特姆合金機械方塊為外殼的化工廠。這些合金造起來可就不太容易了！%n%n我相信你一定可以弄清楚其他材料的製造，除了高階鎳鈦諾可能讓你有點頭疼。它是由鎳鈦諾60塊配合量子反常在雷射蝕刻機製成的。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiA.desc=為了製造UEV部件或生物電路板，你需要合成一種全新的活性焊料，這種焊料要求強化博特姆合金機械方塊為外殼的化工廠。這些合金造起來可就不太容易了！%n%n我相信你一定可以弄清楚其他材料的製造，除了高階鎳鈦諾可能讓你有點頭疼。它是由鎳鈦諾60塊配合量子反常在雷射蝕刻機製成的。
 
 # Quest: Xenoxene Xenoxsis
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKnQ.name=§4§l§n異氙菌
@@ -4190,7 +4190,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsQ.name=§4§l§n等等，PBI（聚苯�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMsQ.desc=來做一種全新的塑膠吧！你在巴納德C上發現的樹木有些非常有趣的特性。但是，你不能只使用提取得到的粗製拉多X.必須經過嚴格分步的精煉流程！%n%n§6你需要用它製造大量東西，如UIV和UMV超導、UEV+倉室，以及戴森雲部件。§r%n%n和之前的塑膠不同，這裡需要的大多數步驟都不是化學反應。這些步驟的速度也很慢，所以可能需要一個巨型多方塊機器幫助解決問題。這條產線也強調了大規模生產電漿的必要性。而且你今後只會需要更多。%n%n[note]超重拉多X之後的維度偏移超流體會需要，所以存一點吧。[/note]%n%n[note]副產物重拉多X可以用於矽岩基流體燃料-MkV.[/note]
 
 # Quest: Cheaper LuV Circuits
-betterquesting.quest.Yxrhi0z7SUuvUT3BrsENww.name=§4§l§n更廉價的LuV電路
+betterquesting.quest.Yxrhi0z7SUuvUT3BrsENww.name=§4§l§n更廉價的LuV電路板
 betterquesting.quest.Yxrhi0z7SUuvUT3BrsENww.desc=活性晶體晶片更具效率，讓你的濕件處理器變得更便宜！
 
 # Quest: A Blast to the Past
@@ -4212,7 +4212,7 @@ betterquesting.quest.3yz1WCEzQ_KQxW8p7_29-Q.desc=已經對於無盡的需求難�
 
 # Quest: My Eyes Hurt! #2
 betterquesting.quest.4MzUrkH5QsWnE_4APuHhNg.name=§5§l§n好刺眼！ #2
-betterquesting.quest.4MzUrkH5QsWnE_4APuHhNg.desc=光學叢集是第二級光學電路。它是UHV等級的電路。
+betterquesting.quest.4MzUrkH5QsWnE_4APuHhNg.desc=光學叢集是第二級光學電路板。它是UHV等級的電路。
 
 # Quest: NAC™: Advanced Routing Package
 betterquesting.quest.8PiGBrdnSHOVIA7tHinlOA.name=§5§l§n奈米晶片組裝複合體§r§5§n™§r§5§n§l：進階路由擴充套件包
@@ -4308,7 +4308,7 @@ betterquesting.quest.H3Tvy4ZKSyiQGT16Og90bA.desc=UEV能源倉？好極了！是�
 
 # Quest: Assembling in Space
 betterquesting.quest.H_S9zi1_SUKG7JkEYgJIiA.name=§5§l§n在太空中組裝
-betterquesting.quest.H_S9zi1_SUKG7JkEYgJIiA.desc=這個新的太空電梯模組可以用來更方便地製造蘭波頓能量球，以及製造光學電路的原材料。
+betterquesting.quest.H_S9zi1_SUKG7JkEYgJIiA.desc=這個新的太空電梯模組可以用來更方便地製造蘭波頓能量球，以及製造光學電路板的原材料。
 
 # Quest: Haha, Spinny Ingot
 betterquesting.quest.Jk9jZtb6SXSLNX9SND_J0A.name=§5§l§n哈哈，超時空金屬錠轉轉轉
@@ -4319,12 +4319,12 @@ betterquesting.quest.L88EN1-iS1CQbixJBH_arQ.name=§5§l§n利用光進行計算
 betterquesting.quest.L88EN1-iS1CQbixJBH_arQ.desc=用淨化水精心處理粗製的計算元件，就能製造出光學增強晶片。這些晶片利用光波進行運算，其速度之快，是你先前無法想象的。不過，製備它們的流程相當複雜。
 
 # Quest: NAC™: Wetware and Bioware Package
-betterquesting.quest.NAUxWAKzTHifGrUSGPcb5w.name=§5§l§n奈米晶片組裝複合體§r§5§n™§r§5§n§l：濕件/生物電路擴充套件包
-betterquesting.quest.NAUxWAKzTHifGrUSGPcb5w.desc=所以您為您新購買的奈米晶片組裝複合體™選擇了§5§n濕件/生物電路擴充套件包§r。明智的選擇，因為這些是您將製作的最重要電路之一。閱讀下附的使用者指南以瞭解安裝步驟。%n%n§o抓緊時間入手！電路系列買一送一！§r%n%n§n§l加速生物調諧器使用者指南：§r%n%n奈米晶片組裝複合體™將追蹤並記錄最近100,000個製作的電路，當某種電路的製作量達到一個特定百分比時，其將被校準到該電路類型。濕件電路的製作總量達到60%%（60,000）時，奈米晶片組裝複合體™將被“完全校準”到濕件電路，生物電路同理。%n%n根據當前校準種類，生物調諧器會提供一或兩種增益：%n- 若校準至§n濕件§r，無菌培養基的消耗降低至0%n- 若校準至§n生物§r，無菌培養基與無菌生物培養基的消耗均降低至0
+betterquesting.quest.NAUxWAKzTHifGrUSGPcb5w.name=§5§l§n奈米晶片組裝複合體§r§5§n™§r§5§n§l：濕件/生物電路板擴充套件包
+betterquesting.quest.NAUxWAKzTHifGrUSGPcb5w.desc=所以您為您新購買的奈米晶片組裝複合體™選擇了§5§n濕件/生物電路板擴充套件包§r。明智的選擇，因為這些是您將製作的最重要電路之一。閱讀下附的使用者指南以瞭解安裝步驟。%n%n§o抓緊時間入手！電路系列買一送一！§r%n%n§n§l加速生物調諧器使用者指南：§r%n%n奈米晶片組裝複合體™將追蹤並記錄最近100,000個製作的電路，當某種電路的製作量達到一個特定百分比時，其將被校準到該電路類型。濕件電路板的製作總量達到60%%（60,000）時，奈米晶片組裝複合體™將被“完全校準”到濕件電路板，生物電路板同理。%n%n根據當前校準種類，生物調諧器會提供一或兩種增益：%n- 若校準至§n濕件§r，無菌培養基的消耗降低至0%n- 若校準至§n生物§r，無菌培養基與無菌生物培養基的消耗均降低至0
 
 # Quest: My Eyes Hurt! #1
 betterquesting.quest.U4zxsdwqTUKsbTATYEJirg.name=§5§l§n好刺眼！ #1
-betterquesting.quest.U4zxsdwqTUKsbTATYEJirg.desc=終於，你已準備好去組裝這些新電路了。這是一塊UV等級電路。%n%n[note]強烈推薦在啟動光學電路製造之前先研究出一臺NAC。[/note]
+betterquesting.quest.U4zxsdwqTUKsbTATYEJirg.desc=終於，你已準備好去組裝這些新電路了。這是一塊UV等級電路。%n%n[note]強烈推薦在啟動光學電路板製造之前先研究出一臺NAC。[/note]
 
 # Quest: Optically Enriched Boules
 betterquesting.quest.VplPMJ0DThWiBNH_Hx5SQA.name=§5§l§n光學富集單晶矽
@@ -4332,7 +4332,7 @@ betterquesting.quest.VplPMJ0DThWiBNH_Hx5SQA.desc=藉助大量的UU物質以及�
 
 # Quest: My Eyes Hurt! #3
 betterquesting.quest.WIx0jq8hS8ifWxZWTmC5yA.name=§5§l§n好刺眼！ #3
-betterquesting.quest.WIx0jq8hS8ifWxZWTmC5yA.desc=光學超級電腦是第三級的光學電路。它是一塊UEV等級的電路。
+betterquesting.quest.WIx0jq8hS8ifWxZWTmC5yA.desc=光學超級電腦是第三級的光學電路板。它是一塊UEV等級的電路。
 
 # Quest: The Final Frontier!
 betterquesting.quest.X1tb5rwVSVi5SR5rY7vQIw.name=§5§l§n最後的邊疆！
@@ -4351,8 +4351,8 @@ betterquesting.quest.c9yhGUSqSBKfUE-I0l_kbw.name=§5§l§n隆重介紹奈米晶�
 betterquesting.quest.c9yhGUSqSBKfUE-I0l_kbw.desc=你已經走了很遠了，你知道該怎麼做。你已經製作了數不清的電路，但如果這還不夠呢？是時候放棄堆機器的老路子，開始像一個真正的後期工程師一樣製造你的工廠了。%n%n奈米晶片組裝複合體並不僅是一臺更華麗的電路裝配線或裝配線——它將是你整個基地運作的核心。只需要讓你的機器跑一個廉價的小訂單*，你就能擁有這臺電路製作科技的最新成果！%n%n§o免責宣告*：“小訂單”可能並不能準確反映貴方的產能，對於諸如“怎麼要這麼多UHV超導”或者“我們昨天就該多堆些雷射蝕刻機”之類的專業事故，本公司概不負責。§r%n%n§o奈米晶片組裝複合體™一經售出，概不退換。另行製作模組以體驗完整功能。
 
 # Quest: Cheaper ZPM Circuits
-betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.name=§5§l§n更廉價的ZPM電路
-betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.desc=活性生物晶片可以同時處理更多的任務，你的ZPM電路也更便宜了！%n%n[note]這個配方會消耗不少海珀珍，也許你可以等到海珀珍更加便宜的時候再使用這個配方。[/note]
+betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.name=§5§l§n更廉價的ZPM電路板
+betterquesting.quest.dYvLkQ-xRnWL8Egy_MnoIg.desc=活性生物晶片可以同時處理更多的任務，你的ZPM電路板也更便宜了！%n%n[note]這個配方會消耗不少海珀珍，也許你可以等到海珀珍更加便宜的時候再使用這個配方。[/note]
 
 # Quest: Download More RAM
 betterquesting.quest.eEJocLDBTkmdsCKo7Qhegw.name=§5§l§n下載更多記憶體
@@ -4391,8 +4391,8 @@ betterquesting.quest.omilMDAFTVWzvZwo0SmnMw.name=§5§l§n生物催化推進液
 betterquesting.quest.omilMDAFTVWzvZwo0SmnMw.desc=既然你抵達了塞赫美特，也就是那顆環繞馬赫斯執行的衛星，你終於能開始製造§5§l生物催化推進液§r了。%n%n生物催化推進液是§9離心中樞-2737§r所需的高階燃料，提供額外§2§l1.25倍§r的並行數，並且你終於能夠處理需求§a§l重模式§r的配方了。%n%n[note]如果你正好在做不上天挑戰，請檢視§n盧米坡德樹苗§r的配方或是使用含有Herba要素的蘊魔種子。[/note]
 
 # Quest: NAC™: Optical Package
-betterquesting.quest.oyyde6hbRUOyVcAf7IP5HA.name=§5§l§n奈米晶片組裝複合體§r§5§n™§r§5§n§l：光學電路擴充套件包
-betterquesting.quest.oyyde6hbRUOyVcAf7IP5HA.desc=您可能已經注意到，如果像之前那樣用電路裝配線和裝配線製作光學電路，它們將比其它所有電路系列都要貴得多。奈米晶片組裝複合體™為您提供瞭解決方案！%n%n隆重推出最新的§5§n光學電路擴充套件包§r，允許您以高效得多的方式生產光學電路！閱讀下附的使用者指南以瞭解安裝步驟。%n%n§o經外界人士審查，本公司對於光學電路的其它生產方式的產率變化§n概不負責§r§o。奈米晶片組裝複合體™在光學電路製作上的優勢完全是巧合。§r§r%n%n§l§n光學最佳化組織器使用者指南：§r%n%n光學最佳化組織器需要兩種不同等級的淨化水以執行。然而它們不僅僅是額外執行成本！每種不低於3級的淨化水都能夠為模組的執行提供增益：%n- 3級淨化水（1000L/s）：0.8x 水消耗（對兩種淨化水均生效）%n- 4級淨化水（800L/s）：0.6x 水消耗（對兩種淨化水均生效）%n- 5級淨化水（800L/s）：0.9x 配方耗時%n- 6級淨化水（600L/s）：0.7x 配方耗時%n- 7級淨化水（600L/s）：0.9x 配方EU消耗%n- 8級淨化水（400L/s）：0.7x 配方EU消耗%n%n淨化水僅會在模組執行時被消耗。相同類型的淨化水增益（如5級水+6級水）可以疊乘。%n%n奈米晶片組裝複合體™將追蹤並記錄最近100,000個製作的電路，當某種電路的製作量達到一個特定百分比時，其將被校準到該電路類型。光學電路的製作總量達到60%%（60,000）時，奈米晶片組裝複合體™將被“完全校準”到光學電路。%n%n一旦完全校準到光學，淨化水的增益將被計算兩次（平方）。
+betterquesting.quest.oyyde6hbRUOyVcAf7IP5HA.name=§5§l§n奈米晶片組裝複合體§r§5§n™§r§5§n§l：光學電路板擴充套件包
+betterquesting.quest.oyyde6hbRUOyVcAf7IP5HA.desc=您可能已經注意到，如果像之前那樣用電路裝配線和裝配線製作光學電路板，它們將比其它所有電路系列都要貴得多。奈米晶片組裝複合體™為您提供瞭解決方案！%n%n隆重推出最新的§5§n光學電路板擴充套件包§r，允許您以高效得多的方式生產光學電路板！閱讀下附的使用者指南以瞭解安裝步驟。%n%n§o經外界人士審查，本公司對於光學電路板的其它生產方式的產率變化§n概不負責§r§o。奈米晶片組裝複合體™在光學電路板製作上的優勢完全是巧合。§r§r%n%n§l§n光學最佳化組織器使用者指南：§r%n%n光學最佳化組織器需要兩種不同等級的淨化水以執行。然而它們不僅僅是額外執行成本！每種不低於3級的淨化水都能夠為模組的執行提供增益：%n- 3級淨化水（1000L/s）：0.8x 水消耗（對兩種淨化水均生效）%n- 4級淨化水（800L/s）：0.6x 水消耗（對兩種淨化水均生效）%n- 5級淨化水（800L/s）：0.9x 配方耗時%n- 6級淨化水（600L/s）：0.7x 配方耗時%n- 7級淨化水（600L/s）：0.9x 配方EU消耗%n- 8級淨化水（400L/s）：0.7x 配方EU消耗%n%n淨化水僅會在模組執行時被消耗。相同類型的淨化水增益（如5級水+6級水）可以疊乘。%n%n奈米晶片組裝複合體™將追蹤並記錄最近100,000個製作的電路，當某種電路的製作量達到一個特定百分比時，其將被校準到該電路類型。光學電路板的製作總量達到60%%（60,000）時，奈米晶片組裝複合體™將被“完全校準”到光學電路板。%n%n一旦完全校準到光學，淨化水的增益將被計算兩次（平方）。
 
 # Quest: Wireless Data for Your Assembly Lines!
 betterquesting.quest.pLB6Sb0FSZ65cjWJ_Q4IIg.name=§5§l§n為裝配線提供無線資料！
@@ -4480,8 +4480,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpQ.name=§9§l§n老規矩，你懂的 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpQ.desc=希望你已經準備好了大量的超時空金屬:)
 
 # Quest: UMV Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqg.name=§9§l§nUMV電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqg.desc=皮米電路，光學主機的直接升級版本，未來的合成會大量需要這種UMV電路。%n%n[note]你需要NAC。[/note]%n%n[warn]有傳言說，這些電路可能存在不了多久了……[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqg.name=§9§l§nUMV電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqg.desc=皮米電路板，光學主機的直接升級版本，未來的合成會大量需要這種UMV電路板。%n%n[note]你需要NAC。[/note]%n%n[warn]有傳言說，這些電路可能存在不了多久了……[/warn]
 
 # Quest: Six-Phased Copper
 betterquesting.quest.CzdMQPiKSoKXIzSX7g0SIA.name=§9§l§n六相銅
@@ -4517,7 +4517,7 @@ betterquesting.quest.RAH2M4DoTTaX5a2Sj4hRcQ.desc=經過數小時的折磨、血�
 
 # Quest: Atto Power ICs
 betterquesting.quest.S1s9Qw2yQgGm0cKw-W1yvQ.name=§9§l§n阿米功率IC
-betterquesting.quest.S1s9Qw2yQgGm0cKw-W1yvQ.desc=你需要用阿米功率IC來製造戴森雲、UMV->UXV變壓器、UIV級能源/動力倉以及皮米電路。%n%n[note]你需要UIV切割木丿——等一下，怎麼回事？[/note]%n%n從現在開始，你的切割機將無法勝任這一工作，§l§o無論如何也不行。§r那些巨大的鋸片無法切割如此精密的晶圓。%n%n使用你的高強度雷射蝕刻機是下一個最佳選擇，但這似乎會將晶圓上大部分生物元件燒燬，導致你獲得的晶片數量減少。%n%n[note]也許我們可以用一種更好的透鏡來聚焦這些雷射。[/note]
+betterquesting.quest.S1s9Qw2yQgGm0cKw-W1yvQ.desc=你需要用阿米功率IC來製造戴森雲、UMV->UXV變壓器、UIV級能源/動力倉以及皮米電路板。%n%n[note]你需要UIV切割木丿——等一下，怎麼回事？[/note]%n%n從現在開始，你的切割機將無法勝任這一工作，§l§o無論如何也不行。§r那些巨大的鋸片無法切割如此精密的晶圓。%n%n使用你的高強度雷射蝕刻機是下一個最佳選擇，但這似乎會將晶圓上大部分生物元件燒燬，導致你獲得的晶片數量減少。%n%n[note]也許我們可以用一種更好的透鏡來聚焦這些雷射。[/note]
 
 # Quest: Fluid^2 Extractor
 betterquesting.quest.So7OhYd8SVO3_Jl370cogA.name=§9§l§n流體^2提取機
@@ -4565,7 +4565,7 @@ betterquesting.quest.j4pFVWCCSBGZsTyI7wpCYA.desc=利用大量的能量與量子�
 
 # Quest: Eternal Coil Upgrade
 betterquesting.quest.jSgzKTJOTiSm6ArYis30dg.name=§9§l§n升級永恆線圈
-betterquesting.quest.jSgzKTJOTiSm6ArYis30dg.desc=超越時空，突破現實。你已窺見從未存在於世間的事物，將其化作流體，又凝為固體。克服重重困難之後，它終於穩定了下來。注視著它，你覺得你幾乎可以將整個宇宙握在手中。%n%n從前，你將幾乎所有材料結合為一，創造了永恆奇點，一個無限緻密的宇宙樣本。然而，想要將這一過程在超維度電漿鍛爐的量級上自動化是無比荒謬的，幾乎會使你的進度完全停滯，好在你發現了充能超立方體。想要在根本上展現出時空本身，你首先得展現出第四個空間維度，這就是超立方體的含義：一個四維的立方體。%n%n立方體！你周圍的一切幾乎都由立方體組成。僅僅是對四維世界現實的一瞥，便使你成功地利用它來凝結時空，將其隨心所欲地塑造成任何完整的永恆造物。無需多言，連生物電路也不足以維持這一極端緻密、無比穩定的多維材料。%n%n永恆線圈是目前最終極的升級，提供13,501K的基礎爐溫。讓你的超維度電漿鍛爐大放異彩吧!
+betterquesting.quest.jSgzKTJOTiSm6ArYis30dg.desc=超越時空，突破現實。你已窺見從未存在於世間的事物，將其化作流體，又凝為固體。克服重重困難之後，它終於穩定了下來。注視著它，你覺得你幾乎可以將整個宇宙握在手中。%n%n從前，你將幾乎所有材料結合為一，創造了永恆奇點，一個無限緻密的宇宙樣本。然而，想要將這一過程在超維度電漿鍛爐的量級上自動化是無比荒謬的，幾乎會使你的進度完全停滯，好在你發現了充能超立方體。想要在根本上展現出時空本身，你首先得展現出第四個空間維度，這就是超立方體的含義：一個四維的立方體。%n%n立方體！你周圍的一切幾乎都由立方體組成。僅僅是對四維世界現實的一瞥，便使你成功地利用它來凝結時空，將其隨心所欲地塑造成任何完整的永恆造物。無需多言，連生物電路板也不足以維持這一極端緻密、無比穩定的多維材料。%n%n永恆線圈是目前最終極的升級，提供13,501K的基礎爐溫。讓你的超維度電漿鍛爐大放異彩吧!
 
 # Quest: UIV Superconductors
 betterquesting.quest.kvqtI5rrRrOhi5jhPR-s4A.name=§9§l§nUIV超導
@@ -4605,7 +4605,7 @@ betterquesting.quest.vLnSpTweSki3BaorBNQhxQ.desc=見識到調律源金的生產�
 
 # Quest: Maybe I Do Need These
 betterquesting.quest.yySGZ5RzSZm38ElTS1kL7g.name=§9§l§n或許我真的需要這些玩意
-betterquesting.quest.yySGZ5RzSZm38ElTS1kL7g.desc=以前它們都是可選項，而且大部分玩家都直接選擇跳過它們。但由於UMV部件裝配線現在需要BEC，或許做一套來降低UIV部件的造價是值得的。%n%n此外，在UMV時，你會需要20個這種外殼來在NAC中製造量子電路。%n%n……或者你也可以直接做UMV的。%n%n[note]UIV部件裝配線需要超緻密超時空金屬板，它需要亞穩態黑洞遏制場來製作。[/note]
+betterquesting.quest.yySGZ5RzSZm38ElTS1kL7g.desc=以前它們都是可選項，而且大部分玩家都直接選擇跳過它們。但由於UMV部件裝配線現在需要BEC，或許做一套來降低UIV部件的造價是值得的。%n%n此外，在UMV時，你會需要20個這種外殼來在NAC中製造量子電路板。%n%n……或者你也可以直接做UMV的。%n%n[note]UIV部件裝配線需要超緻密超時空金屬板，它需要亞穩態黑洞遏制場來製作。[/note]
 
 
 ## Quest Line: Tier 12 - UMV
@@ -4638,7 +4638,7 @@ betterquesting.quest.6rzcSbH2QY2cpChT2zLC_g.desc=倒數第二個能源倉。%n%n
 
 # Quest: Zepto Power IC
 betterquesting.quest.7oSbFvGZQfydqvXrYqLACA.name=§c§l§n仄米功率IC
-betterquesting.quest.7oSbFvGZQfydqvXrYqLACA.desc=你需要用仄米功率IC來製造UXV->MAX變壓器、UMV能源/動力倉以及量子電路。%n%n這些晶圓需要使用時空粉、熔融創律合金和燦茶合金在束流合成器中製作。或許你該再升級一下你的大型強子對撞機。%n%n[note]你需要UMV雷射蝕刻機，或者超頻的多方塊機器來切割晶圓。%n%n都到這份上了，誰還再用沒超頻的多方塊機器呢？[/note]
+betterquesting.quest.7oSbFvGZQfydqvXrYqLACA.desc=你需要用仄米功率IC來製造UXV->MAX變壓器、UMV能源/動力倉以及量子電路板。%n%n這些晶圓需要使用時空粉、熔融創律合金和燦茶合金在束流合成器中製作。或許你該再升級一下你的大型強子對撞機。%n%n[note]你需要UMV雷射蝕刻機，或者超頻的多方塊機器來切割晶圓。%n%n都到這份上了，誰還再用沒超頻的多方塊機器呢？[/note]
 
 # Quest: You Are Worthy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMoQ.name=§c§l§n珍惜你自己
@@ -4649,8 +4649,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqw.name=§c§l§n還沒到頭呢
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqw.desc=還能再強一點。
 
 # Quest: UXV Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrA.name=§c§l§nUXV電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrA.desc=量子電路，光學主機與皮米電路的再次升級。這些UXV級電路將成為未來大量合成配方中不可或缺的材料。%n%n[note]你需要先擁有皮米電路奈米晶片組裝複合體才能開始製作。%n%n你知道嗎，所有特殊電路都會為校準提供加成？[/note]%n%n[warn]傳聞這些電路可能很快就會退出歷史舞臺……%n%n不過，傳聞或許並不可信……[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrA.name=§c§l§nUXV電路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrA.desc=量子電路板，光學主機與皮米電路板的再次升級。這些UXV級電路將成為未來大量合成配方中不可或缺的材料。%n%n[note]你需要先擁有皮米電路板奈米晶片組裝複合體才能開始製作。%n%n你知道嗎，所有特殊電路都會為校準提供加成？[/note]%n%n[warn]傳聞這些電路可能很快就會退出歷史舞臺……%n%n不過，傳聞或許並不可信……[/warn]
 
 # Quest: What is this, Tekxit?
 betterquesting.quest.C0erucWORuCA_neG7VCkvg.name=§c§l§n技術玄晶（Tekxit）？這啥？
@@ -4798,8 +4798,8 @@ betterquesting.quest.2QVk9gqBSWKWZQ2T0rXh8A.name=§c§l§n§4§l§n硬碟中的�
 betterquesting.quest.2QVk9gqBSWKWZQ2T0rXh8A.desc=AE儲存總算跟得上你塞進去的材料量了。這些儲存元件比更便宜的單物品或單流體版本實用得多，儘管它們也昂貴得多。%n%n[note]你在接下來的合成中也會需要它們！[/note]
 
 # Quest: MAX Circuits
-betterquesting.quest.2rrP1wt_Qt2LlOqDppdjLQ.name=§4§l§nMAX電路
-betterquesting.quest.2rrP1wt_Qt2LlOqDppdjLQ.desc=普朗克尺度電路，本整合包的終極電路……暫時。這些MAX級電路是製作頂級UXV部件與星門所必需的。%n%n[note]你需要量子電路的奈米晶片組裝複合體才能開始製作。%n%n你知道嗎？普朗克尺度流形雖然在內部被歸類為電路，但它並不會參與奈米晶片組裝複合體的校準。不過，普朗克尺度電路板可以。[/note]%n%n[warn]無論是誰告訴你“這些電路永遠不會被移除”的傳言，都是在騙你……不過，也許？[/warn]
+betterquesting.quest.2rrP1wt_Qt2LlOqDppdjLQ.name=§4§l§nMAX電路板
+betterquesting.quest.2rrP1wt_Qt2LlOqDppdjLQ.desc=普朗克尺度電路，本整合包的終極電路板……暫時。這些MAX級電路是製作頂級UXV部件與星門所必需的。%n%n[note]你需要量子電路板的奈米晶片組裝複合體才能開始製作。%n%n你知道嗎？普朗克尺度流形雖然在內部被歸類為電路，但它並不會參與奈米晶片組裝複合體的校準。不過，普朗克尺度電路板可以。[/note]%n%n[warn]無論是誰告訴你“這些電路永遠不會被移除”的傳言，都是在騙你……不過，也許？[/warn]
 
 # Quest: Strings Upon Strings Upon Strings Upon-
 betterquesting.quest.3jUq4tkmRty9x5vvnqtD9w.name=§4§l§n線纏著弦，弦纏著線……
@@ -4859,7 +4859,7 @@ betterquesting.quest.KNM9ICNAQIa8NaFoXwCC9g.desc=還沒玩夠？開個新周目�
 
 # Quest: It Gets to a Point
 betterquesting.quest.Ni-YWTVjSz6Bk_MeC0hIiQ.name=§4§l§n終於走到這裡
-betterquesting.quest.Ni-YWTVjSz6Bk_MeC0hIiQ.desc=晶圓加工還沒結束——好吧，現在算是暫時告一段落了。%n%n無盡晶圓是粗製晶圓的最終形態，需直接在諸神之鍛爐中鑄造而成。誰能想到矽的潛力能撐到這一步？%n%n么米功率IC用於磁物質奈米蜂群、MAX電路和UXV級能源倉。%n%n[note]你需要一臺UXV級電壓的雷射蝕刻機來切割它們。%n%n么米功率IC需要在異星鑄造塔中以夸克膠子電漿進行塗層處理，透過超頻來抵達MAX級的電壓要求。此步驟無法在大規模固化器中完成。[/note]
+betterquesting.quest.Ni-YWTVjSz6Bk_MeC0hIiQ.desc=晶圓加工還沒結束——好吧，現在算是暫時告一段落了。%n%n無盡晶圓是粗製晶圓的最終形態，需直接在諸神之鍛爐中鑄造而成。誰能想到矽的潛力能撐到這一步？%n%n么米功率IC用於磁物質奈米蜂群、MAX電路板和UXV級能源倉。%n%n[note]你需要一臺UXV級電壓的雷射蝕刻機來切割它們。%n%n么米功率IC需要在異星鑄造塔中以夸克膠子電漿進行塗層處理，透過超頻來抵達MAX級的電壓要求。此步驟無法在大規模固化器中完成。[/note]
 
 # Quest: The Factory Must Grow!
 betterquesting.quest.OCv5OWo6Q9KDfqe1w0ET9w.name=§6§l§n廠房定要擴大！
@@ -4895,7 +4895,7 @@ betterquesting.quest.iLn_-6-LSk-wEOfi9muW3w.desc=既然你搞到了永恆，那�
 
 # Quest: A Minor Roadblock
 betterquesting.quest.itcSYyc3Tdq9Q1qrP5RoEg.name=§4§l§n只是個小小的路障
-betterquesting.quest.itcSYyc3Tdq9Q1qrP5RoEg.desc=MAX電路啊……真的要結束了嗎？
+betterquesting.quest.itcSYyc3Tdq9Q1qrP5RoEg.desc=MAX電路板啊……真的要結束了嗎？
 
 # Quest: UNLIMITED COMPUTATION
 betterquesting.quest.iu0rzCLcR_K7Oc2EDtQqgg.name=§6§l§n無限算力
@@ -6207,7 +6207,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5Q.desc=你的玄鋼護甲可以透過�
 
 # Quest: Carbon Parts
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.name=碳纖零件
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.desc=這些零件是你最愛的奈米裝甲所需要的。%n%n[note]想要真正完成奈米裝甲，你還需要EV電路和奈米晶體（請檢視“EU的儲存與變壓”任務章節）。[/note]%n%n[warn]IC2正逐步從整合包中移除！請檢視附近的“模組化魔改”任務以獲取替代方案。[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.desc=這些零件是你最愛的奈米裝甲所需要的。%n%n[note]想要真正完成奈米裝甲，你還需要EV電路板和奈米晶體（請檢視“EU的儲存與變壓”任務章節）。[/note]%n%n[warn]IC2正逐步從整合包中移除！請檢視附近的“模組化魔改”任務以獲取替代方案。[/warn]
 
 # Quest: Seeing Things Brighter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADCA.name=看得更清楚
@@ -7378,11 +7378,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMSA.desc=研磨處理線是另一種可�
 
 # Quest: Infinity Coil Upgrade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkQ.name=§6§l升級無盡線圈
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkQ.desc=以宇宙自身的偉力熔鍊。%n%n這種不可思議的材料在此前似乎根本無法加工成線圈方塊。其特性極為理想，即便在極端溫度下也非常穩定，可也正是這一點，導致它無法被卷繞成線圈。%n%n不過，當你開始考慮引入更“智慧”的東西時，情況便發生了改變。透過整合一個濕件主機或更高階的UHV電路，無盡線圈終於問世，由你耗費數月創造出的電路上那永不倦怠的智慧之眼所掌控。從此，這些眼睛將守護你的多方塊機器。%n%n提供11701K的基礎爐溫。你可以用它來升級工業高爐，不過到了這個階段，它更可能是用在巨型工業高爐或超維度電漿鍛爐上。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkQ.desc=以宇宙自身的偉力熔鍊。%n%n這種不可思議的材料在此前似乎根本無法加工成線圈方塊。其特性極為理想，即便在極端溫度下也非常穩定，可也正是這一點，導致它無法被卷繞成線圈。%n%n不過，當你開始考慮引入更“智慧”的東西時，情況便發生了改變。透過整合一個濕件主機或更高階的UHV電路板，無盡線圈終於問世，由你耗費數月創造出的電路上那永不倦怠的智慧之眼所掌控。從此，這些眼睛將守護你的多方塊機器。%n%n提供11701K的基礎爐溫。你可以用它來升級工業高爐，不過到了這個階段，它更可能是用在巨型工業高爐或超維度電漿鍛爐上。
 
 # Quest: Eternal Coil Upgrade
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkw.name=§9§l§n§6§l升級永恆線圈
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkw.desc=超越時空，突破現實。你已窺見從未存在於世間的事物，將其化作流體，又凝為固體。克服重重困難之後，它終於穩定了下來。注視著它，你覺得你幾乎可以將整個宇宙握在手中。%n%n從前，你將幾乎所有材料結合為一，創造了永恆奇點，一個無限緻密的宇宙樣本。然而，想要將這一過程在超維度電漿鍛爐的量級上自動化是無比荒謬的，幾乎會使你的進度完全停滯，好在你發現了充能超立方體。想要在根本上展現出時空本身，你首先得展現出第四個空間維度，這就是超立方體的含義：一個四維的立方體。%n%n立方體！你周圍的一切幾乎都由立方體組成。僅僅是對四維世界現實的一瞥，便使你成功地利用它來凝結時空，將其隨心所欲地塑造成任何完整的永恆造物。無需多言，連生物電路也不足以維持這一極端緻密、無比穩定的多維材料。%n%n永恆線圈是目前最終極的升級，提供13,501K的基礎爐溫。讓你的超維度電漿鍛爐大放異彩吧!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMkw.desc=超越時空，突破現實。你已窺見從未存在於世間的事物，將其化作流體，又凝為固體。克服重重困難之後，它終於穩定了下來。注視著它，你覺得你幾乎可以將整個宇宙握在手中。%n%n從前，你將幾乎所有材料結合為一，創造了永恆奇點，一個無限緻密的宇宙樣本。然而，想要將這一過程在超維度電漿鍛爐的量級上自動化是無比荒謬的，幾乎會使你的進度完全停滯，好在你發現了充能超立方體。想要在根本上展現出時空本身，你首先得展現出第四個空間維度，這就是超立方體的含義：一個四維的立方體。%n%n立方體！你周圍的一切幾乎都由立方體組成。僅僅是對四維世界現實的一瞥，便使你成功地利用它來凝結時空，將其隨心所欲地塑造成任何完整的永恆造物。無需多言，連生物電路板也不足以維持這一極端緻密、無比穩定的多維材料。%n%n永恆線圈是目前最終極的升級，提供13,501K的基礎爐溫。讓你的超維度電漿鍛爐大放異彩吧!
 
 # Quest: Algae Pond
 betterquesting.quest.Ds_ok-hRS2ODJNs3LUP9kw.name=§6§l藻類池塘
@@ -7490,7 +7490,7 @@ betterquesting.quest.tQecVBhjRRyfR3sqeNBrtA.desc=如果你覺得普通的超級�
 
 # Quest: Tier 4 Manipulating
 betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.name=§6§lT4 操控
-betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.desc=§l終於，你做到了§r！現在你可以透過將§3無盡強化脈衝控制方塊§r替換為§3時空連續體撕裂方塊§r，將量子操縱者升級至最高等級。這次終極升級解鎖了所有產線跳過能力，包括跳過§6生物細胞、凱夫拉，以及拉多X+異氙§r的能力。%n%n即便完成了之前的各種升級，這最後一步仍遙不可及。對早期量子操縱者使用的基礎元件，如生物電路，跳過其化學產線的能力始終無法實現——§o到目前為止§r。你需要一種遠超以往的全新材料才能達到量子操縱者的理論極限，它深藏在矽岩產線的後半段。%n%n你所需的材料將成為你的巔峰之作——§3超固態超能矽岩黑體§r。這種非凡物質既是完美黑體（能吸收所有輻射而無反射），又表現為超固態，能像零黏度的流體般流動。將這些特性結合於單一材料中，可確保在任何電壓等級（甚至包括MAX等級！）下都能實現穩定、毫不費力的量子能量流。%n%n憑藉這一突破，你的量子操縱者已完全解鎖，能夠製作高至UHV階段的元件。
+betterquesting.quest.tXVcSBqQQnS4tF8VoMqr6Q.desc=§l終於，你做到了§r！現在你可以透過將§3無盡強化脈衝控制方塊§r替換為§3時空連續體撕裂方塊§r，將量子操縱者升級至最高等級。這次終極升級解鎖了所有產線跳過能力，包括跳過§6生物細胞、凱夫拉，以及拉多X+異氙§r的能力。%n%n即便完成了之前的各種升級，這最後一步仍遙不可及。對早期量子操縱者使用的基礎元件，如生物電路板，跳過其化學產線的能力始終無法實現——§o到目前為止§r。你需要一種遠超以往的全新材料才能達到量子操縱者的理論極限，它深藏在矽岩產線的後半段。%n%n你所需的材料將成為你的巔峰之作——§3超固態超能矽岩黑體§r。這種非凡物質既是完美黑體（能吸收所有輻射而無反射），又表現為超固態，能像零黏度的流體般流動。將這些特性結合於單一材料中，可確保在任何電壓等級（甚至包括MAX等級！）下都能實現穩定、毫不費力的量子能量流。%n%n憑藉這一突破，你的量子操縱者已完全解鎖，能夠製作高至UHV階段的元件。
 
 # Quest: Tier 3 Manipulating
 betterquesting.quest.vK1Ed8HPTTms4QxfaA_P8Q.name=§6§lT3 操控
@@ -7543,7 +7543,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.desc=生產圓石的終極機器。�
 
 # Quest: You Smell Like a Distillery!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.name=§5§l你聞起來像掉到了酒桶裡！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=在你處理裂解燃料或熱解爐配方時，這個狠角色會極大地提高副產率。如此一來你就可以更有效率的製造工業TNT、塑膠、聚四氟乙烯，以及其他塑膠產品。你也需要這臺機器來完成你的鉑線。%n%n你需要在超淨間中製造EV電路，然後才能製作這臺機器。%n%n至於倉室，你可以自由選擇。一個MV能源倉就可以勝任大多數有用的配方。兩個MV能源倉或者一個HV能源倉就可以覆蓋除了汙染物或丙酮外幾乎所有的配方。 你還需要一個輸入倉、至少五個輸出倉，以及一個輸出匯流排用於收集那些固體產出。%n%nNEI不太適合確定哪種裂化方案最佳，點選下面的石油裂化機wiki頁面連結來獲得一張方便又清晰的完整配置表格！%n%n[url]https://wiki.gtnewhorizons.com/wiki/Oil_Cracking_Unit[/url]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=在你處理裂解燃料或熱解爐配方時，這個狠角色會極大地提高副產率。如此一來你就可以更有效率的製造工業TNT、塑膠、聚四氟乙烯，以及其他塑膠產品。你也需要這臺機器來完成你的鉑線。%n%n你需要在超淨間中製造EV電路板，然後才能製作這臺機器。%n%n至於倉室，你可以自由選擇。一個MV能源倉就可以勝任大多數有用的配方。兩個MV能源倉或者一個HV能源倉就可以覆蓋除了汙染物或丙酮外幾乎所有的配方。 你還需要一個輸入倉、至少五個輸出倉，以及一個輸出匯流排用於收集那些固體產出。%n%nNEI不太適合確定哪種裂化方案最佳，點選下面的石油裂化機wiki頁面連結來獲得一張方便又清晰的完整配置表格！%n%n[url]https://wiki.gtnewhorizons.com/wiki/Oil_Cracking_Unit[/url]
 
 # Quest: Bring Me My Vat of Polyethylene!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.name=§5§l給我一大桶聚乙烯！
@@ -7591,7 +7591,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8w.desc=凜冰冷凍機是§5§l真空�
 
 # Quest: Hephaestus' EBF
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9A.name=§9§l赫菲斯托斯的工業高爐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9A.desc=熾焱高爐能以難以置信的速度處理物品。想要正常使用這臺機器，你需要給它持續供應烈焰之熾焱，還得配上好的線圈。%n%n[note]這臺多方塊機器可以在IV階段製造，但需要兩個ZPM電路。[/note]%n%n譯者注：熾焱高爐沒有電壓等級帶來的額外爐溫獎勵，其餘機制和工業高爐一致。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9A.desc=熾焱高爐能以難以置信的速度處理物品。想要正常使用這臺機器，你需要給它持續供應烈焰之熾焱，還得配上好的線圈。%n%n[note]這臺多方塊機器可以在IV階段製造，但需要兩個ZPM電路板。[/note]%n%n譯者注：熾焱高爐沒有電壓等級帶來的額外爐溫獎勵，其餘機制和工業高爐一致。
 
 # Quest: Spools and Spools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9Q.name=§9§l繞了一圈又一圈
@@ -7627,11 +7627,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJEA.desc=嗯……如果將64個蒸餾�
 
 # Quest: Circuit Assembly Line
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKQ.name=§d§l電路裝配線
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKQ.desc=這些用於構建4臺7片的電路裝配線，足夠滿足一個系列的電路製造。如果你僅需要某個系列中的一種電路（比如微型處理器），那就把它除以4。%n%n假設你在LuV任務章節已經獲得了所需的壓印電路，現在就可以開始製造晶體系列的電路裝配線了。我們一上來就要求4臺是因為每臺電路裝配線只能銘刻一次，無法移除銘刻。是的，你想用電路裝配線製造的每種電路都需要一臺專用電路裝配線。%n%n作為裝配線，它與普通裝配線的工作方式一致，每個匯流排按順序提供原料，但由於是單臺專用，所以用起來就容易多了，同時合成表也便宜多了。%n%n電路裝配線使用“封裝”的原料，一次可以製造16個電路（除了ULV和LV的），節約時間、EU還有焊錫（或鉍鉛合金）。在組裝機中使用16個對應物品和聚乙烯可以製造封裝元件。%n%n[note]順便一提，你可以選擇安裝更高階的倉/匯流排，不過合成時的原料順序還是得與NEI一致。另外，電路裝配線可以 4/4 超頻。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKQ.desc=這些用於構建4臺7片的電路裝配線，足夠滿足一個系列的電路製造。如果你僅需要某個系列中的一種電路（比如微型處理器），那就把它除以4。%n%n假設你在LuV任務章節已經獲得了所需的壓印電路板，現在就可以開始製造晶體系列的電路裝配線了。我們一上來就要求4臺是因為每臺電路裝配線只能銘刻一次，無法移除銘刻。是的，你想用電路裝配線製造的每種電路都需要一臺專用電路裝配線。%n%n作為裝配線，它與普通裝配線的工作方式一致，每個匯流排按順序提供原料，但由於是單臺專用，所以用起來就容易多了，同時合成表也便宜多了。%n%n電路裝配線使用“封裝”的原料，一次可以製造16個電路（除了ULV和LV的），節約時間、EU還有焊錫（或鉍鉛合金）。在組裝機中使用16個對應物品和聚乙烯可以製造封裝元件。%n%n[note]順便一提，你可以選擇安裝更高階的倉/匯流排，不過合成時的原料順序還是得與NEI一致。另外，電路裝配線可以 4/4 超頻。[/note]
 
 # Quest: Cool Guys Don't Look At Explosions
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxQ.name=§9§l真男人從來不回頭看爆炸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxQ.desc=他們用自動化來完成。%n%n和普通的聚爆壓縮機相比，§5§l進階聚爆壓縮機§r擁有§2§l2倍§r速度，並提供§6§l1+（電壓等級/2）§r並行數。%n%n[note]這臺多方塊機器可以在IV階段製造，不過還要用到鉑線材料和ZPM電路。[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxQ.desc=他們用自動化來完成。%n%n和普通的聚爆壓縮機相比，§5§l進階聚爆壓縮機§r擁有§2§l2倍§r速度，並提供§6§l1+（電壓等級/2）§r並行數。%n%n[note]這臺多方塊機器可以在IV階段製造，不過還要用到鉑線材料和ZPM電路板。[/note]
 
 # Quest: Let Me Fabricate a New Universe...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKxg.name=§b§l讓我製造一個新的宇宙……
@@ -7723,7 +7723,7 @@ betterquesting.quest.d5Fxz8ClQQCXy9GN_m9BrA.desc=您到底需要多少石油？�
 
 # Quest: An End To Deforestation
 betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.name=§9§l濫砍濫伐的終結
-betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.desc=這臺多方塊機器是獲取大量木材的完美解決方案。您是否在為木炭或者苯發電時所需的大量木材發愁？您是否苦於無法獲取大量堅果來榨取種子油？亦或者因為裝飾性樹葉的來源而大傷腦筋？踏破鐵鞋無覓處，得來全不費工夫！%n%n原木擬生場可以種植遊戲內幾乎全部種類的樹木並且輸出你砍樹時會獲得的正常掉落。這一切都被整合在緊湊的空間中，無需忍受樹木真實生長時帶來的卡頓。%n%n首先，將任意一種樹苗放入控制器GUI中。其次，在輸入匯流排中放入你所需求的產物所對應的工具。最後，給機器通電，並且開啟它。接著你就準備好被產物所淹沒吧。%n%n樹的不同部分需要不同種類的工具。%n - 鋸對應木材%n - 剪枝器（GT）對應樹苗%n - 剪刀對應樹葉%n - 小刀對應水果%n高階工具（鏈鋸，剪枝器（林業），……）會提供更多產出！具體請檢視控制器的tooltip%n%n您甚至可以同時使用多個不同的工具，機器就能同時收穫多個不同的產品！%n%n請注意，使用的工具會緩慢失去耐久值。因此，為了長期執行，你可能需要設定一些自動更換功能。%n%n[note]在建造時你也可以用草方塊代替泥土。[/note]%n%n[warn]雖然這臺機器在IV階段就能製作，但在IV初期卻相當昂貴，需要16個 ZPM電路和一些高階合金。[/warn]
+betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.desc=這臺多方塊機器是獲取大量木材的完美解決方案。您是否在為木炭或者苯發電時所需的大量木材發愁？您是否苦於無法獲取大量堅果來榨取種子油？亦或者因為裝飾性樹葉的來源而大傷腦筋？踏破鐵鞋無覓處，得來全不費工夫！%n%n原木擬生場可以種植遊戲內幾乎全部種類的樹木並且輸出你砍樹時會獲得的正常掉落。這一切都被整合在緊湊的空間中，無需忍受樹木真實生長時帶來的卡頓。%n%n首先，將任意一種樹苗放入控制器GUI中。其次，在輸入匯流排中放入你所需求的產物所對應的工具。最後，給機器通電，並且開啟它。接著你就準備好被產物所淹沒吧。%n%n樹的不同部分需要不同種類的工具。%n - 鋸對應木材%n - 剪枝器（GT）對應樹苗%n - 剪刀對應樹葉%n - 小刀對應水果%n高階工具（鏈鋸，剪枝器（林業），……）會提供更多產出！具體請檢視控制器的tooltip%n%n您甚至可以同時使用多個不同的工具，機器就能同時收穫多個不同的產品！%n%n請注意，使用的工具會緩慢失去耐久值。因此，為了長期執行，你可能需要設定一些自動更換功能。%n%n[note]在建造時你也可以用草方塊代替泥土。[/note]%n%n[warn]雖然這臺機器在IV階段就能製作，但在IV初期卻相當昂貴，需要16個 ZPM電路板和一些高階合金。[/warn]
 
 # Quest: Can It!
 betterquesting.quest.gMRufFtRRRa30LE21boFNQ.name=§5§l把它裝進罐子裡！（Can it!）
@@ -8240,7 +8240,7 @@ betterquesting.quest.DPl-UUZfTAa-ezdD_m8Huw.desc=要完成這條核融合產線�
 
 # Quest: I'll teach you... how to Praise the Sun!
 betterquesting.quest.Hn_igsosSbKsnATeYgvPgw.name=§9§l我來教你……怎麼讚美太陽！
-betterquesting.quest.Hn_igsosSbKsnATeYgvPgw.desc=太長；不看：這個任務需求的機械方塊數量是造一個最強的太陽能塔用的，這個塔要超多不鏽鋼，鈦，HV電路，加上一些其他材料，但是它能產出大概2A LuV。%n%n你嘗試用過太陽能板嗎？可能造過一些？我問你哦，這些太陽能板有什麼共同點……它們不是產蒸汽就是直接產EU，太沒效率了。所有人都忘記了這件事！%n%n單方塊太陽很適合塞在任何有太陽的地方，給機器提供一個穩定的供電。然而，鑑於EU的儲存和運輸相當容易，來嘗試點好東西。不同於直接發電，用周圍環狀排列太陽能反射器將這些太陽能光束集中到中間結構上，然後沐浴在太陽系最強的核融合反應爐的超強力量中吧！%n%n（如果你最後造了更大的核融合，別來和我咬文嚼字）%n%n大致的原理就是，將太陽光直接照在一種比水更好的儲能流體上，太陽能鹽。太陽能塔會加熱所有塔中儲存的流體，但是注意，如果裡面有太多冷的太陽能鹽，它們會吸走大部分熱量從而降低整體的執行效率。%n%n實際上太陽能塔的熱量區間是0到100000,但它只會加熱30000以上熱量的太陽能鹽。每個迴圈中增加的能量取決於反射器的數量以及當前溫度。理想溫度剛好是上限的一半,50000熱量。為了讓太陽能塔工作在最高效率上，你需要慢慢加入冷的太陽能鹽以維持恰當的溫度。具體以什麼流速加入太陽能鹽就留給你自己算了，這取決於你所使用的反射器的數量。%n%n在以上的基礎上像用熱冷卻液那樣透過熱交換產生蒸汽或過熱蒸汽。如果你想要太陽能塔的工作效率最大化，請把它建在永遠白天的個人維度裡。
+betterquesting.quest.Hn_igsosSbKsnATeYgvPgw.desc=太長；不看：這個任務需求的機械方塊數量是造一個最強的太陽能塔用的，這個塔要超多不鏽鋼，鈦，HV電路板，加上一些其他材料，但是它能產出大概2A LuV。%n%n你嘗試用過太陽能板嗎？可能造過一些？我問你哦，這些太陽能板有什麼共同點……它們不是產蒸汽就是直接產EU，太沒效率了。所有人都忘記了這件事！%n%n單方塊太陽很適合塞在任何有太陽的地方，給機器提供一個穩定的供電。然而，鑑於EU的儲存和運輸相當容易，來嘗試點好東西。不同於直接發電，用周圍環狀排列太陽能反射器將這些太陽能光束集中到中間結構上，然後沐浴在太陽系最強的核融合反應爐的超強力量中吧！%n%n（如果你最後造了更大的核融合，別來和我咬文嚼字）%n%n大致的原理就是，將太陽光直接照在一種比水更好的儲能流體上，太陽能鹽。太陽能塔會加熱所有塔中儲存的流體，但是注意，如果裡面有太多冷的太陽能鹽，它們會吸走大部分熱量從而降低整體的執行效率。%n%n實際上太陽能塔的熱量區間是0到100000,但它只會加熱30000以上熱量的太陽能鹽。每個迴圈中增加的能量取決於反射器的數量以及當前溫度。理想溫度剛好是上限的一半,50000熱量。為了讓太陽能塔工作在最高效率上，你需要慢慢加入冷的太陽能鹽以維持恰當的溫度。具體以什麼流速加入太陽能鹽就留給你自己算了，這取決於你所使用的反射器的數量。%n%n在以上的基礎上像用熱冷卻液那樣透過熱交換產生蒸汽或過熱蒸汽。如果你想要太陽能塔的工作效率最大化，請把它建在永遠白天的個人維度裡。
 
 # Quest: Turbine Housing
 betterquesting.quest.J2ok3rFLS7quyIlHPaN0FQ.name=§2§l§n渦輪倉
@@ -8369,7 +8369,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADFQ.desc=在MV攪拌機中攪拌紅寶�
 
 # Quest: Lapotron Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJg.name=蘭波頓水晶
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADJg.desc=使用你的新HV攪拌機，你可以製作蘭波頓粉末。將之放入高壓釜來製作未加工的蘭波頓水晶。使用EV組裝機及高階電路，你可以製作能儲存1千萬EU的蘭波頓水晶。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADJg.desc=使用你的新HV攪拌機，你可以製作蘭波頓粉末。將之放入高壓釜來製作未加工的蘭波頓水晶。使用EV組裝機及高階電路板，你可以製作能儲存1千萬EU的蘭波頓水晶。
 
 # Quest: EV Battery Buffer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE7g.name=EV電池箱
@@ -15019,7 +15019,7 @@ betterquesting.quest.AVth34rQQ3iuYeQaKrsSQg.desc=§1§l物質操縱者§r是一�
 
 # Quest: Matter Manipulator MKII
 betterquesting.quest.D6AFvlXcQbqDncL9y2HXEw.name=§d§l物質操縱者 MK-II
-betterquesting.quest.D6AFvlXcQbqDncL9y2HXEw.desc=MK-II版本是物質操縱者系列中次頂級的升級型號。它更加強大，其能量儲存是上一代的§210倍§r，方塊作用範圍達§2128格§r，並且放置速度達到§2每秒256個方塊§r。除了具備MK-I的全部功能外，你現在還可使用§5§l兩種強大的新模式§r：%n%n§5§l複製/貼上模式§r：選擇一片區域，複製其中的方塊，並可根據需要多次貼上。與GT和AE2相容性最佳。%n%n§5§l移動模式§r：與複製/貼上類似，但會物理上的遷移已放置的方塊。%n%n以下是一份可由物質操縱者複製/移動的內容簡表，更完整的列表請參閱Readme文件，但此表應能讓你大致瞭解它的功能之多。%n%n§3§l格雷科技：§r%n- 管道/線纜連線%n- 機器顏色%n- 機器朝向與輸出方向%n- 基礎機器設定（自動輸出等）%n- 倉室設定（排序、堆疊限制等）%n- 多方塊機器設定（溢位保護、批處理模式等）%n- 多方塊結構旋轉%n- 覆蓋板%n- 強紅石訊號輸出%n- 自定義名稱%n- 虛擬電路%n- 匯流排/倉室的物品/流體鎖定%n- 模式（適用於使用新式模式系統的機器）%n- 快閃記憶體資料%n- TecTech機器輸入引數%n- ME輸出匯流排/倉室容量%n%n§3§lAE2：§r%n- 顏色設定%n- 朝向%n- 配置%n- 升級元件%n- 自定義名稱%n- 儲存元件（將自動配置元件並安裝其升級）%n- 任何樣板（包括編碼樣板，但是空白樣板不行）%n- 優先順序設定%n- P2P設定%n- 礦物辭典/常規過濾器%n%n§9§3§l高階複製選項：§r%n%n在複製/貼上模式下，環形選單中的§5§l高階選項§r子選單會提供兩項強大的開關：%n - §5§l§5§l連線到外部集線器§r：在複製連線到複製區域外的無線集線器的無線接入器時，貼上的無線接入器會連線到同一集線器。%n - §5§l自動P2P介面§r：將被複制區域內的ME介面自動替換為ME介面P2P，並在貼上時自動放置連線的介面P2P以保持一致的物品路由。
+betterquesting.quest.D6AFvlXcQbqDncL9y2HXEw.desc=MK-II版本是物質操縱者系列中次頂級的升級型號。它更加強大，其能量儲存是上一代的§210倍§r，方塊作用範圍達§2128格§r，並且放置速度達到§2每秒256個方塊§r。除了具備MK-I的全部功能外，你現在還可使用§5§l兩種強大的新模式§r：%n%n§5§l複製/貼上模式§r：選擇一片區域，複製其中的方塊，並可根據需要多次貼上。與GT和AE2相容性最佳。%n%n§5§l移動模式§r：與複製/貼上類似，但會物理上的遷移已放置的方塊。%n%n以下是一份可由物質操縱者複製/移動的內容簡表，更完整的列表請參閱Readme文件，但此表應能讓你大致瞭解它的功能之多。%n%n§3§l格雷科技：§r%n- 管道/線纜連線%n- 機器顏色%n- 機器朝向與輸出方向%n- 基礎機器設定（自動輸出等）%n- 倉室設定（排序、堆疊限制等）%n- 多方塊機器設定（溢位保護、批處理模式等）%n- 多方塊結構旋轉%n- 覆蓋板%n- 強紅石訊號輸出%n- 自定義名稱%n- 虛擬電路板%n- 匯流排/倉室的物品/流體鎖定%n- 模式（適用於使用新式模式系統的機器）%n- 快閃記憶體資料%n- TecTech機器輸入引數%n- ME輸出匯流排/倉室容量%n%n§3§lAE2：§r%n- 顏色設定%n- 朝向%n- 配置%n- 升級元件%n- 自定義名稱%n- 儲存元件（將自動配置元件並安裝其升級）%n- 任何樣板（包括編碼樣板，但是空白樣板不行）%n- 優先順序設定%n- P2P設定%n- 礦物辭典/常規過濾器%n%n§9§3§l高階複製選項：§r%n%n在複製/貼上模式下，環形選單中的§5§l高階選項§r子選單會提供兩項強大的開關：%n - §5§l§5§l連線到外部集線器§r：在複製連線到複製區域外的無線集線器的無線接入器時，貼上的無線接入器會連線到同一集線器。%n - §5§l自動P2P介面§r：將被複制區域內的ME介面自動替換為ME介面P2P，並在貼上時自動放置連線的介面P2P以保持一致的物品路由。
 
 # Quest: Ozonation
 betterquesting.quest.E9atHD5uR9CC0G1qEeFDmQ.name=§d§l臭氧化
@@ -15095,7 +15095,7 @@ betterquesting.quest.VAZfRG1BQt6JwqRQ_PNP0g.desc=隨著你的工廠規模不斷�
 
 # Quest: The Quest for Holy Water
 betterquesting.quest.WPoaCPPwTBSyn2dmh5DcBA.name=§5§l§n尋求聖水
-betterquesting.quest.WPoaCPPwTBSyn2dmh5DcBA.desc=在搭建完UHV的淨化水產線之後，你可能已經休息了一會兒了，這是你應得的。但既然你要開始製作光學電路，你的6級淨化水已經不夠用了。使用除氣機，你可以去除之前工序中殘留的全部淨化劑，並製造出更純淨的水，純淨度足以用於光學電路。%n%n機器的Tooltip和要求清單看起來很嚇人。試著將其分解成可逐步解決的小單元，你將很快找到解決方案。%n%n[note]中文wiki 淨化水線/殘留淨化劑除氣機淨化單元：  §1§n[url]https://gtnh.huijiwiki.com/p/94112[/url]§r[/note]
+betterquesting.quest.WPoaCPPwTBSyn2dmh5DcBA.desc=在搭建完UHV的淨化水產線之後，你可能已經休息了一會兒了，這是你應得的。但既然你要開始製作光學電路板，你的6級淨化水已經不夠用了。使用除氣機，你可以去除之前工序中殘留的全部淨化劑，並製造出更純淨的水，純淨度足以用於光學電路板。%n%n機器的Tooltip和要求清單看起來很嚇人。試著將其分解成可逐步解決的小單元，你將很快找到解決方案。%n%n[note]中文wiki 淨化水線/殘留淨化劑除氣機淨化單元：  §1§n[url]https://gtnh.huijiwiki.com/p/94112[/url]§r[/note]
 
 # Quest: High Energy Laser Purification
 betterquesting.quest.WqDynhbQQ4GdNMKm0BlbcQ.name=§2§l§n高能雷射淨化

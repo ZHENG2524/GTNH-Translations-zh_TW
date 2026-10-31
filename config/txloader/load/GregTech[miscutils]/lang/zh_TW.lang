@@ -3474,7 +3474,7 @@ item.itemDustTinyRareEarthIII.name=小撮稀土（III）粉
 item.itemDustSmallRareEarthIII.name=小堆稀土（III）粉
 
 # Added 16/10/19
-item.BioRecipeSelector.name=程式設計生物電路
+item.BioRecipeSelector.name=程式設計生物電路板
 item.FermentationBase.name=發酵基單元
 item.ureamix.name=尿素混合物單元
 item.liquidresin.name=液態樹脂單元

@@ -147,8 +147,8 @@ tooltip.bw.mb_via.name=%s§7，來自 §2BartWorks
 tooltip.bw.item.circuit.tagged.imprint=一個壓印%s
 tooltip.bw.item.circuit.tagged.sliced=一個切片%s
 
-tooltip.item.CircuitParts.RawImprintBoard=壓印電路所需的基板原料
-tooltip.item.CircuitParts.ImprintBoard=壓印電路所需的基板原料
+tooltip.item.CircuitParts.RawImprintBoard=壓印電路板所需的基板原料
+tooltip.item.CircuitParts.ImprintBoard=壓印電路板所需的基板原料
 
 tooltip.teslastaff.0.name=沒有保修!
 tooltip.labmodule.0.name=用於改變生物實驗室工作模式的模組
@@ -253,7 +253,7 @@ item.BISOPelletCompound.name=BISO複合材料
 item.BurnedOutTRISOPelletBall.name=枯竭TRISO燃料球
 item.BurnedOutTRISOPellet.name=枯竭TRISO燃料丸
 
-item.CircuitParts.Imprint.name=壓印電路
+item.CircuitParts.Imprint.name=壓印電路板
 item.CircuitParts.Sliced.name=切片電路
 item.CircuitParts.RawImprintBoard.name=壓印基板原料
 item.CircuitParts.ImprintBoard.name=壓印基板
@@ -374,7 +374,7 @@ BW_GlasBlocks2.name=硼玻璃方塊
 BW_GlasBlocks2.0.name=超時空強化硼玻璃方塊
 tooltip.bw.high_temp_gas_cooled_reactor.material=供高溫氣冷反應爐使用
 tooltip.bw.item.circuit.tagged=電路
-tooltip.bw.item.circuit.imprint=一個壓印電路
+tooltip.bw.item.circuit.imprint=一個壓印電路板
 tooltip.bw.item.circuit.sliced=一個切片電路
 BW.infoData.htgr.mode=模式：%s
 BW.infoData.htgr.mode.emptying=清空
